@@ -1,17 +1,23 @@
 {
-  "Time": "2025-10-31T03:47:42.0030731Z",
+  "Time": "2025-10-31T03:49:42.1189033Z",
   "Players": [
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "867:21"
+      "Time": "869:21"
+    },
+    {
+      "Name": "9izda_b0l",
+      "Steam": "76561199735387211",
+      "Score": 0,
+      "Time": "00:39"
     },
     {
       "Name": "xyre",
       "Steam": "76561199105830408",
-      "Score": 99,
-      "Time": "39:10"
+      "Score": 113,
+      "Time": "41:10"
     },
     {
       "Name": "RE:start",
@@ -22,8 +28,8 @@
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 38,
-      "Time": "06:21"
+      "Score": 46,
+      "Time": "08:21"
     },
     {
       "Name": "realpious",
@@ -40,14 +46,20 @@
     {
       "Name": "лабубу",
       "Steam": "76561198806792145",
-      "Score": 96,
+      "Score": 100,
       "Time": "??:??"
+    },
+    {
+      "Name": "dämmerlicht",
+      "Steam": "76561198774709045",
+      "Score": 2,
+      "Time": "01:39"
     },
     {
       "Name": "audemars",
       "Steam": "76561199818472808",
       "Score": 51,
-      "Time": "25:24"
+      "Time": "27:25"
     }
   ]
 }
