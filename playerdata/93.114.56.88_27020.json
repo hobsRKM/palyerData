@@ -1,10 +1,22 @@
 {
-  "Time": "2025-11-01T22:14:28.3123753Z",
+  "Time": "2025-11-01T22:16:28.4736881Z",
   "Players": [
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Exotic",
+      "Steam": "76561199564443368",
+      "Score": 0,
+      "Time": "487:28"
+    },
+    {
+      "Name": "silly me",
+      "Steam": "76561199730584477",
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -16,7 +28,13 @@
     {
       "Name": "xz",
       "Steam": "76561198989992934",
-      "Score": 4,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cs2 AI",
+      "Steam": "76561198774063114",
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -28,8 +46,8 @@
     {
       "Name": "Allahu Akhbar #2",
       "Steam": "76561198774079070",
-      "Score": 6,
-      "Time": "76:09"
+      "Score": 2,
+      "Time": "78:09"
     },
     {
       "Name": "Rambo88",
@@ -41,12 +59,12 @@
       "Name": "Allahu Akhbar #3",
       "Steam": "76561199612017084",
       "Score": 0,
-      "Time": "15:58"
+      "Time": "17:58"
     },
     {
       "Name": ",",
       "Steam": "76561199828483357",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -58,26 +76,32 @@
     {
       "Name": "\uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8\uD835\uDCF6\uD835\uDD02",
       "Steam": "76561199230497763",
-      "Score": 0,
-      "Time": "17:50"
+      "Score": 9,
+      "Time": "19:51"
     },
     {
       "Name": "Knedlik",
       "Steam": "76561199168508867",
-      "Score": 4,
-      "Time": "05:31"
+      "Score": 13,
+      "Time": "07:31"
     },
     {
       "Name": "RADIO MARYJA",
       "Steam": "76561198778977416",
-      "Score": 2,
-      "Time": "02:12"
+      "Score": 6,
+      "Time": "04:13"
     },
     {
       "Name": "Wanda",
       "Steam": "76561199307657735",
+      "Score": 3,
+      "Time": "14:53"
+    },
+    {
+      "Name": "999",
+      "Steam": "76561198785142434",
       "Score": 0,
-      "Time": "12:53"
+      "Time": "180:37"
     }
   ]
 }
