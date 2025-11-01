@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-01T18:36:28.3621767Z",
+  "Time": "2025-11-01T18:38:28.3784753Z",
   "Players": [
     {
       "Name": "JohnnyTapsHvH",
       "Steam": "76561197965556120",
-      "Score": 79,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "aether",
       "Steam": "76561198281402969",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
       "Score": 2,
-      "Time": "178:23"
+      "Time": "180:23"
+    },
+    {
+      "Name": "idk",
+      "Steam": "76561198773586210",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "xgrc⋆｡°✩",
       "Steam": "76561198791116856",
-      "Score": 71,
-      "Time": "29:44"
+      "Score": 79,
+      "Time": "31:44"
     },
     {
       "Name": "M",
       "Steam": "76561199015827988",
-      "Score": 62,
+      "Score": 68,
       "Time": "??:??"
     },
     {
@@ -41,19 +47,13 @@
       "Name": "9",
       "Steam": "76561198785049227",
       "Score": 36,
-      "Time": "07:11"
+      "Time": "09:11"
     },
     {
       "Name": "Bayron",
       "Steam": "76561199885458274",
-      "Score": 11,
-      "Time": "05:27"
-    },
-    {
-      "Name": "Snzie",
-      "Steam": "76561198260680864",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 12,
+      "Time": "07:27"
     },
     {
       "Name": "Static Is Just God Breathing",
@@ -64,62 +64,68 @@
     {
       "Name": "Albanian Sucuk",
       "Steam": "76561198333086716",
-      "Score": 60,
+      "Score": 69,
+      "Time": "??:??"
+    },
+    {
+      "Name": "elduard58",
+      "Steam": "76561198774827860",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "AKH",
       "Steam": "76561197971640439",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "aikadszu",
       "Steam": "76561199679982159",
-      "Score": 91,
-      "Time": "20:00"
+      "Score": 100,
+      "Time": "22:00"
     },
     {
       "Name": "Denisuq",
       "Steam": "76561199482346717",
-      "Score": 2,
-      "Time": "02:55"
+      "Score": 12,
+      "Time": "04:55"
+    },
+    {
+      "Name": "BitBridge",
+      "Steam": "76561199866014675",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Ryze",
       "Steam": "76561199068166196",
-      "Score": 29,
-      "Time": "111:07"
+      "Score": 35,
+      "Time": "113:07"
     },
     {
       "Name": "Mario",
       "Steam": "76561199847598102",
-      "Score": 14,
-      "Time": "05:06"
+      "Score": 20,
+      "Time": "07:06"
     },
     {
       "Name": "☽",
       "Steam": "76561199680474626",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Velena",
       "Steam": "76561199154997580",
-      "Score": 45,
-      "Time": "31:15"
+      "Score": 47,
+      "Time": "33:15"
     },
     {
       "Name": "DraXtaR",
       "Steam": "76561199879774276",
-      "Score": 34,
-      "Time": "127:23"
-    },
-    {
-      "Name": "Cs2 AI",
-      "Steam": "76561198774063114",
-      "Score": 3,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "129:23"
     }
   ]
 }
