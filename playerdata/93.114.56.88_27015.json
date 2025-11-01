@@ -1,11 +1,23 @@
 {
-  "Time": "2025-11-01T11:50:53.7424477Z",
+  "Time": "2025-11-01T11:52:54.2654968Z",
   "Players": [
+    {
+      "Name": "Kiszonka",
+      "Steam": "76561199859168521",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kamcio434",
+      "Steam": "76561199073256625",
+      "Score": 0,
+      "Time": "00:09"
+    },
     {
       "Name": "Velena",
       "Steam": "76561199154997580",
       "Score": 0,
-      "Time": "00:22"
+      "Time": "02:23"
     },
     {
       "Name": "Bhg",
@@ -16,25 +28,25 @@
     {
       "Name": "minionaire",
       "Steam": "76561198781748052",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "suzune",
       "Steam": "76561198778613022",
-      "Score": 53,
-      "Time": "28:15"
+      "Score": 61,
+      "Time": "30:16"
     },
     {
       "Name": "Seba Kitikat",
       "Steam": "76561198069520853",
-      "Score": 18,
-      "Time": "08:46"
+      "Score": 26,
+      "Time": "10:46"
     },
     {
       "Name": "Joel Fiersbach",
       "Steam": "76561199878908533",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     }
   ]
