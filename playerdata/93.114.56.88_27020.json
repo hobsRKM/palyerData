@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-01T16:44:13.1303605Z",
+  "Time": "2025-11-01T16:46:13.1249328Z",
   "Players": [
     {
       "Name": "\"'",
@@ -8,15 +8,21 @@
       "Time": "??:??"
     },
     {
+      "Name": "nimiec",
+      "Steam": "76561199882399702",
+      "Score": 0,
+      "Time": "00:42"
+    },
+    {
       "Name": "Powski",
       "Steam": "76561198150715949",
-      "Score": 10,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "★Titsoutkickedout★",
       "Steam": "76561198124007805",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -28,20 +34,14 @@
     {
       "Name": "Knedlik",
       "Steam": "76561199168508867",
-      "Score": 9,
-      "Time": "04:24"
+      "Score": 19,
+      "Time": "06:24"
     },
     {
       "Name": "Baimboss",
       "Steam": "76561199112719276",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "ferox",
-      "Steam": "76561199377440484",
-      "Score": 8,
-      "Time": "05:43"
     }
   ]
 }
