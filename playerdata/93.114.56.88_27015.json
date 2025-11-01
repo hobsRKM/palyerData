@@ -1,40 +1,52 @@
 {
-  "Time": "2025-11-01T14:56:28.3524661Z",
+  "Time": "2025-11-01T14:58:28.3509581Z",
   "Players": [
+    {
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "00:22"
+    },
     {
       "Name": "joji2",
       "Steam": "76561199850764512",
-      "Score": 53,
-      "Time": "12:20"
+      "Score": 65,
+      "Time": "14:20"
     },
     {
       "Name": "PENA? sha1",
       "Steam": "76561198779229473",
-      "Score": 6,
-      "Time": "01:03"
+      "Score": 14,
+      "Time": "03:03"
     },
     {
       "Name": "Urek",
       "Steam": "76561198347294829",
-      "Score": 46,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "NEVERLOSE.CC",
       "Steam": "76561199845083977",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Dez",
       "Steam": "76561199181342269",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "dilino",
       "Steam": "76561199889654381",
-      "Score": 4,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "M0RCEL",
+      "Steam": "76561198320654466",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
