@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-01T16:54:35.1354217Z",
+  "Time": "2025-11-01T16:56:35.1340562Z",
   "Players": [
     {
       "Name": "Benjamin Netanyahu",
       "Steam": "76561198774352681",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 38,
-      "Time": "10:00"
+      "Score": 46,
+      "Time": "12:00"
+    },
+    {
+      "Name": "donk",
+      "Steam": "76561199764958381",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
