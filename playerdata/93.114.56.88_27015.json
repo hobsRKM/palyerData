@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-01T10:30:37.0948505Z",
+  "Time": "2025-11-01T10:32:37.3353541Z",
   "Players": [
     {
       "Name": "☂",
       "Steam": "76561199043383561",
-      "Score": 15,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "PAATRA   l",
+      "Steam": "76561199826692081",
+      "Score": 0,
+      "Time": "54:56"
     },
     {
       "Name": "Bhg",
@@ -16,25 +22,13 @@
     {
       "Name": "KoalaTyler",
       "Steam": "76561198772341977",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "DefaultO",
       "Steam": "76561197962162431",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ifcknggr",
-      "Steam": "76561198772259116",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "red scvaer",
-      "Steam": "76561199677101523",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -46,32 +40,26 @@
     {
       "Name": "1M",
       "Steam": "76561199756507474",
-      "Score": 0,
-      "Time": "18:58"
-    },
-    {
-      "Name": "very legit gaming prime edition",
-      "Steam": "76561199839477506",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 10,
+      "Time": "20:59"
     },
     {
       "Name": "flusha",
       "Steam": "76561199888201551",
-      "Score": 26,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Marley",
       "Steam": "76561198772882292",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "SRC",
       "Steam": "76561198241397796",
-      "Score": 10,
-      "Time": "35:34"
+      "Score": 16,
+      "Time": "37:34"
     }
   ]
 }
