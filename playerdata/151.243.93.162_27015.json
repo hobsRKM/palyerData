@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-01T13:48:18.3939187Z",
-  "Players": []
+  "Time": "2025-11-01T13:48:21.6355524Z",
+  "Players": [
+    {
+      "Name": "cloudz",
+      "Steam": "76561198775031190",
+      "Score": 43,
+      "Time": "12:37"
+    },
+    {
+      "Name": "fatality.w Relocating",
+      "Steam": "76561199891644703",
+      "Score": 30,
+      "Time": "65:54"
+    },
+    {
+      "Name": "sharkbait",
+      "Steam": "76561199199297162",
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Joe",
+      "Steam": "76561199800974923",
+      "Score": 29,
+      "Time": "??:??"
+    }
+  ]
 }
