@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-01T17:36:18.4060592Z",
-  "Players": []
+  "Time": "2025-11-01T17:36:21.6252772Z",
+  "Players": [
+    {
+      "Name": "shaded",
+      "Steam": "76561199721432077",
+      "Score": 0,
+      "Time": "61:16"
+    },
+    {
+      "Name": "testing nixware",
+      "Steam": "76561199838374266",
+      "Score": 135,
+      "Time": "??:??"
+    },
+    {
+      "Name": "slower",
+      "Steam": "76561199873250660",
+      "Score": 50,
+      "Time": "05:28"
+    },
+    {
+      "Name": "soda",
+      "Steam": "76561198786321609",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sad little chud :(",
+      "Steam": "76561199075452477",
+      "Score": 63,
+      "Time": "??:??"
+    }
+  ]
 }
