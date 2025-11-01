@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-01T09:20:23.7800075Z",
+  "Time": "2025-11-01T09:22:24.1241865Z",
   "Players": [
     {
       "Name": "ferox",
@@ -10,8 +10,14 @@
     {
       "Name": "liquid",
       "Steam": "76561199840187806",
+      "Score": 4,
+      "Time": "39:57"
+    },
+    {
+      "Name": "1717",
+      "Steam": "76561198788157791",
       "Score": 0,
-      "Time": "37:57"
+      "Time": "??:??"
     },
     {
       "Name": "Bhg",
@@ -22,13 +28,13 @@
     {
       "Name": "CS.ARMY CSGOSKINS GANO",
       "Steam": "76561199832723355",
-      "Score": 1,
-      "Time": "01:12"
+      "Score": 5,
+      "Time": "03:12"
     },
     {
       "Name": "Vyros",
       "Steam": "76561199123809914",
-      "Score": 6,
+      "Score": 22,
       "Time": "??:??"
     },
     {
@@ -38,15 +44,21 @@
       "Time": "??:??"
     },
     {
+      "Name": "Tutti",
+      "Steam": "76561198277498465",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "1M",
       "Steam": "76561199756507474",
       "Score": 0,
-      "Time": "116:02"
+      "Time": "118:02"
     },
     {
       "Name": "Tetrahydrocannabinol",
       "Steam": "76561199860671230",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
@@ -59,13 +71,7 @@
       "Name": "SRC",
       "Steam": "76561198241397796",
       "Score": 0,
-      "Time": "58:16"
-    },
-    {
-      "Name": "playboycarti",
-      "Steam": "76561199861767591",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "60:16"
     }
   ]
 }
