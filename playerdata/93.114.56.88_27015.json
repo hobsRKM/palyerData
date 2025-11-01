@@ -1,28 +1,40 @@
 {
-  "Time": "2025-11-01T12:26:03.8099618Z",
+  "Time": "2025-11-01T12:28:04.2721762Z",
   "Players": [
     {
       "Name": "Theodore Bagwell",
       "Steam": "76561198772807859",
-      "Score": 28,
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "DraXtaR",
+      "Steam": "76561199879774276",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Tetrahydrocannabinol",
       "Steam": "76561199860671230",
-      "Score": 41,
+      "Score": 55,
       "Time": "??:??"
+    },
+    {
+      "Name": "real shit",
+      "Steam": "76561199525508650",
+      "Score": 0,
+      "Time": "00:48"
     },
     {
       "Name": "Kiszonka",
       "Steam": "76561199859168521",
-      "Score": 62,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "Diggers",
       "Steam": "76561198808536955",
-      "Score": 6,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -34,44 +46,44 @@
     {
       "Name": "minionaire",
       "Steam": "76561198781748052",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "erick",
-      "Steam": "76561199493665678",
-      "Score": 2,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "selmo6332",
       "Steam": "76561198774452794",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cs2 AI",
+      "Steam": "76561198774063114",
       "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Seba Kitikat",
       "Steam": "76561198069520853",
-      "Score": 46,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "dame un grrr",
       "Steam": "76561199869702065",
-      "Score": 78,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "B0Busss",
       "Steam": "76561199773403358",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Projectile_Invalid",
       "Steam": "76561199629184110",
-      "Score": 89,
-      "Time": "13:58"
+      "Score": 99,
+      "Time": "15:58"
     }
   ]
 }
