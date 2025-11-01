@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-01T11:56:55.2702689Z",
+  "Time": "2025-11-01T11:58:55.4054956Z",
   "Players": [
+    {
+      "Name": "real shit",
+      "Steam": "76561199525508650",
+      "Score": 0,
+      "Time": "188:00"
+    },
     {
       "Name": "Kiszonka",
       "Steam": "76561199859168521",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "kamcio434",
       "Steam": "76561199073256625",
       "Score": 2,
-      "Time": "04:10"
+      "Time": "06:10"
     },
     {
       "Name": "Velena",
       "Steam": "76561199154997580",
-      "Score": 0,
-      "Time": "06:24"
+      "Score": 1,
+      "Time": "08:24"
     },
     {
       "Name": "Bhg",
@@ -32,33 +38,51 @@
       "Time": "??:??"
     },
     {
+      "Name": "666drake",
+      "Steam": "76561199838187752",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "dame un",
       "Steam": "76561199820885302",
-      "Score": 9,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rupertgamingboy",
+      "Steam": "76561198835474175",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "suzune",
       "Steam": "76561198778613022",
-      "Score": 18,
-      "Time": "34:17"
+      "Score": 21,
+      "Time": "36:17"
+    },
+    {
+      "Name": "red scvaer",
+      "Steam": "76561199677101523",
+      "Score": 0,
+      "Time": "00:12"
     },
     {
       "Name": "Seba Kitikat",
       "Steam": "76561198069520853",
-      "Score": 38,
-      "Time": "14:47"
+      "Score": 44,
+      "Time": "16:48"
     },
     {
       "Name": "dame un grrr",
       "Steam": "76561199869702065",
-      "Score": 4,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Joel Fiersbach",
       "Steam": "76561199878908533",
-      "Score": 45,
+      "Score": 47,
       "Time": "??:??"
     }
   ]
