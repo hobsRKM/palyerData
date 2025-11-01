@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-01T20:18:19.180919Z",
+  "Time": "2025-11-01T20:20:19.2951338Z",
   "Players": [
     {
       "Name": "\"'",
@@ -10,56 +10,62 @@
     {
       "Name": "Urek",
       "Steam": "76561198347294829",
-      "Score": 30,
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Dexter Morgan",
       "Steam": "76561199696258960",
-      "Score": 37,
-      "Time": "24:15"
+      "Score": 38,
+      "Time": "26:15"
+    },
+    {
+      "Name": "Brylan Bristopher Woods",
+      "Steam": "76561198774079070",
+      "Score": 0,
+      "Time": "13:05"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199612053434",
-      "Score": 37,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "geNNeral ♠",
       "Steam": "76561198779906456",
-      "Score": 49,
-      "Time": "66:37"
+      "Score": 56,
+      "Time": "68:37"
     },
     {
       "Name": "ThePolaris",
       "Steam": "76561199446258188",
-      "Score": 43,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ft",
-      "Steam": "76561198791714030",
-      "Score": 10,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8\uD835\uDCF6\uD835\uDD02",
       "Steam": "76561199230497763",
       "Score": 6,
-      "Time": "38:47"
+      "Time": "40:47"
     },
     {
       "Name": "Knedlik",
       "Steam": "76561199168508867",
-      "Score": 43,
-      "Time": "84:25"
+      "Score": 52,
+      "Time": "86:25"
     },
     {
       "Name": "Wanda",
       "Steam": "76561199307657735",
-      "Score": 14,
-      "Time": "43:41"
+      "Score": 20,
+      "Time": "45:42"
     }
   ]
 }
