@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-01T11:30:12.9962047Z",
+  "Time": "2025-11-01T11:32:13.0041645Z",
   "Players": [
     {
       "Name": "\"'",
@@ -8,27 +8,33 @@
       "Time": "??:??"
     },
     {
+      "Name": "david",
+      "Steam": "76561199241963212",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "Trionxs",
       "Steam": "76561199040781865",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Angel <3",
       "Steam": "76561198780897395",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "less",
       "Steam": "76561198786419092",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "hvHibouu",
       "Steam": "76561199201150011",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -40,20 +46,26 @@
     {
       "Name": "nimiec",
       "Steam": "76561199882399702",
-      "Score": 10,
-      "Time": "12:44"
+      "Score": 18,
+      "Time": "14:44"
+    },
+    {
+      "Name": "bekir.tavalioglu",
+      "Steam": "76561198785471278",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ayda1milyonkazansendeböyleol",
       "Steam": "76561199390744333",
-      "Score": 2,
-      "Time": "03:14"
+      "Score": 4,
+      "Time": "05:14"
     },
     {
       "Name": "colman",
       "Steam": "76561199362804934",
-      "Score": 2,
-      "Time": "30:48"
+      "Score": 10,
+      "Time": "32:48"
     }
   ]
 }
