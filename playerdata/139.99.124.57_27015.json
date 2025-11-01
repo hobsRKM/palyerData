@@ -1,28 +1,40 @@
 {
-  "Time": "2025-11-01T14:03:30.1955057Z",
+  "Time": "2025-11-01T14:05:30.1930811Z",
   "Players": [
+    {
+      "Name": "BEST \uD83D\uDE01",
+      "Steam": "76561198786904680",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "galdimergaming",
       "Steam": "76561198773842993",
-      "Score": 60,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "artem",
       "Steam": "76561199633334369",
-      "Score": 58,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "習",
       "Steam": "76561199721114972",
-      "Score": 26,
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Semi",
+      "Steam": "76561199122053851",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
