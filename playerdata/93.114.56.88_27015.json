@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-01T07:26:03.6134493Z",
+  "Time": "2025-11-01T07:28:03.960123Z",
   "Players": [
+    {
+      "Name": "\uD83E\uDDDB Supreme",
+      "Steam": "76561199840290330",
+      "Score": 0,
+      "Time": "00:30"
+    },
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
@@ -10,37 +16,37 @@
     {
       "Name": "tdup",
       "Steam": "76561198772946379",
-      "Score": 29,
-      "Time": "10:43"
+      "Score": 0,
+      "Time": "12:44"
     },
     {
       "Name": "demon",
       "Steam": "76561198227915936",
-      "Score": 19,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "1M",
       "Steam": "76561199756507474",
-      "Score": 8,
-      "Time": "01:42"
+      "Score": 22,
+      "Time": "03:42"
     },
     {
       "Name": "yamatoro",
       "Steam": "76561199812037558",
-      "Score": 84,
-      "Time": "31:15"
+      "Score": 86,
+      "Time": "33:15"
     },
     {
       "Name": "SRC",
       "Steam": "76561198241397796",
-      "Score": 13,
-      "Time": "01:59"
+      "Score": 29,
+      "Time": "04:00"
     },
     {
       "Name": "Guido Mista",
       "Steam": "76561199845350960",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     }
   ]
