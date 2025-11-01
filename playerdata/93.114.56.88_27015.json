@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-01T23:06:30.0792663Z",
+  "Time": "2025-11-01T23:08:30.1107827Z",
   "Players": [
+    {
+      "Name": "erick",
+      "Steam": "76561199493665678",
+      "Score": 0,
+      "Time": "01:45"
+    },
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "448:24"
+      "Time": "450:24"
     },
     {
       "Name": "hard polo stage 2",
@@ -16,14 +22,14 @@
     {
       "Name": "Fraud CS2.ME",
       "Steam": "76561199403786928",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Jamal",
       "Steam": "76561199876996526",
       "Score": 16,
-      "Time": "71:36"
+      "Time": "00:13"
     },
     {
       "Name": "Török Embere",
@@ -34,61 +40,55 @@
     {
       "Name": "gus",
       "Steam": "76561199404381221",
-      "Score": 14,
-      "Time": "391:32"
+      "Score": 0,
+      "Time": "393:33"
     },
     {
       "Name": "Projectile_Invalid",
       "Steam": "76561199629184110",
-      "Score": 160,
-      "Time": "99:55"
+      "Score": 171,
+      "Time": "101:55"
     },
     {
       "Name": "pirata",
       "Steam": "76561199008479375",
       "Score": 1,
-      "Time": "10:56"
+      "Time": "12:56"
     },
     {
       "Name": "testing update",
       "Steam": "76561198327957560",
-      "Score": 0,
-      "Time": "00:30"
-    },
-    {
-      "Name": "LoadingSPZ",
-      "Steam": "76561198986841285",
-      "Score": 5,
-      "Time": "24:12"
+      "Score": 21,
+      "Time": "02:30"
     },
     {
       "Name": "B0Busss",
       "Steam": "76561199773403358",
-      "Score": 74,
-      "Time": "44:29"
+      "Score": 80,
+      "Time": "46:29"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 118,
-      "Time": "75:19"
+      "Score": 125,
+      "Time": "77:19"
     },
     {
       "Name": "Ryze",
       "Steam": "76561199068166196",
-      "Score": 46,
-      "Time": "28:17"
+      "Score": 54,
+      "Time": "30:17"
     },
     {
       "Name": "Sawsi",
       "Steam": "76561198127256078",
-      "Score": 23,
-      "Time": "20:28"
+      "Score": 24,
+      "Time": "22:28"
     },
     {
       "Name": "gregory",
       "Steam": "76561199402840233",
-      "Score": 5,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -100,14 +100,14 @@
     {
       "Name": "fr1fx",
       "Steam": "76561199042138318",
-      "Score": 96,
-      "Time": "77:46"
+      "Score": 108,
+      "Time": "79:46"
     },
     {
       "Name": "aaaaaaaaaa",
       "Steam": "76561199132315900",
-      "Score": 104,
-      "Time": "95:16"
+      "Score": 116,
+      "Time": "97:16"
     }
   ]
 }
