@@ -1,16 +1,28 @@
 {
-  "Time": "2025-11-01T07:42:06.109775Z",
+  "Time": "2025-11-01T07:44:06.2867353Z",
   "Players": [
+    {
+      "Name": "Fatality",
+      "Steam": "76561198781674369",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "street smart pimp",
       "Steam": "76561199838075601",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "✨ szalik ✨",
       "Steam": "76561198238081996",
-      "Score": 2,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "need fata cfg",
+      "Steam": "76561198774937877",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -22,20 +34,26 @@
     {
       "Name": "tdup",
       "Steam": "76561198772946379",
-      "Score": 8,
-      "Time": "26:46"
+      "Score": 0,
+      "Time": "28:46"
     },
     {
       "Name": "1M",
       "Steam": "76561199756507474",
-      "Score": 0,
-      "Time": "17:44"
+      "Score": 6,
+      "Time": "19:44"
     },
     {
       "Name": "joseph",
       "Steam": "76561198992040100",
-      "Score": 5,
-      "Time": "08:32"
+      "Score": 11,
+      "Time": "10:33"
+    },
+    {
+      "Name": "SRC",
+      "Steam": "76561198241397796",
+      "Score": 13,
+      "Time": "00:08"
     }
   ]
 }
