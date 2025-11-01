@@ -1,29 +1,41 @@
 {
-  "Time": "2025-11-01T14:52:06.4080332Z",
+  "Time": "2025-11-01T14:54:06.4109687Z",
   "Players": [
+    {
+      "Name": "Knedlik",
+      "Steam": "76561199168508867",
+      "Score": 2,
+      "Time": "00:26"
+    },
     {
       "Name": "dario",
       "Steam": "76561198301429356",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "gus",
       "Steam": "76561199404381221",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "Flexorz",
-      "Steam": "76561199503006146",
-      "Score": 87,
-      "Time": "??:??"
+      "Name": "ˢ1",
+      "Steam": "76561198792271427",
+      "Score": 0,
+      "Time": "01:59"
     },
     {
       "Name": "rivi",
       "Steam": "76561199862272715",
-      "Score": 26,
+      "Score": 37,
       "Time": "??:??"
+    },
+    {
+      "Name": "SmokikingInTheParis",
+      "Steam": "76561199557109338",
+      "Score": 1,
+      "Time": "01:47"
     },
     {
       "Name": "tainted9296",
@@ -35,60 +47,72 @@
       "Name": "rcx",
       "Steam": "76561199784226010",
       "Score": 0,
-      "Time": "20:45"
+      "Time": "22:45"
     },
     {
       "Name": "M",
       "Steam": "76561199015827988",
       "Score": 82,
-      "Time": "00:47"
+      "Time": "02:47"
     },
     {
       "Name": "9",
       "Steam": "76561198785049227",
-      "Score": 17,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "dilino",
       "Steam": "76561199889654381",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "CS.ARMY CSGOSKINS GANO",
       "Steam": "76561199832723355",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "flock",
       "Steam": "76561199867949125",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "B0Busss",
       "Steam": "76561199773403358",
-      "Score": 25,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Pibble",
       "Steam": "76561199819784349",
-      "Score": 32,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "real shit",
       "Steam": "76561199525508650",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "red scvaer",
+      "Steam": "76561199677101523",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "kim",
       "Steam": "76561199389073332",
-      "Score": 61,
+      "Score": 71,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ryze",
+      "Steam": "76561199068166196",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
