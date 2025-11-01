@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-01T19:06:28.3979091Z",
+  "Time": "2025-11-01T19:08:28.3735649Z",
   "Players": [
+    {
+      "Name": "JohnnyTapsHvH",
+      "Steam": "76561197965556120",
+      "Score": 0,
+      "Time": "00:36"
+    },
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "208:23"
+      "Time": "210:23"
     },
     {
       "Name": "M",
       "Steam": "76561199015827988",
-      "Score": 35,
+      "Score": 50,
       "Time": "??:??"
     },
     {
@@ -22,62 +28,68 @@
     {
       "Name": "flt",
       "Steam": "76561198808365470",
-      "Score": 35,
-      "Time": "152:17"
+      "Score": 38,
+      "Time": "154:17"
     },
     {
       "Name": "9",
       "Steam": "76561198785049227",
-      "Score": 4,
-      "Time": "37:11"
+      "Score": 10,
+      "Time": "39:11"
     },
     {
       "Name": "Bayron",
       "Steam": "76561199885458274",
       "Score": 16,
-      "Time": "35:27"
+      "Time": "37:27"
+    },
+    {
+      "Name": "lelekgaming",
+      "Steam": "76561198779679308",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Static Is Just God Breathing",
       "Steam": "76561199842369196",
-      "Score": 9,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "LoadingSPZ",
       "Steam": "76561198986841285",
-      "Score": 3,
-      "Time": "10:48"
+      "Score": 6,
+      "Time": "12:48"
     },
     {
       "Name": "Nicho Super Saiyan",
       "Steam": "76561199180147646",
-      "Score": 6,
-      "Time": "101:18"
+      "Score": 8,
+      "Time": "103:18"
     },
     {
       "Name": "AKH",
       "Steam": "76561197971640439",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Syncc",
       "Steam": "76561199228068079",
-      "Score": 0,
-      "Time": "61:56"
+      "Score": 7,
+      "Time": "63:56"
     },
     {
       "Name": "fata ck nix user",
       "Steam": "76561199867949125",
-      "Score": 6,
-      "Time": "22:22"
+      "Score": 7,
+      "Time": "24:22"
     },
     {
       "Name": "DraXtaR",
       "Steam": "76561199879774276",
-      "Score": 17,
-      "Time": "157:23"
+      "Score": 19,
+      "Time": "159:23"
     }
   ]
 }
