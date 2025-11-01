@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-01T08:24:13.0910798Z",
+  "Time": "2025-11-01T08:26:13.3981004Z",
   "Players": [
     {
       "Name": "Fatality",
       "Steam": "76561198781674369",
-      "Score": 43,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "liquid",
       "Steam": "76561199840187806",
-      "Score": 23,
-      "Time": "05:54"
+      "Score": 29,
+      "Time": "07:54"
+    },
+    {
+      "Name": "haval",
+      "Steam": "76561199524318866",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "✨ szalik ✨",
       "Steam": "76561198238081996",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
@@ -34,32 +40,38 @@
     {
       "Name": "moonlight",
       "Steam": "76561198772946379",
-      "Score": 25,
-      "Time": "20:39"
+      "Score": 0,
+      "Time": "22:39"
     },
     {
       "Name": "high asf",
       "Steam": "76561199035958013",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "alhamdulillah",
       "Steam": "76561198779906456",
-      "Score": 45,
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Seiðr",
+      "Steam": "76561198333235279",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "1M",
       "Steam": "76561199756507474",
-      "Score": 0,
-      "Time": "59:51"
+      "Score": 15,
+      "Time": "61:52"
     },
     {
       "Name": "SRC",
       "Steam": "76561198241397796",
-      "Score": 15,
-      "Time": "02:05"
+      "Score": 23,
+      "Time": "04:06"
     }
   ]
 }
