@@ -1,16 +1,16 @@
 {
-  "Time": "2025-11-01T23:18:30.2092421Z",
+  "Time": "2025-11-01T23:20:30.2090803Z",
   "Players": [
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "460:24"
+      "Time": "462:24"
     },
     {
       "Name": "Fraud CS2.ME",
       "Steam": "76561199403786928",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
@@ -22,44 +22,32 @@
     {
       "Name": "gus",
       "Steam": "76561199404381221",
-      "Score": 0,
-      "Time": "403:33"
+      "Score": 9,
+      "Time": "405:33"
     },
     {
       "Name": "Projectile_Invalid",
       "Steam": "76561199629184110",
-      "Score": 4,
-      "Time": "111:55"
+      "Score": 10,
+      "Time": "113:55"
     },
     {
       "Name": "pirata",
       "Steam": "76561199008479375",
       "Score": 14,
-      "Time": "22:57"
+      "Time": "24:57"
     },
     {
       "Name": "B0Busss",
       "Steam": "76561199773403358",
-      "Score": 16,
-      "Time": "56:29"
+      "Score": 24,
+      "Time": "58:29"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 26,
-      "Time": "87:19"
-    },
-    {
-      "Name": "Ryze",
-      "Steam": "76561199068166196",
-      "Score": 19,
-      "Time": "40:17"
-    },
-    {
-      "Name": "Sawsi",
-      "Steam": "76561198127256078",
-      "Score": 6,
-      "Time": "32:28"
+      "Score": 35,
+      "Time": "89:19"
     },
     {
       "Name": "Majer",
@@ -76,14 +64,20 @@
     {
       "Name": "fr1fx",
       "Steam": "76561199042138318",
-      "Score": 24,
-      "Time": "89:46"
+      "Score": 31,
+      "Time": "91:46"
     },
     {
       "Name": "aaaaaaaaaa",
       "Steam": "76561199132315900",
-      "Score": 2,
-      "Time": "107:16"
+      "Score": 8,
+      "Time": "109:16"
+    },
+    {
+      "Name": "Syncc",
+      "Steam": "76561199228068079",
+      "Score": 0,
+      "Time": "01:56"
     }
   ]
 }
