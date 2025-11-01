@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-01T08:18:11.8712443Z",
+  "Time": "2025-11-01T08:20:12.2770553Z",
   "Players": [
     {
       "Name": "Fatality",
       "Steam": "76561198781674369",
-      "Score": 20,
+      "Score": 32,
       "Time": "??:??"
+    },
+    {
+      "Name": "liquid",
+      "Steam": "76561199840187806",
+      "Score": 7,
+      "Time": "01:53"
     },
     {
       "Name": "✨ szalik ✨",
       "Steam": "76561198238081996",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "need fata cfg",
       "Steam": "76561198774937877",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -28,8 +34,8 @@
     {
       "Name": "moonlight",
       "Steam": "76561198772946379",
-      "Score": 16,
-      "Time": "14:38"
+      "Score": 21,
+      "Time": "16:38"
     },
     {
       "Name": "high asf",
@@ -40,14 +46,20 @@
     {
       "Name": "alhamdulillah",
       "Steam": "76561198779906456",
-      "Score": 27,
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "reml",
+      "Steam": "76561199767002831",
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "1M",
       "Steam": "76561199756507474",
       "Score": 0,
-      "Time": "53:50"
+      "Time": "55:50"
     }
   ]
 }
