@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-02T16:36:18.3189632Z",
+  "Time": "2025-11-02T16:38:18.3165985Z",
   "Players": [
+    {
+      "Name": "Zyrex",
+      "Steam": "76561199550568280",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "based",
       "Steam": "76561198771834134",
-      "Score": 75,
-      "Time": "111:20"
+      "Score": 0,
+      "Time": "113:20"
     },
     {
       "Name": "✪ nepS",
       "Steam": "76561199407070160",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "PENA? sha1",
       "Steam": "76561198779229473",
-      "Score": 48,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -28,19 +34,19 @@
     {
       "Name": "pena.interium",
       "Steam": "76561199601540746",
-      "Score": 52,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "MagicMike",
       "Steam": "76561199612053434",
-      "Score": 47,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "inatehiggers",
       "Steam": "76561199891084411",
-      "Score": 11,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
