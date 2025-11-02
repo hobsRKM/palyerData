@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-02T16:17:04.6659797Z",
+  "Time": "2025-11-02T16:19:04.6646666Z",
   "Players": [
+    {
+      "Name": "✡⃤⛴☁",
+      "Steam": "76561199060922164",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "nohat. pooping",
       "Steam": "76561198791610523",
-      "Score": 26,
-      "Time": "106:49"
+      "Score": 28,
+      "Time": "108:49"
     },
     {
       "Name": "505 Wantan Mee",
       "Steam": "76561198983368547",
-      "Score": 30,
-      "Time": "19:46"
+      "Score": 40,
+      "Time": "21:46"
     },
     {
       "Name": "merki",
       "Steam": "76561199872490286",
       "Score": 21,
-      "Time": "73:56"
+      "Time": "75:56"
     },
     {
       "Name": "RETRDINDIANS",
       "Steam": "76561199871615773",
-      "Score": 7,
-      "Time": "42:41"
+      "Score": 8,
+      "Time": "44:41"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 37,
-      "Time": "54:01"
+      "Score": 43,
+      "Time": "56:01"
     }
   ]
 }
