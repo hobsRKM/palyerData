@@ -1,28 +1,28 @@
 {
-  "Time": "2025-11-02T17:19:04.67498Z",
+  "Time": "2025-11-02T17:21:04.6711711Z",
   "Players": [
     {
       "Name": "Jeff",
       "Steam": "76561198774315242",
-      "Score": 0,
-      "Time": "35:22"
+      "Score": 10,
+      "Time": "37:22"
     },
     {
       "Name": "505 Wantan Mee",
       "Steam": "76561198983368547",
-      "Score": 20,
-      "Time": "13:41"
+      "Score": 30,
+      "Time": "15:41"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 11,
-      "Time": "116:01"
+      "Score": 14,
+      "Time": "118:01"
     },
     {
       "Name": "Bot Player #1",
       "Steam": "76561198779391101",
-      "Score": 7,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
