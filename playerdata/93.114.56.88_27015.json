@@ -1,52 +1,70 @@
 {
-  "Time": "2025-11-02T13:23:33.9022418Z",
+  "Time": "2025-11-02T13:25:34.2037637Z",
   "Players": [
+    {
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 4,
+      "Time": "01:15"
+    },
+    {
+      "Name": "ferox",
+      "Steam": "76561199377440484",
+      "Score": 2,
+      "Time": "01:24"
+    },
     {
       "Name": "9",
       "Steam": "76561198785049227",
-      "Score": 21,
-      "Time": "00:47"
+      "Score": 6,
+      "Time": "02:47"
     },
     {
       "Name": "Mike hanksoff",
       "Steam": "76561199409844133",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Manfred",
       "Steam": "76561199824699029",
-      "Score": 74,
-      "Time": "1225:18"
+      "Score": 84,
+      "Time": "1227:19"
     },
     {
       "Name": "o7",
       "Steam": "76561199886492025",
-      "Score": 55,
-      "Time": "402:54"
+      "Score": 58,
+      "Time": "404:54"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
       "Score": 2,
-      "Time": "831:01"
+      "Time": "833:02"
     },
     {
       "Name": "bubber",
       "Steam": "76561199053195051",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "akela",
       "Steam": "76561197995324447",
-      "Score": 62,
+      "Score": 68,
+      "Time": "??:??"
+    },
+    {
+      "Name": "habibi",
+      "Steam": "76561199605919996",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "manololamas",
       "Steam": "76561199371176868",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
