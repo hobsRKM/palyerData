@@ -1,47 +1,65 @@
 {
-  "Time": "2025-11-02T17:24:18.3201034Z",
+  "Time": "2025-11-02T17:26:18.3200944Z",
   "Players": [
     {
       "Name": "n1ga Mane",
       "Steam": "76561198302934084",
-      "Score": 21,
-      "Time": "21:55"
+      "Score": 31,
+      "Time": "23:55"
+    },
+    {
+      "Name": "Tutti",
+      "Steam": "76561198277498465",
+      "Score": 0,
+      "Time": "01:10"
     },
     {
       "Name": "based",
       "Steam": "76561198771834134",
-      "Score": 33,
-      "Time": "159:20"
+      "Score": 48,
+      "Time": "161:20"
     },
     {
       "Name": "joseph",
       "Steam": "76561198992040100",
-      "Score": 0,
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "noc",
+      "Steam": "76561199471107546",
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Joni",
       "Steam": "76561198833666096",
-      "Score": 24,
-      "Time": "22:55"
+      "Score": 35,
+      "Time": "24:55"
     },
     {
       "Name": "β\uD835\uDD5Dᗩ\uD835\uDC02ⓚ\uD835\uDCD6н\uD835\uDCDE\uD835\uDD4A\uD835\uDD31",
       "Steam": "76561198782597755",
-      "Score": 16,
-      "Time": "256:33"
+      "Score": 19,
+      "Time": "258:33"
     },
     {
       "Name": "335i",
       "Steam": "76561198773415040",
-      "Score": 37,
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Pennywise The Dancing Clown",
+      "Steam": "76561199877138048",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "dingle monkey",
       "Steam": "76561199847427235",
-      "Score": 20,
-      "Time": "257:26"
+      "Score": 22,
+      "Time": "259:26"
     }
   ]
 }
