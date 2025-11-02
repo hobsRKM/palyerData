@@ -1,4 +1,23 @@
 {
-  "Time": "2025-11-02T12:00:25.8493016Z",
-  "Players": []
+  "Time": "2025-11-02T12:02:24.7491123Z",
+  "Players": [
+    {
+      "Name": "Cookie",
+      "Steam": "76561199889788325",
+      "Score": 6,
+      "Time": "21:41"
+    },
+    {
+      "Name": "Feetality",
+      "Steam": "76561198781702164",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GDBDVICELORD (DEAD HOMIES)",
+      "Steam": "76561199648325653",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
