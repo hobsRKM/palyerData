@@ -1,23 +1,53 @@
 {
-  "Time": "2025-11-02T06:12:18.4068879Z",
+  "Time": "2025-11-02T06:12:21.6266798Z",
   "Players": [
     {
-      "Name": "BMW X3 M₄₀ᵢ",
-      "Steam": "76561198393535586",
-      "Score": 1,
+      "Name": "svchost",
+      "Steam": "76561198775139203",
+      "Score": 37,
+      "Time": "269:41"
+    },
+    {
+      "Name": "martyr",
+      "Steam": "76561197995675648",
+      "Score": 64,
       "Time": "??:??"
     },
     {
-      "Name": "pusheaxret",
-      "Steam": "76561198782287736",
-      "Score": 30,
-      "Time": "03:08"
+      "Name": "s1mple",
+      "Steam": "76561199889246882",
+      "Score": 47,
+      "Time": "284:47"
     },
     {
-      "Name": "ntoskrnl",
-      "Steam": "76561199841087110",
+      "Name": "LooksOrDeath",
+      "Steam": "76561199212196788",
       "Score": 0,
+      "Time": "542:02"
+    },
+    {
+      "Name": "habits",
+      "Steam": "76561199878413811",
+      "Score": 30,
+      "Time": "263:12"
+    },
+    {
+      "Name": "andrex",
+      "Steam": "76561199553155289",
+      "Score": 0,
+      "Time": "11:08"
+    },
+    {
+      "Name": "Tripdz",
+      "Steam": "76561199533896829",
+      "Score": 23,
       "Time": "??:??"
+    },
+    {
+      "Name": "No Punch Man",
+      "Steam": "76561198833143842",
+      "Score": 2,
+      "Time": "22:07"
     }
   ]
 }
