@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-02T00:46:24.0451173Z",
+  "Time": "2025-11-02T00:48:24.0402246Z",
   "Players": [
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 2,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "artem",
       "Steam": "76561199633334369",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
+    },
+    {
+      "Name": "monster energy drinker",
+      "Steam": "76561199832129246",
+      "Score": 20,
+      "Time": "01:59"
     },
     {
       "Name": "Austin",
       "Steam": "76561199033872330",
-      "Score": 33,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Professor™",
       "Steam": "76561199207417643",
       "Score": 0,
-      "Time": "06:23"
+      "Time": "08:23"
     }
   ]
 }
