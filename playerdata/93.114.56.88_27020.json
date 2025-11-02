@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-02T00:00:42.4672787Z",
+  "Time": "2025-11-02T00:02:42.7512827Z",
   "Players": [
     {
       "Name": "\"'",
@@ -10,32 +10,38 @@
     {
       "Name": "Exotic",
       "Steam": "76561199564443368",
-      "Score": 42,
-      "Time": "591:42"
+      "Score": 50,
+      "Time": "593:42"
     },
     {
       "Name": "Zyrex",
       "Steam": "76561199550568280",
-      "Score": 23,
-      "Time": "06:21"
+      "Score": 29,
+      "Time": "08:22"
     },
     {
       "Name": "xaNe #baimboss",
       "Steam": "76561198785874413",
-      "Score": 97,
-      "Time": "322:57"
+      "Score": 108,
+      "Time": "324:57"
     },
     {
       "Name": "Starline Connoisseur",
       "Steam": "76561199876078574",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ze66y",
       "Steam": "76561199175953224",
-      "Score": 55,
-      "Time": "75:39"
+      "Score": 65,
+      "Time": "77:39"
+    },
+    {
+      "Name": "Headshot",
+      "Steam": "76561198772719616",
+      "Score": 9,
+      "Time": "366:53"
     }
   ]
 }
