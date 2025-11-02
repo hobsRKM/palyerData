@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-02T12:45:26.8792493Z",
+  "Time": "2025-11-02T12:47:27.3280327Z",
   "Players": [
+    {
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "00:35"
+    },
+    {
+      "Name": "kalinix54",
+      "Steam": "76561198772276592",
+      "Score": 1,
+      "Time": "135:03"
+    },
     {
       "Name": "ferox",
       "Steam": "76561199377440484",
-      "Score": 0,
-      "Time": "38:57"
-    },
-    {
-      "Name": "dinosourkingofkings",
-      "Steam": "76561198777825678",
-      "Score": 0,
-      "Time": "620:11"
+      "Score": 5,
+      "Time": "40:58"
     },
     {
       "Name": "Monpote",
@@ -22,79 +28,73 @@
     {
       "Name": "Blank",
       "Steam": "76561199396651185",
-      "Score": 0,
-      "Time": "1033:05"
+      "Score": 3,
+      "Time": "1035:06"
     },
     {
       "Name": "rage_quit",
       "Steam": "76561199870732299",
-      "Score": 0,
-      "Time": "62:47"
+      "Score": 2,
+      "Time": "64:48"
     },
     {
       "Name": "Manfred",
       "Steam": "76561199824699029",
-      "Score": 0,
-      "Time": "1187:11"
+      "Score": 13,
+      "Time": "1189:12"
     },
     {
       "Name": "wz",
       "Steam": "76561198784574810",
-      "Score": 2,
-      "Time": "04:00"
+      "Score": 12,
+      "Time": "06:00"
     },
     {
       "Name": "B0Busss",
       "Steam": "76561199773403358",
-      "Score": 0,
-      "Time": "620:43"
+      "Score": 4,
+      "Time": "622:43"
     },
     {
       "Name": "fr1fx",
       "Steam": "76561199042138318",
-      "Score": 0,
-      "Time": "688:14"
+      "Score": 12,
+      "Time": "690:15"
     },
     {
       "Name": "Ꭼᴄʂɬα¢ʏ #CASEHUG",
       "Steam": "76561199151609154",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "ORESTAKOS",
-      "Steam": "76561199804435234",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "o7",
+      "Steam": "76561199886492025",
+      "Score": 2,
+      "Time": "366:47"
     },
     {
       "Name": "adakdadmaujdmad",
       "Steam": "76561199154997580",
-      "Score": 0,
-      "Time": "892:00"
+      "Score": 2,
+      "Time": "894:00"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
       "Score": 0,
-      "Time": "792:54"
-    },
-    {
-      "Name": "suzune",
-      "Steam": "76561198831338710",
-      "Score": 0,
-      "Time": "80:12"
+      "Time": "794:55"
     },
     {
       "Name": "#freejeffsmoke",
       "Steam": "76561198431997616",
-      "Score": 0,
-      "Time": "00:55"
+      "Score": 8,
+      "Time": "02:55"
     },
     {
       "Name": "akela",
       "Steam": "76561197995324447",
-      "Score": 0,
+      "Score": 13,
       "Time": "??:??"
     },
     {
@@ -106,14 +106,14 @@
     {
       "Name": "Joni",
       "Steam": "76561198833666096",
-      "Score": 0,
-      "Time": "11:38"
+      "Score": 6,
+      "Time": "13:39"
     },
     {
       "Name": "P1nG_Sp1ke.Net.77",
       "Steam": "76561198842015641",
-      "Score": 0,
-      "Time": "44:05"
+      "Score": 12,
+      "Time": "46:06"
     }
   ]
 }
