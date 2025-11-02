@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-02T17:00:18.3064229Z",
+  "Time": "2025-11-02T17:02:18.3215135Z",
   "Players": [
+    {
+      "Name": "DarkღPixie",
+      "Steam": "76561199817961501",
+      "Score": 2,
+      "Time": "00:41"
+    },
     {
       "Name": "Goober",
       "Steam": "76561199690725763",
@@ -10,25 +16,31 @@
     {
       "Name": "FataUserXOXO",
       "Steam": "76561198771844122",
-      "Score": 33,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD91\uD835\uDD8A\uD835\uDD93\uD835\uDD93\uD835\uDD86\uD835\uDD97\uD835\uDD99",
       "Steam": "76561199003279937",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "based",
       "Steam": "76561198771834134",
-      "Score": 64,
-      "Time": "135:20"
+      "Score": 76,
+      "Time": "137:20"
+    },
+    {
+      "Name": "JacobGamingHvH",
+      "Steam": "76561199886624598",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "xAur7777",
       "Steam": "76561199474768948",
-      "Score": 11,
+      "Score": 19,
       "Time": "??:??"
     },
     {
@@ -38,22 +50,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "Joni",
+      "Steam": "76561198833666096",
+      "Score": 0,
+      "Time": "00:55"
+    },
+    {
       "Name": "\uD83D\uDE42",
       "Steam": "76561198772856628",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "່",
       "Steam": "76561199881083106",
-      "Score": 26,
-      "Time": "09:00"
+      "Score": 27,
+      "Time": "11:00"
     },
     {
       "Name": "dingle monkey",
       "Steam": "76561199847427235",
-      "Score": 20,
-      "Time": "233:26"
+      "Score": 22,
+      "Time": "235:26"
     }
   ]
 }
