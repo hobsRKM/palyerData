@@ -1,41 +1,47 @@
 {
-  "Time": "2025-11-02T16:03:57.9442939Z",
+  "Time": "2025-11-02T16:05:58.2225641Z",
   "Players": [
     {
       "Name": "MichaelHvH",
       "Steam": "76561199431302772",
-      "Score": 26,
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jorgos Salmiakki kolmannes",
+      "Steam": "76561199771176125",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
       "Score": 2,
-      "Time": "09:06"
+      "Time": "11:07"
     },
     {
       "Name": "honolulu",
       "Steam": "76561199616559835",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "hardrock",
       "Steam": "76561198808869003",
-      "Score": 65,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "Pil C",
       "Steam": "76561199860671230",
-      "Score": 24,
-      "Time": "250:09"
+      "Score": 26,
+      "Time": "252:09"
     },
     {
       "Name": "9",
       "Steam": "76561198785049227",
-      "Score": 0,
-      "Time": "161:11"
+      "Score": 7,
+      "Time": "163:11"
     },
     {
       "Name": "Lucky...",
@@ -46,68 +52,80 @@
     {
       "Name": "akela",
       "Steam": "76561197995324447",
-      "Score": 64,
-      "Time": "59:08"
+      "Score": 67,
+      "Time": "61:08"
     },
     {
       "Name": "fr1fx",
       "Steam": "76561199042138318",
-      "Score": 19,
-      "Time": "46:43"
+      "Score": 23,
+      "Time": "48:43"
     },
     {
       "Name": "B0Busss",
       "Steam": "76561199773403358",
-      "Score": 71,
-      "Time": "48:37"
+      "Score": 79,
+      "Time": "50:38"
     },
     {
       "Name": "Projectile_Invalid",
       "Steam": "76561199629184110",
-      "Score": 72,
-      "Time": "23:53"
+      "Score": 92,
+      "Time": "25:53"
     },
     {
       "Name": "2027 joiner",
       "Steam": "76561198418699703",
-      "Score": 0,
-      "Time": "145:08"
+      "Score": 2,
+      "Time": "147:09"
     },
     {
       "Name": "bankroll.su alpha members 53",
       "Steam": "76561199010254074",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Denisuq",
       "Steam": "76561199482346717",
-      "Score": 0,
-      "Time": "55:15"
+      "Score": 14,
+      "Time": "57:15"
     },
     {
       "Name": "xgrc⋆｡°✩",
       "Steam": "76561198791116856",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Egorpido",
+      "Steam": "76561199401604944",
+      "Score": 1,
+      "Time": "1112:17"
     },
     {
       "Name": "Nicho Super Saiyan",
       "Steam": "76561199180147646",
-      "Score": 7,
-      "Time": "03:35"
+      "Score": 0,
+      "Time": "05:35"
     },
     {
       "Name": "Albanian Sucuk",
       "Steam": "76561198333086716",
-      "Score": 2,
-      "Time": "1192:48"
+      "Score": 10,
+      "Time": "1194:48"
     },
     {
       "Name": "'sosa",
       "Steam": "76561199081126630",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "kamcio434",
+      "Steam": "76561199073256625",
+      "Score": 0,
+      "Time": "139:38"
     }
   ]
 }
