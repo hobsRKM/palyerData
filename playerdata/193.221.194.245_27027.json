@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-02T14:20:18.3109896Z",
+  "Time": "2025-11-02T14:22:18.3154579Z",
   "Players": [
     {
       "Name": "\"'",
@@ -10,7 +10,13 @@
     {
       "Name": "geNNeral ♠",
       "Steam": "76561198779906456",
-      "Score": 12,
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Pibble",
+      "Steam": "76561199819784349",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -22,19 +28,19 @@
     {
       "Name": "MIchalix",
       "Steam": "76561199669384995",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "luh_geeked",
       "Steam": "76561198780060093",
-      "Score": 39,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "Edod",
       "Steam": "76561199112507206",
-      "Score": 63,
+      "Score": 71,
       "Time": "??:??"
     },
     {
@@ -46,14 +52,20 @@
     {
       "Name": "M0RCEL",
       "Steam": "76561198320654466",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
+    },
+    {
+      "Name": "Marley",
+      "Steam": "76561198772882292",
+      "Score": 0,
+      "Time": "00:18"
     },
     {
       "Name": "nanosense on top",
       "Steam": "76561199407469923",
-      "Score": 32,
-      "Time": "47:53"
+      "Score": 34,
+      "Time": "49:53"
     }
   ]
 }
