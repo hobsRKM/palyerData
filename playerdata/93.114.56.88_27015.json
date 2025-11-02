@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-02T09:59:04.8396423Z",
+  "Time": "2025-11-02T10:01:04.996188Z",
   "Players": [
+    {
+      "Name": "Aaron",
+      "Steam": "76561199407469923",
+      "Score": 4,
+      "Time": "01:56"
+    },
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "282:44"
+      "Time": "284:44"
     },
     {
       "Name": "Infantrit",
@@ -16,91 +22,91 @@
     {
       "Name": "ferox",
       "Steam": "76561199377440484",
-      "Score": 4,
-      "Time": "14:47"
+      "Score": 3,
+      "Time": "16:47"
     },
     {
       "Name": "#xva",
       "Steam": "76561199871218320",
-      "Score": 8,
-      "Time": "02:15"
+      "Score": 6,
+      "Time": "04:15"
     },
     {
       "Name": "gaspar",
       "Steam": "76561199065150044",
       "Score": 0,
-      "Time": "14:37"
+      "Time": "16:37"
     },
     {
       "Name": "minionaire",
       "Steam": "76561198781748052",
       "Score": 0,
-      "Time": "39:19"
+      "Time": "41:20"
     },
     {
       "Name": "i luv ****",
       "Steam": "76561199870732299",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "wizu",
       "Steam": "76561199865555785",
-      "Score": 14,
-      "Time": "07:18"
+      "Score": 19,
+      "Time": "09:18"
     },
     {
-      "Name": "Otceloth",
-      "Steam": "76561199086623712",
+      "Name": "paradise",
+      "Steam": "76561198380272287",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Харнольд",
-      "Steam": "76561199070756563",
-      "Score": 0,
-      "Time": "706:56"
+      "Name": "Otceloth",
+      "Steam": "76561199086623712",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "x90",
       "Steam": "76561199756507474",
-      "Score": 0,
-      "Time": "13:31"
+      "Score": 6,
+      "Time": "15:32"
     },
     {
       "Name": "#freejeffsmoke",
       "Steam": "76561198431997616",
-      "Score": 1,
-      "Time": "1048:41"
+      "Score": 0,
+      "Time": "1050:41"
     },
     {
       "Name": "Seiðr",
       "Steam": "76561198333235279",
-      "Score": 0,
-      "Time": "290:06"
+      "Score": 10,
+      "Time": "292:06"
     },
     {
       "Name": "Cxrol",
       "Steam": "76561199683629255",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "SIKINTILI",
       "Steam": "76561198288420989",
-      "Score": 0,
-      "Time": "746:01"
+      "Score": 12,
+      "Time": "748:01"
     },
     {
       "Name": "Projectile_Invalid",
       "Steam": "76561199629184110",
-      "Score": 7,
-      "Time": "04:23"
+      "Score": 14,
+      "Time": "06:23"
     },
     {
       "Name": "Lezajsky",
       "Steam": "76561198994915093",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
