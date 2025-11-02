@@ -1,65 +1,71 @@
 {
-  "Time": "2025-11-02T19:38:36.6516908Z",
+  "Time": "2025-11-02T19:40:36.9879726Z",
   "Players": [
     {
       "Name": "aaaaaaaaaa",
       "Steam": "76561199132315900",
-      "Score": 160,
-      "Time": "686:17"
+      "Score": 170,
+      "Time": "688:17"
     },
     {
       "Name": "adadadadadadas",
       "Steam": "76561198220061324",
-      "Score": 26,
-      "Time": "29:16"
+      "Score": 32,
+      "Time": "31:16"
     },
     {
       "Name": "Cat",
       "Steam": "76561199100246231",
       "Score": 16,
-      "Time": "1166:14"
+      "Time": "1168:14"
+    },
+    {
+      "Name": "whitey",
+      "Steam": "76561199842369196",
+      "Score": 6,
+      "Time": "243:44"
     },
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "16:11"
+      "Time": "18:12"
     },
     {
       "Name": "Projectile_Invalid",
       "Steam": "76561199629184110",
-      "Score": 303,
-      "Time": "69:14"
+      "Score": 309,
+      "Time": "71:14"
     },
     {
       "Name": "Denisuq",
       "Steam": "76561199482346717",
-      "Score": 36,
-      "Time": "09:24"
+      "Score": 42,
+      "Time": "11:24"
     },
     {
       "Name": "fr1fx",
       "Steam": "76561199042138318",
-      "Score": 59,
-      "Time": "31:58"
+      "Score": 67,
+      "Time": "33:58"
     },
     {
       "Name": "AKH",
       "Steam": "76561197971640439",
-      "Score": 23,
-      "Time": "1193:28"
+      "Score": 27,
+      "Time": "1195:28"
     },
     {
       "Name": "masya15102015",
       "Steam": "76561198775276388",
       "Score": 2,
-      "Time": "61:16"
+      "Time": "63:17"
     },
     {
       "Name": "marc",
       "Steam": "76561198780142844",
-      "Score": 0,
-      "Time": "318:14"
+      "Score": 6,
+      "Time": "320:15"
     },
     {
       "Name": "your mom",
@@ -70,32 +76,26 @@
     {
       "Name": "mazuti ateik",
       "Steam": "76561199002053532",
-      "Score": 4,
-      "Time": "30:32"
+      "Score": 0,
+      "Time": "32:33"
     },
     {
       "Name": "Crystal",
       "Steam": "76561198782561462",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "ferox",
       "Steam": "76561199377440484",
-      "Score": 20,
-      "Time": "22:55"
+      "Score": 0,
+      "Time": "24:56"
     },
     {
       "Name": "aye",
       "Steam": "76561199582266464",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "never snitch gigger",
-      "Steam": "76561198773601474",
       "Score": 2,
-      "Time": "05:25"
+      "Time": "??:??"
     },
     {
       "Name": "brandonsztywnyg",
@@ -104,13 +104,19 @@
       "Time": "??:??"
     },
     {
-      "Name": "rack",
-      "Steam": "76561199571677660",
-      "Score": 146,
-      "Time": "41:28"
+      "Name": "9",
+      "Steam": "76561198785049227",
+      "Score": 0,
+      "Time": "11:13"
     },
     {
-      "Name": "memesen user",
+      "Name": "rack",
+      "Steam": "76561199571677660",
+      "Score": 151,
+      "Time": "43:29"
+    },
+    {
+      "Name": "memesense      user",
       "Steam": "76561198777258863",
       "Score": 8,
       "Time": "??:??"
@@ -118,14 +124,14 @@
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 0,
-      "Time": "09:22"
+      "Score": 5,
+      "Time": "11:22"
     },
     {
       "Name": "412",
       "Steam": "76561199491603608",
-      "Score": 0,
-      "Time": "417:40"
+      "Score": 3,
+      "Time": "419:40"
     }
   ]
 }
