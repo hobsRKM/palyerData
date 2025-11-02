@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-02T08:28:54.1983229Z",
+  "Time": "2025-11-02T08:30:54.3324029Z",
   "Players": [
+    {
+      "Name": "Aaron",
+      "Steam": "76561199407469923",
+      "Score": 0,
+      "Time": "00:47"
+    },
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "192:33"
+      "Time": "194:33"
     },
     {
       "Name": "Infantrit",
@@ -16,26 +22,32 @@
     {
       "Name": "ferox",
       "Steam": "76561199377440484",
-      "Score": 14,
-      "Time": "14:15"
+      "Score": 20,
+      "Time": "16:15"
     },
     {
       "Name": "kalinix54",
       "Steam": "76561198772276592",
-      "Score": 0,
-      "Time": "58:46"
+      "Score": 6,
+      "Time": "60:47"
     },
     {
       "Name": "selling myself",
       "Steam": "76561199443245230",
-      "Score": 90,
-      "Time": "60:42"
+      "Score": 94,
+      "Time": "62:42"
+    },
+    {
+      "Name": "nxilo",
+      "Steam": "76561199642061793",
+      "Score": 5,
+      "Time": "01:23"
     },
     {
       "Name": "NACC1",
       "Steam": "76561198775539198",
       "Score": 0,
-      "Time": "902:14"
+      "Time": "904:14"
     },
     {
       "Name": "s1mplefr",
@@ -46,44 +58,38 @@
     {
       "Name": "ssll",
       "Steam": "76561199878908533",
-      "Score": 53,
-      "Time": "51:57"
+      "Score": 57,
+      "Time": "53:57"
     },
     {
       "Name": "mazuti ateik",
       "Steam": "76561199002053532",
       "Score": 31,
-      "Time": "798:33"
+      "Time": "800:34"
     },
     {
       "Name": "Kopatel [Fatality User]",
       "Steam": "76561199840187806",
-      "Score": 64,
-      "Time": "29:50"
-    },
-    {
-      "Name": "Wanda",
-      "Steam": "76561199307657735",
-      "Score": 18,
-      "Time": "50:52"
+      "Score": 70,
+      "Time": "31:50"
     },
     {
       "Name": "Trxppy",
       "Steam": "76561198345687319",
-      "Score": 4,
-      "Time": "889:57"
+      "Score": 7,
+      "Time": "891:57"
+    },
+    {
+      "Name": "sztiv98",
+      "Steam": "76561199640932206",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "<3",
       "Steam": "76561199681813907",
-      "Score": 0,
-      "Time": "785:09"
-    },
-    {
-      "Name": "Jeffy",
-      "Steam": "76561199889711508",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "787:10"
     }
   ]
 }
