@@ -1,53 +1,53 @@
 {
-  "Time": "2025-11-02T14:09:40.3943281Z",
+  "Time": "2025-11-02T14:11:40.6439782Z",
   "Players": [
     {
       "Name": "x90",
       "Steam": "76561199756507474",
+      "Score": 6,
+      "Time": "83:18"
+    },
+    {
+      "Name": "Τάσος Βάτραχος",
+      "Steam": "76561198190030418",
       "Score": 0,
-      "Time": "81:17"
+      "Time": "??:??"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198774257705",
-      "Score": 11,
-      "Time": "06:24"
+      "Score": 12,
+      "Time": "08:25"
     },
     {
       "Name": "9",
       "Steam": "76561198785049227",
-      "Score": 44,
-      "Time": "46:54"
+      "Score": 47,
+      "Time": "48:54"
     },
     {
       "Name": "Blank",
       "Steam": "76561199396651185",
-      "Score": 29,
-      "Time": "42:00"
+      "Score": 2,
+      "Time": "44:00"
     },
     {
       "Name": "Projectile_Invalid",
       "Steam": "76561199629184110",
-      "Score": 132,
-      "Time": "06:35"
+      "Score": 140,
+      "Time": "08:35"
     },
     {
       "Name": "fr1fx",
       "Steam": "76561199042138318",
-      "Score": 8,
-      "Time": "08:59"
+      "Score": 0,
+      "Time": "10:59"
     },
     {
       "Name": "momotoshi",
       "Steam": "76561199376808525",
       "Score": 0,
-      "Time": "02:45"
-    },
-    {
-      "Name": "ТЦК василий",
-      "Steam": "76561199822402294",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "04:45"
     },
     {
       "Name": "Jamal",
@@ -58,8 +58,8 @@
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 23,
-      "Time": "877:08"
+      "Score": 29,
+      "Time": "879:08"
     },
     {
       "Name": "cuser3529",
@@ -70,38 +70,38 @@
     {
       "Name": "whitey",
       "Steam": "76561199842369196",
-      "Score": 0,
-      "Time": "41:48"
+      "Score": 1,
+      "Time": "43:48"
     },
     {
       "Name": "dame un grrr",
       "Steam": "76561199869702065",
       "Score": 0,
-      "Time": "1188:05"
+      "Time": "1190:05"
     },
     {
       "Name": "Nicho Super Saiyan",
       "Steam": "76561199180147646",
-      "Score": 10,
-      "Time": "429:53"
+      "Score": 18,
+      "Time": "431:53"
     },
     {
       "Name": "r",
       "Steam": "76561199813866011",
-      "Score": 10,
-      "Time": "270:08"
+      "Score": 14,
+      "Time": "272:08"
     },
     {
       "Name": "vuuteng",
       "Steam": "76561199545953579",
       "Score": 0,
-      "Time": "1004:42"
+      "Time": "1006:43"
     },
     {
       "Name": "Diddy",
       "Steam": "76561198215570155",
-      "Score": 46,
-      "Time": "851:58"
+      "Score": 50,
+      "Time": "853:58"
     }
   ]
 }
