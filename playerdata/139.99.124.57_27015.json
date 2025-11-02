@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-02T18:17:04.6693238Z",
+  "Time": "2025-11-02T18:19:04.6714554Z",
   "Players": [
+    {
+      "Name": "galdimergaming",
+      "Steam": "76561198773842993",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "Jeff",
       "Steam": "76561198774315242",
-      "Score": 33,
-      "Time": "93:22"
+      "Score": 37,
+      "Time": "95:22"
     },
     {
       "Name": "NIKO",
       "Steam": "76561199518481174",
-      "Score": 32,
-      "Time": "22:12"
+      "Score": 40,
+      "Time": "24:12"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 2,
-      "Time": "174:01"
+      "Score": 6,
+      "Time": "176:01"
     },
     {
       "Name": "Bot Player #1",
       "Steam": "76561198779391101",
-      "Score": 23,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
