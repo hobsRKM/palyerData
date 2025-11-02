@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-02T22:47:46.0287024Z",
+  "Time": "2025-11-02T22:49:46.2141289Z",
   "Players": [
     {
       "Name": "X.Main",
@@ -10,26 +10,38 @@
     {
       "Name": "polak",
       "Steam": "76561198773432069",
-      "Score": 28,
-      "Time": "19:05"
+      "Score": 32,
+      "Time": "21:05"
     },
     {
       "Name": "wen diesel",
       "Steam": "76561199850406458",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 19,
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MagicMike",
+      "Steam": "76561199612053434",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "460:10"
+      "Time": "462:11"
+    },
+    {
+      "Name": "DZ",
+      "Steam": "76561198771508593",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
