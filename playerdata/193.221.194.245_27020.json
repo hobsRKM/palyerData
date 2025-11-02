@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-02T10:59:37.441576Z",
+  "Time": "2025-11-02T11:01:31.60603Z",
   "Players": [
     {
-      "Name": "\u0022\u0027",
+      "Name": "\"'",
       "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SRT DID",
+      "Steam": "76561199441794813",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Aaron",
       "Steam": "76561199407469923",
-      "Score": 10,
+      "Score": 13,
       "Time": "??:??"
     },
     {
@@ -20,27 +26,27 @@
       "Time": "??:??"
     },
     {
-      "Name": "fatal \u207A \u208A\u2726Ria\u208A\u2726\u00B0",
+      "Name": "fatality. ⁺ ₊✦Ria₊✦°",
       "Steam": "76561199236818034",
-      "Score": 48,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "haval",
       "Steam": "76561199524318866",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8\uD835\uDCF6\uD835\uDD02",
       "Steam": "76561199230497763",
-      "Score": 38,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "ZAAA",
       "Steam": "76561198773139852",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
