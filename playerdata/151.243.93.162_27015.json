@@ -1,47 +1,59 @@
 {
-  "Time": "2025-11-02T03:36:18.3979575Z",
+  "Time": "2025-11-02T03:36:21.6266964Z",
   "Players": [
     {
-      "Name": "johnathon",
-      "Steam": "76561199336126493",
-      "Score": 27,
+      "Name": "ShadowSpecter",
+      "Steam": "76561199498461340",
+      "Score": 102,
+      "Time": "66:32"
+    },
+    {
+      "Name": "soda",
+      "Steam": "76561198786321609",
+      "Score": 37,
+      "Time": "12:55"
+    },
+    {
+      "Name": "femboy",
+      "Steam": "76561199812981312",
+      "Score": 40,
+      "Time": "187:03"
+    },
+    {
+      "Name": "how to make pickle pepsi",
+      "Steam": "76561198773584763",
+      "Score": 20,
       "Time": "??:??"
     },
     {
-      "Name": "Alone",
-      "Steam": "76561199837329294",
-      "Score": 50,
+      "Name": "day one on source.lua",
+      "Steam": "76561198772145583",
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "RUSSIAN FISHING",
-      "Steam": "76561199759131097",
+      "Name": "Simply #vac",
+      "Steam": "76561199614094802",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kemy",
+      "Steam": "76561198074792700",
+      "Score": 41,
+      "Time": "250:40"
+    },
+    {
+      "Name": "platinum",
+      "Steam": "76561198772775252",
       "Score": 0,
+      "Time": "11:49"
+    },
+    {
+      "Name": "BMW X3 M₄₀ᵢ",
+      "Steam": "76561198393535586",
+      "Score": 51,
       "Time": "??:??"
-    },
-    {
-      "Name": "Cookie",
-      "Steam": "76561199889788325",
-      "Score": 0,
-      "Time": "21:57"
-    },
-    {
-      "Name": "ethan exodus",
-      "Steam": "76561199803595505",
-      "Score": 24,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Liam ledger",
-      "Steam": "76561199844832166",
-      "Score": 33,
-      "Time": "??:??"
-    },
-    {
-      "Name": "imnotdoggo",
-      "Steam": "76561199140462879",
-      "Score": 38,
-      "Time": "94:35"
     }
   ]
 }
