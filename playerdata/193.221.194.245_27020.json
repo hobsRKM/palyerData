@@ -1,29 +1,41 @@
 {
-  "Time": "2025-11-02T22:37:44.7324707Z",
+  "Time": "2025-11-02T22:39:45.0118117Z",
   "Players": [
+    {
+      "Name": "Sigma boyus",
+      "Steam": "76561199642604241",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "polak",
       "Steam": "76561198773432069",
-      "Score": 31,
-      "Time": "09:03"
+      "Score": 44,
+      "Time": "11:04"
     },
     {
       "Name": "wen diesel",
       "Steam": "76561199850406458",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Flash4838",
+      "Steam": "76561198883665407",
       "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "450:09"
+      "Time": "452:09"
     }
   ]
 }
