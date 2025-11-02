@@ -1,10 +1,16 @@
 {
-  "Time": "2025-11-02T16:45:31.6569798Z",
+  "Time": "2025-11-02T16:47:31.6534592Z",
   "Players": [
+    {
+      "Name": "dani",
+      "Steam": "76561199110394881",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "тест reallywin",
       "Steam": "76561199868994440",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -16,37 +22,37 @@
     {
       "Name": "ducarii #1 fan",
       "Steam": "76561199809735389",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD91\uD835\uDD8A\uD835\uDD93\uD835\uDD93\uD835\uDD86\uD835\uDD97\uD835\uDD99",
       "Steam": "76561199003279937",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "The Lion",
       "Steam": "76561199654039060",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "JohnnyTapsHvH",
       "Steam": "76561197965556120",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "cwatrox",
       "Steam": "76561198161184894",
-      "Score": 4,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "diesel",
       "Steam": "76561198789414751",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -58,32 +64,32 @@
     {
       "Name": "MiQ",
       "Steam": "76561199388575573",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "97:56"
+      "Time": "99:56"
     },
     {
       "Name": "Tutti",
       "Steam": "76561198277498465",
-      "Score": 0,
-      "Time": "296:24"
+      "Score": 9,
+      "Time": "298:24"
     },
     {
       "Name": "\uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8\uD835\uDCF6\uD835\uDD02",
       "Steam": "76561199230497763",
-      "Score": 10,
-      "Time": "36:06"
+      "Score": 15,
+      "Time": "38:06"
     },
     {
       "Name": "hunting oliver",
       "Steam": "76561199678178518",
       "Score": 0,
-      "Time": "37:00"
+      "Time": "39:00"
     }
   ]
 }
