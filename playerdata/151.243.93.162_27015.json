@@ -1,41 +1,53 @@
 {
-  "Time": "2025-11-02T03:48:18.3980313Z",
+  "Time": "2025-11-02T03:48:21.6258284Z",
   "Players": [
     {
-      "Name": "sol",
-      "Steam": "76561198774876005",
-      "Score": 4,
+      "Name": "johnathon",
+      "Steam": "76561199336126493",
+      "Score": 13,
+      "Time": "70:28"
+    },
+    {
+      "Name": "ShadowSpecter",
+      "Steam": "76561199498461340",
+      "Score": 148,
+      "Time": "78:32"
+    },
+    {
+      "Name": "soda",
+      "Steam": "76561198786321609",
+      "Score": 65,
+      "Time": "24:55"
+    },
+    {
+      "Name": "femboy",
+      "Steam": "76561199812981312",
+      "Score": 67,
+      "Time": "199:03"
+    },
+    {
+      "Name": "Anabol",
+      "Steam": "76561199551564687",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Alone",
-      "Steam": "76561199837329294",
-      "Score": 88,
+      "Name": ".",
+      "Steam": "76561199087234560",
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "RUSSIAN FISHING",
-      "Steam": "76561199759131097",
-      "Score": 23,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Cookie",
-      "Steam": "76561199889788325",
+      "Name": "$andrex",
+      "Steam": "76561199553155289",
       "Score": 2,
-      "Time": "06:19"
-    },
-    {
-      "Name": "ethan exodus",
-      "Steam": "76561199803595505",
-      "Score": 50,
       "Time": "??:??"
     },
     {
-      "Name": "Liam ledger",
-      "Steam": "76561199844832166",
-      "Score": 46,
-      "Time": "??:??"
+      "Name": "73b076479ee6e472885c3f593654",
+      "Steam": "76561198774541077",
+      "Score": 1,
+      "Time": "00:31"
     }
   ]
 }
