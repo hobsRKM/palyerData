@@ -1,17 +1,59 @@
 {
-  "Time": "2025-11-02T06:18:18.4103476Z",
+  "Time": "2025-11-02T06:18:21.6233732Z",
   "Players": [
     {
-      "Name": "ntoskrnl",
-      "Steam": "76561199841087110",
-      "Score": 4,
+      "Name": "svchost",
+      "Steam": "76561198775139203",
+      "Score": 45,
+      "Time": "275:41"
+    },
+    {
+      "Name": "martyr",
+      "Steam": "76561197995675648",
+      "Score": 82,
       "Time": "??:??"
     },
     {
-      "Name": "Tyler Rose",
-      "Steam": "76561198773379801",
-      "Score": 4,
+      "Name": "s1mple",
+      "Steam": "76561199889246882",
+      "Score": 68,
+      "Time": "290:47"
+    },
+    {
+      "Name": "BMW X3 M₄₀ᵢ",
+      "Steam": "76561198393535586",
+      "Score": 0,
+      "Time": "106:32"
+    },
+    {
+      "Name": "LooksOrDeath",
+      "Steam": "76561199212196788",
+      "Score": 2,
+      "Time": "548:02"
+    },
+    {
+      "Name": "habits",
+      "Steam": "76561199878413811",
+      "Score": 45,
+      "Time": "269:12"
+    },
+    {
+      "Name": "how to make pickle pepsi",
+      "Steam": "76561198773584763",
+      "Score": 11,
+      "Time": "105:54"
+    },
+    {
+      "Name": "Tripdz",
+      "Steam": "76561199533896829",
+      "Score": 37,
       "Time": "??:??"
+    },
+    {
+      "Name": "No Punch Man",
+      "Steam": "76561198833143842",
+      "Score": 2,
+      "Time": "28:07"
     }
   ]
 }
