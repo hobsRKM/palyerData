@@ -1,59 +1,65 @@
 {
-  "Time": "2025-11-03T14:06:15.6032001Z",
+  "Time": "2025-11-03T14:08:15.6130634Z",
   "Players": [
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "175:16"
+      "Time": "177:16"
     },
     {
       "Name": "Joni",
       "Steam": "76561198833666096",
-      "Score": 19,
-      "Time": "05:47"
+      "Score": 0,
+      "Time": "07:47"
     },
     {
       "Name": "『ᴅᵃʳᵏ』ᵐᵃⁿ✩",
       "Steam": "76561198151688706",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Counter112",
+      "Steam": "76561199834073970",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Kiszonka",
       "Steam": "76561199859168521",
-      "Score": 31,
-      "Time": "44:57"
+      "Score": 34,
+      "Time": "46:57"
     },
     {
       "Name": "clippy",
       "Steam": "76561199550122482",
-      "Score": 22,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8\uD835\uDCF6\uD835\uDD02",
+      "Steam": "76561199230497763",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "hessu777",
       "Steam": "76561198776921465",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "La_Bomboclat",
       "Steam": "76561199011926412",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "pepe",
       "Steam": "76561199687597370",
-      "Score": 9,
+      "Score": 17,
       "Time": "??:??"
-    },
-    {
-      "Name": "LoadingSPZ",
-      "Steam": "76561198986841285",
-      "Score": 63,
-      "Time": "12:08"
     }
   ]
 }
