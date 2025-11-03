@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-03T07:55:00.4952907Z",
-  "Players": []
+  "Time": "2025-11-03T07:55:05.5229023Z",
+  "Players": [
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 22,
+      "Time": "53:48"
+    },
+    {
+      "Name": "fatal Relocating",
+      "Steam": "76561199891644703",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zehmargaming",
+      "Steam": "76561199514352978",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
