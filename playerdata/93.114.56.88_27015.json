@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-03T22:40:51.2409674Z",
+  "Time": "2025-11-03T22:42:51.6760172Z",
   "Players": [
+    {
+      "Name": "goaim beta user",
+      "Steam": "76561198788475992",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "ahmeed",
       "Steam": "76561198772965181",
-      "Score": 51,
-      "Time": "34:11"
+      "Score": 56,
+      "Time": "36:12"
     },
     {
       "Name": "o7",
       "Steam": "76561199886492025",
-      "Score": 43,
-      "Time": "398:46"
+      "Score": 45,
+      "Time": "400:47"
     },
     {
       "Name": "luvii",
@@ -22,55 +28,61 @@
     {
       "Name": "an",
       "Steam": "76561199225335280",
-      "Score": 9,
-      "Time": "06:19"
+      "Score": 0,
+      "Time": "08:19"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 66,
+      "Score": 74,
       "Time": "??:??"
+    },
+    {
+      "Name": "suzune",
+      "Steam": "76561198831338710",
+      "Score": 0,
+      "Time": "32:25"
     },
     {
       "Name": "☽",
       "Steam": "76561199680474626",
-      "Score": 80,
-      "Time": "26:51"
+      "Score": 91,
+      "Time": "28:51"
     },
     {
       "Name": "elo320",
       "Steam": "76561199862499692",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "hvh",
       "Steam": "76561199874615846",
-      "Score": 0,
-      "Time": "01:27"
+      "Score": 2,
+      "Time": "03:27"
     },
     {
-      "Name": "mutsumi",
-      "Steam": "76561199764975190",
-      "Score": 4,
-      "Time": "168:36"
+      "Name": "plaguecheat",
+      "Steam": "76561198784574810",
+      "Score": 2,
+      "Time": "00:46"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 6,
-      "Time": "34:46"
+      "Score": 8,
+      "Time": "36:47"
     },
     {
       "Name": "Visa on fata",
       "Steam": "76561199008479375",
-      "Score": 68,
-      "Time": "74:04"
+      "Score": 79,
+      "Time": "76:04"
     },
     {
       "Name": "tainted9296",
       "Steam": "76561198341012123",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     }
   ]
