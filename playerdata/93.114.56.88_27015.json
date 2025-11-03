@@ -1,59 +1,59 @@
 {
-  "Time": "2025-11-03T22:04:46.5167998Z",
+  "Time": "2025-11-03T22:06:46.694501Z",
   "Players": [
+    {
+      "Name": "ahmeed",
+      "Steam": "76561198772965181",
+      "Score": 0,
+      "Time": "00:07"
+    },
     {
       "Name": "o7",
       "Steam": "76561199886492025",
-      "Score": 32,
-      "Time": "362:42"
+      "Score": 34,
+      "Time": "364:42"
     },
     {
       "Name": "an",
       "Steam": "76561199225335280",
-      "Score": 28,
-      "Time": "13:52"
+      "Score": 36,
+      "Time": "15:53"
     },
     {
       "Name": "meowek",
       "Steam": "76561199085759211",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "☽",
       "Steam": "76561199680474626",
-      "Score": 4,
-      "Time": "114:07"
-    },
-    {
-      "Name": "ᴋᴀ$ʜ",
-      "Steam": "76561198779174796",
-      "Score": 30,
-      "Time": "36:13"
-    },
-    {
-      "Name": "Denisuq",
-      "Steam": "76561199482346717",
-      "Score": 10,
-      "Time": "28:30"
+      "Score": 0,
+      "Time": "116:07"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 0,
-      "Time": "44:32"
+      "Score": 6,
+      "Time": "46:32"
     },
     {
       "Name": "gus",
       "Steam": "76561199404381221",
-      "Score": 2,
-      "Time": "156:44"
+      "Score": 4,
+      "Time": "158:44"
     },
     {
       "Name": "pphud enjoyer",
       "Steam": "76561198259211887",
-      "Score": 8,
-      "Time": "225:25"
+      "Score": 0,
+      "Time": "227:26"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 0,
+      "Time": "00:42"
     },
     {
       "Name": "req",
@@ -64,8 +64,8 @@
     {
       "Name": "Visa on fata",
       "Steam": "76561199008479375",
-      "Score": 21,
-      "Time": "37:59"
+      "Score": 33,
+      "Time": "39:59"
     }
   ]
 }
