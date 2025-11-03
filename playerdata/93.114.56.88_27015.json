@@ -1,47 +1,53 @@
 {
-  "Time": "2025-11-03T09:14:15.4830135Z",
+  "Time": "2025-11-03T09:16:15.4853491Z",
   "Players": [
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
-      "Score": 4,
-      "Time": "98:52"
+      "Score": 0,
+      "Time": "100:52"
+    },
+    {
+      "Name": "tragaci",
+      "Steam": "76561199876689927",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "Mommy",
       "Steam": "76561199877736918",
-      "Score": 21,
-      "Time": "80:38"
+      "Score": 0,
+      "Time": "82:38"
     },
     {
       "Name": "rcx",
       "Steam": "76561199784226010",
-      "Score": 69,
-      "Time": "13:07"
+      "Score": 0,
+      "Time": "15:07"
     },
     {
       "Name": "412",
       "Steam": "76561199491603608",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "K1tanna",
-      "Steam": "76561199521351689",
       "Score": 9,
       "Time": "??:??"
     },
     {
-      "Name": "shit Just_better",
+      "Name": "Mongol",
+      "Steam": "76561198376880879",
+      "Score": 0,
+      "Time": "08:39"
+    },
+    {
+      "Name": "shital Just_better",
       "Steam": "76561199744178043",
-      "Score": 49,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "am.zh.ox.v.zi.dbk.e",
       "Steam": "76561198774922908",
-      "Score": 11,
-      "Time": "22:04"
+      "Score": 6,
+      "Time": "24:04"
     }
   ]
 }
