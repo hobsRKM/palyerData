@@ -1,28 +1,40 @@
 {
-  "Time": "2025-11-03T15:22:31.4022757Z",
+  "Time": "2025-11-03T15:24:31.4287122Z",
   "Players": [
+    {
+      "Name": "galdimergaming",
+      "Steam": "76561198773842993",
+      "Score": 2,
+      "Time": "00:54"
+    },
     {
       "Name": "ScreaM",
       "Steam": "76561199072358378",
-      "Score": 0,
-      "Time": "67:08"
+      "Score": 1,
+      "Time": "69:08"
     },
     {
       "Name": "Mist",
       "Steam": "76561199877085063",
-      "Score": 27,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "Alt loves fent",
       "Steam": "76561199834727236",
-      "Score": 16,
-      "Time": "41:55"
+      "Score": 17,
+      "Time": "43:55"
     },
     {
       "Name": "-PeIL-",
       "Steam": "76561199518954045",
-      "Score": 24,
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NIKO",
+      "Steam": "76561199518481174",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
