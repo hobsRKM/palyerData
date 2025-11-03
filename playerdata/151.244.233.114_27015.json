@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-03T20:10:09.4531391Z",
+  "Time": "2025-11-03T20:12:09.4599415Z",
   "Players": [
+    {
+      "Name": "rain",
+      "Steam": "76561198775585638",
+      "Score": 0,
+      "Time": "00:36"
+    },
     {
       "Name": "ac1d",
       "Steam": "76561198791808703",
-      "Score": 20,
-      "Time": "38:36"
+      "Score": 28,
+      "Time": "40:36"
     },
     {
       "Name": "not serv on nixware",
       "Steam": "76561198907237839",
-      "Score": 10,
-      "Time": "05:13"
+      "Score": 14,
+      "Time": "07:13"
     },
     {
       "Name": "prec",
       "Steam": "76561198772416895",
       "Score": 28,
-      "Time": "40:39"
+      "Time": "42:39"
     },
     {
       "Name": "Orca",
@@ -26,9 +32,21 @@
       "Time": "??:??"
     },
     {
-      "Name": "aWannabe",
-      "Steam": "76561199758748828",
-      "Score": 2,
+      "Name": "ja",
+      "Steam": "76561198413420806",
+      "Score": 0,
+      "Time": "00:36"
+    },
+    {
+      "Name": "\uDB40\uDC73⁧⁧lovesick",
+      "Steam": "76561199258689499",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Liam ledger",
+      "Steam": "76561199844832166",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
