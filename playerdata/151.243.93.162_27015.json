@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-03T14:36:22.8485761Z",
-  "Players": []
+  "Time": "2025-11-03T14:36:37.6633181Z",
+  "Players": [
+    {
+      "Name": "status",
+      "Steam": "76561198775585638",
+      "Score": 18,
+      "Time": "22:27"
+    },
+    {
+      "Name": "jermon.anze",
+      "Steam": "76561198778718559",
+      "Score": 7,
+      "Time": "17:27"
+    },
+    {
+      "Name": "aimware user",
+      "Steam": "76561199812981312",
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sleepy",
+      "Steam": "76561199699690957",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "toastedandroastedv 4",
+      "Steam": "76561198772274004",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
