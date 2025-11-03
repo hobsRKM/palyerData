@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-03T01:27:35.4212342Z",
+  "Time": "2025-11-03T01:29:35.4287407Z",
   "Players": [
     {
       "Name": "Vladimir Putin",
       "Steam": "76561198774352681",
       "Score": 0,
-      "Time": "01:03"
+      "Time": "03:03"
     },
     {
       "Name": "DADA 74 | MemeSense User",
       "Steam": "76561198778710723",
+      "Score": 8,
+      "Time": "03:16"
+    },
+    {
+      "Name": "Python",
+      "Steam": "76561198350234915",
       "Score": 0,
-      "Time": "01:16"
+      "Time": "01:53"
     }
   ]
 }
