@@ -1,29 +1,29 @@
 {
-  "Time": "2025-11-03T23:12:56.1580828Z",
+  "Time": "2025-11-03T23:14:56.4308282Z",
   "Players": [
+    {
+      "Name": ":b",
+      "Steam": "76561199582266464",
+      "Score": 2,
+      "Time": "210:39"
+    },
     {
       "Name": "ahmeed",
       "Steam": "76561198772965181",
-      "Score": 0,
-      "Time": "66:16"
-    },
-    {
-      "Name": "eva elife-_-",
-      "Steam": "76561198775407024",
-      "Score": 0,
-      "Time": "43:10"
+      "Score": 2,
+      "Time": "68:17"
     },
     {
       "Name": "an",
       "Steam": "76561199225335280",
-      "Score": 0,
-      "Time": "38:24"
+      "Score": 1,
+      "Time": "40:24"
     },
     {
       "Name": "Kali",
       "Steam": "76561198772276592",
       "Score": 0,
-      "Time": "637:42"
+      "Time": "639:42"
     },
     {
       "Name": "haunted",
@@ -34,56 +34,68 @@
     {
       "Name": "meowek",
       "Steam": "76561199085759211",
-      "Score": 0,
-      "Time": "20:21"
+      "Score": 8,
+      "Time": "22:21"
     },
     {
       "Name": "Ryze",
       "Steam": "76561199068166196",
-      "Score": 2,
-      "Time": "01:56"
+      "Score": 5,
+      "Time": "03:57"
+    },
+    {
+      "Name": "☽",
+      "Steam": "76561199680474626",
+      "Score": 0,
+      "Time": "00:28"
     },
     {
       "Name": "ᴋᴀ$ʜ",
       "Steam": "76561198779174796",
-      "Score": 0,
-      "Time": "21:50"
+      "Score": 8,
+      "Time": "23:51"
     },
     {
       "Name": "hard polo stage 2",
       "Steam": "76561198773644062",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": ".gg/b Mike hanksoff",
+      "Name": "Mike hanksoff",
       "Steam": "76561199409844133",
       "Score": 2,
-      "Time": "09:00"
+      "Time": "11:01"
     },
     {
       "Name": "\uDB40\uDC73⁧⁧ bx",
       "Steam": "76561199231448999",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nicho Super Saiyan",
+      "Steam": "76561199180147646",
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "bruh",
       "Steam": "76561198968678598",
-      "Score": 0,
-      "Time": "00:51"
+      "Score": 10,
+      "Time": "02:52"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 6,
-      "Time": "66:51"
+      "Score": 10,
+      "Time": "68:51"
     },
     {
       "Name": "Visa on fata",
       "Steam": "76561199008479375",
-      "Score": 7,
-      "Time": "106:09"
+      "Score": 11,
+      "Time": "108:09"
     }
   ]
 }
