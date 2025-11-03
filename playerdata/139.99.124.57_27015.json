@@ -1,23 +1,35 @@
 {
-  "Time": "2025-11-03T01:31:35.4362075Z",
+  "Time": "2025-11-03T01:33:35.4299087Z",
   "Players": [
     {
       "Name": "Vladimir Putin",
       "Steam": "76561198774352681",
-      "Score": 0,
-      "Time": "05:03"
+      "Score": 2,
+      "Time": "07:03"
     },
     {
       "Name": "DADA 74 | MemeSense User",
       "Steam": "76561198778710723",
-      "Score": 14,
-      "Time": "05:16"
+      "Score": 16,
+      "Time": "07:16"
+    },
+    {
+      "Name": "lylaa",
+      "Steam": "76561199783489133",
+      "Score": 0,
+      "Time": "00:26"
+    },
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 2,
+      "Time": "01:31"
     },
     {
       "Name": "Python",
       "Steam": "76561198350234915",
-      "Score": 4,
-      "Time": "03:53"
+      "Score": 6,
+      "Time": "05:53"
     }
   ]
 }
