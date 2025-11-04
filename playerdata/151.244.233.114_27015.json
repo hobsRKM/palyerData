@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-04T10:05:10.9625921Z",
+  "Time": "2025-11-04T10:07:10.9640167Z",
   "Players": [
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 24,
+      "Time": "01:05"
+    },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 61,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "Pennywise The Dancing Clown",
       "Steam": "76561199877138048",
-      "Score": 33,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "emu",
       "Steam": "76561198147102077",
-      "Score": 62,
+      "Score": 66,
       "Time": "??:??"
     }
   ]
