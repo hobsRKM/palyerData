@@ -1,41 +1,47 @@
 {
-  "Time": "2025-11-04T03:01:34.8429962Z",
+  "Time": "2025-11-04T03:02:22.8613774Z",
   "Players": [
     {
-      "Name": "CardX",
-      "Steam": "76561199015825113",
+      "Name": "Rot",
+      "Steam": "76561199755599976",
+      "Score": 10,
+      "Time": "123:14"
+    },
+    {
+      "Name": "blahx909",
+      "Steam": "76561198775054336",
+      "Score": 10,
+      "Time": "14:16"
+    },
+    {
+      "Name": "Lucky...",
+      "Steam": "76561198786330997",
+      "Score": 10,
+      "Time": "09:20"
+    },
+    {
+      "Name": "4m",
+      "Steam": "76561199471107546",
+      "Score": 0,
+      "Time": "93:07"
+    },
+    {
+      "Name": "GDBDVICELORD (DEAD HOMIES)",
+      "Steam": "76561199648325653",
+      "Score": 3,
+      "Time": "49:40"
+    },
+    {
+      "Name": "xxwni",
+      "Steam": "76561198775287167",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "elephant",
-      "Steam": "76561199551553809",
-      "Score": 20,
-      "Time": "05:36"
-    },
-    {
-      "Name": "fuck \uDB40\uDC21\uDB40\uDC21",
-      "Steam": "76561198773076671",
-      "Score": 81,
-      "Time": "31:40"
-    },
-    {
-      "Name": "vors",
-      "Steam": "76561198778217940",
-      "Score": 2,
+      "Name": "dood",
+      "Steam": "76561199075452477",
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "loveacedia",
-      "Steam": "76561199742205437",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "123",
-      "Steam": "76561199757624875",
-      "Score": 32,
-      "Time": "30:58"
     }
   ]
 }
