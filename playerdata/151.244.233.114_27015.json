@@ -1,40 +1,40 @@
 {
-  "Time": "2025-11-04T01:26:09.4574616Z",
+  "Time": "2025-11-04T01:28:09.4549502Z",
   "Players": [
+    {
+      "Name": "ricky",
+      "Steam": "76561199002151484",
+      "Score": 0,
+      "Time": "01:29"
+    },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 20,
-      "Time": "39:45"
+      "Score": 21,
+      "Time": "41:45"
     },
     {
       "Name": "NYUKI",
       "Steam": "76561199740544730",
-      "Score": 4,
-      "Time": "31:02"
+      "Score": 6,
+      "Time": "33:02"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Moon",
       "Steam": "76561199219276040",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "CardX",
-      "Steam": "76561199015825113",
-      "Score": 18,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Simply #iloveprimordial",
       "Steam": "76561199795780523",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
     }
   ]
