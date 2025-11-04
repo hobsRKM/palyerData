@@ -1,23 +1,23 @@
 {
-  "Time": "2025-11-04T00:05:03.0258303Z",
+  "Time": "2025-11-04T00:07:03.1926713Z",
   "Players": [
+    {
+      "Name": "kim",
+      "Steam": "76561199389073332",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Winston",
       "Steam": "76561199823400682",
-      "Score": 27,
-      "Time": "762:42"
+      "Score": 33,
+      "Time": "764:42"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 50,
+      "Score": 53,
       "Time": "??:??"
-    },
-    {
-      "Name": "meowek",
-      "Steam": "76561199085759211",
-      "Score": 2,
-      "Time": "72:28"
     },
     {
       "Name": "stoicmcnulty3",
@@ -28,20 +28,26 @@
     {
       "Name": "\uD835\uDCDB\uD835\uDCEE\uD835\uDCF8\uD835\uDCF7\uD835\uDCF2\uD835\uDCEE",
       "Steam": "76561199683629255",
-      "Score": 27,
-      "Time": "165:33"
+      "Score": 29,
+      "Time": "167:33"
+    },
+    {
+      "Name": "David",
+      "Steam": "76561199618591623",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Nicho Super Saiyan",
       "Steam": "76561199180147646",
-      "Score": 48,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "Visa on fata",
       "Steam": "76561199008479375",
-      "Score": 45,
-      "Time": "158:15"
+      "Score": 55,
+      "Time": "160:16"
     }
   ]
 }
