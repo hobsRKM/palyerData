@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-04T09:41:10.973836Z",
+  "Time": "2025-11-04T09:43:10.9717947Z",
   "Players": [
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 0,
-      "Time": "10:17"
+      "Score": 4,
+      "Time": "12:17"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "blahx909",
       "Steam": "76561198775054336",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
+      "Score": 3,
+      "Time": "26:55"
+    },
+    {
+      "Name": "Pennywise The Dancing Clown",
+      "Steam": "76561199877138048",
       "Score": 0,
-      "Time": "24:55"
+      "Time": "??:??"
     }
   ]
 }
