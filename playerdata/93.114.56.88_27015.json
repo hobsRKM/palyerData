@@ -1,41 +1,89 @@
 {
-  "Time": "2025-11-04T23:01:52.056126Z",
+  "Time": "2025-11-04T23:01:57.3252441Z",
   "Players": [
     {
-      "Name": "vmwrite",
-      "Steam": "76561198778702291",
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "565:20"
+    },
+    {
+      "Name": "Riau",
+      "Steam": "76561199849275368",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "felix2024",
+      "Steam": "76561199752633124",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "nimiec",
-      "Steam": "76561199882399702",
+      "Name": "gus",
+      "Steam": "76561199404381221",
+      "Score": 2,
+      "Time": "47:08"
+    },
+    {
+      "Name": "an",
+      "Steam": "76561199225335280",
+      "Score": 6,
+      "Time": "41:22"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 2,
+      "Time": "17:25"
+    },
+    {
+      "Name": "laxo",
+      "Steam": "76561199631116344",
+      "Score": 0,
+      "Time": "04:32"
+    },
+    {
+      "Name": "EasyAF",
+      "Steam": "76561198417239008",
+      "Score": 4,
+      "Time": "54:56"
+    },
+    {
+      "Name": "bensonfaith764",
+      "Steam": "76561199610550561",
       "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "marc",
-      "Steam": "76561198780142844",
-      "Score": 4,
-      "Time": "143:53"
+      "Name": "mocker",
+      "Steam": "76561198775290030",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
-      "Name": "Dexterd",
-      "Steam": "76561198806792145",
-      "Score": 4,
+      "Name": "durfy",
+      "Steam": "76561198848641570",
+      "Score": 3,
       "Time": "??:??"
     },
     {
-      "Name": "Сейбл без трусов",
-      "Steam": "76561199730399643",
-      "Score": 0,
-      "Time": "28:48"
+      "Name": "NO",
+      "Steam": "76561198771403934",
+      "Score": 6,
+      "Time": "06:51"
     },
     {
-      "Name": "Mr. Penis",
-      "Steam": "76561198772416488",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "turkish millionar $",
+      "Steam": "76561198784574810",
+      "Score": 11,
+      "Time": "59:09"
+    },
+    {
+      "Name": "issues",
+      "Steam": "76561199217723771",
+      "Score": 4,
+      "Time": "42:30"
     }
   ]
 }
