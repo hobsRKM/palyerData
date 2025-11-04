@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-04T00:58:09.458916Z",
+  "Time": "2025-11-04T01:00:09.4641305Z",
   "Players": [
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 22,
-      "Time": "11:45"
+      "Score": 32,
+      "Time": "13:45"
+    },
+    {
+      "Name": "polizzi",
+      "Steam": "76561198793598358",
+      "Score": 0,
+      "Time": "00:06"
     },
     {
       "Name": "NYUKI",
       "Steam": "76561199740544730",
-      "Score": 2,
-      "Time": "03:02"
+      "Score": 3,
+      "Time": "05:02"
     },
     {
       "Name": "kicken",
       "Steam": "76561199370092055",
-      "Score": 0,
-      "Time": "22:30"
+      "Score": 2,
+      "Time": "24:30"
     },
     {
       "Name": "xd",
@@ -28,7 +34,7 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
