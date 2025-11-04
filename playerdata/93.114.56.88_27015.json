@@ -1,41 +1,71 @@
 {
-  "Time": "2025-11-04T23:13:52.0433998Z",
+  "Time": "2025-11-04T23:13:57.3156354Z",
   "Players": [
     {
-      "Name": "vmwrite",
-      "Steam": "76561198778702291",
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "577:20"
+    },
+    {
+      "Name": "Riau",
+      "Steam": "76561199849275368",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "felix2024",
+      "Steam": "76561199752633124",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "chujek.eu",
-      "Steam": "76561198774511893",
-      "Score": 30,
-      "Time": "??:??"
+      "Name": "gus",
+      "Steam": "76561199404381221",
+      "Score": 12,
+      "Time": "59:08"
     },
     {
-      "Name": "nimiec",
-      "Steam": "76561199882399702",
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 6,
+      "Time": "29:25"
+    },
+    {
+      "Name": "laxo",
+      "Steam": "76561199631116344",
+      "Score": 15,
+      "Time": "16:32"
+    },
+    {
+      "Name": "EasyAF",
+      "Steam": "76561198417239008",
+      "Score": 8,
+      "Time": "66:56"
+    },
+    {
+      "Name": "durfy",
+      "Steam": "76561198848641570",
       "Score": 17,
       "Time": "??:??"
     },
     {
-      "Name": "marc",
-      "Steam": "76561198780142844",
-      "Score": 67,
-      "Time": "155:53"
-    },
-    {
-      "Name": "Сейбл без трусов",
-      "Steam": "76561199730399643",
-      "Score": 21,
-      "Time": "40:48"
-    },
-    {
-      "Name": "Mr. Penis",
-      "Steam": "76561198772416488",
-      "Score": 20,
+      "Name": "que me importa 3000",
+      "Steam": "76561199887516653",
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "turkish millionar $",
+      "Steam": "76561198784574810",
+      "Score": 21,
+      "Time": "71:09"
+    },
+    {
+      "Name": "issues",
+      "Steam": "76561199217723771",
+      "Score": 13,
+      "Time": "54:30"
     }
   ]
 }
