@@ -1,17 +1,35 @@
 {
-  "Time": "2025-11-05T15:17:13.6769875Z",
+  "Time": "2025-11-05T15:19:13.6749391Z",
   "Players": [
+    {
+      "Name": "✡⃤⛴☁",
+      "Steam": "76561199060922164",
+      "Score": 27,
+      "Time": "01:24"
+    },
     {
       "Name": "Chevriel",
       "Steam": "76561199629642229",
-      "Score": 52,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "IDA 9.0 Dump VAC",
+      "Steam": "76561199720737272",
+      "Score": 4,
+      "Time": "01:32"
     },
     {
       "Name": "RETRDINDIANS",
       "Steam": "76561199871615773",
-      "Score": 18,
-      "Time": "10:35"
+      "Score": 28,
+      "Time": "12:35"
+    },
+    {
+      "Name": "valorant my love",
+      "Steam": "76561198771647019",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
