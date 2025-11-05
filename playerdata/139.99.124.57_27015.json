@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-05T14:03:13.6803246Z",
+  "Time": "2025-11-05T14:05:13.6769898Z",
   "Players": [
+    {
+      "Name": "✡⃤⛴☁",
+      "Steam": "76561199060922164",
+      "Score": 2,
+      "Time": "01:23"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 70,
-      "Time": "76:06"
+      "Score": 2,
+      "Time": "78:06"
     },
     {
       "Name": ":thinkingface:",
       "Steam": "76561198777441810",
-      "Score": 75,
-      "Time": "47:07"
+      "Score": 0,
+      "Time": "49:07"
     },
     {
       "Name": "Chevriel",
       "Steam": "76561199629642229",
-      "Score": 11,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "donk",
       "Steam": "76561199764958381",
-      "Score": 33,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
