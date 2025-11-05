@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-05T23:48:11.8107445Z",
+  "Time": "2025-11-05T23:50:11.80762Z",
   "Players": [
+    {
+      "Name": "shaded",
+      "Steam": "76561199634018466",
+      "Score": 2,
+      "Time": "00:33"
+    },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 45,
-      "Time": "33:22"
+      "Score": 51,
+      "Time": "35:22"
     },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 57,
-      "Time": "33:24"
+      "Score": 67,
+      "Time": "35:24"
     },
     {
       "Name": "RADICAL RACIST",
       "Steam": "76561199870945474",
-      "Score": 8,
-      "Time": "04:55"
+      "Score": 10,
+      "Time": "06:55"
     },
     {
       "Name": "narcifix",
       "Steam": "76561198375901249",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "PAR0NYM",
       "Steam": "76561199542375331",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
