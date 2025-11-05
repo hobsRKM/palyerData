@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-05T17:22:05.192398Z",
+  "Time": "2025-11-05T17:22:50.2750142Z",
   "Players": [
     {
-      "Name": "\u0022\u0027",
+      "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "93:40"
+      "Time": "94:25"
     },
     {
       "Name": "1",
       "Steam": "76561199122797420",
-      "Score": 22,
-      "Time": "05:14"
+      "Score": 23,
+      "Time": "05:59"
     },
     {
       "Name": "youtube.com/bblkomarek",
       "Steam": "76561199054218486",
+      "Score": 1,
+      "Time": "40:45"
+    },
+    {
+      "Name": "alterex24",
+      "Steam": "76561198777478225",
       "Score": 0,
-      "Time": "40:00"
+      "Time": "??:??"
     },
     {
       "Name": "Projectile_Invalid",
       "Steam": "76561199629184110",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -34,19 +40,13 @@
     {
       "Name": "turk pleb",
       "Steam": "76561198779174796",
-      "Score": 62,
-      "Time": "??:??"
-    },
-    {
-      "Name": "geNNeral \u2660",
-      "Steam": "76561198779906456",
-      "Score": 32,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Ak47.entity",
       "Steam": "76561199579296628",
-      "Score": 38,
+      "Score": 40,
       "Time": "??:??"
     },
     {
@@ -59,7 +59,7 @@
       "Name": "joseph",
       "Steam": "76561198992040100",
       "Score": 30,
-      "Time": "38:03"
+      "Time": "38:49"
     },
     {
       "Name": "relax",
@@ -76,7 +76,13 @@
     {
       "Name": "MiC",
       "Steam": "76561199484750150",
-      "Score": 37,
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "termoinator_lizz",
+      "Steam": "76561199847069671",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -88,19 +94,19 @@
     {
       "Name": "einstein",
       "Steam": "76561199571677660",
-      "Score": 10,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Superniceguyonthis",
       "Steam": "76561199840700163",
-      "Score": 44,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "fr1fx",
       "Steam": "76561199042138318",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -110,21 +116,39 @@
       "Time": "??:??"
     },
     {
+      "Name": "albert",
+      "Steam": "76561199008479375",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "DeusExMachina",
       "Steam": "76561199389270137",
-      "Score": 32,
-      "Time": "14:02"
+      "Score": 38,
+      "Time": "14:47"
     },
     {
       "Name": "laxo",
       "Steam": "76561199631116344",
       "Score": 0,
-      "Time": "98:35"
+      "Time": "99:20"
+    },
+    {
+      "Name": "Denisuq",
+      "Steam": "76561199482346717",
+      "Score": 0,
+      "Time": "131:50"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 30,
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "savior",
+      "Steam": "76561198209410577",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
