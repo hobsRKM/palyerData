@@ -1,53 +1,71 @@
 {
-  "Time": "2025-11-05T23:21:00.7974724Z",
+  "Time": "2025-11-05T23:23:00.80116Z",
   "Players": [
+    {
+      "Name": "Alone",
+      "Steam": "76561199837329294",
+      "Score": 4,
+      "Time": "01:26"
+    },
     {
       "Name": "No Punch Man",
       "Steam": "76561198833143842",
-      "Score": 31,
-      "Time": "00:43"
+      "Score": 39,
+      "Time": "02:43"
+    },
+    {
+      "Name": "thug cat",
+      "Steam": "76561199812981312",
+      "Score": 0,
+      "Time": "18:18"
+    },
+    {
+      "Name": "sol",
+      "Steam": "76561198774876005",
+      "Score": 0,
+      "Time": "02:13"
     },
     {
       "Name": "2020",
       "Steam": "76561199847868570",
-      "Score": 45,
-      "Time": "58:46"
+      "Score": 0,
+      "Time": "60:46"
     },
     {
       "Name": "ᓚᘏᗢ",
       "Steam": "76561198019270984",
       "Score": 45,
-      "Time": "29:32"
+      "Time": "31:32"
     },
     {
       "Name": "Little / looking 4 eboyfriend",
       "Steam": "76561198791818429",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Dripler88",
       "Steam": "76561198901575526",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "duh guyz",
       "Steam": "76561199011885038",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "pine",
       "Steam": "76561199471107546",
-      "Score": 0,
-      "Time": "35:14"
+      "Score": 4,
+      "Time": "37:14"
     },
     {
       "Name": "NOT A CHEATER",
       "Steam": "76561198784583243",
       "Score": 0,
-      "Time": "56:55"
+      "Time": "58:55"
     }
   ]
 }
