@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-05T06:38:09.1318892Z",
-  "Players": []
+  "Time": "2025-11-05T06:38:56.3517932Z",
+  "Players": [
+    {
+      "Name": "dead or alive",
+      "Steam": "76561199831792740",
+      "Score": 57,
+      "Time": "14:00"
+    },
+    {
+      "Name": "NexGenCore",
+      "Steam": "76561198771316059",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kass",
+      "Steam": "76561198778217940",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 20,
+      "Time": "197:01"
+    },
+    {
+      "Name": "evade",
+      "Steam": "76561199350378581",
+      "Score": 6,
+      "Time": "05:35"
+    },
+    {
+      "Name": "Young sheldon",
+      "Steam": "76561198793456825",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
