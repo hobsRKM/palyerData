@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-05T04:06:48.4302482Z",
-  "Players": []
+  "Time": "2025-11-05T04:08:14.7948904Z",
+  "Players": [
+    {
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "66:06"
+    },
+    {
+      "Name": "Mongol",
+      "Steam": "76561198376880879",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Using a Config",
+      "Steam": "76561199160093857",
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ora.gg ✨ szalik ✨",
+      "Steam": "76561198238081996",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bay Harbour Desyncer",
+      "Steam": "76561198778613022",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haunted",
+      "Steam": "76561198829222666",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
