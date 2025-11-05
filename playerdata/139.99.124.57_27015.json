@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-05T13:03:13.6806746Z",
+  "Time": "2025-11-05T13:05:13.6773643Z",
   "Players": [
     {
       "Name": "W seed I BOOST",
       "Steam": "76561199876716760",
-      "Score": 91,
-      "Time": "59:55"
+      "Score": 103,
+      "Time": "61:55"
     },
     {
       "Name": "ai dog",
       "Steam": "76561199720135503",
-      "Score": 7,
-      "Time": "42:57"
+      "Score": 13,
+      "Time": "44:57"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 30,
-      "Time": "16:06"
+      "Score": 7,
+      "Time": "18:06"
     },
     {
       "Name": "Chevriel",
       "Steam": "76561199629642229",
-      "Score": 41,
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "neverUpdate",
+      "Steam": "76561199521960007",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
