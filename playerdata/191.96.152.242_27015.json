@@ -1,59 +1,65 @@
 {
-  "Time": "2025-11-05T18:35:00.7502251Z",
+  "Time": "2025-11-05T18:37:00.744165Z",
   "Players": [
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 33,
-      "Time": "127:12"
+      "Score": 35,
+      "Time": "129:12"
     },
     {
       "Name": "pine",
       "Steam": "76561199471107546",
-      "Score": 15,
-      "Time": "124:26"
+      "Score": 18,
+      "Time": "126:26"
     },
     {
       "Name": "timmy",
       "Steam": "76561199441700232",
-      "Score": 0,
-      "Time": "02:22"
+      "Score": 2,
+      "Time": "04:22"
     },
     {
       "Name": "WALNUT",
       "Steam": "76561198772274004",
-      "Score": 21,
-      "Time": "47:01"
+      "Score": 23,
+      "Time": "49:01"
     },
     {
       "Name": "\uDB40\uDDBE",
       "Steam": "76561199268768275",
-      "Score": 2,
-      "Time": "32:19"
+      "Score": 5,
+      "Time": "34:19"
     },
     {
       "Name": "Wa Tauu",
       "Steam": "76561199659454044",
       "Score": 2,
-      "Time": "03:36"
+      "Time": "05:36"
     },
     {
       "Name": "puppy",
       "Steam": "76561199496871687",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "2020",
       "Steam": "76561199847868570",
-      "Score": 55,
-      "Time": "20:40"
+      "Score": 65,
+      "Time": "22:40"
     },
     {
       "Name": "macaco pollo",
       "Steam": "76561198774948113",
-      "Score": 48,
+      "Score": 56,
       "Time": "??:??"
+    },
+    {
+      "Name": "yukon9996",
+      "Steam": "76561198772573628",
+      "Score": 2,
+      "Time": "00:42"
     }
   ]
 }
