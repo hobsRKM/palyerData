@@ -1,29 +1,41 @@
 {
-  "Time": "2025-11-06T03:59:00.802029Z",
+  "Time": "2025-11-06T04:01:00.8029243Z",
   "Players": [
+    {
+      "Name": "opm",
+      "Steam": "76561198779982057",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Werty",
+      "Steam": "76561199184890493",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
       "Score": 6,
-      "Time": "07:19"
+      "Time": "09:19"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 26,
-      "Time": "328:45"
+      "Score": 36,
+      "Time": "330:45"
     },
     {
       "Name": "little | skeet sucks",
       "Steam": "76561198773076671",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "thug cat",
       "Steam": "76561199812981312",
-      "Score": 2,
-      "Time": "15:23"
+      "Score": 6,
+      "Time": "17:23"
     }
   ]
 }
