@@ -1,4 +1,65 @@
 {
-  "Time": "2025-11-06T23:50:19.7878733Z",
-  "Players": []
+  "Time": "2025-11-06T23:52:03.1518717Z",
+  "Players": [
+    {
+      "Name": "erick",
+      "Steam": "76561199493665678",
+      "Score": 1,
+      "Time": "70:52"
+    },
+    {
+      "Name": "gur",
+      "Steam": "76561199213204837",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "green eyed girl",
+      "Steam": "76561199404381221",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\u263D",
+      "Steam": "76561199680474626",
+      "Score": 42,
+      "Time": "34:05"
+    },
+    {
+      "Name": "\u0022\u0027",
+      "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "667:42"
+    },
+    {
+      "Name": "NA\u0027VI_SPECTRUM",
+      "Steam": "76561199094340985",
+      "Score": 59,
+      "Time": "72:40"
+    },
+    {
+      "Name": "Grajch\u0142opiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 73,
+      "Time": "78:15"
+    },
+    {
+      "Name": "Adi",
+      "Steam": "76561198770518596",
+      "Score": 31,
+      "Time": "304:45"
+    },
+    {
+      "Name": "kristaly kiraly",
+      "Steam": "76561199487225634",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "marc",
+      "Steam": "76561198780142844",
+      "Score": 63,
+      "Time": "??:??"
+    }
+  ]
 }
