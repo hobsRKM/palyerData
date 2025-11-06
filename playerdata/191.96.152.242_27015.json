@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-06T04:53:00.8007197Z",
+  "Time": "2025-11-06T04:55:00.8007995Z",
   "Players": [
     {
       "Name": "\uD83C\uDDF7\uD83C\uDDFA Federation",
@@ -10,20 +10,26 @@
     {
       "Name": "Meowz",
       "Steam": "76561198783859737",
-      "Score": 16,
-      "Time": "39:46"
+      "Score": 20,
+      "Time": "41:46"
+    },
+    {
+      "Name": "MeatSmacker12",
+      "Steam": "76561198774978687",
+      "Score": 2,
+      "Time": "01:42"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 19,
-      "Time": "382:45"
+      "Score": 21,
+      "Time": "384:45"
     },
     {
       "Name": "pine",
       "Steam": "76561199471107546",
-      "Score": 6,
-      "Time": "43:59"
+      "Score": 10,
+      "Time": "45:59"
     }
   ]
 }
