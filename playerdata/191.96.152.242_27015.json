@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-06T19:28:54.8711213Z",
+  "Time": "2025-11-06T19:30:54.8703672Z",
   "Players": [
+    {
+      "Name": "Basketball player \"Nikola Jokic\"",
+      "Steam": "76561199841627949",
+      "Score": 2,
+      "Time": "00:33"
+    },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 0,
-      "Time": "00:18"
+      "Time": "02:18"
     },
     {
       "Name": "ᓚᘏᗢ",
       "Steam": "76561198019270984",
-      "Score": 0,
-      "Time": "03:11"
+      "Score": 4,
+      "Time": "05:11"
     }
   ]
 }
