@@ -1,34 +1,52 @@
 {
-  "Time": "2025-11-06T21:46:54.8657071Z",
+  "Time": "2025-11-06T21:48:54.8793755Z",
   "Players": [
+    {
+      "Name": "zoegamingcat",
+      "Steam": "76561199830452982",
+      "Score": 0,
+      "Time": "00:07"
+    },
     {
       "Name": "sorrow.rip",
       "Steam": "76561199847868570",
-      "Score": 21,
-      "Time": "10:40"
+      "Score": 25,
+      "Time": "12:40"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 37,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "ac1d",
       "Steam": "76561198791808703",
       "Score": 10,
-      "Time": "14:29"
+      "Time": "16:29"
+    },
+    {
+      "Name": "Midtranny",
+      "Steam": "76561199847771652",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD834\uDD03\uD834\uDD02\uD834\uDD00\uD834\uDD01\uD834\uDD03\uD834\uDD02",
+      "Steam": "76561199562186125",
+      "Score": 0,
+      "Time": "00:26"
     },
     {
       "Name": "Pennywise The Dancing Clown",
       "Steam": "76561199877138048",
-      "Score": 21,
+      "Score": 24,
       "Time": "??:??"
     },
     {
@@ -40,7 +58,7 @@
     {
       "Name": "build a bear",
       "Steam": "76561198422636928",
-      "Score": 25,
+      "Score": 27,
       "Time": "??:??"
     },
     {
@@ -52,26 +70,26 @@
     {
       "Name": "sol",
       "Steam": "76561198774876005",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "hardstuck",
       "Steam": "76561199792387882",
-      "Score": 24,
-      "Time": "08:49"
+      "Score": 30,
+      "Time": "10:49"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
       "Score": 6,
-      "Time": "05:34"
+      "Time": "07:34"
     },
     {
       "Name": "pine",
       "Steam": "76561199471107546",
-      "Score": 15,
-      "Time": "57:54"
+      "Score": 0,
+      "Time": "59:54"
     }
   ]
 }
