@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-06T18:14:54.8707834Z",
+  "Time": "2025-11-06T18:16:54.8731061Z",
   "Players": [
+    {
+      "Name": "timmy",
+      "Steam": "76561199441700232",
+      "Score": 0,
+      "Time": "01:51"
+    },
     {
       "Name": "Wa Tauu",
       "Steam": "76561199659454044",
-      "Score": 14,
-      "Time": "17:20"
+      "Score": 20,
+      "Time": "19:20"
     },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 28,
-      "Time": "19:23"
+      "Score": 36,
+      "Time": "21:23"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 36,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Moon",
       "Steam": "76561199219276040",
-      "Score": 17,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "phreshboyfag",
       "Steam": "76561198772944522",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     }
   ]
