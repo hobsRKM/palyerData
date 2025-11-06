@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-06T11:20:22.8705489Z",
-  "Players": []
+  "Time": "2025-11-06T11:20:24.4052388Z",
+  "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561198771750240",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Feetality",
+      "Steam": "76561198781702164",
+      "Score": 54,
+      "Time": "18:43"
+    },
+    {
+      "Name": "whatthefluffy",
+      "Steam": "76561198772056244",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AdderallAddict",
+      "Steam": "76561198787831223",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
