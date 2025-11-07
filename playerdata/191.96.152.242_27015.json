@@ -1,23 +1,23 @@
 {
-  "Time": "2025-11-07T22:06:52.6165601Z",
+  "Time": "2025-11-07T22:08:52.6238032Z",
   "Players": [
     {
       "Name": "pxycho",
       "Steam": "76561198422636928",
       "Score": 2,
-      "Time": "12:55"
+      "Time": "14:55"
     },
     {
       "Name": "HKCSGO",
       "Steam": "76561198772709108",
-      "Score": 1,
-      "Time": "72:31"
+      "Score": 3,
+      "Time": "74:31"
     },
     {
       "Name": "Feetality",
       "Steam": "76561198781702164",
-      "Score": 44,
-      "Time": "78:19"
+      "Score": 58,
+      "Time": "80:19"
     },
     {
       "Name": ".",
@@ -28,14 +28,20 @@
     {
       "Name": "Bullet_Invalid",
       "Steam": "76561198775031190",
-      "Score": 50,
-      "Time": "63:01"
+      "Score": 62,
+      "Time": "65:01"
+    },
+    {
+      "Name": "Alone",
+      "Steam": "76561199837329294",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "timmy",
       "Steam": "76561199441700232",
       "Score": 7,
-      "Time": "04:36"
+      "Time": "06:36"
     },
     {
       "Name": "pine",
@@ -47,43 +53,37 @@
       "Name": "Shux",
       "Steam": "76561199170636130",
       "Score": 43,
-      "Time": "34:44"
+      "Time": "36:44"
     },
     {
       "Name": "Lucky...",
       "Steam": "76561199015751726",
-      "Score": 26,
-      "Time": "02:09"
+      "Score": 28,
+      "Time": "04:09"
     },
     {
       "Name": "takeapercandbeatahoe4",
       "Steam": "76561198059477947",
       "Score": 9,
-      "Time": "26:54"
+      "Time": "28:55"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Apologize",
-      "Steam": "76561199137214616",
-      "Score": 9,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Arkem",
       "Steam": "76561199755599976",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "Quantum Foam Paperweight",
       "Steam": "76561198771750240",
-      "Score": 34,
-      "Time": "17:34"
+      "Score": 40,
+      "Time": "19:34"
     }
   ]
 }
