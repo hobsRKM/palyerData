@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-07T04:38:14.600458Z",
+  "Time": "2025-11-07T04:40:14.5912569Z",
   "Players": [
     {
       "Name": "timmy",
       "Steam": "76561199441700232",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "Prim | ruga | UID 12842",
+      "Steam": "76561199873108764",
+      "Score": 4,
+      "Time": "00:48"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 30,
-      "Time": "09:28"
+      "Score": 36,
+      "Time": "11:28"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 53,
-      "Time": "22:27"
+      "Score": 61,
+      "Time": "24:27"
     },
     {
       "Name": "CalvinKlien",
@@ -28,7 +34,13 @@
     {
       "Name": "NYUKI",
       "Steam": "76561199740544730",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "blahx909",
+      "Steam": "76561198775054336",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
