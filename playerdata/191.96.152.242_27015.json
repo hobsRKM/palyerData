@@ -1,29 +1,41 @@
 {
-  "Time": "2025-11-07T23:18:52.6129726Z",
+  "Time": "2025-11-07T23:20:52.6211985Z",
   "Players": [
+    {
+      "Name": "m",
+      "Steam": "76561199868009569",
+      "Score": 0,
+      "Time": "01:55"
+    },
     {
       "Name": "Bullet_Invalid",
       "Steam": "76561198775031190",
-      "Score": 8,
-      "Time": "08:18"
+      "Score": 16,
+      "Time": "10:18"
     },
     {
       "Name": "mrwalkthemdownandrapejews",
       "Steam": "76561198770614581",
-      "Score": 79,
-      "Time": "51:43"
+      "Score": 81,
+      "Time": "53:43"
     },
     {
-      "Name": "m pine",
+      "Name": "timmy",
+      "Steam": "76561199441700232",
+      "Score": 46,
+      "Time": "00:15"
+    },
+    {
+      "Name": "meo pine",
       "Steam": "76561199471107546",
-      "Score": 56,
-      "Time": "27:26"
+      "Score": 62,
+      "Time": "29:26"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
       "Score": 15,
-      "Time": "10:09"
+      "Time": "12:09"
     },
     {
       "Name": "Arkem",
@@ -34,13 +46,13 @@
     {
       "Name": "Quantum Foam Paperweight",
       "Steam": "76561198771750240",
-      "Score": 100,
-      "Time": "37:45"
+      "Score": 102,
+      "Time": "39:45"
     },
     {
       "Name": "BOT Opie",
       "Steam": "76561197982529353",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
