@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-07T09:40:55.3370952Z",
+  "Time": "2025-11-07T09:42:55.3388887Z",
   "Players": [
+    {
+      "Name": "Yeet",
+      "Steam": "76561199141503489",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "pablo",
       "Steam": "76561199791626123",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Quantum Foam Paperweight",
       "Steam": "76561198771750240",
-      "Score": 71,
-      "Time": "50:11"
+      "Score": 75,
+      "Time": "52:11"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 56,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "timmy",
       "Steam": "76561199441700232",
-      "Score": 20,
-      "Time": "73:15"
+      "Score": 24,
+      "Time": "75:15"
     },
     {
       "Name": "Pennywise The Dancing Clown",
       "Steam": "76561199877138048",
-      "Score": 41,
-      "Time": "164:47"
+      "Score": 44,
+      "Time": "166:47"
     }
   ]
 }
