@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-07T08:26:55.3457149Z",
+  "Time": "2025-11-07T08:28:55.3395342Z",
   "Players": [
+    {
+      "Name": "AmericaFirst",
+      "Steam": "76561199891644703",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "locallanguagemodels",
       "Steam": "76561198770248382",
@@ -10,20 +16,26 @@
     {
       "Name": "////////////////////////////",
       "Steam": "76561199655883528",
-      "Score": 76,
-      "Time": "46:29"
+      "Score": 87,
+      "Time": "48:29"
     },
     {
       "Name": "Quantum Foam Paperweight",
       "Steam": "76561198771750240",
-      "Score": 76,
-      "Time": "31:18"
+      "Score": 86,
+      "Time": "33:18"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 40,
+      "Score": 45,
       "Time": "??:??"
+    },
+    {
+      "Name": "timmy",
+      "Steam": "76561199441700232",
+      "Score": 18,
+      "Time": "01:15"
     },
     {
       "Name": "Pluto's Knot Home",
@@ -34,8 +46,8 @@
     {
       "Name": "pine",
       "Steam": "76561199471107546",
-      "Score": 38,
-      "Time": "151:40"
+      "Score": 40,
+      "Time": "153:40"
     },
     {
       "Name": ";2#@333",
@@ -46,8 +58,8 @@
     {
       "Name": "Pennywise The Dancing Clown",
       "Steam": "76561199877138048",
-      "Score": 35,
-      "Time": "90:47"
+      "Score": 41,
+      "Time": "92:47"
     }
   ]
 }
