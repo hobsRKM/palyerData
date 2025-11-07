@@ -1,35 +1,53 @@
 {
-  "Time": "2025-11-07T00:52:54.8674866Z",
+  "Time": "2025-11-07T00:54:54.8738079Z",
   "Players": [
     {
       "Name": "Meowz",
       "Steam": "76561198783859737",
-      "Score": 28,
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kicken",
+      "Steam": "76561199370092055",
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 42,
-      "Time": "33:53"
+      "Score": 54,
+      "Time": "35:53"
+    },
+    {
+      "Name": "Coiote_br",
+      "Steam": "76561198012098780",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "mrwalkthemdownandrapejews",
       "Steam": "76561198770614581",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "pine",
       "Steam": "76561199471107546",
-      "Score": 10,
-      "Time": "03:14"
+      "Score": 16,
+      "Time": "05:14"
+    },
+    {
+      "Name": "Road to Silver",
+      "Steam": "76561198871161458",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Dripler88",
       "Steam": "76561198901575526",
-      "Score": 34,
-      "Time": "29:44"
+      "Score": 38,
+      "Time": "31:44"
     }
   ]
 }
