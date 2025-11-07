@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-07T13:48:52.615649Z",
+  "Time": "2025-11-07T13:50:52.6158064Z",
   "Players": [
     {
       "Name": "shaded",
       "Steam": "76561199634018466",
-      "Score": 6,
-      "Time": "40:16"
+      "Score": 0,
+      "Time": "42:16"
     },
     {
       "Name": "as icicles fall",
       "Steam": "76561199479457727",
+      "Score": 14,
+      "Time": "03:00"
+    },
+    {
+      "Name": "Noface",
+      "Steam": "76561198402739258",
       "Score": 0,
-      "Time": "01:00"
+      "Time": "01:09"
     },
     {
       "Name": "Feetality",
@@ -22,13 +28,7 @@
     {
       "Name": "Moon",
       "Steam": "76561199219276040",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Raiden",
-      "Steam": "76561199180035085",
-      "Score": 2,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
