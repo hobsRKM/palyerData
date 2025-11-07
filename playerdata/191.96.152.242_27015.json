@@ -1,53 +1,65 @@
 {
-  "Time": "2025-11-07T20:14:52.6175336Z",
+  "Time": "2025-11-07T20:16:52.6161011Z",
   "Players": [
+    {
+      "Name": "Cookie",
+      "Steam": "76561199889788325",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "catgirl lover",
       "Steam": "76561198775031190",
-      "Score": 69,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198166519466",
-      "Score": 40,
-      "Time": "15:36"
+      "Score": 48,
+      "Time": "17:36"
     },
     {
       "Name": "haunted by fatal",
       "Steam": "76561198776177922",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "ChatGPT Aim",
+      "Steam": "76561198771975333",
+      "Score": 2,
+      "Time": "01:18"
     },
     {
       "Name": "Ya mothers juicy wet puh gzzly",
       "Steam": "76561199848493424",
-      "Score": 47,
-      "Time": "27:38"
+      "Score": 53,
+      "Time": "29:38"
     },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 78,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "ᓚᘏᗢ",
       "Steam": "76561198019270984",
-      "Score": 29,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 76,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "Doug",
       "Steam": "76561199550845137",
-      "Score": 3,
-      "Time": "05:31"
+      "Score": 7,
+      "Time": "07:31"
     }
   ]
 }
