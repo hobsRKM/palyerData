@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-07T02:54:54.8757666Z",
+  "Time": "2025-11-07T02:56:54.8784913Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561198771750240",
+      "Score": 0,
+      "Time": "00:23"
+    },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 81,
-      "Time": "155:53"
+      "Score": 91,
+      "Time": "157:53"
     },
     {
       "Name": "roger from window world",
@@ -16,26 +22,26 @@
     {
       "Name": "pxycho",
       "Steam": "76561198422636928",
-      "Score": 14,
-      "Time": "03:20"
+      "Score": 28,
+      "Time": "05:20"
     },
     {
       "Name": "Noface",
       "Steam": "76561198402739258",
-      "Score": 56,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "mrwalkthemdownandrapejews",
       "Steam": "76561198770614581",
-      "Score": 43,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "pine",
       "Steam": "76561199471107546",
-      "Score": 42,
-      "Time": "125:14"
+      "Score": 44,
+      "Time": "127:14"
     }
   ]
 }
