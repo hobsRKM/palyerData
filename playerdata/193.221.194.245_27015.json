@@ -1,14 +1,14 @@
 {
-  "Time": "2025-11-07T06:26:18.6565007Z",
+  "Time": "2025-11-07T06:28:03.6080323Z",
   "Players": [
     {
-      "Name": "\"'",
+      "Name": "\u0022\u0027",
       "Steam": "76561199028888055",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "-⁧Untransparent",
+      "Name": "-\u2067Untransparent",
       "Steam": "76561199121521559",
       "Score": 4,
       "Time": "??:??"
@@ -16,7 +16,13 @@
     {
       "Name": "ikanusvar",
       "Steam": "76561199831261545",
-      "Score": 0,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatality.swi pidarasik",
+      "Steam": "76561198771317202",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
