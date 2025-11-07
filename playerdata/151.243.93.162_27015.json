@@ -1,4 +1,23 @@
 {
-  "Time": "2025-11-07T05:56:22.8731335Z",
-  "Players": []
+  "Time": "2025-11-07T05:58:01.5408323Z",
+  "Players": [
+    {
+      "Name": "elephant",
+      "Steam": "76561199551553809",
+      "Score": 13,
+      "Time": "50:52"
+    },
+    {
+      "Name": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+      "Steam": "76561198774079070",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 8,
+      "Time": "48:47"
+    }
+  ]
 }
