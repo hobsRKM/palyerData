@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-07T20:36:52.6165254Z",
+  "Time": "2025-11-07T20:38:52.6204469Z",
   "Players": [
     {
       "Name": "Cookie",
       "Steam": "76561199889788325",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zoegamingcat",
+      "Steam": "76561199830452982",
       "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -22,7 +28,7 @@
     {
       "Name": "catgirl lover",
       "Steam": "76561198775031190",
-      "Score": 3,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -34,38 +40,38 @@
     {
       "Name": "cheeziepooh",
       "Steam": "76561198166519466",
-      "Score": 3,
-      "Time": "12:20"
+      "Score": 0,
+      "Time": "14:20"
     },
     {
       "Name": "Wa Tauu",
       "Steam": "76561199659454044",
       "Score": 0,
-      "Time": "13:10"
+      "Time": "15:10"
     },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 6,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "takeapercandbeatahoe4",
       "Steam": "76561198059477947",
       "Score": 2,
-      "Time": "12:15"
+      "Time": "14:15"
     },
     {
       "Name": "i can't feel my face",
       "Steam": "76561199878413811",
-      "Score": 8,
-      "Time": "03:56"
+      "Score": 13,
+      "Time": "05:56"
     },
     {
       "Name": "Doug",
       "Steam": "76561199550845137",
       "Score": 0,
-      "Time": "27:31"
+      "Time": "29:31"
     }
   ]
 }
