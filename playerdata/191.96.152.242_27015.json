@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-07T06:54:55.3448807Z",
+  "Time": "2025-11-07T06:56:55.3326535Z",
   "Players": [
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 12,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fatality.win",
+      "Steam": "76561198772020658",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "m",
       "Steam": "76561199868009569",
-      "Score": 1,
-      "Time": "05:26"
+      "Score": 2,
+      "Time": "07:26"
     },
     {
       "Name": "timmy",
       "Steam": "76561199441700232",
-      "Score": 8,
-      "Time": "29:41"
+      "Score": 13,
+      "Time": "31:41"
     },
     {
       "Name": "Not click",
@@ -28,20 +34,20 @@
     {
       "Name": "mrwalkthemdownandrapejews",
       "Steam": "76561198770614581",
-      "Score": 2,
-      "Time": "14:25"
+      "Score": 4,
+      "Time": "16:25"
     },
     {
       "Name": "7up*",
       "Steam": "76561198786866378",
-      "Score": 20,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "pine",
       "Steam": "76561199471107546",
       "Score": 0,
-      "Time": "59:40"
+      "Time": "61:40"
     }
   ]
 }
