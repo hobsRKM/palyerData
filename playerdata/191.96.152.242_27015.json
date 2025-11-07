@@ -1,59 +1,65 @@
 {
-  "Time": "2025-11-07T22:40:52.612203Z",
+  "Time": "2025-11-07T22:42:52.6114924Z",
   "Players": [
     {
       "Name": "HKCSGO",
       "Steam": "76561198772709108",
       "Score": 44,
-      "Time": "106:31"
+      "Time": "108:31"
     },
     {
       "Name": "Feetality",
       "Steam": "76561198781702164",
-      "Score": 136,
-      "Time": "112:19"
+      "Score": 140,
+      "Time": "114:19"
     },
     {
       "Name": "Bullet_Invalid",
       "Steam": "76561198775031190",
-      "Score": 153,
-      "Time": "97:01"
+      "Score": 164,
+      "Time": "99:01"
     },
     {
       "Name": "mrwalkthemdownandrapejews",
       "Steam": "76561198770614581",
-      "Score": 14,
-      "Time": "13:43"
+      "Score": 16,
+      "Time": "15:43"
     },
     {
       "Name": "timmy",
       "Steam": "76561199441700232",
       "Score": 42,
-      "Time": "38:36"
+      "Time": "40:36"
     },
     {
       "Name": "1  pine",
       "Steam": "76561199471107546",
-      "Score": 25,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "////////////////////////////",
       "Steam": "76561199655883528",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 99,
+      "Score": 105,
       "Time": "??:??"
     },
     {
       "Name": "Arkem",
       "Steam": "76561199755599976",
-      "Score": 113,
+      "Score": 115,
       "Time": "??:??"
+    },
+    {
+      "Name": "Quantum Foam Paperweight",
+      "Steam": "76561198771750240",
+      "Score": 54,
+      "Time": "01:45"
     }
   ]
 }
