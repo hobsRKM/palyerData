@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-07T12:30:58.7083848Z",
+  "Time": "2025-11-07T12:32:58.7024038Z",
   "Players": [
     {
       "Name": "Jeff",
       "Steam": "76561198774315242",
-      "Score": 99,
-      "Time": "33:43"
+      "Score": 4,
+      "Time": "35:43"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 43,
-      "Time": "12:41"
+      "Score": 2,
+      "Time": "14:41"
     },
     {
       "Name": ":thinkingface:",
       "Steam": "76561198777441810",
-      "Score": 20,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "archer queen",
+      "Steam": "76561198771681710",
+      "Score": 0,
+      "Time": "01:05"
     }
   ]
 }
