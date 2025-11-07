@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-07T02:30:54.8793553Z",
+  "Time": "2025-11-07T02:32:54.8688284Z",
   "Players": [
+    {
+      "Name": "NOFOODSTAMPS4U",
+      "Steam": "76561199268768275",
+      "Score": 0,
+      "Time": "01:02"
+    },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 156,
-      "Time": "131:53"
+      "Score": 0,
+      "Time": "133:53"
     },
     {
       "Name": "pxycho",
       "Steam": "76561198422636928",
-      "Score": 68,
-      "Time": "32:18"
+      "Score": 0,
+      "Time": "34:18"
     },
     {
       "Name": "Noface",
       "Steam": "76561198402739258",
-      "Score": 96,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "mrwalkthemdownandrapejews",
       "Steam": "76561198770614581",
-      "Score": 63,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "pine",
       "Steam": "76561199471107546",
-      "Score": 72,
-      "Time": "101:14"
+      "Score": 0,
+      "Time": "103:14"
     }
   ]
 }
