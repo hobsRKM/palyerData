@@ -1,41 +1,101 @@
 {
-  "Time": "2025-11-07T23:36:46.4375009Z",
+  "Time": "2025-11-07T23:38:45.8645841Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "OneShotter",
+      "Steam": "76561199149090826",
+      "Score": 0,
+      "Time": "02:04"
+    },
+    {
+      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
+      "Steam": "76561199547514723",
+      "Score": 67,
+      "Time": "27:46"
+    },
+    {
+      "Name": "NA'VI_SPECTRUM",
+      "Steam": "76561199094340985",
+      "Score": 45,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aaaaaaaaaaaaaaaaaaaa",
+      "Steam": "76561199830217188",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "microsl",
-      "Steam": "76561199348101106",
-      "Score": 11,
+      "Name": "laxo",
+      "Steam": "76561199631116344",
+      "Score": 104,
+      "Time": "38:26"
+    },
+    {
+      "Name": "SSG angelica",
+      "Steam": "76561199217723771",
+      "Score": 12,
       "Time": "??:??"
     },
     {
-      "Name": "standa",
-      "Steam": "76561199394201561",
-      "Score": 22,
+      "Name": "Rack",
+      "Steam": "76561199571677660",
+      "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "Monia<3",
-      "Steam": "76561198780527708",
+      "Name": "paprika",
+      "Steam": "76561198298152973",
+      "Score": 17,
+      "Time": "117:54"
+    },
+    {
+      "Name": "#по «·Syphur BR·»",
+      "Steam": "76561199187909912",
+      "Score": 1,
+      "Time": "21:59"
+    },
+    {
+      "Name": "Schutzstaffel SS",
+      "Steam": "76561199860671230",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haunted",
+      "Steam": "76561198829222666",
+      "Score": 118,
+      "Time": "??:??"
+    },
+    {
+      "Name": "9/11 Was T Sided",
+      "Steam": "76561199755514487",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "green eyed girl",
+      "Steam": "76561199404381221",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "los pollos hermanos",
+      "Steam": "76561199581255999",
       "Score": 34,
-      "Time": "44:54"
+      "Time": "40:05"
     },
     {
-      "Name": "Opium",
-      "Steam": "76561199209394989",
+      "Name": "EasyAF",
+      "Steam": "76561198417239008",
+      "Score": 12,
+      "Time": "33:32"
+    },
+    {
+      "Name": "rcx",
+      "Steam": "76561199784226010",
       "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "Luxe",
-      "Steam": "76561199818472808",
-      "Score": 0,
-      "Time": "243:52"
     }
   ]
 }
