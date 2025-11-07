@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-07T05:50:22.8730745Z",
-  "Players": []
+  "Time": "2025-11-07T05:52:01.5469368Z",
+  "Players": [
+    {
+      "Name": "elephant",
+      "Steam": "76561199551553809",
+      "Score": 24,
+      "Time": "44:52"
+    },
+    {
+      "Name": "paradise",
+      "Steam": "76561198380272287",
+      "Score": 57,
+      "Time": "52:39"
+    },
+    {
+      "Name": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+      "Steam": "76561198774079070",
+      "Score": 65,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bleh",
+      "Steam": "76561199863894026",
+      "Score": 3,
+      "Time": "45:06"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 54,
+      "Time": "42:47"
+    }
+  ]
 }
