@@ -1,53 +1,59 @@
 {
-  "Time": "2025-11-07T17:52:52.6229311Z",
+  "Time": "2025-11-07T17:54:52.6148395Z",
   "Players": [
+    {
+      "Name": "pxycho",
+      "Steam": "76561198422636928",
+      "Score": 0,
+      "Time": "00:11"
+    },
     {
       "Name": "Noface",
       "Steam": "76561199000335467",
-      "Score": 27,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "king bong",
       "Steam": "76561198784229511",
-      "Score": 24,
-      "Time": "51:30"
+      "Score": 33,
+      "Time": "53:30"
     },
     {
       "Name": "catgirl lover",
       "Steam": "76561198775031190",
-      "Score": 54,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "Yizyua81m3",
       "Steam": "76561198166519466",
-      "Score": 60,
-      "Time": "48:41"
+      "Score": 63,
+      "Time": "50:41"
     },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 24,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Midtranny",
       "Steam": "76561199847771652",
-      "Score": 44,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "elephant",
       "Steam": "76561199551553809",
-      "Score": 4,
-      "Time": "06:58"
+      "Score": 10,
+      "Time": "08:58"
     }
   ]
 }
