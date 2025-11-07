@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-07T14:52:52.6173589Z",
+  "Time": "2025-11-07T14:54:52.6183826Z",
   "Players": [
+    {
+      "Name": "pxycho",
+      "Steam": "76561198422636928",
+      "Score": 0,
+      "Time": "00:19"
+    },
     {
       "Name": "shaded",
       "Steam": "76561199634018466",
       "Score": 0,
-      "Time": "104:16"
+      "Time": "106:16"
     },
     {
       "Name": "$$1taplaff0dmg$$",
       "Steam": "76561199076023795",
-      "Score": 3,
-      "Time": "36:50"
+      "Score": 5,
+      "Time": "38:50"
     },
     {
       "Name": "Moon",
       "Steam": "76561199219276040",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "catgirl lover",
       "Steam": "76561199847868570",
-      "Score": 12,
-      "Time": "26:58"
+      "Score": 19,
+      "Time": "28:58"
     },
     {
       "Name": "NOFOODSTAMPS4U",
@@ -32,7 +38,7 @@
       "Time": "??:??"
     },
     {
-      "Name": "HAPPY  trip",
+      "Name": "OWEEN trip",
       "Steam": "76561198428564314",
       "Score": 4,
       "Time": "??:??"
@@ -40,7 +46,13 @@
     {
       "Name": "Yizyua81m3",
       "Steam": "76561198166519466",
-      "Score": 9,
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haunted by fatal",
+      "Steam": "76561198778396161",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
