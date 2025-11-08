@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-08T18:32:35.5408653Z",
+  "Time": "2025-11-08T18:34:35.54029Z",
   "Players": [
     {
-      "Name": "mang gurt",
+      "Name": "roy",
+      "Steam": "76561198113650702",
+      "Score": 4,
+      "Time": "01:50"
+    },
+    {
+      "Name": "mangos gurt",
       "Steam": "76561198793259676",
-      "Score": 21,
+      "Score": 22,
       "Time": "??:??"
     },
     {
-      "Name": "1 vex",
+      "Name": "1  vex",
       "Steam": "76561199471107546",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "the martyr",
       "Steam": "76561198774533837",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
