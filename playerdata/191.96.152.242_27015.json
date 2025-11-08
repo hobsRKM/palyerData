@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-08T06:12:52.6168385Z",
+  "Time": "2025-11-08T06:14:52.6170061Z",
   "Players": [
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "testing nixware",
       "Steam": "76561199838374266",
-      "Score": 18,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": ".redruM",
+      "Steam": "76561199759131097",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -22,8 +28,8 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 7,
-      "Time": "40:06"
+      "Score": 9,
+      "Time": "42:06"
     }
   ]
 }
