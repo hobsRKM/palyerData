@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-08T16:00:35.5372732Z",
+  "Time": "2025-11-08T16:02:35.5374079Z",
   "Players": [
+    {
+      "Name": "pxycho",
+      "Steam": "76561198422636928",
+      "Score": 0,
+      "Time": "00:08"
+    },
     {
       "Name": "timmy",
       "Steam": "76561199441700232",
-      "Score": 19,
-      "Time": "??:??"
-    },
-    {
-      "Name": "qué lo qué mami?",
-      "Steam": "76561198781341511",
-      "Score": 10,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Yuri Boyka",
       "Steam": "76561199497821814",
-      "Score": 6,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cezaaaara",
+      "Steam": "76561198125709809",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
