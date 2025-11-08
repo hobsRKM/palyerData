@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-08T16:04:17.3843346Z",
+  "Time": "2025-11-08T16:06:04.5982434Z",
   "Players": [
+    {
+      "Name": "nipbinhay",
+      "Steam": "76561199815248484",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ramada",
       "Steam": "76561198796189791",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "AIMWHERE? | sokeg23851",
       "Steam": "76561198786319361",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
-      "Name": "Kiss Me ( ˘ ³˘)",
+      "Name": "Kiss Me ( \u02D8 \u00B3\u02D8)",
       "Steam": "76561199729322495",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "derrow",
       "Steam": "76561199842369196",
-      "Score": 0,
-      "Time": "259:24"
+      "Score": 4,
+      "Time": "261:11"
     },
     {
       "Name": "3rbi malveillant",
@@ -34,20 +40,14 @@
     {
       "Name": "madness_life",
       "Steam": "76561198779174796",
-      "Score": 45,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "Istv",
       "Steam": "76561199383757812",
-      "Score": 33,
-      "Time": "144:53"
-    },
-    {
-      "Name": "Lucky...",
-      "Steam": "76561199015751726",
-      "Score": 17,
-      "Time": "??:??"
+      "Score": 37,
+      "Time": "146:40"
     }
   ]
 }
