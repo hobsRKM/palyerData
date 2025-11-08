@@ -1,40 +1,46 @@
 {
-  "Time": "2025-11-08T14:04:10.0661564Z",
+  "Time": "2025-11-08T14:06:10.0756849Z",
   "Players": [
+    {
+      "Name": "KAISs",
+      "Steam": "76561198291667614",
+      "Score": 0,
+      "Time": "02:03"
+    },
     {
       "Name": "Nagisa_VRC",
       "Steam": "76561198782172023",
-      "Score": 103,
-      "Time": "22:21"
+      "Score": 115,
+      "Time": "24:21"
     },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
-      "Score": 0,
-      "Time": "15:38"
+      "Score": 2,
+      "Time": "17:38"
     },
     {
       "Name": "Xyntrix",
       "Steam": "76561198775696202",
-      "Score": 14,
-      "Time": "34:51"
+      "Score": 18,
+      "Time": "36:51"
     },
     {
       "Name": "NIkka",
       "Steam": "76561199720646565",
-      "Score": 9,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "i cheat in green tf accs 5",
       "Steam": "76561199831516948",
       "Score": 0,
-      "Time": "00:49"
+      "Time": "02:49"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 57,
+      "Score": 61,
       "Time": "??:??"
     },
     {
@@ -46,26 +52,26 @@
     {
       "Name": "artem",
       "Steam": "76561199633334369",
-      "Score": 6,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Fly stick coming",
       "Steam": "76561198155989848",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "gncphuephi",
       "Steam": "76561199721194120",
-      "Score": 1,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD43\uD835\uDD50ℕ\uD835\uDD4F",
       "Steam": "76561199535713965",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:13"
     }
   ]
 }
