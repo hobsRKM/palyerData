@@ -1,29 +1,47 @@
 {
-  "Time": "2025-11-08T22:14:06.758391Z",
+  "Time": "2025-11-08T22:16:06.7684932Z",
   "Players": [
+    {
+      "Name": "ja",
+      "Steam": "76561198413420806",
+      "Score": 8,
+      "Time": "01:50"
+    },
     {
       "Name": "Fishley",
       "Steam": "76561199777704683",
-      "Score": 31,
-      "Time": "17:24"
+      "Score": 41,
+      "Time": "19:24"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 80,
-      "Time": "17:38"
+      "Score": 81,
+      "Time": "19:38"
     },
     {
       "Name": "fortnitegamer67",
       "Steam": "76561198773273065",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 76,
-      "Time": "60:32"
+      "Score": 82,
+      "Time": "62:32"
+    },
+    {
+      "Name": "Quantum Foam Paperweight",
+      "Steam": "76561198771750240",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "7up*",
+      "Steam": "76561198786866378",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
