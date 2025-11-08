@@ -1,40 +1,46 @@
 {
-  "Time": "2025-11-08T17:52:35.5484863Z",
+  "Time": "2025-11-08T17:54:35.5491051Z",
   "Players": [
     {
       "Name": "timmy",
       "Steam": "76561199441700232",
-      "Score": 10,
-      "Time": "84:44"
+      "Score": 14,
+      "Time": "86:44"
+    },
+    {
+      "Name": "ja",
+      "Steam": "76561198413420806",
+      "Score": 0,
+      "Time": "00:38"
     },
     {
       "Name": "roy",
       "Steam": "76561198113650702",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Road to Silver",
       "Steam": "76561198871161458",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "BOT Opie",
       "Steam": "76561197982529353",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "3rbi malveillant",
       "Steam": "76561199417439091",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "gurt",
       "Steam": "76561198793259676",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
