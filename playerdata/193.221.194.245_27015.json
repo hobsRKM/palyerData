@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-08T19:06:17.3738844Z",
+  "Time": "2025-11-08T19:08:03.8285955Z",
   "Players": [
     {
       "Name": "tw1site",
       "Steam": "76561199712341739",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ferrari/peek",
+      "Steam": "76561198778475446",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "mmmonsterkill",
       "Steam": "76561198772639418",
-      "Score": 0,
-      "Time": "214:26"
+      "Score": 4,
+      "Time": "216:13"
     }
   ]
 }
