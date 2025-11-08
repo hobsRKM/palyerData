@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-08T09:01:32.8361795Z",
+  "Time": "2025-11-08T09:03:32.8360604Z",
   "Players": [
+    {
+      "Name": "no name",
+      "Steam": "76561199720236487",
+      "Score": 4,
+      "Time": "01:51"
+    },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 0,
-      "Time": "20:08"
+      "Score": 9,
+      "Time": "22:08"
     },
     {
-      "Name": "AIMWARE ENJOYER",
-      "Steam": "76561198311049445",
-      "Score": 0,
-      "Time": "16:51"
+      "Name": "vilesec",
+      "Steam": "76561198787032266",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC0F\uD835\uDC2E\uD835\uDC1F\uD835\uDC1F",
       "Steam": "76561199458935101",
-      "Score": 0,
-      "Time": "11:47"
+      "Score": 2,
+      "Time": "13:47"
     }
   ]
 }
