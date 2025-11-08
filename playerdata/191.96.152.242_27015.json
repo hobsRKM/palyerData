@@ -1,35 +1,35 @@
 {
-  "Time": "2025-11-08T05:54:52.6209243Z",
+  "Time": "2025-11-08T05:56:52.6212211Z",
   "Players": [
     {
       "Name": "testing nixware",
       "Steam": "76561199838374266",
-      "Score": 38,
+      "Score": 40,
       "Time": "??:??"
+    },
+    {
+      "Name": "Ok",
+      "Steam": "76561199049807914",
+      "Score": 0,
+      "Time": "00:12"
     },
     {
       "Name": "narcifix",
       "Steam": "76561198375901249",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": ";2#@333",
       "Steam": "76561199519396101",
       "Score": 0,
-      "Time": "00:57"
-    },
-    {
-      "Name": "Comm Demon",
-      "Steam": "76561199168406344",
-      "Score": 19,
-      "Time": "??:??"
+      "Time": "02:57"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 31,
-      "Time": "22:06"
+      "Score": 39,
+      "Time": "24:06"
     }
   ]
 }
