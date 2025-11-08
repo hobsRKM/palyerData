@@ -1,40 +1,46 @@
 {
-  "Time": "2025-11-08T04:46:52.6181846Z",
+  "Time": "2025-11-08T04:48:52.6206373Z",
   "Players": [
     {
       "Name": "m",
       "Steam": "76561199868009569",
+      "Score": 2,
+      "Time": "15:20"
+    },
+    {
+      "Name": "HKCSGO | discord.gg/HKCS",
+      "Steam": "76561198772709108",
       "Score": 0,
-      "Time": "13:20"
+      "Time": "00:41"
     },
     {
       "Name": "Bullet_Invalid",
       "Steam": "76561198773013027",
-      "Score": 30,
-      "Time": "07:07"
+      "Score": 2,
+      "Time": "09:07"
     },
     {
       "Name": "hvh monster 1337",
       "Steam": "76561198776319744",
-      "Score": 186,
+      "Score": 198,
       "Time": "??:??"
     },
     {
-      "Name": "omangomangomango mangomango mrwalkthemdownandrapejews",
+      "Name": "ngo mangomangomangomangoman mrwalkthemdownandrapejews",
       "Steam": "76561198770614581",
-      "Score": 2,
-      "Time": "05:46"
+      "Score": 10,
+      "Time": "07:46"
     },
     {
       "Name": "meow",
       "Steam": "76561199886229769",
-      "Score": 62,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "Comm Demon",
       "Steam": "76561199168406344",
-      "Score": 59,
+      "Score": 64,
       "Time": "??:??"
     },
     {
@@ -46,20 +52,20 @@
     {
       "Name": "NOFOODSTAMPS4U",
       "Steam": "76561199268768275",
-      "Score": 16,
-      "Time": "42:46"
+      "Score": 18,
+      "Time": "44:46"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 49,
-      "Time": "20:11"
+      "Score": 53,
+      "Time": "22:11"
     },
     {
       "Name": "Arkem",
       "Steam": "76561199755599976",
-      "Score": 96,
-      "Time": "45:14"
+      "Score": 102,
+      "Time": "47:14"
     }
   ]
 }
