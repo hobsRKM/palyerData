@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-08T14:18:06.7531357Z",
+  "Time": "2025-11-08T14:20:06.7537199Z",
   "Players": [
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
       "Score": 0,
-      "Time": "11:08"
+      "Time": "13:08"
     },
     {
       "Name": "Feetality",
       "Steam": "76561198781702164",
-      "Score": 78,
+      "Score": 92,
       "Time": "??:??"
     },
     {
       "Name": "allys friend",
       "Steam": "76561199268768275",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Svane",
+      "Steam": "76561199385431976",
+      "Score": 0,
+      "Time": "02:02"
     }
   ]
 }
