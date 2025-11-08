@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-08T01:46:19.245846Z",
-  "Players": []
+  "Time": "2025-11-08T01:48:02.3621062Z",
+  "Players": [
+    {
+      "Name": "HKCSGO",
+      "Steam": "76561198772709108",
+      "Score": 7,
+      "Time": "40:12"
+    },
+    {
+      "Name": "pxycho",
+      "Steam": "76561198422636928",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mom took the ledger",
+      "Steam": "76561199803595505",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDD8D\uD835\uDD86\uD835\uDD9A\uD835\uDD93\uD835\uDD99",
+      "Steam": "76561199486620119",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ok",
+      "Steam": "76561199049807914",
+      "Score": 7,
+      "Time": "??:??"
+    }
+  ]
 }
