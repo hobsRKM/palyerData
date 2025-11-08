@@ -1,17 +1,11 @@
 {
-  "Time": "2025-11-08T08:12:52.6349149Z",
+  "Time": "2025-11-08T08:14:52.6417443Z",
   "Players": [
-    {
-      "Name": "BlueGuy",
-      "Steam": "76561198771089551",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "Drunk Yuri",
       "Steam": "76561198415533731",
-      "Score": 25,
-      "Time": "64:43"
+      "Score": 31,
+      "Time": "66:43"
     },
     {
       "Name": "Road to Silver",
@@ -22,38 +16,44 @@
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198166519466",
-      "Score": 0,
-      "Time": "38:05"
+      "Score": 6,
+      "Time": "40:05"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "INV/TO-EVERSIO",
       "Steam": "76561199461216032",
-      "Score": 14,
-      "Time": "40:08"
+      "Score": 20,
+      "Time": "42:08"
+    },
+    {
+      "Name": "Dripler88",
+      "Steam": "76561198901575526",
+      "Score": 0,
+      "Time": "645:00"
     },
     {
       "Name": "nnxit1",
       "Steam": "76561198773072178",
       "Score": 0,
-      "Time": "01:45"
+      "Time": "03:45"
     },
     {
       "Name": "sea",
       "Steam": "76561199471107546",
-      "Score": 31,
-      "Time": "49:20"
+      "Score": 39,
+      "Time": "51:20"
     }
   ]
 }
