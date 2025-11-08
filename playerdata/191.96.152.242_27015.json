@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-08T18:36:35.5409426Z",
+  "Time": "2025-11-08T18:38:35.5408168Z",
   "Players": [
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 2,
-      "Time": "00:43"
+      "Score": 0,
+      "Time": "01:16"
     },
     {
       "Name": "roy",
       "Steam": "76561198113650702",
-      "Score": 10,
-      "Time": "03:50"
+      "Score": 16,
+      "Time": "05:50"
     },
     {
-      "Name": "mangose gurt",
+      "Name": "mangosens gurt",
       "Steam": "76561198793259676",
-      "Score": 25,
+      "Score": 31,
       "Time": "??:??"
     },
     {
-      "Name": "1 vex",
+      "Name": "vex",
       "Steam": "76561199471107546",
-      "Score": 23,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "the martyr",
       "Steam": "76561198774533837",
-      "Score": 16,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WALNUT",
+      "Steam": "76561198772274004",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
