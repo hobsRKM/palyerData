@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-08T15:46:10.0777515Z",
+  "Time": "2025-11-08T15:48:10.0676412Z",
   "Players": [
+    {
+      "Name": "AIMWARE ENJOYER",
+      "Steam": "76561198311049445",
+      "Score": 2,
+      "Time": "01:30"
+    },
     {
       "Name": "Shizouze",
       "Steam": "76561199629642229",
-      "Score": 18,
-      "Time": "03:03"
+      "Score": 32,
+      "Time": "05:03"
     },
     {
       "Name": "dalmanhendi66955",
@@ -16,7 +22,7 @@
     {
       "Name": "PlsDontCheat",
       "Steam": "76561198794366150",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
