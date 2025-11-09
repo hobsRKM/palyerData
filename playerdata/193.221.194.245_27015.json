@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-09T00:24:17.4005587Z",
+  "Time": "2025-11-09T00:26:03.6862065Z",
   "Players": [
+    {
+      "Name": "req",
+      "Steam": "76561199045698424",
+      "Score": 0,
+      "Time": "01:00"
+    },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
@@ -14,63 +20,75 @@
       "Time": "??:??"
     },
     {
-      "Name": "Grajchłopiec Kasti",
+      "Name": "Grajch\u0142opiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Psychiczny",
       "Steam": "76561198776887660",
-      "Score": 8,
-      "Time": "80:32"
+      "Score": 10,
+      "Time": "82:19"
     },
     {
       "Name": "Panda",
       "Steam": "76561198453141846",
       "Score": 10,
-      "Time": "34:35"
+      "Time": "36:21"
     },
     {
       "Name": "m6176.804.9",
       "Steam": "76561198789111642",
-      "Score": 9,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "astral invite begger",
       "Steam": "76561199883548410",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "gamesen vedvery",
+      "Name": "gam vedvery",
       "Steam": "76561198016310598",
-      "Score": 17,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 15,
-      "Time": "277:29"
+      "Score": 32,
+      "Time": "279:16"
     },
     {
       "Name": "odinok",
       "Steam": "76561199008479375",
-      "Score": 24,
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "muertas",
+      "Steam": "76561198791398108",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "hard polo stage 2",
       "Steam": "76561198773644062",
       "Score": 0,
-      "Time": "00:48"
+      "Time": "02:34"
     },
     {
       "Name": "marc",
       "Steam": "76561198780142844",
-      "Score": 25,
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bosinn",
+      "Steam": "76561198148869169",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
