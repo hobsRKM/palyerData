@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-09T13:40:42.842821Z",
+  "Time": "2025-11-09T13:42:42.8331456Z",
   "Players": [
+    {
+      "Name": "W seed",
+      "Steam": "76561199876716760",
+      "Score": 0,
+      "Time": "00:42"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
       "Score": 2,
-      "Time": "131:58"
+      "Time": "133:58"
     },
     {
       "Name": "✡⃤⛴☁",
       "Steam": "76561199060922164",
-      "Score": 3,
-      "Time": "33:48"
+      "Score": 7,
+      "Time": "35:48"
     },
     {
       "Name": "\uD835\uDD43\uD835\uDD50ℕ\uD835\uDD4F",
       "Steam": "76561199535713965",
       "Score": 0,
-      "Time": "23:39"
+      "Time": "25:39"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 14,
-      "Time": "50:06"
+      "Score": 18,
+      "Time": "52:06"
     },
     {
       "Name": "505 Wantan Mee",
       "Steam": "76561198983368547",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     }
   ]
