@@ -1,4 +1,47 @@
 {
-  "Time": "2025-11-09T16:08:30.5786413Z",
-  "Players": []
+  "Time": "2025-11-09T16:08:32.8088154Z",
+  "Players": [
+    {
+      "Name": "jessie",
+      "Steam": "76561199565325782",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AMD RADEON RX 7600",
+      "Steam": "76561198843562933",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ロリポップ",
+      "Steam": "76561198307706690",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "shane47",
+      "Steam": "76561199699181728",
+      "Score": 0,
+      "Time": "03:52"
+    },
+    {
+      "Name": "compkiller \uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8�",
+      "Steam": "76561199230497763",
+      "Score": 6,
+      "Time": "228:57"
+    },
+    {
+      "Name": "Cake",
+      "Steam": "76561199874806273",
+      "Score": 21,
+      "Time": "189:54"
+    },
+    {
+      "Name": "holy theodore",
+      "Steam": "76561198775891669",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
