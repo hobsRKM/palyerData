@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-09T09:34:30.5609828Z",
-  "Players": []
+  "Time": "2025-11-09T09:34:32.8165801Z",
+  "Players": [
+    {
+      "Name": "Lucky",
+      "Steam": "76561198901353855",
+      "Score": 66,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Pidaras",
+      "Steam": "76561199819624156",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "drysiftconnosieur",
+      "Steam": "76561198873335174",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
