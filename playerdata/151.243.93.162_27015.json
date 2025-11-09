@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-09T18:06:44.1409743Z",
-  "Players": []
+  "Time": "2025-11-09T18:06:46.3429452Z",
+  "Players": [
+    {
+      "Name": "timmy",
+      "Steam": "76561199441700232",
+      "Score": 2,
+      "Time": "02:15"
+    },
+    {
+      "Name": "Comm Demon",
+      "Steam": "76561199168406344",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Lumen",
+      "Steam": "76561198795045489",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "RADICAL RACIST",
+      "Steam": "76561199870945474",
+      "Score": 12,
+      "Time": "05:55"
+    },
+    {
+      "Name": "Road to Silver",
+      "Steam": "76561198871161458",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "boolymon_killer666",
+      "Steam": "76561198791541733",
+      "Score": 31,
+      "Time": "16:00"
+    }
+  ]
 }
