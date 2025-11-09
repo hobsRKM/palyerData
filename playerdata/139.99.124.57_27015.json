@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-09T11:42:42.8478461Z",
+  "Time": "2025-11-09T11:44:42.8430336Z",
   "Players": [
     {
       "Name": "no name",
       "Steam": "76561199724179717",
-      "Score": 27,
-      "Time": "12:58"
+      "Score": 33,
+      "Time": "14:58"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 39,
-      "Time": "13:58"
+      "Score": 43,
+      "Time": "15:58"
     },
     {
       "Name": "executing order 66",
       "Steam": "76561199885332136",
       "Score": 0,
-      "Time": "42:31"
+      "Time": "44:31"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 44,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "vac king",
       "Steam": "76561199765794124",
       "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Plagueware",
+      "Steam": "76561199803958730",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
