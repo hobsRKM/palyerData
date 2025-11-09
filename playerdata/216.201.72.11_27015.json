@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-09T02:22:06.7653029Z",
+  "Time": "2025-11-09T02:24:06.753914Z",
   "Players": [
     {
       "Name": "Nagisa_VRC",
       "Steam": "76561198782172023",
-      "Score": 4,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "CardX",
       "Steam": "76561199015825113",
-      "Score": 6,
+      "Score": 13,
       "Time": "??:??"
+    },
+    {
+      "Name": "pusheaxret",
+      "Steam": "76561198782287736",
+      "Score": 55,
+      "Time": "01:40"
     },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 56,
-      "Time": "19:01"
+      "Score": 57,
+      "Time": "21:01"
     }
   ]
 }
