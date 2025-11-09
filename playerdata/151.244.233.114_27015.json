@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-09T06:48:13.2238578Z",
+  "Time": "2025-11-09T06:50:13.2291715Z",
   "Players": [
     {
       "Name": "miro",
       "Steam": "76561199872569185",
-      "Score": 20,
-      "Time": "13:59"
+      "Score": 24,
+      "Time": "15:59"
     },
     {
       "Name": "was",
       "Steam": "76561198965718058",
-      "Score": 25,
+      "Score": 26,
       "Time": "??:??"
     },
     {
-      "Name": "A roy",
+      "Name": "AIMWARE  roy",
       "Steam": "76561198113650702",
-      "Score": 69,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "Rize",
       "Steam": "76561199889141939",
-      "Score": 35,
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dkbq",
+      "Steam": "76561198849056942",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
