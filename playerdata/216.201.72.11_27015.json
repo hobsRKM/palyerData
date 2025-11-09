@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-09T04:46:06.7594329Z",
+  "Time": "2025-11-09T04:48:06.7595004Z",
   "Players": [
+    {
+      "Name": "kaine",
+      "Steam": "76561199634909491",
+      "Score": 0,
+      "Time": "01:40"
+    },
     {
       "Name": "barry mcockiner",
       "Steam": "76561198847829880",
-      "Score": 33,
-      "Time": "64:06"
+      "Score": 41,
+      "Time": "66:06"
     },
     {
       "Name": "James",
@@ -16,14 +22,20 @@
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 48,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "CardX",
       "Steam": "76561199015825113",
-      "Score": 33,
-      "Time": "09:49"
+      "Score": 36,
+      "Time": "11:49"
+    },
+    {
+      "Name": "ja",
+      "Steam": "76561198413420806",
+      "Score": 0,
+      "Time": "00:37"
     },
     {
       "Name": "Bhg",
@@ -34,38 +46,38 @@
     {
       "Name": "emu",
       "Steam": "76561198147102077",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "000",
+      "Name": "creamy the pimp 000",
       "Steam": "76561199261442319",
-      "Score": 18,
-      "Time": "09:24"
+      "Score": 20,
+      "Time": "11:24"
     },
     {
       "Name": "2020",
       "Steam": "76561198771356444",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
       "Score": 0,
-      "Time": "09:54"
+      "Time": "11:54"
     },
     {
       "Name": "boolymon_killer666",
       "Steam": "76561198791541733",
-      "Score": 34,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
       "Score": 15,
-      "Time": "53:41"
+      "Time": "55:41"
     }
   ]
 }
