@@ -1,65 +1,71 @@
 {
-  "Time": "2025-11-09T05:18:35.6719603Z",
+  "Time": "2025-11-09T05:20:35.6746981Z",
   "Players": [
     {
       "Name": "Carl Wheezer",
       "Steam": "76561199492834313",
-      "Score": 102,
-      "Time": "56:48"
+      "Score": 110,
+      "Time": "58:48"
     },
     {
       "Name": "was",
       "Steam": "76561198965718058",
-      "Score": 47,
-      "Time": "61:35"
+      "Score": 51,
+      "Time": "63:35"
     },
     {
       "Name": "PiskaBot",
       "Steam": "76561199156716734",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 74,
-      "Time": "89:44"
+      "Score": 82,
+      "Time": "91:44"
     },
     {
       "Name": "Road to Silver",
       "Steam": "76561198871161458",
       "Score": 0,
-      "Time": "68:02"
+      "Time": "70:02"
+    },
+    {
+      "Name": "funyun",
+      "Steam": "76561198788829147",
+      "Score": 0,
+      "Time": "00:22"
     },
     {
       "Name": "vex",
       "Steam": "76561199471107546",
-      "Score": 60,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Doug",
       "Steam": "76561199550845137",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "jewishboyhater",
       "Steam": "76561199012328690",
-      "Score": 14,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Arkem",
       "Steam": "76561199755599976",
-      "Score": 92,
-      "Time": "22:50"
+      "Score": 96,
+      "Time": "24:50"
     },
     {
       "Name": "Meowz",
       "Steam": "76561198783859737",
-      "Score": 40,
-      "Time": "16:13"
+      "Score": 44,
+      "Time": "18:13"
     }
   ]
 }
