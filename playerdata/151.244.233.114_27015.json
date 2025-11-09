@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-09T20:56:13.2374271Z",
+  "Time": "2025-11-09T20:58:13.2319555Z",
   "Players": [
     {
       "Name": "Daniel Stewart",
       "Steam": "76561198770678110",
-      "Score": 30,
+      "Score": 41,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Lucky...",
+      "Steam": "76561198786330997",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "jewishboyhater",
       "Steam": "76561199012328690",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "paw",
       "Steam": "76561198771316949",
-      "Score": 74,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "Ant",
       "Steam": "76561198769983678",
-      "Score": 9,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -34,7 +40,7 @@
     {
       "Name": "alice",
       "Steam": "76561199585828938",
-      "Score": 113,
+      "Score": 121,
       "Time": "??:??"
     },
     {
@@ -46,31 +52,37 @@
     {
       "Name": "timmy",
       "Steam": "76561199441700232",
-      "Score": 48,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Comm Demon",
       "Steam": "76561199168406344",
-      "Score": 70,
-      "Time": "04:32"
+      "Score": 80,
+      "Time": "06:32"
     },
     {
       "Name": "society",
       "Steam": "76561198180065165",
+      "Score": 2,
+      "Time": "15:50"
+    },
+    {
+      "Name": "Void",
+      "Steam": "76561199148862156",
       "Score": 0,
-      "Time": "13:50"
+      "Time": "??:??"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 28,
+      "Score": 33,
       "Time": "??:??"
     }
   ]
