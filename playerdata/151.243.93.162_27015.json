@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-09T21:00:44.1422186Z",
-  "Players": []
+  "Time": "2025-11-09T21:00:46.3419848Z",
+  "Players": [
+    {
+      "Name": "testing nixware",
+      "Steam": "76561199838374266",
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "000",
+      "Steam": "76561199261442319",
+      "Score": 22,
+      "Time": "16:50"
+    },
+    {
+      "Name": "notzonticx",
+      "Steam": "76561199729277028",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "drinking",
+      "Steam": "76561199844832166",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ez NN DOG",
+      "Steam": "76561199154641729",
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 48,
+      "Time": "??:??"
+    }
+  ]
 }
