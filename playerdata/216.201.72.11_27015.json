@@ -1,12 +1,6 @@
 {
-  "Time": "2025-11-09T04:04:06.7675851Z",
+  "Time": "2025-11-09T04:06:06.770085Z",
   "Players": [
-    {
-      "Name": "pxycho",
-      "Steam": "76561198422636928",
-      "Score": 2,
-      "Time": "03:38"
-    },
     {
       "Name": "mattiz",
       "Steam": "76561198771264800",
@@ -16,25 +10,31 @@
     {
       "Name": "barry mcockiner",
       "Steam": "76561198847829880",
-      "Score": 7,
-      "Time": "22:06"
+      "Score": 13,
+      "Time": "24:06"
+    },
+    {
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "cell",
       "Steam": "76561199680334905",
-      "Score": 0,
-      "Time": "07:07"
+      "Score": 2,
+      "Time": "09:07"
     },
     {
       "Name": "emu",
       "Steam": "76561198147102077",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "000",
       "Steam": "76561199261442319",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
@@ -46,32 +46,38 @@
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 11,
-      "Time": "28:29"
+      "Score": 13,
+      "Time": "30:29"
     },
     {
       "Name": "wound",
       "Steam": "76561199049807914",
-      "Score": 16,
-      "Time": "10:28"
+      "Score": 20,
+      "Time": "12:28"
     },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 0,
-      "Time": "27:16"
+      "Score": 13,
+      "Time": "29:16"
     },
     {
       "Name": "Comm Demon",
       "Steam": "76561199168406344",
-      "Score": 6,
-      "Time": "33:34"
+      "Score": 18,
+      "Time": "35:34"
     },
     {
       "Name": "Quantum Foam Paperweight",
       "Steam": "76561198771750240",
-      "Score": 8,
-      "Time": "08:20"
+      "Score": 10,
+      "Time": "10:20"
+    },
+    {
+      "Name": "7up*",
+      "Steam": "76561198786866378",
+      "Score": 10,
+      "Time": "01:28"
     }
   ]
 }
