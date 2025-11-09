@@ -1,4 +1,47 @@
 {
-  "Time": "2025-11-09T16:22:30.5786692Z",
-  "Players": []
+  "Time": "2025-11-09T16:22:32.8160759Z",
+  "Players": [
+    {
+      "Name": "jessie",
+      "Steam": "76561199565325782",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AMD RADEON RX 7600",
+      "Steam": "76561198843562933",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ロリポップ",
+      "Steam": "76561198307706690",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "shane47",
+      "Steam": "76561199699181728",
+      "Score": 3,
+      "Time": "17:52"
+    },
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 2,
+      "Time": "01:11"
+    },
+    {
+      "Name": "hoopinghoper",
+      "Steam": "76561199674785177",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "holy theodore",
+      "Steam": "76561198775891669",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
