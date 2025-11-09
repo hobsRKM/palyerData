@@ -1,28 +1,40 @@
 {
-  "Time": "2025-11-09T07:02:35.6685636Z",
+  "Time": "2025-11-09T07:04:35.6785137Z",
   "Players": [
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 0,
+      "Time": "00:22"
+    },
     {
       "Name": "nera",
       "Steam": "76561198786866378",
-      "Score": 18,
-      "Time": "03:53"
+      "Score": 24,
+      "Time": "05:53"
     },
     {
       "Name": "Road to Silver",
       "Steam": "76561198871161458",
       "Score": 0,
-      "Time": "172:02"
+      "Time": "174:02"
     },
     {
       "Name": "[THC]2_CRISPY",
       "Steam": "76561198131332806",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
+    },
+    {
+      "Name": "dkbq",
+      "Steam": "76561198849056942",
+      "Score": 0,
+      "Time": "01:01"
     },
     {
       "Name": "vex",
       "Steam": "76561199471107546",
-      "Score": 24,
+      "Score": 34,
       "Time": "??:??"
     },
     {
@@ -35,37 +47,25 @@
       "Name": "snow",
       "Steam": "76561198059477947",
       "Score": 9,
-      "Time": "05:17"
+      "Time": "07:17"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 7,
-      "Time": "73:56"
+      "Score": 13,
+      "Time": "75:56"
     },
     {
       "Name": "////////////////////////////",
       "Steam": "76561199655883528",
-      "Score": 10,
-      "Time": "15:10"
-    },
-    {
-      "Name": "ja ronny",
-      "Steam": "76561199821597360",
-      "Score": 14,
-      "Time": "41:25"
-    },
-    {
-      "Name": "INV/TO-EVERSIO",
-      "Steam": "76561199461216032",
-      "Score": 6,
-      "Time": "21:31"
+      "Score": 16,
+      "Time": "17:10"
     },
     {
       "Name": "Arkem",
       "Steam": "76561199755599976",
-      "Score": 5,
-      "Time": "126:50"
+      "Score": 11,
+      "Time": "128:50"
     }
   ]
 }
