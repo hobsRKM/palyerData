@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-09T01:04:06.7621765Z",
+  "Time": "2025-11-09T01:06:06.7672402Z",
   "Players": [
+    {
+      "Name": "bunloaffer",
+      "Steam": "76561197986863528",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 2,
-      "Time": "02:01"
+      "Score": 10,
+      "Time": "04:01"
     },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 13,
-      "Time": "07:29"
+      "Score": 24,
+      "Time": "09:29"
     },
     {
       "Name": "Comm Demon",
       "Steam": "76561199168406344",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 4,
-      "Time": "09:48"
+      "Score": 6,
+      "Time": "11:48"
     }
   ]
 }
