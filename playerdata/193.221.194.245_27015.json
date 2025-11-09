@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-09T15:38:30.5786736Z",
-  "Players": []
+  "Time": "2025-11-09T15:38:32.8075802Z",
+  "Players": [
+    {
+      "Name": "$ILV3R",
+      "Steam": "76561199337831044",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fatality enjoyer",
+      "Steam": "76561199610550561",
+      "Score": 10,
+      "Time": "114:49"
+    },
+    {
+      "Name": "ロリポップ",
+      "Steam": "76561198307706690",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD83E\uDEBD",
+      "Steam": "76561198769880190",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rust Enjoyer",
+      "Steam": "76561199838008287",
+      "Score": 6,
+      "Time": "34:49"
+    },
+    {
+      "Name": "ZwMapViewOfSection",
+      "Steam": "76561199884966036",
+      "Score": 9,
+      "Time": "??:??"
+    }
+  ]
 }
