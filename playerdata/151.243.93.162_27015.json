@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-09T16:34:44.1406266Z",
-  "Players": []
+  "Time": "2025-11-09T16:34:46.342105Z",
+  "Players": [
+    {
+      "Name": "timmy",
+      "Steam": "76561199441700232",
+      "Score": 4,
+      "Time": "07:02"
+    },
+    {
+      "Name": "Yizum1",
+      "Steam": "76561198166519466",
+      "Score": 18,
+      "Time": "17:21"
+    },
+    {
+      "Name": "xxxxx",
+      "Steam": "76561199614231488",
+      "Score": 2,
+      "Time": "01:08"
+    },
+    {
+      "Name": "eerqmunfkfha",
+      "Steam": "76561199839723203",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "certtemaidhf",
+      "Steam": "76561199849751953",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
