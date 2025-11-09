@@ -1,40 +1,46 @@
 {
-  "Time": "2025-11-09T19:42:13.2237121Z",
+  "Time": "2025-11-09T19:44:13.2348003Z",
   "Players": [
     {
       "Name": "kero",
       "Steam": "76561198793491444",
       "Score": 35,
-      "Time": "16:12"
+      "Time": "18:12"
     },
     {
       "Name": "PiskaBot",
       "Steam": "76561199156716734",
-      "Score": 7,
-      "Time": "10:24"
+      "Score": 13,
+      "Time": "12:24"
     },
     {
-      "Name": "nixw roy",
+      "Name": "nixware.cc roy",
       "Steam": "76561198113650702",
-      "Score": 82,
-      "Time": "31:18"
+      "Score": 88,
+      "Time": "33:18"
     },
     {
       "Name": "cry",
       "Steam": "76561199888665077",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561199290389689",
-      "Score": 57,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "poopsense",
       "Steam": "76561198770272802",
-      "Score": 82,
+      "Score": 85,
+      "Time": "??:??"
+    },
+    {
+      "Name": "soda",
+      "Steam": "76561198786321609",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
