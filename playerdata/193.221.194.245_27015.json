@@ -1,26 +1,32 @@
 {
-  "Time": "2025-11-09T15:20:32.8142146Z",
+  "Time": "2025-11-09T15:22:05.0721319Z",
   "Players": [
+    {
+      "Name": "sicko",
+      "Steam": "76561199828232211",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Fatality enjoyer",
       "Steam": "76561199610550561",
       "Score": 19,
-      "Time": "96:49"
+      "Time": "98:21"
     },
     {
       "Name": "Dias",
       "Steam": "76561199855112663",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "clippy",
       "Steam": "76561199550122482",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
-      "Name": "ロリポップ",
+      "Name": "\u30ED\u30EA\u30DD\u30C3\u30D7",
       "Steam": "76561198307706690",
       "Score": 0,
       "Time": "??:??"
@@ -28,25 +34,25 @@
     {
       "Name": "c",
       "Steam": "76561199160093857",
-      "Score": 64,
-      "Time": "30:21"
+      "Score": 72,
+      "Time": "31:53"
     },
     {
-      "Name": "ᴋᴀ$ʜ",
+      "Name": "\u1D0B\u1D00$\u029C",
       "Steam": "76561198779174796",
-      "Score": 34,
-      "Time": "92:03"
+      "Score": 38,
+      "Time": "93:35"
     },
     {
       "Name": "Rust Enjoyer",
       "Steam": "76561199838008287",
-      "Score": 17,
-      "Time": "16:49"
+      "Score": 24,
+      "Time": "18:21"
     },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
