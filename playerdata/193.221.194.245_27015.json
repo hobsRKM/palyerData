@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-09T00:02:17.4024616Z",
+  "Time": "2025-11-09T00:04:04.723091Z",
   "Players": [
     {
-      "Name": "Grajchłopiec Kasti",
+      "Name": "\u22C6\uFF61 Winxx",
+      "Steam": "76561199472686469",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Grajch\u0142opiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 46,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "Psychiczny",
       "Steam": "76561198776887660",
-      "Score": 7,
-      "Time": "58:32"
+      "Score": 9,
+      "Time": "60:20"
     },
     {
       "Name": "Panda",
       "Steam": "76561198453141846",
-      "Score": 18,
-      "Time": "12:35"
+      "Score": 22,
+      "Time": "14:23"
     },
     {
       "Name": "m6176.804.9",
       "Steam": "76561198789111642",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -32,22 +38,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "Julusi0wyXD",
+      "Steam": "76561199518806323",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
       "Name": "odinok",
       "Steam": "76561199008479375",
-      "Score": 71,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "Eftim",
       "Steam": "76561197963433787",
+      "Score": 4,
+      "Time": "193:24"
+    },
+    {
+      "Name": "marc",
+      "Steam": "76561198780142844",
       "Score": 0,
-      "Time": "191:37"
+      "Time": "??:??"
     },
     {
       "Name": "zen",
       "Steam": "76561198788157791",
-      "Score": 10,
-      "Time": "01:17"
+      "Score": 14,
+      "Time": "03:04"
     }
   ]
 }
