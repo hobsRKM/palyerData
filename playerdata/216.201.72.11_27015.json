@@ -1,59 +1,65 @@
 {
-  "Time": "2025-11-09T05:22:06.7570259Z",
+  "Time": "2025-11-09T05:24:06.7689154Z",
   "Players": [
+    {
+      "Name": "Raiden",
+      "Steam": "76561199180035085",
+      "Score": 0,
+      "Time": "01:18"
+    },
     {
       "Name": "barry mcockiner",
       "Steam": "76561198847829880",
-      "Score": 2,
-      "Time": "100:06"
+      "Score": 7,
+      "Time": "102:06"
     },
     {
       "Name": "CardX",
       "Steam": "76561199015825113",
-      "Score": 2,
-      "Time": "14:11"
+      "Score": 12,
+      "Time": "16:11"
     },
     {
-      "Name": "interium",
-      "Steam": "76561199816455271",
-      "Score": 0,
-      "Time": "01:07"
+      "Name": "emu",
+      "Steam": "76561198147102077",
+      "Score": 2,
+      "Time": "01:58"
     },
     {
       "Name": "js",
       "Steam": "76561199261442319",
-      "Score": 4,
-      "Time": "45:24"
+      "Score": 6,
+      "Time": "47:24"
     },
     {
       "Name": "wain",
       "Steam": "76561198771356444",
-      "Score": 0,
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "ping boosted faggie",
+      "Name": "roy",
       "Steam": "76561198113650702",
       "Score": 2,
-      "Time": "14:35"
+      "Time": "16:35"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 8,
-      "Time": "15:08"
+      "Score": 4,
+      "Time": "17:08"
     },
     {
       "Name": "boolymon_killer666",
       "Steam": "76561198791541733",
-      "Score": 0,
-      "Time": "00:25"
+      "Score": 2,
+      "Time": "02:25"
     },
     {
       "Name": "ronnysteam03",
       "Steam": "76561199821597360",
-      "Score": 18,
-      "Time": "114:27"
+      "Score": 29,
+      "Time": "116:27"
     }
   ]
 }
