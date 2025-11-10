@@ -1,35 +1,65 @@
 {
-  "Time": "2025-11-10T01:12:42.5431939Z",
+  "Time": "2025-11-10T01:14:23.6827362Z",
   "Players": [
     {
-      "Name": "aaaaaaaaaaaaaaaaaaaa",
-      "Steam": "76561199830217188",
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 75,
+      "Time": "44:09"
+    },
+    {
+      "Name": "SRC",
+      "Steam": "76561198241397796",
+      "Score": 50,
+      "Time": "365:43"
+    },
+    {
+      "Name": "real shit",
+      "Steam": "76561199525508650",
       "Score": 2,
-      "Time": "09:39"
+      "Time": "271:58"
     },
     {
-      "Name": "c",
-      "Steam": "76561199160093857",
-      "Score": 70,
-      "Time": "207:59"
+      "Name": "bored.",
+      "Steam": "76561199634244736",
+      "Score": 0,
+      "Time": "08:31"
     },
     {
-      "Name": "♰\uD835\uDCDD\uD835\uDCF8\uD835\uDCDD\uD835\uDCEA\uD835\uDCF6\uD835\uDCEE♰",
-      "Steam": "76561199101917163",
-      "Score": 13,
-      "Time": "05:26"
+      "Name": "geNNeral ♠",
+      "Steam": "76561198779906456",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
-      "Name": "ASTRAL INV BEGGER",
-      "Steam": "76561198778146687",
-      "Score": 16,
-      "Time": "43:57"
+      "Name": "Im_Legit",
+      "Steam": "76561198771602123",
+      "Score": 28,
+      "Time": "141:19"
     },
     {
-      "Name": "luh_geeked",
-      "Steam": "76561198780060093",
-      "Score": 96,
-      "Time": "386:43"
+      "Name": "ben",
+      "Steam": "76561199555019337",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 23,
+      "Time": "169:02"
+    },
+    {
+      "Name": "Madness",
+      "Steam": "76561198991066411",
+      "Score": 44,
+      "Time": "??:??"
     }
   ]
 }
