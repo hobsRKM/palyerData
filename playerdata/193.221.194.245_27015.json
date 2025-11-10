@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-10T17:06:22.5223149Z",
+  "Time": "2025-11-10T17:08:03.1676556Z",
   "Players": [
     {
-      "Name": "charms antonyscherrer",
-      "Steam": "76561198772567663",
+      "Name": "Neo",
+      "Steam": "76561199201440406",
       "Score": 0,
+      "Time": "00:17"
+    },
+    {
+      "Name": "l antonyscherrer",
+      "Steam": "76561198772567663",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "moncler",
       "Steam": "76561199785234036",
-      "Score": 2,
-      "Time": "70:08"
+      "Score": 8,
+      "Time": "71:49"
     }
   ]
 }
