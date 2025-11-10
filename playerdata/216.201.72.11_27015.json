@@ -1,47 +1,41 @@
 {
-  "Time": "2025-11-10T00:49:54.0860302Z",
+  "Time": "2025-11-10T00:51:54.0737085Z",
   "Players": [
+    {
+      "Name": "emu",
+      "Steam": "76561198147102077",
+      "Score": 4,
+      "Time": "01:47"
+    },
     {
       "Name": "pxycho",
       "Steam": "76561198422636928",
-      "Score": 19,
-      "Time": "08:33"
+      "Score": 23,
+      "Time": "10:33"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 28,
-      "Time": "36:39"
+      "Score": 34,
+      "Time": "38:39"
     },
     {
       "Name": "ᓚᘏᗢ",
       "Steam": "76561198019270984",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
-    },
-    {
-      "Name": "Raiden",
-      "Steam": "76561199180035085",
-      "Score": 0,
-      "Time": "00:16"
     },
     {
       "Name": "Abstractanoid",
       "Steam": "76561199759131097",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "ShadowSpecter",
       "Steam": "76561198771316059",
-      "Score": 44,
+      "Score": 52,
       "Time": "??:??"
-    },
-    {
-      "Name": "RYMU",
-      "Steam": "76561199865685000",
-      "Score": 8,
-      "Time": "00:35"
     }
   ]
 }
