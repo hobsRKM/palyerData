@@ -1,29 +1,41 @@
 {
-  "Time": "2025-11-10T17:34:22.5235358Z",
+  "Time": "2025-11-10T17:36:02.7321932Z",
   "Players": [
     {
       "Name": "Neo",
       "Steam": "76561199201440406",
-      "Score": 40,
-      "Time": "26:36"
+      "Score": 51,
+      "Time": "28:16"
+    },
+    {
+      "Name": "daer",
+      "Steam": "76561198778696883",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Trionxs",
+      "Steam": "76561199040781865",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "ivan329gamer",
       "Steam": "76561199201440819",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "joji",
       "Steam": "76561199814294114",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "v1337.exe",
       "Steam": "76561198772141867",
-      "Score": 0,
-      "Time": "09:16"
+      "Score": 1,
+      "Time": "10:57"
     },
     {
       "Name": "MrKartof",
@@ -32,10 +44,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "BUSKIMANO",
+      "Steam": "76561199799874714",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "Rize",
       "Steam": "76561199889141939",
-      "Score": 12,
-      "Time": "08:40"
+      "Score": 20,
+      "Time": "10:20"
     }
   ]
 }
