@@ -1,47 +1,53 @@
 {
-  "Time": "2025-11-10T19:58:51.3908559Z",
+  "Time": "2025-11-10T20:00:51.3956239Z",
   "Players": [
+    {
+      "Name": "I NEED FATAL SUB PLZ PAPA",
+      "Steam": "76561198770786025",
+      "Score": 0,
+      "Time": "00:33"
+    },
     {
       "Name": "ナギ",
       "Steam": "76561199829298000",
-      "Score": 0,
-      "Time": "14:35"
+      "Score": 2,
+      "Time": "16:35"
     },
     {
       "Name": "TS .",
       "Steam": "76561199849153218",
-      "Score": 8,
-      "Time": "24:42"
-    },
-    {
-      "Name": "ᓚᘏᗢ",
-      "Steam": "76561198019270984",
-      "Score": 5,
-      "Time": "??:??"
+      "Score": 18,
+      "Time": "26:42"
     },
     {
       "Name": "rn4429497",
       "Steam": "76561199364550011",
-      "Score": 8,
-      "Time": "31:22"
+      "Score": 14,
+      "Time": "33:22"
     },
     {
       "Name": "Microsoft Outlook",
       "Steam": "76561199183550704",
-      "Score": 20,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 11,
-      "Time": "07:01"
+      "Score": 15,
+      "Time": "09:01"
     },
     {
       "Name": "roy",
       "Steam": "76561198113650702",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "notzonticx",
+      "Steam": "76561199729277028",
+      "Score": 0,
+      "Time": "01:22"
     }
   ]
 }
