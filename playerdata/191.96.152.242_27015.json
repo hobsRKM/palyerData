@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-10T22:50:51.3967154Z",
+  "Time": "2025-11-10T22:52:51.3863994Z",
   "Players": [
+    {
+      "Name": "ja ronny",
+      "Steam": "76561199821597360",
+      "Score": 0,
+      "Time": "01:15"
+    },
     {
       "Name": "conspiracy",
       "Steam": "76561198380272287",
-      "Score": 44,
-      "Time": "02:33"
+      "Score": 48,
+      "Time": "04:33"
     },
     {
       "Name": "RacistVeteran",
       "Steam": "76561198043075601",
       "Score": 23,
-      "Time": "58:31"
+      "Time": "60:31"
     },
     {
       "Name": "vex",
@@ -22,20 +28,20 @@
     {
       "Name": "Little / looking 4 eboyfriend",
       "Steam": "76561198791818429",
-      "Score": 66,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "im a \uD835\uDD31\uD835\uDD2F\uD835\uDD1E\uD835\uDD2B\uD835\uDD2B\uD835\uDD36",
       "Steam": "76561197988871069",
-      "Score": 62,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "Meowz",
       "Steam": "76561198783859737",
-      "Score": 25,
-      "Time": "08:32"
+      "Score": 27,
+      "Time": "10:32"
     },
     {
       "Name": "Gassy",
@@ -46,8 +52,8 @@
     {
       "Name": "skeetless nnr :/",
       "Steam": "76561199668478436",
-      "Score": 46,
-      "Time": "06:51"
+      "Score": 48,
+      "Time": "08:51"
     }
   ]
 }
