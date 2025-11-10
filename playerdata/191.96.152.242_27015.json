@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-10T17:30:51.3956985Z",
+  "Time": "2025-11-10T17:32:51.3991805Z",
   "Players": [
+    {
+      "Name": "fatal AmericaFirst",
+      "Steam": "76561199891644703",
+      "Score": 4,
+      "Time": "00:38"
+    },
     {
       "Name": "micloiden",
       "Steam": "76561199778097491",
@@ -11,31 +17,31 @@
       "Name": "ナギ",
       "Steam": "76561199829298000",
       "Score": 10,
-      "Time": "07:06"
+      "Time": "09:06"
     },
     {
       "Name": "alice",
       "Steam": "76561199585828938",
-      "Score": 10,
-      "Time": "17:20"
+      "Score": 16,
+      "Time": "19:20"
     },
     {
       "Name": ".",
       "Steam": "76561199290389689",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "undermin head",
       "Steam": "76561198771012869",
-      "Score": 32,
-      "Time": "05:06"
+      "Score": 42,
+      "Time": "07:06"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 0,
-      "Time": "00:18"
+      "Score": 3,
+      "Time": "02:18"
     }
   ]
 }
