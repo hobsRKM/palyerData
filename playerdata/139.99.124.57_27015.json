@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-10T12:11:59.8784118Z",
+  "Time": "2025-11-10T12:13:59.8914417Z",
   "Players": [
+    {
+      "Name": "Raiden",
+      "Steam": "76561199180035085",
+      "Score": 4,
+      "Time": "02:08"
+    },
+    {
+      "Name": "d0$ed",
+      "Steam": "76561199119357951",
+      "Score": 4,
+      "Time": "02:04"
+    },
     {
       "Name": "505 Wantan Mee",
       "Steam": "76561198983368547",
-      "Score": 90,
-      "Time": "??:??"
-    },
-    {
-      "Name": "İsmailcan beşkardeş",
-      "Steam": "76561198770919189",
-      "Score": 4,
+      "Score": 100,
       "Time": "??:??"
     },
     {
       "Name": "❤Apni Rakhel Banalo 1❤",
       "Steam": "76561199234157368",
-      "Score": 6,
-      "Time": "04:47"
+      "Score": 10,
+      "Time": "06:47"
     }
   ]
 }
