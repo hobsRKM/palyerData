@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-10T19:24:51.3855496Z",
+  "Time": "2025-11-10T19:26:51.3858381Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561199290389689",
+      "Score": 2,
+      "Time": "01:59"
+    },
     {
       "Name": "ᓚᘏᗢ",
       "Steam": "76561198019270984",
@@ -10,25 +16,25 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199800809526",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "drinking",
       "Steam": "76561199844832166",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "fish for brains",
       "Steam": "76561198784229511",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Microsoft Outlook",
       "Steam": "76561199183550704",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
