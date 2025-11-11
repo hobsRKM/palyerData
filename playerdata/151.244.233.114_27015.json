@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-11T01:44:19.3667577Z",
+  "Time": "2025-11-11T01:46:19.3730662Z",
   "Players": [
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199800809526",
-      "Score": 6,
-      "Time": "31:15"
+      "Score": 15,
+      "Time": "33:15"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561199290389689",
+      "Score": 0,
+      "Time": "02:04"
     },
     {
       "Name": "polizzi",
@@ -16,7 +22,13 @@
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 8,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Road to Silver",
+      "Steam": "76561198871161458",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
