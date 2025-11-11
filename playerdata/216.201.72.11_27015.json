@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-11T22:31:48.0659414Z",
+  "Time": "2025-11-11T22:33:48.0745072Z",
   "Players": [
     {
       "Name": "blahx909",
       "Steam": "76561198768726749",
-      "Score": 71,
-      "Time": "64:17"
+      "Score": 75,
+      "Time": "66:17"
     },
     {
       "Name": "kicken",
       "Steam": "76561199370092055",
       "Score": 17,
-      "Time": "07:39"
+      "Time": "09:39"
     },
     {
       "Name": "GetTappedKid",
       "Steam": "76561199498461340",
-      "Score": 49,
-      "Time": "00:50"
+      "Score": 55,
+      "Time": "02:50"
     },
     {
       "Name": "Sebi",
       "Steam": "76561199241103529",
-      "Score": 44,
+      "Score": 55,
       "Time": "??:??"
+    },
+    {
+      "Name": "Supremacy",
+      "Steam": "76561199837528306",
+      "Score": 0,
+      "Time": "01:03"
     }
   ]
 }
