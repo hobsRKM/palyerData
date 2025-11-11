@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-11T21:02:14.0009499Z",
+  "Time": "2025-11-11T21:04:14.0051219Z",
   "Players": [
     {
-      "Name": "la lyra",
+      "Name": "wayytosmooth",
+      "Steam": "76561198769060742",
+      "Score": 0,
+      "Time": "00:16"
+    },
+    {
+      "Name": "larp lyra",
       "Steam": "76561198113650702",
-      "Score": 94,
-      "Time": "85:34"
+      "Score": 102,
+      "Time": "87:34"
     },
     {
       "Name": "sangvipas",
       "Steam": "76561198277482289",
-      "Score": 72,
-      "Time": "79:47"
+      "Score": 74,
+      "Time": "81:47"
     },
     {
       "Name": "NYUKI",
       "Steam": "76561199740544730",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "lyra",
       "Steam": "76561199675612373",
-      "Score": 66,
+      "Score": 72,
       "Time": "??:??"
     }
   ]
