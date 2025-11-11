@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-11T00:51:45.1050222Z",
+  "Time": "2025-11-11T00:53:45.1002786Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561199290389689",
+      "Score": 0,
+      "Time": "00:38"
+    },
+    {
+      "Name": "boolydiddyblud777",
+      "Steam": "76561198791541733",
+      "Score": 0,
+      "Time": "00:11"
+    },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 34,
-      "Time": "12:50"
+      "Score": 0,
+      "Time": "14:50"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 59,
-      "Time": "23:29"
+      "Score": 0,
+      "Time": "25:29"
     },
     {
       "Name": "im a \uD835\uDD31\uD835\uDD2F\uD835\uDD1E\uD835\uDD2B\uD835\uDD2B\uD835\uDD36",
       "Steam": "76561197988871069",
-      "Score": 6,
-      "Time": "03:01"
+      "Score": 7,
+      "Time": "05:01"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 73,
-      "Time": "39:11"
-    },
-    {
-      "Name": "fish for brains",
-      "Steam": "76561198784229511",
-      "Score": 24,
-      "Time": "02:24"
+      "Score": 0,
+      "Time": "41:11"
     },
     {
       "Name": "imnotdoggo",
@@ -38,9 +44,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "Microsoft Outlook",
-      "Steam": "76561199183550704",
-      "Score": 4,
+      "Name": "waffle",
+      "Steam": "76561198309670036",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
