@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-11T21:33:06.6879004Z",
+  "Time": "2025-11-11T21:35:06.6898961Z",
   "Players": [
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Supremacy",
       "Steam": "76561199837528306",
       "Score": 6,
-      "Time": "03:52"
+      "Time": "05:52"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -22,19 +28,37 @@
     {
       "Name": "porsche on the pourch",
       "Steam": "76561199803595505",
-      "Score": 0,
-      "Time": "49:33"
+      "Score": 4,
+      "Time": "51:33"
     },
     {
       "Name": "reak",
       "Steam": "76561199883685549",
-      "Score": 0,
-      "Time": "29:49"
+      "Score": 2,
+      "Time": "31:49"
     },
     {
       "Name": "Meowz",
       "Steam": "76561198783859737",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "alice",
+      "Steam": "76561199585828938",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "peak",
+      "Steam": "76561198771458989",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "omziig",
+      "Steam": "76561199864524350",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
