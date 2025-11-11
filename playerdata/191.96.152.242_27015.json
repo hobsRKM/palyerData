@@ -1,40 +1,46 @@
 {
-  "Time": "2025-11-11T21:29:06.6971496Z",
+  "Time": "2025-11-11T21:31:06.7002139Z",
   "Players": [
+    {
+      "Name": "Supremacy",
+      "Steam": "76561199837528306",
+      "Score": 0,
+      "Time": "01:52"
+    },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 84,
+      "Score": 90,
+      "Time": "??:??"
+    },
+    {
+      "Name": "チャーリー・カーク",
+      "Steam": "76561198782084625",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "porsche on the pourch",
       "Steam": "76561199803595505",
-      "Score": 70,
-      "Time": "45:34"
+      "Score": 74,
+      "Time": "47:34"
     },
     {
       "Name": "reak",
       "Steam": "76561199883685549",
-      "Score": 41,
-      "Time": "25:49"
+      "Score": 45,
+      "Time": "27:49"
     },
     {
       "Name": ".",
       "Steam": "76561199290389689",
-      "Score": 57,
-      "Time": "15:57"
+      "Score": 65,
+      "Time": "17:57"
     },
     {
       "Name": "Meowz",
       "Steam": "76561198783859737",
-      "Score": 17,
-      "Time": "??:??"
-    },
-    {
-      "Name": "not serv .",
-      "Steam": "76561199621707955",
-      "Score": 10,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
