@@ -1,41 +1,41 @@
 {
-  "Time": "2025-11-11T23:08:14.0065842Z",
+  "Time": "2025-11-11T23:10:14.0099784Z",
   "Players": [
     {
       "Name": "Feetality",
       "Steam": "76561198781702164",
-      "Score": 41,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "tube",
       "Steam": "76561199567642885",
-      "Score": 14,
-      "Time": "05:13"
+      "Score": 22,
+      "Time": "07:13"
+    },
+    {
+      "Name": "Carl Wheezer",
+      "Steam": "76561199492834313",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "a1most",
       "Steam": "76561199622150117",
-      "Score": 23,
-      "Time": "49:38"
-    },
-    {
-      "Name": "absolute",
-      "Steam": "76561199323076502",
-      "Score": 3,
-      "Time": "??:??"
+      "Score": 24,
+      "Time": "51:38"
     },
     {
       "Name": "roy",
       "Steam": "76561198113650702",
-      "Score": 26,
-      "Time": "37:00"
+      "Score": 28,
+      "Time": "39:00"
     },
     {
       "Name": "QM Ratio",
       "Steam": "76561199817535525",
-      "Score": 18,
-      "Time": "23:42"
+      "Score": 28,
+      "Time": "25:42"
     }
   ]
 }
