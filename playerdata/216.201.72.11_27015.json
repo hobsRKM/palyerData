@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-11T00:17:45.1094596Z",
+  "Time": "2025-11-11T00:19:45.1015329Z",
   "Players": [
+    {
+      "Name": "GlueConsumer",
+      "Steam": "76561198278457185",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "micloiden",
       "Steam": "76561199778097491",
-      "Score": 89,
-      "Time": "73:44"
+      "Score": 91,
+      "Time": "75:44"
     },
     {
       "Name": "boolydiddyblud777",
       "Steam": "76561198791541733",
       "Score": 0,
-      "Time": "45:12"
+      "Time": "47:12"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 99,
-      "Time": "05:11"
+      "Score": 105,
+      "Time": "07:11"
     },
     {
       "Name": "xxxxx",
       "Steam": "76561199614231488",
-      "Score": 13,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Sigma 5.0",
       "Steam": "76561198774073237",
-      "Score": 37,
+      "Score": 41,
       "Time": "??:??"
     }
   ]
