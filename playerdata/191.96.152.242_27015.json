@@ -1,71 +1,83 @@
 {
-  "Time": "2025-11-11T03:40:14.0089434Z",
+  "Time": "2025-11-11T03:42:14.0025097Z",
   "Players": [
+    {
+      "Name": "Joeroket",
+      "Steam": "76561197960414970",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ooo",
       "Steam": "76561198772652350",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "vex",
       "Steam": "76561199471107546",
-      "Score": 51,
-      "Time": "140:16"
+      "Score": 56,
+      "Time": "142:16"
     },
     {
       "Name": "Oak",
       "Steam": "76561199755599976",
-      "Score": 41,
-      "Time": "22:17"
+      "Score": 46,
+      "Time": "24:17"
     },
     {
       "Name": "xd",
       "Steam": "76561199889246882",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
+    },
+    {
+      "Name": "STORMY",
+      "Steam": "76561199014993983",
+      "Score": 0,
+      "Time": "01:07"
     },
     {
       "Name": "WHAT KEY TO PLANT BOMB",
       "Steam": "76561198770642918",
-      "Score": 56,
-      "Time": "84:36"
+      "Score": 60,
+      "Time": "86:36"
     },
     {
       "Name": "[MANAGER] NL 11.11...",
       "Steam": "76561199847868570",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561199290389689",
-      "Score": 4,
-      "Time": "05:40"
+      "Score": 7,
+      "Time": "07:40"
     },
     {
-      "Name": "TSUBJEC .",
+      "Name": "TSUBJE .",
       "Steam": "76561199849153218",
-      "Score": 58,
-      "Time": "31:42"
+      "Score": 62,
+      "Time": "33:42"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 47,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
-      "Score": 0,
-      "Time": "02:44"
+      "Score": 2,
+      "Time": "04:44"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 102,
-      "Time": "12:18"
+      "Score": 106,
+      "Time": "14:18"
     },
     {
       "Name": "i can't feel my face",
@@ -76,25 +88,25 @@
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 72,
+      "Score": 75,
       "Time": "??:??"
     },
     {
       "Name": "was",
       "Steam": "76561198965718058",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 34,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
