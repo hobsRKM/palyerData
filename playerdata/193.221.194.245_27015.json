@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-11T22:06:17.9910123Z",
-  "Players": []
+  "Time": "2025-11-11T22:08:03.4234841Z",
+  "Players": [
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 55,
+      "Time": "20:44"
+    },
+    {
+      "Name": "smegmaenjoyer",
+      "Steam": "76561198777483174",
+      "Score": 0,
+      "Time": "00:19"
+    },
+    {
+      "Name": "BlaxBone",
+      "Steam": "76561199798646204",
+      "Score": 84,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cloakith",
+      "Steam": "76561198771237230",
+      "Score": 20,
+      "Time": "12:04"
+    },
+    {
+      "Name": "RETRDINDIANS",
+      "Steam": "76561199871615773",
+      "Score": 41,
+      "Time": "17:34"
+    },
+    {
+      "Name": "isuckfeetforekitten",
+      "Steam": "76561198780649443",
+      "Score": 41,
+      "Time": "??:??"
+    }
+  ]
 }
