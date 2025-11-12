@@ -1,58 +1,82 @@
 {
-  "Time": "2025-11-12T15:59:42.3473985Z",
+  "Time": "2025-11-12T16:00:25.937322Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Jimmy",
+      "Steam": "76561199058906070",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cezar",
+      "Steam": "76561199678495662",
+      "Score": 82,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Xcellent",
+      "Steam": "76561198777273797",
+      "Score": 103,
+      "Time": "??:??"
+    },
+    {
+      "Name": "k3nom1sek",
+      "Steam": "76561199024097648",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kaede",
+      "Steam": "76561199884686345",
+      "Score": 45,
+      "Time": "28:40"
+    },
+    {
+      "Name": "!sanddu",
+      "Steam": "76561198835474175",
       "Score": 0,
-      "Time": "93:59"
-    },
-    {
-      "Name": "CrystalLush \uD83D\uDC8E",
-      "Steam": "76561198775232253",
-      "Score": 30,
       "Time": "??:??"
     },
     {
-      "Name": "markoboy099",
-      "Steam": "76561198768875599",
-      "Score": 61,
+      "Name": "lookm//22 | Marley",
+      "Steam": "76561198771665316",
+      "Score": 25,
       "Time": "??:??"
     },
     {
-      "Name": "AlibabaShopper",
-      "Steam": "76561199737804492",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "chyo #elogrind",
-      "Steam": "76561199828671371",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "| | |",
-      "Steam": "76561198777008021",
-      "Score": 3,
-      "Time": "07:45"
-    },
-    {
-      "Name": "max",
-      "Steam": "76561199870243459",
+      "Name": "Snzie",
+      "Steam": "76561198260680864",
       "Score": 11,
       "Time": "??:??"
     },
     {
-      "Name": "Barry Wood.",
-      "Steam": "76561199732533057",
-      "Score": 10,
+      "Name": "bubber",
+      "Steam": "76561199053195051",
+      "Score": 39,
       "Time": "??:??"
     },
     {
-      "Name": "Jinn",
-      "Steam": "76561199192915980",
-      "Score": 24,
+      "Name": "cemalcanozturk98",
+      "Steam": "76561199823924368",
+      "Score": 15,
+      "Time": "37:49"
+    },
+    {
+      "Name": "M1RtiN4o",
+      "Steam": "76561198794087367",
+      "Score": 63,
+      "Time": "??:??"
+    },
+    {
+      "Name": "twicxsyr6",
+      "Steam": "76561198778019465",
+      "Score": 17,
+      "Time": "325:00"
+    },
+    {
+      "Name": "vladimirsamansky",
+      "Steam": "76561199319127624",
+      "Score": 8,
       "Time": "??:??"
     }
   ]
