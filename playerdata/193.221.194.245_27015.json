@@ -1,8 +1,8 @@
 {
-  "Time": "2025-11-12T10:01:02.9145405Z",
+  "Time": "2025-11-12T10:02:02.7943122Z",
   "Players": [
     {
-      "Name": "ATATÜRK",
+      "Name": "ATAT\u00DCRK",
       "Steam": "76561198351500924",
       "Score": 14,
       "Time": "??:??"
@@ -10,7 +10,13 @@
     {
       "Name": "DeusExMachina",
       "Steam": "76561199389270137",
-      "Score": 8,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GRUBCIO",
+      "Steam": "76561199610360625",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
