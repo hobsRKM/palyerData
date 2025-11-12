@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-12T20:22:56.1293136Z",
+  "Time": "2025-11-12T20:24:56.1190902Z",
   "Players": [
+    {
+      "Name": "sharkbait",
+      "Steam": "76561199199297162",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "micloiden",
       "Steam": "76561199778097491",
-      "Score": 36,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "null",
       "Steam": "76561199471107546",
-      "Score": 10,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "a1most",
       "Steam": "76561199622150117",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "kermit_the_f ๋",
       "Steam": "76561198773568682",
-      "Score": 14,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -40,7 +46,13 @@
     {
       "Name": "\uDB40\uDC73⁧⁧lovesick",
       "Steam": "76561199258689499",
-      "Score": 2,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NEWSKEETDUMP",
+      "Steam": "76561199837528306",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
