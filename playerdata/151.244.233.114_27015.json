@@ -1,41 +1,47 @@
 {
-  "Time": "2025-11-12T01:44:14.0053577Z",
+  "Time": "2025-11-12T01:46:14.0056848Z",
   "Players": [
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 4,
-      "Time": "18:34"
+      "Score": 6,
+      "Time": "20:34"
     },
     {
       "Name": "tube",
       "Steam": "76561199567642885",
-      "Score": 3,
-      "Time": "161:13"
+      "Score": 5,
+      "Time": "163:13"
     },
     {
       "Name": "roy",
       "Steam": "76561198113650702",
-      "Score": 12,
-      "Time": "193:00"
+      "Score": 18,
+      "Time": "195:00"
     },
     {
       "Name": "ThugSense Beta",
       "Steam": "76561198777251331",
-      "Score": 6,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Raiden",
+      "Steam": "76561199180035085",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "was",
       "Steam": "76561198965718058",
-      "Score": 7,
-      "Time": "21:55"
+      "Score": 8,
+      "Time": "23:55"
     },
     {
       "Name": "2aab",
       "Steam": "76561199049807914",
-      "Score": 14,
-      "Time": "43:54"
+      "Score": 16,
+      "Time": "45:54"
     }
   ]
 }
