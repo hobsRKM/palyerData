@@ -1,71 +1,59 @@
 {
-  "Time": "2025-11-12T08:00:00.9298717Z",
+  "Time": "2025-11-12T08:02:00.9329651Z",
   "Players": [
-    {
-      "Name": "back to where we started",
-      "Steam": "76561199863654821",
-      "Score": 40,
-      "Time": "11:22"
-    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "alice",
       "Steam": "76561199585828938",
-      "Score": 34,
-      "Time": "305:45"
+      "Score": 58,
+      "Time": "307:45"
     },
     {
       "Name": "dkbq",
       "Steam": "76561198849056942",
-      "Score": 12,
-      "Time": "97:42"
-    },
-    {
-      "Name": "Skyfire",
-      "Steam": "76561198350431391",
-      "Score": 10,
-      "Time": "??:??"
+      "Score": 16,
+      "Time": "99:42"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
       "Score": 0,
-      "Time": "99:03"
+      "Time": "101:03"
     },
     {
       "Name": "Void",
       "Steam": "76561198770011161",
-      "Score": 15,
-      "Time": "38:15"
+      "Score": 0,
+      "Time": "40:15"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 55,
-      "Time": "32:11"
+      "Score": 65,
+      "Time": "34:11"
     },
     {
       "Name": "evade",
       "Steam": "76561199350378581",
-      "Score": 4,
-      "Time": "11:08"
+      "Score": 6,
+      "Time": "13:08"
     },
     {
       "Name": "IcedoutPig",
       "Steam": "76561199550845137",
-      "Score": 10,
-      "Time": "29:31"
+      "Score": 11,
+      "Time": "31:31"
     },
     {
       "Name": "loser",
@@ -76,38 +64,26 @@
     {
       "Name": "小偷",
       "Steam": "76561197995675648",
-      "Score": 57,
-      "Time": "107:32"
+      "Score": 66,
+      "Time": "109:32"
     },
     {
       "Name": "Skill-issue",
       "Steam": "76561199845812177",
-      "Score": 8,
-      "Time": "61:15"
-    },
-    {
-      "Name": "dj",
-      "Steam": "76561199051504222",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fortnite",
-      "Steam": "76561199629144799",
-      "Score": 0,
-      "Time": "00:17"
+      "Score": 10,
+      "Time": "63:15"
     },
     {
       "Name": "我杀死黑鬼",
       "Steam": "76561198117980694",
-      "Score": 10,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "NL AKA SKEET KILLER",
       "Steam": "76561199785642173",
-      "Score": 28,
-      "Time": "30:04"
+      "Score": 34,
+      "Time": "32:04"
     }
   ]
 }
