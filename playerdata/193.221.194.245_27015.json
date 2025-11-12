@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-12T19:03:02.9465016Z",
+  "Time": "2025-11-12T19:04:04.2137379Z",
   "Players": [
+    {
+      "Name": "Viktor",
+      "Steam": "76561199886723342",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": ".Sklepar",
       "Steam": "76561199735708763",
-      "Score": 5,
-      "Time": "25:46"
+      "Score": 6,
+      "Time": "26:47"
     },
     {
       "Name": "orcohen_x",
@@ -14,15 +20,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "sum kul nggr",
-      "Steam": "76561199845350960",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "geekin'",
+      "Name": "geekin\u0027",
       "Steam": "76561199384915745",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     },
     {
@@ -32,51 +32,39 @@
       "Time": "??:??"
     },
     {
-      "Name": "[ c ] unnamed",
-      "Steam": "76561199886624598",
-      "Score": 71,
-      "Time": "287:38"
-    },
-    {
-      "Name": "Angel <3",
+      "Name": "Angel \u003C3",
       "Steam": "76561198780897395",
-      "Score": 7,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Grizly",
       "Steam": "76561198188465877",
-      "Score": 55,
-      "Time": "29:49"
+      "Score": 63,
+      "Time": "30:50"
     },
     {
       "Name": "szeretematejet",
       "Steam": "76561198771263703",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
-      "Name": "小季、、",
-      "Steam": "76561199699862312",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "wij+(cij)",
+      "Name": "wij\u002B(cij)",
       "Steam": "76561199042221496",
-      "Score": 80,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "woods",
       "Steam": "76561198774668632",
-      "Score": 2,
-      "Time": "07:02"
+      "Score": 8,
+      "Time": "08:03"
     },
     {
       "Name": "cwatrox",
       "Steam": "76561198161184894",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
