@@ -1,4 +1,65 @@
 {
-  "Time": "2025-11-12T03:24:22.6383589Z",
-  "Players": []
+  "Time": "2025-11-12T03:26:19.2051683Z",
+  "Players": [
+    {
+      "Name": "Franky",
+      "Steam": "76561199154138785",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Oak",
+      "Steam": "76561199755599976",
+      "Score": 28,
+      "Time": "141:28"
+    },
+    {
+      "Name": "rost",
+      "Steam": "76561198771169792",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TSUBJEC .",
+      "Steam": "76561199849153218",
+      "Score": 0,
+      "Time": "00:52"
+    },
+    {
+      "Name": "Statcss",
+      "Steam": "76561198775521904",
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "eve",
+      "Steam": "76561199471107546",
+      "Score": 16,
+      "Time": "04:20"
+    },
+    {
+      "Name": "BOT Opie",
+      "Steam": "76561197982529353",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Simply #SimplyHvHOnTop",
+      "Steam": "76561199795780523",
+      "Score": 71,
+      "Time": "10:13"
+    },
+    {
+      "Name": "septicbooger",
+      "Steam": "76561199880659125",
+      "Score": 69,
+      "Time": "31:32"
+    },
+    {
+      "Name": "reak",
+      "Steam": "76561199883685549",
+      "Score": 61,
+      "Time": "??:??"
+    }
+  ]
 }
