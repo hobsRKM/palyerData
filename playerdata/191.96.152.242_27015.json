@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-12T21:26:56.124062Z",
+  "Time": "2025-11-12T21:28:56.1266949Z",
   "Players": [
     {
       "Name": "null",
       "Steam": "76561199471107546",
-      "Score": 15,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "reak",
       "Steam": "76561199883685549",
-      "Score": 25,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Fws",
       "Steam": "76561199755599976",
-      "Score": 32,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "k",
       "Steam": "76561198792196385",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "glue farm (legitness)",
+      "Steam": "76561199848031483",
+      "Score": 6,
+      "Time": "00:55"
     }
   ]
 }
