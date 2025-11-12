@@ -1,17 +1,47 @@
 {
-  "Time": "2025-11-12T01:37:37.7316245Z",
+  "Time": "2025-11-12T01:37:43.0321659Z",
   "Players": [
     {
-      "Name": "Bhg",
-      "Steam": "76561199647822907",
+      "Name": "\"'",
+      "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "991:30"
+    },
+    {
+      "Name": "Xida",
+      "Steam": "76561199663300675",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SktchFromAfganistan",
+      "Steam": "76561199867937863",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Jorden",
-      "Steam": "76561198770778816",
-      "Score": 0,
+      "Name": "Felix",
+      "Steam": "76561198193603937",
+      "Score": 4,
+      "Time": "358:36"
+    },
+    {
+      "Name": "questionmark",
+      "Steam": "76561198774583847",
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "Fentanyahu",
+      "Steam": "76561199786976443",
+      "Score": 0,
+      "Time": "120:44"
+    },
+    {
+      "Name": "Rust Enjoyer",
+      "Steam": "76561199838008287",
+      "Score": 11,
+      "Time": "75:21"
     }
   ]
 }
