@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-12T12:26:00.9747618Z",
+  "Time": "2025-11-12T12:28:00.9703815Z",
   "Players": [
     {
       "Name": "Feetality",
       "Steam": "76561198781702164",
-      "Score": 77,
-      "Time": "55:13"
+      "Score": 0,
+      "Time": "57:13"
     },
     {
       "Name": "all roads lead to rome",
       "Steam": "76561199481478233",
-      "Score": 10,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Quantum Foam Paperweight",
       "Steam": "76561198771750240",
-      "Score": 28,
-      "Time": "14:29"
+      "Score": 4,
+      "Time": "16:29"
+    },
+    {
+      "Name": "whitedustking",
+      "Steam": "76561198907117199",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 90,
-      "Time": "629:57"
+      "Score": 0,
+      "Time": "631:57"
     }
   ]
 }
