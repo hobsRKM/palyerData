@@ -1,52 +1,64 @@
 {
-  "Time": "2025-11-12T01:12:00.8312297Z",
+  "Time": "2025-11-12T01:14:00.8277584Z",
   "Players": [
+    {
+      "Name": "Statcss",
+      "Steam": "76561198775521904",
+      "Score": 0,
+      "Time": "01:24"
+    },
     {
       "Name": "RADICAL RACIST",
       "Steam": "76561199870945474",
-      "Score": 35,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "sophie rain",
       "Steam": "76561198773076671",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Sebi",
       "Steam": "76561199241103529",
-      "Score": 24,
-      "Time": "54:10"
+      "Score": 30,
+      "Time": "56:10"
     },
     {
       "Name": "NYUKI",
       "Steam": "76561199740544730",
-      "Score": 17,
-      "Time": "18:16"
+      "Score": 23,
+      "Time": "20:16"
+    },
+    {
+      "Name": "Albert",
+      "Steam": "76561198768824774",
+      "Score": 2,
+      "Time": "01:57"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 33,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "porsche on the pourch",
       "Steam": "76561199803595505",
-      "Score": 6,
-      "Time": "06:15"
+      "Score": 10,
+      "Time": "08:15"
     },
     {
       "Name": "Road to Silver",
       "Steam": "76561198871161458",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Lucky...",
       "Steam": "76561199015751726",
-      "Score": 44,
+      "Score": 52,
       "Time": "??:??"
     }
   ]
