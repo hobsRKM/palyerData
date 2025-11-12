@@ -1,8 +1,8 @@
 {
-  "Time": "2025-11-12T10:15:02.9106464Z",
+  "Time": "2025-11-12T10:16:04.002697Z",
   "Players": [
     {
-      "Name": "ATATÜRK",
+      "Name": "ATAT\u00DCRK",
       "Steam": "76561198351500924",
       "Score": 41,
       "Time": "??:??"
@@ -10,7 +10,7 @@
     {
       "Name": "DeusExMachina",
       "Steam": "76561199389270137",
-      "Score": 46,
+      "Score": 48,
       "Time": "??:??"
     },
     {
@@ -22,7 +22,13 @@
     {
       "Name": "moncler",
       "Steam": "76561199785234036",
-      "Score": 41,
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "syrex",
+      "Steam": "76561199007426321",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
