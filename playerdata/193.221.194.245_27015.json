@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-12T11:24:18.5163761Z",
-  "Players": []
+  "Time": "2025-11-12T11:25:02.9202432Z",
+  "Players": [
+    {
+      "Name": "Rust Enjoyer",
+      "Steam": "76561199838008287",
+      "Score": 25,
+      "Time": "05:47"
+    },
+    {
+      "Name": "-",
+      "Steam": "76561198774867839",
+      "Score": 50,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mongol",
+      "Steam": "76561198376880879",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zzzz",
+      "Steam": "76561199193652409",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cat evading taxes",
+      "Steam": "76561199865641479",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "marshalfromdao",
+      "Steam": "76561199835616474",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
