@@ -1,65 +1,59 @@
 {
-  "Time": "2025-11-12T09:08:00.9192643Z",
+  "Time": "2025-11-12T09:10:00.9260284Z",
   "Players": [
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "alice",
       "Steam": "76561199585828938",
-      "Score": 31,
-      "Time": "373:45"
+      "Score": 47,
+      "Time": "375:45"
     },
     {
       "Name": "dkbq",
       "Steam": "76561198849056942",
-      "Score": 13,
-      "Time": "165:42"
+      "Score": 18,
+      "Time": "167:42"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 12,
-      "Time": "167:03"
+      "Score": 14,
+      "Time": "169:03"
     },
     {
       "Name": "Void",
       "Steam": "76561198770011161",
-      "Score": 0,
-      "Time": "02:34"
+      "Score": 8,
+      "Time": "04:34"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 41,
-      "Time": "100:11"
-    },
-    {
-      "Name": "loser",
-      "Steam": "76561199887230293",
-      "Score": 6,
-      "Time": "??:??"
+      "Score": 46,
+      "Time": "102:11"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 17,
-      "Time": "498:13"
+      "Score": 20,
+      "Time": "500:13"
     },
     {
       "Name": "我杀死黑鬼",
       "Steam": "76561198117980694",
-      "Score": 19,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "NL AKA SKEET KILLER",
       "Steam": "76561199785642173",
-      "Score": 48,
-      "Time": "98:04"
+      "Score": 61,
+      "Time": "100:04"
     }
   ]
 }
