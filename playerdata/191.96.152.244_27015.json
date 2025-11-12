@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-12T05:06:00.8216481Z",
+  "Time": "2025-11-12T05:08:00.8325796Z",
   "Players": [
     {
       "Name": "locallanguagemodels",
       "Steam": "76561198769455188",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
+    },
+    {
+      "Name": "Carl Wheezer",
+      "Steam": "76561199492834313",
+      "Score": 0,
+      "Time": "00:41"
     },
     {
       "Name": "Blahaj lover",
@@ -14,69 +20,75 @@
       "Time": "??:??"
     },
     {
+      "Name": "fn",
+      "Steam": "76561199127896093",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
       "Name": "2020",
       "Steam": "76561199847868570",
-      "Score": 7,
-      "Time": "07:24"
+      "Score": 15,
+      "Time": "09:24"
     },
     {
       "Name": "Sebi",
       "Steam": "76561199241103529",
-      "Score": 8,
-      "Time": "62:30"
+      "Score": 10,
+      "Time": "64:30"
     },
     {
       "Name": "HELPME!!!!",
       "Steam": "76561198783872976",
-      "Score": 7,
-      "Time": "66:14"
+      "Score": 9,
+      "Time": "68:14"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 6,
-      "Time": "129:02"
+      "Score": 10,
+      "Time": "131:02"
+    },
+    {
+      "Name": "rn4429497",
+      "Steam": "76561199364550011",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "小偷",
       "Steam": "76561197995675648",
-      "Score": 6,
-      "Time": "02:14"
+      "Score": 10,
+      "Time": "04:14"
     },
     {
       "Name": "paper weight",
       "Steam": "76561198776107102",
-      "Score": 0,
-      "Time": "47:09"
-    },
-    {
-      "Name": "beev",
-      "Steam": "76561198775139203",
       "Score": 1,
-      "Time": "??:??"
+      "Time": "49:09"
     },
     {
       "Name": "Midtranny",
       "Steam": "76561199847771652",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 0,
-      "Time": "10:55"
+      "Score": 2,
+      "Time": "12:55"
     },
     {
       "Name": "roger from window world",
       "Steam": "76561198165749035",
-      "Score": 9,
-      "Time": "24:05"
+      "Score": 17,
+      "Time": "26:05"
     },
     {
       "Name": "Pluto's Knot Home",
       "Steam": "76561198118346969",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
