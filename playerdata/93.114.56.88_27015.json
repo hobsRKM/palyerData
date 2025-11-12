@@ -1,65 +1,83 @@
 {
-  "Time": "2025-11-12T14:01:42.3540173Z",
+  "Time": "2025-11-12T14:02:25.7285785Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "01",
+      "Steam": "76561199002053532",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ava",
+      "Steam": "76561198843347921",
+      "Score": 77,
+      "Time": "128:29"
+    },
+    {
+      "Name": "baz",
+      "Steam": "76561199728325565",
+      "Score": 0,
+      "Time": "50:46"
+    },
+    {
+      "Name": "♡",
+      "Steam": "76561199520319824",
+      "Score": 85,
+      "Time": "??:??"
+    },
+    {
+      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
+      "Steam": "76561199547514723",
+      "Score": 102,
+      "Time": "26:36"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cracktex F",
+      "Steam": "76561199628536128",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pphud enjoyer",
+      "Steam": "76561198259211887",
+      "Score": 55,
+      "Time": "61:53"
+    },
+    {
+      "Name": "Johny_21",
+      "Steam": "76561199820198006",
+      "Score": 10,
+      "Time": "01:55"
+    },
+    {
+      "Name": "Ugy",
+      "Steam": "76561198274193245",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vMika she/her",
+      "Steam": "76561199491603608",
+      "Score": 0,
+      "Time": "05:55"
+    },
+    {
+      "Name": "sadcult",
+      "Steam": "76561199231448999",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "HeadSync",
-      "Steam": "76561198302934084",
-      "Score": 82,
-      "Time": "81:40"
-    },
-    {
-      "Name": "dck",
-      "Steam": "76561199809735389",
-      "Score": 2,
-      "Time": "01:56"
-    },
-    {
-      "Name": "Summer",
-      "Steam": "76561198953471780",
-      "Score": 106,
-      "Time": "67:12"
-    },
-    {
-      "Name": "d \uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8�",
-      "Steam": "76561199230497763",
-      "Score": 48,
-      "Time": "18:18"
-    },
-    {
-      "Name": "suzune",
-      "Steam": "76561198831338710",
-      "Score": 16,
-      "Time": "02:44"
-    },
-    {
-      "Name": "UwU",
-      "Steam": "76561198773029096",
-      "Score": 37,
-      "Time": "??:??"
-    },
-    {
-      "Name": "shon",
-      "Steam": "76561198780911735",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Neth",
-      "Steam": "76561198771386106",
-      "Score": 26,
-      "Time": "??:??"
-    },
-    {
-      "Name": "MoRgAn ;]",
-      "Steam": "76561199389993555",
-      "Score": 13,
-      "Time": "??:??"
+      "Name": "MISSED",
+      "Steam": "76561198839239352",
+      "Score": 8,
+      "Time": "09:23"
     }
   ]
 }
