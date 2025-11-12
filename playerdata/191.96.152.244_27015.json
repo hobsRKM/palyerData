@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-12T12:04:00.9666699Z",
+  "Time": "2025-11-12T12:06:00.9749563Z",
   "Players": [
     {
       "Name": "Feetality",
       "Steam": "76561198781702164",
-      "Score": 20,
-      "Time": "33:13"
+      "Score": 22,
+      "Time": "35:13"
     },
     {
       "Name": "Kaida",
       "Steam": "76561199021729741",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
+    },
+    {
+      "Name": "shaded",
+      "Steam": "76561199634018466",
+      "Score": 0,
+      "Time": "932:44"
     },
     {
       "Name": "1TAPPYQBRO",
       "Steam": "76561198888865412",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 16,
-      "Time": "607:57"
+      "Score": 26,
+      "Time": "609:57"
     }
   ]
 }
