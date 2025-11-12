@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-12T15:58:43.2498905Z",
+  "Time": "2025-11-12T16:00:43.2497429Z",
   "Players": [
+    {
+      "Name": "nova",
+      "Steam": "76561198770195679",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "\uD835\uDD43\uD835\uDD50ℕ\uD835\uDD4F - D",
       "Steam": "76561199531375423",
-      "Score": 8,
-      "Time": "12:50"
+      "Score": 14,
+      "Time": "14:50"
     },
     {
       "Name": "505 Wantan Mee",
       "Steam": "76561198983368547",
-      "Score": 7,
-      "Time": "167:17"
+      "Score": 15,
+      "Time": "169:17"
     },
     {
-      "Name": "Jeff The Land Shar -",
+      "Name": "Jeff The Land S -",
       "Steam": "76561198774315242",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Matrix",
       "Steam": "76561199833315728",
-      "Score": 0,
-      "Time": "10:30"
+      "Score": 4,
+      "Time": "12:30"
     }
   ]
 }
