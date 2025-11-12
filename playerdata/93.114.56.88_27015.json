@@ -1,70 +1,58 @@
 {
-  "Time": "2025-11-12T13:49:42.3497952Z",
+  "Time": "2025-11-12T13:50:25.7215698Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "ava",
+      "Steam": "76561198843347921",
+      "Score": 64,
+      "Time": "116:29"
+    },
+    {
+      "Name": "baz",
+      "Steam": "76561199728325565",
+      "Score": 24,
+      "Time": "38:46"
+    },
+    {
+      "Name": "♡",
+      "Steam": "76561199520319824",
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
+      "Steam": "76561199547514723",
+      "Score": 58,
+      "Time": "14:36"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pphud enjoyer",
+      "Steam": "76561198259211887",
+      "Score": 8,
+      "Time": "49:53"
+    },
+    {
+      "Name": "cemalcanozturk98",
+      "Steam": "76561199823924368",
+      "Score": 9,
+      "Time": "08:53"
+    },
+    {
+      "Name": "insecure",
+      "Steam": "76561199491603608",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "HeadSync",
-      "Steam": "76561198302934084",
-      "Score": 61,
-      "Time": "69:40"
-    },
-    {
-      "Name": "Summer",
-      "Steam": "76561198953471780",
-      "Score": 61,
-      "Time": "55:12"
-    },
-    {
-      "Name": "k e x i k .",
-      "Steam": "76561199220756265",
-      "Score": 11,
-      "Time": "??:??"
-    },
-    {
-      "Name": "dp=b \uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8�",
-      "Steam": "76561199230497763",
-      "Score": 16,
-      "Time": "06:18"
-    },
-    {
-      "Name": "femboy lover",
-      "Steam": "76561198780649443",
-      "Score": 29,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ferox",
-      "Steam": "76561199377440484",
-      "Score": 26,
-      "Time": "??:??"
-    },
-    {
-      "Name": "anime",
-      "Steam": "76561198772261232",
+      "Name": "sadcult",
+      "Steam": "76561199231448999",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "UwU",
-      "Steam": "76561198773029096",
-      "Score": 18,
-      "Time": "??:??"
-    },
-    {
-      "Name": "shon",
-      "Steam": "76561198780911735",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "\uDB40\uDC21\uDB40\uDC21",
-      "Steam": "76561198770779132",
-      "Score": 6,
       "Time": "??:??"
     }
   ]
