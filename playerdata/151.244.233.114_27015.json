@@ -1,47 +1,47 @@
 {
-  "Time": "2025-11-12T00:36:13.9977615Z",
+  "Time": "2025-11-12T00:38:14.0121761Z",
   "Players": [
+    {
+      "Name": "septicbooger",
+      "Steam": "76561199880659125",
+      "Score": 4,
+      "Time": "01:39"
+    },
     {
       "Name": "tube",
       "Steam": "76561199567642885",
-      "Score": 44,
-      "Time": "93:13"
-    },
-    {
-      "Name": "Pennywise The Dancing Clown",
-      "Steam": "76561199877138048",
-      "Score": 24,
-      "Time": "19:59"
+      "Score": 52,
+      "Time": "95:13"
     },
     {
       "Name": "a1most",
       "Steam": "76561199622150117",
-      "Score": 18,
-      "Time": "12:41"
+      "Score": 21,
+      "Time": "14:41"
     },
     {
       "Name": "roy",
       "Steam": "76561198113650702",
-      "Score": 94,
-      "Time": "125:00"
+      "Score": 100,
+      "Time": "127:00"
     },
     {
       "Name": "ThugSense Beta",
       "Steam": "76561198777251331",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 25,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "porsche on the pourch",
       "Steam": "76561199803595505",
-      "Score": 19,
-      "Time": "04:53"
+      "Score": 27,
+      "Time": "06:53"
     }
   ]
 }
