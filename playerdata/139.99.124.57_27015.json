@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-12T10:30:42.9792149Z",
+  "Time": "2025-11-12T10:32:42.9916808Z",
   "Players": [
+    {
+      "Name": "last",
+      "Steam": "76561199889958481",
+      "Score": 2,
+      "Time": "300:30"
+    },
     {
       "Name": "fatal ?Ⴚᴏᴅ?",
       "Steam": "76561198771778049",
@@ -10,20 +16,26 @@
     {
       "Name": "elias",
       "Steam": "76561198787032266",
-      "Score": 3,
-      "Time": "01:47"
+      "Score": 2,
+      "Time": "03:47"
     },
     {
       "Name": "nikkkkkkkkkkkkkkkkkkkka",
       "Steam": "76561199718466844",
-      "Score": 2,
-      "Time": "01:11"
+      "Score": 13,
+      "Time": "03:11"
     },
     {
       "Name": "old recoil mp5 holo",
       "Steam": "76561199830895835",
+      "Score": 2,
+      "Time": "02:44"
+    },
+    {
+      "Name": "黑客郭真林",
+      "Steam": "76561198769188749",
       "Score": 0,
-      "Time": "00:44"
+      "Time": "01:37"
     }
   ]
 }
