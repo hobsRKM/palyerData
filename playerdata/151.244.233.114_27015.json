@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-12T00:16:14.0087687Z",
+  "Time": "2025-11-12T00:18:14.0041813Z",
   "Players": [
     {
       "Name": "Albert",
       "Steam": "76561198768824774",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "tube",
       "Steam": "76561199567642885",
-      "Score": 17,
-      "Time": "73:13"
+      "Score": 19,
+      "Time": "75:13"
+    },
+    {
+      "Name": "Pennywise The Dancing Clown",
+      "Steam": "76561199877138048",
+      "Score": 0,
+      "Time": "01:59"
     },
     {
       "Name": "roy",
       "Steam": "76561198113650702",
-      "Score": 18,
-      "Time": "105:00"
+      "Score": 28,
+      "Time": "107:00"
     },
     {
       "Name": "Road to Silver",
       "Steam": "76561198871161458",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
