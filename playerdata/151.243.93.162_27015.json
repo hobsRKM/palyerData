@@ -1,65 +1,59 @@
 {
-  "Time": "2025-11-13T01:16:24.6225816Z",
+  "Time": "2025-11-13T01:16:30.754Z",
   "Players": [
     {
-      "Name": "2hyd",
-      "Steam": "76561199697936486",
+      "Name": "dopamine",
+      "Steam": "76561199090849177",
+      "Score": 33,
+      "Time": "26:14"
+    },
+    {
+      "Name": "weihnachten | RCC",
+      "Steam": "76561198341200336",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "boolyblud777",
+      "Steam": "76561198791541733",
+      "Score": 55,
+      "Time": "12:27"
+    },
+    {
+      "Name": "neverlose.cc",
+      "Steam": "76561199791880682",
+      "Score": 21,
+      "Time": "06:06"
+    },
+    {
+      "Name": "fatality.lose",
+      "Steam": "76561199865685000",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Carl Wheezer",
+      "Steam": "76561199492834313",
+      "Score": 9,
+      "Time": "04:18"
+    },
+    {
+      "Name": "vanni",
+      "Steam": "76561198775521904",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "T .",
-      "Steam": "76561199849153218",
-      "Score": 109,
+      "Name": "Feetality",
+      "Steam": "76561198781702164",
+      "Score": 21,
       "Time": "??:??"
     },
     {
-      "Name": "kaine",
-      "Steam": "76561199634909491",
-      "Score": 79,
+      "Name": "Cerberus",
+      "Steam": "76561199741480992",
+      "Score": 21,
       "Time": "??:??"
-    },
-    {
-      "Name": "xd",
-      "Steam": "76561199889246882",
-      "Score": 51,
-      "Time": "13:19"
-    },
-    {
-      "Name": "[ Name ]",
-      "Steam": "76561199847868570",
-      "Score": 148,
-      "Time": "??:??"
-    },
-    {
-      "Name": "i can't feel my face",
-      "Steam": "76561199878413811",
-      "Score": 4,
-      "Time": "06:51"
-    },
-    {
-      "Name": "pxycho",
-      "Steam": "76561198422636928",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Harrison",
-      "Steam": "76561199644033158",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
-      "Name": "imnotdoggo",
-      "Steam": "76561199140462879",
-      "Score": 81,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Albert",
-      "Steam": "76561198768824774",
-      "Score": 22,
-      "Time": "07:51"
     }
   ]
 }
