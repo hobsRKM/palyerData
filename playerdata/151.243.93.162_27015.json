@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-13T02:14:24.6050861Z",
-  "Players": []
+  "Time": "2025-11-13T02:14:30.7483001Z",
+  "Players": [
+    {
+      "Name": "dopamine",
+      "Steam": "76561199090849177",
+      "Score": 0,
+      "Time": "84:14"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "weihnachten | RCC",
+      "Steam": "76561198341200336",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jinn",
+      "Steam": "76561199192915980",
+      "Score": 0,
+      "Time": "30:40"
+    },
+    {
+      "Name": "Myst1c Loves Primordial",
+      "Steam": "76561198776935968",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
