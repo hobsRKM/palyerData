@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-13T04:02:04.6240151Z",
+  "Time": "2025-11-13T04:02:18.2338037Z",
   "Players": [
     {
       "Name": "nimiec",
       "Steam": "76561199882399702",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "♰\uD835\uDCDD\uD835\uDCF8\uD835\uDCDD\uD835\uDCEA\uD835\uDCF6\uD835\uDCEE♰",
+      "Steam": "76561199101917163",
       "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "\u2670\uD835\uDCDD\uD835\uDCF8\uD835\uDCDD\uD835\uDCEA\uD835\uDCF6\uD835\uDCEE\u2670",
-      "Steam": "76561199101917163",
-      "Score": 2,
+      "Name": "cdgbby",
+      "Steam": "76561199405626268",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
