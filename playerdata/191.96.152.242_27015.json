@@ -1,34 +1,46 @@
 {
-  "Time": "2025-11-13T22:31:49.2315295Z",
+  "Time": "2025-11-13T22:33:49.2428549Z",
   "Players": [
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 6,
+      "Time": "01:42"
+    },
     {
       "Name": "WHAT KEY TO PLANT BOMB",
       "Steam": "76561198770642918",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": ";2#@333",
       "Steam": "76561199519396101",
       "Score": 0,
-      "Time": "14:25"
+      "Time": "16:25"
     },
     {
       "Name": "peppepepeep",
       "Steam": "76561199075864483",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "BOT Opie",
       "Steam": "76561197982529353",
-      "Score": 0,
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wood",
+      "Steam": "76561199837528306",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
