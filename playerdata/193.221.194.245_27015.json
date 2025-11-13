@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-13T21:03:02.751638Z",
+  "Time": "2025-11-13T21:04:03.324688Z",
   "Players": [
+    {
+      "Name": "esskeetit",
+      "Steam": "76561199471182367",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Changed",
       "Steam": "76561198151409110",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Belka",
       "Steam": "76561199546476888",
-      "Score": 0,
-      "Time": "121:07"
+      "Score": 2,
+      "Time": "122:07"
     },
     {
       "Name": "scommeR\uD83D\uDC51",
       "Steam": "76561199816841149",
-      "Score": 0,
-      "Time": "01:19"
+      "Score": 5,
+      "Time": "02:20"
     },
     {
-      "Name": "geNNeral ♠",
+      "Name": "geNNeral \u2660",
       "Steam": "76561198779906456",
-      "Score": 28,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "CryzZ",
       "Steam": "76561198773616221",
       "Score": 0,
-      "Time": "250:46"
+      "Time": "251:46"
     },
     {
       "Name": "hertramir",
@@ -38,9 +44,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "\u2730Drez",
+      "Steam": "76561199806449581",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198770779132",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
@@ -52,8 +64,8 @@
     {
       "Name": "chyo #elogrind",
       "Steam": "76561199828671371",
-      "Score": 8,
-      "Time": "12:35"
+      "Score": 3,
+      "Time": "13:36"
     }
   ]
 }
