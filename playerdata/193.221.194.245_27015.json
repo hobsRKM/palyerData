@@ -1,11 +1,47 @@
 {
-  "Time": "2025-11-13T17:34:43.9750385Z",
+  "Time": "2025-11-13T17:35:02.7521669Z",
   "Players": [
     {
-      "Name": "Am1k Halloween",
-      "Steam": "76561199755961004",
+      "Name": "moncler",
+      "Steam": "76561199785234036",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "a",
+      "Steam": "76561199050347269",
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "UEFI enjoyer",
+      "Steam": "76561198777483174",
+      "Score": 37,
+      "Time": "12:38"
+    },
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 56,
+      "Time": "21:18"
+    },
+    {
+      "Name": "CryzZ",
+      "Steam": "76561198773616221",
+      "Score": 2,
+      "Time": "42:46"
+    },
+    {
+      "Name": "SnusLover88",
+      "Steam": "76561198771217396",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "External",
+      "Steam": "76561198778572830",
       "Score": 0,
-      "Time": "2025-11-13T17:34:43.9750385Z"
+      "Time": "??:??"
     }
   ]
 }
