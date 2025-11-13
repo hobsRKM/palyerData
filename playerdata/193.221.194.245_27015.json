@@ -1,9 +1,15 @@
 {
-  "Time": "2025-11-13T17:17:02.7521854Z",
+  "Time": "2025-11-13T17:18:02.072439Z",
   "Players": [
     {
       "Name": "Cake",
       "Steam": "76561199874806273",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MoroZzz",
+      "Steam": "76561198776551567",
       "Score": 0,
       "Time": "??:??"
     },
@@ -14,10 +20,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "Grajchłopiec Kasti",
+      "Name": "unknown",
+      "Steam": "76561199002053532",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Grajch\u0142opiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 8,
-      "Time": "03:18"
+      "Score": 11,
+      "Time": "04:17"
     },
     {
       "Name": "\uD835\uDC27\uD835\uDC1E\uD835\uDC30 \uD835\uDC20\uD835\uDC1E\uD835\uDC27",
@@ -28,29 +40,29 @@
     {
       "Name": "CryzZ",
       "Steam": "76561198773616221",
-      "Score": 104,
-      "Time": "24:46"
+      "Score": 110,
+      "Time": "25:45"
     },
     {
       "Name": "Kantinci Tostu",
       "Steam": "76561198773553095",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "SnusLover88",
       "Steam": "76561198771217396",
-      "Score": 29,
+      "Score": 31,
       "Time": "??:??"
     },
     {
-      "Name": "Shadoweq",
+      "Name": "Cake",
       "Steam": "76561198778572830",
-      "Score": 10,
+      "Score": 13,
       "Time": "??:??"
     },
     {
-      "Name": "глаза уборщика",
+      "Name": "\u0433\u043B\u0430\u0437\u0430 \u0443\u0431\u043E\u0440\u0449\u0438\u043A\u0430",
       "Steam": "76561198793074703",
       "Score": 15,
       "Time": "??:??"
@@ -58,7 +70,7 @@
     {
       "Name": "judfskfj",
       "Steam": "76561199811115230",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
