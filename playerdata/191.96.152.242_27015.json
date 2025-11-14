@@ -1,64 +1,70 @@
 {
-  "Time": "2025-11-14T20:44:10.9716268Z",
+  "Time": "2025-11-14T20:46:10.9742321Z",
   "Players": [
     {
       "Name": "Richard",
       "Steam": "76561198135596098",
       "Score": 0,
-      "Time": "220:56"
+      "Time": "222:56"
     },
     {
       "Name": "shaded",
       "Steam": "76561199634018466",
       "Score": 0,
-      "Time": "289:34"
+      "Time": "291:34"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 0,
-      "Time": "01:53"
+      "Score": 6,
+      "Time": "03:53"
     },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
-      "Score": 4,
-      "Time": "05:35"
+      "Score": 0,
+      "Time": "07:35"
     },
     {
       "Name": "cnc",
       "Steam": "76561199814650781",
-      "Score": 58,
-      "Time": "31:14"
+      "Score": 61,
+      "Time": "33:14"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198769191835",
-      "Score": 7,
-      "Time": "94:24"
+      "Score": 0,
+      "Time": "96:24"
+    },
+    {
+      "Name": "Shux",
+      "Steam": "76561199170636130",
+      "Score": 0,
+      "Time": "01:04"
     },
     {
       "Name": "sol",
       "Steam": "76561198774876005",
-      "Score": 54,
-      "Time": "66:02"
+      "Score": 56,
+      "Time": "68:02"
     },
     {
       "Name": "zaxsense #neverlosing",
       "Steam": "76561199844832166",
       "Score": 81,
-      "Time": "29:47"
+      "Time": "31:47"
     },
     {
       "Name": "yi",
       "Steam": "76561199814246830",
-      "Score": 50,
-      "Time": "05:06"
+      "Score": 52,
+      "Time": "07:06"
     },
     {
       "Name": "Feetality",
       "Steam": "76561198781702164",
-      "Score": 106,
+      "Score": 110,
       "Time": "??:??"
     },
     {
@@ -70,7 +76,7 @@
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 57,
+      "Score": 61,
       "Time": "??:??"
     },
     {
@@ -82,7 +88,13 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 16,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "neverlose.cc",
+      "Steam": "76561199791880682",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
