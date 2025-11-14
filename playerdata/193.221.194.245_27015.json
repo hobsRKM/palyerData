@@ -1,40 +1,46 @@
 {
-  "Time": "2025-11-14T11:44:21.5684865Z",
+  "Time": "2025-11-14T11:46:02.413499Z",
   "Players": [
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
-      "Score": 12,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "peterhook.xyz",
+      "Steam": "76561198775936937",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Poperx",
       "Steam": "76561199713167272",
-      "Score": 57,
-      "Time": "23:56"
+      "Score": 59,
+      "Time": "25:37"
     },
     {
       "Name": "Infantrit",
       "Steam": "76561199003545873",
-      "Score": 45,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "wyruchac cie",
       "Steam": "76561198775150017",
-      "Score": 43,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "zuhn",
       "Steam": "76561199849234881",
-      "Score": 43,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "ezzga1488",
       "Steam": "76561198774174607",
-      "Score": 34,
+      "Score": 36,
       "Time": "??:??"
     }
   ]
