@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-14T14:22:30.1370835Z",
-  "Players": []
+  "Time": "2025-11-14T14:24:28.9737555Z",
+  "Players": [
+    {
+      "Name": "shaded",
+      "Steam": "76561199634018466",
+      "Score": 10,
+      "Time": "09:04"
+    },
+    {
+      "Name": "Richard",
+      "Steam": "76561198135596098",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "язаБудду",
+      "Steam": "76561198274325509",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "peppepepeep",
+      "Steam": "76561199075864483",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Quantum Foam Paperweight",
+      "Steam": "76561198771750240",
+      "Score": 12,
+      "Time": "40:08"
+    },
+    {
+      "Name": "OLD_MONEY_BOWLING",
+      "Steam": "76561199625262838",
+      "Score": 9,
+      "Time": "06:19"
+    }
+  ]
 }
