@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-14T10:30:30.1248393Z",
-  "Players": []
+  "Time": "2025-11-14T10:32:28.9834494Z",
+  "Players": [
+    {
+      "Name": "shaded",
+      "Steam": "76561199634018466",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Richard",
+      "Steam": "76561198135596098",
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "marikniggess9",
+      "Steam": "76561199891198778",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "testing aimtux",
+      "Steam": "76561198768209236",
+      "Score": 15,
+      "Time": "??:??"
+    }
+  ]
 }
