@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-14T06:40:19.0262393Z",
-  "Players": []
+  "Time": "2025-11-14T06:40:21.5668755Z",
+  "Players": [
+    {
+      "Name": "Unknown Fighter",
+      "Steam": "76561199409832164",
+      "Score": 10,
+      "Time": "40:59"
+    },
+    {
+      "Name": "Vexel",
+      "Steam": "76561199840818752",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "adschlook",
+      "Steam": "76561199177721310",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "YourFriend",
+      "Steam": "76561199817749931",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
