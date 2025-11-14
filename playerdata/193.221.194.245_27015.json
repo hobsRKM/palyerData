@@ -1,10 +1,10 @@
 {
-  "Time": "2025-11-14T12:58:21.5622166Z",
+  "Time": "2025-11-14T13:00:02.7823093Z",
   "Players": [
     {
       "Name": "krankenwagen",
       "Steam": "76561198777467018",
-      "Score": 0,
+      "Score": 15,
       "Time": "??:??"
     },
     {
@@ -16,20 +16,26 @@
     {
       "Name": "louva",
       "Steam": "76561199147887887",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "wyruchac cie",
       "Steam": "76561198775150017",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "moncler",
       "Steam": "76561199785234036",
-      "Score": 6,
-      "Time": "01:49"
+      "Score": 14,
+      "Time": "03:30"
+    },
+    {
+      "Name": "Dog Agent",
+      "Steam": "76561199836567328",
+      "Score": 0,
+      "Time": "00:37"
     }
   ]
 }
