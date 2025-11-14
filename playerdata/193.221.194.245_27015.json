@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-14T19:36:23.0193911Z",
+  "Time": "2025-11-14T19:38:03.8335613Z",
   "Players": [
+    {
+      "Name": "iwashdishes1337",
+      "Steam": "76561198777483174",
+      "Score": 0,
+      "Time": "211:37"
+    },
     {
       "Name": "Infantrit",
       "Steam": "76561199003545873",
@@ -10,14 +16,14 @@
     {
       "Name": "Dez",
       "Steam": "76561199181342269",
-      "Score": 62,
+      "Score": 79,
       "Time": "??:??"
     },
     {
-      "Name": "bob'",
+      "Name": "bob\u0027",
       "Steam": "76561199691330408",
-      "Score": 29,
-      "Time": "449:20"
+      "Score": 35,
+      "Time": "451:01"
     },
     {
       "Name": "Istv",
@@ -28,26 +34,26 @@
     {
       "Name": "Rixz",
       "Steam": "76561198324774956",
-      "Score": 47,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "sztiv98",
       "Steam": "76561199640932206",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Sistine",
       "Steam": "76561199843259822",
-      "Score": 21,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "hertramir",
       "Steam": "76561198769864621",
       "Score": 4,
-      "Time": "03:53"
+      "Time": "05:34"
     }
   ]
 }
