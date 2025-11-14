@@ -1,40 +1,46 @@
 {
-  "Time": "2025-11-14T17:12:10.8557806Z",
+  "Time": "2025-11-14T17:14:10.8634826Z",
   "Players": [
     {
       "Name": "Richard",
       "Steam": "76561198135596098",
-      "Score": 29,
-      "Time": "08:56"
+      "Score": 31,
+      "Time": "10:56"
     },
     {
       "Name": "OLD_MONEY_BOWLING",
       "Steam": "76561199625262838",
-      "Score": 66,
-      "Time": "57:13"
+      "Score": 70,
+      "Time": "59:13"
     },
     {
       "Name": "shaded",
       "Steam": "76561199634018466",
       "Score": 0,
-      "Time": "77:34"
+      "Time": "79:34"
     },
     {
       "Name": "ow175394",
       "Steam": "76561198785206557",
-      "Score": 30,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 52,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "car",
       "Steam": "76561199176757314",
-      "Score": 11,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "snow",
+      "Steam": "76561198059477947",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
