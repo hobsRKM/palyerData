@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-14T13:22:30.1361334Z",
-  "Players": []
+  "Time": "2025-11-14T13:24:28.9770034Z",
+  "Players": [
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 25,
+      "Time": "11:58"
+    },
+    {
+      "Name": "MalwareStalker",
+      "Steam": "76561198771550054",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lil bro",
+      "Steam": "76561199841628879",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "peppepepeep",
+      "Steam": "76561199075864483",
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Pennywise The Dancing Clown",
+      "Steam": "76561199877138048",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "swift",
+      "Steam": "76561198770272802",
+      "Score": 8,
+      "Time": "??:??"
+    }
+  ]
 }
