@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-14T14:56:30.137746Z",
-  "Players": []
+  "Time": "2025-11-14T14:58:28.9695287Z",
+  "Players": [
+    {
+      "Name": "shaded",
+      "Steam": "76561199634018466",
+      "Score": 3,
+      "Time": "19:43"
+    },
+    {
+      "Name": "Richard",
+      "Steam": "76561198135596098",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cnc",
+      "Steam": "76561199814650781",
+      "Score": 6,
+      "Time": "03:33"
+    },
+    {
+      "Name": "sippin' fanta",
+      "Steam": "76561198768209236",
+      "Score": 0,
+      "Time": "16:36"
+    },
+    {
+      "Name": "peppepepeep",
+      "Steam": "76561199075864483",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "OLD_MONEY_BOWLING",
+      "Steam": "76561199625262838",
+      "Score": 18,
+      "Time": "40:19"
+    }
+  ]
 }
