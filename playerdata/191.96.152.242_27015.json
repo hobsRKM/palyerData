@@ -1,35 +1,53 @@
 {
-  "Time": "2025-11-14T05:39:53.6631345Z",
+  "Time": "2025-11-14T05:41:53.6703727Z",
   "Players": [
+    {
+      "Name": "ilua",
+      "Steam": "76561198790851710",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Skill-issue",
       "Steam": "76561199845812177",
       "Score": 27,
-      "Time": "15:09"
+      "Time": "17:09"
+    },
+    {
+      "Name": "Егор Валов",
+      "Steam": "76561198790956662",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "LEGITS --------> FACEIT.COM",
       "Steam": "76561198775174803",
-      "Score": 79,
-      "Time": "70:15"
+      "Score": 85,
+      "Time": "72:15"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 68,
-      "Time": "70:05"
+      "Score": 76,
+      "Time": "72:05"
+    },
+    {
+      "Name": "neverpyzo",
+      "Steam": "76561199862553412",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "swag",
       "Steam": "76561199780975796",
-      "Score": 8,
-      "Time": "02:51"
+      "Score": 10,
+      "Time": "04:51"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 0,
-      "Time": "76:30"
+      "Time": "78:30"
     }
   ]
 }
