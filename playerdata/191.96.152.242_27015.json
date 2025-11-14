@@ -1,52 +1,52 @@
 {
-  "Time": "2025-11-14T21:24:10.9668352Z",
+  "Time": "2025-11-14T21:26:10.9774968Z",
   "Players": [
+    {
+      "Name": "vanni",
+      "Steam": "76561198775521904",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Richard",
       "Steam": "76561198135596098",
       "Score": 0,
-      "Time": "260:56"
+      "Time": "262:56"
     },
     {
       "Name": "shaded",
       "Steam": "76561199634018466",
       "Score": 0,
-      "Time": "329:34"
+      "Time": "331:34"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 35,
-      "Time": "39:04"
+      "Score": 44,
+      "Time": "41:04"
     },
     {
       "Name": "sol",
       "Steam": "76561198774876005",
-      "Score": 6,
-      "Time": "08:41"
-    },
-    {
-      "Name": "zaxsense #neverlosing",
-      "Steam": "76561199844832166",
-      "Score": 55,
-      "Time": "69:47"
+      "Score": 11,
+      "Time": "10:41"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "neverlose.cc",
       "Steam": "76561199791880682",
-      "Score": 22,
-      "Time": "08:42"
+      "Score": 26,
+      "Time": "10:42"
     },
     {
       "Name": "qutmom",
       "Steam": "76561198772718897",
-      "Score": 3,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
