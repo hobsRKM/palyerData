@@ -1,22 +1,22 @@
 {
-  "Time": "2025-11-14T20:58:23.0515649Z",
+  "Time": "2025-11-14T21:00:04.9330307Z",
   "Players": [
+    {
+      "Name": "CarlitoMB",
+      "Steam": "76561199697633072",
+      "Score": 0,
+      "Time": "227:56"
+    },
     {
       "Name": "Leeoon101",
       "Steam": "76561199524080324",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "iwashdishes1337",
-      "Steam": "76561198777483174",
-      "Score": 100,
-      "Time": "30:33"
     },
     {
       "Name": "What is Love",
       "Steam": "76561199511992728",
-      "Score": 20,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -28,17 +28,17 @@
     {
       "Name": "rage_quit",
       "Steam": "76561199870732299",
-      "Score": 14,
-      "Time": "293:25"
+      "Score": 0,
+      "Time": "295:07"
     },
     {
       "Name": "CryzZ",
       "Steam": "76561198773616221",
-      "Score": 8,
-      "Time": "265:32"
+      "Score": 2,
+      "Time": "267:14"
     },
     {
-      "Name": "ロリポップ",
+      "Name": "\u30ED\u30EA\u30DD\u30C3\u30D7",
       "Steam": "76561198307706690",
       "Score": 0,
       "Time": "??:??"
@@ -47,7 +47,7 @@
       "Name": "hertramir",
       "Steam": "76561198769864621",
       "Score": 0,
-      "Time": "41:43"
+      "Time": "43:25"
     }
   ]
 }
