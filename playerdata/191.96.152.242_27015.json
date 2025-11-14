@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-14T15:54:10.8567196Z",
+  "Time": "2025-11-14T15:56:10.8576399Z",
   "Players": [
     {
       "Name": "Entry™",
       "Steam": "76561199321025751",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Skeet Destroyer",
       "Steam": "76561198135596098",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "OLD_MONEY_BOWLING",
       "Steam": "76561199625262838",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
+    },
+    {
+      "Name": "shaded",
+      "Steam": "76561199634018466",
+      "Score": 8,
+      "Time": "01:34"
     }
   ]
 }
