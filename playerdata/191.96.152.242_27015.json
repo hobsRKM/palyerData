@@ -1,34 +1,34 @@
 {
-  "Time": "2025-11-14T18:00:10.8571193Z",
+  "Time": "2025-11-14T18:02:10.8620935Z",
   "Players": [
     {
       "Name": "Richard",
       "Steam": "76561198135596098",
       "Score": 0,
-      "Time": "56:56"
+      "Time": "58:56"
     },
     {
       "Name": "shaded",
       "Steam": "76561199634018466",
       "Score": 0,
-      "Time": "125:34"
+      "Time": "127:34"
     },
     {
       "Name": "car",
       "Steam": "76561199176757314",
-      "Score": 84,
-      "Time": "14:47"
+      "Score": 86,
+      "Time": "16:47"
     },
     {
-      "Name": "Paul",
+      "Name": "Richard",
       "Steam": "76561198341200336",
-      "Score": 44,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 48,
+      "Score": 50,
       "Time": "??:??"
     },
     {
@@ -46,7 +46,13 @@
     {
       "Name": "Albert",
       "Steam": "76561198768824774",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Shux",
+      "Steam": "76561199170636130",
+      "Score": 5,
       "Time": "??:??"
     }
   ]
