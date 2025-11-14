@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-14T04:53:53.6750741Z",
+  "Time": "2025-11-14T04:55:53.6651393Z",
   "Players": [
+    {
+      "Name": "car",
+      "Steam": "76561199176757314",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "x60",
       "Steam": "76561199868147221",
@@ -8,33 +14,33 @@
       "Time": "??:??"
     },
     {
+      "Name": "Skill-issue",
+      "Steam": "76561199845812177",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "LEGITS --------> FACEIT.COM",
       "Steam": "76561198775174803",
-      "Score": 49,
-      "Time": "24:15"
+      "Score": 57,
+      "Time": "26:15"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 37,
-      "Time": "24:05"
+      "Score": 41,
+      "Time": "26:05"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 0,
-      "Time": "30:30"
+      "Time": "32:30"
     },
     {
       "Name": "faceit pro is calling",
       "Steam": "76561198768245034",
-      "Score": 39,
-      "Time": "??:??"
-    },
-    {
-      "Name": "480 dead carp",
-      "Steam": "76561198027457804",
-      "Score": 4,
+      "Score": 45,
       "Time": "??:??"
     }
   ]
