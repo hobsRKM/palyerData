@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-14T09:31:53.6642232Z",
+  "Time": "2025-11-14T09:33:53.6644733Z",
   "Players": [
     {
       "Name": "Pluto's Knot Home",
@@ -10,14 +10,20 @@
     {
       "Name": "Boa",
       "Steam": "76561198768614652",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "marikniggess9",
+      "Steam": "76561199891198778",
+      "Score": 0,
+      "Time": "01:58"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 0,
-      "Time": "308:30"
+      "Time": "310:30"
     }
   ]
 }
