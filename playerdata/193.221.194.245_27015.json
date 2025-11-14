@@ -1,22 +1,34 @@
 {
-  "Time": "2025-11-14T23:52:23.0867825Z",
+  "Time": "2025-11-14T23:54:04.7259012Z",
   "Players": [
+    {
+      "Name": "blond \u1DBB \uD835\uDDD3 \uD803\uDC01",
+      "Steam": "76561199885332136",
+      "Score": 0,
+      "Time": "919:03"
+    },
     {
       "Name": "Belka",
       "Steam": "76561199546476888",
-      "Score": 6,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lilsantra",
+      "Steam": "76561199824376406",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Winxx",
       "Steam": "76561199472686469",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC1C\uD835\uDC2B\uD835\uDC1A\uD835\uDC1C\uD835\uDC24\uD835\uDC2D\uD835\uDC1E\uD835\uDC31",
       "Steam": "76561198437208680",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
