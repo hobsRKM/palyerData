@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-15T02:26:10.9651491Z",
+  "Time": "2025-11-15T02:28:10.9662554Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561198999356265",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "TOASTEDANDROASTED",
       "Steam": "76561198772274004",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "hysteria",
       "Steam": "76561198113650702",
-      "Score": 6,
-      "Time": "48:01"
+      "Score": 8,
+      "Time": "50:01"
     }
   ]
 }
