@@ -1,47 +1,41 @@
 {
-  "Time": "2025-11-15T09:12:05.6149545Z",
+  "Time": "2025-11-15T09:12:14.2137037Z",
   "Players": [
     {
-      "Name": "Bhg",
-      "Steam": "76561199647822907",
+      "Name": "TheSteve",
+      "Steam": "76561199850352997",
+      "Score": 6,
+      "Time": "04:25"
+    },
+    {
+      "Name": "ecstacʏ #CASEHUG",
+      "Steam": "76561199151609154",
+      "Score": 12,
+      "Time": "19:18"
+    },
+    {
+      "Name": "0z0ns",
+      "Steam": "76561198868252814",
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hibou",
+      "Steam": "76561199201150011",
       "Score": 0,
+      "Time": "306:37"
+    },
+    {
+      "Name": "nessie",
+      "Steam": "76561199498486356",
+      "Score": 89,
       "Time": "??:??"
     },
     {
-      "Name": "y.win tweezy",
-      "Steam": "76561198778019465",
-      "Score": 62,
-      "Time": "??:??"
-    },
-    {
-      "Name": "M1RtiN4o",
-      "Steam": "76561198794087367",
-      "Score": 16,
-      "Time": "05:09"
-    },
-    {
-      "Name": "TaTaRun",
-      "Steam": "76561199042489490",
-      "Score": 35,
-      "Time": "00:37"
-    },
-    {
-      "Name": "External",
-      "Steam": "76561199842002650",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ferox",
-      "Steam": "76561199377440484",
-      "Score": 35,
-      "Time": "??:??"
-    },
-    {
-      "Name": "vladimirsamansky",
-      "Steam": "76561199319127624",
-      "Score": 2,
-      "Time": "??:??"
+      "Name": "Albert's mom",
+      "Steam": "76561198770550425",
+      "Score": 65,
+      "Time": "13:36"
     }
   ]
 }
