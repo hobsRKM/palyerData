@@ -1,41 +1,41 @@
 {
-  "Time": "2025-11-15T00:50:23.0956438Z",
+  "Time": "2025-11-15T00:52:02.5942171Z",
   "Players": [
     {
       "Name": "Belka",
       "Steam": "76561199546476888",
-      "Score": 30,
+      "Score": 33,
       "Time": "??:??"
     },
     {
-      "Name": "♰\uD835\uDCDD\uD835\uDCF8\uD835\uDCDD\uD835\uDCEA\uD835\uDCF6\uD835\uDCEE♰",
+      "Name": "\u2670\uD835\uDCDD\uD835\uDCF8\uD835\uDCDD\uD835\uDCEA\uD835\uDCF6\uD835\uDCEE\u2670",
       "Steam": "76561199101917163",
+      "Score": 2,
+      "Time": "04:10"
+    },
+    {
+      "Name": "Winxx",
+      "Steam": "76561199472686469",
       "Score": 0,
-      "Time": "02:31"
+      "Time": "00:51"
     },
     {
       "Name": "Neo",
       "Steam": "76561199201440406",
-      "Score": 4,
-      "Time": "82:47"
+      "Score": 10,
+      "Time": "84:26"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198770779132",
-      "Score": 54,
-      "Time": "558:42"
+      "Score": 67,
+      "Time": "560:22"
     },
     {
       "Name": "CryzZ",
       "Steam": "76561198773616221",
-      "Score": 49,
-      "Time": "19:50"
-    },
-    {
-      "Name": "zeny",
-      "Steam": "76561199225041096",
-      "Score": 10,
-      "Time": "15:27"
+      "Score": 57,
+      "Time": "21:30"
     }
   ]
 }
