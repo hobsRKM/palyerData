@@ -1,23 +1,35 @@
 {
-  "Time": "2025-11-15T07:58:41.5158154Z",
+  "Time": "2025-11-15T08:00:41.5144575Z",
   "Players": [
+    {
+      "Name": "AIMWARE.NE NeverLose.cc O.s",
+      "Steam": "76561198771778049",
+      "Score": 2,
+      "Time": "01:03"
+    },
     {
       "Name": "nixware.cc",
       "Steam": "76561199724081626",
-      "Score": 45,
-      "Time": "10:37"
+      "Score": 55,
+      "Time": "12:37"
     },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
-      "Score": 8,
-      "Time": "04:49"
+      "Score": 10,
+      "Time": "06:49"
     },
     {
       "Name": "ZC25",
       "Steam": "76561199282961906",
-      "Score": 4,
-      "Time": "09:20"
+      "Score": 0,
+      "Time": "11:20"
+    },
+    {
+      "Name": "@cooper on fatality",
+      "Steam": "76561198791610523",
+      "Score": 0,
+      "Time": "00:14"
     },
     {
       "Name": "1",
@@ -28,19 +40,25 @@
     {
       "Name": "nikkkkka",
       "Steam": "76561199710691587",
-      "Score": 33,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Nagisa_VRC",
       "Steam": "76561198782172023",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "DTTESTER",
       "Steam": "76561199850671670",
-      "Score": 3,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "辉夜",
+      "Steam": "76561198384514574",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
