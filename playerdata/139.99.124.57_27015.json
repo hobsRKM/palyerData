@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-15T06:36:41.4993012Z",
+  "Time": "2025-11-15T06:38:41.5013171Z",
   "Players": [
+    {
+      "Name": "d0$ed",
+      "Steam": "76561199119357951",
+      "Score": 0,
+      "Time": "00:46"
+    },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
-      "Score": 49,
-      "Time": "81:50"
+      "Score": 55,
+      "Time": "83:50"
     },
     {
-      "Name": "買不起掛",
+      "Name": "nixware",
       "Steam": "76561198778813347",
-      "Score": 0,
-      "Time": "03:01"
+      "Score": 2,
+      "Time": "05:01"
     },
     {
-      "Name": "NIXWAR `A",
+      "Name": "NIX `A",
       "Steam": "76561199699289339",
-      "Score": 71,
-      "Time": "38:44"
+      "Score": 73,
+      "Time": "40:44"
     },
     {
       "Name": "NeverLose.cc O.s",
       "Steam": "76561199070820387",
-      "Score": 18,
-      "Time": "07:26"
+      "Score": 24,
+      "Time": "09:26"
     }
   ]
 }
