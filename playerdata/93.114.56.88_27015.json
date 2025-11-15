@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-15T01:19:02.3672305Z",
+  "Time": "2025-11-15T01:19:10.9364598Z",
   "Players": [
     {
-      "Name": "SampeV2",
-      "Steam": "76561199851844325",
+      "Name": "idk tbf",
+      "Steam": "76561199669707675",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "3)R",
+      "Steam": "76561199822868069",
+      "Score": 30,
+      "Time": "369:03"
+    },
+    {
+      "Name": "Bob_Builder (VERY LETHAL)",
+      "Steam": "76561198769067462",
+      "Score": 8,
+      "Time": "43:14"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 20,
+      "Time": "75:11"
+    },
+    {
+      "Name": "skallebög",
+      "Steam": "76561198298152973",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dez",
+      "Steam": "76561199181342269",
       "Score": 2,
-      "Time": "25:25"
-    },
-    {
-      "Name": "Filip",
-      "Steam": "76561198449372051",
-      "Score": 5,
       "Time": "??:??"
-    },
-    {
-      "Name": "Bögskalle",
-      "Steam": "76561199041753106",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Jerry",
-      "Steam": "76561198774401645",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "zab",
-      "Steam": "76561199528017774",
-      "Score": 0,
-      "Time": "25:24"
     }
   ]
 }
