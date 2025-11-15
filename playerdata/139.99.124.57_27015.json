@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-15T07:16:41.5159743Z",
+  "Time": "2025-11-15T07:18:41.5129315Z",
   "Players": [
     {
       "Name": "merki",
       "Steam": "76561199872490286",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "d0$ed",
+      "Steam": "76561199119357951",
+      "Score": 64,
+      "Time": "01:45"
     },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
       "Score": 35,
-      "Time": "121:50"
+      "Time": "123:50"
     },
     {
-      "Name": "NIXWARE `A",
+      "Name": "NI `A",
       "Steam": "76561199699289339",
-      "Score": 64,
-      "Time": "78:44"
+      "Score": 67,
+      "Time": "80:44"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 75,
-      "Time": "12:40"
+      "Score": 90,
+      "Time": "14:40"
     },
     {
       "Name": "Bhg",
       "Steam": "76561199647822907",
-      "Score": 10,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
