@@ -1,47 +1,59 @@
 {
-  "Time": "2025-11-15T03:10:10.9680023Z",
+  "Time": "2025-11-15T03:12:10.9806193Z",
   "Players": [
     {
       "Name": "v",
       "Steam": "76561199883344229",
-      "Score": 41,
+      "Score": 44,
       "Time": "??:??"
+    },
+    {
+      "Name": "COM BOT | JUMPSCOUT ONLY",
+      "Steam": "76561198775174803",
+      "Score": 4,
+      "Time": "01:43"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 50,
-      "Time": "36:38"
+      "Score": 58,
+      "Time": "38:38"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
       "Score": 30,
-      "Time": "223:58"
+      "Time": "225:58"
     },
     {
       "Name": "XXX",
       "Steam": "76561199148908407",
       "Score": 7,
-      "Time": "22:30"
+      "Time": "24:30"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "TOASTEDANDROASTED",
       "Steam": "76561198772274004",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "hysteria",
       "Steam": "76561198113650702",
       "Score": 15,
-      "Time": "92:01"
+      "Time": "94:01"
     }
   ]
 }
