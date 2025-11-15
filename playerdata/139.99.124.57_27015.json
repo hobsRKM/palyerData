@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-15T08:22:41.5099537Z",
+  "Time": "2025-11-15T08:24:41.5018352Z",
   "Players": [
+    {
+      "Name": "Ⴚᴏᴅ",
+      "Steam": "76561198771778049",
+      "Score": 2,
+      "Time": "00:53"
+    },
     {
       "Name": "d0$ed",
       "Steam": "76561199119357951",
-      "Score": 0,
-      "Time": "00:42"
+      "Score": 4,
+      "Time": "01:52"
     },
     {
       "Name": "nixware.cc",
       "Steam": "76561199724081626",
-      "Score": 23,
-      "Time": "34:37"
+      "Score": 27,
+      "Time": "36:37"
     },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
       "Score": 12,
-      "Time": "28:49"
+      "Time": "30:49"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 0,
-      "Time": "06:38"
+      "Score": 2,
+      "Time": "08:38"
     },
     {
       "Name": "nikkkkka",
       "Steam": "76561199710691587",
-      "Score": 19,
+      "Score": 27,
       "Time": "??:??"
     },
     {
@@ -40,7 +46,7 @@
     {
       "Name": "Hiếu Chim Bé",
       "Steam": "76561198775209729",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
