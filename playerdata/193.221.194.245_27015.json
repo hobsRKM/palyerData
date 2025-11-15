@@ -1,8 +1,8 @@
 {
-  "Time": "2025-11-15T15:44:13.8944461Z",
+  "Time": "2025-11-15T15:46:04.488979Z",
   "Players": [
     {
-      "Name": "\"'",
+      "Name": "\u0022\u0027",
       "Steam": "76561199028888055",
       "Score": 0,
       "Time": "??:??"
@@ -10,32 +10,32 @@
     {
       "Name": "dopam1ne",
       "Steam": "76561198768719455",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "CarlitoMB",
       "Steam": "76561199697633072",
-      "Score": 30,
-      "Time": "17:29"
+      "Score": 33,
+      "Time": "19:20"
     },
     {
-      "Name": "MAVERICK' adam",
+      "Name": "MAVERICK\u0027 adam",
       "Steam": "76561199752633124",
-      "Score": 27,
-      "Time": "03:10"
+      "Score": 33,
+      "Time": "05:01"
     },
     {
       "Name": "bra",
       "Steam": "76561199542322777",
-      "Score": 4,
-      "Time": "02:06"
+      "Score": 10,
+      "Time": "03:57"
     },
     {
       "Name": "where have u beeen",
       "Steam": "76561198768966024",
-      "Score": 40,
-      "Time": "59:34"
+      "Score": 46,
+      "Time": "61:24"
     }
   ]
 }
