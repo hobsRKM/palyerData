@@ -1,35 +1,29 @@
 {
-  "Time": "2025-11-15T02:08:10.9795745Z",
+  "Time": "2025-11-15T02:10:10.9682895Z",
   "Players": [
     {
       "Name": "Richard",
       "Steam": "76561198135596098",
-      "Score": 0,
-      "Time": "00:12"
+      "Score": 8,
+      "Time": "02:12"
     },
     {
       "Name": "Albert",
       "Steam": "76561198768824774",
-      "Score": 68,
-      "Time": "23:13"
+      "Score": 74,
+      "Time": "25:13"
     },
     {
       "Name": "g45",
       "Steam": "76561199803595505",
-      "Score": 36,
-      "Time": "06:51"
-    },
-    {
-      "Name": "RADICAL RACIST",
-      "Steam": "76561199870945474",
       "Score": 39,
-      "Time": "??:??"
+      "Time": "08:51"
     },
     {
       "Name": "OLD_MONEY_BOWLING",
       "Steam": "76561199625262838",
-      "Score": 7,
-      "Time": "270:07"
+      "Score": 17,
+      "Time": "272:07"
     },
     {
       "Name": "TOASTEDANDROASTED",
@@ -40,8 +34,8 @@
     {
       "Name": "hysteria",
       "Steam": "76561198113650702",
-      "Score": 36,
-      "Time": "30:01"
+      "Score": 0,
+      "Time": "32:01"
     }
   ]
 }
