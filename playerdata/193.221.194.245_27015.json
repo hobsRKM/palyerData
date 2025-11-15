@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-15T00:34:23.0929007Z",
+  "Time": "2025-11-15T00:36:04.2226802Z",
   "Players": [
-    {
-      "Name": "blond ᶻ \uD835\uDDD3 \uD803\uDC01",
-      "Steam": "76561199885332136",
-      "Score": 2,
-      "Time": "02:56"
-    },
     {
       "Name": "Belka",
       "Steam": "76561199546476888",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "lilsantra",
       "Steam": "76561199824376406",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561198770779132",
+      "Score": 2,
+      "Time": "544:23"
     },
     {
       "Name": "CryzZ",
       "Steam": "76561198773616221",
-      "Score": 7,
-      "Time": "03:50"
+      "Score": 10,
+      "Time": "05:31"
+    },
+    {
+      "Name": "zeny",
+      "Steam": "76561199225041096",
+      "Score": 2,
+      "Time": "01:08"
     }
   ]
 }
