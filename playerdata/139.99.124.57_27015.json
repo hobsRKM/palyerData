@@ -1,41 +1,47 @@
 {
-  "Time": "2025-11-16T11:05:15.2219683Z",
+  "Time": "2025-11-16T11:07:15.2456468Z",
   "Players": [
     {
-      "Name": "neverlose | 挨打神nixware",
+      "Name": "W seed",
+      "Steam": "76561199876716760",
+      "Score": 0,
+      "Time": "01:48"
+    },
+    {
+      "Name": "挨打神nixware",
       "Steam": "76561198778813347",
       "Score": 4,
-      "Time": "06:07"
+      "Time": "08:07"
     },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
-      "Score": 10,
-      "Time": "29:36"
+      "Score": 18,
+      "Time": "31:36"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 0,
-      "Time": "02:13"
+      "Score": 6,
+      "Time": "04:13"
     },
     {
-      "Name": "A <blank>",
+      "Name": "GURT <blank>",
       "Steam": "76561198771778049",
       "Score": 34,
-      "Time": "27:42"
+      "Time": "29:42"
     },
     {
       "Name": "HentaiOnanySeinenAkira",
       "Steam": "76561199010691146",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "lilかっぱ巻",
       "Steam": "76561198769686795",
-      "Score": 28,
-      "Time": "52:58"
+      "Score": 42,
+      "Time": "54:58"
     }
   ]
 }
