@@ -1,47 +1,53 @@
 {
-  "Time": "2025-11-16T11:25:15.2674233Z",
+  "Time": "2025-11-16T11:27:15.2503579Z",
   "Players": [
+    {
+      "Name": "ghost",
+      "Steam": "76561199591486018",
+      "Score": 2,
+      "Time": "01:51"
+    },
     {
       "Name": "merki",
       "Steam": "76561199872490286",
       "Score": 0,
-      "Time": "01:22"
+      "Time": "03:22"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
       "Score": 58,
-      "Time": "19:48"
+      "Time": "21:48"
     },
     {
       "Name": "挨打神nixware",
       "Steam": "76561198778813347",
       "Score": 16,
-      "Time": "26:07"
+      "Time": "28:07"
     },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
-      "Score": 43,
-      "Time": "49:36"
+      "Score": 45,
+      "Time": "51:36"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 51,
-      "Time": "22:13"
+      "Score": 58,
+      "Time": "24:13"
     },
     {
-      "Name": "GURTY DAD <blank>",
+      "Name": "GURTY D <blank>",
       "Steam": "76561198771778049",
-      "Score": 9,
-      "Time": "47:42"
+      "Score": 11,
+      "Time": "49:42"
     },
     {
       "Name": "lilかっぱ巻",
       "Steam": "76561198769686795",
-      "Score": 77,
-      "Time": "72:58"
+      "Score": 89,
+      "Time": "74:58"
     }
   ]
 }
