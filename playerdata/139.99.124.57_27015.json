@@ -1,64 +1,70 @@
 {
-  "Time": "2025-11-16T09:53:15.0081518Z",
+  "Time": "2025-11-16T09:55:15.0163311Z",
   "Players": [
+    {
+      "Name": "ghost",
+      "Steam": "76561199591486018",
+      "Score": 0,
+      "Time": "00:47"
+    },
     {
       "Name": "merki",
       "Steam": "76561199872490286",
-      "Score": 4,
-      "Time": "03:19"
+      "Score": 2,
+      "Time": "05:19"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198848960112",
-      "Score": 18,
-      "Time": "130:08"
+      "Score": 23,
+      "Time": "132:09"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 41,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "1",
       "Steam": "76561199303359682",
-      "Score": 22,
-      "Time": "12:15"
+      "Score": 26,
+      "Time": "14:15"
     },
     {
       "Name": "AIMWARE.NET <blank>",
       "Steam": "76561198771778049",
-      "Score": 12,
-      "Time": "37:07"
+      "Score": 14,
+      "Time": "39:08"
     },
     {
       "Name": "HentaiOnanySeinenAkira",
       "Steam": "76561199010691146",
-      "Score": 21,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "BEST JOKER LOLOLOLOLOL\uD83E\uDD2C",
       "Steam": "76561198786353676",
-      "Score": 39,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "shiftyy",
       "Steam": "76561198358475229",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "killbiller",
       "Steam": "76561199163659882",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Mr PeAce™ ♕",
       "Steam": "76561198977980362",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
