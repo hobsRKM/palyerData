@@ -1,10 +1,16 @@
 {
-  "Time": "2025-11-16T14:24:35.2602984Z",
+  "Time": "2025-11-16T14:26:35.2673522Z",
   "Players": [
+    {
+      "Name": "XXX",
+      "Steam": "76561199148908407",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "Shlomo Goldbergstein ✡",
       "Steam": "76561198776265815",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
@@ -22,19 +28,19 @@
     {
       "Name": "Alone",
       "Steam": "76561199837329294",
-      "Score": 32,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "glue farm (legitness)",
       "Steam": "76561199848031483",
-      "Score": 15,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "ace",
       "Steam": "76561198043769839",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
