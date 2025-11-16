@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-16T22:50:35.2639394Z",
+  "Time": "2025-11-16T22:52:35.2663866Z",
   "Players": [
+    {
+      "Name": "ThugSense Beta",
+      "Steam": "76561198777251331",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "plague user",
       "Steam": "76561199812981312",
@@ -8,40 +14,52 @@
       "Time": "??:??"
     },
     {
+      "Name": "snow",
+      "Steam": "76561198059477947",
+      "Score": 2,
+      "Time": "01:14"
+    },
+    {
       "Name": "Milou",
       "Steam": "76561198032362926",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "李七月",
       "Steam": "76561198774650874",
-      "Score": 55,
-      "Time": "16:26"
+      "Score": 59,
+      "Time": "18:26"
     },
     {
-      "Name": "fatality Donk",
+      "Name": "fatality cloxid",
       "Steam": "76561198341200336",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Donk",
       "Steam": "76561198999356265",
-      "Score": 40,
-      "Time": "41:31"
+      "Score": 50,
+      "Time": "43:31"
+    },
+    {
+      "Name": "braces",
+      "Steam": "76561199878413811",
+      "Score": 3,
+      "Time": "??:??"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 98,
-      "Time": "17:55"
+      "Score": 102,
+      "Time": "19:55"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 1,
-      "Time": "16:26"
+      "Time": "18:26"
     }
   ]
 }
