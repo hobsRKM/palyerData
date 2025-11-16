@@ -1,10 +1,10 @@
 {
-  "Time": "2025-11-16T12:39:37.4438738Z",
+  "Time": "2025-11-16T12:40:02.5111922Z",
   "Players": [
     {
       "Name": "Edith",
       "Steam": "76561199690909304",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -14,16 +14,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "♡",
+      "Name": "\u2661",
       "Steam": "76561199520319824",
-      "Score": 8,
-      "Time": "27:20"
+      "Score": 11,
+      "Time": "27:45"
     },
     {
       "Name": "Kairo",
       "Steam": "76561199198341067",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "Projectile_invalid",
+      "Steam": "76561199191549036",
+      "Score": 3,
+      "Time": "00:10"
     },
     {
       "Name": "shane47",
@@ -35,18 +41,12 @@
       "Name": "zen",
       "Steam": "76561198788157791",
       "Score": 4,
-      "Time": "100:00"
-    },
-    {
-      "Name": "fatality user",
-      "Steam": "76561199828671371",
-      "Score": 2,
-      "Time": "75:58"
+      "Time": "100:25"
     },
     {
       "Name": "Nate Higgerson",
       "Steam": "76561199652724092",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
