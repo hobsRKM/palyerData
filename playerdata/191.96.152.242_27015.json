@@ -1,41 +1,53 @@
 {
-  "Time": "2025-11-16T22:40:35.2681175Z",
+  "Time": "2025-11-16T22:42:35.2694839Z",
   "Players": [
+    {
+      "Name": "RADICAL RACIST",
+      "Steam": "76561199870945474",
+      "Score": 6,
+      "Time": "00:49"
+    },
     {
       "Name": "Milou",
       "Steam": "76561198032362926",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "李七月",
       "Steam": "76561198774650874",
-      "Score": 9,
-      "Time": "06:26"
+      "Score": 11,
+      "Time": "08:26"
+    },
+    {
+      "Name": "fatal 15623",
+      "Steam": "76561198341200336",
+      "Score": 7,
+      "Time": "??:??"
     },
     {
       "Name": "Donk",
       "Steam": "76561198999356265",
-      "Score": 25,
-      "Time": "31:31"
+      "Score": 29,
+      "Time": "33:31"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 36,
-      "Time": "07:55"
+      "Score": 52,
+      "Time": "09:55"
     },
     {
       "Name": "#NL no skeet",
       "Steam": "76561199816455271",
-      "Score": 36,
-      "Time": "12:47"
+      "Score": 42,
+      "Time": "14:47"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 0,
-      "Time": "06:26"
+      "Time": "08:26"
     }
   ]
 }
