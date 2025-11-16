@@ -1,65 +1,83 @@
 {
-  "Time": "2025-11-16T23:06:35.2723543Z",
+  "Time": "2025-11-16T23:08:35.2736816Z",
   "Players": [
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 8,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "the pig covered in cloth ;(",
+      "Steam": "76561199494572216",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
-      "Score": 14,
-      "Time": "15:14"
+      "Score": 20,
+      "Time": "17:14"
     },
     {
       "Name": "phreshboyfag",
       "Steam": "76561198772944522",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "李七月",
       "Steam": "76561198774650874",
-      "Score": 85,
-      "Time": "32:26"
+      "Score": 87,
+      "Time": "34:26"
     },
     {
       "Name": "Donk",
       "Steam": "76561198999356265",
-      "Score": 90,
-      "Time": "57:31"
+      "Score": 96,
+      "Time": "59:31"
+    },
+    {
+      "Name": "lovealone",
+      "Steam": "76561199839045552",
+      "Score": 0,
+      "Time": "00:31"
+    },
+    {
+      "Name": "really not serv",
+      "Steam": "76561198767541302",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "braces",
       "Steam": "76561199878413811",
-      "Score": 24,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 154,
-      "Time": "33:55"
+      "Score": 168,
+      "Time": "35:55"
     },
     {
       "Name": "boys are just placeholders",
       "Steam": "76561199847868570",
-      "Score": 0,
-      "Time": "00:58"
+      "Score": 6,
+      "Time": "02:58"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 1,
-      "Time": "32:26"
+      "Time": "34:26"
     }
   ]
 }
