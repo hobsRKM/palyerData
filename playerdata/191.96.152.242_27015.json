@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-16T16:36:35.2655938Z",
+  "Time": "2025-11-16T16:38:35.2587643Z",
   "Players": [
+    {
+      "Name": "wyattandkatie",
+      "Steam": "76561198833219379",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Lucky...",
       "Steam": "76561199015751726",
       "Score": 2,
-      "Time": "19:39"
+      "Time": "21:39"
     },
     {
       "Name": "da big kirk",
       "Steam": "76561198992148678",
-      "Score": 63,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "Da Byte",
       "Steam": "76561199043213580",
-      "Score": 32,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Daniel Hognose",
       "Steam": "76561198216212373",
-      "Score": 16,
+      "Score": 23,
       "Time": "??:??"
     },
     {
@@ -40,7 +46,7 @@
     {
       "Name": "biggie smalls",
       "Steam": "76561198059477947",
-      "Score": 16,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
