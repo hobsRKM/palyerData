@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-16T16:39:23.2839089Z",
+  "Time": "2025-11-16T16:41:23.3314232Z",
   "Players": [
+    {
+      "Name": "merki",
+      "Steam": "76561199872490286",
+      "Score": 0,
+      "Time": "00:09"
+    },
     {
       "Name": "blond ᶻ \uD835\uDDD3 \uD803\uDC01",
       "Steam": "76561199885332136",
-      "Score": 21,
-      "Time": "21:54"
+      "Score": 0,
+      "Time": "23:54"
     },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
       "Score": 36,
-      "Time": "46:26"
+      "Time": "48:26"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 100,
-      "Time": "28:05"
+      "Score": 112,
+      "Time": "30:05"
     },
     {
       "Name": "baby boss",
       "Steam": "76561199122053851",
       "Score": 16,
-      "Time": "10:40"
+      "Time": "12:40"
     },
     {
       "Name": "lilsantra",
       "Steam": "76561199824376406",
-      "Score": 16,
-      "Time": "05:16"
+      "Score": 20,
+      "Time": "07:16"
     }
   ]
 }
