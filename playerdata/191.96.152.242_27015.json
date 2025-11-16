@@ -1,35 +1,35 @@
 {
-  "Time": "2025-11-16T04:43:34.2599712Z",
+  "Time": "2025-11-16T04:45:34.2495729Z",
   "Players": [
     {
       "Name": "Noob gamer",
       "Steam": "76561198999356265",
-      "Score": 82,
-      "Time": "86:22"
+      "Score": 90,
+      "Time": "88:22"
     },
     {
       "Name": "Solarpumpe",
       "Steam": "76561198046212563",
-      "Score": 68,
+      "Score": 72,
       "Time": "??:??"
     },
     {
       "Name": "Alone",
       "Steam": "76561199837329294",
-      "Score": 2,
-      "Time": "08:14"
+      "Score": 18,
+      "Time": "10:14"
     },
     {
       "Name": "Meowz",
       "Steam": "76561198783859737",
-      "Score": 54,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "SquaredMedia",
       "Steam": "76561198768860993",
-      "Score": 0,
-      "Time": "01:13"
+      "Score": 5,
+      "Time": "03:13"
     },
     {
       "Name": "elder lich",
@@ -41,6 +41,12 @@
       "Name": "QuesoCrusader",
       "Steam": "76561199820982951",
       "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tube",
+      "Steam": "76561199567642885",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
