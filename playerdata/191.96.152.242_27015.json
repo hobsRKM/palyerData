@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-16T17:32:35.2575428Z",
+  "Time": "2025-11-16T17:34:35.2577077Z",
   "Players": [
+    {
+      "Name": "lock",
+      "Steam": "76561198422636928",
+      "Score": 0,
+      "Time": "01:40"
+    },
     {
       "Name": "Noob gamer",
       "Steam": "76561198999356265",
-      "Score": 0,
-      "Time": "07:50"
+      "Score": 8,
+      "Time": "09:50"
     },
     {
       "Name": "#neverlose #NL #NLuser",
@@ -16,7 +22,7 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
