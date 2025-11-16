@@ -1,47 +1,59 @@
 {
-  "Time": "2025-11-16T23:00:35.2628979Z",
+  "Time": "2025-11-16T23:02:35.2719771Z",
   "Players": [
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
       "Score": 6,
-      "Time": "09:14"
+      "Time": "11:14"
+    },
+    {
+      "Name": "phreshboyfag",
+      "Steam": "76561198772944522",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "李七月",
       "Steam": "76561198774650874",
-      "Score": 75,
-      "Time": "26:26"
+      "Score": 77,
+      "Time": "28:26"
     },
     {
-      "Name": "fatality.win lock",
+      "Name": "fata da big kirk",
       "Steam": "76561198341200336",
-      "Score": 47,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "Donk",
       "Steam": "76561198999356265",
-      "Score": 74,
-      "Time": "51:31"
+      "Score": 84,
+      "Time": "53:31"
     },
     {
       "Name": "braces",
       "Steam": "76561199878413811",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 138,
-      "Time": "27:55"
+      "Score": 146,
+      "Time": "29:55"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 1,
-      "Time": "26:26"
+      "Time": "28:26"
     }
   ]
 }
