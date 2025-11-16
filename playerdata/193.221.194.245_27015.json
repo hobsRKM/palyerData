@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-16T13:55:37.4530865Z",
+  "Time": "2025-11-16T13:56:02.8652916Z",
   "Players": [
+    {
+      "Name": "ANNA SNIPER",
+      "Steam": "76561199750692141",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "iwslmb",
       "Steam": "76561198769286571",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "bebravnuhivatel",
       "Steam": "76561199849710278",
-      "Score": 42,
-      "Time": "157:24"
+      "Score": 44,
+      "Time": "157:49"
     },
     {
       "Name": "ThatRandomPerson",
@@ -23,12 +29,12 @@
       "Name": "fentlover",
       "Steam": "76561199885212660",
       "Score": 5,
-      "Time": "153:53"
+      "Time": "154:19"
     },
     {
       "Name": "ArchLinux skins.army",
       "Steam": "76561199497167933",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -46,14 +52,14 @@
     {
       "Name": "Nixware user",
       "Steam": "76561199820198006",
-      "Score": 6,
-      "Time": "155:54"
+      "Score": 10,
+      "Time": "156:19"
     },
     {
       "Name": "MAYBE.",
       "Steam": "76561198773616221",
       "Score": 48,
-      "Time": "25:42"
+      "Time": "26:07"
     },
     {
       "Name": "Omertus",
@@ -65,7 +71,7 @@
       "Name": "Edod",
       "Steam": "76561199112507206",
       "Score": 4,
-      "Time": "16:25"
+      "Time": "16:51"
     }
   ]
 }
