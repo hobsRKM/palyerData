@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-16T01:04:20.9225811Z",
-  "Players": []
+  "Time": "2025-11-16T01:04:22.4062036Z",
+  "Players": [
+    {
+      "Name": "Techno",
+      "Steam": "76561198170327163",
+      "Score": 19,
+      "Time": "00:06"
+    },
+    {
+      "Name": "LANA DANDO RAGE",
+      "Steam": "76561198161108369",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "peppepepeep",
+      "Steam": "76561199075864483",
+      "Score": 45,
+      "Time": "13:51"
+    },
+    {
+      "Name": "ssayres",
+      "Steam": "76561199075133828",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ace",
+      "Steam": "76561198043769839",
+      "Score": 14,
+      "Time": "12:54"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 22,
+      "Time": "05:41"
+    }
+  ]
 }
