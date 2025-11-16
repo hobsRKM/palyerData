@@ -1,71 +1,83 @@
 {
-  "Time": "2025-11-16T23:16:35.2744686Z",
+  "Time": "2025-11-16T23:18:35.2642837Z",
   "Players": [
     {
       "Name": "the pig covered in cloth ;(",
       "Steam": "76561199494572216",
-      "Score": 15,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "K",
+      "Steam": "76561199062260805",
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
       "Score": 2,
-      "Time": "25:14"
+      "Time": "27:14"
     },
     {
       "Name": "李七月",
       "Steam": "76561198774650874",
-      "Score": 5,
-      "Time": "42:26"
+      "Score": 7,
+      "Time": "44:26"
     },
     {
       "Name": "Donk",
       "Steam": "76561198999356265",
-      "Score": 0,
-      "Time": "67:31"
+      "Score": 2,
+      "Time": "69:31"
     },
     {
       "Name": "de_cache",
       "Steam": "76561198302837007",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "lovealone",
       "Steam": "76561199839045552",
-      "Score": 0,
-      "Time": "08:31"
+      "Score": 6,
+      "Time": "10:31"
     },
     {
       "Name": "really not serv",
       "Steam": "76561198767541302",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "braces",
       "Steam": "76561199878413811",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 16,
-      "Time": "43:55"
+      "Score": 24,
+      "Time": "45:55"
     },
     {
       "Name": "boys are just placeholders",
       "Steam": "76561199847868570",
-      "Score": 10,
-      "Time": "10:58"
+      "Score": 24,
+      "Time": "12:58"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 4,
+      "Time": "01:57"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 0,
-      "Time": "42:26"
+      "Time": "44:26"
     }
   ]
 }
