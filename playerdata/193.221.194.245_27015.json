@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-16T18:23:37.4496188Z",
+  "Time": "2025-11-16T18:24:04.568845Z",
   "Players": [
+    {
+      "Name": "gartensecher",
+      "Steam": "76561198778790300",
+      "Score": 0,
+      "Time": "178:58"
+    },
     {
       "Name": "Qink on top",
       "Steam": "76561199871406251",
-      "Score": 0,
-      "Time": "166:49"
+      "Score": 4,
+      "Time": "167:16"
     },
     {
       "Name": "Winxx",
@@ -23,7 +29,7 @@
       "Name": "ilaaaaaaa einnnnnnnn",
       "Steam": "76561198979208432",
       "Score": 0,
-      "Time": "154:52"
+      "Time": "155:19"
     }
   ]
 }
