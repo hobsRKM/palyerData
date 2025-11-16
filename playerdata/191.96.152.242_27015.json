@@ -1,34 +1,46 @@
 {
-  "Time": "2025-11-16T23:32:35.2642786Z",
+  "Time": "2025-11-16T23:34:35.2586583Z",
   "Players": [
+    {
+      "Name": "Cookie",
+      "Steam": "76561199889788325",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "the pig covered in cloth ;(",
       "Steam": "76561199494572216",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "plague user",
+      "Steam": "76561199812981312",
+      "Score": 0,
+      "Time": "00:14"
     },
     {
       "Name": "Donk",
       "Steam": "76561198999356265",
-      "Score": 43,
-      "Time": "83:31"
+      "Score": 47,
+      "Time": "85:31"
     },
     {
       "Name": "de_cache",
       "Steam": "76561198302837007",
-      "Score": 33,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "alice",
       "Steam": "76561199585828938",
-      "Score": 0,
-      "Time": "02:04"
+      "Score": 6,
+      "Time": "04:04"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -38,34 +50,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "7134089574389a",
-      "Steam": "76561198775168506",
-      "Score": 3,
-      "Time": "??:??"
-    },
-    {
       "Name": "boys are just placeholders",
       "Steam": "76561199847868570",
-      "Score": 42,
-      "Time": "26:58"
+      "Score": 50,
+      "Time": "28:58"
     },
     {
       "Name": "SoySause",
       "Steam": "76561199156716734",
-      "Score": 0,
-      "Time": "25:26"
+      "Score": 6,
+      "Time": "27:26"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 55,
-      "Time": "15:57"
+      "Score": 59,
+      "Time": "17:57"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 1,
-      "Time": "58:26"
+      "Time": "60:26"
     }
   ]
 }
