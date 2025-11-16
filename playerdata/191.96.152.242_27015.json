@@ -1,6 +1,12 @@
 {
-  "Time": "2025-11-16T22:48:35.2632871Z",
+  "Time": "2025-11-16T22:50:35.2639394Z",
   "Players": [
+    {
+      "Name": "plague user",
+      "Steam": "76561199812981312",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Milou",
       "Steam": "76561198032362926",
@@ -10,38 +16,32 @@
     {
       "Name": "李七月",
       "Steam": "76561198774650874",
-      "Score": 49,
-      "Time": "14:26"
+      "Score": 55,
+      "Time": "16:26"
     },
     {
-      "Name": "f aprilviator1927",
+      "Name": "fatality Donk",
       "Steam": "76561198341200336",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Donk",
       "Steam": "76561198999356265",
-      "Score": 38,
-      "Time": "39:31"
-    },
-    {
-      "Name": "EssciZzz",
-      "Steam": "76561199442184546",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 40,
+      "Time": "41:31"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 88,
-      "Time": "15:55"
+      "Score": 98,
+      "Time": "17:55"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
-      "Score": 0,
-      "Time": "14:26"
+      "Score": 1,
+      "Time": "16:26"
     }
   ]
 }
