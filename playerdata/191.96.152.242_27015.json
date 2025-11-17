@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-17T18:20:42.8280808Z",
+  "Time": "2025-11-17T18:22:42.8178603Z",
   "Players": [
     {
       "Name": "swift",
       "Steam": "76561198770272802",
-      "Score": 5,
-      "Time": "15:14"
+      "Score": 9,
+      "Time": "17:14"
+    },
+    {
+      "Name": "kaine",
+      "Steam": "76561199634909491",
+      "Score": 0,
+      "Time": "00:28"
     },
     {
       "Name": "zoegamingcat",
       "Steam": "76561199830452982",
       "Score": 0,
-      "Time": "00:13"
+      "Time": "00:26"
     },
     {
       "Name": "Maku",
       "Steam": "76561199890049005",
-      "Score": 2,
+      "Score": 9,
       "Time": "??:??"
     },
     {
@@ -26,15 +32,21 @@
       "Time": "??:??"
     },
     {
+      "Name": "not lovesick",
+      "Steam": "76561199811991561",
+      "Score": 0,
+      "Time": "00:39"
+    },
+    {
       "Name": "s1mple",
       "Steam": "76561199876383899",
-      "Score": 2,
-      "Time": "02:53"
+      "Score": 1,
+      "Time": "04:53"
     },
     {
       "Name": "rain83",
       "Steam": "76561199847868570",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -46,7 +58,7 @@
     {
       "Name": "binary",
       "Steam": "76561198999356265",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
