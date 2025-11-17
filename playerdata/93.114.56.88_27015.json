@@ -1,35 +1,17 @@
 {
-  "Time": "2025-11-17T15:44:29.2241323Z",
+  "Time": "2025-11-17T15:44:44.07652Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
-      "Score": 0,
+      "Name": "MISSED",
+      "Steam": "76561198839239352",
+      "Score": 10,
+      "Time": "12:47"
+    },
+    {
+      "Name": "Edod",
+      "Steam": "76561199112507206",
+      "Score": 13,
       "Time": "??:??"
-    },
-    {
-      "Name": "missed due to spread",
-      "Steam": "76561198793601616",
-      "Score": 25,
-      "Time": "??:??"
-    },
-    {
-      "Name": "JSN\"\uD835\uDC07\uD835\uDC15\uD835\uDC07\"",
-      "Steam": "76561199865276971",
-      "Score": 5,
-      "Time": "00:23"
-    },
-    {
-      "Name": "JestemTuiTam",
-      "Steam": "76561198769638761",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "muntean",
-      "Steam": "76561199853042267",
-      "Score": 16,
-      "Time": "06:26"
     }
   ]
 }
