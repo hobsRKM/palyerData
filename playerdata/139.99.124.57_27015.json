@@ -1,29 +1,29 @@
 {
-  "Time": "2025-11-17T10:01:33.537395Z",
+  "Time": "2025-11-17T10:03:33.540612Z",
   "Players": [
+    {
+      "Name": "W seed",
+      "Steam": "76561199876716760",
+      "Score": 5,
+      "Time": "00:32"
+    },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
       "Score": 4,
-      "Time": "36:11"
-    },
-    {
-      "Name": "✡⃤⛴☁",
-      "Steam": "76561199060922164",
-      "Score": 4,
-      "Time": "??:??"
+      "Time": "38:11"
     },
     {
       "Name": "Dzee_Gamez",
       "Steam": "76561199865563018",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Nixware",
       "Steam": "76561198775209729",
       "Score": 6,
-      "Time": "04:55"
+      "Time": "06:55"
     },
     {
       "Name": "Pray For Sinners",
@@ -34,20 +34,20 @@
     {
       "Name": "high p groyper",
       "Steam": "76561199844610139",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "d0$ed",
       "Steam": "76561199119357951",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
       "Score": 2,
-      "Time": "18:50"
+      "Time": "20:50"
     }
   ]
 }
