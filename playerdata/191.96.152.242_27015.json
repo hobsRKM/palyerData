@@ -1,22 +1,22 @@
 {
-  "Time": "2025-11-17T17:42:42.816963Z",
+  "Time": "2025-11-17T17:44:42.8168388Z",
   "Players": [
+    {
+      "Name": "swift",
+      "Steam": "76561198770272802",
+      "Score": 0,
+      "Time": "01:20"
+    },
     {
       "Name": "zoegamingcat",
       "Steam": "76561199830452982",
-      "Score": 86,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "outwater294",
       "Steam": "76561198768489883",
-      "Score": 28,
-      "Time": "??:??"
-    },
-    {
-      "Name": "unrelated goofball",
-      "Steam": "76561199819748730",
-      "Score": 16,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
