@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-17T04:38:26.6148045Z",
+  "Time": "2025-11-17T04:40:26.6272733Z",
   "Players": [
     {
       "Name": "Ancient the Dimensions",
       "Steam": "76561199628489019",
-      "Score": 24,
-      "Time": "56:36"
+      "Score": 30,
+      "Time": "58:36"
+    },
+    {
+      "Name": "newgen",
+      "Steam": "76561199812981312",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ace",
       "Steam": "76561198043769839",
-      "Score": 27,
-      "Time": "33:04"
+      "Score": 31,
+      "Time": "35:04"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 33,
-      "Time": "36:26"
+      "Score": 35,
+      "Time": "38:26"
     }
   ]
 }
