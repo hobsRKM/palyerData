@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-18T22:28:22.7421174Z",
+  "Time": "2025-11-18T22:30:22.7563747Z",
   "Players": [
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 0,
+      "Time": "01:43"
+    },
     {
       "Name": "Donk",
       "Steam": "76561198999356265",
-      "Score": 92,
-      "Time": "60:59"
+      "Score": 100,
+      "Time": "62:59"
     },
     {
       "Name": "ace",
       "Steam": "76561198043769839",
       "Score": 72,
-      "Time": "51:51"
+      "Time": "53:51"
     },
     {
       "Name": "m",
       "Steam": "76561199868009569",
-      "Score": 0,
-      "Time": "09:29"
+      "Score": 5,
+      "Time": "11:29"
     },
     {
       "Name": "\uD835\uDD2D\uD835\uDD1E\uD835\uDD20\uD835\uDD2A\uD835\uDD1E\uD835\uDD2B",
       "Steam": "76561198779948547",
-      "Score": 20,
-      "Time": "16:40"
+      "Score": 26,
+      "Time": "18:40"
     },
     {
       "Name": "xilo.dll",
@@ -32,15 +38,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "im a immigrant",
-      "Steam": "76561199410751476",
-      "Score": 61,
-      "Time": "48:28"
-    },
-    {
       "Name": "Alone",
       "Steam": "76561199837329294",
-      "Score": 34,
+      "Score": 40,
       "Time": "??:??"
     }
   ]
