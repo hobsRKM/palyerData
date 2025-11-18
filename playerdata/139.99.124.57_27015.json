@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-18T08:01:50.4668394Z",
+  "Time": "2025-11-18T08:03:50.4672082Z",
   "Players": [
+    {
+      "Name": "d0$ed",
+      "Steam": "76561199119357951",
+      "Score": 2,
+      "Time": "00:45"
+    },
     {
       "Name": "fake",
       "Steam": "76561198768985128",
-      "Score": 4,
-      "Time": "04:26"
+      "Score": 10,
+      "Time": "06:26"
     },
     {
       "Name": "Dzee_Gamez",
@@ -16,7 +22,7 @@
     {
       "Name": "ThisoneTurboonly",
       "Steam": "76561198772884947",
-      "Score": 46,
+      "Score": 52,
       "Time": "??:??"
     }
   ]
