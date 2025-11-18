@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-18T14:37:23.4145163Z",
+  "Time": "2025-11-18T14:39:23.4162924Z",
   "Players": [
     {
       "Name": "Miles Morales (The Prowler)",
       "Steam": "76561199711281181",
       "Score": 0,
-      "Time": "112:43"
+      "Time": "114:43"
+    },
+    {
+      "Name": "merki",
+      "Steam": "76561199872490286",
+      "Score": 2,
+      "Time": "01:03"
     },
     {
       "Name": "Pray For Sinners",
       "Steam": "76561199409832164",
-      "Score": 0,
-      "Time": "07:27"
+      "Score": 10,
+      "Time": "09:27"
     }
   ]
 }
