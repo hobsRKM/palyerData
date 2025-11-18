@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-18T05:34:50.9293109Z",
+  "Time": "2025-11-18T05:36:50.9241796Z",
   "Players": [
     {
       "Name": "\"'",
@@ -10,43 +10,49 @@
     {
       "Name": "testing nl",
       "Steam": "76561198778382323",
-      "Score": 0,
-      "Time": "17:37"
+      "Score": 6,
+      "Time": "19:37"
     },
     {
       "Name": "bakom dig",
       "Steam": "76561198806792145",
-      "Score": 42,
-      "Time": "03:28"
+      "Score": 49,
+      "Time": "05:28"
+    },
+    {
+      "Name": "GTI ENJOYER",
+      "Steam": "76561199683629255",
+      "Score": 2,
+      "Time": "01:27"
+    },
+    {
+      "Name": "< blank >",
+      "Steam": "76561199833351567",
+      "Score": 0,
+      "Time": "01:00"
     },
     {
       "Name": "Mahmoud's Kebab Shop",
       "Steam": "76561199105830408",
-      "Score": 57,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "John Doe",
       "Steam": "76561199043213580",
-      "Score": 31,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "stanky leg",
       "Steam": "76561199869327465",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Freddie14784",
       "Steam": "76561198773954646",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "DZ",
-      "Steam": "76561198767232586",
-      "Score": 5,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
