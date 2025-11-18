@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-18T08:33:50.4662631Z",
+  "Time": "2025-11-18T08:35:50.4657953Z",
   "Players": [
     {
       "Name": "fake",
       "Steam": "76561198768985128",
-      "Score": 52,
-      "Time": "36:26"
+      "Score": 56,
+      "Time": "38:26"
     },
     {
       "Name": "Dzee_Gamez",
       "Steam": "76561199865563018",
-      "Score": 20,
-      "Time": "08:11"
+      "Score": 28,
+      "Time": "10:11"
     },
     {
       "Name": "lilかんぴょう巻",
       "Steam": "76561198770580137",
-      "Score": 21,
-      "Time": "19:10"
+      "Score": 27,
+      "Time": "21:10"
     },
     {
       "Name": "ThisoneTurboonly",
       "Steam": "76561198772884947",
-      "Score": 66,
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Neo",
+      "Steam": "76561199724403388",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
