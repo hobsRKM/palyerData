@@ -1,16 +1,34 @@
 {
-  "Time": "2025-11-18T09:41:23.3714896Z",
+  "Time": "2025-11-18T09:43:23.3635061Z",
   "Players": [
+    {
+      "Name": "Dzee_Gamez",
+      "Steam": "76561199865563018",
+      "Score": 0,
+      "Time": "01:23"
+    },
     {
       "Name": "ThisoneTurboonly",
       "Steam": "76561198772884947",
-      "Score": 0,
-      "Time": "00:36"
+      "Score": 2,
+      "Time": "02:36"
     },
     {
-      "Name": "N <blank>",
+      "Name": "NIXWARE.CC <blank>",
       "Steam": "76561198771778049",
-      "Score": 32,
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD83D\uDE3C\uD83D\uDE3C\uD83D\uDE3C",
+      "Steam": "76561198776001339",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatality blond ᶻ \uD835\uDDD3 \uD803\uDC01",
+      "Steam": "76561199885332136",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
