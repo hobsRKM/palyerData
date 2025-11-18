@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-18T23:12:22.7546628Z",
+  "Time": "2025-11-18T23:14:22.753297Z",
   "Players": [
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 30,
-      "Time": "43:43"
+      "Score": 37,
+      "Time": "45:43"
     },
     {
       "Name": "promiscuous",
       "Steam": "76561198031625589",
-      "Score": 2,
-      "Time": "00:51"
+      "Score": 8,
+      "Time": "02:51"
     },
     {
       "Name": "RADICAL RACIST",
       "Steam": "76561199870945474",
       "Score": 0,
-      "Time": "05:01"
+      "Time": "07:01"
     },
     {
-      "Name": "lil bro",
-      "Steam": "76561199841628879",
-      "Score": 4,
-      "Time": "??:??"
+      "Name": "Alone",
+      "Steam": "76561199837329294",
+      "Score": 11,
+      "Time": "01:49"
+    },
+    {
+      "Name": "Orca",
+      "Steam": "76561198160133467",
+      "Score": 0,
+      "Time": "102:33"
     }
   ]
 }
