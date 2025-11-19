@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-19T10:21:47.732444Z",
+  "Time": "2025-11-19T10:23:47.7376959Z",
   "Players": [
     {
       "Name": "\"'",
@@ -10,20 +10,32 @@
     {
       "Name": "leave",
       "Steam": "76561198979208432",
-      "Score": 8,
-      "Time": "06:34"
+      "Score": 10,
+      "Time": "08:34"
+    },
+    {
+      "Name": "test",
+      "Steam": "76561198071601746",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC70 \uD835\uDC8D\uD835\uDC90\uD835\uDC97\uD835\uDC86 \uD835\uDC89\uD835\uDC8A",
       "Steam": "76561198768673635",
-      "Score": 21,
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "werty",
+      "Steam": "76561199168381160",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "мармалад",
       "Steam": "76561199383444717",
-      "Score": 66,
-      "Time": "28:57"
+      "Score": 80,
+      "Time": "30:57"
     },
     {
       "Name": "axure",
@@ -32,22 +44,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "allahchea Василий Писюн�",
+      "Name": "allahche Василий Писюн�",
       "Steam": "76561199542559010",
-      "Score": 0,
-      "Time": "02:47"
+      "Score": 9,
+      "Time": "04:47"
     },
     {
       "Name": "luvii",
       "Steam": "76561198339966370",
-      "Score": 39,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "ecstacʏ #CASEHUG",
       "Steam": "76561199151609154",
-      "Score": 50,
-      "Time": "21:48"
+      "Score": 0,
+      "Time": "23:48"
     }
   ]
 }
