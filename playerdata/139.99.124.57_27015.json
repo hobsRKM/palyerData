@@ -1,11 +1,23 @@
 {
-  "Time": "2025-11-19T06:45:18.7752369Z",
+  "Time": "2025-11-19T06:47:18.7736781Z",
   "Players": [
+    {
+      "Name": "memesense | LitRHap",
+      "Steam": "76561198768535752",
+      "Score": 44,
+      "Time": "01:50"
+    },
     {
       "Name": "Miles Morales (The Prowler)",
       "Steam": "76561199711281181",
-      "Score": 11,
-      "Time": "67:31"
+      "Score": 9,
+      "Time": "69:31"
+    },
+    {
+      "Name": "zh",
+      "Steam": "76561198772868315",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
