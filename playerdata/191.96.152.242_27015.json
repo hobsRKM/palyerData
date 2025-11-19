@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-19T20:03:45.1594566Z",
+  "Time": "2025-11-19T20:05:45.1602585Z",
   "Players": [
     {
       "Name": "Entry",
       "Steam": "76561199321025751",
-      "Score": 10,
+      "Score": 15,
       "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 36,
+      "Time": "00:27"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 111,
-      "Time": "97:50"
+      "Score": 113,
+      "Time": "99:50"
     },
     {
       "Name": "not serv",
       "Steam": "76561199622182648",
-      "Score": 6,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199889788325",
-      "Score": 83,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "John Doe",
       "Steam": "76561199043213580",
-      "Score": 49,
-      "Time": "??:??"
+      "Score": 48,
+      "Time": "01:13"
     },
     {
       "Name": "ohcarter",
@@ -40,8 +46,8 @@
     {
       "Name": "da big kirk",
       "Steam": "76561198992148678",
-      "Score": 16,
-      "Time": "11:22"
+      "Score": 24,
+      "Time": "13:22"
     },
     {
       "Name": "rayvnmoon",
@@ -52,12 +58,18 @@
     {
       "Name": "Projectile_Valid",
       "Steam": "76561199812981312",
-      "Score": 0,
-      "Time": "10:17"
+      "Score": 10,
+      "Time": "12:17"
     },
     {
       "Name": "EFT Unity Update",
       "Steam": "76561199803842244",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "that.one.biscuit",
+      "Steam": "76561198028630853",
       "Score": 0,
       "Time": "??:??"
     }
