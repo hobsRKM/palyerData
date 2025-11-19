@@ -1,53 +1,47 @@
 {
-  "Time": "2025-11-19T20:13:45.1535222Z",
+  "Time": "2025-11-19T20:15:45.1535278Z",
   "Players": [
     {
       "Name": "Entry",
       "Steam": "76561199321025751",
-      "Score": 4,
+      "Score": 17,
       "Time": "??:??"
-    },
-    {
-      "Name": "cloxid",
-      "Steam": "76561198166519466",
-      "Score": 4,
-      "Time": "08:27"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 12,
-      "Time": "107:50"
+      "Score": 24,
+      "Time": "109:50"
+    },
+    {
+      "Name": "not serv",
+      "Steam": "76561199622182648",
+      "Score": 2,
+      "Time": "01:50"
     },
     {
       "Name": "John Doe",
       "Steam": "76561199043213580",
-      "Score": 4,
-      "Time": "09:13"
+      "Score": 7,
+      "Time": "11:13"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "da big kirk",
       "Steam": "76561198992148678",
-      "Score": 4,
-      "Time": "21:22"
+      "Score": 6,
+      "Time": "23:22"
     },
     {
       "Name": "rayvnmoon",
       "Steam": "76561199434656701",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "Projectile_Valid",
-      "Steam": "76561199812981312",
-      "Score": 0,
-      "Time": "20:17"
     }
   ]
 }
