@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-19T04:40:22.743223Z",
+  "Time": "2025-11-19T04:42:22.7526831Z",
   "Players": [
+    {
+      "Name": "Entry",
+      "Steam": "76561199321025751",
+      "Score": 2,
+      "Time": "02:01"
+    },
     {
       "Name": "Bilbo",
       "Steam": "76561198999356265",
       "Score": 0,
-      "Time": "00:18"
+      "Time": "02:18"
     },
     {
       "Name": "Samson",
       "Steam": "76561199861972134",
-      "Score": 44,
-      "Time": "84:40"
+      "Score": 0,
+      "Time": "86:40"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21vyrlith",
       "Steam": "76561199800809526",
-      "Score": 35,
-      "Time": "60:29"
+      "Score": 0,
+      "Time": "62:29"
     }
   ]
 }
