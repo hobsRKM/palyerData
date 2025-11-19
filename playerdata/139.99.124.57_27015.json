@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-19T04:53:18.7823121Z",
+  "Time": "2025-11-19T04:55:18.770257Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 27,
-      "Time": "07:22"
+      "Score": 31,
+      "Time": "09:22"
     },
     {
       "Name": "Memorial",
       "Steam": "76561198774626534",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198848960112",
-      "Score": 25,
+      "Score": 33,
       "Time": "??:??"
+    },
+    {
+      "Name": "Rechstflügel77",
+      "Steam": "76561198184076693",
+      "Score": 46,
+      "Time": "01:37"
     },
     {
       "Name": "ddrfrcd",
       "Steam": "76561199711929157",
       "Score": 1,
-      "Time": "09:57"
+      "Time": "11:57"
     }
   ]
 }
