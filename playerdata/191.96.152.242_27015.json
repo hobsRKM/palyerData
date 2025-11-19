@@ -1,17 +1,29 @@
 {
-  "Time": "2025-11-19T19:55:45.1554569Z",
+  "Time": "2025-11-19T19:57:45.1468862Z",
   "Players": [
+    {
+      "Name": "Entry",
+      "Steam": "76561199321025751",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 10,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 77,
-      "Time": "89:50"
+      "Score": 88,
+      "Time": "91:50"
+    },
+    {
+      "Name": "not serv",
+      "Steam": "76561199622182648",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "M0NESY",
@@ -22,26 +34,26 @@
     {
       "Name": "Cookie",
       "Steam": "76561199889788325",
-      "Score": 72,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "John Doe",
       "Steam": "76561199043213580",
-      "Score": 33,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 8,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "da big kirk",
       "Steam": "76561198992148678",
-      "Score": 6,
-      "Time": "03:22"
+      "Score": 0,
+      "Time": "05:22"
     },
     {
       "Name": "rayvnmoon",
