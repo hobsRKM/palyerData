@@ -1,58 +1,70 @@
 {
-  "Time": "2025-11-19T10:39:18.8212886Z",
+  "Time": "2025-11-19T10:41:18.816235Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 46,
-      "Time": "102:06"
+      "Score": 47,
+      "Time": "104:06"
+    },
+    {
+      "Name": "Dzee_Gamez",
+      "Steam": "76561199865563018",
+      "Score": 0,
+      "Time": "01:11"
     },
     {
       "Name": "Rechstflügel77",
       "Steam": "76561198184076693",
-      "Score": 6,
-      "Time": "05:57"
+      "Score": 13,
+      "Time": "07:57"
     },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
-      "Score": 29,
-      "Time": "36:04"
+      "Score": 33,
+      "Time": "38:04"
     },
     {
       "Name": "Neo",
       "Steam": "76561199724403388",
-      "Score": 47,
+      "Score": 55,
       "Time": "??:??"
+    },
+    {
+      "Name": "modpb48",
+      "Steam": "76561198768717759",
+      "Score": 2,
+      "Time": "01:49"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 41,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "merki",
       "Steam": "76561199872490286",
-      "Score": 53,
-      "Time": "38:13"
+      "Score": 58,
+      "Time": "40:12"
     },
     {
       "Name": "NIXWARE.CC",
       "Steam": "76561198771778049",
-      "Score": 50,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "チルノ",
       "Steam": "76561199218048025",
-      "Score": 3,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "aimware",
       "Steam": "76561199701619934",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     }
   ]
