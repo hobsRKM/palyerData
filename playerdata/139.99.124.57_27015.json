@@ -1,52 +1,58 @@
 {
-  "Time": "2025-11-19T12:13:18.8590856Z",
+  "Time": "2025-11-19T12:15:18.8518683Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 22,
-      "Time": "16:54"
+      "Score": 30,
+      "Time": "18:54"
     },
     {
       "Name": "Dzee_Gamez",
       "Steam": "76561199865563018",
       "Score": 0,
-      "Time": "93:11"
+      "Time": "95:11"
     },
     {
       "Name": "irving.cc",
       "Steam": "76561198855414832",
-      "Score": 0,
-      "Time": "00:42"
+      "Score": 2,
+      "Time": "02:42"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 35,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 6,
-      "Time": "01:55"
+      "Score": 14,
+      "Time": "03:55"
     },
     {
       "Name": "z",
       "Steam": "76561198262261408",
-      "Score": 2,
-      "Time": "02:20"
+      "Score": 4,
+      "Time": "04:20"
     },
     {
       "Name": "7",
       "Steam": "76561198766774072",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "505 Wantan Mee",
       "Steam": "76561198983368547",
-      "Score": 7,
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sigma enjoyer",
+      "Steam": "76561198769564279",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
