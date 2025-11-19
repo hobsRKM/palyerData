@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-19T04:08:22.7525781Z",
+  "Time": "2025-11-19T04:10:22.7523537Z",
   "Players": [
     {
       "Name": "Samson",
       "Steam": "76561199861972134",
-      "Score": 6,
-      "Time": "52:40"
+      "Score": 10,
+      "Time": "54:40"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21vyrlith",
       "Steam": "76561199800809526",
-      "Score": 12,
-      "Time": "28:29"
+      "Score": 22,
+      "Time": "30:29"
     },
     {
       "Name": "kiki",
       "Steam": "76561199711887613",
-      "Score": 4,
-      "Time": "418:12"
+      "Score": 6,
+      "Time": "420:12"
+    },
+    {
+      "Name": "STP->RDP STP",
+      "Steam": "76561199861606784",
+      "Score": 0,
+      "Time": "00:25"
     }
   ]
 }
