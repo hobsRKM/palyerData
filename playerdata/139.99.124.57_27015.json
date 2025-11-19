@@ -1,41 +1,47 @@
 {
-  "Time": "2025-11-19T09:27:18.7736614Z",
+  "Time": "2025-11-19T09:29:18.7734763Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 48,
-      "Time": "30:06"
+      "Score": 58,
+      "Time": "32:06"
     },
     {
       "Name": "Dzee_Gamez",
       "Steam": "76561199865563018",
-      "Score": 37,
-      "Time": "25:53"
+      "Score": 46,
+      "Time": "27:53"
     },
     {
-      "Name": "Miles Morales (The Prowler)",
-      "Steam": "76561199711281181",
-      "Score": 40,
-      "Time": "49:17"
+      "Name": "Irving",
+      "Steam": "76561198855414832",
+      "Score": 4,
+      "Time": "02:02"
+    },
+    {
+      "Name": "truefreindacc1",
+      "Steam": "76561199568977922",
+      "Score": 0,
+      "Time": "02:02"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 95,
+      "Score": 99,
       "Time": "??:??"
     },
     {
       "Name": "merki",
       "Steam": "76561199872490286",
-      "Score": 62,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Mist",
       "Steam": "76561199877085063",
-      "Score": 52,
-      "Time": "25:14"
+      "Score": 58,
+      "Time": "27:14"
     }
   ]
 }
