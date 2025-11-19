@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-19T10:33:18.8130242Z",
+  "Time": "2025-11-19T10:35:18.8132604Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 28,
-      "Time": "96:06"
+      "Score": 30,
+      "Time": "98:06"
+    },
+    {
+      "Name": "Rechstflügel77",
+      "Steam": "76561198184076693",
+      "Score": 0,
+      "Time": "01:57"
     },
     {
       "Name": "Irving",
       "Steam": "76561198855414832",
-      "Score": 22,
-      "Time": "30:04"
+      "Score": 23,
+      "Time": "32:04"
     },
     {
       "Name": "Neo",
       "Steam": "76561199724403388",
-      "Score": 29,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 26,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "merki",
       "Steam": "76561199872490286",
-      "Score": 35,
-      "Time": "32:12"
+      "Score": 43,
+      "Time": "34:12"
     },
     {
       "Name": "NIXWARE.CC",
@@ -40,13 +46,13 @@
     {
       "Name": "チルノ",
       "Steam": "76561199218048025",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "aimware",
       "Steam": "76561199701619934",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
