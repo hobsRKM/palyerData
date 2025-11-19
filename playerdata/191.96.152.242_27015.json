@@ -1,16 +1,28 @@
 {
-  "Time": "2025-11-19T01:38:22.7453369Z",
+  "Time": "2025-11-19T01:40:22.7530357Z",
   "Players": [
+    {
+      "Name": "Techno",
+      "Steam": "76561198170327163",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ace",
       "Steam": "76561198043769839",
-      "Score": 32,
-      "Time": "05:42"
+      "Score": 4,
+      "Time": "07:42"
+    },
+    {
+      "Name": "Kirky In Turkey",
+      "Steam": "76561199812981312",
+      "Score": 4,
+      "Time": "01:54"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 61,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
