@@ -1,40 +1,46 @@
 {
-  "Time": "2025-11-19T02:52:22.7557114Z",
+  "Time": "2025-11-19T02:54:22.7540773Z",
   "Players": [
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "lbydesync0",
       "Steam": "76561198768605730",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "ウーブ ٴ",
       "Steam": "76561199570801096",
       "Score": 5,
-      "Time": "14:13"
+      "Time": "16:13"
     },
     {
       "Name": "Feetality",
       "Steam": "76561198781702164",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "\u1CBC",
       "Steam": "76561199057653248",
       "Score": 0,
-      "Time": "06:36"
+      "Time": "00:36"
     },
     {
       "Name": "Moon",
       "Steam": "76561199219276040",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
