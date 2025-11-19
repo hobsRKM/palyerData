@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-19T08:57:18.7762655Z",
+  "Time": "2025-11-19T08:59:18.7703586Z",
   "Players": [
+    {
+      "Name": "test",
+      "Steam": "76561198767240115",
+      "Score": 55,
+      "Time": "02:06"
+    },
     {
       "Name": "Miles Morales (The Prowler)",
       "Steam": "76561199711281181",
-      "Score": 23,
-      "Time": "19:17"
+      "Score": 26,
+      "Time": "21:17"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 48,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "merki",
       "Steam": "76561199872490286",
-      "Score": 44,
+      "Score": 48,
       "Time": "??:??"
     }
   ]
