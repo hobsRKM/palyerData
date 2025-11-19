@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-19T08:31:18.7749061Z",
+  "Time": "2025-11-19T08:33:18.7782709Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 44,
-      "Time": "74:39"
+      "Score": 48,
+      "Time": "76:39"
     },
     {
       "Name": "Dzee_Gamez",
       "Steam": "76561199865563018",
-      "Score": 36,
+      "Score": 38,
       "Time": "??:??"
+    },
+    {
+      "Name": "✡⃤⛴☁",
+      "Steam": "76561199060922164",
+      "Score": 2,
+      "Time": "00:54"
     },
     {
       "Name": "truefreindacc1",
       "Steam": "76561199568977922",
       "Score": 5,
-      "Time": "16:41"
+      "Time": "18:41"
     },
     {
       "Name": "@cooper on fatality",
@@ -28,7 +34,7 @@
     {
       "Name": "merki",
       "Steam": "76561199872490286",
-      "Score": 85,
+      "Score": 93,
       "Time": "??:??"
     }
   ]
