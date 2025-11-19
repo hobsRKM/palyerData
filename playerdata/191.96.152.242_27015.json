@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-19T04:52:22.7498261Z",
+  "Time": "2025-11-19T04:54:22.7558298Z",
   "Players": [
     {
       "Name": "Bilbo",
       "Steam": "76561198999356265",
-      "Score": 33,
-      "Time": "12:18"
+      "Score": 45,
+      "Time": "14:18"
     },
     {
       "Name": "Samson",
       "Steam": "76561199861972134",
-      "Score": 46,
-      "Time": "96:40"
+      "Score": 55,
+      "Time": "98:40"
+    },
+    {
+      "Name": "tepxmbwhwrudhhx",
+      "Steam": "76561199716740643",
+      "Score": 10,
+      "Time": "00:02"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21vyrlith",
       "Steam": "76561199800809526",
-      "Score": 7,
-      "Time": "72:29"
+      "Score": 0,
+      "Time": "74:29"
     },
     {
       "Name": "kiki",
       "Steam": "76561199711887613",
       "Score": 1,
-      "Time": "00:59"
+      "Time": "02:59"
     }
   ]
 }
