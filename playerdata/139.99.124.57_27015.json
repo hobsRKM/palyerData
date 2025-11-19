@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-19T05:25:18.7734366Z",
+  "Time": "2025-11-19T05:27:18.7700934Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 71,
-      "Time": "39:22"
+      "Score": 77,
+      "Time": "41:22"
     },
     {
       "Name": "Memorial",
       "Steam": "76561198774626534",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Rechstflügel77",
       "Steam": "76561198184076693",
-      "Score": 67,
-      "Time": "31:37"
+      "Score": 79,
+      "Time": "33:37"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 45,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "`A",
       "Steam": "76561199699289339",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "donafebtia1971618",
+      "Steam": "76561199734953996",
+      "Score": 0,
+      "Time": "00:18"
     }
   ]
 }
