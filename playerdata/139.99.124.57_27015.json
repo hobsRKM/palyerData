@@ -1,65 +1,71 @@
 {
-  "Time": "2025-11-19T12:53:18.8584048Z",
+  "Time": "2025-11-19T12:55:18.8537408Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 4,
-      "Time": "12:09"
+      "Score": 8,
+      "Time": "14:09"
     },
     {
       "Name": "Dzee_Gamez",
       "Steam": "76561199865563018",
       "Score": 8,
-      "Time": "133:11"
+      "Time": "135:11"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198848960112",
       "Score": 12,
-      "Time": "29:22"
+      "Time": "31:22"
     },
     {
       "Name": "mad",
       "Steam": "76561198778014163",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "modpb48",
       "Steam": "76561198768717759",
-      "Score": 0,
-      "Time": "00:19"
+      "Score": 6,
+      "Time": "02:19"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
       "Score": 13,
-      "Time": "41:55"
+      "Time": "43:55"
+    },
+    {
+      "Name": "nixware | testing slutsense.gg",
+      "Steam": "76561198772527766",
+      "Score": 2,
+      "Time": "02:16"
     },
     {
       "Name": "DADA 81 | Memesense User",
       "Steam": "76561198769547909",
-      "Score": 3,
-      "Time": "28:40"
+      "Score": 5,
+      "Time": "30:40"
     },
     {
       "Name": "z",
       "Steam": "76561198262261408",
       "Score": 0,
-      "Time": "03:09"
+      "Time": "05:09"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Monatif",
       "Steam": "76561198776998133",
-      "Score": 8,
-      "Time": "19:01"
+      "Score": 16,
+      "Time": "21:01"
     }
   ]
 }
