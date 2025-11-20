@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-20T10:20:28.156329Z",
+  "Time": "2025-11-20T10:22:28.1484252Z",
   "Players": [
     {
       "Name": "Pray For Mercy",
@@ -11,31 +11,37 @@
       "Name": "test",
       "Steam": "76561198767240115",
       "Score": 73,
-      "Time": "32:32"
+      "Time": "34:32"
     },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
-      "Score": 24,
-      "Time": "102:25"
+      "Score": 28,
+      "Time": "104:25"
     },
     {
       "Name": "Rechstflügel77",
       "Steam": "76561198184076693",
-      "Score": 92,
-      "Time": "64:00"
+      "Score": 101,
+      "Time": "66:00"
     },
     {
       "Name": "Mist",
       "Steam": "76561199877085063",
-      "Score": 70,
-      "Time": "24:25"
+      "Score": 74,
+      "Time": "26:25"
     },
     {
       "Name": "zywoo",
       "Steam": "76561199845127629",
-      "Score": 65,
-      "Time": "52:01"
+      "Score": 77,
+      "Time": "54:01"
+    },
+    {
+      "Name": "baby boss",
+      "Steam": "76561199122053851",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
