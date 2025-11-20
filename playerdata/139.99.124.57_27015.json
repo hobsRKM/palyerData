@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-20T17:14:29.3863815Z",
+  "Time": "2025-11-20T17:16:29.3855909Z",
   "Players": [
     {
       "Name": "那晚我好累",
       "Steam": "76561199385447331",
-      "Score": 4,
-      "Time": "13:15"
+      "Score": 6,
+      "Time": "15:15"
+    },
+    {
+      "Name": "Kalashnikov",
+      "Steam": "76561199493991967",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "baby boss",
       "Steam": "76561199122053851",
-      "Score": 2,
-      "Time": "33:51"
+      "Score": 6,
+      "Time": "35:51"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 18,
-      "Time": "87:45"
+      "Score": 20,
+      "Time": "89:45"
     }
   ]
 }
