@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-20T01:55:10.6665866Z",
-  "Players": []
+  "Time": "2025-11-20T01:55:50.6775429Z",
+  "Players": [
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 2,
+      "Time": "01:21"
+    },
+    {
+      "Name": "kamil.alwaysfresh",
+      "Steam": "76561199852055471",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vsync",
+      "Steam": "76561199503396912",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "papaprapet",
+      "Steam": "76561199513152921",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "laserxdgf",
+      "Steam": "76561199477888664",
+      "Score": 12,
+      "Time": "??:??"
+    }
+  ]
 }
