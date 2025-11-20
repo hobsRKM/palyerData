@@ -1,58 +1,58 @@
 {
-  "Time": "2025-11-20T20:00:05.4644123Z",
+  "Time": "2025-11-20T20:02:05.4670311Z",
   "Players": [
+    {
+      "Name": "violent robot",
+      "Steam": "76561198770272802",
+      "Score": 3,
+      "Time": "01:38"
+    },
     {
       "Name": "TestingCapybara",
       "Steam": "76561199878471333",
-      "Score": 0,
-      "Time": "01:40"
+      "Score": 1,
+      "Time": "03:40"
     },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 54,
-      "Time": "18:01"
+      "Score": 60,
+      "Time": "20:01"
     },
     {
       "Name": "Entry",
       "Steam": "76561199321025751",
-      "Score": 50,
-      "Time": "52:37"
-    },
-    {
-      "Name": "ohcarter",
-      "Steam": "76561198772153840",
-      "Score": 14,
-      "Time": "18:48"
-    },
-    {
-      "Name": "snac",
-      "Steam": "76561199557563135",
-      "Score": 39,
-      "Time": "??:??"
+      "Score": 56,
+      "Time": "54:37"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 20,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Kenny",
       "Steam": "76561199338121392",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "oyw",
       "Steam": "76561198771333148",
-      "Score": 22,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "☆Z",
       "Steam": "76561199516524421",
-      "Score": 0,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Miraj Wallbang Instructor",
+      "Steam": "76561199863654821",
+      "Score": 6,
       "Time": "??:??"
     }
   ]
