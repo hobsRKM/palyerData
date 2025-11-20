@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-20T07:12:28.1421118Z",
+  "Time": "2025-11-20T07:14:28.1494924Z",
   "Players": [
     {
       "Name": "Memorial",
       "Steam": "76561198774626534",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 25,
-      "Time": "44:47"
+      "Score": 35,
+      "Time": "46:47"
     },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 21,
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TONI",
+      "Steam": "76561199085527765",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
