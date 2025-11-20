@@ -1,40 +1,40 @@
 {
-  "Time": "2025-11-20T16:26:05.4734278Z",
+  "Time": "2025-11-20T16:28:05.4623125Z",
   "Players": [
-    {
-      "Name": "yuke",
-      "Steam": "76561199798070831",
-      "Score": 19,
-      "Time": "??:??"
-    },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 10,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Entry",
       "Steam": "76561199321025751",
-      "Score": 56,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "drunk jeep",
       "Steam": "76561199480293261",
-      "Score": 38,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Mqtt",
       "Steam": "76561198771017772",
-      "Score": 13,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Peter Griffin",
       "Steam": "76561199777676248",
-      "Score": 11,
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Top Shelf",
+      "Steam": "76561199660225579",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
