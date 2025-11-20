@@ -1,71 +1,77 @@
 {
-  "Time": "2025-11-20T08:40:28.155857Z",
+  "Time": "2025-11-20T08:42:28.1517736Z",
   "Players": [
     {
       "Name": "Memorial",
       "Steam": "76561198774626534",
-      "Score": 4,
-      "Time": "03:53"
+      "Score": 3,
+      "Time": "05:53"
     },
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 21,
-      "Time": "49:59"
+      "Score": 27,
+      "Time": "51:59"
     },
     {
       "Name": "mad",
       "Steam": "76561198778014163",
-      "Score": 17,
-      "Time": "80:23"
+      "Score": 19,
+      "Time": "82:23"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
-      "Time": "69:29"
+      "Score": 7,
+      "Time": "71:29"
     },
     {
       "Name": "ThisoneTurboonly",
       "Steam": "76561198772884947",
-      "Score": 25,
-      "Time": "86:01"
+      "Score": 41,
+      "Time": "88:01"
     },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
       "Score": 0,
-      "Time": "02:25"
+      "Time": "04:25"
     },
     {
       "Name": "TONI",
       "Steam": "76561199085527765",
       "Score": 2,
-      "Time": "02:13"
+      "Time": "01:08"
     },
     {
       "Name": "那晚我好累",
       "Steam": "76561199385447331",
-      "Score": 5,
-      "Time": "03:25"
+      "Score": 8,
+      "Time": "05:25"
     },
     {
       "Name": "Rechstflügel77",
       "Steam": "76561198184076693",
-      "Score": 2,
-      "Time": "20:07"
+      "Score": 15,
+      "Time": "22:07"
     },
     {
       "Name": "Mist",
       "Steam": "76561199877085063",
-      "Score": 15,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "amoone.",
       "Steam": "76561199488761222",
-      "Score": 0,
-      "Time": "00:07"
+      "Score": 3,
+      "Time": "02:07"
+    },
+    {
+      "Name": "zywoo",
+      "Steam": "76561199845127629",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
