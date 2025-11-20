@@ -1,41 +1,47 @@
 {
-  "Time": "2025-11-20T18:08:05.4635105Z",
+  "Time": "2025-11-20T18:10:05.4734504Z",
   "Players": [
     {
       "Name": "Mrow",
       "Steam": "76561199402054529",
-      "Score": 123,
-      "Time": "61:52"
+      "Score": 129,
+      "Time": "63:52"
+    },
+    {
+      "Name": "ax1ng",
+      "Steam": "76561198353986841",
+      "Score": 2,
+      "Time": "01:53"
     },
     {
       "Name": "?",
       "Steam": "76561199811991561",
-      "Score": 49,
-      "Time": "02:56"
+      "Score": 51,
+      "Time": "04:56"
     },
     {
-      "Name": "bite trip",
+      "Name": "bit trip",
       "Steam": "76561198428564314",
       "Score": 46,
-      "Time": "41:07"
+      "Time": "43:07"
     },
     {
       "Name": "snac",
       "Steam": "76561199557563135",
-      "Score": 56,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "not serv",
       "Steam": "76561199622182648",
-      "Score": 43,
-      "Time": "03:02"
+      "Score": 48,
+      "Time": "05:02"
     },
     {
       "Name": "Trevor",
       "Steam": "76561199860216408",
-      "Score": 10,
-      "Time": "01:22"
+      "Score": 14,
+      "Time": "03:22"
     }
   ]
 }
