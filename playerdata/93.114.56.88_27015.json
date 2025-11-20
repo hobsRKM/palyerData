@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-20T03:24:26.4182237Z",
+  "Time": "2025-11-20T03:26:26.4196694Z",
   "Players": [
     {
       "Name": "Bhg",
@@ -10,13 +10,19 @@
     {
       "Name": "get tapped",
       "Steam": "76561199884686345",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "polo mosca",
       "Steam": "76561198766587712",
-      "Score": 8,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "testing nl",
+      "Steam": "76561198778382323",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
