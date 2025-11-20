@@ -1,53 +1,65 @@
 {
-  "Time": "2025-11-20T23:48:05.476276Z",
+  "Time": "2025-11-20T23:50:05.4726225Z",
   "Players": [
+    {
+      "Name": "mterrible",
+      "Steam": "76561198872538136",
+      "Score": 4,
+      "Time": "467:42"
+    },
     {
       "Name": "@76pz #AntiChrist",
       "Steam": "76561198769191835",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "7nt8",
       "Steam": "76561199682135667",
-      "Score": 4,
-      "Time": "19:45"
+      "Score": 8,
+      "Time": "21:45"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 42,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "\u1CBC黑鬼",
       "Steam": "76561199057653248",
       "Score": 2,
-      "Time": "27:46"
+      "Time": "29:46"
     },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 32,
-      "Time": "246:01"
+      "Score": 35,
+      "Time": "248:01"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 26,
-      "Time": "26:32"
+      "Score": 36,
+      "Time": "28:32"
     },
     {
       "Name": "Projectile_Valid",
       "Steam": "76561199812981312",
-      "Score": 12,
-      "Time": "15:08"
+      "Score": 20,
+      "Time": "17:08"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 24,
-      "Time": "19:37"
+      "Score": 29,
+      "Time": "21:37"
+    },
+    {
+      "Name": "TwiZZy",
+      "Steam": "76561198770678661",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Goon King",
@@ -56,16 +68,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "Chimpanzini Bananini",
-      "Steam": "76561199518802099",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
       "Name": "snow",
       "Steam": "76561198059477947",
-      "Score": 0,
-      "Time": "01:15"
+      "Score": 2,
+      "Time": "03:15"
     }
   ]
 }
