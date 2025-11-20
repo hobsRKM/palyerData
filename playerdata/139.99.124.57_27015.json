@@ -1,34 +1,46 @@
 {
-  "Time": "2025-11-20T11:24:28.1371826Z",
+  "Time": "2025-11-20T11:26:28.1462936Z",
   "Players": [
+    {
+      "Name": "Pray For Mercy",
+      "Steam": "76561198774626534",
+      "Score": 0,
+      "Time": "01:14"
+    },
     {
       "Name": "ThisoneTurboonly",
       "Steam": "76561198772884947",
-      "Score": 34,
-      "Time": "24:32"
+      "Score": 41,
+      "Time": "26:32"
     },
     {
       "Name": "baby boss",
       "Steam": "76561199122053851",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "挨打神nixware",
+      "Steam": "76561198778813347",
+      "Score": 0,
+      "Time": "01:49"
     },
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 38,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "天空位",
       "Steam": "76561198781709289",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "boink",
       "Steam": "76561199835798753",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
