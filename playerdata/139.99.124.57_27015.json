@@ -1,82 +1,88 @@
 {
-  "Time": "2025-11-20T08:04:28.1623993Z",
+  "Time": "2025-11-20T08:06:28.1475373Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 17,
-      "Time": "13:59"
+      "Score": 23,
+      "Time": "15:59"
     },
     {
       "Name": "チルノ",
       "Steam": "76561199218048025",
       "Score": 0,
-      "Time": "25:50"
+      "Time": "27:50"
     },
     {
       "Name": "mad",
       "Steam": "76561198778014163",
-      "Score": 73,
-      "Time": "44:23"
+      "Score": 77,
+      "Time": "46:23"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 67,
-      "Time": "33:29"
+      "Score": 69,
+      "Time": "35:29"
     },
     {
       "Name": "ThisoneTurboonly",
       "Steam": "76561198772884947",
-      "Score": 115,
-      "Time": "50:01"
+      "Score": 128,
+      "Time": "52:01"
     },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
-      "Score": 39,
-      "Time": "07:12"
+      "Score": 49,
+      "Time": "09:12"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 44,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "TONI",
       "Steam": "76561199085527765",
-      "Score": 0,
-      "Time": "47:11"
+      "Score": 2,
+      "Time": "49:11"
     },
     {
       "Name": "言玖",
       "Steam": "76561198776744677",
-      "Score": 79,
-      "Time": "47:35"
+      "Score": 82,
+      "Time": "49:35"
     },
     {
       "Name": "那晚我好累",
       "Steam": "76561199385447331",
-      "Score": 35,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "Ko1shiQwQ",
       "Steam": "76561199549941285",
-      "Score": 4,
-      "Time": "25:21"
+      "Score": 6,
+      "Time": "27:21"
     },
     {
-      "Name": "fatality | testing slutsense.gg",
+      "Name": "| testing slutsense.gg",
       "Steam": "76561198772527766",
-      "Score": 8,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Rechstflügel77",
       "Steam": "76561198184076693",
-      "Score": 3,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Die_contrast",
+      "Steam": "76561198782172023",
+      "Score": 5,
       "Time": "??:??"
     }
   ]
