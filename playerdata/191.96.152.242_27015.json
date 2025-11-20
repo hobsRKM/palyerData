@@ -1,46 +1,46 @@
 {
-  "Time": "2025-11-20T20:04:05.472158Z",
+  "Time": "2025-11-20T20:06:05.4687562Z",
   "Players": [
     {
       "Name": "violent robot",
       "Steam": "76561198770272802",
-      "Score": 13,
-      "Time": "03:38"
+      "Score": 15,
+      "Time": "05:38"
     },
     {
       "Name": "TestingCapybara",
       "Steam": "76561199878471333",
       "Score": 3,
-      "Time": "05:40"
+      "Time": "07:40"
     },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 62,
-      "Time": "22:01"
+      "Score": 68,
+      "Time": "24:01"
     },
     {
       "Name": "Entry",
       "Steam": "76561199321025751",
       "Score": 58,
-      "Time": "56:37"
+      "Time": "58:37"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Kenny",
       "Steam": "76561199338121392",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "oyw",
       "Steam": "76561198771333148",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
     },
     {
@@ -52,7 +52,13 @@
     {
       "Name": "Miraj Wallbang Instructor",
       "Steam": "76561199863654821",
-      "Score": 23,
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BannedFromGS=Under investigation",
+      "Steam": "76561199554510877",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
