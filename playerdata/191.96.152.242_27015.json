@@ -1,64 +1,76 @@
 {
-  "Time": "2025-11-20T20:34:05.4646793Z",
+  "Time": "2025-11-20T20:36:05.4737008Z",
   "Players": [
     {
       "Name": "Carl Wheezer",
       "Steam": "76561199492834313",
-      "Score": 22,
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "da big kirk",
+      "Steam": "76561198992148678",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "小偷",
+      "Steam": "76561197995675648",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 69,
-      "Time": "52:01"
+      "Score": 79,
+      "Time": "54:01"
     },
     {
       "Name": "Entry",
       "Steam": "76561199321025751",
       "Score": 75,
-      "Time": "86:37"
+      "Time": "88:37"
     },
     {
       "Name": "Projectile_Valid",
       "Steam": "76561199812981312",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "dog",
       "Steam": "76561198152847871",
-      "Score": 52,
-      "Time": "27:30"
+      "Score": 58,
+      "Time": "29:30"
     },
     {
       "Name": "oyw",
       "Steam": "76561198771333148",
-      "Score": 43,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "☆Z",
       "Steam": "76561199516524421",
-      "Score": 43,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "CTRL ALT DELICIOUS",
       "Steam": "76561199882217452",
       "Score": 7,
-      "Time": "09:00"
+      "Time": "11:00"
     },
     {
       "Name": "BannedFromGS=Under investigation",
       "Steam": "76561199554510877",
-      "Score": 46,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "John Doe",
       "Steam": "76561199043213580",
-      "Score": 32,
+      "Score": 36,
       "Time": "??:??"
     }
   ]
