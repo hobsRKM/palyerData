@@ -1,29 +1,41 @@
 {
-  "Time": "2025-11-20T17:44:29.7805042Z",
+  "Time": "2025-11-20T17:46:29.7867356Z",
   "Players": [
+    {
+      "Name": "t.me/ryandeck27",
+      "Steam": "76561199754319257",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Multi Kai >3",
       "Steam": "76561199702036601",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "那晚我好累",
       "Steam": "76561199385447331",
-      "Score": 3,
-      "Time": "43:16"
+      "Score": 7,
+      "Time": "45:16"
+    },
+    {
+      "Name": "y.y",
+      "Steam": "76561199121512995",
+      "Score": 0,
+      "Time": "00:10"
     },
     {
       "Name": "baby boss",
       "Steam": "76561199122053851",
-      "Score": 16,
-      "Time": "63:52"
+      "Score": 18,
+      "Time": "65:52"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 30,
-      "Time": "117:46"
+      "Score": 33,
+      "Time": "119:46"
     }
   ]
 }
