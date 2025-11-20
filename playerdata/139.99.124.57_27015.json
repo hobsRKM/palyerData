@@ -1,75 +1,81 @@
 {
-  "Time": "2025-11-20T08:00:28.1482686Z",
+  "Time": "2025-11-20T08:02:28.1437859Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
       "Score": 15,
-      "Time": "09:59"
+      "Time": "11:59"
     },
     {
       "Name": "チルノ",
       "Steam": "76561199218048025",
       "Score": 0,
-      "Time": "21:50"
+      "Time": "23:50"
     },
     {
       "Name": "mad",
       "Steam": "76561198778014163",
-      "Score": 64,
-      "Time": "40:23"
+      "Score": 66,
+      "Time": "42:23"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 61,
-      "Time": "29:29"
+      "Score": 67,
+      "Time": "31:29"
     },
     {
       "Name": "ThisoneTurboonly",
       "Steam": "76561198772884947",
-      "Score": 97,
-      "Time": "46:01"
+      "Score": 105,
+      "Time": "48:01"
     },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
-      "Score": 35,
-      "Time": "03:12"
+      "Score": 37,
+      "Time": "05:12"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "TONI",
       "Steam": "76561199085527765",
-      "Score": 0,
-      "Time": "43:11"
+      "Score": 1,
+      "Time": "45:11"
     },
     {
       "Name": "言玖",
       "Steam": "76561198776744677",
-      "Score": 60,
-      "Time": "43:35"
+      "Score": 67,
+      "Time": "45:35"
     },
     {
       "Name": "那晚我好累",
       "Steam": "76561199385447331",
-      "Score": 23,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Ko1shiQwQ",
       "Steam": "76561199549941285",
       "Score": 0,
-      "Time": "21:21"
+      "Time": "23:21"
     },
     {
       "Name": "testing slutsense.gg",
       "Steam": "76561198772527766",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rechstflügel77",
+      "Steam": "76561198184076693",
       "Score": 0,
       "Time": "??:??"
     }
