@@ -1,17 +1,17 @@
 {
-  "Time": "2025-11-20T12:12:28.1472162Z",
+  "Time": "2025-11-20T12:14:28.1411199Z",
   "Players": [
+    {
+      "Name": "Pray For Mercy",
+      "Steam": "76561198774626534",
+      "Score": 0,
+      "Time": "00:07"
+    },
     {
       "Name": "lilかんぴょう巻",
       "Steam": "76561198770580137",
       "Score": 61,
-      "Time": "19:37"
-    },
-    {
-      "Name": "героический",
-      "Steam": "76561199582103015",
-      "Score": 0,
-      "Time": "00:34"
+      "Time": "21:37"
     },
     {
       "Name": "baby boss",
@@ -26,27 +26,21 @@
       "Time": "??:??"
     },
     {
-      "Name": "天空位",
-      "Steam": "76561198781709289",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
       "Name": "boink",
       "Steam": "76561199835798753",
-      "Score": 57,
+      "Score": 61,
       "Time": "??:??"
     },
     {
-      "Name": "high pin groyper",
+      "Name": "high ping groyper",
       "Steam": "76561199844610139",
       "Score": 36,
       "Time": "??:??"
     },
     {
-      "Name": "DihSense FENG",
+      "Name": "DihSen FENG",
       "Steam": "76561198055938307",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     }
   ]
