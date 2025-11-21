@@ -1,47 +1,95 @@
 {
-  "Time": "2025-11-21T22:23:44.7270755Z",
+  "Time": "2025-11-21T22:24:00.4991228Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "cid",
+      "Steam": "76561199193028780",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "575:43"
-    },
-    {
-      "Name": "jacper",
-      "Steam": "76561199492563531",
-      "Score": 25,
       "Time": "??:??"
     },
     {
-      "Name": "ava",
-      "Steam": "76561198843347921",
-      "Score": 28,
+      "Name": "Ratkorb",
+      "Steam": "76561199875962817",
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "Grajchłopiec Kasti",
-      "Steam": "76561199833286399",
-      "Score": 25,
-      "Time": "173:28"
+      "Name": "Neth",
+      "Steam": "76561198768647512",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
-      "Name": "@wakata",
-      "Steam": "76561198305488785",
+      "Name": "Marko",
+      "Steam": "76561198303518589",
+      "Score": 4,
+      "Time": "184:04"
+    },
+    {
+      "Name": "SIM",
+      "Steam": "76561198772049239",
+      "Score": 25,
+      "Time": "87:54"
+    },
+    {
+      "Name": "EsKa",
+      "Steam": "76561198109674251",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ryze",
+      "Steam": "76561199068166196",
+      "Score": 4,
+      "Time": "11:31"
+    },
+    {
+      "Name": "Blank",
+      "Steam": "76561199396651185",
+      "Score": 5,
+      "Time": "125:43"
+    },
+    {
+      "Name": "Cat",
+      "Steam": "76561199100246231",
+      "Score": 27,
+      "Time": "09:55"
+    },
+    {
+      "Name": "armut",
+      "Steam": "76561198767242379",
+      "Score": 22,
+      "Time": "734:17"
+    },
+    {
+      "Name": "2 dollar cheat",
+      "Steam": "76561199396814463",
+      "Score": 18,
+      "Time": "51:54"
+    },
+    {
+      "Name": "Jamal",
+      "Steam": "76561199876996526",
+      "Score": 5,
+      "Time": "06:48"
+    },
+    {
+      "Name": "epsteinhook",
+      "Steam": "76561199636341788",
       "Score": 0,
-      "Time": "28:12"
-    },
-    {
-      "Name": "hejlp ther is wa rat imn walls",
-      "Steam": "76561199076923193",
-      "Score": 63,
       "Time": "??:??"
     },
     {
-      "Name": "ALPI",
-      "Steam": "76561199095457030",
-      "Score": 1,
-      "Time": "??:??"
+      "Name": "kompanie",
+      "Steam": "76561199404381221",
+      "Score": 18,
+      "Time": "134:02"
     }
   ]
 }
