@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-21T16:38:32.7575992Z",
+  "Time": "2025-11-21T16:40:32.7585067Z",
   "Players": [
     {
       "Name": "Feetality",
       "Steam": "76561198781702164",
-      "Score": 60,
-      "Time": "25:34"
+      "Score": 65,
+      "Time": "27:34"
     },
     {
       "Name": "trip",
       "Steam": "76561198428564314",
-      "Score": 10,
-      "Time": "03:55"
+      "Score": 16,
+      "Time": "05:55"
     },
     {
       "Name": "manipulate me",
       "Steam": "76561199844832166",
-      "Score": 35,
-      "Time": "17:15"
+      "Score": 41,
+      "Time": "19:15"
+    },
+    {
+      "Name": "Bilbo",
+      "Steam": "76561198999356265",
+      "Score": 6,
+      "Time": "??:??"
     }
   ]
 }
