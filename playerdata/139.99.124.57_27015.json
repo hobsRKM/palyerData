@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-21T18:46:46.4836818Z",
+  "Time": "2025-11-21T18:48:46.4736918Z",
   "Players": [
     {
       "Name": "aimware",
       "Steam": "76561199701619934",
-      "Score": 8,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "汤姆",
+      "Steam": "76561199389678008",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "BEST JOKER LOLOLOLOLOL\uD83E\uDD2C",
       "Steam": "76561198786353676",
-      "Score": 15,
-      "Time": "48:21"
+      "Score": 19,
+      "Time": "50:21"
     }
   ]
 }
