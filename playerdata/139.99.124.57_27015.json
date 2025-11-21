@@ -1,40 +1,52 @@
 {
-  "Time": "2025-11-21T13:35:12.3133208Z",
+  "Time": "2025-11-21T13:37:12.3075859Z",
   "Players": [
+    {
+      "Name": "Arthur",
+      "Steam": "76561198772884947",
+      "Score": 4,
+      "Time": "01:10"
+    },
     {
       "Name": "◥▶‿◀◤",
       "Steam": "76561199474094565",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "✡⃤⛴☁",
       "Steam": "76561199060922164",
-      "Score": 0,
-      "Time": "02:20"
+      "Score": 10,
+      "Time": "04:20"
     },
     {
       "Name": "nevverupdate.cc",
       "Steam": "76561198775769424",
-      "Score": 7,
-      "Time": "04:07"
+      "Score": 11,
+      "Time": "06:07"
     },
     {
       "Name": "baby boss",
       "Steam": "76561199122053851",
-      "Score": 6,
-      "Time": "02:57"
+      "Score": 10,
+      "Time": "04:57"
     },
     {
       "Name": "挨打神nixware",
       "Steam": "76561198778813347",
       "Score": 4,
-      "Time": "10:00"
+      "Time": "12:00"
+    },
+    {
+      "Name": "WALMART SHOPPING CART",
+      "Steam": "76561198775933132",
+      "Score": 2,
+      "Time": "02:02"
     },
     {
       "Name": "boink",
       "Steam": "76561199835798753",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
