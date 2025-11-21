@@ -1,46 +1,52 @@
 {
-  "Time": "2025-11-21T22:52:32.7648504Z",
+  "Time": "2025-11-21T22:54:32.7650771Z",
   "Players": [
     {
       "Name": "A",
       "Steam": "76561199062260805",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ronny is tight",
+      "Steam": "76561199821597360",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "simply",
       "Steam": "76561199795780523",
-      "Score": 4,
-      "Time": "03:49"
-    },
-    {
-      "Name": "rayvnmoon",
-      "Steam": "76561199434656701",
-      "Score": 24,
-      "Time": "56:28"
+      "Score": 6,
+      "Time": "05:49"
     },
     {
       "Name": "foobar",
       "Steam": "76561197963749136",
       "Score": 6,
-      "Time": "37:15"
+      "Time": "39:15"
     },
     {
       "Name": "SuckMyBump",
       "Steam": "76561199473656862",
       "Score": 19,
-      "Time": "27:54"
+      "Time": "29:54"
+    },
+    {
+      "Name": "ja",
+      "Steam": "76561198413420806",
+      "Score": 79,
+      "Time": "01:58"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
       "Score": 30,
-      "Time": "46:06"
+      "Time": "48:06"
     },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 125,
+      "Score": 133,
       "Time": "??:??"
     },
     {
@@ -52,37 +58,31 @@
     {
       "Name": "goonbau",
       "Steam": "76561198786299043",
-      "Score": 2,
-      "Time": "00:15"
+      "Score": 0,
+      "Time": "02:15"
     },
     {
       "Name": "John",
       "Steam": "76561199829164814",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "wvrjokw852",
       "Steam": "76561198791845895",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Vacuum Decoherence Keychain",
       "Steam": "76561198771750240",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "\uD834\uDD03\uD834\uDD02\uD834\uDD00\uD834\uDD01\uD834\uDD03\uD834\uDD02",
       "Steam": "76561199562186125",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "пунпун Онодэра",
-      "Steam": "76561198766177765",
-      "Score": 1,
       "Time": "??:??"
     }
   ]
