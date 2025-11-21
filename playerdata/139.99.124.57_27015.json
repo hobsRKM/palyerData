@@ -1,52 +1,58 @@
 {
-  "Time": "2025-11-21T11:10:13.2440308Z",
+  "Time": "2025-11-21T11:12:13.2402652Z",
   "Players": [
     {
       "Name": "Pray For Mercy",
       "Steam": "76561198774626534",
-      "Score": 74,
-      "Time": "299:12"
+      "Score": 82,
+      "Time": "301:12"
     },
     {
       "Name": "Arthur",
       "Steam": "76561198772884947",
-      "Score": 27,
-      "Time": "08:41"
+      "Score": 33,
+      "Time": "10:41"
     },
     {
       "Name": "스피드 강지",
       "Steam": "76561198769564279",
       "Score": 8,
-      "Time": "01:30"
+      "Time": "03:30"
     },
     {
       "Name": "nixware.cc",
       "Steam": "76561198055938307",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "zh-dysnc",
       "Steam": "76561199871595631",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
-      "Name": "Counter-Terrorist | 1",
+      "Name": "1",
       "Steam": "76561199303359682",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "LyingKM",
       "Steam": "76561198805042586",
-      "Score": 8,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "test",
+      "Steam": "76561198767240115",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
