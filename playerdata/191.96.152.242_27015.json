@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-21T15:44:32.7652885Z",
+  "Time": "2025-11-21T15:46:32.7653807Z",
   "Players": [
+    {
+      "Name": "isthistheend?",
+      "Steam": "76561199800809526",
+      "Score": 2,
+      "Time": "01:11"
+    },
     {
       "Name": "beanboy✮⋆",
       "Steam": "76561199570801096",
-      "Score": 50,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "Hush / Fatality.win",
       "Steam": "76561199889141939",
-      "Score": 63,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "Entry™ (Dihpressed)",
       "Steam": "76561199452451594",
       "Score": 45,
-      "Time": "10:50"
+      "Time": "12:50"
     }
   ]
 }
