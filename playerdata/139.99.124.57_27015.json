@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-21T02:30:54.4180427Z",
+  "Time": "2025-11-21T02:32:54.4210295Z",
   "Players": [
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "LitRHap",
+      "Name": "gamesense | LitRHap",
       "Steam": "76561198768535752",
+      "Score": 6,
+      "Time": "02:39"
+    },
+    {
+      "Name": "天空位",
+      "Steam": "76561198781709289",
       "Score": 2,
-      "Time": "00:39"
+      "Time": "??:??"
     }
   ]
 }
