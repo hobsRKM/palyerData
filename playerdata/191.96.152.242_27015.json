@@ -1,29 +1,29 @@
 {
-  "Time": "2025-11-21T16:12:32.7697915Z",
+  "Time": "2025-11-21T16:14:32.7726607Z",
   "Players": [
+    {
+      "Name": "Feetality",
+      "Steam": "76561198781702164",
+      "Score": 6,
+      "Time": "01:34"
+    },
     {
       "Name": "isthistheend?",
       "Steam": "76561199800809526",
-      "Score": 67,
-      "Time": "27:11"
+      "Score": 68,
+      "Time": "29:11"
     },
     {
       "Name": "beanboy✮⋆",
       "Steam": "76561199570801096",
-      "Score": 16,
-      "Time": "13:12"
+      "Score": 18,
+      "Time": "15:12"
     },
     {
       "Name": "Entry™ (Dihpressed)",
       "Steam": "76561199452451594",
-      "Score": 52,
-      "Time": "38:50"
-    },
-    {
-      "Name": "trip",
-      "Steam": "76561198428564314",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 58,
+      "Time": "40:50"
     }
   ]
 }
