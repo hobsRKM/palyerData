@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-21T06:18:13.9564607Z",
+  "Time": "2025-11-21T06:20:13.9471274Z",
   "Players": [
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "NL AKA SKEET KILLER",
       "Steam": "76561199785642173",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
+    },
+    {
+      "Name": "STP->RDP STP",
+      "Steam": "76561199861606784",
+      "Score": 0,
+      "Time": "00:47"
     },
     {
       "Name": "Entry",
@@ -22,13 +28,7 @@
     {
       "Name": "mangos",
       "Steam": "76561198786299043",
-      "Score": 3,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mterrible",
-      "Steam": "76561198872538136",
-      "Score": 4,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
