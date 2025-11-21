@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-21T07:20:13.9534339Z",
+  "Time": "2025-11-21T07:22:13.9540284Z",
   "Players": [
+    {
+      "Name": "Ozai",
+      "Steam": "76561199156395215",
+      "Score": 2,
+      "Time": "01:12"
+    },
     {
       "Name": "NL AKA SKEET KILLER",
       "Steam": "76561199785642173",
-      "Score": 19,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Entry",
       "Steam": "76561199321025751",
-      "Score": 4,
-      "Time": "42:57"
+      "Score": 5,
+      "Time": "44:57"
     },
     {
       "Name": "swag",
       "Steam": "76561199780975796",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Ripped my Pants",
       "Steam": "76561199473656862",
-      "Score": 2,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
