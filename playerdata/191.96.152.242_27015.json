@@ -1,64 +1,76 @@
 {
-  "Time": "2025-11-21T22:50:32.7700361Z",
+  "Time": "2025-11-21T22:52:32.7648504Z",
   "Players": [
+    {
+      "Name": "A",
+      "Steam": "76561199062260805",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "simply",
       "Steam": "76561199795780523",
-      "Score": 0,
-      "Time": "01:49"
+      "Score": 4,
+      "Time": "03:49"
     },
     {
       "Name": "rayvnmoon",
       "Steam": "76561199434656701",
-      "Score": 22,
-      "Time": "54:28"
+      "Score": 24,
+      "Time": "56:28"
     },
     {
       "Name": "foobar",
       "Steam": "76561197963749136",
       "Score": 6,
-      "Time": "35:15"
+      "Time": "37:15"
     },
     {
       "Name": "SuckMyBump",
       "Steam": "76561199473656862",
       "Score": 19,
-      "Time": "25:54"
+      "Time": "27:54"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
       "Score": 30,
-      "Time": "44:06"
+      "Time": "46:06"
     },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 121,
+      "Score": 125,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 75,
+      "Score": 77,
       "Time": "??:??"
+    },
+    {
+      "Name": "goonbau",
+      "Steam": "76561198786299043",
+      "Score": 2,
+      "Time": "00:15"
     },
     {
       "Name": "John",
       "Steam": "76561199829164814",
-      "Score": 2,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "wvrjokw852",
       "Steam": "76561198791845895",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Vacuum Decoherence Keychain",
       "Steam": "76561198771750240",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -70,7 +82,7 @@
     {
       "Name": "пунпун Онодэра",
       "Steam": "76561198766177765",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
