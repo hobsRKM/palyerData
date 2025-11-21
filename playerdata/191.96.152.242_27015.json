@@ -1,11 +1,11 @@
 {
-  "Time": "2025-11-21T23:54:32.7846203Z",
+  "Time": "2025-11-21T23:56:32.7844368Z",
   "Players": [
     {
       "Name": "malwaremalwll",
       "Steam": "76561198778361538",
-      "Score": 22,
-      "Time": "07:33"
+      "Score": 28,
+      "Time": "09:33"
     },
     {
       "Name": "FlooperBHOPS",
@@ -14,10 +14,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "RaZon",
+      "Steam": "76561198036778566",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "foobar",
       "Steam": "76561197963749136",
       "Score": 0,
-      "Time": "99:15"
+      "Time": "101:15"
     }
   ]
 }
