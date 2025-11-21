@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-21T04:28:38.5274853Z",
-  "Players": []
+  "Time": "2025-11-21T04:29:42.0480012Z",
+  "Players": [
+    {
+      "Name": "\"'",
+      "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561198766714909",
+      "Score": 18,
+      "Time": "16:30"
+    },
+    {
+      "Name": "Asteriod Destoyer",
+      "Steam": "76561198770929895",
+      "Score": 46,
+      "Time": "05:25"
+    },
+    {
+      "Name": "fatality | StellarVoyager",
+      "Steam": "76561198784626293",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
