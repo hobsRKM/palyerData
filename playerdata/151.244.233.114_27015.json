@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-22T22:21:55.6888019Z",
+  "Time": "2025-11-22T22:23:55.692735Z",
   "Players": [
+    {
+      "Name": "wyattandkatie",
+      "Steam": "76561198833219379",
+      "Score": 18,
+      "Time": "00:47"
+    },
     {
       "Name": "isthistheend?",
       "Steam": "76561199800809526",
-      "Score": 49,
-      "Time": "14:03"
+      "Score": 51,
+      "Time": "16:03"
     },
     {
       "Name": "tracele.ss",
       "Steam": "76561198792862274",
-      "Score": 25,
-      "Time": "10:48"
+      "Score": 31,
+      "Time": "12:48"
     },
     {
       "Name": "Pure",
       "Steam": "76561199591590752",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
