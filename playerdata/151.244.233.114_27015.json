@@ -1,58 +1,64 @@
 {
-  "Time": "2025-11-22T23:49:55.6922117Z",
+  "Time": "2025-11-22T23:51:55.6958589Z",
   "Players": [
+    {
+      "Name": "z Z",
+      "Steam": "76561199330324813",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Vacuum Decoherence Keychain",
       "Steam": "76561198771750240",
-      "Score": 8,
-      "Time": "03:44"
+      "Score": 20,
+      "Time": "05:44"
     },
     {
       "Name": "Bloodhound lil ted",
       "Steam": "76561199617237928",
       "Score": 13,
-      "Time": "09:31"
+      "Time": "11:31"
     },
     {
       "Name": "china man",
       "Steam": "76561199868510082",
-      "Score": 70,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
-      "Score": 2,
-      "Time": "10:37"
+      "Score": 0,
+      "Time": "12:37"
     },
     {
       "Name": "zzz",
       "Steam": "76561198786321609",
-      "Score": 79,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "megaumferris",
       "Steam": "76561199883778311",
       "Score": 47,
-      "Time": "17:32"
+      "Time": "19:32"
     },
     {
       "Name": "kiki",
       "Steam": "76561199711887613",
-      "Score": 48,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "Not Today",
       "Steam": "76561199878413811",
-      "Score": 25,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Silly_catboy :3",
       "Steam": "76561199240568132",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -64,14 +70,14 @@
     {
       "Name": "\uD834\uDD03\uD834\uDD02\uD834\uDD00\uD834\uDD01\uD834\uDD03\uD834\uDD02",
       "Steam": "76561199562186125",
-      "Score": 30,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 13,
-      "Time": "10:07"
+      "Score": 19,
+      "Time": "12:07"
     },
     {
       "Name": "loolz",
@@ -82,14 +88,14 @@
     {
       "Name": "page table pete",
       "Steam": "76561199822974437",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 0,
-      "Time": "00:08"
+      "Score": 7,
+      "Time": "02:08"
     }
   ]
 }
