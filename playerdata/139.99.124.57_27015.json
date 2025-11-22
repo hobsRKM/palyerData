@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-22T16:29:56.4868374Z",
+  "Time": "2025-11-22T16:31:56.4975072Z",
   "Players": [
     {
       "Name": "辉夜",
       "Steam": "76561198384514574",
-      "Score": 22,
-      "Time": "15:15"
+      "Score": 26,
+      "Time": "17:15"
+    },
+    {
+      "Name": "ogurchekpon",
+      "Steam": "76561198766003873",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 54,
-      "Time": "58:20"
+      "Score": 68,
+      "Time": "60:20"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
       "Score": 46,
-      "Time": "54:31"
+      "Time": "56:31"
     },
     {
       "Name": "Marco Polo",
       "Steam": "76561198767331992",
-      "Score": 19,
-      "Time": "06:06"
+      "Score": 31,
+      "Time": "08:06"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
-      "Time": "10:06"
+      "Score": 3,
+      "Time": "12:06"
     }
   ]
 }
