@@ -1,35 +1,71 @@
 {
-  "Time": "2025-11-22T01:51:58.8440128Z",
+  "Time": "2025-11-22T01:52:20.3255506Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "adsasd",
+      "Steam": "76561198784574810",
+      "Score": 11,
+      "Time": "07:05"
+    },
+    {
+      "Name": "realpious",
+      "Steam": "76561199174885840",
+      "Score": 66,
+      "Time": "564:23"
+    },
+    {
+      "Name": "yzoot",
+      "Steam": "76561197963250432",
+      "Score": 84,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mahmoud's Kebab Shop",
+      "Steam": "76561199105830408",
+      "Score": 48,
+      "Time": "11:22"
+    },
+    {
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "783:57"
-    },
-    {
-      "Name": "Bot Imaru [EZ]",
-      "Steam": "76561199513863425",
-      "Score": 17,
       "Time": "??:??"
     },
     {
-      "Name": ".",
-      "Steam": "76561198768333591",
-      "Score": 71,
-      "Time": "28:34"
-    },
-    {
-      "Name": "inatehiggers",
-      "Steam": "76561199891084411",
-      "Score": 44,
+      "Name": "queue",
+      "Steam": "76561198341012123",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "vrtoglavica",
-      "Steam": "76561199083328286",
-      "Score": 18,
-      "Time": "39:19"
+      "Name": "Pibble",
+      "Steam": "76561199819784349",
+      "Score": 109,
+      "Time": "42:39"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 0,
+      "Time": "10:01"
+    },
+    {
+      "Name": "ImGayAndBlackAndTrans",
+      "Steam": "76561198774079070",
+      "Score": 4,
+      "Time": "01:09"
+    },
+    {
+      "Name": "Nev  ZwMapViewOfSection",
+      "Steam": "76561199884966036",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ugy",
+      "Steam": "76561198274193245",
+      "Score": 123,
+      "Time": "438:00"
     }
   ]
 }
