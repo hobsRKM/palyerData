@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-22T14:21:56.3656778Z",
+  "Time": "2025-11-22T14:23:56.3558262Z",
   "Players": [
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199845188453",
+      "Score": 0,
+      "Time": "00:26"
+    },
     {
       "Name": "goup",
       "Steam": "76561199404434403",
-      "Score": 7,
-      "Time": "06:31"
+      "Score": 11,
+      "Time": "08:31"
     },
     {
       "Name": "Futa",
       "Steam": "76561199824808753",
-      "Score": 5,
-      "Time": "10:30"
+      "Score": 0,
+      "Time": "12:30"
     },
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 5,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 4,
-      "Time": "149:34"
+      "Score": 6,
+      "Time": "151:34"
     },
     {
       "Name": "someone",
       "Steam": "76561198769837429",
-      "Score": 8,
-      "Time": "13:06"
+      "Score": 14,
+      "Time": "15:06"
     }
   ]
 }
