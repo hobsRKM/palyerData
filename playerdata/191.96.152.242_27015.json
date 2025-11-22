@@ -1,41 +1,47 @@
 {
-  "Time": "2025-11-22T11:48:32.7892034Z",
+  "Time": "2025-11-22T11:50:32.7864971Z",
   "Players": [
+    {
+      "Name": "Feetality",
+      "Steam": "76561199528334545",
+      "Score": 5,
+      "Time": "??:??"
+    },
     {
       "Name": "v5",
       "Steam": "76561198769557150",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Entry",
       "Steam": "76561199321025751",
-      "Score": 69,
-      "Time": "32:51"
+      "Score": 71,
+      "Time": "34:51"
     },
     {
       "Name": "Z'al",
       "Steam": "76561198166519466",
-      "Score": 50,
-      "Time": "10:19"
+      "Score": 62,
+      "Time": "12:19"
     },
     {
       "Name": "Top Shelf",
       "Steam": "76561199660225579",
-      "Score": 27,
-      "Time": "08:33"
+      "Score": 32,
+      "Time": "10:33"
     },
     {
       "Name": "jahmir.kaisan",
       "Steam": "76561198768063520",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "bebo",
       "Steam": "76561199103595076",
-      "Score": 41,
-      "Time": "704:01"
+      "Score": 47,
+      "Time": "706:01"
     }
   ]
 }
