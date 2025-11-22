@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-22T05:20:38.5599899Z",
-  "Players": []
+  "Time": "2025-11-22T05:20:44.2182099Z",
+  "Players": [
+    {
+      "Name": "Mahmoud's Kebab Shop",
+      "Steam": "76561199105830408",
+      "Score": 51,
+      "Time": "79:29"
+    },
+    {
+      "Name": "Gamerboy1337",
+      "Steam": "76561199790516730",
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "JSTN\"12",
+      "Steam": "76561199865276971",
+      "Score": 2,
+      "Time": "04:07"
+    },
+    {
+      "Name": "Asteriod Destoyer",
+      "Steam": "76561198770929895",
+      "Score": 16,
+      "Time": "25:50"
+    },
+    {
+      "Name": "Vexel",
+      "Steam": "76561199840818752",
+      "Score": 4,
+      "Time": "856:51"
+    }
+  ]
 }
