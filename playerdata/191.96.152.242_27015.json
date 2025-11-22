@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-22T02:24:32.7746556Z",
+  "Time": "2025-11-22T02:26:32.7747858Z",
   "Players": [
     {
       "Name": "Bilbo",
       "Steam": "76561198999356265",
-      "Score": 20,
-      "Time": "04:38"
+      "Score": 32,
+      "Time": "06:38"
+    },
+    {
+      "Name": "Plague Enjoyer",
+      "Steam": "76561198887092774",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Bloodhound lil ted",
       "Steam": "76561199617237928",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "SoySause",
       "Steam": "76561199156716734",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
