@@ -1,11 +1,11 @@
 {
-  "Time": "2025-11-22T23:15:55.6906813Z",
+  "Time": "2025-11-22T23:17:55.6876016Z",
   "Players": [
     {
       "Name": "Cookie",
       "Steam": "76561199889788325",
       "Score": 124,
-      "Time": "47:56"
+      "Time": "49:56"
     },
     {
       "Name": "Pure",
@@ -17,36 +17,42 @@
       "Name": "Green Fn",
       "Steam": "76561199077791772",
       "Score": 71,
-      "Time": "33:17"
+      "Time": "35:17"
     },
     {
       "Name": "fent geek",
       "Steam": "76561199137692025",
-      "Score": 58,
-      "Time": "19:23"
+      "Score": 66,
+      "Time": "21:23"
     },
     {
       "Name": "fr1fx",
       "Steam": "76561199042138318",
-      "Score": 7,
-      "Time": "24:35"
+      "Score": 2,
+      "Time": "26:35"
     },
     {
       "Name": "china man",
       "Steam": "76561199868510082",
-      "Score": 97,
+      "Score": 106,
       "Time": "??:??"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 57,
+      "Score": 61,
       "Time": "??:??"
+    },
+    {
+      "Name": "snow",
+      "Steam": "76561198059477947",
+      "Score": 0,
+      "Time": "00:31"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     },
     {
@@ -58,7 +64,7 @@
     {
       "Name": "rain",
       "Steam": "76561199847868570",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -70,13 +76,19 @@
     {
       "Name": "megaumferris",
       "Steam": "76561199883778311",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "ace",
       "Steam": "76561198043769839",
-      "Score": 0,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Carl Wheezer",
+      "Steam": "76561199492834313",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
