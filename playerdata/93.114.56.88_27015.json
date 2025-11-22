@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-22T05:30:38.5599207Z",
-  "Players": []
+  "Time": "2025-11-22T05:30:45.3579547Z",
+  "Players": [
+    {
+      "Name": "Mahmoud's Kebab Shop",
+      "Steam": "76561199105830408",
+      "Score": 100,
+      "Time": "89:31"
+    },
+    {
+      "Name": "Gamerboy1337",
+      "Steam": "76561199790516730",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bhg",
+      "Steam": "76561199647822907",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Asteriod Destoyer",
+      "Steam": "76561198770929895",
+      "Score": 42,
+      "Time": "35:51"
+    }
+  ]
 }
