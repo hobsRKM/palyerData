@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-22T06:48:32.7836116Z",
+  "Time": "2025-11-22T06:50:32.774046Z",
   "Players": [
+    {
+      "Name": "STP->RDP STP",
+      "Steam": "76561199861606784",
+      "Score": 0,
+      "Time": "01:49"
+    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 18,
-      "Time": "10:13"
+      "Score": 26,
+      "Time": "12:13"
     },
     {
       "Name": "Bloodhound lil ted",
       "Steam": "76561199617237928",
-      "Score": 17,
-      "Time": "06:30"
+      "Score": 23,
+      "Time": "08:30"
     },
     {
       "Name": "nera",
       "Steam": "76561199100125759",
-      "Score": 36,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "ovulationgod48",
       "Steam": "76561199839910860",
       "Score": 14,
-      "Time": "06:46"
+      "Time": "08:46"
     }
   ]
 }
