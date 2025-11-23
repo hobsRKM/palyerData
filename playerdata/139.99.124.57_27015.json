@@ -1,46 +1,52 @@
 {
-  "Time": "2025-11-23T04:07:30.5576715Z",
+  "Time": "2025-11-23T04:09:30.5688542Z",
   "Players": [
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 90,
-      "Time": "78:12"
+      "Score": 0,
+      "Time": "80:12"
     },
     {
       "Name": "likely",
       "Steam": "76561198766890299",
-      "Score": 75,
-      "Time": "54:54"
+      "Score": 0,
+      "Time": "56:54"
     },
     {
       "Name": "1",
       "Steam": "76561199831618461",
-      "Score": 68,
-      "Time": "22:39"
+      "Score": 0,
+      "Time": "24:39"
     },
     {
       "Name": "fletcherjg10",
       "Steam": "76561198765783685",
-      "Score": 49,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198848960112",
-      "Score": 38,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Italy",
       "Steam": "76561198205166913",
-      "Score": 19,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Marco Polo",
       "Steam": "76561198765939349",
-      "Score": 4,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "moeren",
+      "Steam": "76561199828164957",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
