@@ -1,40 +1,40 @@
 {
-  "Time": "2025-11-23T17:57:45.2530695Z",
+  "Time": "2025-11-23T17:59:45.2603749Z",
   "Players": [
+    {
+      "Name": "plagueuser",
+      "Steam": "76561199882269371",
+      "Score": 5,
+      "Time": "01:14"
+    },
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 2,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Panda",
       "Steam": "76561198453141846",
-      "Score": 31,
-      "Time": "??:??"
-    },
-    {
-      "Name": "戈戈尔",
-      "Steam": "76561199813308264",
-      "Score": 41,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Dab1k",
       "Steam": "76561199844676704",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "K1tanna",
       "Steam": "76561199521351689",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Scaramouche",
       "Steam": "76561199287830315",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
