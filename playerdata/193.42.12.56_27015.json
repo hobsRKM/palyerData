@@ -1,58 +1,64 @@
 {
-  "Time": "2025-11-23T18:31:45.2530444Z",
+  "Time": "2025-11-23T18:33:45.251103Z",
   "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ava",
       "Steam": "76561198843347921",
-      "Score": 41,
-      "Time": "12:43"
+      "Score": 4,
+      "Time": "14:43"
     },
     {
       "Name": "in new york i tilly rock",
       "Steam": "76561199821529132",
-      "Score": 121,
-      "Time": "31:09"
+      "Score": 9,
+      "Time": "33:09"
     },
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 79,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Panda",
       "Steam": "76561198453141846",
-      "Score": 6,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "戈戈尔",
       "Steam": "76561199813308264",
-      "Score": 0,
-      "Time": "03:11"
+      "Score": 8,
+      "Time": "05:11"
     },
     {
       "Name": "Dab1k",
       "Steam": "76561199844676704",
-      "Score": 16,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Scaramouche",
       "Steam": "76561199287830315",
-      "Score": 46,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Vacszerelo4",
-      "Steam": "76561199865902115",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "wajruss_",
       "Steam": "76561198769923812",
-      "Score": 6,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "shorted btc on 126k",
+      "Steam": "76561199682194905",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
