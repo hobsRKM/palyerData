@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-23T06:33:30.3679565Z",
+  "Time": "2025-11-23T06:35:30.3694483Z",
   "Players": [
+    {
+      "Name": "gamesense | spreeski",
+      "Steam": "76561199540175519",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "malwaremalwll",
       "Steam": "76561198778361538",
       "Score": 0,
-      "Time": "154:06"
+      "Time": "156:06"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 47,
-      "Time": "20:45"
+      "Score": 53,
+      "Time": "22:45"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 50,
-      "Time": "22:57"
+      "Score": 52,
+      "Time": "24:57"
     }
   ]
 }
