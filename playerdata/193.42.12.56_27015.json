@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-23T20:29:45.2550805Z",
+  "Time": "2025-11-23T20:31:45.2521679Z",
   "Players": [
+    {
+      "Name": "butlaszef",
+      "Steam": "76561199315446274",
+      "Score": 2,
+      "Time": "01:55"
+    },
     {
       "Name": "goaim beta user",
       "Steam": "76561198788475992",
-      "Score": 38,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "REESE’S PEANUT BUTTER CUPS",
       "Steam": "76561199650536596",
-      "Score": 3,
-      "Time": "02:38"
+      "Score": 5,
+      "Time": "04:38"
     },
     {
       "Name": "y2k.jr",
       "Steam": "76561199610550561",
-      "Score": 25,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
       "Steam": "76561199547514723",
-      "Score": 54,
-      "Time": "19:47"
+      "Score": 56,
+      "Time": "21:46"
     }
   ]
 }
