@@ -1,17 +1,29 @@
 {
-  "Time": "2025-11-23T09:45:35.0015433Z",
+  "Time": "2025-11-23T09:47:35.0000115Z",
   "Players": [
     {
       "Name": "Italy",
       "Steam": "76561198205166913",
-      "Score": 27,
-      "Time": "05:53"
+      "Score": 33,
+      "Time": "07:53"
     },
     {
       "Name": "sephoraa",
       "Steam": "76561199240575199",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "zywoo",
+      "Steam": "76561199845127629",
+      "Score": 0,
+      "Time": "01:42"
+    },
+    {
+      "Name": "Counter-Terrorist | 1",
+      "Steam": "76561199303359682",
+      "Score": 2,
+      "Time": "00:14"
     }
   ]
 }
