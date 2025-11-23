@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-23T11:07:35.0588751Z",
+  "Time": "2025-11-23T11:09:35.0568182Z",
   "Players": [
+    {
+      "Name": "edwardbrunner1958",
+      "Steam": "76561199818618714",
+      "Score": 3,
+      "Time": "01:52"
+    },
     {
       "Name": "Italy",
       "Steam": "76561198205166913",
-      "Score": 54,
-      "Time": "87:53"
+      "Score": 60,
+      "Time": "89:53"
     },
     {
       "Name": "mad",
       "Steam": "76561198778014163",
-      "Score": 45,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "sephoraa",
       "Steam": "76561199240575199",
-      "Score": 50,
-      "Time": "50:15"
+      "Score": 55,
+      "Time": "52:15"
     },
     {
-      "Name": "Terrorist | 1",
+      "Name": "gam | 1",
       "Steam": "76561199303359682",
-      "Score": 16,
-      "Time": "23:43"
+      "Score": 20,
+      "Time": "25:43"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
@@ -34,19 +40,19 @@
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "<>",
       "Steam": "76561198216240419",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "め",
       "Steam": "76561198285997263",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
