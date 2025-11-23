@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-23T10:27:35.0397732Z",
+  "Time": "2025-11-23T10:29:35.0397091Z",
   "Players": [
+    {
+      "Name": "edwardbrunner1958",
+      "Steam": "76561199818618714",
+      "Score": 0,
+      "Time": "01:48"
+    },
     {
       "Name": "PyRoRo",
       "Steam": "76561198055938307",
-      "Score": 2,
-      "Time": "19:30"
+      "Score": 6,
+      "Time": "21:30"
     },
     {
       "Name": "Italy",
       "Steam": "76561198205166913",
-      "Score": 23,
-      "Time": "47:53"
+      "Score": 25,
+      "Time": "49:53"
     },
     {
       "Name": "sephoraa",
       "Steam": "76561199240575199",
-      "Score": 26,
-      "Time": "10:15"
+      "Score": 36,
+      "Time": "12:15"
     },
     {
-      "Name": "1",
+      "Name": "ne | 1",
       "Steam": "76561199303359682",
-      "Score": 26,
-      "Time": "40:14"
+      "Score": 29,
+      "Time": "42:14"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
@@ -34,19 +40,25 @@
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "anbhorbaml",
       "Steam": "76561198765854563",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "hig groyper",
+      "Steam": "76561199844610139",
+      "Score": 0,
+      "Time": "01:10"
     },
     {
       "Name": "Ying",
       "Steam": "76561199848234538",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
