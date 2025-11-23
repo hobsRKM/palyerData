@@ -1,11 +1,35 @@
 {
-  "Time": "2025-11-23T05:04:29.0876912Z",
+  "Time": "2025-11-23T05:04:34.1923026Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Martwy",
+      "Steam": "76561199610463127",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mahmoud's Kebab Shop",
+      "Steam": "76561199105830408",
+      "Score": 68,
+      "Time": "??:??"
+    },
+    {
+      "Name": "S I L E N C E",
+      "Steam": "76561199167348716",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "bakom dig",
+      "Steam": "76561198806792145",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": ";unbindall;m_yaw inf;quit",
+      "Steam": "76561199688643157",
+      "Score": 0,
+      "Time": "99:07"
     }
   ]
 }
