@@ -1,34 +1,46 @@
 {
-  "Time": "2025-11-23T21:13:15.678167Z",
+  "Time": "2025-11-23T21:15:15.6818561Z",
   "Players": [
+    {
+      "Name": "STP->RDP STP",
+      "Steam": "76561199861606784",
+      "Score": 0,
+      "Time": "00:42"
+    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 49,
+      "Score": 51,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uDB40\uDC73⁧⁧lovesick",
+      "Steam": "76561199258689499",
+      "Score": 0,
+      "Time": "00:46"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "john gamesense",
       "Steam": "76561198774525727",
-      "Score": 45,
+      "Score": 53,
       "Time": "??:??"
     },
     {
-      "Name": "CHARLIE KIRK ovulationmaster66",
+      "Name": "21:15:0 Jean-Claude Van Damme",
       "Steam": "76561198775284341",
-      "Score": 69,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 39,
+      "Score": 47,
       "Time": "??:??"
     }
   ]
