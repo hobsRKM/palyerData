@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-23T10:01:35.0414441Z",
+  "Time": "2025-11-23T10:03:35.0363092Z",
   "Players": [
+    {
+      "Name": "PyRoRo",
+      "Steam": "76561198055938307",
+      "Score": 0,
+      "Time": "00:43"
+    },
     {
       "Name": "Italy",
       "Steam": "76561198205166913",
-      "Score": 24,
-      "Time": "21:53"
+      "Score": 32,
+      "Time": "23:53"
     },
     {
       "Name": "sephoraa",
       "Steam": "76561199240575199",
-      "Score": 60,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "zywoo",
       "Steam": "76561199845127629",
-      "Score": 38,
-      "Time": "15:42"
+      "Score": 43,
+      "Time": "17:42"
     },
     {
-      "Name": "1",
+      "Name": "Counter-Terrorist | 1",
       "Steam": "76561199303359682",
-      "Score": 18,
-      "Time": "14:14"
+      "Score": 20,
+      "Time": "16:14"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
@@ -34,13 +40,19 @@
     {
       "Name": "бийск",
       "Steam": "76561198767826563",
-      "Score": 18,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 16,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cawnimew",
+      "Steam": "76561198766971125",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
