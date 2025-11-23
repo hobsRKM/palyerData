@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-23T23:31:15.6833884Z",
+  "Time": "2025-11-23T23:33:15.6729859Z",
   "Players": [
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 0,
+      "Time": "01:05"
+    },
     {
       "Name": "samwilliams",
       "Steam": "76561199049807914",
-      "Score": 36,
-      "Time": "12:15"
+      "Score": 38,
+      "Time": "14:15"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
       "Score": 39,
-      "Time": "105:59"
+      "Time": "107:59"
     },
     {
       "Name": "Layer",
       "Steam": "76561199258966466",
-      "Score": 16,
-      "Time": "43:20"
+      "Score": 17,
+      "Time": "45:20"
     },
     {
       "Name": "bigsteppa",
@@ -34,31 +40,19 @@
     {
       "Name": "just a premium user",
       "Steam": "76561199496386208",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "rcw",
       "Steam": "76561198769147646",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Techno",
-      "Steam": "76561198170327163",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "UWU >-<",
       "Steam": "76561199570801096",
-      "Score": 3,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ace",
-      "Steam": "76561198043769839",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
