@@ -1,47 +1,53 @@
 {
-  "Time": "2025-11-23T20:43:45.2595272Z",
+  "Time": "2025-11-23T20:45:45.2515669Z",
   "Players": [
+    {
+      "Name": "ava",
+      "Steam": "76561198843347921",
+      "Score": 0,
+      "Time": "00:47"
+    },
     {
       "Name": "butlaszef",
       "Steam": "76561199315446274",
-      "Score": 18,
-      "Time": "13:55"
+      "Score": 26,
+      "Time": "15:55"
     },
     {
       "Name": "goaim beta user",
       "Steam": "76561198788475992",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "maz",
       "Steam": "76561198781866544",
-      "Score": 5,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "'ALPHA\"-6",
       "Steam": "76561198768520630",
-      "Score": 11,
+      "Score": 12,
       "Time": "??:??"
     },
     {
-      "Name": "y2k.jr",
-      "Steam": "76561199610550561",
-      "Score": 24,
+      "Name": "Nixware user",
+      "Steam": "76561199820198006",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Adellund",
       "Steam": "76561197963191416",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
       "Steam": "76561199547514723",
-      "Score": 49,
-      "Time": "33:47"
+      "Score": 58,
+      "Time": "35:46"
     }
   ]
 }
