@@ -1,4 +1,23 @@
 {
-  "Time": "2025-11-24T20:22:15.2278693Z",
-  "Players": []
+  "Time": "2025-11-24T20:22:21.7081457Z",
+  "Players": [
+    {
+      "Name": "neverlose.cc",
+      "Steam": "76561198767118163",
+      "Score": 0,
+      "Time": "161:43"
+    },
+    {
+      "Name": "Robotic AI Ragebot",
+      "Steam": "76561199217148290",
+      "Score": 6,
+      "Time": "01:59"
+    },
+    {
+      "Name": "vrtoglavica",
+      "Steam": "76561199083328286",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
