@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-24T03:57:11.8948967Z",
-  "Players": []
+  "Time": "2025-11-24T03:57:38.2976531Z",
+  "Players": [
+    {
+      "Name": "STP->RDP STP",
+      "Steam": "76561199861606784",
+      "Score": 0,
+      "Time": "00:16"
+    },
+    {
+      "Name": "PierogiFN",
+      "Steam": "76561199033568973",
+      "Score": 51,
+      "Time": "22:59"
+    },
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Samson",
+      "Steam": "76561198773953479",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vacuum Decoherence Keychain",
+      "Steam": "76561198771750240",
+      "Score": 18,
+      "Time": "17:00"
+    }
+  ]
 }
