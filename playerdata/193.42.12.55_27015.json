@@ -1,4 +1,47 @@
 {
-  "Time": "2025-11-24T21:42:15.2278861Z",
-  "Players": []
+  "Time": "2025-11-24T21:42:21.7224662Z",
+  "Players": [
+    {
+      "Name": "Andrew",
+      "Steam": "76561199128030998",
+      "Score": 42,
+      "Time": "42:30"
+    },
+    {
+      "Name": "inqu",
+      "Steam": "76561199827221456",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "versacevibe",
+      "Steam": "76561199633606287",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "marc",
+      "Steam": "76561198780142844",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Infantrit",
+      "Steam": "76561199805228755",
+      "Score": 20,
+      "Time": "05:57"
+    },
+    {
+      "Name": "I Like BURGER King more",
+      "Steam": "76561199160093857",
+      "Score": 106,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Big Jerome",
+      "Steam": "76561199874806273",
+      "Score": 32,
+      "Time": "??:??"
+    }
+  ]
 }
