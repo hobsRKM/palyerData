@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-24T03:39:11.8943588Z",
-  "Players": []
+  "Time": "2025-11-24T03:39:38.290347Z",
+  "Players": [
+    {
+      "Name": "STP->RDP STP",
+      "Steam": "76561199861606784",
+      "Score": 7,
+      "Time": "00:43"
+    },
+    {
+      "Name": "SigmaToilet",
+      "Steam": "76561198983787793",
+      "Score": 61,
+      "Time": "53:47"
+    },
+    {
+      "Name": "PierogiFN",
+      "Steam": "76561199033568973",
+      "Score": 98,
+      "Time": "04:59"
+    },
+    {
+      "Name": "jerry springer the 3rd",
+      "Steam": "76561199540175519",
+      "Score": 8,
+      "Time": "05:53"
+    },
+    {
+      "Name": "kiki",
+      "Steam": "76561199711887613",
+      "Score": 13,
+      "Time": "??:??"
+    }
+  ]
 }
