@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-24T11:30:45.915324Z",
+  "Time": "2025-11-24T11:32:45.9145102Z",
   "Players": [
     {
-      "Name": "| Xantares",
+      "Name": "pl | Xantares",
       "Steam": "76561199888926309",
-      "Score": 12,
-      "Time": "28:24"
+      "Score": 13,
+      "Time": "30:24"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 34,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "donk",
       "Steam": "76561199764958381",
-      "Score": 49,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "1",
       "Steam": "76561199831618461",
-      "Score": 55,
-      "Time": "09:40"
+      "Score": 57,
+      "Time": "11:40"
+    },
+    {
+      "Name": "Kraken",
+      "Steam": "76561199665404187",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
