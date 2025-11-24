@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-24T22:56:15.2400444Z",
-  "Players": []
+  "Time": "2025-11-24T22:56:21.8077973Z",
+  "Players": [
+    {
+      "Name": "marc",
+      "Steam": "76561198780142844",
+      "Score": 65,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MAVERIKadam",
+      "Steam": "76561199752633124",
+      "Score": 33,
+      "Time": "99:02"
+    },
+    {
+      "Name": "drip on my pajamas",
+      "Steam": "76561199396814463",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "I Like BURGER King more",
+      "Steam": "76561199160093857",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "teach me",
+      "Steam": "76561199883727460",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
