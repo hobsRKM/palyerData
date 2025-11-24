@@ -1,17 +1,17 @@
 {
-  "Time": "2025-11-24T14:21:13.6393662Z",
+  "Time": "2025-11-24T14:23:13.6429388Z",
   "Players": [
     {
       "Name": "INTERWEBZ$SLAYER",
       "Steam": "76561199388843433",
-      "Score": 0,
-      "Time": "79:23"
+      "Score": 4,
+      "Time": "81:23"
     },
     {
       "Name": "szybki zawodnik",
       "Steam": "76561199131633124",
       "Score": 54,
-      "Time": "16:00"
+      "Time": "18:00"
     },
     {
       "Name": "ShoGun",
@@ -22,44 +22,50 @@
     {
       "Name": "DeusExMachina",
       "Steam": "76561199389270137",
-      "Score": 12,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ferox",
+      "Steam": "76561199377440484",
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Blank",
       "Steam": "76561199396651185",
-      "Score": 0,
-      "Time": "33:28"
+      "Score": 3,
+      "Time": "35:28"
     },
     {
       "Name": "GRIMM",
       "Steam": "76561199698260262",
-      "Score": 17,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Robert",
       "Steam": "76561198768013494",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "toozy",
       "Steam": "76561197963250432",
-      "Score": 6,
-      "Time": "02:03"
+      "Score": 10,
+      "Time": "04:03"
     },
     {
       "Name": "Projectile_Invalid",
       "Steam": "76561199629184110",
-      "Score": 92,
-      "Time": "52:11"
+      "Score": 104,
+      "Time": "54:11"
     },
     {
       "Name": "hhh",
       "Steam": "76561199579979493",
-      "Score": 31,
-      "Time": "66:04"
+      "Score": 5,
+      "Time": "68:04"
     }
   ]
 }
