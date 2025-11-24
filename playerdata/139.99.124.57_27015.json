@@ -1,10 +1,28 @@
 {
-  "Time": "2025-11-24T07:44:17.9631745Z",
+  "Time": "2025-11-24T07:46:17.9634668Z",
   "Players": [
+    {
+      "Name": "someone",
+      "Steam": "76561198769837429",
+      "Score": 0,
+      "Time": "00:13"
+    },
     {
       "Name": "AIMWARE = SHIT",
       "Steam": "76561198311049445",
-      "Score": 16,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "russian enjoyer",
+      "Steam": "76561199491398154",
+      "Score": 4,
+      "Time": "00:12"
+    },
+    {
+      "Name": "mad",
+      "Steam": "76561198778014163",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
