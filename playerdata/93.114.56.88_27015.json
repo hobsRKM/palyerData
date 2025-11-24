@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-24T12:23:13.6285549Z",
+  "Time": "2025-11-24T12:25:13.6363148Z",
   "Players": [
     {
       "Name": "cheat boosted",
@@ -8,9 +8,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "Emplic",
+      "Steam": "76561199159120070",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
       "Name": "fabik",
       "Steam": "76561199611292956",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -22,7 +28,7 @@
     {
       "Name": "MagicMike",
       "Steam": "76561198776771544",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -34,20 +40,26 @@
     {
       "Name": "venge",
       "Steam": "76561198344463069",
-      "Score": 0,
-      "Time": "04:48"
+      "Score": 6,
+      "Time": "06:48"
     },
     {
       "Name": "hurt me",
       "Steam": "76561199874595968",
-      "Score": 0,
-      "Time": "26:55"
+      "Score": 1,
+      "Time": "28:55"
+    },
+    {
+      "Name": "Seoul999",
+      "Steam": "76561198051992092",
+      "Score": 1,
+      "Time": "05:50"
     },
     {
       "Name": "Monster",
       "Steam": "76561198793010187",
       "Score": 0,
-      "Time": "07:01"
+      "Time": "09:01"
     }
   ]
 }
