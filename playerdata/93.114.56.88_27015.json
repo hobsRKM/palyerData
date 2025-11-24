@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-24T18:33:13.6271324Z",
+  "Time": "2025-11-24T18:35:13.6374554Z",
   "Players": [
+    {
+      "Name": "volvo enjoyer",
+      "Steam": "76561199883686960",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Nixware user",
       "Steam": "76561199820198006",
-      "Score": 5,
-      "Time": "11:12"
+      "Score": 0,
+      "Time": "13:12"
     },
     {
       "Name": "comunismo",
       "Steam": "76561199390166901",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     },
     {
@@ -23,31 +29,43 @@
       "Name": "bestmemecfg",
       "Steam": "76561198772698072",
       "Score": 0,
-      "Time": "89:36"
+      "Time": "91:36"
+    },
+    {
+      "Name": "ferox",
+      "Steam": "76561199377440484",
+      "Score": 9,
+      "Time": "134:23"
+    },
+    {
+      "Name": "y2k.jr",
+      "Steam": "76561199610550561",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Prod.",
       "Steam": "76561198979208432",
-      "Score": 15,
-      "Time": "06:04"
+      "Score": 17,
+      "Time": "08:04"
     },
     {
       "Name": "Woman in da kitchen",
       "Steam": "76561199885212660",
-      "Score": 13,
-      "Time": "101:02"
+      "Score": 23,
+      "Time": "103:02"
     },
     {
       "Name": "Viktor",
       "Steam": "76561199886723342",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Niko",
       "Steam": "76561199848723808",
-      "Score": 10,
-      "Time": "19:45"
+      "Score": 14,
+      "Time": "21:45"
     }
   ]
 }
