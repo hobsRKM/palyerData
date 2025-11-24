@@ -1,23 +1,23 @@
 {
-  "Time": "2025-11-24T00:19:15.6697565Z",
+  "Time": "2025-11-24T00:21:15.6785939Z",
   "Players": [
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
-      "Score": 6,
-      "Time": "04:20"
+      "Score": 9,
+      "Time": "06:20"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 33,
-      "Time": "47:05"
+      "Score": 35,
+      "Time": "49:05"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 39,
-      "Time": "20:21"
+      "Score": 48,
+      "Time": "22:21"
     },
     {
       "Name": "pyfeds",
@@ -29,6 +29,12 @@
       "Name": "\uD835\uDE9D \uD835\uDE92 \uD835\uDE93 \uD835\uDE8A \uD835\uDE9B \uD835\uDE8A",
       "Steam": "76561198770559617",
       "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOT Opie",
+      "Steam": "76561197982529353",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
