@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-24T03:19:11.8946061Z",
-  "Players": []
+  "Time": "2025-11-24T03:19:38.2908546Z",
+  "Players": [
+    {
+      "Name": "SigmaToilet",
+      "Steam": "76561198983787793",
+      "Score": 17,
+      "Time": "33:47"
+    },
+    {
+      "Name": "Bilbo",
+      "Steam": "76561198999356265",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "PierogiFN",
+      "Steam": "76561199033568973",
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vacuum Decoherence Keychain",
+      "Steam": "76561198771750240",
+      "Score": 4,
+      "Time": "03:37"
+    }
+  ]
 }
