@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-24T09:18:45.9193723Z",
+  "Time": "2025-11-24T09:20:45.9177921Z",
   "Players": [
     {
       "Name": "llllllllllllllll",
       "Steam": "76561199045450966",
       "Score": 0,
-      "Time": "04:37"
+      "Time": "06:37"
     },
     {
       "Name": "aaaaaaaa",
       "Steam": "76561199721232750",
-      "Score": 28,
-      "Time": "13:23"
+      "Score": 34,
+      "Time": "15:23"
+    },
+    {
+      "Name": "Kemono.party",
+      "Steam": "76561198766053092",
+      "Score": 2,
+      "Time": "01:43"
     },
     {
       "Name": "donk",
       "Steam": "76561199764958381",
-      "Score": 22,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "boink",
       "Steam": "76561199835798753",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
-      "Name": "Bash",
+      "Name": "Bas",
       "Steam": "76561198780917286",
-      "Score": 0,
-      "Time": "00:25"
+      "Score": 3,
+      "Time": "02:25"
     }
   ]
 }
