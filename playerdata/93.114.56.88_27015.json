@@ -1,4 +1,35 @@
 {
-  "Time": "2025-11-24T05:10:38.6080284Z",
-  "Players": []
+  "Time": "2025-11-24T05:11:09.5337499Z",
+  "Players": [
+    {
+      "Name": "faceit lvl 9",
+      "Steam": "76561198767769831",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mahmoud's Kebab Shop",
+      "Steam": "76561199105830408",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bakom dig",
+      "Steam": "76561198806792145",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "word.exe",
+      "Steam": "76561198765611089",
+      "Score": 0,
+      "Time": "436:23"
+    },
+    {
+      "Name": "I Like BURGER King more",
+      "Steam": "76561199160093857",
+      "Score": 6,
+      "Time": "02:08"
+    }
+  ]
 }
