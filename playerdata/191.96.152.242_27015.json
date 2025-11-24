@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-24T09:15:58.0192221Z",
+  "Time": "2025-11-24T09:17:58.0139986Z",
   "Players": [
     {
-      "Name": "rain",
+      "Name": "дождь",
       "Steam": "76561198273566562",
-      "Score": 48,
+      "Score": 60,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[*PREDAL*]awfu9lban",
+      "Steam": "76561199844228365",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "lagosta",
       "Steam": "76561198782333753",
-      "Score": 8,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "perfoming surgery on these yns",
       "Steam": "76561199869327465",
-      "Score": 78,
+      "Score": 88,
       "Time": "??:??"
     },
     {
@@ -28,20 +34,20 @@
     {
       "Name": "Mr Crunchy",
       "Steam": "76561199043213580",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 40,
-      "Time": "13:10"
+      "Score": 47,
+      "Time": "15:10"
     },
     {
       "Name": "дождь",
       "Steam": "76561199847868570",
       "Score": 0,
-      "Time": "39:17"
+      "Time": "41:17"
     }
   ]
 }
