@@ -1,59 +1,53 @@
 {
-  "Time": "2025-11-25T10:02:01.5236481Z",
+  "Time": "2025-11-25T10:04:01.7018536Z",
   "Players": [
     {
       "Name": "wha mi",
       "Steam": "76561199584894243",
-      "Score": 33,
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "123",
+      "Steam": "76561198969530926",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Seiðr",
       "Steam": "76561198333235279",
       "Score": 36,
-      "Time": "43:44"
+      "Time": "45:44"
     },
     {
       "Name": "K嘉",
       "Steam": "76561198871823378",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "Big Jerome",
       "Steam": "76561199874806273",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "axure",
       "Steam": "76561199136389558",
-      "Score": 3,
-      "Time": "??:??"
-    },
-    {
-      "Name": "true form depression",
-      "Steam": "76561199839505926",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 1,
+      "Time": "00:15"
     },
     {
       "Name": "realpious",
       "Steam": "76561199174885840",
-      "Score": 64,
-      "Time": "1203:32"
+      "Score": 72,
+      "Time": "1205:32"
     },
     {
       "Name": "mutiny.pw",
       "Steam": "76561199142822378",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
-    },
-    {
-      "Name": "Founder",
-      "Steam": "76561199679982159",
-      "Score": 63,
-      "Time": "916:34"
     }
   ]
 }
