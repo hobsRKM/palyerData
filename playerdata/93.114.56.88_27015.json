@@ -1,29 +1,41 @@
 {
-  "Time": "2025-11-25T04:49:27.5033259Z",
+  "Time": "2025-11-25T04:51:27.6087928Z",
   "Players": [
+    {
+      "Name": "перевесил кардиган",
+      "Steam": "76561199557622751",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "rock nd rollin",
       "Steam": "76561199160093857",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
-      "Score": 0,
-      "Time": "04:21"
+      "Score": 4,
+      "Time": "06:21"
     },
     {
       "Name": "это мой сын это мо",
       "Steam": "76561198211976187",
-      "Score": 43,
+      "Score": 53,
       "Time": "??:??"
+    },
+    {
+      "Name": "JSTN\"12",
+      "Steam": "76561199865276971",
+      "Score": 3,
+      "Time": "01:08"
     },
     {
       "Name": "bestmemecfg",
       "Steam": "76561198772698072",
       "Score": 0,
-      "Time": "705:50"
+      "Time": "707:50"
     },
     {
       "Name": "BestStaffEver",
@@ -34,8 +46,8 @@
     {
       "Name": "jihiv42416",
       "Steam": "76561198765274304",
-      "Score": 56,
-      "Time": "104:42"
+      "Score": 62,
+      "Time": "106:42"
     },
     {
       "Name": "fem",
@@ -46,7 +58,13 @@
     {
       "Name": "Avast4r \uD83E\uDDCA",
       "Steam": "76561199376242490",
-      "Score": 19,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SANTIORELL",
+      "Steam": "76561198771029308",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
