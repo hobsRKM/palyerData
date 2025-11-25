@@ -1,63 +1,87 @@
 {
-  "Time": "2025-11-25T12:06:22.8353048Z",
+  "Time": "2025-11-25T12:12:22.8465066Z",
   "Players": [
+    {
+      "Name": "test",
+      "Steam": "76561198767240115",
+      "Score": 0,
+      "Time": "01:15"
+    },
     {
       "Name": "llllllllllllllll",
       "Steam": "76561199045450966",
-      "Score": 43,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "辉夜",
       "Steam": "76561198384514574",
-      "Score": 48,
-      "Time": "71:50"
-    },
-    {
-      "Name": "mad",
-      "Steam": "76561198778014163",
-      "Score": 41,
-      "Time": "??:??"
+      "Score": 66,
+      "Time": "77:50"
     },
     {
       "Name": "pawsocks",
       "Steam": "76561198765174832",
-      "Score": 61,
+      "Score": 72,
       "Time": "??:??"
     },
     {
       "Name": "ether",
       "Steam": "76561198404049249",
-      "Score": 21,
-      "Time": "06:25"
+      "Score": 32,
+      "Time": "12:25"
     },
     {
       "Name": "新加坡第一猥瑣男",
       "Steam": "76561198770667360",
-      "Score": 53,
+      "Score": 72,
       "Time": "??:??"
     },
     {
-      "Name": "nix | 1",
+      "Name": "neverlose | 1",
       "Steam": "76561199303359682",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "505 Wantan Mee",
       "Steam": "76561198983368547",
-      "Score": 6,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "李七月",
       "Steam": "76561198774650874",
-      "Score": 0,
-      "Time": "00:22"
+      "Score": 29,
+      "Time": "05:28"
     },
     {
       "Name": "dzheidblagonravov",
       "Steam": "76561199734974706",
+      "Score": 12,
+      "Time": "03:35"
+    },
+    {
+      "Name": "十一月",
+      "Steam": "76561199691953478",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "CVEL_PL",
+      "Steam": "76561198766692358",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "osadj0ivpoav",
+      "Steam": "76561199713973176",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561199831618461",
       "Score": 0,
       "Time": "??:??"
     }
