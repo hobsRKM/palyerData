@@ -1,52 +1,58 @@
 {
-  "Time": "2025-11-25T02:33:18.0132422Z",
+  "Time": "2025-11-25T02:35:18.1972854Z",
   "Players": [
+    {
+      "Name": "selling hek",
+      "Steam": "76561199865555785",
+      "Score": 0,
+      "Time": "01:16"
+    },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 60,
-      "Time": "08:32"
+      "Score": 0,
+      "Time": "10:32"
     },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
-      "Score": 2,
-      "Time": "487:50"
-    },
-    {
-      "Name": "mega",
-      "Steam": "76561199686882374",
-      "Score": 1,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "489:51"
     },
     {
       "Name": "Galaxy Annihilator",
       "Steam": "76561198765107568",
-      "Score": 15,
-      "Time": "07:36"
+      "Score": 0,
+      "Time": "09:36"
     },
     {
       "Name": "bestmemecfg",
       "Steam": "76561198772698072",
       "Score": 0,
-      "Time": "569:40"
+      "Time": "571:40"
     },
     {
       "Name": "jihiv42416",
       "Steam": "76561198765274304",
-      "Score": 42,
-      "Time": "53:29"
+      "Score": 0,
+      "Time": "55:30"
     },
     {
       "Name": "hessu777",
       "Steam": "76561198776921465",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "voer 764",
       "Steam": "76561197970013782",
-      "Score": 22,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cc",
+      "Steam": "76561198784918695",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
