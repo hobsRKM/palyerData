@@ -1,28 +1,46 @@
 {
-  "Time": "2025-11-25T07:50:22.8217556Z",
+  "Time": "2025-11-25T07:54:22.8317219Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 30,
-      "Time": "98:00"
+      "Score": 56,
+      "Time": "102:00"
+    },
+    {
+      "Name": "Dzee_Gamez",
+      "Steam": "76561199865563018",
+      "Score": 2,
+      "Time": "01:04"
+    },
+    {
+      "Name": "I love asian minors",
+      "Steam": "76561198765943759",
+      "Score": 0,
+      "Time": "04:02"
     },
     {
       "Name": "awp",
       "Steam": "76561199849399779",
-      "Score": 19,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "llllllllllllllll",
       "Steam": "76561199045450966",
-      "Score": 3,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "NiKo",
       "Steam": "76561199263302232",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "天空位",
+      "Steam": "76561198781709289",
+      "Score": 8,
       "Time": "??:??"
     }
   ]
