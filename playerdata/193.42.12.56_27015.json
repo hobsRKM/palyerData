@@ -1,77 +1,95 @@
 {
-  "Time": "2025-11-25T20:13:16.8835955Z",
+  "Time": "2025-11-25T20:15:16.8744695Z",
   "Players": [
+    {
+      "Name": "JohnRambo",
+      "Steam": "76561199075912458",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "thefinest",
       "Steam": "76561199855905772",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "WOMANBO$$ ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 6,
-      "Time": "01:23"
+      "Score": 2,
+      "Time": "03:23"
     },
     {
       "Name": "Mahmoud's Kebab Shop",
       "Steam": "76561199105830408",
-      "Score": 84,
+      "Score": 91,
       "Time": "??:??"
+    },
+    {
+      "Name": "CHAMPIONS Kubrick",
+      "Steam": "76561199629184110",
+      "Score": 43,
+      "Time": "00:52"
     },
     {
       "Name": "cout << \"talkmyshit\"",
       "Steam": "76561199217723771",
-      "Score": 11,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "CHAMPIONS xaNe",
       "Steam": "76561199388843433",
       "Score": 0,
-      "Time": "139:27"
+      "Time": "141:27"
+    },
+    {
+      "Name": "Felix",
+      "Steam": "76561198193603937",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Omertus",
       "Steam": "76561198160571123",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "realpious",
       "Steam": "76561199174885840",
-      "Score": 32,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "CHAMPIONS Kazuki",
       "Steam": "76561198327957560",
-      "Score": 67,
-      "Time": "46:45"
+      "Score": 71,
+      "Time": "48:45"
     },
     {
       "Name": "BRUTALlTY Nicho",
       "Steam": "76561199180147646",
-      "Score": 15,
-      "Time": "08:35"
+      "Score": 17,
+      "Time": "10:35"
     },
     {
       "Name": "running up that hill",
       "Steam": "76561199630060756",
       "Score": 4,
-      "Time": "33:47"
+      "Time": "35:47"
     },
     {
       "Name": "Phylien",
       "Steam": "76561199442037140",
-      "Score": 2,
-      "Time": "33:56"
+      "Score": 4,
+      "Time": "35:56"
     },
     {
       "Name": "CHAMPIONS Camora",
       "Steam": "76561198417239008",
       "Score": 0,
-      "Time": "05:00"
+      "Time": "07:00"
     }
   ]
 }
