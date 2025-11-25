@@ -1,28 +1,40 @@
 {
-  "Time": "2025-11-25T10:56:22.8274912Z",
+  "Time": "2025-11-25T10:58:22.8377611Z",
   "Players": [
     {
       "Name": "llllllllllllllll",
       "Steam": "76561199045450966",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "天空位",
+      "Steam": "76561198781709289",
+      "Score": 50,
+      "Time": "00:12"
+    },
+    {
+      "Name": "donk",
+      "Steam": "76561199765400873",
+      "Score": 69,
+      "Time": "00:22"
     },
     {
       "Name": "辉夜",
       "Steam": "76561198384514574",
-      "Score": 2,
-      "Time": "01:50"
+      "Score": 5,
+      "Time": "03:50"
     },
     {
       "Name": "pawsocks",
       "Steam": "76561198765174832",
-      "Score": 53,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "ezjqkhm",
       "Steam": "76561199712107652",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -34,19 +46,13 @@
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
-      "Name": "lucas",
-      "Steam": "76561198769243493",
-      "Score": 0,
+      "Score": 28,
       "Time": "??:??"
     }
   ]
