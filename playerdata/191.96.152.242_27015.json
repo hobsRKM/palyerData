@@ -1,29 +1,41 @@
 {
-  "Time": "2025-11-25T02:51:38.1242795Z",
+  "Time": "2025-11-25T02:53:38.1256371Z",
   "Players": [
+    {
+      "Name": "Nox",
+      "Steam": "76561199712515915",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "@76pz #AntiChrist",
       "Steam": "76561198769191835",
-      "Score": 20,
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "odin",
+      "Steam": "76561199880717233",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Bilbo",
       "Steam": "76561198999356265",
-      "Score": 0,
-      "Time": "01:53"
+      "Score": 11,
+      "Time": "03:53"
     },
     {
       "Name": "7nt8",
       "Steam": "76561198422636928",
-      "Score": 22,
-      "Time": "07:48"
+      "Score": 26,
+      "Time": "09:48"
     }
   ]
 }
