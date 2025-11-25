@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-25T19:19:16.8777812Z",
+  "Time": "2025-11-25T19:21:16.8857269Z",
   "Players": [
     {
       "Name": "@wakata",
@@ -10,31 +10,19 @@
     {
       "Name": "Panda",
       "Steam": "76561198453141846",
-      "Score": 16,
-      "Time": "247:02"
+      "Score": 20,
+      "Time": "249:02"
     },
     {
       "Name": "ava",
       "Steam": "76561198843347921",
-      "Score": 55,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Projectile_Vektus",
-      "Steam": "76561199808810340",
-      "Score": 4,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "bass",
       "Steam": "76561199529029496",
-      "Score": 23,
-      "Time": "??:??"
-    },
-    {
-      "Name": "| Krytka |",
-      "Steam": "76561199200878934",
-      "Score": 40,
+      "Score": 35,
       "Time": "??:??"
     },
     {
@@ -46,8 +34,14 @@
     {
       "Name": "sigmaubica228",
       "Steam": "76561198776498844",
-      "Score": 55,
+      "Score": 61,
       "Time": "??:??"
+    },
+    {
+      "Name": "prada",
+      "Steam": "76561199821529132",
+      "Score": 3,
+      "Time": "248:49"
     }
   ]
 }
