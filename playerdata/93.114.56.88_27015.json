@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-25T06:35:37.4791679Z",
+  "Time": "2025-11-25T06:37:37.717667Z",
   "Players": [
+    {
+      "Name": "hurt me",
+      "Steam": "76561199874595968",
+      "Score": 7,
+      "Time": "819:13"
+    },
     {
       "Name": "bag pula in mata",
       "Steam": "76561198767401704",
-      "Score": 2,
-      "Time": "02:00"
+      "Score": 8,
+      "Time": "04:00"
     },
     {
       "Name": "bestmemecfg",
       "Steam": "76561198772698072",
       "Score": 0,
-      "Time": "812:00"
+      "Time": "814:00"
     },
     {
       "Name": "jihiv42416",
       "Steam": "76561198765274304",
-      "Score": 18,
-      "Time": "04:31"
+      "Score": 0,
+      "Time": "06:31"
     },
     {
       "Name": "hessu777",
       "Steam": "76561198776921465",
-      "Score": 14,
-      "Time": "86:17"
+      "Score": 20,
+      "Time": "88:17"
     },
     {
       "Name": "Infantrit",
       "Steam": "76561199805228755",
-      "Score": 44,
+      "Score": 46,
       "Time": "??:??"
     }
   ]
