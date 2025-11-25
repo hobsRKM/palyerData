@@ -1,70 +1,76 @@
 {
-  "Time": "2025-11-25T13:44:22.8290707Z",
+  "Time": "2025-11-25T13:48:22.8267284Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 1,
-      "Time": "93:15"
+      "Score": 2,
+      "Time": "97:15"
+    },
+    {
+      "Name": "donk",
+      "Steam": "76561199765400873",
+      "Score": 9,
+      "Time": "03:57"
     },
     {
       "Name": "mad",
       "Steam": "76561198778014163",
-      "Score": 6,
-      "Time": "36:01"
+      "Score": 20,
+      "Time": "40:01"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 4,
-      "Time": "19:39"
+      "Score": 10,
+      "Time": "23:39"
     },
     {
       "Name": "新加坡第一猥瑣男",
       "Steam": "76561198770667360",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "李七月",
       "Steam": "76561198774650874",
-      "Score": 8,
-      "Time": "76:18"
+      "Score": 32,
+      "Time": "80:18"
     },
     {
       "Name": "希特勒",
       "Steam": "76561199713973176",
-      "Score": 2,
-      "Time": "42:45"
+      "Score": 13,
+      "Time": "46:45"
     },
     {
       "Name": "超级无敌萝莉控",
       "Steam": "76561198816686788",
-      "Score": 0,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "nikkkkkkkkkkkkkkkka",
       "Steam": "76561198137967936",
-      "Score": 9,
-      "Time": "10:43"
+      "Score": 18,
+      "Time": "14:43"
     },
     {
       "Name": "乌萨奇",
       "Steam": "76561199737462904",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Lox",
-      "Steam": "76561198771165206",
-      "Score": 2,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "MASSACRE",
       "Steam": "76561199127011949",
-      "Score": 0,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jayesh Rajput",
+      "Steam": "76561198783132298",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
