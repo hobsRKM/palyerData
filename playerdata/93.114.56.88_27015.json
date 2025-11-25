@@ -1,47 +1,53 @@
 {
-  "Time": "2025-11-25T00:05:13.6450581Z",
+  "Time": "2025-11-25T00:07:13.6707179Z",
   "Players": [
+    {
+      "Name": "xX67GOONMASTER67Xx",
+      "Steam": "76561198767357767",
+      "Score": 0,
+      "Time": "489:16"
+    },
     {
       "Name": "STARKO",
       "Steam": "76561199847239145",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mamut",
+      "Steam": "76561198960185345",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "hahoa",
       "Steam": "76561198779285478",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "JSTN\"12",
       "Steam": "76561199865276971",
-      "Score": 15,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Nice Try",
       "Steam": "76561198782597755",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "zeN",
-      "Steam": "76561199783360208",
-      "Score": 13,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Galaxy Annihilator",
       "Steam": "76561198765107568",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "bestmemecfg",
       "Steam": "76561198772698072",
       "Score": 0,
-      "Time": "421:36"
+      "Time": "423:36"
     },
     {
       "Name": ":d",
@@ -52,14 +58,20 @@
     {
       "Name": "^-^",
       "Steam": "76561198870098330",
-      "Score": 11,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "| Krytka |",
       "Steam": "76561199200878934",
+      "Score": 4,
+      "Time": "361:43"
+    },
+    {
+      "Name": "RS3",
+      "Steam": "76561199756965247",
       "Score": 0,
-      "Time": "359:43"
+      "Time": "335:25"
     }
   ]
 }
