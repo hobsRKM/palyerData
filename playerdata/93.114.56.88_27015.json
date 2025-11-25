@@ -1,41 +1,35 @@
 {
-  "Time": "2025-11-25T10:12:02.45297Z",
+  "Time": "2025-11-25T10:14:02.5457153Z",
   "Players": [
     {
       "Name": "wha mi",
       "Steam": "76561199584894243",
-      "Score": 56,
+      "Score": 62,
       "Time": "??:??"
+    },
+    {
+      "Name": "wajruss_",
+      "Steam": "76561198769923812",
+      "Score": 0,
+      "Time": "338:24"
     },
     {
       "Name": "123",
       "Steam": "76561198969530926",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Big Jerome",
       "Steam": "76561199874806273",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "axure",
       "Steam": "76561199136389558",
       "Score": 4,
-      "Time": "05:42"
-    },
-    {
-      "Name": "realpious",
-      "Steam": "76561199174885840",
-      "Score": 93,
-      "Time": "1213:33"
-    },
-    {
-      "Name": "JediMindTricks",
-      "Steam": "76561198081276183",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "07:43"
     }
   ]
 }
