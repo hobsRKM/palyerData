@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-25T02:19:38.1224438Z",
+  "Time": "2025-11-25T02:21:38.1293387Z",
   "Players": [
+    {
+      "Name": "Cookie",
+      "Steam": "76561199889788325",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 36,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
-      "Score": 0,
-      "Time": "26:44"
+      "Score": 2,
+      "Time": "28:44"
     },
     {
       "Name": "ace",
       "Steam": "76561198043769839",
-      "Score": 17,
-      "Time": "21:28"
+      "Score": 19,
+      "Time": "23:28"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 6,
-      "Time": "02:42"
+      "Score": 14,
+      "Time": "04:42"
     }
   ]
 }
