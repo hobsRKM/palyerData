@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-25T18:40:42.0349248Z",
+  "Time": "2025-11-25T18:42:42.0443219Z",
   "Players": [
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
+      "Score": 4,
+      "Time": "03:46"
+    },
+    {
+      "Name": "@SkinStoreProBot",
+      "Steam": "76561199855783668",
       "Score": 0,
-      "Time": "01:46"
+      "Time": "01:07"
     }
   ]
 }
