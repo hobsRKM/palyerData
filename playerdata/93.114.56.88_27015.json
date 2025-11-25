@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-25T06:19:35.5940161Z",
+  "Time": "2025-11-25T06:21:35.8987369Z",
   "Players": [
+    {
+      "Name": "\uD835\uDD05\uD835\uDD1E\uD835\uDD30\uD835\uDD31\uD835\uDD1E\uD835\uDD2F\uD835\uDD21",
+      "Steam": "76561199827217325",
+      "Score": 0,
+      "Time": "708:09"
+    },
     {
       "Name": "Omulusma Mafia.Orfanilor",
       "Steam": "76561199594833666",
-      "Score": 71,
-      "Time": "34:25"
+      "Score": 80,
+      "Time": "36:25"
     },
     {
       "Name": "sleepy skeety",
@@ -16,49 +22,55 @@
     {
       "Name": "bag pula in mata",
       "Steam": "76561198767401704",
-      "Score": 5,
-      "Time": "29:09"
+      "Score": 8,
+      "Time": "31:09"
     },
     {
       "Name": "duh",
       "Steam": "76561199850138156",
-      "Score": 65,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "bestmemecfg",
       "Steam": "76561198772698072",
       "Score": 0,
-      "Time": "795:58"
+      "Time": "797:58"
+    },
+    {
+      "Name": "Daryl Dixon",
+      "Steam": "76561199058689515",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "jihiv42416",
       "Steam": "76561198765274304",
       "Score": 66,
-      "Time": "74:41"
+      "Time": "76:41"
     },
     {
       "Name": "Just A Lonely Star",
       "Steam": "76561198769067462",
-      "Score": 20,
-      "Time": "429:07"
+      "Score": 30,
+      "Time": "431:07"
     },
     {
       "Name": "abu nessie al-badguy",
       "Steam": "76561198988799563",
-      "Score": 33,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "hessu777",
       "Steam": "76561198776921465",
-      "Score": 25,
-      "Time": "70:15"
+      "Score": 28,
+      "Time": "72:16"
     },
     {
       "Name": "Infantrit",
       "Steam": "76561199805228755",
-      "Score": 32,
+      "Score": 36,
       "Time": "??:??"
     }
   ]
