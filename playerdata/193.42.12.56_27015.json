@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-25T17:57:16.879303Z",
+  "Time": "2025-11-25T17:59:16.875208Z",
   "Players": [
+    {
+      "Name": "bestcfgformeme",
+      "Steam": "76561198771683907",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "memesensemike",
       "Steam": "76561198767995808",
-      "Score": 4,
-      "Time": "161:36"
+      "Score": 16,
+      "Time": "163:36"
     },
     {
       "Name": "yur",
       "Steam": "76561198963063615",
       "Score": 2,
-      "Time": "05:28"
+      "Time": "07:28"
     }
   ]
 }
