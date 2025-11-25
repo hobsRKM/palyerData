@@ -1,46 +1,52 @@
 {
-  "Time": "2025-11-25T09:58:22.8263001Z",
+  "Time": "2025-11-25T10:08:22.8332045Z",
   "Players": [
+    {
+      "Name": "test",
+      "Steam": "76561198767240115",
+      "Score": 0,
+      "Time": "00:24"
+    },
+    {
+      "Name": "I love asian minors",
+      "Steam": "76561198765943759",
+      "Score": 0,
+      "Time": "00:15"
+    },
     {
       "Name": "llllllllllllllll",
       "Steam": "76561199045450966",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "天空位",
       "Steam": "76561198781709289",
-      "Score": 0,
-      "Time": "01:23"
+      "Score": 5,
+      "Time": "11:23"
     },
     {
       "Name": "donk",
       "Steam": "76561199765400873",
-      "Score": 62,
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "BeiBei_Hacking",
+      "Name": "pawsocks",
       "Steam": "76561198767917096",
-      "Score": 48,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "\uD83D\uDC80",
       "Steam": "76561198767436615",
-      "Score": 27,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "report me",
-      "Steam": "76561198336090575",
-      "Score": 72,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mad",
-      "Steam": "76561198778014163",
-      "Score": 64,
+      "Name": "pawsocks",
+      "Steam": "76561198765174832",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
