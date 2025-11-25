@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-25T09:21:55.8109835Z",
+  "Time": "2025-11-25T09:23:56.0704858Z",
   "Players": [
     {
       "Name": "aquaxxqq2",
       "Steam": "76561198787632516",
-      "Score": 42,
+      "Score": 44,
       "Time": "??:??"
+    },
+    {
+      "Name": "hbb.",
+      "Steam": "76561199649825189",
+      "Score": 2,
+      "Time": "973:55"
     },
     {
       "Name": "Relic",
@@ -17,25 +23,31 @@
       "Name": "hurt me",
       "Steam": "76561199874595968",
       "Score": 28,
-      "Time": "19:57"
+      "Time": "21:57"
     },
     {
       "Name": "Seiðr",
       "Steam": "76561198333235279",
-      "Score": 14,
-      "Time": "03:38"
+      "Score": 27,
+      "Time": "05:38"
     },
     {
       "Name": "K嘉",
       "Steam": "76561198871823378",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "true form depression",
       "Steam": "76561199839505926",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "dilino",
+      "Steam": "76561199889654381",
+      "Score": 0,
+      "Time": "00:48"
     }
   ]
 }
