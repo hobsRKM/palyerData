@@ -1,100 +1,70 @@
 {
-  "Time": "2025-11-26T21:01:01.845779Z",
+  "Time": "2025-11-26T21:03:01.8519086Z",
   "Players": [
-    {
-      "Name": "TAGHI",
-      "Steam": "76561198113642065",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "fabik",
       "Steam": "76561199611292956",
-      "Score": 18,
-      "Time": "364:19"
+      "Score": 24,
+      "Time": "366:19"
     },
     {
       "Name": "CHAMPIONS henri",
       "Steam": "76561199629184110",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 36,
-      "Time": "06:57"
+      "Score": 47,
+      "Time": "08:57"
     },
     {
-      "Name": "ALPHA \uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8�",
+      "Name": "AL \uD835\uDCDB\uD835\uDCF8\uD835\uDCEB\uD835\uDCF8\uD835\uDCFD\uD835\uDCF8�",
       "Steam": "76561199230497763",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "senssi",
       "Steam": "76561198451437168",
-      "Score": 5,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561199790313338",
       "Score": 21,
-      "Time": "51:40"
-    },
-    {
-      "Name": "Anonym45",
-      "Steam": "76561199068776576",
-      "Score": 40,
-      "Time": "??:??"
+      "Time": "53:40"
     },
     {
       "Name": "req",
       "Steam": "76561199045698424",
       "Score": 17,
-      "Time": "209:46"
+      "Time": "211:46"
     },
     {
       "Name": "esskeetit",
       "Steam": "76561199471182367",
-      "Score": 29,
-      "Time": "??:??"
-    },
-    {
-      "Name": "youtube.com/@BIgben5577",
-      "Steam": "76561198277498465",
-      "Score": 6,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Monster",
       "Steam": "76561198793010187",
       "Score": 6,
-      "Time": "97:50"
+      "Time": "99:50"
     },
     {
       "Name": "ezfrags premium",
       "Steam": "76561199503396912",
-      "Score": 8,
-      "Time": "19:00"
+      "Score": 16,
+      "Time": "21:00"
     },
     {
       "Name": "sign crushes motorist",
       "Steam": "76561197963375868",
-      "Score": 45,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Maks",
-      "Steam": "76561198408832015",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "NotRishy",
-      "Steam": "76561198970684947",
-      "Score": 31,
+      "Score": 49,
       "Time": "??:??"
     },
     {
@@ -106,20 +76,26 @@
     {
       "Name": "krnl",
       "Steam": "76561199387410416",
-      "Score": 80,
-      "Time": "90:55"
+      "Score": 85,
+      "Time": "92:55"
+    },
+    {
+      "Name": "ebanko",
+      "Steam": "76561198764776696",
+      "Score": 1,
+      "Time": "??:??"
     },
     {
       "Name": "jacper",
       "Steam": "76561199492563531",
-      "Score": 119,
+      "Score": 126,
       "Time": "??:??"
     },
     {
       "Name": "rcx",
       "Steam": "76561199784226010",
-      "Score": 1,
-      "Time": "02:09"
+      "Score": 17,
+      "Time": "04:09"
     }
   ]
 }
