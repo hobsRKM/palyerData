@@ -1,22 +1,16 @@
 {
-  "Time": "2025-11-26T07:15:24.5260953Z",
+  "Time": "2025-11-26T07:17:24.5168442Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 0,
-      "Time": "43:25"
+      "Score": 6,
+      "Time": "45:25"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "@cooper on fatality",
-      "Steam": "76561198791610523",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
