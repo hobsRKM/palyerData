@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-26T22:20:10.7749478Z",
+  "Time": "2025-11-26T22:22:10.768863Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561198770779132",
+      "Score": 0,
+      "Time": "98:26"
+    },
     {
       "Name": "Femboy  Lover",
       "Steam": "76561199828015418",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "BoB",
       "Steam": "76561198780246863",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "revolver to global elite",
       "Steam": "76561198765200862",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Nyax",
       "Steam": "76561199227120995",
-      "Score": 30,
-      "Time": "10:00"
+      "Score": 37,
+      "Time": "12:00"
     }
   ]
 }
