@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-26T09:13:15.962213Z",
+  "Time": "2025-11-26T09:15:15.9543051Z",
   "Players": [
+    {
+      "Name": "/",
+      "Steam": "76561198905016916",
+      "Score": 0,
+      "Time": "00:04"
+    },
     {
       "Name": "Infantrit",
       "Steam": "76561199827876555",
-      "Score": 37,
-      "Time": "22:37"
+      "Score": 44,
+      "Time": "24:37"
     },
     {
       "Name": "Seoul999",
       "Steam": "76561198051992092",
-      "Score": 59,
-      "Time": "1042:18"
+      "Score": 66,
+      "Time": "1044:18"
     },
     {
       "Name": ".gg/zq77bD89Eh | kfc sokeg",
       "Steam": "76561198786319361",
-      "Score": 15,
-      "Time": "27:35"
+      "Score": 19,
+      "Time": "29:35"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "nera",
       "Steam": "76561199100125759",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
