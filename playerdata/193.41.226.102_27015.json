@@ -1,46 +1,52 @@
 {
-  "Time": "2025-11-26T20:07:01.8420473Z",
+  "Time": "2025-11-26T20:09:01.8411606Z",
   "Players": [
+    {
+      "Name": "ЕЭЗ",
+      "Steam": "76561199792406591",
+      "Score": 2,
+      "Time": "01:31"
+    },
     {
       "Name": "hessu777",
       "Steam": "76561198776921465",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "・BʟaɴK・",
       "Steam": "76561199060888026",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "LORD PELICAN",
       "Steam": "76561199558014198",
-      "Score": 6,
-      "Time": "42:39"
+      "Score": 10,
+      "Time": "44:39"
     },
     {
       "Name": "krankenwagen",
       "Steam": "76561198777467018",
-      "Score": 19,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 22,
-      "Time": "96:08"
+      "Score": 24,
+      "Time": "98:08"
     },
     {
       "Name": "TaTaRun",
       "Steam": "76561199042489490",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Курнул навоз",
       "Steam": "76561199158315950",
-      "Score": 21,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
