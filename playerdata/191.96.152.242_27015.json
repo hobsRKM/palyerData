@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-26T22:07:59.3086701Z",
+  "Time": "2025-11-26T22:09:59.302932Z",
   "Players": [
+    {
+      "Name": "\u1CBC黑鬼",
+      "Steam": "76561199057653248",
+      "Score": 16,
+      "Time": "01:42"
+    },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 104,
+      "Score": 108,
       "Time": "??:??"
     },
     {
       "Name": "society",
       "Steam": "76561198180065165",
-      "Score": 4,
-      "Time": "01:45"
+      "Score": 0,
+      "Time": "03:45"
     },
     {
       "Name": "rayvnmoon",
@@ -28,12 +34,18 @@
     {
       "Name": "superstar >:3",
       "Steam": "76561198768490015",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "headshot bot",
       "Steam": "76561198767129742",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "luisa-resolen",
+      "Steam": "76561198766028659",
       "Score": 0,
       "Time": "??:??"
     }
