@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-26T22:05:59.3044308Z",
+  "Time": "2025-11-26T22:07:59.3086701Z",
   "Players": [
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 96,
+      "Score": 104,
       "Time": "??:??"
+    },
+    {
+      "Name": "society",
+      "Steam": "76561198180065165",
+      "Score": 4,
+      "Time": "01:45"
     },
     {
       "Name": "rayvnmoon",
@@ -16,12 +22,18 @@
     {
       "Name": "Tell me that you love me",
       "Steam": "76561199844832166",
-      "Score": 84,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "superstar >:3",
       "Steam": "76561198768490015",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "headshot bot",
+      "Steam": "76561198767129742",
       "Score": 0,
       "Time": "??:??"
     }
