@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-26T22:12:10.7747244Z",
+  "Time": "2025-11-26T22:14:10.7721855Z",
   "Players": [
+    {
+      "Name": "BoB",
+      "Steam": "76561198780246863",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "revolver to global elite",
       "Steam": "76561198765200862",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Nyax",
       "Steam": "76561199227120995",
-      "Score": 2,
-      "Time": "02:00"
+      "Score": 0,
+      "Time": "04:00"
     }
   ]
 }
