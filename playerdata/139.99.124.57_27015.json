@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-26T16:37:23.4897415Z",
+  "Time": "2025-11-26T16:39:23.49343Z",
   "Players": [
     {
       "Name": "Nixware",
       "Steam": "76561198775209729",
-      "Score": 45,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 53,
-      "Time": "110:01"
+      "Score": 57,
+      "Time": "112:01"
     },
     {
       "Name": "MASSACRE",
       "Steam": "76561199127011949",
-      "Score": 30,
-      "Time": "146:14"
+      "Score": 2,
+      "Time": "148:14"
     },
     {
       "Name": "xxxxxvaaa",
       "Steam": "76561199856569283",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
+    },
+    {
+      "Name": "GDX",
+      "Steam": "76561198973803593",
+      "Score": 0,
+      "Time": "01:49"
     }
   ]
 }
