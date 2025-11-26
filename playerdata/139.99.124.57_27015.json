@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-26T15:59:23.4840453Z",
+  "Time": "2025-11-26T16:01:23.4814698Z",
   "Players": [
+    {
+      "Name": "Nixware",
+      "Steam": "76561198775209729",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 3,
-      "Time": "72:01"
+      "Score": 0,
+      "Time": "74:01"
     },
     {
       "Name": "MASSACRE",
       "Steam": "76561199127011949",
-      "Score": 7,
-      "Time": "108:14"
+      "Score": 9,
+      "Time": "110:14"
     },
     {
       "Name": "diddyman217",
@@ -22,19 +28,19 @@
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 6,
-      "Time": "15:00"
+      "Score": 16,
+      "Time": "17:00"
     },
     {
       "Name": "xxxxxvaaa",
       "Steam": "76561199856569283",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "チルノ",
+      "Name": "zizi",
       "Steam": "76561199218048025",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
