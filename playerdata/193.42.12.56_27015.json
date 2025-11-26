@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-26T07:19:15.9605891Z",
+  "Time": "2025-11-26T07:21:15.9620922Z",
   "Players": [
+    {
+      "Name": "thefinest",
+      "Steam": "76561199855905772",
+      "Score": 0,
+      "Time": "01:21"
+    },
     {
       "Name": ".Lose\uD83C\uDF97",
       "Steam": "76561198859634729",
-      "Score": 49,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "testing ovix cheat",
       "Steam": "76561199865276971",
-      "Score": 67,
+      "Score": 75,
       "Time": "??:??"
     },
     {
@@ -22,20 +28,20 @@
     {
       "Name": "Topeczkaa",
       "Steam": "76561199814946715",
-      "Score": 21,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "noe",
       "Steam": "76561199850138156",
-      "Score": 0,
-      "Time": "10:56"
+      "Score": 2,
+      "Time": "12:56"
     },
     {
       "Name": "1233123332321cfcc9c9c9c9",
       "Steam": "76561199514633547",
-      "Score": 19,
-      "Time": "09:26"
+      "Score": 21,
+      "Time": "11:26"
     }
   ]
 }
