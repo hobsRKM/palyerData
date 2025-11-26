@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-26T04:20:58.3054114Z",
-  "Players": []
+  "Time": "2025-11-26T04:22:01.6342625Z",
+  "Players": [
+    {
+      "Name": "jeep",
+      "Steam": "76561199480293261",
+      "Score": 56,
+      "Time": "10:03"
+    },
+    {
+      "Name": "fatali Cookie",
+      "Steam": "76561199889788325",
+      "Score": 12,
+      "Time": "05:28"
+    },
+    {
+      "Name": "bigblackballs21",
+      "Steam": "76561199868095545",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 7,
+      "Time": "??:??"
+    }
+  ]
 }
