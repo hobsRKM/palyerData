@@ -1,17 +1,11 @@
 {
-  "Time": "2025-11-26T01:34:22.9325268Z",
+  "Time": "2025-11-26T01:36:22.9201692Z",
   "Players": [
     {
       "Name": "Carl Wheezer",
       "Steam": "76561199492834313",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
-    },
-    {
-      "Name": "BOT Yuri",
-      "Steam": "76561199849640465",
-      "Score": 8,
-      "Time": "03:01"
     },
     {
       "Name": "voh",
@@ -22,19 +16,31 @@
     {
       "Name": "ace",
       "Steam": "76561198043769839",
+      "Score": 7,
+      "Time": "04:14"
+    },
+    {
+      "Name": "dubayisteenc5c",
+      "Steam": "76561198776306195",
       "Score": 0,
-      "Time": "02:14"
+      "Time": "??:??"
+    },
+    {
+      "Name": "Techno",
+      "Steam": "76561198170327163",
+      "Score": 0,
+      "Time": "167:03"
     },
     {
       "Name": "Bilbo",
       "Steam": "76561198999356265",
-      "Score": 0,
-      "Time": "01:00"
+      "Score": 6,
+      "Time": "03:00"
     },
     {
       "Name": "n",
       "Steam": "76561198781161681",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
