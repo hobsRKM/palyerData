@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-26T23:05:59.2970073Z",
+  "Time": "2025-11-26T23:07:59.3033435Z",
   "Players": [
     {
       "Name": "megaumferris",
@@ -10,38 +10,44 @@
     {
       "Name": "Hellboy Peep",
       "Steam": "76561198765530598",
-      "Score": 28,
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bob Ross Toaster",
+      "Steam": "76561199577178634",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 3,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "pɥʌɥ",
       "Steam": "76561198166519466",
-      "Score": 52,
-      "Time": "16:35"
+      "Score": 66,
+      "Time": "18:35"
     },
     {
       "Name": "7nt8",
       "Steam": "76561198422636928",
       "Score": 5,
-      "Time": "07:10"
+      "Time": "09:10"
     },
     {
       "Name": "astro",
       "Steam": "76561199293792825",
-      "Score": 15,
-      "Time": "48:45"
+      "Score": 17,
+      "Time": "50:45"
     },
     {
       "Name": "Team Titans",
       "Steam": "76561198131605879",
-      "Score": 38,
-      "Time": "48:07"
+      "Score": 46,
+      "Time": "50:07"
     }
   ]
 }
