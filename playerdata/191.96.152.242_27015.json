@@ -1,35 +1,47 @@
 {
-  "Time": "2025-11-26T21:23:59.3091386Z",
+  "Time": "2025-11-26T21:25:59.3073434Z",
   "Players": [
     {
       "Name": "illinois",
       "Steam": "76561199850352287",
-      "Score": 67,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "\u1CBC黑鬼",
       "Steam": "76561199057653248",
       "Score": 10,
-      "Time": "04:11"
+      "Time": "06:11"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 35,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "john",
       "Steam": "76561198767015556",
-      "Score": 36,
+      "Score": 44,
       "Time": "??:??"
+    },
+    {
+      "Name": "society",
+      "Steam": "76561198180065165",
+      "Score": 2,
+      "Time": "00:45"
     },
     {
       "Name": "sora",
       "Steam": "76561199860618727",
-      "Score": 21,
-      "Time": "05:44"
+      "Score": 31,
+      "Time": "07:44"
+    },
+    {
+      "Name": "Gamesense HR Dept.",
+      "Steam": "76561199741045546",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
