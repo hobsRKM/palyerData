@@ -1,28 +1,22 @@
 {
-  "Time": "2025-11-26T07:07:24.5241305Z",
+  "Time": "2025-11-26T07:09:24.5271711Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 32,
-      "Time": "35:25"
+      "Score": 34,
+      "Time": "37:25"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 34,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 53,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Alex GMA",
-      "Steam": "76561199194718942",
-      "Score": 52,
+      "Score": 65,
       "Time": "??:??"
     }
   ]
