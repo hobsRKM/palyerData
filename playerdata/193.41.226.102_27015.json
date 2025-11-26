@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-26T19:33:01.8435934Z",
+  "Time": "2025-11-26T19:35:01.846352Z",
   "Players": [
+    {
+      "Name": "AquaFlicks",
+      "Steam": "76561199891925199",
+      "Score": 0,
+      "Time": "69:49"
+    },
     {
       "Name": "⁺ ₊✦Ria₊✦°",
       "Steam": "76561199236818034",
-      "Score": 14,
-      "Time": "183:34"
+      "Score": 17,
+      "Time": "185:34"
     },
     {
       "Name": "i bought bitcoin at 20k",
       "Steam": "76561199682194905",
-      "Score": 26,
-      "Time": "232:03"
+      "Score": 32,
+      "Time": "234:03"
     },
     {
       "Name": "100mg on my desk",
       "Steam": "76561199827221456",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "LORD PELICAN",
       "Steam": "76561199558014198",
       "Score": 20,
-      "Time": "08:39"
+      "Time": "10:40"
     },
     {
       "Name": "Plaguecheat.govno",
@@ -34,20 +40,14 @@
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 23,
-      "Time": "62:08"
+      "Score": 25,
+      "Time": "64:08"
     },
     {
       "Name": "marcel",
       "Steam": "76561199855619651",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
-    },
-    {
-      "Name": "________________________-.-",
-      "Steam": "76561198766966012",
-      "Score": 0,
-      "Time": "02:02"
     }
   ]
 }
