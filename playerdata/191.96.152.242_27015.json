@@ -1,58 +1,64 @@
 {
-  "Time": "2025-11-26T22:41:59.3072256Z",
+  "Time": "2025-11-26T22:43:59.3030043Z",
   "Players": [
+    {
+      "Name": "nera",
+      "Steam": "76561199100125759",
+      "Score": 1,
+      "Time": "01:47"
+    },
     {
       "Name": "catknow",
       "Steam": "76561199847868570",
-      "Score": 73,
-      "Time": "29:32"
+      "Score": 87,
+      "Time": "31:32"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 81,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 87,
+      "Score": 91,
       "Time": "??:??"
     },
     {
       "Name": "astro",
       "Steam": "76561199293792825",
-      "Score": 39,
-      "Time": "24:45"
+      "Score": 41,
+      "Time": "26:45"
     },
     {
       "Name": "Team Titans",
       "Steam": "76561198131605879",
-      "Score": 66,
-      "Time": "24:07"
+      "Score": 68,
+      "Time": "26:07"
     },
     {
       "Name": "BOT Opie",
       "Steam": "76561197982529353",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "socrates",
       "Steam": "76561199090849177",
-      "Score": 15,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "boolyblud777",
       "Steam": "76561198791541733",
-      "Score": 29,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 7,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
