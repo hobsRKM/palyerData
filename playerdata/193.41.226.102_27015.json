@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-26T03:15:15.9240104Z",
+  "Time": "2025-11-26T03:17:15.9274146Z",
   "Players": [
     {
       "Name": "SW",
       "Steam": "76561199647822907",
       "Score": 10,
-      "Time": "704:41"
+      "Time": "706:41"
     },
     {
       "Name": "not_fatality",
       "Steam": "76561198764620607",
-      "Score": 45,
-      "Time": "18:11"
+      "Score": 47,
+      "Time": "20:11"
     },
     {
       "Name": "Omulusma Mafia.Orfanilor",
       "Steam": "76561199594833666",
-      "Score": 108,
-      "Time": "34:42"
+      "Score": 114,
+      "Time": "36:42"
+    },
+    {
+      "Name": "petil99720",
+      "Steam": "76561198767545631",
+      "Score": 25,
+      "Time": "01:30"
     },
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
       "Score": 0,
-      "Time": "89:07"
+      "Time": "91:07"
     },
     {
       "Name": "testing ovix cheat",
       "Steam": "76561199865276971",
-      "Score": 6,
-      "Time": "05:17"
+      "Score": 16,
+      "Time": "07:17"
     }
   ]
 }
