@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-27T15:42:56.7657221Z",
+  "Time": "2025-11-27T15:44:56.7677894Z",
   "Players": [
     {
       "Name": "bad player",
       "Steam": "76561199076151908",
-      "Score": 47,
-      "Time": "22:33"
+      "Score": 51,
+      "Time": "24:33"
     },
     {
       "Name": "Mr. Creamy Peanut",
       "Steam": "76561199225965120",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD58\uD835\uDFDD\uD835\uDFE1.\uD835\uDD56\uD835\uDD69\uD835\uDD56 \uD83D\uDCB2",
       "Steam": "76561198766489601",
       "Score": 15,
-      "Time": "55:34"
+      "Time": "57:34"
     },
     {
       "Name": "7nt8",
       "Steam": "76561198353986841",
-      "Score": 24,
-      "Time": "14:59"
+      "Score": 26,
+      "Time": "16:59"
+    },
+    {
+      "Name": "808 sizzle",
+      "Steam": "76561198790537498",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
