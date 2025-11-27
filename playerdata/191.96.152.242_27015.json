@@ -1,27 +1,15 @@
 {
-  "Time": "2025-11-27T18:26:56.7776873Z",
+  "Time": "2025-11-27T18:28:56.76923Z",
   "Players": [
     {
       "Name": "tokyo",
       "Steam": "76561199367021539",
-      "Score": 34,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "nixsense",
-      "Steam": "76561198767204503",
-      "Score": 69,
-      "Time": "25:48"
     },
     {
       "Name": "kitchen sink part 4",
       "Steam": "76561198764873808",
-      "Score": 33,
-      "Time": "??:??"
-    },
-    {
-      "Name": "bigfatlazybaby",
-      "Steam": "76561199815887513",
       "Score": 0,
       "Time": "??:??"
     },
@@ -35,6 +23,12 @@
       "Name": "ace",
       "Steam": "76561198043769839",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Techno",
+      "Steam": "76561198170327163",
+      "Score": 6,
       "Time": "??:??"
     }
   ]
