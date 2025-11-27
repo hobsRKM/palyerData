@@ -1,10 +1,16 @@
 {
-  "Time": "2025-11-27T05:21:22.1410835Z",
+  "Time": "2025-11-27T05:23:22.1408794Z",
   "Players": [
+    {
+      "Name": "Chimpanzini Bananini",
+      "Steam": "76561199518802099",
+      "Score": 14,
+      "Time": "01:12"
+    },
     {
       "Name": "blatantgay",
       "Steam": "76561198792862274",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
