@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-27T00:51:59.3065832Z",
+  "Time": "2025-11-27T00:53:59.3092142Z",
   "Players": [
     {
       "Name": "Xrc",
       "Steam": "76561199235431546",
-      "Score": 4,
-      "Time": "03:18"
+      "Score": 6,
+      "Time": "05:18"
+    },
+    {
+      "Name": "{T}",
+      "Steam": "76561199320962873",
+      "Score": 0,
+      "Time": "00:31"
     },
     {
       "Name": "skibnicker",
@@ -22,19 +28,19 @@
     {
       "Name": "michael!!!!",
       "Steam": "76561198218292293",
-      "Score": 83,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "48",
       "Steam": "76561199603581674",
-      "Score": 4,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "asdf",
       "Steam": "76561198770477890",
-      "Score": 80,
+      "Score": 88,
       "Time": "??:??"
     },
     {
@@ -46,37 +52,31 @@
     {
       "Name": "kiki",
       "Steam": "76561199711887613",
-      "Score": 58,
+      "Score": 64,
       "Time": "??:??"
-    },
-    {
-      "Name": "kitchen sink part 4",
-      "Steam": "76561198764873808",
-      "Score": 6,
-      "Time": "02:33"
     },
     {
       "Name": "voh",
       "Steam": "76561198767035921",
-      "Score": 23,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "slowly",
       "Steam": "76561199400046022",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "baited",
       "Steam": "76561198765685188",
-      "Score": 15,
-      "Time": "05:36"
+      "Score": 27,
+      "Time": "07:36"
     },
     {
       "Name": "7nt8",
       "Steam": "76561198353986841",
-      "Score": 72,
+      "Score": 76,
       "Time": "??:??"
     }
   ]
