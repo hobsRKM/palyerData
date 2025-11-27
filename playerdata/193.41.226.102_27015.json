@@ -1,15 +1,21 @@
 {
-  "Time": "2025-11-27T06:17:38.2946067Z",
+  "Time": "2025-11-27T06:19:38.2969786Z",
   "Players": [
     {
       "Name": "Diary of Jane",
       "Steam": "76561199014369030",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "ColinCollects",
       "Steam": "76561198384142128",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "China AI peek bot 1",
+      "Steam": "76561199868653238",
       "Score": 2,
       "Time": "??:??"
     }
