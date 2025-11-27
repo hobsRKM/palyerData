@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-27T01:57:59.2998405Z",
+  "Time": "2025-11-27T01:59:59.3141427Z",
   "Players": [
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 28,
-      "Time": "23:37"
+      "Score": 34,
+      "Time": "25:37"
+    },
+    {
+      "Name": "SRC",
+      "Steam": "76561198241397796",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Zaxh",
       "Steam": "76561198366421077",
-      "Score": 23,
+      "Score": 28,
       "Time": "??:??"
     },
     {
@@ -29,12 +35,18 @@
       "Name": "x",
       "Steam": "76561198766544792",
       "Score": 8,
-      "Time": "22:47"
+      "Time": "24:47"
+    },
+    {
+      "Name": "soda",
+      "Steam": "76561198786321609",
+      "Score": 0,
+      "Time": "00:10"
     },
     {
       "Name": "Sn0w",
       "Steam": "76561198044940085",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
@@ -46,38 +58,38 @@
     {
       "Name": "MoonShine",
       "Steam": "76561199461216032",
-      "Score": 6,
+      "Score": 7,
       "Time": "??:??"
-    },
-    {
-      "Name": "im a immigrant",
-      "Steam": "76561199410751476",
-      "Score": 11,
-      "Time": "164:31"
     },
     {
       "Name": "Pepper",
       "Steam": "76561198784229511",
-      "Score": 31,
-      "Time": "22:43"
+      "Score": 41,
+      "Time": "24:43"
     },
     {
       "Name": "lil bro",
       "Steam": "76561199841628879",
-      "Score": 6,
-      "Time": "17:10"
+      "Score": 10,
+      "Time": "19:10"
+    },
+    {
+      "Name": "thrax mafia",
+      "Steam": "76561198870752603",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "soaked™",
       "Steam": "76561199059024972",
-      "Score": 13,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
       "Score": 14,
-      "Time": "31:18"
+      "Time": "33:18"
     }
   ]
 }
