@@ -1,29 +1,35 @@
 {
-  "Time": "2025-11-27T05:53:59.3604712Z",
+  "Time": "2025-11-27T05:55:59.3510148Z",
   "Players": [
+    {
+      "Name": "blatantgay",
+      "Steam": "76561198792862274",
+      "Score": 0,
+      "Time": "01:46"
+    },
     {
       "Name": "voh",
       "Steam": "76561198767035921",
-      "Score": 28,
-      "Time": "62:25"
+      "Score": 36,
+      "Time": "64:25"
     },
     {
       "Name": "forget me",
       "Steam": "76561198764091881",
-      "Score": 46,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "evl",
       "Steam": "76561198166519466",
-      "Score": 60,
-      "Time": "18:38"
+      "Score": 66,
+      "Time": "20:38"
     },
     {
       "Name": "kawazaki",
       "Steam": "76561198768442455",
       "Score": 0,
-      "Time": "05:57"
+      "Time": "07:57"
     }
   ]
 }
