@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-27T08:10:20.4884603Z",
+  "Time": "2025-11-27T08:12:20.4826388Z",
   "Players": [
     {
       "Name": "t.me/xtomyb",
       "Steam": "76561199085968726",
-      "Score": 12,
-      "Time": "141:26"
+      "Score": 20,
+      "Time": "143:26"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 16,
-      "Time": "72:40"
+      "Score": 20,
+      "Time": "74:40"
     },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
-      "Score": 24,
-      "Time": "06:08"
+      "Score": 32,
+      "Time": "08:08"
+    },
+    {
+      "Name": "FatalityUserBTW",
+      "Steam": "76561198771334352",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
