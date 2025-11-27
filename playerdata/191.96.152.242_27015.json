@@ -1,59 +1,65 @@
 {
-  "Time": "2025-11-27T04:27:59.3466104Z",
+  "Time": "2025-11-27T04:29:59.3574922Z",
   "Players": [
+    {
+      "Name": "Berlin lebt wie nie zuvor",
+      "Steam": "76561199803595505",
+      "Score": 0,
+      "Time": "45:42"
+    },
     {
       "Name": "blatantgay",
       "Steam": "76561198792862274",
-      "Score": 41,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "vanhs",
       "Steam": "76561199116711833",
-      "Score": 15,
-      "Time": "215:12"
+      "Score": 19,
+      "Time": "217:12"
     },
     {
       "Name": "Tsar",
       "Steam": "76561198772813389",
       "Score": 11,
-      "Time": "62:24"
+      "Time": "64:24"
     },
     {
       "Name": "astro",
       "Steam": "76561199293792825",
-      "Score": 11,
-      "Time": "39:13"
+      "Score": 15,
+      "Time": "41:13"
     },
     {
       "Name": "simply sign my perc profile",
       "Steam": "76561199795780523",
-      "Score": 2,
-      "Time": "191:46"
+      "Score": 3,
+      "Time": "193:46"
     },
     {
       "Name": "Team Titans",
       "Steam": "76561198131605879",
-      "Score": 61,
-      "Time": "119:33"
+      "Score": 69,
+      "Time": "121:33"
     },
     {
       "Name": "язаБудду",
       "Steam": "76561198274325509",
-      "Score": 45,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "7nt8",
       "Steam": "76561198422636928",
-      "Score": 12,
-      "Time": "08:08"
+      "Score": 20,
+      "Time": "10:08"
     },
     {
       "Name": "⍟",
       "Steam": "76561199383205382",
-      "Score": 37,
-      "Time": "34:13"
+      "Score": 39,
+      "Time": "36:13"
     }
   ]
 }
