@@ -1,29 +1,29 @@
 {
-  "Time": "2025-11-27T03:01:59.3574933Z",
+  "Time": "2025-11-27T03:03:59.3481031Z",
   "Players": [
+    {
+      "Name": "1wxv4vhn",
+      "Steam": "76561199825807580",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Mike",
       "Steam": "76561198165685639",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 37,
-      "Time": "09:59"
+      "Score": 47,
+      "Time": "11:59"
     },
     {
       "Name": "astro",
       "Steam": "76561198782333753",
       "Score": 23,
-      "Time": "36:50"
-    },
-    {
-      "Name": "thrax mafia",
-      "Steam": "76561198870752603",
-      "Score": 12,
-      "Time": "18:44"
+      "Time": "38:50"
     }
   ]
 }
