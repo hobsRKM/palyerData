@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-27T22:44:56.8057815Z",
+  "Time": "2025-11-27T22:46:56.7956105Z",
   "Players": [
+    {
+      "Name": "7nt8",
+      "Steam": "76561198353986841",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 4,
-      "Time": "21:51"
+      "Score": 13,
+      "Time": "23:51"
     },
     {
       "Name": "one tapper",
       "Steam": "76561198135596098",
-      "Score": 8,
-      "Time": "39:37"
+      "Score": 14,
+      "Time": "41:37"
     },
     {
       "Name": "PFS",
       "Steam": "76561198790486209",
-      "Score": 22,
-      "Time": "11:50"
+      "Score": 24,
+      "Time": "13:50"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198372144273",
-      "Score": 2,
-      "Time": "10:24"
+      "Score": 5,
+      "Time": "12:24"
     },
     {
       "Name": "Zaxh",
       "Steam": "76561198366421077",
-      "Score": 22,
-      "Time": "111:19"
+      "Score": 26,
+      "Time": "113:19"
     }
   ]
 }
