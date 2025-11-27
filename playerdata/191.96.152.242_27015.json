@@ -1,11 +1,23 @@
 {
-  "Time": "2025-11-27T20:16:56.7766571Z",
+  "Time": "2025-11-27T20:18:56.7728042Z",
   "Players": [
+    {
+      "Name": "U_Know_69",
+      "Steam": "76561199831385670",
+      "Score": 0,
+      "Time": "00:12"
+    },
     {
       "Name": "tokyo",
       "Steam": "76561199367021539",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Colonel Wigglewop",
+      "Steam": "76561199678608838",
+      "Score": 68,
+      "Time": "01:56"
     },
     {
       "Name": "James",
@@ -23,19 +35,19 @@
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198372144273",
       "Score": 21,
-      "Time": "24:57"
+      "Time": "26:57"
     },
     {
       "Name": "kiki",
       "Steam": "76561199711887613",
-      "Score": 73,
-      "Time": "38:51"
+      "Score": 81,
+      "Time": "40:51"
     },
     {
       "Name": "evl",
       "Steam": "76561198166519466",
       "Score": 46,
-      "Time": "15:03"
+      "Time": "17:03"
     },
     {
       "Name": "megaumferris",
@@ -44,15 +56,21 @@
       "Time": "??:??"
     },
     {
+      "Name": "ja",
+      "Steam": "76561198413420806",
+      "Score": 50,
+      "Time": "00:27"
+    },
+    {
       "Name": "j",
       "Steam": "76561199883344229",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "evil ja .",
       "Steam": "76561199849153218",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
     },
     {
@@ -64,7 +82,7 @@
     {
       "Name": "car",
       "Steam": "76561199830038278",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     }
   ]
