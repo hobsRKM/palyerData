@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-27T02:05:59.3051387Z",
+  "Time": "2025-11-27T02:07:59.3368777Z",
   "Players": [
+    {
+      "Name": "Not Today",
+      "Steam": "76561199878413811",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 58,
-      "Time": "31:37"
+      "Score": 64,
+      "Time": "33:37"
     },
     {
       "Name": "{T}",
       "Steam": "76561199320962873",
       "Score": 0,
-      "Time": "00:16"
+      "Time": "02:16"
     },
     {
       "Name": "Zaxh",
       "Steam": "76561198366421077",
-      "Score": 42,
+      "Score": 44,
       "Time": "??:??"
     },
     {
@@ -26,21 +32,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "catknow",
-      "Steam": "76561199847868570",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "soda",
       "Steam": "76561198786321609",
-      "Score": 9,
-      "Time": "06:10"
+      "Score": 11,
+      "Time": "08:10"
     },
     {
       "Name": "Sn0w",
       "Steam": "76561198044940085",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
@@ -50,7 +50,7 @@
       "Time": "??:??"
     },
     {
-      "Name": "Neve|2  spymain2008",
+      "Name": "Neverlose.c<  spymain2008",
       "Steam": "76561199104286406",
       "Score": 0,
       "Time": "??:??"
@@ -58,20 +58,26 @@
     {
       "Name": "MoonShine",
       "Steam": "76561199461216032",
-      "Score": 17,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Pepper",
       "Steam": "76561198784229511",
-      "Score": 43,
-      "Time": "30:43"
+      "Score": 45,
+      "Time": "32:43"
     },
     {
       "Name": "7nt8",
       "Steam": "76561198422636928",
       "Score": 0,
-      "Time": "117:55"
+      "Time": "119:55"
+    },
+    {
+      "Name": "cheezie",
+      "Steam": "76561198273566562",
+      "Score": 0,
+      "Time": "01:07"
     },
     {
       "Name": "page table pete",
@@ -82,26 +88,26 @@
     {
       "Name": "thrax mafia",
       "Steam": "76561198870752603",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "soaked™",
       "Steam": "76561199059024972",
-      "Score": 36,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "心在多伦多i",
       "Steam": "76561199002494039",
-      "Score": 2,
-      "Time": "02:40"
+      "Score": 6,
+      "Time": "04:40"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 23,
-      "Time": "39:18"
+      "Score": 25,
+      "Time": "41:18"
     }
   ]
 }
