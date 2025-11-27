@@ -1,35 +1,35 @@
 {
-  "Time": "2025-11-27T22:16:56.8026651Z",
+  "Time": "2025-11-27T22:18:56.7986392Z",
   "Players": [
+    {
+      "Name": "tokyo",
+      "Steam": "76561199367021539",
+      "Score": 0,
+      "Time": "00:57"
+    },
     {
       "Name": "Devan™",
       "Steam": "76561199059024972",
-      "Score": 45,
-      "Time": "83:03"
-    },
-    {
-      "Name": "BOT Opie",
-      "Steam": "76561197982529353",
-      "Score": 11,
-      "Time": "??:??"
+      "Score": 55,
+      "Time": "85:03"
     },
     {
       "Name": "Colonel Wigglewop",
       "Steam": "76561199678608838",
-      "Score": 26,
-      "Time": "25:25"
+      "Score": 34,
+      "Time": "27:25"
     },
     {
       "Name": "one tapper",
       "Steam": "76561198135596098",
-      "Score": 18,
-      "Time": "11:37"
+      "Score": 20,
+      "Time": "13:37"
     },
     {
       "Name": "Zaxh",
       "Steam": "76561198366421077",
-      "Score": 38,
-      "Time": "83:19"
+      "Score": 46,
+      "Time": "85:19"
     }
   ]
 }
