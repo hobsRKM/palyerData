@@ -1,34 +1,46 @@
 {
-  "Time": "2025-11-28T05:54:56.8054963Z",
+  "Time": "2025-11-28T05:56:56.806166Z",
   "Players": [
+    {
+      "Name": "ice",
+      "Steam": "76561199562121025",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Switch AKA A Real Button",
       "Steam": "76561198098243474",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "i larp skeet",
+      "Steam": "76561199840263365",
+      "Score": 16,
+      "Time": "02:02"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 18,
-      "Time": "20:57"
+      "Score": 23,
+      "Time": "22:57"
     },
     {
       "Name": "Vec",
       "Steam": "76561199708520028",
-      "Score": 14,
-      "Time": "12:18"
+      "Score": 20,
+      "Time": "14:18"
     },
     {
       "Name": "manuelperc0",
       "Steam": "76561199717763086",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
