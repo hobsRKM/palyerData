@@ -1,41 +1,47 @@
 {
-  "Time": "2025-11-28T10:40:26.0348763Z",
+  "Time": "2025-11-28T10:42:26.0404854Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 65,
-      "Time": "02:02"
+      "Score": 67,
+      "Time": "04:02"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 0,
-      "Time": "151:25"
+      "Score": 4,
+      "Time": "153:25"
     },
     {
       "Name": "MASSACRE",
       "Steam": "76561199127011949",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Tutuware.exe",
       "Steam": "76561198773062041",
-      "Score": 29,
-      "Time": "57:39"
+      "Score": 31,
+      "Time": "59:39"
     },
     {
       "Name": "KING",
       "Steam": "76561199711442396",
-      "Score": 57,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "cobegang",
       "Steam": "76561199862840527",
+      "Score": 2,
+      "Time": "04:54"
+    },
+    {
+      "Name": "abobir",
+      "Steam": "76561198772315030",
       "Score": 0,
-      "Time": "02:54"
+      "Time": "??:??"
     }
   ]
 }
