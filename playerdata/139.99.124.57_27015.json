@@ -1,64 +1,70 @@
 {
-  "Time": "2025-11-28T12:36:26.1622824Z",
+  "Time": "2025-11-28T12:38:26.1566374Z",
   "Players": [
+    {
+      "Name": "test",
+      "Steam": "76561198767240115",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "s 1 m p l e",
       "Steam": "76561198848960112",
-      "Score": 4,
-      "Time": "01:44"
+      "Score": 0,
+      "Time": "03:44"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 0,
-      "Time": "267:25"
+      "Score": 2,
+      "Time": "269:25"
     },
     {
       "Name": "MASSACRE",
       "Steam": "76561199127011949",
-      "Score": 99,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "_Skiff@rd_",
       "Steam": "76561199808042980",
-      "Score": 47,
-      "Time": "49:59"
+      "Score": 3,
+      "Time": "51:59"
     },
     {
       "Name": "Otrivinn",
       "Steam": "76561199531948407",
-      "Score": 52,
-      "Time": "18:44"
+      "Score": 0,
+      "Time": "20:44"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 132,
-      "Time": "33:04"
+      "Score": 2,
+      "Time": "35:04"
     },
     {
       "Name": "x",
       "Steam": "76561198764196499",
-      "Score": 10,
+      "Score": 7,
       "Time": "??:??"
-    },
-    {
-      "Name": "empiretk...",
-      "Steam": "76561199850643114",
-      "Score": 10,
-      "Time": "08:24"
     },
     {
       "Name": "Vexi_e",
       "Steam": "76561198769564279",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "1",
+      "Name": "Terrorist | 1",
       "Steam": "76561199303359682",
-      "Score": 7,
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "plushhack",
+      "Steam": "76561198844155000",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
