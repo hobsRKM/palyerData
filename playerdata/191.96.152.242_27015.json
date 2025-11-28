@@ -1,41 +1,35 @@
 {
-  "Time": "2025-11-28T23:12:37.6151679Z",
+  "Time": "2025-11-28T23:14:37.616548Z",
   "Players": [
     {
       "Name": "pxycho",
       "Steam": "76561198422636928",
       "Score": 0,
-      "Time": "01:44"
+      "Time": "03:44"
     },
     {
       "Name": "blahx911",
       "Steam": "76561198767141666",
-      "Score": 20,
-      "Time": "14:10"
+      "Score": 30,
+      "Time": "16:10"
     },
     {
       "Name": "bad player",
       "Steam": "76561199076151908",
-      "Score": 56,
+      "Score": 63,
       "Time": "??:??"
-    },
-    {
-      "Name": "frozen frogs",
-      "Steam": "76561199479457727",
-      "Score": 13,
-      "Time": "04:47"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 14,
-      "Time": "10:53"
+      "Score": 18,
+      "Time": "12:53"
     },
     {
       "Name": "xQuake",
       "Steam": "76561199864182377",
-      "Score": 0,
-      "Time": "05:03"
+      "Score": 2,
+      "Time": "07:03"
     }
   ]
 }
