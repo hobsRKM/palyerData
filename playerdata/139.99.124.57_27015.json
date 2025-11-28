@@ -1,29 +1,41 @@
 {
-  "Time": "2025-11-28T19:04:57.3813567Z",
+  "Time": "2025-11-28T19:06:57.4396915Z",
   "Players": [
     {
       "Name": "illuminati",
       "Steam": "76561198163411749",
-      "Score": 4,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sob",
+      "Steam": "76561198374719249",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
+      "Score": 4,
+      "Time": "42:08"
+    },
+    {
+      "Name": "suri on memesense",
+      "Steam": "76561199838777794",
       "Score": 0,
-      "Time": "40:08"
+      "Time": "??:??"
     },
     {
       "Name": "挨打神nixware",
       "Steam": "76561198778813347",
-      "Score": 0,
-      "Time": "14:22"
+      "Score": 6,
+      "Time": "16:22"
     },
     {
       "Name": "joy",
       "Steam": "76561198787032266",
-      "Score": 0,
-      "Time": "69:56"
+      "Score": 8,
+      "Time": "71:57"
     }
   ]
 }
