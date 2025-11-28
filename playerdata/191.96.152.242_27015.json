@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-28T05:36:56.8101201Z",
+  "Time": "2025-11-28T05:38:56.8098047Z",
   "Players": [
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "i larp skeet",
       "Steam": "76561199840263365",
-      "Score": 10,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 38,
-      "Time": "10:03"
+      "Score": 46,
+      "Time": "12:03"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
       "Score": 16,
-      "Time": "02:57"
+      "Time": "04:57"
     },
     {
       "Name": "i like MEN",
@@ -28,7 +34,7 @@
     {
       "Name": "Hellboy Peep",
       "Steam": "76561198765530598",
-      "Score": 43,
+      "Score": 47,
       "Time": "??:??"
     }
   ]
