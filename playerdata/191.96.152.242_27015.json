@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-28T06:12:56.8046997Z",
+  "Time": "2025-11-28T06:14:56.8050336Z",
   "Players": [
+    {
+      "Name": "blatantgay",
+      "Steam": "76561198792862274",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Switch AKA A Real Button",
       "Steam": "76561198098243474",
-      "Score": 75,
+      "Score": 83,
       "Time": "??:??"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 7,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 57,
-      "Time": "38:57"
+      "Score": 61,
+      "Time": "40:57"
     }
   ]
 }
