@@ -1,41 +1,53 @@
 {
-  "Time": "2025-11-28T06:48:13.0298848Z",
+  "Time": "2025-11-28T06:50:13.0441996Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 54,
-      "Time": "30:19"
+      "Score": 57,
+      "Time": "32:19"
+    },
+    {
+      "Name": "Raiden",
+      "Steam": "76561199180035085",
+      "Score": 0,
+      "Time": "02:00"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 17,
-      "Time": "42:24"
+      "Score": 21,
+      "Time": "44:24"
+    },
+    {
+      "Name": "Homie_BiLongg",
+      "Steam": "76561199234900374",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
       "Score": 8,
-      "Time": "00:23"
+      "Time": "02:23"
     },
     {
       "Name": "nn destroyer (nix #1)",
       "Steam": "76561197962969375",
-      "Score": 48,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "ytimgfqjqle",
       "Steam": "76561199717968768",
-      "Score": 25,
-      "Time": "18:13"
+      "Score": 29,
+      "Time": "20:13"
     },
     {
       "Name": "NOJENTO@tu",
       "Steam": "76561198846552296",
-      "Score": 15,
-      "Time": "08:16"
+      "Score": 19,
+      "Time": "10:16"
     }
   ]
 }
