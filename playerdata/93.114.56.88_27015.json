@@ -1,4 +1,41 @@
 {
-  "Time": "2025-11-28T18:42:23.212797Z",
-  "Players": []
+  "Time": "2025-11-28T18:42:50.4015942Z",
+  "Players": [
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 33,
+      "Time": "38:30"
+    },
+    {
+      "Name": "neverloseboss",
+      "Steam": "76561199122027475",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gartensecher",
+      "Steam": "76561198778790300",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD83D\uDEAB",
+      "Steam": "76561198770530277",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ava",
+      "Steam": "76561198843347921",
+      "Score": 11,
+      "Time": "06:13"
+    },
+    {
+      "Name": "S I L E N C E",
+      "Steam": "76561199167348716",
+      "Score": 20,
+      "Time": "??:??"
+    }
+  ]
 }
