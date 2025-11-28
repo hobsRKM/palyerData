@@ -1,16 +1,16 @@
 {
-  "Time": "2025-11-28T06:34:56.8072291Z",
+  "Time": "2025-11-28T06:36:56.8089782Z",
   "Players": [
     {
       "Name": "ice",
       "Steam": "76561199562121025",
-      "Score": 18,
-      "Time": "13:13"
+      "Score": 24,
+      "Time": "15:13"
     },
     {
       "Name": "blatantgay",
       "Steam": "76561198792862274",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
@@ -22,14 +22,20 @@
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
       "Score": 13,
-      "Time": "60:57"
+      "Time": "62:57"
+    },
+    {
+      "Name": "gokkandelas",
+      "Steam": "76561198957052323",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
