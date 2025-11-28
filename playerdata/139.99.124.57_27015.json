@@ -1,17 +1,29 @@
 {
-  "Time": "2025-11-28T17:54:55.3542399Z",
+  "Time": "2025-11-28T17:56:55.4518282Z",
   "Players": [
     {
       "Name": "fake happiness",
       "Steam": "76561199787905515",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "killbigger",
       "Steam": "76561199163659882",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "@cooper on fatality",
+      "Steam": "76561198791610523",
+      "Score": 0,
+      "Time": "00:48"
+    },
+    {
+      "Name": "joy",
+      "Steam": "76561198787032266",
+      "Score": 0,
+      "Time": "01:55"
     }
   ]
 }
