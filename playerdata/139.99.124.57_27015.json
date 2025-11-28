@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-28T18:30:56.2362546Z",
+  "Time": "2025-11-28T18:32:56.2815303Z",
   "Players": [
+    {
+      "Name": "Retired",
+      "Steam": "76561198766922230",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 10,
-      "Time": "06:07"
+      "Score": 20,
+      "Time": "08:07"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 61,
-      "Time": "34:49"
+      "Score": 65,
+      "Time": "36:49"
     },
     {
       "Name": "joy",
       "Steam": "76561198787032266",
-      "Score": 29,
-      "Time": "35:55"
+      "Score": 32,
+      "Time": "37:55"
     }
   ]
 }
