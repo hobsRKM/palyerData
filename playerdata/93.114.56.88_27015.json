@@ -1,11 +1,23 @@
 {
-  "Time": "2025-11-28T03:08:06.5523501Z",
+  "Time": "2025-11-28T03:08:43.0934032Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "ColinCollectsCoin",
+      "Steam": "76561198384142128",
+      "Score": 8,
+      "Time": "156:59"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "206:50"
+    },
+    {
+      "Name": "Diary of Jane",
+      "Steam": "76561199014369030",
+      "Score": 10,
+      "Time": "05:29"
     }
   ]
 }
