@@ -1,53 +1,71 @@
 {
-  "Time": "2025-11-28T13:14:26.2441408Z",
+  "Time": "2025-11-28T13:16:26.2345074Z",
   "Players": [
+    {
+      "Name": "test",
+      "Steam": "76561198767240115",
+      "Score": 6,
+      "Time": "01:02"
+    },
     {
       "Name": "s 1 m p l e",
       "Steam": "76561198848960112",
       "Score": 47,
-      "Time": "39:44"
+      "Time": "41:44"
     },
     {
       "Name": "sick",
       "Steam": "76561198767147021",
       "Score": 0,
-      "Time": "02:46"
+      "Time": "04:46"
     },
     {
       "Name": "MASSACRE",
       "Steam": "76561199127011949",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
+    },
+    {
+      "Name": "_Skiff@rd_",
+      "Steam": "76561199808042980",
+      "Score": 0,
+      "Time": "01:04"
     },
     {
       "Name": "Tutuware.exe",
       "Steam": "76561198773062041",
-      "Score": 19,
-      "Time": "11:20"
+      "Score": 20,
+      "Time": "13:20"
     },
     {
       "Name": "x",
       "Steam": "76561198764196499",
-      "Score": 34,
+      "Score": 36,
       "Time": "??:??"
     },
     {
-      "Name": "me | 1",
+      "Name": "Counter-Terrorist | 1",
       "Steam": "76561199303359682",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
+    },
+    {
+      "Name": "blond ᶻ \uD835\uDDD3 \uD803\uDC01",
+      "Steam": "76561199885332136",
+      "Score": 0,
+      "Time": "01:58"
     },
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
       "Score": 0,
-      "Time": "00:08"
+      "Time": "02:08"
     }
   ]
 }
