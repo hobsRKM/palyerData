@@ -1,40 +1,46 @@
 {
-  "Time": "2025-11-28T05:48:13.0363976Z",
+  "Time": "2025-11-28T05:50:13.0408654Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 84,
-      "Time": "113:47"
+      "Score": 88,
+      "Time": "115:47"
     },
     {
       "Name": "mx9520",
       "Steam": "76561199072787798",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 37,
+      "Score": 43,
       "Time": "??:??"
+    },
+    {
+      "Name": "崩溃哥",
+      "Steam": "76561198369073839",
+      "Score": 60,
+      "Time": "01:16"
     },
     {
       "Name": "sick",
       "Steam": "76561198767147021",
-      "Score": 2,
-      "Time": "03:43"
+      "Score": 10,
+      "Time": "05:43"
     },
     {
       "Name": "Surf Services",
       "Steam": "76561199820544882",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Computer Killer",
       "Steam": "76561198779170816",
-      "Score": 19,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
