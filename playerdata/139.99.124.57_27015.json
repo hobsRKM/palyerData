@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-28T20:15:00.7076457Z",
+  "Time": "2025-11-28T20:17:00.8539486Z",
   "Players": [
+    {
+      "Name": "cookieking",
+      "Steam": "76561198194507467",
+      "Score": 7,
+      "Time": "??:??"
+    },
     {
       "Name": "sob",
       "Steam": "76561198374719249",
-      "Score": 30,
-      "Time": "09:30"
+      "Score": 38,
+      "Time": "11:30"
     },
     {
       "Name": "suri on memesense",
       "Steam": "76561199838777794",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     }
   ]
