@@ -1,35 +1,41 @@
 {
-  "Time": "2025-11-28T21:12:37.6144773Z",
+  "Time": "2025-11-28T21:14:37.6159607Z",
   "Players": [
     {
       "Name": "voh",
       "Steam": "76561198767035921",
-      "Score": 72,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 41,
-      "Time": "17:30"
+      "Score": 4,
+      "Time": "19:30"
     },
     {
       "Name": "Lynn",
       "Steam": "76561199377778184",
-      "Score": 62,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bot bob",
       "Steam": "76561198765978544",
-      "Score": 20,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
       "Score": 6,
-      "Time": "129:30"
+      "Time": "131:30"
+    },
+    {
+      "Name": "blatantgay",
+      "Steam": "76561198792862274",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
