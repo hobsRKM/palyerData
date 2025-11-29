@@ -1,4 +1,65 @@
 {
-  "Time": "2025-11-29T03:13:21.1383867Z",
-  "Players": []
+  "Time": "2025-11-29T03:13:38.826307Z",
+  "Players": [
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 75,
+      "Time": "34:50"
+    },
+    {
+      "Name": "Fake",
+      "Steam": "76561199729334552",
+      "Score": 2,
+      "Time": "13:49"
+    },
+    {
+      "Name": "ロリポップ",
+      "Steam": "76561198307706690",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 29,
+      "Time": "23:06"
+    },
+    {
+      "Name": "nullptr_t",
+      "Steam": "76561198766056255",
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199844404641",
+      "Score": 23,
+      "Time": "16:00"
+    },
+    {
+      "Name": "s1mple",
+      "Steam": "76561199874708560",
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TANYA FRENCH VERSION NERD",
+      "Steam": "76561199822627906",
+      "Score": 3,
+      "Time": "06:02"
+    },
+    {
+      "Name": "Galaxy Annihilator",
+      "Steam": "76561198765107568",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "j",
+      "Steam": "76561198049680716",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
