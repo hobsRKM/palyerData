@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-29T05:55:34.2705115Z",
+  "Time": "2025-11-29T05:57:34.2805657Z",
   "Players": [
     {
       "Name": "g4mesense",
       "Steam": "76561199832129246",
-      "Score": 52,
-      "Time": "21:31"
+      "Score": 54,
+      "Time": "23:31"
+    },
+    {
+      "Name": "Complemente",
+      "Steam": "76561198872385199",
+      "Score": 1,
+      "Time": "01:00"
     },
     {
       "Name": "MASSACRE",
       "Steam": "76561199127011949",
-      "Score": 86,
-      "Time": "65:11"
+      "Score": 90,
+      "Time": "67:11"
     },
     {
       "Name": "joy",
@@ -22,7 +28,13 @@
     {
       "Name": "Yesh",
       "Steam": "76561198788432810",
-      "Score": 67,
+      "Score": 69,
+      "Time": "??:??"
+    },
+    {
+      "Name": "W seed",
+      "Steam": "76561199876716760",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
