@@ -1,35 +1,47 @@
 {
-  "Time": "2025-11-29T18:52:49.4022381Z",
+  "Time": "2025-11-29T18:54:49.4328463Z",
   "Players": [
     {
-      "Name": "Terrorist | 1",
+      "Name": "games | 1",
       "Steam": "76561199303359682",
       "Score": 26,
-      "Time": "23:49"
+      "Time": "25:49"
+    },
+    {
+      "Name": "Mist",
+      "Steam": "76561199877085063",
+      "Score": 2,
+      "Time": "119:13"
     },
     {
       "Name": "Kaiii",
       "Steam": "76561199832854360",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
       "Score": 14,
-      "Time": "117:41"
+      "Time": "119:41"
     },
     {
       "Name": "TomYB",
       "Steam": "76561199121512995",
-      "Score": 2,
-      "Time": "650:12"
+      "Score": 6,
+      "Time": "652:13"
     },
     {
       "Name": "t1",
       "Steam": "76561199840299479",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "CRUEL WEAK RAT",
+      "Steam": "76561199096643460",
+      "Score": 0,
+      "Time": "00:45"
     }
   ]
 }
