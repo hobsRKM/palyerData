@@ -1,41 +1,47 @@
 {
-  "Time": "2025-11-29T17:44:45.8225001Z",
+  "Time": "2025-11-29T17:46:45.9120436Z",
   "Players": [
     {
       "Name": ".s3",
       "Steam": "76561199823990333",
+      "Score": 2,
+      "Time": "02:08"
+    },
+    {
+      "Name": "MASSACRE",
+      "Steam": "76561199127011949",
       "Score": 0,
-      "Time": "00:08"
+      "Time": "00:50"
     },
     {
       "Name": "✡⃤⛴☁",
       "Steam": "76561199060922164",
-      "Score": 19,
-      "Time": "758:00"
+      "Score": 21,
+      "Time": "760:00"
     },
     {
       "Name": "Kaiii",
       "Steam": "76561199832854360",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 49,
-      "Time": "49:38"
+      "Score": 50,
+      "Time": "51:38"
     },
     {
       "Name": "Pekkalicious",
       "Steam": "76561198883659458",
-      "Score": 57,
-      "Time": "42:38"
+      "Score": 64,
+      "Time": "44:38"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 68,
-      "Time": "34:11"
+      "Score": 78,
+      "Time": "36:11"
     }
   ]
 }
