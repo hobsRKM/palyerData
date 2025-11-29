@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-29T04:14:37.6083626Z",
+  "Time": "2025-11-29T04:16:37.6141125Z",
   "Players": [
     {
       "Name": "STP->RDP STP",
@@ -8,27 +8,39 @@
       "Time": "??:??"
     },
     {
+      "Name": "Ozai",
+      "Steam": "76561199156395215",
+      "Score": 0,
+      "Time": "00:40"
+    },
+    {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 99,
+      "Score": 105,
       "Time": "??:??"
     },
     {
       "Name": "malwaremalwll",
       "Steam": "76561198778361538",
       "Score": 29,
-      "Time": "40:40"
+      "Time": "42:40"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198372144273",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Bilbo",
       "Steam": "76561198999356265",
-      "Score": 12,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "polizzi",
+      "Steam": "76561198793598358",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
