@@ -1,4 +1,65 @@
 {
-  "Time": "2025-11-29T03:07:21.1383636Z",
-  "Players": []
+  "Time": "2025-11-29T03:07:38.8294081Z",
+  "Players": [
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 65,
+      "Time": "28:50"
+    },
+    {
+      "Name": "Fake",
+      "Steam": "76561199729334552",
+      "Score": 0,
+      "Time": "07:49"
+    },
+    {
+      "Name": "ロリポップ",
+      "Steam": "76561198307706690",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 18,
+      "Time": "17:06"
+    },
+    {
+      "Name": "nullptr_t",
+      "Steam": "76561198766056255",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199844404641",
+      "Score": 13,
+      "Time": "10:00"
+    },
+    {
+      "Name": "neverlose1919",
+      "Steam": "76561198765483297",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "s1mple",
+      "Steam": "76561199874708560",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Galaxy Annihilator",
+      "Steam": "76561198765107568",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "real shit",
+      "Steam": "76561199525508650",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
