@@ -1,4 +1,47 @@
 {
-  "Time": "2025-11-29T02:41:21.138398Z",
-  "Players": []
+  "Time": "2025-11-29T02:41:38.8184837Z",
+  "Players": [
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 4,
+      "Time": "02:50"
+    },
+    {
+      "Name": "ロリポップ",
+      "Steam": "76561198307706690",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 6,
+      "Time": "21:57"
+    },
+    {
+      "Name": "client",
+      "Steam": "76561198433198868",
+      "Score": 127,
+      "Time": "??:??"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vladimirpopov",
+      "Steam": "76561199276906809",
+      "Score": 32,
+      "Time": "33:43"
+    },
+    {
+      "Name": "flxpt",
+      "Steam": "76561199784226010",
+      "Score": 37,
+      "Time": "??:??"
+    }
+  ]
 }
