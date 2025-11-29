@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-29T20:35:22.8427413Z",
-  "Players": []
+  "Time": "2025-11-29T20:36:01.0464521Z",
+  "Players": [
+    {
+      "Name": "Roma",
+      "Steam": "76561199874070115",
+      "Score": 1,
+      "Time": "02:01"
+    },
+    {
+      "Name": "Emirksi",
+      "Steam": "76561199562121025",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Chimpanzini Bananini",
+      "Steam": "76561199518802099",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "army is qt",
+      "Steam": "76561199113161536",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
