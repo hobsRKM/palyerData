@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-29T04:36:37.619647Z",
+  "Time": "2025-11-29T04:38:37.6085081Z",
   "Players": [
     {
       "Name": "STP->RDP STP",
@@ -10,26 +10,20 @@
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 17,
-      "Time": "20:40"
+      "Score": 20,
+      "Time": "22:40"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 73,
+      "Score": 77,
       "Time": "??:??"
-    },
-    {
-      "Name": "fatality.win  Cookie",
-      "Steam": "76561199889788325",
-      "Score": 24,
-      "Time": "12:18"
     },
     {
       "Name": "malwaremalwll",
       "Steam": "76561198778361538",
-      "Score": 0,
-      "Time": "62:40"
+      "Score": 2,
+      "Time": "64:40"
     },
     {
       "Name": "Bilbo",
@@ -40,8 +34,14 @@
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 16,
+      "Score": 35,
       "Time": "??:??"
+    },
+    {
+      "Name": "ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 0,
+      "Time": "01:24"
     }
   ]
 }
