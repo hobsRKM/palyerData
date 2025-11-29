@@ -1,17 +1,23 @@
 {
-  "Time": "2025-11-29T20:42:32.2872638Z",
+  "Time": "2025-11-29T20:44:32.4843025Z",
   "Players": [
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 16,
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "my boyfriend is putin",
+      "Steam": "76561198136878810",
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 22,
-      "Time": "221:01"
+      "Score": 24,
+      "Time": "223:01"
     }
   ]
 }
