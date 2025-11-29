@@ -1,46 +1,58 @@
 {
-  "Time": "2025-11-29T11:46:38.1384787Z",
+  "Time": "2025-11-29T11:48:38.1451998Z",
   "Players": [
+    {
+      "Name": "King_1z",
+      "Steam": "76561199813176841",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 81,
-      "Time": "31:09"
+      "Score": 83,
+      "Time": "33:09"
     },
     {
       "Name": "MASSACRE",
       "Steam": "76561199127011949",
-      "Score": 0,
-      "Time": "41:02"
+      "Score": 10,
+      "Time": "43:02"
     },
     {
       "Name": "PIG",
       "Steam": "76561199831618461",
-      "Score": 9,
-      "Time": "04:11"
+      "Score": 11,
+      "Time": "06:11"
     },
     {
       "Name": "bangbros",
       "Steam": "76561199833558426",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 83,
-      "Time": "86:13"
+      "Score": 89,
+      "Time": "88:13"
     },
     {
       "Name": "K1ynze.",
       "Steam": "76561198770158729",
-      "Score": 20,
-      "Time": "29:02"
+      "Score": 24,
+      "Time": "31:02"
+    },
+    {
+      "Name": "plushhack",
+      "Steam": "76561198844155000",
+      "Score": 98,
+      "Time": "02:00"
     },
     {
       "Name": "黑客",
       "Steam": "76561199572748305",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
