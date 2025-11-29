@@ -1,23 +1,29 @@
 {
-  "Time": "2025-11-29T00:52:37.6191698Z",
+  "Time": "2025-11-29T00:54:37.6195052Z",
   "Players": [
+    {
+      "Name": "wspeed",
+      "Steam": "76561199864151020",
+      "Score": 10,
+      "Time": "00:29"
+    },
     {
       "Name": "TOASTEDANDROASTED",
       "Steam": "76561198772274004",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "7nt8",
       "Steam": "76561198422636928",
-      "Score": 6,
-      "Time": "32:25"
+      "Score": 8,
+      "Time": "34:25"
     },
     {
       "Name": "bad player",
       "Steam": "76561199076151908",
-      "Score": 31,
-      "Time": "08:31"
+      "Score": 33,
+      "Time": "10:31"
     },
     {
       "Name": "Hellboy Peep",
@@ -28,7 +34,7 @@
     {
       "Name": "Plug Walk Drew",
       "Steam": "76561199560641528",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
