@@ -1,4 +1,47 @@
 {
-  "Time": "2025-11-29T22:45:21.1483761Z",
-  "Players": []
+  "Time": "2025-11-29T22:45:37.9079038Z",
+  "Players": [
+    {
+      "Name": "Bob_Builder",
+      "Steam": "76561198769067462",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "La Minina ♥",
+      "Steam": "76561198310431256",
+      "Score": 0,
+      "Time": "00:19"
+    },
+    {
+      "Name": "Auf Sendung mit der Maus",
+      "Steam": "76561198777130244",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "JohnRambo",
+      "Steam": "76561199075912458",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 16,
+      "Time": "29:35"
+    },
+    {
+      "Name": "tang",
+      "Steam": "76561199217148290",
+      "Score": 10,
+      "Time": "07:53"
+    },
+    {
+      "Name": "ky",
+      "Steam": "76561199822403518",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
