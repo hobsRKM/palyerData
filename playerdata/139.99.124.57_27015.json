@@ -1,41 +1,41 @@
 {
-  "Time": "2025-11-29T14:54:40.2825169Z",
+  "Time": "2025-11-29T14:56:40.3177168Z",
   "Players": [
     {
       "Name": "skt",
       "Steam": "76561198765218486",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
-    },
-    {
-      "Name": "pepsi h | Xantares",
-      "Steam": "76561199888926309",
-      "Score": 0,
-      "Time": "06:41"
     },
     {
       "Name": ".s3",
       "Steam": "76561199823990333",
-      "Score": 0,
-      "Time": "54:57"
+      "Score": 5,
+      "Time": "56:57"
+    },
+    {
+      "Name": "test",
+      "Steam": "76561198767240115",
+      "Score": 6,
+      "Time": "02:18"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 26,
-      "Time": "122:13"
+      "Score": 32,
+      "Time": "124:13"
     },
     {
       "Name": "Yesh",
       "Steam": "76561198788432810",
-      "Score": 20,
-      "Time": "24:57"
+      "Score": 23,
+      "Time": "26:57"
     },
     {
       "Name": "Houdini",
       "Steam": "76561199868946029",
-      "Score": 17,
-      "Time": "10:29"
+      "Score": 23,
+      "Time": "12:29"
     }
   ]
 }
