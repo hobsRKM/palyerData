@@ -1,5 +1,5 @@
 {
-  "Time": "2025-11-29T10:10:37.6108868Z",
+  "Time": "2025-11-29T10:12:37.6154236Z",
   "Players": [
     {
       "Name": "STP->RDP STP",
@@ -8,16 +8,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "00:17"
+    },
+    {
       "Name": "nayara",
       "Steam": "76561199471562656",
-      "Score": 33,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "blatantgay",
       "Steam": "76561198792862274",
-      "Score": 40,
-      "Time": "675:18"
+      "Score": 42,
+      "Time": "677:18"
     },
     {
       "Name": "mikasa",
@@ -28,26 +34,26 @@
     {
       "Name": "EXKAY",
       "Steam": "76561198429032790",
-      "Score": 33,
-      "Time": "79:37"
+      "Score": 39,
+      "Time": "81:37"
     },
     {
       "Name": "Starr",
       "Steam": "76561199610391270",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "【Adam】",
       "Steam": "76561199874373087",
-      "Score": 36,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "zo",
       "Steam": "76561199789921111",
       "Score": 6,
-      "Time": "40:09"
+      "Time": "42:09"
     }
   ]
 }
