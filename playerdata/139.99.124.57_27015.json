@@ -1,28 +1,34 @@
 {
-  "Time": "2025-11-29T12:12:38.1602031Z",
+  "Time": "2025-11-29T12:14:38.1705872Z",
   "Players": [
+    {
+      "Name": "nonagon beta | Xantares",
+      "Steam": "76561199888926309",
+      "Score": 0,
+      "Time": "01:04"
+    },
     {
       "Name": "PIG",
       "Steam": "76561199831618461",
-      "Score": 18,
-      "Time": "19:23"
+      "Score": 2,
+      "Time": "21:23"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 47,
-      "Time": "112:13"
+      "Score": 5,
+      "Time": "114:13"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 107,
-      "Time": "26:00"
+      "Score": 0,
+      "Time": "28:00"
     },
     {
       "Name": "黑客",
       "Steam": "76561199572748305",
-      "Score": 6,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
