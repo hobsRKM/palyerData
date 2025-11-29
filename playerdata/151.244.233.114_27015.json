@@ -1,11 +1,17 @@
 {
-  "Time": "2025-11-29T14:51:16.5505148Z",
+  "Time": "2025-11-29T14:53:16.5564568Z",
   "Players": [
+    {
+      "Name": "boolyblud777",
+      "Steam": "76561198791541733",
+      "Score": 3,
+      "Time": "01:30"
+    },
     {
       "Name": "U_Know_69",
       "Steam": "76561199831385670",
-      "Score": 59,
-      "Time": "17:40"
+      "Score": 63,
+      "Time": "19:40"
     },
     {
       "Name": "zo",
@@ -16,19 +22,25 @@
     {
       "Name": "frozen frogs",
       "Steam": "76561199479457727",
-      "Score": 83,
-      "Time": "25:28"
+      "Score": 95,
+      "Time": "27:28"
     },
     {
       "Name": "\uD835\uDD58\uD835\uDFDD\uD835\uDFE1.\uD835\uDD56\uD835\uDD69\uD835\uDD56 \uD83D\uDCB2",
       "Steam": "76561198766489601",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "prayingghosh123",
       "Steam": "76561199703573734",
-      "Score": 55,
+      "Score": 63,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rgnyslofv3",
+      "Steam": "76561199703036880",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
