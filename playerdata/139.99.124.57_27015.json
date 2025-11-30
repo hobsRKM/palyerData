@@ -1,22 +1,28 @@
 {
-  "Time": "2025-11-30T05:25:12.9484799Z",
+  "Time": "2025-11-30T05:27:12.9355197Z",
   "Players": [
+    {
+      "Name": "xxxx",
+      "Steam": "76561199567130191",
+      "Score": 0,
+      "Time": "00:35"
+    },
+    {
+      "Name": "Mr.Pancake",
+      "Steam": "76561199045725064",
+      "Score": 0,
+      "Time": "01:03"
+    },
     {
       "Name": "MASSACRE",
       "Steam": "76561199127011949",
-      "Score": 14,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "antidisestablishmentarianism",
-      "Steam": "76561198779667438",
-      "Score": 2,
+      "Score": 28,
       "Time": "??:??"
     }
   ]
