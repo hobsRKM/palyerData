@@ -1,4 +1,29 @@
 {
-  "Time": "2025-11-30T11:03:21.1179409Z",
-  "Players": []
+  "Time": "2025-11-30T11:03:28.0465701Z",
+  "Players": [
+    {
+      "Name": "Cake",
+      "Steam": "76561199874806273",
+      "Score": 12,
+      "Time": "00:07"
+    },
+    {
+      "Name": "Groomed By Youth",
+      "Steam": "76561198383948180",
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "al-Qaeda.pub",
+      "Steam": "76561199275384358",
+      "Score": 16,
+      "Time": "09:09"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
