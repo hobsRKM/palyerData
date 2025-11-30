@@ -1,47 +1,53 @@
 {
-  "Time": "2025-11-30T09:41:12.992764Z",
+  "Time": "2025-11-30T09:43:13.005939Z",
   "Players": [
     {
-      "Name": "onetap.com Columbina",
+      "Name": "nixware.cc Columbina",
       "Steam": "76561198790860703",
-      "Score": 48,
+      "Score": 52,
+      "Time": "??:??"
+    },
+    {
+      "Name": "PyRoRo",
+      "Steam": "76561198055938307",
+      "Score": 2,
+      "Time": "335:15"
+    },
+    {
+      "Name": "ALATIC MZK",
+      "Steam": "76561199708808706",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 66,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "parrot_steamalt926462",
       "Steam": "76561198765860524",
-      "Score": 9,
-      "Time": "02:11"
+      "Score": 11,
+      "Time": "04:11"
     },
     {
       "Name": "HKArvin123",
       "Steam": "76561199788609972",
-      "Score": 55,
-      "Time": "76:36"
+      "Score": 57,
+      "Time": "78:36"
     },
     {
       "Name": "Mr.Pancake",
       "Steam": "76561199045725064",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": ".s3",
       "Steam": "76561199823990333",
-      "Score": 10,
-      "Time": "19:59"
-    },
-    {
-      "Name": "青春nix少年不会梦见sk学",
-      "Steam": "76561199622040809",
-      "Score": 81,
-      "Time": "28:43"
+      "Score": 14,
+      "Time": "21:59"
     }
   ]
 }
