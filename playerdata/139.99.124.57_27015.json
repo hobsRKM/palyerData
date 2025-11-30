@@ -1,65 +1,71 @@
 {
-  "Time": "2025-11-30T13:03:15.103154Z",
+  "Time": "2025-11-30T13:07:15.1756323Z",
   "Players": [
+    {
+      "Name": "Nice Try",
+      "Steam": "76561198782597755",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 60,
-      "Time": "00:56"
+      "Score": 65,
+      "Time": "04:56"
     },
     {
       "Name": "d0$ed",
       "Steam": "76561199119357951",
-      "Score": 0,
-      "Time": "11:37"
+      "Score": 17,
+      "Time": "15:37"
+    },
+    {
+      "Name": "zxc",
+      "Steam": "76561198219469781",
+      "Score": 36,
+      "Time": "00:52"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 35,
-      "Time": "15:25"
+      "Score": 44,
+      "Time": "19:25"
     },
     {
       "Name": "Best Music",
       "Steam": "76561199829905037",
-      "Score": 82,
+      "Score": 96,
       "Time": "??:??"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 71,
-      "Time": "29:54"
-    },
-    {
-      "Name": "XiaoZe38187",
-      "Steam": "76561199697305896",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 81,
+      "Time": "33:54"
     },
     {
       "Name": "chill blacker",
       "Steam": "76561199840299479",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Pekkalicious",
       "Steam": "76561198883659458",
-      "Score": 136,
-      "Time": "84:12"
+      "Score": 142,
+      "Time": "88:12"
     },
     {
       "Name": "DADA 81 | Memesense User",
       "Steam": "76561198769547909",
-      "Score": 42,
-      "Time": "50:08"
+      "Score": 45,
+      "Time": "54:08"
     },
     {
-      "Name": "gamesense | 1",
+      "Name": "Counter-Terroris | 1",
       "Steam": "76561199303359682",
-      "Score": 23,
-      "Time": "14:19"
+      "Score": 39,
+      "Time": "18:19"
     }
   ]
 }
