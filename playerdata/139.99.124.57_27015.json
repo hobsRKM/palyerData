@@ -1,53 +1,65 @@
 {
-  "Time": "2025-11-30T02:21:16.3998961Z",
+  "Time": "2025-11-30T02:25:16.3900034Z",
   "Players": [
+    {
+      "Name": "辉夜",
+      "Steam": "76561198384514574",
+      "Score": 0,
+      "Time": "02:04"
+    },
     {
       "Name": "PyRoRo",
       "Steam": "76561198055938307",
-      "Score": 12,
-      "Time": "23:15"
+      "Score": 0,
+      "Time": "27:15"
     },
     {
       "Name": "sephoraa",
       "Steam": "76561199240575199",
-      "Score": 38,
-      "Time": "28:06"
+      "Score": 60,
+      "Time": "32:06"
     },
     {
       "Name": "s 1 m p l e",
       "Steam": "76561198848960112",
-      "Score": 24,
-      "Time": "29:08"
+      "Score": 43,
+      "Time": "33:08"
     },
     {
       "Name": "owgn",
       "Steam": "76561199189583898",
-      "Score": 47,
-      "Time": "34:58"
+      "Score": 67,
+      "Time": "38:58"
     },
     {
       "Name": "PayPal_Hacking",
       "Steam": "76561198767917096",
-      "Score": 10,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "g4mesense",
       "Steam": "76561199832129246",
-      "Score": 22,
-      "Time": "16:44"
+      "Score": 4,
+      "Time": "20:44"
     },
     {
       "Name": "Viet nam top 1",
       "Steam": "76561199557016632",
-      "Score": 17,
-      "Time": "01:22"
+      "Score": 31,
+      "Time": "05:22"
     },
     {
       "Name": "HKArvin123",
       "Steam": "76561199788609972",
-      "Score": 23,
-      "Time": "21:52"
+      "Score": 34,
+      "Time": "25:52"
+    },
+    {
+      "Name": "Vexi_e",
+      "Steam": "76561198769564279",
+      "Score": 4,
+      "Time": "??:??"
     }
   ]
 }
