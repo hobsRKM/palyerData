@@ -1,16 +1,22 @@
 {
-  "Time": "2025-11-30T04:07:16.4025499Z",
+  "Time": "2025-11-30T04:09:16.3949856Z",
   "Players": [
+    {
+      "Name": "xxxx",
+      "Steam": "76561199567130191",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "HKArvin123",
       "Steam": "76561199788609972",
-      "Score": 38,
-      "Time": "15:14"
+      "Score": 44,
+      "Time": "17:14"
     },
     {
       "Name": "skt",
       "Steam": "76561198765218486",
-      "Score": 57,
+      "Score": 61,
       "Time": "??:??"
     },
     {
@@ -22,19 +28,19 @@
     {
       "Name": "我是艾派克斯小男娘",
       "Steam": "76561198369073839",
-      "Score": 80,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 57,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "Auf Sendung mit der Maus",
       "Steam": "76561198777130244",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
