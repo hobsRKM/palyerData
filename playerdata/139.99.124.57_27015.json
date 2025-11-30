@@ -1,77 +1,89 @@
 {
-  "Time": "2025-11-30T11:41:13.6394278Z",
+  "Time": "2025-11-30T11:43:13.6540713Z",
   "Players": [
+    {
+      "Name": "Columbina.cc Columbina",
+      "Steam": "76561198790860703",
+      "Score": 0,
+      "Time": "00:13"
+    },
     {
       "Name": "Small Boy",
       "Steam": "76561198270987909",
-      "Score": 11,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "RadioHead",
       "Steam": "76561198765860524",
       "Score": 2,
-      "Time": "62:41"
+      "Time": "64:41"
     },
     {
       "Name": "zxc",
       "Steam": "76561198219469781",
-      "Score": 40,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 6,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tragedy",
+      "Steam": "76561199347947089",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 10,
-      "Time": "93:29"
+      "Score": 12,
+      "Time": "95:29"
     },
     {
       "Name": "MuseLь",
       "Steam": "76561199358926819",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 21,
-      "Time": "53:09"
+      "Score": 28,
+      "Time": "55:09"
     },
     {
       "Name": "✡⃤⛴☁",
       "Steam": "76561199060922164",
-      "Score": 14,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 8,
-      "Time": "87:35"
+      "Score": 20,
+      "Time": "89:35"
     },
     {
       "Name": "Pekkalicious",
       "Steam": "76561198883659458",
-      "Score": 4,
-      "Time": "02:11"
+      "Score": 8,
+      "Time": "04:11"
     },
     {
       "Name": "DADA 81 | Memesense User",
       "Steam": "76561198769547909",
-      "Score": 1,
-      "Time": "25:13"
+      "Score": 2,
+      "Time": "27:13"
     },
     {
-      "Name": "nixware | 1",
+      "Name": "fatali | 1",
       "Steam": "76561199303359682",
-      "Score": 14,
-      "Time": "21:53"
+      "Score": 15,
+      "Time": "23:53"
     }
   ]
 }
