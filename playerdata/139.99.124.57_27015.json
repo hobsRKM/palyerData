@@ -1,34 +1,40 @@
 {
-  "Time": "2025-11-30T11:45:13.65807Z",
+  "Time": "2025-11-30T11:47:13.6809313Z",
   "Players": [
     {
-      "Name": "Columbina.c Columbina",
+      "Name": "Colum Columbina",
       "Steam": "76561198790860703",
-      "Score": 0,
-      "Time": "02:13"
+      "Score": 2,
+      "Time": "04:13"
+    },
+    {
+      "Name": "Small Boy",
+      "Steam": "76561198270987909",
+      "Score": 14,
+      "Time": "00:59"
     },
     {
       "Name": "RadioHead",
       "Steam": "76561198765860524",
-      "Score": 6,
-      "Time": "66:41"
+      "Score": 0,
+      "Time": "68:41"
     },
     {
       "Name": "g4mesense",
       "Steam": "76561199832129246",
       "Score": 0,
-      "Time": "00:32"
+      "Time": "02:32"
     },
     {
       "Name": "HKArvin123",
       "Steam": "76561199788609972",
       "Score": 0,
-      "Time": "01:22"
+      "Time": "03:22"
     },
     {
       "Name": "zxc",
       "Steam": "76561198219469781",
-      "Score": 72,
+      "Score": 74,
       "Time": "??:??"
     },
     {
@@ -40,20 +46,26 @@
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 18,
-      "Time": "97:29"
+      "Score": 20,
+      "Time": "99:29"
     },
     {
       "Name": "MuseLь",
       "Steam": "76561199358926819",
-      "Score": 27,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "W seed",
       "Steam": "76561199876716760",
-      "Score": 44,
-      "Time": "57:09"
+      "Score": 46,
+      "Time": "59:09"
+    },
+    {
+      "Name": "bangbros",
+      "Steam": "76561199833558426",
+      "Score": 0,
+      "Time": "275:02"
     },
     {
       "Name": "✡⃤⛴☁",
@@ -64,32 +76,20 @@
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 28,
-      "Time": "91:35"
+      "Score": 36,
+      "Time": "93:35"
     },
     {
       "Name": "Pekkalicious",
       "Steam": "76561198883659458",
       "Score": 0,
-      "Time": "06:11"
+      "Time": "08:11"
     },
     {
       "Name": "DADA 81 | Memesense User",
       "Steam": "76561198769547909",
       "Score": 1,
-      "Time": "29:13"
-    },
-    {
-      "Name": "Я люблю фаталити.",
-      "Steam": "76561198764832266",
-      "Score": 0,
-      "Time": "01:35"
-    },
-    {
-      "Name": "Counter-Te | 1",
-      "Steam": "76561199303359682",
-      "Score": 20,
-      "Time": "25:53"
+      "Time": "31:13"
     }
   ]
 }
