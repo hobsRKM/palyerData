@@ -1,4 +1,53 @@
 {
-  "Time": "2025-11-30T02:01:21.143589Z",
-  "Players": []
+  "Time": "2025-11-30T02:01:28.0514014Z",
+  "Players": [
+    {
+      "Name": "Galaxy Annihilator",
+      "Steam": "76561198765107568",
+      "Score": 54,
+      "Time": "49:27"
+    },
+    {
+      "Name": "ChasM",
+      "Steam": "76561198253841058",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 75,
+      "Time": "05:20"
+    },
+    {
+      "Name": "kirkwareuser",
+      "Steam": "76561199065342656",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "baited",
+      "Steam": "76561198765685188",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "deep duck",
+      "Steam": "76561198201244133",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "redy",
+      "Steam": "76561198763736542",
+      "Score": 0,
+      "Time": "02:05"
+    },
+    {
+      "Name": "zerolyn",
+      "Steam": "76561198240524012",
+      "Score": 7,
+      "Time": "??:??"
+    }
+  ]
 }
