@@ -1,70 +1,76 @@
 {
-  "Time": "2025-12-01T11:32:49.6901685Z",
+  "Time": "2025-12-01T11:34:49.6996406Z",
   "Players": [
+    {
+      "Name": "Viet nam top 1",
+      "Steam": "76561199557016632",
+      "Score": 76,
+      "Time": "01:38"
+    },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 38,
-      "Time": "08:35"
+      "Score": 41,
+      "Time": "10:35"
     },
     {
       "Name": "skt",
       "Steam": "76561198762635198",
-      "Score": 42,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 54,
-      "Time": "182:45"
+      "Score": 56,
+      "Time": "184:45"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 78,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
       "Score": 88,
-      "Time": "49:53"
+      "Time": "51:53"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 40,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "PyRoRo",
       "Steam": "76561198055938307",
-      "Score": 83,
-      "Time": "52:36"
+      "Score": 87,
+      "Time": "54:36"
     },
     {
       "Name": "Mist",
       "Steam": "76561199877085063",
-      "Score": 107,
+      "Score": 113,
       "Time": "??:??"
     },
     {
       "Name": "ABCD",
       "Steam": "76561198769564279",
-      "Score": 38,
+      "Score": 39,
       "Time": "??:??"
     },
     {
-      "Name": "1",
+      "Name": "fat | 1",
       "Steam": "76561199303359682",
-      "Score": 2,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Surf Services",
       "Steam": "76561199820957121",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
