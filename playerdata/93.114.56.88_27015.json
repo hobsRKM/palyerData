@@ -1,4 +1,47 @@
 {
-  "Time": "2025-12-01T17:34:10.7022135Z",
-  "Players": []
+  "Time": "2025-12-01T17:34:16.1399472Z",
+  "Players": [
+    {
+      "Name": "Madness",
+      "Steam": "76561198991066411",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "decon",
+      "Steam": "76561198769577987",
+      "Score": 13,
+      "Time": "32:25"
+    },
+    {
+      "Name": "hear the worlds sounds",
+      "Steam": "76561198762956306",
+      "Score": 57,
+      "Time": "10:40"
+    },
+    {
+      "Name": "Heisenberg",
+      "Steam": "76561199805296867",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gamesense.pub uid# 9041",
+      "Steam": "76561198771026818",
+      "Score": 22,
+      "Time": "277:35"
+    },
+    {
+      "Name": "Ich bin balbenbaum",
+      "Steam": "76561199154997580",
+      "Score": 4,
+      "Time": "11:42"
+    }
+  ]
 }
