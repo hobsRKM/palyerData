@@ -1,59 +1,65 @@
 {
-  "Time": "2025-12-01T13:46:49.8448343Z",
+  "Time": "2025-12-01T13:48:49.8481637Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 31,
-      "Time": "05:58"
+      "Score": 37,
+      "Time": "07:58"
     },
     {
       "Name": "skt",
       "Steam": "76561198762635198",
-      "Score": 25,
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "d",
+      "Steam": "76561199532461706",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Top #1 NN",
       "Steam": "76561199865563018",
-      "Score": 38,
-      "Time": "26:54"
+      "Score": 41,
+      "Time": "28:54"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 49,
-      "Time": "25:05"
+      "Score": 52,
+      "Time": "27:05"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 41,
-      "Time": "12:09"
+      "Score": 46,
+      "Time": "14:09"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 3,
-      "Time": "04:37"
+      "Score": 5,
+      "Time": "06:37"
     },
     {
       "Name": "empiretkii",
       "Steam": "76561199850643114",
-      "Score": 23,
-      "Time": "11:41"
+      "Score": 27,
+      "Time": "13:41"
     }
   ]
 }
