@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-01T03:52:49.7467589Z",
+  "Time": "2025-12-01T03:54:49.7474631Z",
   "Players": [
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 4,
-      "Time": "02:45"
+      "Score": 6,
+      "Time": "04:45"
     },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 14,
-      "Time": "10:28"
+      "Score": 16,
+      "Time": "12:28"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 26,
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sulfur ore",
+      "Steam": "76561199874585612",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
