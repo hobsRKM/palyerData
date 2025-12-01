@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-01T12:40:49.756668Z",
+  "Time": "2025-12-01T12:42:49.80166Z",
   "Players": [
+    {
+      "Name": "test",
+      "Steam": "76561198767240115",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Viet nam top 1",
       "Steam": "76561199557016632",
       "Score": 34,
-      "Time": "67:39"
+      "Time": "69:39"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 16,
-      "Time": "04:08"
+      "Score": 23,
+      "Time": "06:08"
     },
     {
       "Name": "tw1stie⚡",
       "Steam": "76561199188655006",
-      "Score": 101,
+      "Score": 103,
       "Time": "??:??"
     },
     {
       "Name": "skt",
       "Steam": "76561198762635198",
-      "Score": 55,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 71,
-      "Time": "49:24"
+      "Score": 81,
+      "Time": "51:24"
     },
     {
       "Name": "Mr .muscle",
@@ -40,7 +46,7 @@
     {
       "Name": "stressed",
       "Steam": "76561199136249780",
-      "Score": 6,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -52,31 +58,31 @@
     {
       "Name": "velog",
       "Steam": "76561199847142530",
-      "Score": 7,
-      "Time": "10:46"
+      "Score": 11,
+      "Time": "12:46"
     },
     {
       "Name": "cola ja",
       "Steam": "76561199712341739",
-      "Score": 81,
-      "Time": "39:27"
+      "Score": 89,
+      "Time": "41:27"
     },
     {
       "Name": "g4mesense",
       "Steam": "76561199832129246",
       "Score": 42,
-      "Time": "37:02"
+      "Time": "39:02"
     },
     {
       "Name": "辉夜",
       "Steam": "76561198384514574",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "empiretkii",
       "Steam": "76561199850643114",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
