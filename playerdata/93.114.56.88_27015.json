@@ -1,35 +1,47 @@
 {
-  "Time": "2025-12-01T21:12:50.2832469Z",
+  "Time": "2025-12-01T21:13:54.4369843Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "afk",
+      "Steam": "76561199209614932",
+      "Score": 4,
+      "Time": "166:19"
+    },
+    {
+      "Name": "Nixware user",
+      "Steam": "76561199820198006",
+      "Score": 22,
+      "Time": "103:06"
+    },
+    {
+      "Name": "hyperliquid whale",
+      "Steam": "76561199682194905",
+      "Score": 29,
+      "Time": "50:44"
+    },
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sad uncomfy boy",
+      "Steam": "76561199849234881",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Пилотка Бомжихи",
-      "Steam": "76561199108480004",
+      "Name": "FeuerFreiJenny",
+      "Steam": "76561198778269368",
+      "Score": 23,
+      "Time": "13:49"
+    },
+    {
+      "Name": "longed btc at 85k",
+      "Steam": "76561198776993166",
       "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "anthonywin219",
-      "Steam": "76561198768850609",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Adellund",
-      "Steam": "76561197963191416",
-      "Score": 29,
-      "Time": "08:29"
-    },
-    {
-      "Name": "\uD835\uDE2E\uD835\uDE22\uD835\uDE25\uD835\uDE2F\uD835\uDE26\uD835\uDE34\uD835\uDE34",
-      "Steam": "76561198765740729",
-      "Score": 4,
-      "Time": "127:36"
     }
   ]
 }
