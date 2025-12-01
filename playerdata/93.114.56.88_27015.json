@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-01T17:44:10.7021762Z",
-  "Players": []
+  "Time": "2025-12-01T17:44:16.1411697Z",
+  "Players": [
+    {
+      "Name": "Madness",
+      "Steam": "76561198991066411",
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Heisenberg",
+      "Steam": "76561199805296867",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nixware user",
+      "Steam": "76561199820198006",
+      "Score": 21,
+      "Time": "03:24"
+    },
+    {
+      "Name": "miLo-dA-K1nG",
+      "Steam": "76561198763804875",
+      "Score": 2,
+      "Time": "15:53"
+    },
+    {
+      "Name": "Ich bin balbenbaum",
+      "Steam": "76561199154997580",
+      "Score": 0,
+      "Time": "21:42"
+    }
+  ]
 }
