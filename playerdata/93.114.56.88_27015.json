@@ -1,46 +1,64 @@
 {
-  "Time": "2025-12-01T20:04:42.5671611Z",
+  "Time": "2025-12-01T20:05:45.2271146Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "GoHvH",
+      "Steam": "76561199732363479",
+      "Score": 10,
+      "Time": "10:49"
+    },
+    {
+      "Name": "TrickenMC",
+      "Steam": "76561199075499447",
+      "Score": 3,
+      "Time": "03:01"
+    },
+    {
+      "Name": "Starr",
+      "Steam": "76561198766427169",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Infantrit",
-      "Steam": "76561199827876555",
+      "Name": "^o^",
+      "Steam": "76561198774487042",
       "Score": 0,
-      "Time": "124:51"
-    },
-    {
-      "Name": "Apostle♠",
-      "Steam": "76561199684356210",
-      "Score": 26,
       "Time": "??:??"
     },
     {
-      "Name": "Grajchłopiec Kasti",
-      "Steam": "76561199833286399",
-      "Score": 35,
+      "Name": "[ACC]zeunch",
+      "Steam": "76561198988357097",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "wes",
-      "Steam": "76561199876468704",
-      "Score": 39,
+      "Name": "Coze",
+      "Steam": "76561198891790832",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "anthonywin219",
-      "Steam": "76561198768850609",
-      "Score": 7,
+      "Name": "Flexorz",
+      "Steam": "76561199503006146",
+      "Score": 0,
+      "Time": "09:57"
+    },
+    {
+      "Name": "VacSystem",
+      "Steam": "76561198770771156",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": ".",
-      "Steam": "76561198763280495",
-      "Score": 44,
+      "Name": "prada",
+      "Steam": "76561199821529132",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "afk",
+      "Steam": "76561199209614932",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
