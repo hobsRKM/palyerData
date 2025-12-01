@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-01T01:08:49.7513818Z",
+  "Time": "2025-12-01T01:10:49.7522408Z",
   "Players": [
     {
       "Name": "7nt8",
       "Steam": "76561198422636928",
-      "Score": 47,
-      "Time": "19:15"
+      "Score": 51,
+      "Time": "21:15"
     },
     {
       "Name": "CHEEZIEPOOH",
       "Steam": "76561198273566562",
-      "Score": 36,
+      "Score": 49,
       "Time": "??:??"
+    },
+    {
+      "Name": "Im Tired of this",
+      "Steam": "76561198765804112",
+      "Score": 0,
+      "Time": "00:14"
     },
     {
       "Name": "Hellboy Peep",
       "Steam": "76561198765530598",
-      "Score": 19,
-      "Time": "08:14"
+      "Score": 22,
+      "Time": "00:09"
     },
     {
       "Name": "Bo_Dont_Miss",
       "Steam": "76561199831577425",
-      "Score": 25,
-      "Time": "18:20"
+      "Score": 30,
+      "Time": "20:20"
     }
   ]
 }
