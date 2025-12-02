@@ -1,53 +1,41 @@
 {
-  "Time": "2025-12-02T19:02:57.6104666Z",
+  "Time": "2025-12-02T19:03:58.4024755Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "Frank",
+      "Steam": "76561198762281760",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "las venturas",
+      "Steam": "76561199613550130",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "K1tanna",
+      "Steam": "76561199521351689",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": ".gg/zq77bD89Eh | kfc sokeg",
-      "Steam": "76561198786319361",
-      "Score": 25,
-      "Time": "37:19"
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 2,
+      "Time": "15:40"
     },
     {
-      "Name": "Orban Viktor",
-      "Steam": "76561198764355345",
-      "Score": 30,
-      "Time": "??:??"
+      "Name": "Joooyzus",
+      "Steam": "76561198773933809",
+      "Score": 6,
+      "Time": "18:28"
     },
     {
-      "Name": "XxDemon_FaZe420xX",
-      "Steam": "76561199889658926",
+      "Name": "1337Pookie",
+      "Steam": "76561199690185461",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "wadpwafionawifwafn",
-      "Steam": "76561199027674539",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "teslo taylan hvh",
-      "Steam": "76561198764701039",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Fish",
-      "Steam": "76561199434301297",
-      "Score": 28,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ロリポップ",
-      "Steam": "76561198307706690",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "428:39"
     }
   ]
 }
