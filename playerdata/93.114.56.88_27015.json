@@ -1,58 +1,76 @@
 {
-  "Time": "2025-12-02T16:28:29.6443837Z",
+  "Time": "2025-12-02T16:28:48.99687Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "aerozenu",
+      "Steam": "76561198765429885",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "neophron",
+      "Steam": "76561199209614932",
+      "Score": 8,
+      "Time": "90:18"
+    },
+    {
+      "Name": "ANNA SNIPER",
+      "Steam": "76561199750692141",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MWAH",
+      "Steam": "76561198768025231",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 16,
+      "Time": "10:30"
+    },
+    {
+      "Name": "GoHvH",
+      "Steam": "76561199732363479",
+      "Score": 36,
+      "Time": "10:12"
+    },
+    {
+      "Name": "memepena",
+      "Steam": "76561198771000157",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "External",
-      "Steam": "76561199842002650",
-      "Score": 12,
-      "Time": "312:27"
-    },
-    {
-      "Name": "ferox :3",
-      "Steam": "76561199883727460",
-      "Score": 0,
+      "Name": "Groomed By Youth",
+      "Steam": "76561198383948180",
+      "Score": 47,
       "Time": "??:??"
     },
     {
-      "Name": "po",
-      "Steam": "76561199208096307",
-      "Score": 22,
-      "Time": "??:??"
+      "Name": "Koziowart",
+      "Steam": "76561199409832164",
+      "Score": 45,
+      "Time": "101:44"
     },
     {
-      "Name": "Alfred",
-      "Steam": "76561199685733063",
-      "Score": 44,
-      "Time": "??:??"
+      "Name": "\uD835\uDCE2\uD835\uDCDE\uD835\uDCD2\uD835\uDCE9\uD835\uDCE4\uD835\uDCE2",
+      "Steam": "76561199682137830",
+      "Score": 4,
+      "Time": "31:04"
     },
     {
-      "Name": "CHAMPION M1RtiN4o",
-      "Steam": "76561198794087367",
-      "Score": 34,
-      "Time": "??:??"
+      "Name": "cake",
+      "Steam": "76561199874806273",
+      "Score": 49,
+      "Time": "160:32"
     },
     {
-      "Name": "♥'' mhm",
-      "Steam": "76561199189651649",
-      "Score": 24,
-      "Time": "10:24"
-    },
-    {
-      "Name": "Solace | Zero",
-      "Steam": "76561198768269789",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "1337Pookie",
-      "Steam": "76561199690185461",
-      "Score": 0,
+      "Name": "Guts",
+      "Steam": "76561198132046636",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
