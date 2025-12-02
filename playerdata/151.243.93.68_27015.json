@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-02T06:01:12.9173604Z",
-  "Players": []
+  "Time": "2025-12-02T06:03:09.2405588Z",
+  "Players": [
+    {
+      "Name": "ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 5,
+      "Time": "61:19"
+    },
+    {
+      "Name": "xtnv v2",
+      "Steam": "76561199449518254",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "PierogiFN",
+      "Steam": "76561199033568973",
+      "Score": 10,
+      "Time": "101:54"
+    },
+    {
+      "Name": "blatantgay",
+      "Steam": "76561198792862274",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "just a premium user",
+      "Steam": "76561199496386208",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
