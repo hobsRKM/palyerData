@@ -1,4 +1,23 @@
 {
-  "Time": "2025-12-02T18:16:13.9672222Z",
-  "Players": []
+  "Time": "2025-12-02T18:16:27.6182521Z",
+  "Players": [
+    {
+      "Name": "/market/item?id=lYEGuQ",
+      "Steam": "76561198829612759",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fish HvH",
+      "Steam": "76561199869103718",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Templewa Onix",
+      "Steam": "76561199731571737",
+      "Score": 20,
+      "Time": "??:??"
+    }
+  ]
 }
