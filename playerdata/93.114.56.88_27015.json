@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-02T03:42:59.0047094Z",
-  "Players": []
+  "Time": "2025-12-02T03:43:46.550886Z",
+  "Players": [
+    {
+      "Name": "ghx",
+      "Steam": "76561199818472808",
+      "Score": 2,
+      "Time": "245:42"
+    },
+    {
+      "Name": "TomaskoLaufer",
+      "Steam": "76561199822082392",
+      "Score": 0,
+      "Time": "00:43"
+    },
+    {
+      "Name": "Only1Taps",
+      "Steam": "76561199766396558",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sad Vooper",
+      "Steam": "76561199867855926",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 2,
+      "Time": "230:39"
+    }
+  ]
 }
