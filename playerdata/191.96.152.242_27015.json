@@ -1,58 +1,64 @@
 {
-  "Time": "2025-12-02T21:18:49.8704392Z",
+  "Time": "2025-12-02T21:20:49.8742328Z",
   "Players": [
     {
       "Name": "\uD835\uDC75\uD835\uDC6C\uD835\uDC7F\uD835\uDC7C\uD835\uDC7A",
       "Steam": "76561198371441947",
-      "Score": 65,
+      "Score": 68,
       "Time": "??:??"
+    },
+    {
+      "Name": "Entry™",
+      "Steam": "76561199321025751",
+      "Score": 7,
+      "Time": "01:28"
     },
     {
       "Name": "average paste user",
       "Steam": "76561199409321218",
-      "Score": 84,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 31,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "ageneote",
       "Steam": "76561198849284665",
-      "Score": 0,
-      "Time": "00:42"
+      "Score": 10,
+      "Time": "02:42"
     },
     {
       "Name": "schrödinger",
       "Steam": "76561199813507603",
       "Score": 34,
-      "Time": "49:20"
+      "Time": "51:20"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 87,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "syedquadri2016",
       "Steam": "76561199876220058",
       "Score": 6,
-      "Time": "04:14"
+      "Time": "06:14"
     },
     {
       "Name": "bad player",
       "Steam": "76561199076151908",
-      "Score": 35,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Team Titans",
       "Steam": "76561198131605879",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -70,20 +76,20 @@
     {
       "Name": "Denied",
       "Steam": "76561199041753106",
-      "Score": 143,
-      "Time": "40:25"
+      "Score": 147,
+      "Time": "42:25"
     },
     {
       "Name": "Mr Pineapple",
       "Steam": "76561199126066907",
-      "Score": 57,
-      "Time": "44:55"
+      "Score": 0,
+      "Time": "46:55"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 102,
-      "Time": "79:07"
+      "Score": 106,
+      "Time": "81:07"
     },
     {
       "Name": "Zaxh",
@@ -95,7 +101,7 @@
       "Name": "sqwat",
       "Steam": "76561199519396101",
       "Score": 2,
-      "Time": "50:21"
+      "Time": "52:21"
     }
   ]
 }
