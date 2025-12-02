@@ -1,53 +1,59 @@
 {
-  "Time": "2025-12-02T01:03:24.7488113Z",
+  "Time": "2025-12-02T01:04:00.803978Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "kapiub0b",
+      "Steam": "76561198151423700",
+      "Score": 8,
+      "Time": "36:35"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LasuB",
+      "Steam": "76561198764375260",
+      "Score": 54,
+      "Time": "464:20"
+    },
+    {
+      "Name": "Bogdanuq",
+      "Steam": "76561199550122482",
+      "Score": 8,
+      "Time": "162:28"
+    },
+    {
+      "Name": "MWAH",
+      "Steam": "76561198768025231",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haunted",
+      "Steam": "76561198829222666",
+      "Score": 179,
+      "Time": "163:11"
+    },
+    {
+      "Name": "Kenzo★ N",
+      "Steam": "76561199180147646",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "70:15"
     },
     {
-      "Name": "Jhon Pork",
-      "Steam": "76561198428537043",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fynd",
-      "Steam": "76561198850872264",
-      "Score": 63,
-      "Time": "55:42"
-    },
-    {
-      "Name": "neophron",
-      "Steam": "76561199209614932",
-      "Score": 59,
-      "Time": "142:59"
-    },
-    {
-      "Name": "mega",
-      "Steam": "76561199686882374",
-      "Score": 28,
-      "Time": "??:??"
-    },
-    {
-      "Name": "cemalcanozturk45",
-      "Steam": "76561198792044404",
-      "Score": 31,
-      "Time": "34:16"
-    },
-    {
-      "Name": "\uDB40\uDC21\uDB40\uDC21",
-      "Steam": "76561199682061013",
-      "Score": 31,
-      "Time": "08:38"
-    },
-    {
-      "Name": "Diaconescu Lucas",
-      "Steam": "76561199667028575",
+      "Name": "MAVERIKadam",
+      "Steam": "76561199752633124",
       "Score": 4,
-      "Time": "681:36"
+      "Time": "371:32"
+    },
+    {
+      "Name": "Little boy",
+      "Steam": "76561199807861868",
+      "Score": 29,
+      "Time": "??:??"
     }
   ]
 }
