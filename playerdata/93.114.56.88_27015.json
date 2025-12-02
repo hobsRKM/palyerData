@@ -1,41 +1,71 @@
 {
-  "Time": "2025-12-02T16:32:29.6733347Z",
+  "Time": "2025-12-02T16:32:49.0913889Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "aerozenu",
+      "Steam": "76561198765429885",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "neophron",
+      "Steam": "76561199209614932",
+      "Score": 18,
+      "Time": "94:18"
+    },
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 29,
+      "Time": "14:30"
+    },
+    {
+      "Name": "GoHvH",
+      "Steam": "76561199732363479",
+      "Score": 44,
+      "Time": "14:13"
+    },
+    {
+      "Name": "memepena",
+      "Steam": "76561198771000157",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Groomed By Youth",
+      "Steam": "76561198383948180",
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Koziowart",
+      "Steam": "76561199409832164",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "105:44"
     },
     {
-      "Name": "External",
-      "Steam": "76561199842002650",
-      "Score": 16,
-      "Time": "316:27"
-    },
-    {
-      "Name": "ferox :3",
-      "Steam": "76561199883727460",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "po",
-      "Steam": "76561199208096307",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "♥'' mhm",
-      "Steam": "76561199189651649",
-      "Score": 53,
-      "Time": "14:25"
-    },
-    {
-      "Name": "vladikudin1337",
-      "Steam": "76561198762252039",
+      "Name": "flxpt",
+      "Steam": "76561199784226010",
       "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "noname",
+      "Steam": "76561198764446466",
+      "Score": 2,
+      "Time": "129:19"
+    },
+    {
+      "Name": "\uD835\uDCE2\uD835\uDCDE\uD835\uDCD2\uD835\uDCE9\uD835\uDCE4\uD835\uDCE2",
+      "Steam": "76561199682137830",
+      "Score": 4,
+      "Time": "35:04"
+    },
+    {
+      "Name": "cake",
+      "Steam": "76561199874806273",
+      "Score": 0,
+      "Time": "164:32"
     }
   ]
 }
