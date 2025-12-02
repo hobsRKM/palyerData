@@ -1,11 +1,17 @@
 {
-  "Time": "2025-12-02T20:36:49.8617193Z",
+  "Time": "2025-12-02T20:38:49.8766218Z",
   "Players": [
     {
       "Name": "\uD835\uDC75\uD835\uDC6C\uD835\uDC7F\uD835\uDC7C\uD835\uDC7A",
       "Steam": "76561198371441947",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
+    },
+    {
+      "Name": "bob",
+      "Steam": "76561198763847987",
+      "Score": 0,
+      "Time": "01:02"
     },
     {
       "Name": "elite.",
@@ -16,55 +22,67 @@
     {
       "Name": "not serv",
       "Steam": "76561199826858318",
-      "Score": 38,
-      "Time": "19:44"
+      "Score": 42,
+      "Time": "21:44"
+    },
+    {
+      "Name": "237",
+      "Steam": "76561199196892043",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "schrödinger",
       "Steam": "76561199813507603",
       "Score": 9,
-      "Time": "07:20"
+      "Time": "09:20"
+    },
+    {
+      "Name": "Denied",
+      "Steam": "76561199041753106",
+      "Score": 0,
+      "Time": "00:25"
     },
     {
       "Name": "Mr Pineapple",
       "Steam": "76561199126066907",
       "Score": 8,
-      "Time": "02:55"
+      "Time": "04:55"
     },
     {
       "Name": "SuckMyBump",
       "Steam": "76561199473656862",
-      "Score": 12,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Berlin lebt wie nie zuvor",
       "Steam": "76561199803595505",
       "Score": 28,
-      "Time": "01:47"
+      "Time": "03:47"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 121,
-      "Time": "37:07"
+      "Score": 131,
+      "Time": "39:07"
     },
     {
       "Name": "Zaxh",
       "Steam": "76561198366421077",
-      "Score": 81,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "sqwat",
       "Steam": "76561199519396101",
       "Score": 18,
-      "Time": "08:21"
+      "Time": "10:21"
     },
     {
       "Name": "kiki",
       "Steam": "76561199711887613",
-      "Score": 60,
+      "Score": 70,
       "Time": "??:??"
     }
   ]
