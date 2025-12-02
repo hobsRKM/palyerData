@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-02T02:30:10.7004704Z",
-  "Players": []
+  "Time": "2025-12-02T02:30:22.718236Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "go smoke",
+      "Steam": "76561199865276971",
+      "Score": 50,
+      "Time": "05:26"
+    },
+    {
+      "Name": "Mimmmi",
+      "Steam": "76561198773397866",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "baited",
+      "Steam": "76561198765685188",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "allah allah nerde",
+      "Steam": "76561198763063399",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nullptr_t",
+      "Steam": "76561198766056255",
+      "Score": 17,
+      "Time": "??:??"
+    }
+  ]
 }
