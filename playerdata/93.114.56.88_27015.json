@@ -1,53 +1,59 @@
 {
-  "Time": "2025-12-02T19:22:57.6192252Z",
+  "Time": "2025-12-02T19:23:58.9249639Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "Frank",
+      "Steam": "76561198762281760",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tokyo",
+      "Steam": "76561199025923017",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": ".gg/zq77bD89Eh | kfc sokeg",
-      "Steam": "76561198786319361",
-      "Score": 55,
-      "Time": "02:41"
-    },
-    {
-      "Name": "Orban Viktor",
-      "Steam": "76561198764355345",
-      "Score": 61,
+      "Name": "[reales españa] Vertrica08",
+      "Steam": "76561198762539501",
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "XxDemon_FaZe420xX",
-      "Steam": "76561199889658926",
-      "Score": 19,
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 63,
+      "Time": "35:41"
+    },
+    {
+      "Name": "Alfred",
+      "Steam": "76561199685733063",
+      "Score": 52,
       "Time": "??:??"
     },
     {
-      "Name": "| ᴋʏᴀᴍɪ |",
-      "Steam": "76561199886624598",
-      "Score": 74,
+      "Name": "www",
+      "Steam": "76561199861060167",
+      "Score": 29,
       "Time": "??:??"
     },
     {
-      "Name": "LasuB",
-      "Steam": "76561198764375260",
-      "Score": 26,
+      "Name": "Bob_Builder",
+      "Steam": "76561198769067462",
+      "Score": 5,
+      "Time": "13:00"
+    },
+    {
+      "Name": "sk1budu",
+      "Steam": "76561198784557389",
+      "Score": 24,
       "Time": "??:??"
     },
     {
-      "Name": "ロリポップ",
-      "Steam": "76561198307706690",
+      "Name": "1337Pookie",
+      "Steam": "76561199690185461",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "MAVERIKadam",
-      "Steam": "76561199752633124",
-      "Score": 28,
-      "Time": "168:48"
+      "Time": "448:40"
     }
   ]
 }
