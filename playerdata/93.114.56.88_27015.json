@@ -1,47 +1,59 @@
 {
-  "Time": "2025-12-02T00:59:24.1639086Z",
+  "Time": "2025-12-02T01:00:00.708214Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "kapiub0b",
+      "Steam": "76561198151423700",
       "Score": 0,
+      "Time": "32:35"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 12,
       "Time": "??:??"
     },
     {
-      "Name": "Jhon Pork",
-      "Steam": "76561198428537043",
-      "Score": 14,
+      "Name": "LasuB",
+      "Steam": "76561198764375260",
+      "Score": 47,
+      "Time": "460:20"
+    },
+    {
+      "Name": "Bogdanuq",
+      "Steam": "76561199550122482",
+      "Score": 4,
+      "Time": "158:28"
+    },
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 11,
+      "Time": "614:03"
+    },
+    {
+      "Name": "haunted",
+      "Steam": "76561198829222666",
+      "Score": 159,
+      "Time": "159:11"
+    },
+    {
+      "Name": "Kenzo★ N",
+      "Steam": "76561199180147646",
+      "Score": 0,
+      "Time": "66:15"
+    },
+    {
+      "Name": "MAVERIKadam",
+      "Steam": "76561199752633124",
+      "Score": 11,
+      "Time": "367:32"
+    },
+    {
+      "Name": "Little boy",
+      "Steam": "76561199807861868",
+      "Score": 11,
       "Time": "??:??"
-    },
-    {
-      "Name": "fynd",
-      "Steam": "76561198850872264",
-      "Score": 54,
-      "Time": "51:41"
-    },
-    {
-      "Name": "neophron",
-      "Steam": "76561199209614932",
-      "Score": 51,
-      "Time": "138:59"
-    },
-    {
-      "Name": "mega",
-      "Steam": "76561199686882374",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "cemalcanozturk45",
-      "Steam": "76561198792044404",
-      "Score": 25,
-      "Time": "30:15"
-    },
-    {
-      "Name": "\uDB40\uDC21\uDB40\uDC21",
-      "Steam": "76561199682061013",
-      "Score": 15,
-      "Time": "04:37"
     }
   ]
 }
