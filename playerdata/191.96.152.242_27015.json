@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-03T02:24:49.8732193Z",
+  "Time": "2025-12-03T02:26:49.8649198Z",
   "Players": [
+    {
+      "Name": "conspicuous",
+      "Steam": "76561198031625589",
+      "Score": 1,
+      "Time": "01:51"
+    },
     {
       "Name": "MIKEEEEEEE",
       "Steam": "76561198765116538",
-      "Score": 63,
-      "Time": "31:31"
+      "Score": 69,
+      "Time": "33:31"
     },
     {
       "Name": "Faded",
       "Steam": "76561198762584651",
-      "Score": 29,
-      "Time": "178:26"
+      "Score": 0,
+      "Time": "180:26"
     },
     {
       "Name": "Emirksi",
       "Steam": "76561199562121025",
-      "Score": 30,
-      "Time": "19:52"
+      "Score": 36,
+      "Time": "21:52"
     },
     {
       "Name": "4$7R4L",
       "Steam": "76561198036942622",
-      "Score": 12,
-      "Time": "03:11"
+      "Score": 0,
+      "Time": "05:11"
     }
   ]
 }
