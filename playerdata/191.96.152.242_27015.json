@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-03T23:06:20.2415913Z",
+  "Time": "2025-12-03T23:08:20.2462435Z",
   "Players": [
+    {
+      "Name": "ete",
+      "Steam": "76561199724067259",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "TAIKUSHO",
       "Steam": "76561198348552397",
-      "Score": 7,
-      "Time": "01:22"
+      "Score": 13,
+      "Time": "03:22"
+    },
+    {
+      "Name": "x #noob",
+      "Steam": "76561199050170734",
+      "Score": 0,
+      "Time": "01:31"
     },
     {
       "Name": "rayvnmoon",
       "Steam": "76561199434656701",
-      "Score": 38,
-      "Time": "??:??"
-    },
-    {
-      "Name": ":c",
-      "Steam": "76561198051403376",
-      "Score": 29,
+      "Score": 44,
       "Time": "??:??"
     },
     {
@@ -34,7 +40,19 @@
     {
       "Name": "black trump",
       "Steam": "76561198764305903",
-      "Score": 16,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tracel.ess rain",
+      "Steam": "76561199847868570",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Carder",
+      "Steam": "76561198883636848",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
