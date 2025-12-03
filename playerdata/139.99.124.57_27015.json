@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-03T08:33:36.1731047Z",
+  "Time": "2025-12-03T08:35:36.1624385Z",
   "Players": [
     {
       "Name": "desync",
       "Steam": "76561199877513410",
-      "Score": 104,
+      "Score": 110,
       "Time": "??:??"
     },
     {
       "Name": "zxc",
       "Steam": "76561198219469781",
-      "Score": 38,
-      "Time": "17:55"
+      "Score": 44,
+      "Time": "19:55"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 18,
-      "Time": "06:41"
+      "Score": 25,
+      "Time": "08:41"
     },
     {
       "Name": "Die_contrast",
       "Steam": "76561198782172023",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
+    },
+    {
+      "Name": "PIG",
+      "Steam": "76561199831618461",
+      "Score": 36,
+      "Time": "00:17"
     },
     {
       "Name": "tOmz777",
       "Steam": "76561198762928407",
       "Score": 0,
-      "Time": "09:25"
+      "Time": "11:25"
     }
   ]
 }
