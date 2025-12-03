@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-03T00:34:49.8747242Z",
+  "Time": "2025-12-03T00:36:49.8636133Z",
   "Players": [
+    {
+      "Name": "blatantgay",
+      "Steam": "76561198792862274",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "market/item?id=u9CvJ3",
       "Steam": "76561199812981312",
-      "Score": 2,
-      "Time": "06:14"
+      "Score": 12,
+      "Time": "08:14"
     },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 35,
-      "Time": "34:54"
+      "Score": 43,
+      "Time": "36:54"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 73,
-      "Time": "60:55"
+      "Score": 84,
+      "Time": "62:55"
     },
     {
       "Name": "zo",
@@ -28,7 +34,7 @@
     {
       "Name": "Charlie Kirk",
       "Steam": "76561199320733877",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
