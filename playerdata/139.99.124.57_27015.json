@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-03T17:27:29.2609958Z",
+  "Time": "2025-12-03T17:29:29.277103Z",
   "Players": [
+    {
+      "Name": "Papuga",
+      "Steam": "76561198764578274",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "dit me ciye | Tell Me Why???",
       "Steam": "76561199557856957",
       "Score": 2,
-      "Time": "66:07"
+      "Time": "68:07"
     },
     {
       "Name": "seventizz",
       "Steam": "76561199209538066",
-      "Score": 16,
-      "Time": "49:52"
+      "Score": 24,
+      "Time": "51:52"
     },
     {
       "Name": "Kaiii",
       "Steam": "76561199832854360",
       "Score": 0,
-      "Time": "44:36"
+      "Time": "46:37"
     }
   ]
 }
