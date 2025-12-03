@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-03T01:44:49.8707394Z",
+  "Time": "2025-12-03T01:46:49.8714335Z",
   "Players": [
+    {
+      "Name": "Entry™",
+      "Steam": "76561199321025751",
+      "Score": 2,
+      "Time": "00:51"
+    },
     {
       "Name": "blatantgay",
       "Steam": "76561198792862274",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 37,
-      "Time": "130:55"
+      "Score": 47,
+      "Time": "132:55"
     },
     {
       "Name": "astro",
       "Steam": "76561198782333753",
-      "Score": 12,
-      "Time": "05:39"
+      "Score": 21,
+      "Time": "07:39"
     }
   ]
 }
