@@ -1,16 +1,22 @@
 {
-  "Time": "2025-12-04T16:39:32.7105583Z",
+  "Time": "2025-12-04T16:41:32.7099405Z",
   "Players": [
     {
       "Name": "RaZoR",
       "Steam": "76561199025031813",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "01:41"
     },
     {
       "Name": "King Valor",
       "Steam": "76561198778275108",
-      "Score": 2,
+      "Score": 0,
+      "Time": "01:33"
+    },
+    {
+      "Name": "Bombobini Gusini",
+      "Steam": "76561199737855458",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
