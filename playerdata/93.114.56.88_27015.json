@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-04T07:49:09.9589264Z",
-  "Players": []
+  "Time": "2025-12-04T07:49:47.3621695Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "235:36"
+    },
+    {
+      "Name": "nullptr_t",
+      "Steam": "76561198766056255",
+      "Score": 14,
+      "Time": "13:19"
+    },
+    {
+      "Name": "bakkes",
+      "Steam": "76561199886624598",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDE1A\uD835\uDE30\uD835\uDE33\uD835\uDE22 - \uD835\uDCAE\uD835\uDCC9\uD835\uDCB6",
+      "Steam": "76561198773136021",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sous frozen",
+      "Steam": "76561198763582634",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
