@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-04T07:07:09.9589221Z",
-  "Players": []
+  "Time": "2025-12-04T07:07:47.3572245Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "193:36"
+    },
+    {
+      "Name": "squeezing laurence",
+      "Steam": "76561199850138156",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "go smoke",
+      "Steam": "76561199865276971",
+      "Score": 4,
+      "Time": "00:38"
+    },
+    {
+      "Name": "QUARESMA",
+      "Steam": "76561199791709290",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GUSTAVO",
+      "Steam": "76561199658444022",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
