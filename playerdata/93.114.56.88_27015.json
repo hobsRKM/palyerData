@@ -1,4 +1,53 @@
 {
-  "Time": "2025-12-04T17:21:10.0176882Z",
-  "Players": []
+  "Time": "2025-12-04T17:21:16.8156984Z",
+  "Players": [
+    {
+      "Name": "Fedya",
+      "Steam": "76561198764107142",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gzuz",
+      "Steam": "76561199844956368",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "decon",
+      "Steam": "76561198769577987",
+      "Score": 35,
+      "Time": "156:38"
+    },
+    {
+      "Name": "wariacik",
+      "Steam": "76561199844401497",
+      "Score": 68,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOGATE ferox",
+      "Steam": "76561199377440484",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ItsssNK",
+      "Steam": "76561198271809907",
+      "Score": 37,
+      "Time": "213:11"
+    },
+    {
+      "Name": "Guts",
+      "Steam": "76561198132046636",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
+      "Steam": "76561199547514723",
+      "Score": 43,
+      "Time": "08:34"
+    }
+  ]
 }
