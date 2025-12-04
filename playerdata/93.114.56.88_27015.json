@@ -1,41 +1,59 @@
 {
-  "Time": "2025-12-04T17:27:16.8089498Z",
+  "Time": "2025-12-04T17:27:49.408852Z",
   "Players": [
     {
-      "Name": "Fedya",
-      "Steam": "76561198764107142",
+      "Name": "foe",
+      "Steam": "76561199842369196",
+      "Score": 0,
+      "Time": "75:20"
+    },
+    {
+      "Name": "☂",
+      "Steam": "76561199043383561",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rambo88",
+      "Steam": "76561198815170311",
+      "Score": 13,
+      "Time": "05:41"
+    },
+    {
+      "Name": "SzeliPieS",
+      "Steam": "76561199825851902",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\"\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\"",
+      "Steam": "76561198832028178",
+      "Score": 11,
+      "Time": "37:26"
+    },
+    {
+      "Name": "ov3rcharged",
+      "Steam": "76561199181532316",
+      "Score": 25,
+      "Time": "23:59"
+    },
+    {
+      "Name": "kolll alt acc",
+      "Steam": "76561198769744179",
       "Score": 9,
       "Time": "??:??"
     },
     {
-      "Name": "Gzuz",
-      "Steam": "76561199844956368",
-      "Score": 14,
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "decon",
-      "Steam": "76561198769577987",
-      "Score": 10,
-      "Time": "162:38"
-    },
-    {
-      "Name": "ItsssNK",
-      "Steam": "76561198271809907",
-      "Score": 0,
-      "Time": "219:11"
-    },
-    {
-      "Name": "Guts",
-      "Steam": "76561198132046636",
-      "Score": 36,
-      "Time": "??:??"
-    },
-    {
-      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
-      "Steam": "76561199547514723",
-      "Score": 70,
-      "Time": "14:34"
+      "Name": "Castle",
+      "Steam": "76561199187600654",
+      "Score": 30,
+      "Time": "28:33"
     }
   ]
 }
