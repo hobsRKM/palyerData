@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-04T21:13:10.0171345Z",
-  "Players": []
+  "Time": "2025-12-04T21:13:17.0186463Z",
+  "Players": [
+    {
+      "Name": "jaolis",
+      "Steam": "76561198794888389",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Auf Sendung mit der Maus",
+      "Steam": "76561198777130244",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Karl Astel",
+      "Steam": "76561198763776182",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "CYGAN NA POMPIE",
+      "Steam": "76561198763752528",
+      "Score": 0,
+      "Time": "154:12"
+    },
+    {
+      "Name": "??????????",
+      "Steam": "76561198791026311",
+      "Score": 2,
+      "Time": "07:29"
+    }
+  ]
 }
