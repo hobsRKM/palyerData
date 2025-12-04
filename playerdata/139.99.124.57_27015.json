@@ -1,53 +1,53 @@
 {
-  "Time": "2025-12-04T13:46:00.6177183Z",
+  "Time": "2025-12-04T13:48:00.6145679Z",
   "Players": [
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 99,
-      "Time": "84:39"
+      "Score": 103,
+      "Time": "86:39"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 68,
+      "Score": 72,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mx9520",
+      "Steam": "76561199072787798",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "desync",
       "Steam": "76561199877513410",
-      "Score": 38,
-      "Time": "50:01"
+      "Score": 44,
+      "Time": "52:01"
     },
     {
       "Name": "zxc",
       "Steam": "76561198219469781",
-      "Score": 16,
-      "Time": "85:10"
+      "Score": 19,
+      "Time": "87:10"
     },
     {
-      "Name": "Aimware. thatguy",
+      "Name": "Aimware.n \uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199788609972",
-      "Score": 78,
-      "Time": "122:27"
-    },
-    {
-      "Name": "Nixware",
-      "Steam": "76561198775209729",
-      "Score": 16,
-      "Time": "28:45"
+      "Score": 84,
+      "Time": "124:27"
     },
     {
       "Name": "Mist",
       "Steam": "76561199877085063",
-      "Score": 47,
+      "Score": 51,
       "Time": "??:??"
     },
     {
-      "Name": "goodfnd",
-      "Steam": "76561199760972896",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "Nixware.cc",
+      "Steam": "76561198762314766",
+      "Score": 1,
+      "Time": "01:45"
     }
   ]
 }
