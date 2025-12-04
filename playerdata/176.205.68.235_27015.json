@@ -1,17 +1,29 @@
 {
-  "Time": "2025-12-04T11:57:09.5868208Z",
+  "Time": "2025-12-04T11:59:09.5874118Z",
   "Players": [
     {
       "Name": "Agartha Vooper",
       "Steam": "76561199867855926",
-      "Score": 36,
-      "Time": "16:00"
+      "Score": 46,
+      "Time": "18:00"
+    },
+    {
+      "Name": "ghost",
+      "Steam": "76561199591486018",
+      "Score": 2,
+      "Time": "01:08"
     },
     {
       "Name": "snares.",
       "Steam": "76561199610277342",
       "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "Katy Perry",
+      "Steam": "76561199409832164",
+      "Score": 0,
+      "Time": "00:32"
     }
   ]
 }
