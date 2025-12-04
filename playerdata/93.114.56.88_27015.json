@@ -1,4 +1,23 @@
 {
-  "Time": "2025-12-04T14:25:10.0065499Z",
-  "Players": []
+  "Time": "2025-12-04T14:25:47.3635432Z",
+  "Players": [
+    {
+      "Name": "el capitán",
+      "Steam": "76561198161841886",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Meow Meow",
+      "Steam": "76561198766133393",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "@FatalitySellerBot",
+      "Steam": "76561199855783668",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
