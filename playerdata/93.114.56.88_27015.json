@@ -1,4 +1,53 @@
 {
-  "Time": "2025-12-05T22:39:14.3020344Z",
-  "Players": []
+  "Time": "2025-12-05T22:39:55.1959719Z",
+  "Players": [
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 0,
+      "Time": "05:34"
+    },
+    {
+      "Name": "ABC",
+      "Steam": "76561199831495438",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sta ツ篇\uD835\uDC46\uD835\uDC47\uD835\uDC42\uD835\uDC45\uD835\uDC40",
+      "Steam": "76561199118846193",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "f my life",
+      "Steam": "76561199832667269",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nullptr_t",
+      "Steam": "76561198766056255",
+      "Score": 3,
+      "Time": "08:00"
+    },
+    {
+      "Name": "I'm_testing_Aimware",
+      "Steam": "76561198766692358",
+      "Score": 5,
+      "Time": "07:18"
+    },
+    {
+      "Name": "d7n",
+      "Steam": "76561198894164178",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Amir",
+      "Steam": "76561198915413527",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
