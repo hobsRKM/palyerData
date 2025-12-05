@@ -1,57 +1,81 @@
 {
-  "Time": "2025-12-05T10:24:13.0407429Z",
+  "Time": "2025-12-05T10:26:13.0453559Z",
   "Players": [
     {
       "Name": "test",
       "Steam": "76561198767240115",
-      "Score": 48,
-      "Time": "45:30"
+      "Score": 57,
+      "Time": "47:30"
+    },
+    {
+      "Name": "papá",
+      "Steam": "76561199840299479",
+      "Score": 0,
+      "Time": "00:27"
     },
     {
       "Name": "blond ᶻ \uD835\uDDD3 \uD803\uDC01",
       "Steam": "76561199885332136",
-      "Score": 0,
-      "Time": "49:42"
+      "Score": 2,
+      "Time": "51:42"
     },
     {
       "Name": "tOmz777",
       "Steam": "76561198862303454",
       "Score": 2,
-      "Time": "17:55"
+      "Time": "01:36"
     },
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 16,
-      "Time": "05:19"
+      "Score": 24,
+      "Time": "07:19"
     },
     {
       "Name": "Arthur",
       "Steam": "76561198772884947",
-      "Score": 68,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "Sakuraba Ema",
       "Steam": "76561199825180939",
-      "Score": 44,
-      "Time": "27:25"
+      "Score": 46,
+      "Time": "29:25"
+    },
+    {
+      "Name": "Hakuya",
+      "Steam": "76561199242156295",
+      "Score": 14,
+      "Time": "01:26"
     },
     {
       "Name": "✡⃤⛴☁",
       "Steam": "76561199060922164",
-      "Score": 44,
-      "Time": "17:37"
+      "Score": 48,
+      "Time": "19:37"
     },
     {
       "Name": "shit aim",
       "Steam": "76561198311049445",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Avr",
       "Steam": "76561199854989351",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": ".s3",
+      "Steam": "76561199823990333",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vigan_11",
+      "Steam": "76561198202626176",
       "Score": 0,
       "Time": "??:??"
     }
