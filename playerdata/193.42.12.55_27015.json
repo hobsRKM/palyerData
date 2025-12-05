@@ -1,16 +1,22 @@
 {
-  "Time": "2025-12-05T13:42:19.4312701Z",
+  "Time": "2025-12-05T13:44:19.4285066Z",
   "Players": [
+    {
+      "Name": "Vec",
+      "Steam": "76561199708520028",
+      "Score": 2,
+      "Time": "00:43"
+    },
     {
       "Name": "nixware player",
       "Steam": "76561198794888389",
-      "Score": 61,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "/market/item?id=lYEGuQ",
       "Steam": "76561198829612759",
-      "Score": 51,
+      "Score": 53,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,7 @@
     {
       "Name": "Bismilah[無敵]",
       "Steam": "76561199830013643",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "nullptr_t",
-      "Steam": "76561198766056255",
-      "Score": 6,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
