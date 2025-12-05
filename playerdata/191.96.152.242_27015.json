@@ -1,46 +1,40 @@
 {
-  "Time": "2025-12-05T22:53:04.5159296Z",
+  "Time": "2025-12-05T22:55:04.5084921Z",
   "Players": [
+    {
+      "Name": "sharkbait",
+      "Steam": "76561199199297162",
+      "Score": 0,
+      "Time": "01:05"
+    },
     {
       "Name": "kiki",
       "Steam": "76561199711887613",
-      "Score": 8,
-      "Time": "02:01"
-    },
-    {
-      "Name": "superstar >:3",
-      "Steam": "76561198768490015",
-      "Score": 6,
-      "Time": "12:40"
+      "Score": 16,
+      "Time": "04:01"
     },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 22,
-      "Time": "12:51"
+      "Score": 29,
+      "Time": "14:51"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 56,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
       "Score": 38,
-      "Time": "11:39"
+      "Time": "13:39"
     },
     {
-      "Name": "67Ni La Thiên Hành",
+      "Name": "67N La Thiên Hành",
       "Steam": "76561198766355307",
       "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "RADICAL RACIST",
-      "Steam": "76561199870945474",
-      "Score": 2,
       "Time": "??:??"
     }
   ]
