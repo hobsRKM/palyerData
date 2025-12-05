@@ -1,34 +1,46 @@
 {
-  "Time": "2025-12-05T20:26:19.4332254Z",
+  "Time": "2025-12-05T20:28:19.4366122Z",
   "Players": [
+    {
+      "Name": "i diddle minds",
+      "Steam": "76561199850138156",
+      "Score": 0,
+      "Time": "00:14"
+    },
     {
       "Name": "po",
       "Steam": "76561199208096307",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "sum cool nggr",
       "Steam": "76561199610192061",
-      "Score": 35,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "1",
       "Steam": "76561199849077335",
-      "Score": 50,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "Nggabalz",
       "Steam": "76561198764966369",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "X.Main",
       "Steam": "76561199706707447",
       "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "I'm_testing_Aimware",
+      "Steam": "76561198766692358",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
