@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-05T12:38:33.5307828Z",
+  "Time": "2025-12-05T12:40:33.5346745Z",
   "Players": [
     {
       "Name": "desync",
       "Steam": "76561199877513410",
-      "Score": 78,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "ICE",
       "Steam": "76561199856474370",
       "Score": 24,
-      "Time": "64:29"
+      "Time": "66:29"
+    },
+    {
+      "Name": "Avatar",
+      "Steam": "76561198274962814",
+      "Score": 0,
+      "Time": "01:30"
     },
     {
       "Name": "you nupid stigger",
       "Steam": "76561198762301972",
-      "Score": 23,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
