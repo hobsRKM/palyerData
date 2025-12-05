@@ -1,33 +1,45 @@
 {
-  "Time": "2025-12-05T19:34:19.4309085Z",
+  "Time": "2025-12-05T19:36:19.4374188Z",
   "Players": [
+    {
+      "Name": "dior b30",
+      "Steam": "76561199824928753",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "i diddle minds",
       "Steam": "76561199850138156",
-      "Score": 7,
-      "Time": "02:47"
+      "Score": 13,
+      "Time": "04:47"
     },
     {
       "Name": "Meow Meow",
       "Steam": "76561198766133393",
-      "Score": 26,
-      "Time": "31:31"
+      "Score": 28,
+      "Time": "33:31"
     },
     {
       "Name": "cwel",
       "Steam": "76561198775872370",
-      "Score": 54,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "/market/item?id=lYEGuQ",
       "Steam": "76561198829612759",
-      "Score": 13,
-      "Time": "08:49"
+      "Score": 15,
+      "Time": "10:49"
     },
     {
       "Name": "con",
       "Steam": "76561198764241969",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "DiggusLeNiggus",
+      "Steam": "76561198783170670",
       "Score": 2,
       "Time": "??:??"
     }
