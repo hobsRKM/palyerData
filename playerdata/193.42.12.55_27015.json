@@ -1,11 +1,17 @@
 {
-  "Time": "2025-12-05T20:40:19.4271205Z",
+  "Time": "2025-12-05T20:42:19.4375231Z",
   "Players": [
+    {
+      "Name": "SosiskiKolbaski",
+      "Steam": "76561199745257693",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "i diddle minds",
       "Steam": "76561199850138156",
-      "Score": 18,
-      "Time": "12:14"
+      "Score": 26,
+      "Time": "14:14"
     },
     {
       "Name": "po",
@@ -16,19 +22,19 @@
     {
       "Name": "ilaya",
       "Steam": "76561199276906809",
-      "Score": 23,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "1",
       "Steam": "76561199849077335",
-      "Score": 88,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "Nggabalz",
       "Steam": "76561198764966369",
-      "Score": 29,
+      "Score": 33,
       "Time": "??:??"
     },
     {
@@ -40,20 +46,26 @@
     {
       "Name": "Hush",
       "Steam": "76561199890049005",
-      "Score": 20,
-      "Time": "99:31"
+      "Score": 0,
+      "Time": "101:31"
     },
     {
       "Name": "Adellund",
       "Steam": "76561197963191416",
-      "Score": 18,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Tiocfaidharla",
       "Steam": "76561198788061697",
-      "Score": 25,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "bankroll.su alpha members 53",
+      "Steam": "76561199010254074",
+      "Score": 1,
+      "Time": "56:45"
     }
   ]
 }
