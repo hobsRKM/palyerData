@@ -1,35 +1,53 @@
 {
-  "Time": "2025-12-05T01:35:16.2457444Z",
+  "Time": "2025-12-05T01:37:16.254772Z",
   "Players": [
     {
       "Name": "SW",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "426:04"
+      "Time": "428:04"
+    },
+    {
+      "Name": "Anton Chigur",
+      "Steam": "76561199881015794",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "fynd",
       "Steam": "76561198850872264",
-      "Score": 52,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "Jeffry",
       "Steam": "76561198762184491",
-      "Score": 26,
-      "Time": "227:31"
+      "Score": 30,
+      "Time": "229:31"
     },
     {
       "Name": "Anonym45",
       "Steam": "76561199068776576",
-      "Score": 58,
-      "Time": "26:59"
+      "Score": 59,
+      "Time": "28:59"
+    },
+    {
+      "Name": "Boss",
+      "Steam": "76561199801654475",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "nixware player",
       "Steam": "76561198794888389",
-      "Score": 26,
-      "Time": "08:53"
+      "Score": 36,
+      "Time": "10:53"
+    },
+    {
+      "Name": "Madness",
+      "Steam": "76561198991066411",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "el capitán",
@@ -40,8 +58,8 @@
     {
       "Name": "hoopinghoper",
       "Steam": "76561199674785177",
-      "Score": 4,
-      "Time": "00:20"
+      "Score": 6,
+      "Time": "02:20"
     }
   ]
 }
