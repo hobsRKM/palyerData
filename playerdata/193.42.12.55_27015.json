@@ -1,32 +1,38 @@
 {
-  "Time": "2025-12-06T19:24:25.4962478Z",
+  "Time": "2025-12-06T19:26:25.5228248Z",
   "Players": [
+    {
+      "Name": "ff",
+      "Steam": "76561198013579394",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "DREAMER",
       "Steam": "76561199094340985",
-      "Score": 14,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Ich bin balbenbaum",
       "Steam": "76561199154997580",
-      "Score": 41,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Gedot6067",
       "Steam": "76561199650497529",
-      "Score": 53,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "Fake",
       "Steam": "76561199729334552",
-      "Score": 29,
-      "Time": "13:08"
+      "Score": 31,
+      "Time": "15:08"
     },
     {
-      "Name": "gamesense.pub Darme invite de fatality",
+      "Name": "Darme invite de fatality",
       "Steam": "76561198769323304",
       "Score": 6,
       "Time": "??:??"
@@ -34,56 +40,50 @@
     {
       "Name": "Ахмед Про Плей",
       "Steam": "76561198792033928",
-      "Score": 21,
-      "Time": "??:??"
-    },
-    {
-      "Name": "flxpt",
-      "Steam": "76561199784226010",
-      "Score": 0,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "darpa_666",
       "Steam": "76561197961023001",
-      "Score": 23,
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Duel buritos king",
+      "Steam": "76561199202750297",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "prada",
       "Steam": "76561199821529132",
-      "Score": 82,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "BOGATE ferox",
       "Steam": "76561199377440484",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "aleSY",
       "Steam": "76561198317421582",
-      "Score": 15,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "dare",
       "Steam": "76561199679982159",
-      "Score": 53,
-      "Time": "26:28"
+      "Score": 65,
+      "Time": "28:28"
     },
     {
       "Name": "olofmeister",
       "Steam": "76561199834008737",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "BRUTALITY N",
-      "Steam": "76561199180147646",
-      "Score": 19,
-      "Time": "03:00"
     },
     {
       "Name": "yamaha250321",
@@ -94,19 +94,19 @@
     {
       "Name": "Monster",
       "Steam": "76561198793010187",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "✡ I ADORE U baby :3",
       "Steam": "76561199883727460",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Snizu",
       "Steam": "76561198354487566",
-      "Score": 2,
+      "Score": 12,
       "Time": "??:??"
     },
     {
@@ -118,8 +118,8 @@
     {
       "Name": "vahinko",
       "Steam": "76561199524093805",
-      "Score": 12,
-      "Time": "225:50"
+      "Score": 17,
+      "Time": "227:50"
     }
   ]
 }
