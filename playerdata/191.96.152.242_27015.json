@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-06T02:45:04.5222618Z",
+  "Time": "2025-12-06T02:47:04.5223955Z",
   "Players": [
     {
       "Name": "definitely not serv",
       "Steam": "76561199622182648",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "00:54"
+    },
+    {
+      "Name": "Viktors Gloks",
+      "Steam": "76561198761263556",
+      "Score": 0,
+      "Time": "00:43"
     },
     {
       "Name": "wyattandkatie",
       "Steam": "76561198833219379",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "superstar >:3",
       "Steam": "76561198768490015",
-      "Score": 20,
-      "Time": "19:27"
+      "Score": 26,
+      "Time": "21:27"
     }
   ]
 }
