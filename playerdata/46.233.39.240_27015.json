@@ -1,41 +1,47 @@
 {
-  "Time": "2025-12-06T08:34:33.5337114Z",
+  "Time": "2025-12-06T08:36:33.5367195Z",
   "Players": [
+    {
+      "Name": "67kingrgae",
+      "Steam": "76561198765783685",
+      "Score": 10,
+      "Time": "00:33"
+    },
     {
       "Name": "desync",
       "Steam": "76561199877513410",
-      "Score": 79,
-      "Time": "77:18"
+      "Score": 87,
+      "Time": "79:18"
     },
     {
       "Name": "vfghb",
       "Steam": "76561198794295986",
-      "Score": 47,
-      "Time": "90:02"
+      "Score": 48,
+      "Time": "92:02"
     },
     {
       "Name": "jimmy butler",
       "Steam": "76561198761642721",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Schyeah",
       "Steam": "76561199655842342",
-      "Score": 44,
-      "Time": "183:15"
+      "Score": 48,
+      "Time": "185:15"
     },
     {
       "Name": "alice in wonderland",
       "Steam": "76561199633865438",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "yen7",
       "Steam": "76561199693252775",
-      "Score": 16,
-      "Time": "01:41"
+      "Score": 18,
+      "Time": "03:41"
     }
   ]
 }
