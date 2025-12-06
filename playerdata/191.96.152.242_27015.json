@@ -1,47 +1,59 @@
 {
-  "Time": "2025-12-06T04:53:04.5138531Z",
+  "Time": "2025-12-06T04:55:04.5227181Z",
   "Players": [
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 0,
-      "Time": "04:36"
+      "Score": 8,
+      "Time": "06:36"
+    },
+    {
+      "Name": "Vec",
+      "Steam": "76561199708520028",
+      "Score": 27,
+      "Time": "00:09"
     },
     {
       "Name": "creep",
       "Steam": "76561198375901249",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Xrv",
-      "Steam": "76561199866119542",
       "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 37,
-      "Time": "09:20"
+      "Score": 44,
+      "Time": "11:20"
+    },
+    {
+      "Name": "Entry™",
+      "Steam": "76561199321025751",
+      "Score": 0,
+      "Time": "01:16"
     },
     {
       "Name": "dakroche",
       "Steam": "76561199676797262",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
+    },
+    {
+      "Name": "syedquadri2016",
+      "Steam": "76561199876220058",
+      "Score": 4,
+      "Time": "01:46"
     },
     {
       "Name": "\uD835\uDD4B\uD835\uDD63\uD835\uDD5A\uD835\uDD69",
       "Steam": "76561198175113494",
-      "Score": 2,
-      "Time": "07:52"
+      "Score": 4,
+      "Time": "09:52"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 24,
-      "Time": "14:19"
+      "Score": 25,
+      "Time": "16:19"
     }
   ]
 }
