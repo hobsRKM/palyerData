@@ -1,29 +1,29 @@
 {
-  "Time": "2025-12-06T22:30:25.7250519Z",
+  "Time": "2025-12-06T22:32:25.7215194Z",
   "Players": [
     {
       "Name": "zen",
       "Steam": "76561199846430401",
-      "Score": 16,
-      "Time": "31:19"
+      "Score": 2,
+      "Time": "33:19"
     },
     {
       "Name": "entrepreneur",
       "Steam": "76561198409523349",
-      "Score": 5,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "no Bismilah[無敵]",
+      "Steam": "76561199830013643",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Bestia ツ",
       "Steam": "76561198898796300",
-      "Score": 38,
-      "Time": "59:07"
-    },
-    {
-      "Name": "vahinko",
-      "Steam": "76561199524093805",
-      "Score": 0,
-      "Time": "124:03"
+      "Score": 48,
+      "Time": "61:07"
     }
   ]
 }
