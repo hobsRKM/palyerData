@@ -1,17 +1,17 @@
 {
-  "Time": "2025-12-06T07:52:33.535007Z",
+  "Time": "2025-12-06T07:54:33.5355549Z",
   "Players": [
     {
       "Name": "desync",
       "Steam": "76561199877513410",
-      "Score": 33,
-      "Time": "35:18"
+      "Score": 46,
+      "Time": "37:18"
     },
     {
       "Name": "vfghb",
       "Steam": "76561198794295986",
-      "Score": 13,
-      "Time": "48:02"
+      "Score": 15,
+      "Time": "50:02"
     },
     {
       "Name": "jimmy butler",
@@ -22,13 +22,19 @@
     {
       "Name": "Schyeah",
       "Steam": "76561199655842342",
-      "Score": 14,
-      "Time": "141:15"
+      "Score": 20,
+      "Time": "143:15"
     },
     {
       "Name": "pala",
       "Steam": "76561198257745143",
       "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "RaZoR",
+      "Steam": "76561199025031813",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
