@@ -1,10 +1,16 @@
 {
-  "Time": "2025-12-06T21:02:25.6124859Z",
+  "Time": "2025-12-06T21:04:25.6154517Z",
   "Players": [
     {
       "Name": "wesker",
       "Steam": "76561198349547929",
-      "Score": 16,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dziuginatorius3000",
+      "Steam": "76561198771773243",
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -14,22 +20,40 @@
       "Time": "??:??"
     },
     {
+      "Name": "Aimware.net H I T L E R",
+      "Steam": "76561199516412968",
+      "Score": 4,
+      "Time": "220:05"
+    },
+    {
       "Name": "memepena",
       "Steam": "76561198771000157",
-      "Score": 16,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "necit68736",
+      "Steam": "76561198762882693",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Karl Astel",
       "Steam": "76561198769050954",
-      "Score": 35,
-      "Time": "73:42"
+      "Score": 47,
+      "Time": "75:42"
+    },
+    {
+      "Name": "David laid",
+      "Steam": "76561199828819970",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "vahinko",
       "Steam": "76561199524093805",
-      "Score": 14,
-      "Time": "36:03"
+      "Score": 16,
+      "Time": "38:03"
     }
   ]
 }
