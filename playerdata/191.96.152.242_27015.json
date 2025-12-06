@@ -1,34 +1,40 @@
 {
-  "Time": "2025-12-06T16:39:51.2265811Z",
+  "Time": "2025-12-06T16:41:51.2275722Z",
   "Players": [
+    {
+      "Name": "ck lover",
+      "Steam": "76561198770786025",
+      "Score": 0,
+      "Time": "01:02"
+    },
     {
       "Name": "neverhit.cc",
       "Steam": "76561199861823471",
-      "Score": 12,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "rose.a.n.d.ersen.8.7",
       "Steam": "76561199890915771",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561198762682957",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Oh Its Orable",
       "Steam": "76561199502108463",
-      "Score": 18,
-      "Time": "??:??"
+      "Score": 22,
+      "Time": "00:09"
     },
     {
       "Name": ".",
       "Steam": "76561199862085678",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
