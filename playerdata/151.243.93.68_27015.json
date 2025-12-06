@@ -1,4 +1,29 @@
 {
-  "Time": "2025-12-06T07:01:36.1721872Z",
-  "Players": []
+  "Time": "2025-12-06T07:03:28.6534957Z",
+  "Players": [
+    {
+      "Name": "not serv | TESTING",
+      "Steam": "76561198887092774",
+      "Score": 3,
+      "Time": "125:55"
+    },
+    {
+      "Name": "cooniex911",
+      "Steam": "76561199817059576",
+      "Score": 23,
+      "Time": "47:34"
+    },
+    {
+      "Name": "blatantgay",
+      "Steam": "76561198792862274",
+      "Score": 4,
+      "Time": "04:50"
+    },
+    {
+      "Name": "NNxit",
+      "Steam": "76561199379143479",
+      "Score": 9,
+      "Time": "??:??"
+    }
+  ]
 }
