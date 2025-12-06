@@ -1,10 +1,10 @@
 {
-  "Time": "2025-12-06T20:07:51.2338639Z",
+  "Time": "2025-12-06T20:09:51.2373864Z",
   "Players": [
     {
       "Name": "Silly_catboy :3",
       "Steam": "76561199240568132",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -26,6 +26,12 @@
       "Time": "??:??"
     },
     {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 6,
+      "Time": "02:00"
+    },
+    {
       "Name": "SODLIT KARRO",
       "Steam": "76561199891833433",
       "Score": 2,
@@ -34,8 +40,14 @@
     {
       "Name": "CONSOLE_AIM_ASSIST_USER",
       "Steam": "76561199076204616",
-      "Score": 42,
-      "Time": "33:18"
+      "Score": 56,
+      "Time": "35:18"
+    },
+    {
+      "Name": "syedquadri2016",
+      "Steam": "76561199876220058",
+      "Score": 2,
+      "Time": "01:00"
     }
   ]
 }
