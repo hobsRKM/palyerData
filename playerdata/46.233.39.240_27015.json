@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-06T04:38:33.531227Z",
+  "Time": "2025-12-06T04:40:33.5315877Z",
   "Players": [
+    {
+      "Name": "desync",
+      "Steam": "76561199877513410",
+      "Score": 2,
+      "Time": "01:24"
+    },
     {
       "Name": "you nupid stigger",
       "Steam": "76561198762301972",
-      "Score": 48,
-      "Time": "103:37"
+      "Score": 0,
+      "Time": "105:37"
     },
     {
       "Name": "atm2145",
       "Steam": "76561199891530105",
-      "Score": 7,
-      "Time": "02:15"
+      "Score": 0,
+      "Time": "04:15"
     },
     {
       "Name": "ultimate fivem roleplayer",
       "Steam": "76561199859647186",
-      "Score": 98,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
