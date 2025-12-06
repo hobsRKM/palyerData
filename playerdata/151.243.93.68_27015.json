@@ -1,4 +1,23 @@
 {
-  "Time": "2025-12-06T05:59:36.1823251Z",
-  "Players": []
+  "Time": "2025-12-06T06:01:28.6519181Z",
+  "Players": [
+    {
+      "Name": "not serv | TESTING",
+      "Steam": "76561198887092774",
+      "Score": 2,
+      "Time": "63:55"
+    },
+    {
+      "Name": "cooniex911",
+      "Steam": "76561199817059576",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fatality.win",
+      "Steam": "76561199156395215",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
