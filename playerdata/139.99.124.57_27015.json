@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-06T18:49:27.9993884Z",
+  "Time": "2025-12-06T18:51:28.0258473Z",
   "Players": [
     {
       "Name": "KING",
       "Steam": "76561199711442396",
-      "Score": 77,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 91,
-      "Time": "63:15"
+      "Score": 97,
+      "Time": "65:15"
     },
     {
       "Name": "joy",
       "Steam": "76561198787032266",
-      "Score": 73,
+      "Score": 78,
       "Time": "??:??"
     },
     {
       "Name": ":)",
       "Steam": "76561198761598000",
-      "Score": 38,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Meru",
       "Steam": "76561198071650736",
-      "Score": 59,
-      "Time": "44:02"
+      "Score": 61,
+      "Time": "46:02"
+    },
+    {
+      "Name": "succuBus",
+      "Steam": "76561199811638972",
+      "Score": 0,
+      "Time": "00:17"
     }
   ]
 }
