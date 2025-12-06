@@ -1,16 +1,22 @@
 {
-  "Time": "2025-12-06T15:15:51.2380041Z",
+  "Time": "2025-12-06T15:17:51.2384162Z",
   "Players": [
+    {
+      "Name": "ck lover",
+      "Steam": "76561198770786025",
+      "Score": 0,
+      "Time": "00:25"
+    },
     {
       "Name": "Filip",
       "Steam": "76561198449372051",
-      "Score": 90,
+      "Score": 96,
       "Time": "??:??"
     },
     {
       "Name": "stacapocchioa",
       "Steam": "76561199614090893",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 44,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "u_u",
       "Steam": "76561199829164814",
-      "Score": 5,
+      "Score": 15,
       "Time": "??:??"
     }
   ]
