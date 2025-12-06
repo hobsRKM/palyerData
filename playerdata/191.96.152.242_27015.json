@@ -1,28 +1,40 @@
 {
-  "Time": "2025-12-06T05:33:04.5203862Z",
+  "Time": "2025-12-06T05:35:04.5082544Z",
   "Players": [
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 59,
-      "Time": "58:16"
+      "Score": 0,
+      "Time": "60:16"
     },
     {
       "Name": "creep",
       "Steam": "76561198375901249",
-      "Score": 8,
-      "Time": "18:49"
+      "Score": 0,
+      "Time": "20:49"
+    },
+    {
+      "Name": "asdf",
+      "Steam": "76561198770477890",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "wasureta",
       "Steam": "76561198145723049",
-      "Score": 22,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "entity",
+      "Steam": "76561199825236538",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "hey",
       "Steam": "76561199785307633",
-      "Score": 41,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
