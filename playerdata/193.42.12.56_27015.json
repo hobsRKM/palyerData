@@ -1,11 +1,11 @@
 {
-  "Time": "2025-12-07T04:22:19.3617292Z",
+  "Time": "2025-12-07T04:24:19.3534194Z",
   "Players": [
     {
       "Name": "Czacha",
       "Steam": "76561199890554031",
-      "Score": 4,
-      "Time": "21:48"
+      "Score": 0,
+      "Time": "23:48"
     },
     {
       "Name": "wolfwood",
@@ -16,38 +16,44 @@
     {
       "Name": "Mimmmi",
       "Steam": "76561198773397866",
-      "Score": 19,
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fynd",
+      "Steam": "76561198850872264",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Galaxy Annihilator",
       "Steam": "76561198765107568",
       "Score": 100,
-      "Time": "85:04"
+      "Time": "87:04"
     },
     {
       "Name": "07",
       "Steam": "76561199876996526",
-      "Score": 36,
-      "Time": "13:03"
+      "Score": 42,
+      "Time": "15:03"
     },
     {
       "Name": "g0at",
       "Steam": "76561199002053532",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "kitty",
       "Steam": "76561199833999541",
-      "Score": 0,
-      "Time": "15:59"
+      "Score": 2,
+      "Time": "17:59"
     },
     {
       "Name": "I",
       "Steam": "76561199126630583",
-      "Score": 22,
-      "Time": "08:20"
+      "Score": 24,
+      "Time": "10:20"
     }
   ]
 }
