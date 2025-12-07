@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-07T08:53:08.6373845Z",
-  "Players": []
+  "Time": "2025-12-07T08:54:20.3245519Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Pineapple",
+      "Steam": "76561198794263265",
+      "Score": 26,
+      "Time": "14:39"
+    },
+    {
+      "Name": "lukas.riedinger1501",
+      "Steam": "76561198762331531",
+      "Score": 23,
+      "Time": "15:40"
+    },
+    {
+      "Name": "Pro gamer",
+      "Steam": "76561198783253296",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xxxxxxxxxxxx",
+      "Steam": "76561198762836646",
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "trapstar",
+      "Steam": "76561199639321681",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
