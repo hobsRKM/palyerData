@@ -1,11 +1,17 @@
 {
-  "Time": "2025-12-07T12:16:19.860438Z",
+  "Time": "2025-12-07T12:18:19.8533107Z",
   "Players": [
     {
       "Name": "Mango",
       "Steam": "76561199019981304",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "Zen0",
+      "Steam": "76561198763310114",
+      "Score": 2,
+      "Time": "01:20"
     },
     {
       "Name": "las venturas",
@@ -16,19 +22,19 @@
     {
       "Name": "Always Lose",
       "Steam": "76561198768921204",
-      "Score": 14,
-      "Time": "11:01"
+      "Score": 18,
+      "Time": "13:01"
     },
     {
       "Name": "Cloak",
       "Steam": "76561198770558930",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Lucy Cat",
       "Steam": "76561199875104321",
-      "Score": 14,
+      "Score": 26,
       "Time": "??:??"
     }
   ]
