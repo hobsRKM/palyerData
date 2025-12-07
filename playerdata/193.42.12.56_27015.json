@@ -1,59 +1,83 @@
 {
-  "Time": "2025-12-07T17:58:15.3003855Z",
+  "Time": "2025-12-07T18:00:15.2888472Z",
   "Players": [
+    {
+      "Name": "dnrd",
+      "Steam": "76561199890014720",
+      "Score": 0,
+      "Time": "281:01"
+    },
     {
       "Name": "SW",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "60:34"
+      "Time": "62:34"
     },
     {
       "Name": "szeretematejet",
       "Steam": "76561198771263703",
-      "Score": 2,
-      "Time": "13:28"
+      "Score": 16,
+      "Time": "15:28"
     },
     {
       "Name": "badi",
       "Steam": "76561199078444772",
-      "Score": 32,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Adellund",
+      "Steam": "76561197963191416",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Exotic",
       "Steam": "76561199564443368",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "(ᴗ͈ˬᴗ͈)",
       "Steam": "76561199367818368",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "EsDeeKid-neverlose.cc",
+      "Steam": "76561198765539657",
+      "Score": 0,
+      "Time": "212:36"
     },
     {
       "Name": "sankja",
       "Steam": "76561199044013281",
       "Score": 19,
-      "Time": "27:18"
+      "Time": "29:18"
     },
     {
       "Name": "terminal autism",
       "Steam": "76561199812254173",
-      "Score": 15,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "noname",
       "Steam": "76561198764446466",
-      "Score": 8,
-      "Time": "10:10"
+      "Score": 10,
+      "Time": "12:10"
     },
     {
       "Name": "restless",
       "Steam": "76561199187600654",
-      "Score": 0,
-      "Time": "01:03"
+      "Score": 4,
+      "Time": "03:03"
     }
   ]
 }
