@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-07T16:00:19.8597049Z",
+  "Time": "2025-12-07T16:02:19.8514699Z",
   "Players": [
     {
       "Name": "Aimstars",
       "Steam": "76561199885893585",
-      "Score": 0,
-      "Time": "03:48"
+      "Score": 6,
+      "Time": "05:48"
     },
     {
       "Name": "sigmaskibidi",
       "Steam": "76561199786071869",
-      "Score": 4,
-      "Time": "00:58"
+      "Score": 6,
+      "Time": "02:58"
+    },
+    {
+      "Name": "Fake",
+      "Steam": "76561199729334552",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "las venturas",
       "Steam": "76561199613550130",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "DuksaWaffen⑧⑧",
       "Steam": "76561198790407418",
-      "Score": 69,
-      "Time": "15:51"
+      "Score": 76,
+      "Time": "17:51"
     }
   ]
 }
