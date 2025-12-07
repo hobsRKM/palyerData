@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-07T18:26:19.85731Z",
+  "Time": "2025-12-07T18:28:19.8646374Z",
   "Players": [
+    {
+      "Name": "BUSKIMANO",
+      "Steam": "76561199799874714",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "cavecavecavecave",
       "Steam": "76561199128672256",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "˜”*°•₥1ℝ\uD835\uDCC9\uD835\uDCBEᶰ4",
       "Steam": "76561198794087367",
-      "Score": 6,
-      "Time": "72:11"
+      "Score": 14,
+      "Time": "74:11"
     },
     {
       "Name": "Neverwin Team",
@@ -22,14 +28,14 @@
     {
       "Name": "muntean",
       "Steam": "76561199853042267",
-      "Score": 52,
-      "Time": "326:37"
+      "Score": 54,
+      "Time": "328:37"
     },
     {
       "Name": "loverust",
       "Steam": "76561199843477307",
-      "Score": 5,
-      "Time": "09:44"
+      "Score": 7,
+      "Time": "11:44"
     },
     {
       "Name": "GIPSY KING",
@@ -41,13 +47,13 @@
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "93:01"
+      "Time": "95:01"
     },
     {
       "Name": "Built diffrent",
       "Steam": "76561198769824414",
       "Score": 49,
-      "Time": "11:50"
+      "Time": "13:50"
     }
   ]
 }
