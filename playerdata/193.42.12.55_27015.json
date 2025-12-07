@@ -1,11 +1,17 @@
 {
-  "Time": "2025-12-07T16:56:19.8550969Z",
+  "Time": "2025-12-07T16:58:19.8631758Z",
   "Players": [
     {
       "Name": "las venturas",
       "Steam": "76561199613550130",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
+    },
+    {
+      "Name": "zaczarowanyy_",
+      "Steam": "76561199863503153",
+      "Score": 0,
+      "Time": "00:37"
     },
     {
       "Name": "GIPSY KING",
@@ -17,19 +23,25 @@
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "03:01"
+      "Time": "05:01"
+    },
+    {
+      "Name": "Built diffrent",
+      "Steam": "76561198769824414",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "dnrd",
       "Steam": "76561199890014720",
-      "Score": 2,
-      "Time": "51:23"
+      "Score": 0,
+      "Time": "53:23"
     },
     {
       "Name": "DuksaWaffen⑧⑧",
       "Steam": "76561198790407418",
-      "Score": 16,
-      "Time": "71:51"
+      "Score": 22,
+      "Time": "73:51"
     }
   ]
 }
