@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-07T20:54:19.8666903Z",
+  "Time": "2025-12-07T20:56:19.8688805Z",
   "Players": [
     {
       "Name": "Diaconescu Lucas",
       "Steam": "76561199667028575",
-      "Score": 4,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "RoBERTO",
+      "Steam": "76561199563652772",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Senex",
       "Steam": "76561198769788845",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "TempleWare | paste user",
       "Steam": "76561199888826213",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "hvhjodler1958",
       "Steam": "76561199150044155",
-      "Score": 32,
-      "Time": "57:24"
+      "Score": 36,
+      "Time": "59:24"
     },
     {
       "Name": "Nagi HvH",
@@ -47,13 +53,13 @@
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "241:01"
+      "Time": "243:01"
     },
     {
       "Name": "Aimstars",
       "Steam": "76561199885893585",
-      "Score": 14,
-      "Time": "04:23"
+      "Score": 20,
+      "Time": "06:23"
     }
   ]
 }
