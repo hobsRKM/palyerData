@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-07T20:04:19.8594536Z",
+  "Time": "2025-12-07T20:06:19.8573338Z",
   "Players": [
     {
       "Name": "Waze",
       "Steam": "76561198218118791",
-      "Score": 21,
-      "Time": "58:46"
+      "Score": 25,
+      "Time": "60:46"
+    },
+    {
+      "Name": "Televensi",
+      "Steam": "76561199068609413",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "bored.",
       "Steam": "76561199634244736",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "hvhjodler1958",
       "Steam": "76561199150044155",
-      "Score": 22,
-      "Time": "07:24"
+      "Score": 32,
+      "Time": "09:24"
     },
     {
       "Name": "x90",
       "Steam": "76561199756507474",
       "Score": 0,
-      "Time": "50:16"
+      "Time": "52:16"
     },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "191:01"
+      "Time": "193:01"
     },
     {
       "Name": "GoHvH",
@@ -41,13 +47,13 @@
       "Name": "Aimstars",
       "Steam": "76561199885893585",
       "Score": 35,
-      "Time": "06:04"
+      "Time": "08:04"
     },
     {
       "Name": "Crimson Shadow",
       "Steam": "76561198850416264",
       "Score": 0,
-      "Time": "00:25"
+      "Time": "02:25"
     }
   ]
 }
