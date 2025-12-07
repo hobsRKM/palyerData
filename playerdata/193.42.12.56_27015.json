@@ -1,11 +1,17 @@
 {
-  "Time": "2025-12-07T07:22:19.3611165Z",
+  "Time": "2025-12-07T07:24:19.3634069Z",
   "Players": [
     {
       "Name": "Czacha",
       "Steam": "76561199890554031",
-      "Score": 49,
-      "Time": "201:48"
+      "Score": 57,
+      "Time": "203:48"
+    },
+    {
+      "Name": "lp490404",
+      "Steam": "76561199849981054",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "vxgoawek",
@@ -16,13 +22,13 @@
     {
       "Name": "Mimmmi",
       "Steam": "76561198773397866",
-      "Score": 41,
-      "Time": "146:29"
+      "Score": 45,
+      "Time": "148:29"
     },
     {
       "Name": "Bogdanuq",
       "Steam": "76561199550122482",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
@@ -34,26 +40,26 @@
     {
       "Name": "bald",
       "Steam": "76561198838348825",
-      "Score": 10,
-      "Time": "02:34"
+      "Score": 24,
+      "Time": "04:34"
     },
     {
       "Name": "kitty",
       "Steam": "76561199833999541",
-      "Score": 68,
-      "Time": "195:59"
+      "Score": 73,
+      "Time": "197:59"
     },
     {
       "Name": "anthonywin219",
       "Steam": "76561198768850609",
-      "Score": 10,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "reflex",
       "Steam": "76561199010902475",
-      "Score": 6,
-      "Time": "03:11"
+      "Score": 4,
+      "Time": "05:11"
     }
   ]
 }
