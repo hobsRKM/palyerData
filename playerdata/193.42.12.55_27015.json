@@ -1,35 +1,29 @@
 {
-  "Time": "2025-12-07T19:40:19.8534687Z",
+  "Time": "2025-12-07T19:42:19.8514281Z",
   "Players": [
     {
       "Name": "sw",
       "Steam": "76561199679982159",
-      "Score": 39,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "cavecavecavecave",
       "Steam": "76561199128672256",
       "Score": 15,
-      "Time": "09:27"
+      "Time": "11:27"
     },
     {
       "Name": "misterfister",
       "Steam": "76561199273744791",
-      "Score": 19,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Nix133",
       "Steam": "76561198766420385",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
-    },
-    {
-      "Name": "willom",
-      "Steam": "76561198357258925",
-      "Score": 5,
-      "Time": "09:01"
     },
     {
       "Name": "bored.",
@@ -40,8 +34,8 @@
     {
       "Name": "x90",
       "Steam": "76561199756507474",
-      "Score": 10,
-      "Time": "26:16"
+      "Score": 6,
+      "Time": "28:16"
     },
     {
       "Name": "Czacha",
@@ -50,16 +44,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "Tom Van Egmond",
-      "Steam": "76561199096929389",
-      "Score": 5,
-      "Time": "??:??"
-    },
-    {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "167:01"
+      "Time": "169:01"
     },
     {
       "Name": "123",
@@ -77,7 +65,13 @@
       "Name": "Aimstars",
       "Steam": "76561199885893585",
       "Score": 9,
-      "Time": "53:09"
+      "Time": "55:09"
+    },
+    {
+      "Name": "Crimson Shadow",
+      "Steam": "76561198850416264",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
