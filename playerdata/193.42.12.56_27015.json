@@ -1,28 +1,28 @@
 {
-  "Time": "2025-12-07T17:46:15.2917806Z",
+  "Time": "2025-12-07T17:48:15.2896465Z",
   "Players": [
     {
       "Name": "SW",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "48:34"
+      "Time": "50:34"
     },
     {
       "Name": "szeretematejet",
       "Steam": "76561198771263703",
       "Score": 6,
-      "Time": "01:28"
+      "Time": "03:28"
     },
     {
       "Name": "Azulay",
       "Steam": "76561198290239057",
-      "Score": 34,
-      "Time": "25:56"
+      "Score": 42,
+      "Time": "27:56"
     },
     {
       "Name": "pure",
       "Steam": "76561199811558383",
-      "Score": 29,
+      "Score": 31,
       "Time": "??:??"
     },
     {
@@ -40,20 +40,32 @@
     {
       "Name": "Exotic",
       "Steam": "76561199564443368",
-      "Score": 106,
+      "Score": 118,
       "Time": "??:??"
     },
     {
       "Name": "cake",
       "Steam": "76561199874806273",
-      "Score": 82,
-      "Time": "245:02"
+      "Score": 85,
+      "Time": "247:02"
     },
     {
       "Name": "sankja",
       "Steam": "76561199044013281",
-      "Score": 54,
-      "Time": "15:18"
+      "Score": 57,
+      "Time": "17:18"
+    },
+    {
+      "Name": "terminal autism",
+      "Steam": "76561199812254173",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "noname",
+      "Steam": "76561198764446466",
+      "Score": 0,
+      "Time": "00:10"
     }
   ]
 }
