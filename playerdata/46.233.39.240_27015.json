@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-08T04:57:30.9074042Z",
+  "Time": "2025-12-08T04:59:30.9071509Z",
   "Players": [
+    {
+      "Name": "123",
+      "Steam": "76561198761734952",
+      "Score": 1,
+      "Time": "01:52"
+    },
     {
       "Name": "ujfdlubjih",
       "Steam": "76561199710123814",
-      "Score": 65,
-      "Time": "110:27"
+      "Score": 74,
+      "Time": "112:27"
     },
     {
       "Name": "SpongeBob",
       "Steam": "76561198760834910",
-      "Score": 30,
-      "Time": "35:04"
+      "Score": 34,
+      "Time": "37:04"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198761642721",
-      "Score": 18,
-      "Time": "35:02"
+      "Score": 20,
+      "Time": "37:02"
     },
     {
       "Name": "evilnettspendfan2010",
       "Steam": "76561199850995194",
-      "Score": 21,
-      "Time": "29:10"
+      "Score": 23,
+      "Time": "31:10"
     }
   ]
 }
