@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-08T22:10:02.5260061Z",
+  "Time": "2025-12-08T22:12:02.5257641Z",
   "Players": [
     {
       "Name": "ghost",
       "Steam": "76561199591486018",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "look into my elo",
       "Steam": "76561198885034861",
-      "Score": 2,
-      "Time": "01:08"
+      "Score": 6,
+      "Time": "03:08"
     },
     {
       "Name": "Rana",
       "Steam": "76561198350234915",
-      "Score": 4,
-      "Time": "03:54"
+      "Score": 18,
+      "Time": "05:54"
     },
     {
       "Name": "Nyach HamodHook",
       "Steam": "76561198349844769",
-      "Score": 9,
-      "Time": "20:27"
+      "Score": 13,
+      "Time": "22:27"
     },
     {
       "Name": "001",
       "Steam": "76561198317394394",
-      "Score": 4,
-      "Time": "13:19"
+      "Score": 8,
+      "Time": "15:19"
+    },
+    {
+      "Name": "Niko",
+      "Steam": "76561199863310217",
+      "Score": 0,
+      "Time": "01:20"
     }
   ]
 }
