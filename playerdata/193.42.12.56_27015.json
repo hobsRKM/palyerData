@@ -1,35 +1,47 @@
 {
-  "Time": "2025-12-08T09:26:28.4396758Z",
+  "Time": "2025-12-08T09:28:28.5689202Z",
   "Players": [
+    {
+      "Name": "bublik",
+      "Steam": "76561199894461656",
+      "Score": 2,
+      "Time": "01:51"
+    },
     {
       "Name": "Televisao1227",
       "Steam": "76561199069084644",
-      "Score": 31,
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "goodboy",
+      "Steam": "76561198776086466",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "missed shot due to unknown",
       "Steam": "76561198307793152",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "unmatchedextwl7a1evacvxcxb9l",
       "Steam": "76561199830052241",
-      "Score": 22,
-      "Time": "27:18"
+      "Score": 31,
+      "Time": "29:18"
     },
     {
       "Name": "300Box",
       "Steam": "76561199662900085",
-      "Score": 0,
-      "Time": "78:53"
+      "Score": 4,
+      "Time": "80:53"
     },
     {
       "Name": "Bogdanuq",
       "Steam": "76561199550122482",
-      "Score": 8,
-      "Time": "69:39"
+      "Score": 0,
+      "Time": "71:39"
     }
   ]
 }
