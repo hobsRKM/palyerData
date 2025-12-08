@@ -1,52 +1,58 @@
 {
-  "Time": "2025-12-08T08:46:31.8482015Z",
+  "Time": "2025-12-08T08:48:31.8615345Z",
   "Players": [
+    {
+      "Name": "Guan Yin Maa",
+      "Steam": "76561198201480250",
+      "Score": 7,
+      "Time": "00:20"
+    },
     {
       "Name": "s 1 m p l e",
       "Steam": "76561198848960112",
-      "Score": 25,
-      "Time": "11:52"
+      "Score": 27,
+      "Time": "13:52"
     },
     {
       "Name": "Shanks",
       "Steam": "76561198767240115",
-      "Score": 117,
-      "Time": "24:43"
+      "Score": 132,
+      "Time": "26:43"
     },
     {
       "Name": "elephant",
       "Steam": "76561198761394361",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 13,
-      "Time": "04:13"
+      "Score": 19,
+      "Time": "06:13"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 28,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "monthly",
       "Steam": "76561198763641461",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Xanbatresx",
       "Steam": "76561198762286608",
-      "Score": 17,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Hu Tao",
       "Steam": "76561198768590486",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
