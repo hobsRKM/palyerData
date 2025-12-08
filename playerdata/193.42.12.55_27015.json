@@ -1,6 +1,12 @@
 {
-  "Time": "2025-12-08T12:32:25.9081736Z",
+  "Time": "2025-12-08T12:34:25.9746305Z",
   "Players": [
+    {
+      "Name": "/market/item?id=lYEGuQ",
+      "Steam": "76561198778958301",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "wudt",
       "Steam": "76561199013605018",
@@ -16,8 +22,14 @@
     {
       "Name": "lukas.riedinger1501",
       "Steam": "76561198762331531",
-      "Score": 2,
-      "Time": "1066:58"
+      "Score": 8,
+      "Time": "1068:58"
+    },
+    {
+      "Name": "/market/item?id=lYEGuQ",
+      "Steam": "76561198829612759",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
