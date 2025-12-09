@@ -1,22 +1,40 @@
 {
-  "Time": "2025-12-09T04:25:27.4703781Z",
+  "Time": "2025-12-09T04:27:27.4707921Z",
   "Players": [
+    {
+      "Name": "nigga",
+      "Steam": "76561199557263791",
+      "Score": 0,
+      "Time": "00:27"
+    },
+    {
+      "Name": "desync",
+      "Steam": "76561199877513410",
+      "Score": 7,
+      "Time": "??:??"
+    },
     {
       "Name": "maxwell",
       "Steam": "76561199685374336",
-      "Score": 4,
-      "Time": "09:37"
+      "Score": 7,
+      "Time": "11:37"
     },
     {
       "Name": "evilnettspendfan2010",
       "Steam": "76561198424817476",
-      "Score": 0,
-      "Time": "32:27"
+      "Score": 2,
+      "Time": "34:27"
     },
     {
       "Name": "ultimate fivem roleplayer",
       "Steam": "76561199859647186",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "schizo pup",
+      "Steam": "76561198089252808",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
