@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-09T19:02:23.790085Z",
+  "Time": "2025-12-09T19:04:23.8033758Z",
   "Players": [
+    {
+      "Name": "lovexrk",
+      "Steam": "76561198991805435",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "entrepreneur",
       "Steam": "76561198409523349",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "krtecek_duch",
       "Steam": "76561199481373037",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Rifk7Experience",
       "Steam": "76561199786071869",
-      "Score": 0,
-      "Time": "03:56"
+      "Score": 6,
+      "Time": "05:56"
     }
   ]
 }
