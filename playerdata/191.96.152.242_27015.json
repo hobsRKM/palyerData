@@ -1,58 +1,64 @@
 {
-  "Time": "2025-12-09T06:24:50.1954505Z",
+  "Time": "2025-12-09T06:26:50.2043936Z",
   "Players": [
+    {
+      "Name": "kawaii",
+      "Steam": "76561198036942622",
+      "Score": 0,
+      "Time": "00:14"
+    },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 6,
-      "Time": "09:31"
+      "Score": 14,
+      "Time": "11:31"
     },
     {
       "Name": "24TB Magic (in the air)",
       "Steam": "76561199495783141",
-      "Score": 16,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "CookinUpAStorm317",
       "Steam": "76561199880083767",
-      "Score": 66,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "0w1",
       "Steam": "76561198777251331",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "elephant",
       "Steam": "76561199551553809",
-      "Score": 34,
-      "Time": "10:05"
+      "Score": 38,
+      "Time": "12:05"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 3,
-      "Time": "04:37"
+      "Score": 13,
+      "Time": "06:37"
     },
     {
       "Name": "⊹ estelle ⊹",
       "Steam": "76561198019270984",
-      "Score": 5,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "christiansburg",
       "Steam": "76561198245268520",
-      "Score": 3,
-      "Time": "04:25"
+      "Score": 7,
+      "Time": "06:25"
     },
     {
       "Name": "Tom Cruise",
       "Steam": "76561198041181851",
-      "Score": 4,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
