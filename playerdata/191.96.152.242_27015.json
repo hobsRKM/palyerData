@@ -1,34 +1,40 @@
 {
-  "Time": "2025-12-10T01:15:03.6232865Z",
+  "Time": "2025-12-10T01:17:03.6240358Z",
   "Players": [
+    {
+      "Name": "gameplay",
+      "Steam": "76561198872538136",
+      "Score": 0,
+      "Time": "00:38"
+    },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
       "Score": 0,
-      "Time": "00:22"
+      "Time": "02:22"
     },
     {
       "Name": ":(",
       "Steam": "76561198781125771",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Wompwomp",
       "Steam": "76561199818980623",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Banned from Fatality.win forum!",
       "Steam": "76561199816455271",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Karl Astel",
       "Steam": "76561199891751257",
-      "Score": 8,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
