@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-10T03:32:04.5892062Z",
-  "Players": []
+  "Time": "2025-12-10T03:32:52.5379588Z",
+  "Players": [
+    {
+      "Name": "Televisao1227",
+      "Steam": "76561199069084644",
+      "Score": 10,
+      "Time": "95:24"
+    },
+    {
+      "Name": "nessie",
+      "Steam": "76561199498486356",
+      "Score": 14,
+      "Time": "116:58"
+    },
+    {
+      "Name": "morano",
+      "Steam": "76561198776993166",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hyperliquid whale",
+      "Steam": "76561199682194905",
+      "Score": 40,
+      "Time": "27:18"
+    },
+    {
+      "Name": "fatality revenant",
+      "Steam": "76561198770192531",
+      "Score": 1,
+      "Time": "??:??"
+    }
+  ]
 }
