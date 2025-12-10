@@ -1,11 +1,17 @@
 {
-  "Time": "2025-12-10T11:01:03.6202313Z",
+  "Time": "2025-12-10T11:03:03.6180484Z",
   "Players": [
     {
       "Name": "Filip",
       "Steam": "76561198449372051",
-      "Score": 24,
+      "Score": 27,
       "Time": "??:??"
+    },
+    {
+      "Name": "goob",
+      "Steam": "76561199236019226",
+      "Score": 0,
+      "Time": "00:15"
     },
     {
       "Name": "dawishanasha",
@@ -16,37 +22,37 @@
     {
       "Name": "Door Hunter",
       "Steam": "76561198111358891",
-      "Score": 56,
-      "Time": "72:16"
+      "Score": 60,
+      "Time": "74:16"
     },
     {
       "Name": "Lars",
       "Steam": "76561199848958849",
-      "Score": 69,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "TAIKUSHO",
       "Steam": "76561198348552397",
-      "Score": 9,
-      "Time": "05:58"
+      "Score": 15,
+      "Time": "07:58"
     },
     {
       "Name": "frozen frogs",
       "Steam": "76561199479457727",
-      "Score": 0,
-      "Time": "09:42"
+      "Score": 2,
+      "Time": "11:42"
     },
     {
       "Name": "chud",
       "Steam": "76561199075452477",
-      "Score": 78,
-      "Time": "24:43"
+      "Score": 92,
+      "Time": "26:43"
     },
     {
       "Name": "ur a game sense burger",
       "Steam": "76561199782635527",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
