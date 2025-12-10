@@ -1,34 +1,22 @@
 {
-  "Time": "2025-12-10T19:04:47.643429Z",
+  "Time": "2025-12-10T19:06:47.6468386Z",
   "Players": [
     {
       "Name": "ace",
       "Steam": "76561198043769839",
-      "Score": 83,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 110,
-      "Time": "??:??"
-    },
-    {
-      "Name": "CHEEZIEPOOH",
-      "Steam": "76561198273566562",
-      "Score": 76,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Negro Garcia",
-      "Steam": "76561199156395215",
-      "Score": 0,
+      "Score": 119,
       "Time": "??:??"
     },
     {
       "Name": "crybaby",
       "Steam": "76561198793272810",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
     },
     {
@@ -40,8 +28,20 @@
     {
       "Name": "wyattandkatie",
       "Steam": "76561198833219379",
+      "Score": 2,
+      "Time": "02:14"
+    },
+    {
+      "Name": "ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 3,
+      "Time": "02:52"
+    },
+    {
+      "Name": "Hypixel",
+      "Steam": "76561199865626892",
       "Score": 0,
-      "Time": "00:14"
+      "Time": "??:??"
     }
   ]
 }
