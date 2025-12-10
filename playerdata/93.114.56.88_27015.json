@@ -1,47 +1,41 @@
 {
-  "Time": "2025-12-10T15:10:02.531822Z",
+  "Time": "2025-12-10T15:10:11.2964776Z",
   "Players": [
     {
-      "Name": "Felix",
-      "Steam": "76561198193603937",
-      "Score": 10,
+      "Name": "Unknown Player",
+      "Steam": "76561199590377764",
+      "Score": 0,
+      "Time": "17:32"
+    },
+    {
+      "Name": "Sarfeter",
+      "Steam": "76561198390644334",
+      "Score": 26,
       "Time": "??:??"
     },
     {
-      "Name": "anticheatexpert",
-      "Steam": "76561199085759211",
-      "Score": 4,
-      "Time": "70:03"
-    },
-    {
-      "Name": "Dribble",
-      "Steam": "76561198315703079",
-      "Score": 4,
+      "Name": "kamcio434",
+      "Steam": "76561199073256625",
+      "Score": 25,
       "Time": "??:??"
     },
     {
-      "Name": "snow",
-      "Steam": "76561199520743282",
-      "Score": 4,
+      "Name": "GIPSY KING",
+      "Steam": "76561198762564283",
+      "Score": 21,
       "Time": "??:??"
     },
     {
-      "Name": "Shanks",
-      "Steam": "76561199084259204",
+      "Name": "cwzr7263",
+      "Steam": "76561199609996663",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "bored.",
-      "Steam": "76561199634244736",
-      "Score": 0,
-      "Time": "57:46"
-    },
-    {
-      "Name": "req",
-      "Steam": "76561199045698424",
-      "Score": 8,
-      "Time": "05:28"
+      "Name": "Weem",
+      "Steam": "76561198792880026",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
