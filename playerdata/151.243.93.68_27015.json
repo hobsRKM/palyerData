@@ -1,16 +1,22 @@
 {
-  "Time": "2025-12-10T23:36:30.456082Z",
+  "Time": "2025-12-10T23:38:30.4618669Z",
   "Players": [
+    {
+      "Name": "EZ Frags | Goon King",
+      "Steam": "76561198784560984",
+      "Score": 2,
+      "Time": "01:35"
+    },
     {
       "Name": "Entry™",
       "Steam": "76561199321025751",
-      "Score": 17,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "N3M3515",
       "Steam": "76561198762281843",
-      "Score": 86,
+      "Score": 92,
       "Time": "??:??"
     },
     {
@@ -22,25 +28,25 @@
     {
       "Name": "finnthicc",
       "Steam": "76561199610438199",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "all roads lead to skeet",
       "Steam": "76561198760826148",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "VikingHammer67",
       "Steam": "76561199554593381",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
