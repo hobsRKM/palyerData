@@ -1,17 +1,17 @@
 {
-  "Time": "2025-12-10T09:53:03.6249337Z",
+  "Time": "2025-12-10T09:55:03.6117436Z",
   "Players": [
     {
       "Name": "bob",
       "Steam": "76561199475164762",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Karl Astel",
       "Steam": "76561199891751257",
-      "Score": 23,
-      "Time": "08:51"
+      "Score": 34,
+      "Time": "10:51"
     },
     {
       "Name": "dawishanasha",
@@ -22,20 +22,20 @@
     {
       "Name": "Door Hunter",
       "Steam": "76561198111358891",
-      "Score": 31,
-      "Time": "04:16"
+      "Score": 36,
+      "Time": "06:16"
     },
     {
       "Name": "Ray",
       "Steam": "76561199892021954",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 35,
-      "Time": "157:02"
+      "Score": 43,
+      "Time": "159:02"
     }
   ]
 }
