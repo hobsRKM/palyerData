@@ -1,59 +1,35 @@
 {
-  "Time": "2025-12-10T15:08:02.5242834Z",
+  "Time": "2025-12-10T15:08:11.2875345Z",
   "Players": [
     {
-      "Name": "Felix",
-      "Steam": "76561198193603937",
-      "Score": 0,
+      "Name": "Unknown Player",
+      "Steam": "76561199590377764",
+      "Score": 32,
+      "Time": "15:32"
+    },
+    {
+      "Name": "Sarfeter",
+      "Steam": "76561198390644334",
+      "Score": 26,
       "Time": "??:??"
     },
     {
-      "Name": "andrew",
-      "Steam": "76561199842369196",
-      "Score": 2,
+      "Name": "kamcio434",
+      "Steam": "76561199073256625",
+      "Score": 13,
       "Time": "??:??"
     },
     {
-      "Name": "anticheatexpert",
-      "Steam": "76561199085759211",
-      "Score": 0,
-      "Time": "68:03"
-    },
-    {
-      "Name": "Dribble",
-      "Steam": "76561198315703079",
-      "Score": 0,
+      "Name": "GIPSY KING",
+      "Steam": "76561198762564283",
+      "Score": 18,
       "Time": "??:??"
     },
     {
-      "Name": "snow",
-      "Steam": "76561199520743282",
+      "Name": "cwzr7263",
+      "Steam": "76561199609996663",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "Shanks",
-      "Steam": "76561199084259204",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "#WOMANBOSS billy",
-      "Steam": "76561199164375637",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "bored.",
-      "Steam": "76561199634244736",
-      "Score": 0,
-      "Time": "55:46"
-    },
-    {
-      "Name": "req",
-      "Steam": "76561199045698424",
-      "Score": 0,
-      "Time": "03:28"
     }
   ]
 }
