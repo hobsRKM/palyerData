@@ -1,34 +1,46 @@
 {
-  "Time": "2025-12-10T17:29:37.9600993Z",
+  "Time": "2025-12-10T17:33:37.9585907Z",
   "Players": [
+    {
+      "Name": "simply",
+      "Steam": "76561199795780523",
+      "Score": 9,
+      "Time": "02:45"
+    },
     {
       "Name": "boolynigga777",
       "Steam": "76561198791541733",
-      "Score": 3,
-      "Time": "05:24"
+      "Score": 11,
+      "Time": "09:24"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 6,
-      "Time": "14:12"
+      "Score": 26,
+      "Time": "18:12"
     },
     {
       "Name": "septicbooger",
       "Steam": "76561199678608838",
-      "Score": 28,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561199800809526",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "boolynigga777",
-      "Steam": "76561198166519466",
-      "Score": 10,
+      "Name": "bp6w",
+      "Steam": "76561199050170734",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "qwerty33",
+      "Steam": "76561198776595759",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
