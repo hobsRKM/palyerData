@@ -1,35 +1,47 @@
 {
-  "Time": "2025-12-10T02:25:03.6131993Z",
+  "Time": "2025-12-10T02:27:03.6188088Z",
   "Players": [
+    {
+      "Name": "STP->RDP STP",
+      "Steam": "76561199861606784",
+      "Score": 0,
+      "Time": "00:12"
+    },
     {
       "Name": "Banned from Fatality.win forum!",
       "Steam": "76561199816455271",
-      "Score": 20,
-      "Time": "05:53"
+      "Score": 24,
+      "Time": "07:53"
     },
     {
       "Name": "Karl Astel",
       "Steam": "76561199891751257",
-      "Score": 10,
-      "Time": "04:09"
+      "Score": 12,
+      "Time": "06:09"
     },
     {
       "Name": "Goon King",
       "Steam": "76561198784560984",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "ja",
       "Steam": "76561198413420806",
-      "Score": 24,
-      "Time": "07:09"
+      "Score": 31,
+      "Time": "09:09"
     },
     {
       "Name": "Woof",
       "Steam": "76561198792692853",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Atraks the catboy :3",
+      "Steam": "76561199240568132",
+      "Score": 4,
+      "Time": "00:37"
     },
     {
       "Name": "NemeckiWładca",
@@ -40,14 +52,14 @@
     {
       "Name": "XK",
       "Steam": "76561198429032790",
-      "Score": 7,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "goob",
       "Steam": "76561199236019226",
-      "Score": 5,
-      "Time": "01:58"
+      "Score": 16,
+      "Time": "03:58"
     }
   ]
 }
