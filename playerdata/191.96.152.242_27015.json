@@ -1,41 +1,47 @@
 {
-  "Time": "2025-12-10T08:31:03.6208441Z",
+  "Time": "2025-12-10T08:33:03.6101034Z",
   "Players": [
     {
       "Name": "g59",
       "Steam": "76561199489957582",
       "Score": 30,
-      "Time": "12:53"
+      "Time": "14:53"
     },
     {
       "Name": "ud",
       "Steam": "76561198760149600",
-      "Score": 56,
+      "Score": 58,
       "Time": "??:??"
+    },
+    {
+      "Name": "Karl Astel",
+      "Steam": "76561199891751257",
+      "Score": 2,
+      "Time": "01:20"
     },
     {
       "Name": "california girls",
       "Steam": "76561198782333753",
-      "Score": 43,
-      "Time": "48:42"
+      "Score": 0,
+      "Time": "50:42"
     },
     {
       "Name": "septicbooger",
       "Steam": "76561199678608838",
-      "Score": 11,
-      "Time": "07:47"
+      "Score": 13,
+      "Time": "09:47"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 60,
-      "Time": "75:02"
+      "Score": 63,
+      "Time": "77:02"
     },
     {
       "Name": "chud",
       "Steam": "76561199075452477",
-      "Score": 39,
-      "Time": "13:36"
+      "Score": 47,
+      "Time": "15:36"
     }
   ]
 }
