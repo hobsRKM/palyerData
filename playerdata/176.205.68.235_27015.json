@@ -1,47 +1,53 @@
 {
-  "Time": "2025-12-10T19:27:07.2719901Z",
+  "Time": "2025-12-10T19:29:07.2719956Z",
   "Players": [
     {
       "Name": "L",
       "Steam": "76561199352608323",
-      "Score": 0,
-      "Time": "02:38"
+      "Score": 4,
+      "Time": "04:38"
     },
     {
       "Name": "SOLEVOI",
       "Steam": "76561199257234160",
-      "Score": 29,
-      "Time": "149:09"
+      "Score": 32,
+      "Time": "151:09"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198367344686",
-      "Score": 46,
-      "Time": "25:29"
+      "Score": 55,
+      "Time": "27:29"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 62,
-      "Time": "122:33"
+      "Score": 63,
+      "Time": "124:33"
     },
     {
       "Name": "Supermarket juice",
       "Steam": "76561199131820878",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "#000000mR.G,To,The,o",
       "Steam": "76561199017572670",
-      "Score": 34,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "ghost",
       "Steam": "76561199591486018",
-      "Score": 74,
-      "Time": "17:57"
+      "Score": 80,
+      "Time": "19:57"
+    },
+    {
+      "Name": "Exploding Heads",
+      "Steam": "76561198766922230",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
