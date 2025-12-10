@@ -1,35 +1,29 @@
 {
-  "Time": "2025-12-10T22:22:11.492744Z",
+  "Time": "2025-12-10T22:22:44.4434948Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 2,
+      "Time": "00:22"
+    },
+    {
+      "Name": "NeverloseBoss.CC",
+      "Steam": "76561199818472808",
       "Score": 0,
-      "Time": "328:02"
-    },
-    {
-      "Name": "MaxDint ツ",
-      "Steam": "76561198374664833",
-      "Score": 58,
       "Time": "??:??"
     },
     {
-      "Name": "ANNA SNIPER",
-      "Steam": "76561199750692141",
-      "Score": 93,
+      "Name": "geezysmasher",
+      "Steam": "76561198250109980",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Crimson Shadow",
-      "Steam": "76561198850416264",
-      "Score": 14,
+      "Name": "ilaya",
+      "Steam": "76561199276906809",
+      "Score": 24,
       "Time": "??:??"
-    },
-    {
-      "Name": "LORD PELICAN",
-      "Steam": "76561199558014198",
-      "Score": 13,
-      "Time": "75:03"
     }
   ]
 }
