@@ -1,35 +1,23 @@
 {
-  "Time": "2025-12-11T16:45:24.4499863Z",
+  "Time": "2025-12-11T16:45:45.5805683Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Saul Goodman",
+      "Steam": "76561198786899553",
+      "Score": 18,
+      "Time": "05:52"
+    },
+    {
+      "Name": "M1RtiN4o",
+      "Steam": "76561198794087367",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Shpioniro Golubirooo",
+      "Steam": "76561198885168156",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "@FatalitySellerBot",
-      "Steam": "76561199855783668",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "aimware beta",
-      "Steam": "76561197963183861",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fluss1337",
-      "Steam": "76561198778415494",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "zzz",
-      "Steam": "76561199612978717",
-      "Score": 39,
-      "Time": "05:48"
     }
   ]
 }
