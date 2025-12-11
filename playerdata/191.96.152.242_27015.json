@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-11T02:36:47.6500959Z",
+  "Time": "2025-12-11T02:38:47.6504276Z",
   "Players": [
     {
       "Name": "1",
       "Steam": "76561198790348382",
-      "Score": 3,
-      "Time": "10:59"
+      "Score": 7,
+      "Time": "12:59"
     },
     {
       "Name": "california girls",
       "Steam": "76561198782333753",
-      "Score": 5,
-      "Time": "03:12"
+      "Score": 17,
+      "Time": "05:12"
     },
     {
       "Name": "illegallybricked",
       "Steam": "76561198763044776",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "ete",
       "Steam": "76561199724067259",
-      "Score": 34,
-      "Time": "07:41"
+      "Score": 43,
+      "Time": "09:41"
+    },
+    {
+      "Name": "GetTappedKid",
+      "Steam": "76561199498461340",
+      "Score": 0,
+      "Time": "00:49"
     }
   ]
 }
