@@ -1,28 +1,40 @@
 {
-  "Time": "2025-12-11T23:40:19.318087Z",
+  "Time": "2025-12-11T23:42:19.3178234Z",
   "Players": [
     {
       "Name": "123",
       "Steam": "76561198166519466",
-      "Score": 4,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "gameplay",
       "Steam": "76561198872538136",
       "Score": 39,
-      "Time": "18:22"
+      "Time": "20:22"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "houdini.cc",
       "Steam": "76561199558833804",
-      "Score": 12,
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ete",
+      "Steam": "76561199724067259",
+      "Score": 0,
+      "Time": "00:19"
+    },
+    {
+      "Name": "illegallybricked",
+      "Steam": "76561198763044776",
+      "Score": 3,
       "Time": "??:??"
     }
   ]
