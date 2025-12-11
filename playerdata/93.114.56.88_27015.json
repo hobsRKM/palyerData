@@ -1,47 +1,59 @@
 {
-  "Time": "2025-12-11T08:01:11.7916069Z",
+  "Time": "2025-12-11T08:01:43.287248Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 9,
+      "Time": "39:07"
+    },
+    {
+      "Name": "WOMANBO$$ ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 12,
+      "Time": "150:52"
+    },
+    {
+      "Name": "catboy",
+      "Steam": "76561199798812373",
+      "Score": 9,
+      "Time": "148:33"
+    },
+    {
+      "Name": "\uD835\uDD05\uD835\uDD1E\uD835\uDD30\uD835\uDD31\uD835\uDD1E\uD835\uDD2F\uD835\uDD21",
+      "Steam": "76561199827217325",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "syx",
+      "Steam": "76561199058426931",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "floyzl",
+      "Steam": "76561198767555351",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Enfants Riches Déprimés",
+      "Steam": "76561199890142225",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "0x3t",
+      "Steam": "76561199111568976",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "( ‾ʖ̫‾)",
+      "Steam": "76561199559471982",
       "Score": 0,
-      "Time": "228:40"
-    },
-    {
-      "Name": "hvh kölesi",
-      "Steam": "76561199437295988",
-      "Score": 37,
       "Time": "??:??"
-    },
-    {
-      "Name": "stuhline",
-      "Steam": "76561198766560685",
-      "Score": 108,
-      "Time": "??:??"
-    },
-    {
-      "Name": "spat",
-      "Steam": "76561199047342216",
-      "Score": 53,
-      "Time": "??:??"
-    },
-    {
-      "Name": "irysek/RTS",
-      "Steam": "76561199153979087",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "lièvre",
-      "Steam": "76561198871823378",
-      "Score": 73,
-      "Time": "??:??"
-    },
-    {
-      "Name": "zzz",
-      "Steam": "76561199612978717",
-      "Score": 10,
-      "Time": "883:24"
     }
   ]
 }
