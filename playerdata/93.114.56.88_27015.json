@@ -1,23 +1,41 @@
 {
-  "Time": "2025-12-11T17:25:45.5804174Z",
+  "Time": "2025-12-11T17:26:27.9512573Z",
   "Players": [
     {
-      "Name": "Rick",
-      "Steam": "76561199050470003",
+      "Name": "LORD PELICAN",
+      "Steam": "76561199558014198",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "obiot",
+      "Steam": "76561199191084353",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "beratbabamali",
+      "Steam": "76561199833779702",
       "Score": 14,
-      "Time": "13:07"
-    },
-    {
-      "Name": "gartensecher",
-      "Steam": "76561198778790300",
-      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "fatality guy",
-      "Steam": "76561198788140090",
-      "Score": 15,
+      "Name": "oliver doxxer",
+      "Steam": "76561199887468243",
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "Alfred",
+      "Steam": "76561198901882974",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ANNA SNIPER",
+      "Steam": "76561199750692141",
+      "Score": 7,
+      "Time": "42:25"
     }
   ]
 }
