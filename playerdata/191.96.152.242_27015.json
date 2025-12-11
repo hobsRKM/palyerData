@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-11T23:28:19.3171494Z",
+  "Time": "2025-12-11T23:30:19.3178712Z",
   "Players": [
     {
       "Name": "gameplay",
       "Steam": "76561198872538136",
-      "Score": 18,
-      "Time": "06:22"
+      "Score": 24,
+      "Time": "08:22"
+    },
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 0,
+      "Time": "01:16"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "RADICAL RACIST",
       "Steam": "76561199870945474",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
