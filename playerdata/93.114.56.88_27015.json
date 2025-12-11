@@ -1,41 +1,59 @@
 {
-  "Time": "2025-12-11T09:58:52.2184449Z",
+  "Time": "2025-12-11T09:59:14.0397433Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "b",
+      "Steam": "76561199027115266",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rs1",
+      "Steam": "76561198298716705",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bandura",
+      "Steam": "76561199610235257",
       "Score": 18,
+      "Time": "08:29"
+    },
+    {
+      "Name": "hvh kölesi",
+      "Steam": "76561199437295988",
+      "Score": 0,
+      "Time": "11:20"
+    },
+    {
+      "Name": "ferox",
+      "Steam": "76561199377440484",
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "nepZ",
-      "Steam": "76561199884091607",
-      "Score": 32,
-      "Time": "04:52"
-    },
-    {
-      "Name": "floyzl",
-      "Steam": "76561198767555351",
-      "Score": 29,
-      "Time": "??:??"
-    },
-    {
-      "Name": "why?",
-      "Steam": "76561198763608494",
-      "Score": 5,
-      "Time": "??:??"
-    },
-    {
-      "Name": "cavecavecavecave . fistfights",
-      "Steam": "76561199128672256",
+      "Name": "okli",
+      "Steam": "76561199122797420",
       "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "radiance.lua strawe",
-      "Steam": "76561198904297238",
-      "Score": 4,
+      "Name": "-sTm",
+      "Steam": "76561198441589683",
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "anarchy 88",
+      "Steam": "76561197970013782",
+      "Score": 24,
+      "Time": "769:25"
     }
   ]
 }
