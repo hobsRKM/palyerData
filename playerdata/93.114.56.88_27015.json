@@ -1,11 +1,53 @@
 {
-  "Time": "2025-12-11T20:04:29.1326889Z",
+  "Time": "2025-12-11T20:05:06.6612036Z",
   "Players": [
+    {
+      "Name": "Sea",
+      "Steam": "76561199498734521",
+      "Score": 21,
+      "Time": "76:38"
+    },
     {
       "Name": "Jinxx",
       "Steam": "76561198775424424",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "neverwin",
+      "Steam": "76561198767643500",
+      "Score": 0,
+      "Time": "47:28"
+    },
+    {
+      "Name": "chuyu457",
+      "Steam": "76561198310081886",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatality guy",
+      "Steam": "76561198788140090",
+      "Score": 7,
+      "Time": "48:36"
+    },
+    {
+      "Name": "Enfants Riches Déprimés",
+      "Steam": "76561199890142225",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vac-Ban Test",
+      "Steam": "76561199890475755",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "szeretematejet",
+      "Steam": "76561198771263703",
+      "Score": 4,
+      "Time": "00:39"
     }
   ]
 }
