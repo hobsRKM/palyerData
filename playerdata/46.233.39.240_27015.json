@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-11T06:14:36.4637282Z",
+  "Time": "2025-12-11T06:20:36.4659028Z",
   "Players": [
     {
       "Name": "\"Watch Demo Bro\"",
       "Steam": "76561198776715127",
-      "Score": 30,
-      "Time": "12:08"
+      "Score": 32,
+      "Time": "18:08"
     },
     {
       "Name": "The tapper",
       "Steam": "76561198777105660",
-      "Score": 46,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "ICE",
       "Steam": "76561199856474370",
-      "Score": 14,
-      "Time": "05:02"
+      "Score": 32,
+      "Time": "11:02"
+    },
+    {
+      "Name": "SpongeBob",
+      "Steam": "76561198760663810",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
