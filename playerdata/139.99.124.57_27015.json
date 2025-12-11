@@ -1,34 +1,46 @@
 {
-  "Time": "2025-12-11T11:49:16.3428165Z",
+  "Time": "2025-12-11T11:51:16.3565654Z",
   "Players": [
+    {
+      "Name": "героический",
+      "Steam": "76561199582103015",
+      "Score": 20,
+      "Time": "01:54"
+    },
+    {
+      "Name": "Grwww",
+      "Steam": "76561199010435611",
+      "Score": 3,
+      "Time": "01:26"
+    },
     {
       "Name": "fatatite",
       "Steam": "76561198762298479",
-      "Score": 8,
-      "Time": "29:29"
+      "Score": 15,
+      "Time": "31:29"
     },
     {
       "Name": "p",
       "Steam": "76561199885332136",
-      "Score": 10,
-      "Time": "04:28"
+      "Score": 16,
+      "Time": "06:28"
     },
     {
       "Name": "\uD835\uDE8C\uD835\uDE8A\uD835\uDE8D\uD835\uDE8E\uD835\uDE9B\uD835\uDE8E 愛",
       "Steam": "76561198822079717",
-      "Score": 62,
+      "Score": 72,
       "Time": "??:??"
     },
     {
       "Name": "cola ja",
       "Steam": "76561199712341739",
-      "Score": 90,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "Jugubugule",
       "Steam": "76561199192620996",
-      "Score": 9,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
