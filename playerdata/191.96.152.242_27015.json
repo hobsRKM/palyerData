@@ -1,52 +1,58 @@
 {
-  "Time": "2025-12-11T03:06:47.6563567Z",
+  "Time": "2025-12-11T03:08:47.6505604Z",
   "Players": [
+    {
+      "Name": "Toxiss.",
+      "Steam": "76561198127608052",
+      "Score": 16,
+      "Time": "01:05"
+    },
     {
       "Name": "1",
       "Steam": "76561198790348382",
       "Score": 18,
-      "Time": "40:59"
+      "Time": "42:59"
     },
     {
       "Name": "123",
       "Steam": "76561198166519466",
-      "Score": 35,
-      "Time": "04:04"
+      "Score": 49,
+      "Time": "06:04"
     },
     {
       "Name": "california girls",
       "Steam": "76561198782333753",
-      "Score": 51,
-      "Time": "33:12"
+      "Score": 55,
+      "Time": "35:12"
     },
     {
       "Name": "illegallybricked",
       "Steam": "76561198763044776",
-      "Score": 24,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "ete",
       "Steam": "76561199724067259",
-      "Score": 40,
-      "Time": "37:41"
+      "Score": 46,
+      "Time": "39:41"
     },
     {
       "Name": "was",
       "Steam": "76561198965718058",
-      "Score": 19,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Fa Q",
       "Steam": "76561199648052473",
-      "Score": 45,
-      "Time": "100:45"
+      "Score": 55,
+      "Time": "102:45"
     },
     {
       "Name": "TAIKUSHO",
       "Steam": "76561198348552397",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
