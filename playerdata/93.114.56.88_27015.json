@@ -1,53 +1,83 @@
 {
-  "Time": "2025-12-11T01:20:44.443809Z",
+  "Time": "2025-12-11T01:20:56.4585042Z",
   "Players": [
     {
-      "Name": "catboy",
-      "Steam": "76561199634244736",
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "610:19"
+    },
+    {
+      "Name": "tdaw",
+      "Steam": "76561198339830486",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "♡ Sof",
+      "Steam": "76561199129916708",
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "OskiKokoski2009",
+      "Steam": "76561199319658406",
+      "Score": 6,
+      "Time": "444:55"
+    },
+    {
+      "Name": "fake bakom dig",
+      "Steam": "76561199404381221",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haunted",
+      "Steam": "76561198829222666",
+      "Score": 15,
+      "Time": "03:05"
+    },
+    {
+      "Name": "ghost",
+      "Steam": "76561199591486018",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "specialsadism",
+      "Steam": "76561198771799984",
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zort",
+      "Steam": "76561199869702065",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Unknown Player",
+      "Steam": "76561198163931082",
+      "Score": 2,
+      "Time": "444:29"
+    },
+    {
+      "Name": "kapiub0b",
+      "Steam": "76561198151423700",
+      "Score": 80,
+      "Time": "423:04"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
       "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "CHAMPIONS [BOTTIK]",
-      "Steam": "76561199319679407",
-      "Score": 93,
-      "Time": "108:19"
-    },
-    {
-      "Name": "1",
-      "Steam": "76561199504441521",
-      "Score": 30,
-      "Time": "18:34"
-    },
-    {
-      "Name": "Neo",
-      "Steam": "76561199201440406",
-      "Score": 84,
-      "Time": "23:10"
-    },
-    {
-      "Name": "mariadneggus",
-      "Steam": "76561199667321567",
-      "Score": 2,
-      "Time": "40:16"
-    },
-    {
-      "Name": "Dollarsign",
-      "Steam": "76561199772965655",
-      "Score": 68,
-      "Time": "??:??"
-    },
-    {
-      "Name": "catboy",
-      "Steam": "76561199798812373",
-      "Score": 4,
-      "Time": "07:29"
-    },
-    {
-      "Name": "Fake",
-      "Steam": "76561199729334552",
-      "Score": 30,
-      "Time": "??:??"
+      "Name": "bakom dig",
+      "Steam": "76561198806792145",
+      "Score": 8,
+      "Time": "12:13"
     }
   ]
 }
