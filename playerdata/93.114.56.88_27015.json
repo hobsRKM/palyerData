@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-11T15:03:22.6431363Z",
-  "Players": []
+  "Time": "2025-12-11T15:04:27.9507847Z",
+  "Players": [
+    {
+      "Name": "overwatchLOL",
+      "Steam": "76561198761864781",
+      "Score": 33,
+      "Time": "26:31"
+    },
+    {
+      "Name": "ace visconti",
+      "Steam": "76561199509511353",
+      "Score": 53,
+      "Time": "47:07"
+    },
+    {
+      "Name": "ag",
+      "Steam": "76561199072741035",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Zenitsu",
+      "Steam": "76561199818560028",
+      "Score": 75,
+      "Time": "47:16"
+    },
+    {
+      "Name": "legit player",
+      "Steam": "76561199837364437",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
