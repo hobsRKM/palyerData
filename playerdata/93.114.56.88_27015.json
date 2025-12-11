@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-11T12:59:22.6432802Z",
-  "Players": []
+  "Time": "2025-12-11T13:00:27.9441347Z",
+  "Players": [
+    {
+      "Name": "Bot Milo",
+      "Steam": "76561198763300968",
+      "Score": 0,
+      "Time": "56:39"
+    },
+    {
+      "Name": "Crimson Shadow",
+      "Steam": "76561198850416264",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "szpont ai",
+      "Steam": "76561198773160352",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ANNA SNIPER",
+      "Steam": "76561199750692141",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
