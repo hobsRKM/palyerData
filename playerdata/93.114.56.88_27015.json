@@ -1,53 +1,65 @@
 {
-  "Time": "2025-12-11T16:26:27.9571698Z",
+  "Time": "2025-12-11T16:26:52.2243362Z",
   "Players": [
     {
-      "Name": "LORD PELICAN",
-      "Steam": "76561199558014198",
+      "Name": "TheFallenOne",
+      "Steam": "76561199812529098",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561199682137830",
+      "Score": 0,
+      "Time": "44:27"
+    },
+    {
+      "Name": "H I T L E R",
+      "Steam": "76561199516412968",
+      "Score": 30,
+      "Time": "13:36"
+    },
+    {
+      "Name": "gartensecher",
+      "Steam": "76561198778790300",
+      "Score": 6,
+      "Time": "03:38"
+    },
+    {
+      "Name": "dev",
+      "Steam": "76561199682061013",
+      "Score": 48,
+      "Time": "??:??"
+    },
+    {
+      "Name": "volvo enjoyer",
+      "Steam": "76561199883686960",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ItsssNK",
+      "Steam": "76561198271809907",
+      "Score": 34,
+      "Time": "11:49"
+    },
+    {
+      "Name": "ecstacʏ #CASEHUG",
+      "Steam": "76561199151609154",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "a cruel angel's thesis",
-      "Steam": "76561199806737878",
-      "Score": 6,
+      "Name": "Fake",
+      "Steam": "76561199729334552",
+      "Score": 19,
       "Time": "??:??"
     },
     {
-      "Name": "NikotinRacoon",
-      "Steam": "76561199842081009",
-      "Score": 4,
+      "Name": "\"\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\"",
+      "Steam": "76561198832028178",
+      "Score": 103,
       "Time": "??:??"
-    },
-    {
-      "Name": "omerbk1000",
-      "Steam": "76561198764754640",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "onion",
-      "Steam": "76561199829321351",
-      "Score": 6,
-      "Time": "22:22"
-    },
-    {
-      "Name": "ag",
-      "Steam": "76561199072741035",
-      "Score": 13,
-      "Time": "16:27"
-    },
-    {
-      "Name": "skidware",
-      "Steam": "76561198788140090",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "WilsonAlfa5",
-      "Steam": "76561199825618278",
-      "Score": 26,
-      "Time": "27:41"
     }
   ]
 }
