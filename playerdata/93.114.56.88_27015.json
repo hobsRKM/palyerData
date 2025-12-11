@@ -1,29 +1,41 @@
 {
-  "Time": "2025-12-11T19:57:53.7303483Z",
+  "Time": "2025-12-11T19:57:58.5256909Z",
   "Players": [
     {
-      "Name": "Saul Goodman",
-      "Steam": "76561198786899553",
+      "Name": "\"'",
+      "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rychtar",
+      "Steam": "76561199732363479",
+      "Score": 50,
+      "Time": "31:26"
+    },
+    {
+      "Name": "why2cry",
+      "Steam": "76561199769266045",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gartensecher",
+      "Steam": "76561198778790300",
+      "Score": 7,
+      "Time": "21:36"
+    },
+    {
+      "Name": "Enfants Riches Déprimés",
+      "Steam": "76561199890142225",
       "Score": 6,
-      "Time": "04:23"
-    },
-    {
-      "Name": "/market/item?id=lYEGuQ",
-      "Steam": "76561198829612759",
-      "Score": 46,
       "Time": "??:??"
     },
     {
-      "Name": "TheFallenOne",
-      "Steam": "76561199812529098",
-      "Score": 48,
-      "Time": "??:??"
-    },
-    {
-      "Name": "neverloseboss",
-      "Steam": "76561199122027475",
-      "Score": 14,
-      "Time": "??:??"
+      "Name": "ag",
+      "Steam": "76561199072741035",
+      "Score": 5,
+      "Time": "10:24"
     }
   ]
 }
