@@ -1,23 +1,23 @@
 {
-  "Time": "2025-12-12T10:41:24.0553669Z",
+  "Time": "2025-12-12T10:43:24.0548718Z",
   "Players": [
     {
       "Name": "SpongeBob",
       "Steam": "76561198762861897",
-      "Score": 16,
-      "Time": "50:45"
+      "Score": 20,
+      "Time": "52:45"
+    },
+    {
+      "Name": "Schyeah",
+      "Steam": "76561198759706570",
+      "Score": 0,
+      "Time": "01:30"
     },
     {
       "Name": "bmw enjoyer",
       "Steam": "76561198761875882",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
-    },
-    {
-      "Name": "Avatar",
-      "Steam": "76561198274962814",
-      "Score": 5,
-      "Time": "00:52"
     }
   ]
 }
