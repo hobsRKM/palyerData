@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-12T18:58:52.5438336Z",
+  "Time": "2025-12-12T19:00:52.5402964Z",
   "Players": [
     {
       "Name": "`A",
       "Steam": "76561199699289339",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "keiii",
       "Steam": "76561199113967944",
-      "Score": 14,
-      "Time": "04:51"
+      "Score": 22,
+      "Time": "06:51"
+    },
+    {
+      "Name": "hugo",
+      "Steam": "76561199083732983",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "zizi",
@@ -20,22 +26,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "Mnichu Fatality",
-      "Steam": "76561199129350419",
-      "Score": 0,
-      "Time": "04:13"
-    },
-    {
       "Name": "x",
       "Steam": "76561199820898693",
-      "Score": 36,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Chadolf Rizzler",
       "Steam": "76561199821388883",
-      "Score": 41,
-      "Time": "36:00"
+      "Score": 47,
+      "Time": "38:00"
     }
   ]
 }
