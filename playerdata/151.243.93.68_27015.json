@@ -1,4 +1,71 @@
 {
-  "Time": "2025-12-12T01:23:15.9035459Z",
-  "Players": []
+  "Time": "2025-12-12T01:23:41.7416693Z",
+  "Players": [
+    {
+      "Name": "ete",
+      "Steam": "76561199724067259",
+      "Score": 3,
+      "Time": "02:50"
+    },
+    {
+      "Name": "Negro Garcia",
+      "Steam": "76561199156395215",
+      "Score": 66,
+      "Time": "29:54"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 69,
+      "Time": "104:00"
+    },
+    {
+      "Name": "Emirksi",
+      "Steam": "76561199562121025",
+      "Score": 20,
+      "Time": "09:36"
+    },
+    {
+      "Name": "pusheaxret",
+      "Steam": "76561198782287736",
+      "Score": 121,
+      "Time": "80:39"
+    },
+    {
+      "Name": "GetTappedKid",
+      "Steam": "76561199498461340",
+      "Score": 7,
+      "Time": "03:22"
+    },
+    {
+      "Name": "voxlis",
+      "Steam": "76561198763517260",
+      "Score": 63,
+      "Time": "25:36"
+    },
+    {
+      "Name": "illegallybricked",
+      "Steam": "76561198763044776",
+      "Score": 4,
+      "Time": "33:26"
+    },
+    {
+      "Name": "emotional suport bagel",
+      "Steam": "76561199548982521",
+      "Score": 68,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kitty licker",
+      "Steam": "76561198880520794",
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sol",
+      "Steam": "76561198774876005",
+      "Score": 8,
+      "Time": "??:??"
+    }
+  ]
 }
