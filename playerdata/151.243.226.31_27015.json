@@ -1,5 +1,5 @@
 {
-  "Time": "2025-12-12T17:44:52.5456823Z",
+  "Time": "2025-12-12T17:46:52.5458697Z",
   "Players": [
     {
       "Name": "zizi",
@@ -10,13 +10,19 @@
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 34,
-      "Time": "74:53"
+      "Score": 40,
+      "Time": "76:53"
     },
     {
       "Name": "Mnichu Fatality",
       "Steam": "76561199129350419",
-      "Score": 2,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "x",
+      "Steam": "76561199820898693",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
