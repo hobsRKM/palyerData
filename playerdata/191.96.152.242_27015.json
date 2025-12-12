@@ -1,11 +1,23 @@
 {
-  "Time": "2025-12-12T22:04:09.7300264Z",
+  "Time": "2025-12-12T22:06:09.729252Z",
   "Players": [
+    {
+      "Name": "XK",
+      "Steam": "76561198429032790",
+      "Score": 2,
+      "Time": "00:57"
+    },
     {
       "Name": "emotional suport bagel",
       "Steam": "76561199548982521",
-      "Score": 20,
-      "Time": "12:06"
+      "Score": 24,
+      "Time": "14:06"
+    },
+    {
+      "Name": "pusheaxret",
+      "Steam": "76561198782287736",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
