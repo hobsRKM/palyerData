@@ -1,4 +1,53 @@
 {
-  "Time": "2025-12-12T02:11:15.9044077Z",
-  "Players": []
+  "Time": "2025-12-12T02:11:41.7339384Z",
+  "Players": [
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 42,
+      "Time": "152:00"
+    },
+    {
+      "Name": "illegallybricked",
+      "Steam": "76561198763044776",
+      "Score": 22,
+      "Time": "81:26"
+    },
+    {
+      "Name": "kitty licker",
+      "Steam": "76561198880520794",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "thrax mafia",
+      "Steam": "76561198870752603",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "6an6",
+      "Steam": "76561199874044368",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "not serv",
+      "Steam": "76561199826858318",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "goob",
+      "Steam": "76561199236019226",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "2% milk enjoyer",
+      "Steam": "76561199494650971",
+      "Score": 30,
+      "Time": "??:??"
+    }
+  ]
 }
