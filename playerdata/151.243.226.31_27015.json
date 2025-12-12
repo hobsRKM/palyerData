@@ -1,5 +1,5 @@
 {
-  "Time": "2025-12-12T12:26:52.5453277Z",
+  "Time": "2025-12-12T12:28:52.5474048Z",
   "Players": [
     {
       "Name": "zizi",
@@ -10,14 +10,20 @@
     {
       "Name": "pl.sense",
       "Steam": "76561198760818444",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "Primo",
+      "Name": "Primordia",
       "Steam": "76561198762996979",
+      "Score": 4,
+      "Time": "03:06"
+    },
+    {
+      "Name": "astolfo",
+      "Steam": "76561198779302766",
       "Score": 0,
-      "Time": "01:06"
+      "Time": "??:??"
     }
   ]
 }
