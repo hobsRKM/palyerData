@@ -1,4 +1,53 @@
 {
-  "Time": "2025-12-12T01:07:15.9037403Z",
-  "Players": []
+  "Time": "2025-12-12T01:07:41.7411912Z",
+  "Players": [
+    {
+      "Name": "Negro Garcia",
+      "Steam": "76561199156395215",
+      "Score": 15,
+      "Time": "13:54"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 28,
+      "Time": "88:00"
+    },
+    {
+      "Name": "pusheaxret",
+      "Steam": "76561198782287736",
+      "Score": 71,
+      "Time": "64:39"
+    },
+    {
+      "Name": "voxlis",
+      "Steam": "76561198763517260",
+      "Score": 14,
+      "Time": "09:36"
+    },
+    {
+      "Name": "illegallybricked",
+      "Steam": "76561198763044776",
+      "Score": 6,
+      "Time": "17:26"
+    },
+    {
+      "Name": "emotional suport bagel",
+      "Steam": "76561199548982521",
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "1-800-SHE-DUN-LEFT",
+      "Steam": "76561199818089943",
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kitty licker",
+      "Steam": "76561198880520794",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
