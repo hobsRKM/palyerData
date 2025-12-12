@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-12T10:40:52.5371712Z",
+  "Time": "2025-12-12T10:42:52.537385Z",
   "Players": [
     {
       "Name": "Kim Il-sung",
       "Steam": "76561199717783206",
-      "Score": 21,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "moLodink",
+      "Steam": "76561199140360742",
+      "Score": 0,
+      "Time": "00:18"
     },
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Shanks",
       "Steam": "76561198767240115",
-      "Score": 22,
+      "Score": 30,
       "Time": "??:??"
     }
   ]
