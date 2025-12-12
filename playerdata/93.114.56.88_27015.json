@@ -1,41 +1,77 @@
 {
-  "Time": "2025-12-12T11:40:02.8937272Z",
+  "Time": "2025-12-12T11:40:31.4130112Z",
   "Players": [
     {
-      "Name": "Nixware user",
-      "Steam": "76561199820198006",
-      "Score": 63,
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "270:00"
+    },
+    {
+      "Name": "pik van cleef",
+      "Steam": "76561198779521455",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "Mimmmi",
-      "Steam": "76561198773397866",
-      "Score": 48,
-      "Time": "16:00"
-    },
-    {
-      "Name": "Rick",
-      "Steam": "76561199050470003",
-      "Score": 44,
+      "Name": "peterhook beta",
+      "Steam": "76561197970349135",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "nullptr_t",
-      "Steam": "76561198766056255",
-      "Score": 39,
-      "Time": "??:??"
+      "Name": "Nothing",
+      "Steam": "76561199388843433",
+      "Score": 0,
+      "Time": "00:44"
     },
     {
-      "Name": "jabkurefka",
-      "Steam": "76561199862783250",
+      "Name": "geezysmasher",
+      "Steam": "76561198250109980",
       "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "gartensecher",
-      "Steam": "76561198778790300",
-      "Score": 0,
-      "Time": "01:20"
+      "Name": ":>",
+      "Steam": "76561199795970258",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ferox",
+      "Steam": "76561199377440484",
+      "Score": 27,
+      "Time": "61:02"
+    },
+    {
+      "Name": "source engine wizard",
+      "Steam": "76561199756507474",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Not Exotic",
+      "Steam": "76561199367278892",
+      "Score": 10,
+      "Time": "30:38"
+    },
+    {
+      "Name": "venom",
+      "Steam": "76561198065390624",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "eversio test",
+      "Steam": "76561198766560685",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "okli",
+      "Steam": "76561199122797420",
+      "Score": 17,
+      "Time": "09:52"
     }
   ]
 }
