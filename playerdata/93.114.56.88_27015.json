@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-12T11:37:06.2609327Z",
-  "Players": []
+  "Time": "2025-12-12T11:38:02.8997616Z",
+  "Players": [
+    {
+      "Name": "Nixware user",
+      "Steam": "76561199820198006",
+      "Score": 59,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mimmmi",
+      "Steam": "76561198773397866",
+      "Score": 40,
+      "Time": "14:00"
+    },
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nullptr_t",
+      "Steam": "76561198766056255",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jabkurefka",
+      "Steam": "76561199862783250",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gartensecher",
+      "Steam": "76561198778790300",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
