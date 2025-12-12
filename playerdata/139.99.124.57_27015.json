@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-12T21:46:05.1398829Z",
+  "Time": "2025-12-12T21:48:05.1398265Z",
   "Players": [
     {
       "Name": "cola ja",
       "Steam": "76561199712341739",
-      "Score": 0,
-      "Time": "58:47"
+      "Score": 28,
+      "Time": "60:47"
     },
     {
       "Name": "IShowMeat",
       "Steam": "76561199856642940",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Exploding Heads",
+      "Steam": "76561198766922230",
+      "Score": 0,
+      "Time": "00:17"
     }
   ]
 }
