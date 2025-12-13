@@ -1,34 +1,40 @@
 {
-  "Time": "2025-12-13T04:41:14.5704487Z",
+  "Time": "2025-12-13T04:43:14.5908714Z",
   "Players": [
     {
       "Name": "pl.sense",
       "Steam": "76561198760818444",
-      "Score": 0,
-      "Time": "148:40"
+      "Score": 4,
+      "Time": "150:40"
     },
     {
       "Name": "kebab maker",
       "Steam": "76561199267340528",
-      "Score": 18,
-      "Time": "77:11"
+      "Score": 28,
+      "Time": "79:11"
     },
     {
       "Name": "han",
       "Steam": "76561198983792841",
-      "Score": 88,
-      "Time": "39:19"
+      "Score": 97,
+      "Time": "41:19"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 82,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "Faheem Commando",
       "Steam": "76561199868947650",
-      "Score": 35,
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cola ja",
+      "Steam": "76561199712341739",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
