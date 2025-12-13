@@ -1,16 +1,34 @@
 {
-  "Time": "2025-12-13T09:54:38.434169Z",
+  "Time": "2025-12-13T09:56:38.4350659Z",
   "Players": [
+    {
+      "Name": "SpongeBob",
+      "Steam": "76561198763297493",
+      "Score": 0,
+      "Time": "00:21"
+    },
+    {
+      "Name": "67tuffmango",
+      "Steam": "76561199864396411",
+      "Score": 0,
+      "Time": "00:48"
+    },
+    {
+      "Name": "glory to the idf",
+      "Steam": "76561198764790087",
+      "Score": 0,
+      "Time": "00:23"
+    },
     {
       "Name": "keiii",
       "Steam": "76561199113967944",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "basedgoyim",
       "Steam": "76561198789554557",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
