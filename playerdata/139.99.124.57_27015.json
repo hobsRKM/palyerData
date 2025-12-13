@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-13T09:31:14.5741207Z",
+  "Time": "2025-12-13T09:33:14.5910197Z",
   "Players": [
+    {
+      "Name": "Penny-Wise",
+      "Steam": "76561199868947650",
+      "Score": 0,
+      "Time": "00:22"
+    },
     {
       "Name": "JFF THE LAND SHARK",
       "Steam": "76561198774315242",
-      "Score": 17,
-      "Time": "55:09"
+      "Score": 25,
+      "Time": "57:09"
     },
     {
       "Name": "Nightcore",
       "Steam": "76561198761755601",
       "Score": 0,
-      "Time": "23:51"
+      "Time": "25:51"
     },
     {
       "Name": "GEKKZ",
       "Steam": "76561198787508138",
-      "Score": 13,
-      "Time": "03:23"
+      "Score": 23,
+      "Time": "05:23"
     },
     {
       "Name": "dotmemory",
@@ -28,13 +34,13 @@
     {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 12,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
