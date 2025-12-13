@@ -1,35 +1,47 @@
 {
-  "Time": "2025-12-13T15:13:17.0063282Z",
+  "Time": "2025-12-13T15:15:17.001271Z",
   "Players": [
     {
       "Name": "Viet nam top 1",
       "Steam": "76561199557016632",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
+    },
+    {
+      "Name": "T3LM / ALAin",
+      "Steam": "76561198411566992",
+      "Score": 0,
+      "Time": "00:20"
     },
     {
       "Name": "✡⃤⛴☁",
       "Steam": "76561199060922164",
       "Score": 63,
-      "Time": "30:41"
+      "Time": "32:41"
     },
     {
       "Name": "BEST \uD83D\uDE01",
       "Steam": "76561198786904680",
-      "Score": 83,
-      "Time": "56:55"
+      "Score": 85,
+      "Time": "58:55"
+    },
+    {
+      "Name": "WHO IS THIS?",
+      "Steam": "76561199819989461",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "HelloSensi",
       "Steam": "76561198763631113",
-      "Score": 56,
-      "Time": "75:54"
+      "Score": 60,
+      "Time": "77:54"
     },
     {
       "Name": "℘ ℑ ℜ ℵ",
       "Steam": "76561199165398753",
-      "Score": 8,
-      "Time": "24:33"
+      "Score": 9,
+      "Time": "26:33"
     }
   ]
 }
