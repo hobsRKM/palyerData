@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-13T13:18:38.4300467Z",
+  "Time": "2025-12-13T13:22:38.4302263Z",
   "Players": [
     {
       "Name": "SpongeBob",
       "Steam": "76561198761804650",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "greedy.jew",
       "Steam": "76561198762360954",
-      "Score": 20,
-      "Time": "39:08"
+      "Score": 36,
+      "Time": "43:08"
     },
     {
       "Name": "67tuffmango",
       "Steam": "76561199864396411",
-      "Score": 16,
-      "Time": "45:37"
+      "Score": 24,
+      "Time": "49:37"
+    },
+    {
+      "Name": "ICE",
+      "Steam": "76561199856474370",
+      "Score": 0,
+      "Time": "01:05"
     },
     {
       "Name": "poop",
       "Steam": "76561199145031291",
-      "Score": 22,
-      "Time": "43:58"
+      "Score": 30,
+      "Time": "47:58"
     }
   ]
 }
