@@ -1,35 +1,47 @@
 {
-  "Time": "2025-12-13T09:06:38.4249218Z",
+  "Time": "2025-12-13T09:08:38.4253499Z",
   "Players": [
+    {
+      "Name": "SpongeBob",
+      "Steam": "76561198763297493",
+      "Score": 7,
+      "Time": "00:16"
+    },
+    {
+      "Name": "boh mingle",
+      "Steam": "76561198761763305",
+      "Score": 5,
+      "Time": "01:49"
+    },
     {
       "Name": "67tuffmango",
       "Steam": "76561199864396411",
-      "Score": 14,
-      "Time": "53:48"
+      "Score": 16,
+      "Time": "55:48"
     },
     {
       "Name": "ICE",
       "Steam": "76561199856474370",
-      "Score": 66,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "Ek is 'n neger",
       "Steam": "76561198784796376",
-      "Score": 21,
-      "Time": "08:35"
+      "Score": 25,
+      "Time": "10:35"
     },
     {
       "Name": "keiii",
       "Steam": "76561199113967944",
-      "Score": 94,
+      "Score": 106,
       "Time": "??:??"
     },
     {
       "Name": "Avatar",
       "Steam": "76561198274962814",
-      "Score": 42,
-      "Time": "13:07"
+      "Score": 44,
+      "Time": "15:07"
     }
   ]
 }
