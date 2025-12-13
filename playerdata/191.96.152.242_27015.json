@@ -1,11 +1,17 @@
 {
-  "Time": "2025-12-13T23:17:37.537855Z",
+  "Time": "2025-12-13T23:19:37.5385005Z",
   "Players": [
+    {
+      "Name": "Natalie Loser",
+      "Steam": "76561198810009235",
+      "Score": 2,
+      "Time": "00:59"
+    },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
       "Score": 10,
-      "Time": "08:28"
+      "Time": "10:28"
     },
     {
       "Name": "kiki",
@@ -16,20 +22,20 @@
     {
       "Name": "ete",
       "Steam": "76561199724067259",
-      "Score": 45,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "ejhlmh",
       "Steam": "76561198758717393",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "main",
       "Steam": "76561199853188051",
-      "Score": 11,
-      "Time": "02:56"
+      "Score": 15,
+      "Time": "04:56"
     }
   ]
 }
