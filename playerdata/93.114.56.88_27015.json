@@ -1,47 +1,35 @@
 {
-  "Time": "2025-12-13T18:09:10.9744247Z",
+  "Time": "2025-12-13T18:10:24.8574371Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "tuff",
+      "Steam": "76561198759774369",
+      "Score": 9,
+      "Time": "04:24"
+    },
+    {
+      "Name": "drhome",
+      "Steam": "76561198789943499",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "yuravnl873lad",
-      "Steam": "76561198777223966",
-      "Score": 57,
+      "Name": "Meow Meow",
+      "Steam": "76561199828015418",
+      "Score": 20,
       "Time": "??:??"
     },
     {
-      "Name": "[Monolith] ScommerOfc",
-      "Steam": "76561199816841149",
-      "Score": 61,
+      "Name": "Saul Goodman",
+      "Steam": "76561198786899553",
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "Ich bin balbenbaum",
-      "Steam": "76561199154997580",
-      "Score": 26,
-      "Time": "50:11"
-    },
-    {
-      "Name": "Not Exotic",
-      "Steam": "76561199367278892",
-      "Score": 81,
+      "Name": "двое старых",
+      "Steam": "76561199892365696",
+      "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "SUPERNOVA",
-      "Steam": "76561199641517915",
-      "Score": 19,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Neo",
-      "Steam": "76561199201440406",
-      "Score": 0,
-      "Time": "07:58"
     }
   ]
 }
