@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-13T09:37:14.5993963Z",
+  "Time": "2025-12-13T09:39:14.5816155Z",
   "Players": [
+    {
+      "Name": "han",
+      "Steam": "76561198983792841",
+      "Score": 5,
+      "Time": "01:59"
+    },
     {
       "Name": "Penny-Wise",
       "Steam": "76561199868947650",
       "Score": 4,
-      "Time": "04:22"
+      "Time": "06:22"
     },
     {
       "Name": "JFF THE LAND SHARK",
       "Steam": "76561198774315242",
-      "Score": 45,
-      "Time": "61:09"
+      "Score": 58,
+      "Time": "63:09"
     },
     {
       "Name": "dotmemory",
@@ -20,15 +26,21 @@
       "Time": "??:??"
     },
     {
+      "Name": "BEST \uD83D\uDE01",
+      "Steam": "76561198786904680",
+      "Score": 6,
+      "Time": "01:08"
+    },
+    {
       "Name": "zizi",
       "Steam": "76561199229682369",
-      "Score": 47,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
