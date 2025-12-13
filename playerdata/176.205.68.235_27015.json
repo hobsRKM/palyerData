@@ -1,10 +1,16 @@
 {
-  "Time": "2025-12-13T18:55:34.8582303Z",
+  "Time": "2025-12-13T18:57:34.8583872Z",
   "Players": [
+    {
+      "Name": "ghost",
+      "Steam": "76561199591486018",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "hahahahahahahahahahhahahhahahaha",
       "Steam": "76561199809527634",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
@@ -14,9 +20,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "se васян",
+      "Name": "games васян",
       "Steam": "76561198780840269",
-      "Score": 43,
+      "Score": 49,
       "Time": "??:??"
     }
   ]
