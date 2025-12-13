@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-13T15:03:16.8454167Z",
+  "Time": "2025-12-13T15:05:16.8538391Z",
   "Players": [
+    {
+      "Name": "Viet nam top 1",
+      "Steam": "76561199557016632",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "han",
       "Steam": "76561198983792841",
-      "Score": 22,
-      "Time": "12:20"
+      "Score": 26,
+      "Time": "14:20"
     },
     {
       "Name": "✡⃤⛴☁",
       "Steam": "76561199060922164",
       "Score": 57,
-      "Time": "20:41"
+      "Time": "22:41"
     },
     {
       "Name": "BEST \uD83D\uDE01",
       "Steam": "76561198786904680",
       "Score": 60,
-      "Time": "46:55"
+      "Time": "48:55"
     },
     {
       "Name": "Twinkl",
@@ -28,20 +34,20 @@
     {
       "Name": "HelloSensi",
       "Steam": "76561198763631113",
-      "Score": 26,
-      "Time": "65:54"
+      "Score": 33,
+      "Time": "67:54"
     },
     {
       "Name": "℘ ℑ ℜ ℵ",
       "Steam": "76561199165398753",
-      "Score": 4,
-      "Time": "14:33"
+      "Score": 10,
+      "Time": "16:33"
     },
     {
       "Name": "Exploding Heads",
       "Steam": "76561198766922230",
-      "Score": 71,
-      "Time": "54:43"
+      "Score": 73,
+      "Time": "56:43"
     }
   ]
 }
