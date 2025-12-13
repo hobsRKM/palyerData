@@ -1,53 +1,77 @@
 {
-  "Time": "2025-12-13T13:47:14.9841971Z",
+  "Time": "2025-12-13T13:53:15.0687353Z",
   "Players": [
     {
       "Name": "pl.sense",
       "Steam": "76561198760818444",
+      "Score": 11,
+      "Time": "21:35"
+    },
+    {
+      "Name": "Shanks",
+      "Steam": "76561198767240115",
+      "Score": 3,
+      "Time": "02:08"
+    },
+    {
+      "Name": "挨打神nixware",
+      "Steam": "76561198778813347",
       "Score": 0,
-      "Time": "15:35"
+      "Time": "01:26"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 22,
-      "Time": "256:45"
+      "Score": 46,
+      "Time": "262:45"
+    },
+    {
+      "Name": "T3LM / ALAin",
+      "Steam": "76561198411566992",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "✡⃤⛴☁",
+      "Steam": "76561199060922164",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "Jugubugule",
       "Steam": "76561199192620996",
-      "Score": 0,
-      "Time": "00:36"
+      "Score": 7,
+      "Time": "06:36"
     },
     {
       "Name": "keiii",
       "Steam": "76561199113967944",
-      "Score": 7,
-      "Time": "03:25"
+      "Score": 42,
+      "Time": "09:26"
     },
     {
       "Name": "Tell Me Why???",
       "Steam": "76561199557856957",
-      "Score": 20,
-      "Time": "77:31"
+      "Score": 30,
+      "Time": "83:31"
     },
     {
       "Name": "Nixware",
       "Steam": "76561198775209729",
-      "Score": 34,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "Exploding Heads",
       "Steam": "76561198766922230",
-      "Score": 27,
-      "Time": "38:23"
+      "Score": 33,
+      "Time": "44:23"
     },
     {
       "Name": "瓦学弟",
       "Steam": "76561199715143698",
-      "Score": 28,
-      "Time": "31:44"
+      "Score": 40,
+      "Time": "37:45"
     }
   ]
 }
