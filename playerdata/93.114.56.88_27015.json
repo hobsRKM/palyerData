@@ -1,35 +1,53 @@
 {
-  "Time": "2025-12-13T14:18:00.2221135Z",
+  "Time": "2025-12-13T14:18:23.0277971Z",
   "Players": [
     {
-      "Name": "CipicaoSweg",
-      "Steam": "76561199287598512",
+      "Name": "ag",
+      "Steam": "76561199072741035",
+      "Score": 10,
+      "Time": "27:54"
+    },
+    {
+      "Name": "Dazzyking",
+      "Steam": "76561198775242232",
+      "Score": 18,
+      "Time": "44:11"
+    },
+    {
+      "Name": "mafia",
+      "Steam": "76561199800868137",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hajksdhajskd",
+      "Steam": "76561199822791181",
+      "Score": 20,
+      "Time": "49:57"
+    },
+    {
+      "Name": "CK",
+      "Steam": "76561198766853868",
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "drill enjoyer",
+      "Steam": "76561199812059655",
       "Score": 22,
-      "Time": "08:35"
+      "Time": "123:37"
     },
     {
-      "Name": "Maydox9",
-      "Steam": "76561198365653050",
-      "Score": 23,
-      "Time": "??:??"
+      "Name": "daxe",
+      "Steam": "76561199837540596",
+      "Score": 28,
+      "Time": "62:10"
     },
     {
-      "Name": "cwatrox",
-      "Steam": "76561198161184894",
+      "Name": "nomoral",
+      "Steam": "76561198396926179",
       "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Diaconescu Lukas",
-      "Steam": "76561199667028575",
-      "Score": 0,
-      "Time": "01:03"
-    },
-    {
-      "Name": "warre.thomasbe",
-      "Steam": "76561199196638603",
-      "Score": 0,
-      "Time": "966:02"
+      "Time": "141:12"
     }
   ]
 }
