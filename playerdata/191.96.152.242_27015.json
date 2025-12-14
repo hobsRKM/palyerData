@@ -1,6 +1,12 @@
 {
-  "Time": "2025-12-14T16:20:22.7089743Z",
+  "Time": "2025-12-14T16:22:22.7033169Z",
   "Players": [
+    {
+      "Name": "olivia",
+      "Steam": "76561199805921608",
+      "Score": 0,
+      "Time": "00:04"
+    },
     {
       "Name": "dawishanasha",
       "Steam": "76561198759957488",
@@ -10,17 +16,17 @@
     {
       "Name": "g59",
       "Steam": "76561199489957582",
-      "Score": 40,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "-",
       "Steam": "76561199571739753",
-      "Score": 10,
-      "Time": "02:58"
+      "Score": 14,
+      "Time": "04:58"
     },
     {
-      "Name": "\u1CBB",
+      "Name": "gravesec \u1CBB",
       "Steam": "76561198759963363",
       "Score": 27,
       "Time": "??:??"
@@ -28,19 +34,25 @@
     {
       "Name": "septicbooger",
       "Steam": "76561199678608838",
-      "Score": 102,
+      "Score": 104,
       "Time": "??:??"
     },
     {
       "Name": "a1most",
       "Steam": "76561199622150117",
-      "Score": 70,
+      "Score": 75,
       "Time": "??:??"
     },
     {
       "Name": "soaked",
       "Steam": "76561199059024972",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "figure",
+      "Steam": "76561199877795480",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
