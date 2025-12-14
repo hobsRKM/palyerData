@@ -1,23 +1,47 @@
 {
-  "Time": "2025-12-14T21:43:27.4530433Z",
+  "Time": "2025-12-14T21:43:30.1868033Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Neil Down",
+      "Steam": "76561198758796356",
+      "Score": 2,
+      "Time": "30:26"
+    },
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 8,
+      "Time": "26:48"
+    },
+    {
+      "Name": "Hans-Ulrich Rudel",
+      "Steam": "76561199505622934",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gamesense. bup. Aimstars",
+      "Steam": "76561199885893585",
+      "Score": 24,
+      "Time": "18:17"
+    },
+    {
+      "Name": "\uD835\uDC24\uD835\uDC1A$\uD835\uDC21",
+      "Steam": "76561198769067462",
+      "Score": 24,
+      "Time": "11:50"
+    },
+    {
+      "Name": "ItsssNK",
+      "Steam": "76561198271809907",
+      "Score": 10,
+      "Time": "164:09"
+    },
+    {
+      "Name": "Neve|  ZwMapViewOfSection",
+      "Steam": "76561199884966036",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "r x d",
-      "Steam": "76561199171856397",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "rug1na",
-      "Steam": "76561199007185984",
-      "Score": 6,
-      "Time": "04:16"
+      "Time": "285:27"
     }
   ]
 }
