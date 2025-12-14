@@ -1,4 +1,53 @@
 {
-  "Time": "2025-12-14T02:35:11.5661436Z",
-  "Players": []
+  "Time": "2025-12-14T02:35:33.957227Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "585:13"
+    },
+    {
+      "Name": "Not Exotic",
+      "Steam": "76561199367278892",
+      "Score": 40,
+      "Time": "293:57"
+    },
+    {
+      "Name": "takahiroryuu",
+      "Steam": "76561199233058634",
+      "Score": 32,
+      "Time": "18:50"
+    },
+    {
+      "Name": "Groyper in EU",
+      "Steam": "76561198764865987",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TJ",
+      "Steam": "76561199818472808",
+      "Score": 70,
+      "Time": "595:50"
+    },
+    {
+      "Name": "Aimstars",
+      "Steam": "76561199885893585",
+      "Score": 5,
+      "Time": "02:00"
+    },
+    {
+      "Name": "mb",
+      "Steam": "76561199891715866",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
