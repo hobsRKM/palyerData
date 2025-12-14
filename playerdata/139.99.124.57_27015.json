@@ -1,29 +1,29 @@
 {
-  "Time": "2025-12-14T11:43:27.6791587Z",
+  "Time": "2025-12-14T11:45:27.6849346Z",
   "Players": [
     {
       "Name": "Z",
       "Steam": "76561198769837429",
-      "Score": 13,
-      "Time": "06:01"
+      "Score": 26,
+      "Time": "08:01"
     },
     {
       "Name": "Arthur",
       "Steam": "76561198772884947",
-      "Score": 53,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE8C\uD835\uDE8A\uD835\uDE8D\uD835\uDE8E\uD835\uDE9B\uD835\uDE8E 愛",
       "Steam": "76561198822079717",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "D⭕\uD83C\uDD76\uD83C\uDD70®",
       "Steam": "76561198778744795",
-      "Score": 10,
-      "Time": "82:08"
+      "Score": 14,
+      "Time": "84:08"
     },
     {
       "Name": "героический",
@@ -34,20 +34,26 @@
     {
       "Name": "THIS IS A AI",
       "Steam": "76561198769465700",
-      "Score": 20,
-      "Time": "02:22"
+      "Score": 22,
+      "Time": "04:22"
     },
     {
       "Name": "desync",
       "Steam": "76561199877513410",
+      "Score": 2,
+      "Time": "04:27"
+    },
+    {
+      "Name": "\uD835\uDC04\uD835\uDC26\uD835\uDC29\uD835\uDC08\uD835\uDC2B\uD835\uDC1E 엘로",
+      "Steam": "76561199480026642",
       "Score": 0,
-      "Time": "02:27"
+      "Time": "00:32"
     },
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 0,
-      "Time": "06:08"
+      "Score": 2,
+      "Time": "08:08"
     }
   ]
 }
