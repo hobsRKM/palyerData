@@ -1,16 +1,28 @@
 {
-  "Time": "2025-12-14T21:18:22.7075082Z",
+  "Time": "2025-12-14T21:20:22.708659Z",
   "Players": [
+    {
+      "Name": "pusheaxret",
+      "Steam": "76561198782287736",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "polizzi",
+      "Steam": "76561198793598358",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 25,
-      "Time": "13:24"
+      "Score": 27,
+      "Time": "15:24"
     },
     {
       "Name": "hydealers",
       "Steam": "76561198761433159",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
