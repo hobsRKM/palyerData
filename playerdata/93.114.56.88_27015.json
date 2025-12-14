@@ -1,65 +1,35 @@
 {
-  "Time": "2025-12-14T00:53:24.477855Z",
+  "Time": "2025-12-14T00:54:48.1017283Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "Kalo",
+      "Steam": "76561198760867119",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BUSKIMANO",
+      "Steam": "76561199799874714",
       "Score": 0,
-      "Time": "483:03"
+      "Time": "635:58"
     },
     {
-      "Name": "drill enjoyer",
-      "Steam": "76561199812059655",
-      "Score": 38,
+      "Name": "\uD835\uDC21\uD835\uDC22\uD835\uDC32\uD835\uDC1A \uD835\uDC1B\uD835\uDC1A\uD835\uDC1B",
+      "Steam": "76561198762114318",
+      "Score": 66,
       "Time": "??:??"
     },
     {
-      "Name": "Groyper in EU",
-      "Steam": "76561198764865987",
-      "Score": 13,
+      "Name": "VIP.VLADIMIR 228",
+      "Steam": "76561198761470663",
+      "Score": 23,
       "Time": "??:??"
     },
     {
-      "Name": "anthonywin219",
-      "Steam": "76561198768850609",
-      "Score": 0,
+      "Name": "pevq0102",
+      "Steam": "76561199609965345",
+      "Score": 42,
       "Time": "??:??"
-    },
-    {
-      "Name": "vidlak w donerze",
-      "Steam": "76561199045007775",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ANNA SNIPER",
-      "Steam": "76561199750692141",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fynd",
-      "Steam": "76561198850872264",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "TJ",
-      "Steam": "76561199818472808",
-      "Score": 3,
-      "Time": "493:41"
-    },
-    {
-      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
-      "Steam": "76561198333235279",
-      "Score": 3,
-      "Time": "615:50"
-    },
-    {
-      "Name": "0MEH",
-      "Steam": "76561198418699703",
-      "Score": 0,
-      "Time": "126:05"
     }
   ]
 }
