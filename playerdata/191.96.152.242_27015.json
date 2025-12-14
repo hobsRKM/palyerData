@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-14T00:49:37.5362572Z",
+  "Time": "2025-12-14T00:51:37.5404083Z",
   "Players": [
     {
       "Name": "123",
       "Steam": "76561199445718808",
-      "Score": 16,
-      "Time": "14:16"
+      "Score": 20,
+      "Time": "00:10"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "tokyo",
       "Steam": "76561199367021539",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
+    },
+    {
+      "Name": "Ray",
+      "Steam": "76561199892021954",
+      "Score": 9,
+      "Time": "02:01"
     },
     {
       "Name": "veil",
@@ -34,7 +40,13 @@
     {
       "Name": "Fa Q",
       "Steam": "76561199648052473",
-      "Score": 10,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gamesense",
+      "Steam": "76561199819724937",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
