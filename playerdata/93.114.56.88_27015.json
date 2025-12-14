@@ -1,53 +1,47 @@
 {
-  "Time": "2025-12-14T00:49:11.3065326Z",
+  "Time": "2025-12-14T00:49:24.1275403Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 29,
+      "Time": "490:04"
+    },
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "479:03"
+    },
+    {
+      "Name": "drill enjoyer",
+      "Steam": "76561199812059655",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Groyper in EU",
+      "Steam": "76561198764865987",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "s",
-      "Steam": "76561198380750599",
-      "Score": 0,
-      "Time": "00:59"
-    },
-    {
-      "Name": "mesense.pub Aimstars",
-      "Steam": "76561199885893585",
-      "Score": 54,
-      "Time": "161:35"
-    },
-    {
-      "Name": "ANNA SNIPER",
-      "Steam": "76561199750692141",
-      "Score": 76,
+      "Name": "fynd",
+      "Steam": "76561198850872264",
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "effrayant",
-      "Steam": "76561198195247117",
-      "Score": 75,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Rick",
-      "Steam": "76561199050470003",
-      "Score": 56,
-      "Time": "??:??"
-    },
-    {
-      "Name": "szeretematejet",
-      "Steam": "76561198771263703",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "oopsies",
-      "Steam": "76561198765100132",
-      "Score": 21,
-      "Time": "??:??"
+      "Name": "TJ",
+      "Steam": "76561199818472808",
+      "Score": 26,
+      "Time": "489:40"
     }
   ]
 }
