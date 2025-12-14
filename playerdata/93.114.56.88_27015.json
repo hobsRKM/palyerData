@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-14T04:59:11.5661294Z",
-  "Players": []
+  "Time": "2025-12-14T04:59:49.8735322Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 2,
+      "Time": "729:28"
+    },
+    {
+      "Name": "sztylet",
+      "Steam": "76561199524175100",
+      "Score": 48,
+      "Time": "16:28"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "yamatoro",
+      "Steam": "76561199812037558",
+      "Score": 56,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bakom dig",
+      "Steam": "76561198806792145",
+      "Score": 15,
+      "Time": "06:47"
+    },
+    {
+      "Name": "Mahmoud's Kebab Shop",
+      "Steam": "76561199105830408",
+      "Score": 24,
+      "Time": "??:??"
+    }
+  ]
 }
