@@ -1,46 +1,58 @@
 {
-  "Time": "2025-12-14T17:10:22.7109321Z",
+  "Time": "2025-12-14T17:12:22.704906Z",
   "Players": [
+    {
+      "Name": "Progerianos",
+      "Steam": "76561198785741643",
+      "Score": 3,
+      "Time": "00:44"
+    },
     {
       "Name": "dawishanasha",
       "Steam": "76561198759957488",
-      "Score": 31,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "-",
       "Steam": "76561199571739753",
-      "Score": 38,
-      "Time": "25:11"
+      "Score": 44,
+      "Time": "27:11"
     },
     {
       "Name": "a1most",
       "Steam": "76561199622150117",
-      "Score": 54,
-      "Time": "18:50"
+      "Score": 58,
+      "Time": "20:50"
     },
     {
       "Name": "not serv",
       "Steam": "76561199826858318",
-      "Score": 26,
-      "Time": "09:15"
+      "Score": 34,
+      "Time": "11:15"
     },
     {
       "Name": "Cu com pelo",
       "Steam": "76561199236155108",
-      "Score": 26,
-      "Time": "05:12"
+      "Score": 29,
+      "Time": "07:12"
     },
     {
       "Name": "Natalie Loser",
       "Steam": "76561198810009235",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "chinkernator",
       "Steam": "76561198776319744",
-      "Score": 7,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOT tony",
+      "Steam": "76561199367021539",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
