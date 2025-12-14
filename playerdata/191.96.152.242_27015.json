@@ -1,58 +1,64 @@
 {
-  "Time": "2025-12-14T17:34:22.7157516Z",
+  "Time": "2025-12-14T17:36:22.7116232Z",
   "Players": [
     {
       "Name": "fred",
       "Steam": "76561198204468128",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Progerianos",
       "Steam": "76561198785741643",
-      "Score": 15,
-      "Time": "22:44"
+      "Score": 21,
+      "Time": "24:44"
     },
     {
       "Name": "figure",
       "Steam": "76561199877795480",
       "Score": 18,
-      "Time": "13:07"
+      "Time": "15:07"
+    },
+    {
+      "Name": "Cu com pelo",
+      "Steam": "76561199236155108",
+      "Score": 5,
+      "Time": "01:07"
     },
     {
       "Name": "tear",
       "Steam": "76561198764142857",
-      "Score": 4,
-      "Time": "02:56"
+      "Score": 10,
+      "Time": "04:56"
     },
     {
       "Name": "chinkernator",
       "Steam": "76561198776319744",
-      "Score": 53,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "187",
       "Steam": "76561199634018466",
-      "Score": 10,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 2,
-      "Time": "01:46"
-    },
-    {
-      "Name": "atom",
-      "Steam": "76561199376437310",
-      "Score": 9,
-      "Time": "05:30"
+      "Score": 10,
+      "Time": "03:46"
     },
     {
       "Name": "boolynigga777",
       "Steam": "76561198791541733",
-      "Score": 6,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Skill.exe",
+      "Steam": "76561198761470845",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
