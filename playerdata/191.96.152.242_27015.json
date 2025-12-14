@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-14T03:03:37.5298427Z",
+  "Time": "2025-12-14T03:05:37.5333205Z",
   "Players": [
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 84,
+      "Score": 102,
       "Time": "??:??"
+    },
+    {
+      "Name": "goob",
+      "Steam": "76561199236019226",
+      "Score": 24,
+      "Time": "01:12"
     },
     {
       "Name": "I beat to wattson.",
       "Steam": "76561198336975870",
-      "Score": 61,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "obamason",
       "Steam": "76561198773068095",
-      "Score": 31,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "popthesad",
       "Steam": "76561198762683567",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "veil",
       "Steam": "76561199818013680",
-      "Score": 8,
-      "Time": "05:30"
+      "Score": 12,
+      "Time": "07:30"
     }
   ]
 }
