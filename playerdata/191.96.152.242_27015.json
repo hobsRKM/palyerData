@@ -1,5 +1,5 @@
 {
-  "Time": "2025-12-14T02:53:37.5424712Z",
+  "Time": "2025-12-14T02:55:37.5290853Z",
   "Players": [
     {
       "Name": "Salmon K",
@@ -10,31 +10,37 @@
     {
       "Name": "PABLO",
       "Steam": "76561199868185896",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "soda",
       "Steam": "76561198786321609",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 45,
+      "Score": 56,
       "Time": "??:??"
+    },
+    {
+      "Name": "bigsteppa",
+      "Steam": "76561199827242653",
+      "Score": 10,
+      "Time": "01:43"
     },
     {
       "Name": "goob",
       "Steam": "76561199236019226",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "I beat to wattson.",
       "Steam": "76561198336975870",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
@@ -46,8 +52,14 @@
     {
       "Name": "popthesad",
       "Steam": "76561198762683567",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "veil",
+      "Steam": "76561199818013680",
+      "Score": 0,
+      "Time": "00:41"
     }
   ]
 }
