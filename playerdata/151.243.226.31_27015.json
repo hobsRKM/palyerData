@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-15T15:22:40.5001727Z",
+  "Time": "2025-12-15T15:26:40.5007128Z",
   "Players": [
     {
       "Name": "Monkey . D .  Shanks",
       "Steam": "76561198768734014",
+      "Score": 32,
+      "Time": "11:57"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561198764163052",
       "Score": 20,
-      "Time": "07:57"
+      "Time": "01:31"
     },
     {
       "Name": "Exploding Heads",
       "Steam": "76561198766922230",
-      "Score": 10,
-      "Time": "14:41"
+      "Score": 24,
+      "Time": "18:41"
     },
     {
       "Name": "..",
       "Steam": "76561199486210855",
-      "Score": 50,
-      "Time": "119:01"
+      "Score": 64,
+      "Time": "123:01"
     },
     {
       "Name": "freya",
@@ -28,19 +34,25 @@
     {
       "Name": "`A",
       "Steam": "76561199699289339",
-      "Score": 54,
+      "Score": 61,
       "Time": "??:??"
+    },
+    {
+      "Name": "IHAveAImBOt",
+      "Steam": "76561198759359960",
+      "Score": 0,
+      "Time": "00:55"
     },
     {
       "Name": "Omoree",
       "Steam": "76561198767489002",
-      "Score": 10,
-      "Time": "35:03"
+      "Score": 2,
+      "Time": "39:03"
     },
     {
       "Name": "Star lvy (Pro Zoomy®)",
       "Steam": "76561198872584941",
-      "Score": 46,
+      "Score": 50,
       "Time": "??:??"
     }
   ]
