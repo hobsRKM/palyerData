@@ -1,16 +1,40 @@
 {
-  "Time": "2025-12-15T02:44:22.7004072Z",
+  "Time": "2025-12-15T02:48:22.7022633Z",
   "Players": [
+    {
+      "Name": "pusheaxret",
+      "Steam": "76561198782287736",
+      "Score": 0,
+      "Time": "00:59"
+    },
+    {
+      "Name": "polizzi",
+      "Steam": "76561198793598358",
+      "Score": 4,
+      "Time": "02:03"
+    },
+    {
+      "Name": "bigsteppahubert",
+      "Steam": "76561199827242653",
+      "Score": 4,
+      "Time": "02:17"
+    },
     {
       "Name": "[UNKNOWN]",
       "Steam": "76561199317692212",
       "Score": 0,
-      "Time": "18:21"
+      "Time": "22:21"
+    },
+    {
+      "Name": "BOT raper",
+      "Steam": "76561198763490094",
+      "Score": 1,
+      "Time": "02:23"
     },
     {
       "Name": "revenant",
       "Steam": "76561198759862027",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     }
   ]
