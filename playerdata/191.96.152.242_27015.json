@@ -1,28 +1,34 @@
 {
-  "Time": "2025-12-15T23:04:27.5876164Z",
+  "Time": "2025-12-15T23:06:27.599353Z",
   "Players": [
+    {
+      "Name": "Tom Cruise",
+      "Steam": "76561198041181851",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Natalie Lxser",
       "Steam": "76561198759650198",
       "Score": 0,
-      "Time": "664:42"
+      "Time": "666:42"
     },
     {
       "Name": "soaked",
       "Steam": "76561199059024972",
-      "Score": 21,
-      "Time": "05:15"
+      "Score": 6,
+      "Time": "07:15"
     },
     {
       "Name": "i hate neverlose",
       "Steam": "76561199818013680",
-      "Score": 37,
-      "Time": "54:21"
+      "Score": 0,
+      "Time": "56:21"
     },
     {
       "Name": "elephant",
       "Steam": "76561199551553809",
-      "Score": 179,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -32,52 +38,40 @@
       "Time": "??:??"
     },
     {
-      "Name": "yumeko",
-      "Steam": "76561199886600272",
-      "Score": 72,
-      "Time": "??:??"
-    },
-    {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 85,
-      "Time": "??:??"
-    },
-    {
-      "Name": "rain",
-      "Steam": "76561199847868570",
-      "Score": 151,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 93,
-      "Time": "15:06"
+      "Score": 3,
+      "Time": "17:06"
     },
     {
       "Name": "moxenac510",
       "Steam": "76561198762755395",
-      "Score": 3,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "mild",
       "Steam": "76561198165749035",
-      "Score": 8,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "stupit burgr",
       "Steam": "76561199822066050",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "201namdaerbregnig",
       "Steam": "76561198791541733",
-      "Score": 8,
-      "Time": "13:29"
+      "Score": 1,
+      "Time": "15:29"
     }
   ]
 }
