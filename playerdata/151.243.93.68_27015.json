@@ -1,4 +1,47 @@
 {
-  "Time": "2025-12-15T08:43:14.3452869Z",
-  "Players": []
+  "Time": "2025-12-15T08:44:23.3493187Z",
+  "Players": [
+    {
+      "Name": "CS2Yapper",
+      "Steam": "76561199568679621",
+      "Score": 4,
+      "Time": "03:50"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 11,
+      "Time": "80:01"
+    },
+    {
+      "Name": "swagatron3000",
+      "Steam": "76561198111358891",
+      "Score": 8,
+      "Time": "08:12"
+    },
+    {
+      "Name": "john mc burgerlington",
+      "Steam": "76561198760033756",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tom Cruise",
+      "Steam": "76561198041181851",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "foobar",
+      "Steam": "76561197963749136",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "COM BOT | JUMPSCOUT ONLY",
+      "Steam": "76561198774659014",
+      "Score": 29,
+      "Time": "57:53"
+    }
+  ]
 }
