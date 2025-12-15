@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-15T07:35:14.3381708Z",
-  "Players": []
+  "Time": "2025-12-15T07:36:23.3518872Z",
+  "Players": [
+    {
+      "Name": "Shux",
+      "Steam": "76561199170636130",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 7,
+      "Time": "12:01"
+    },
+    {
+      "Name": "Neil Down",
+      "Steam": "76561198758796356",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "john mc burgerlington",
+      "Steam": "76561198760033756",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "COM BOT | JUMPSCOUT ONLY",
+      "Steam": "76561198774659014",
+      "Score": 24,
+      "Time": "16:46"
+    }
+  ]
 }
