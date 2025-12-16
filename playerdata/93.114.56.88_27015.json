@@ -1,4 +1,65 @@
 {
-  "Time": "2025-12-16T21:32:19.4993365Z",
-  "Players": []
+  "Time": "2025-12-16T21:33:09.6726288Z",
+  "Players": [
+    {
+      "Name": "global",
+      "Steam": "76561197963183861",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Trionxs",
+      "Steam": "76561199040781865",
+      "Score": 33,
+      "Time": "16:10"
+    },
+    {
+      "Name": "Ske",
+      "Steam": "76561199774202139",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 30,
+      "Time": "44:37"
+    },
+    {
+      "Name": "Pengalin tiikeri",
+      "Steam": "76561199028582444",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kivesa\uD83D\uDC2C",
+      "Steam": "76561199243944264",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "JOJO",
+      "Steam": "76561199657161263",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "YuHuuu",
+      "Steam": "76561199310286504",
+      "Score": 2,
+      "Time": "96:47"
+    },
+    {
+      "Name": "Seoul999",
+      "Steam": "76561198051992092",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Charlie Kirk",
+      "Steam": "76561199320733877",
+      "Score": 22,
+      "Time": "10:19"
+    }
+  ]
 }
