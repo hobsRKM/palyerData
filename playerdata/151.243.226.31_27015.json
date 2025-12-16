@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-16T15:10:28.1884347Z",
+  "Time": "2025-12-16T15:12:28.1795651Z",
   "Players": [
+    {
+      "Name": "MR_pointscale",
+      "Steam": "76561199840299479",
+      "Score": 0,
+      "Time": "01:02"
+    },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "rex",
       "Steam": "76561199676212160",
-      "Score": 8,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "01:15"
     },
     {
       "Name": "外挂卡网：88.2a2a.top 群",
@@ -20,22 +26,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "Tuchka GGDROP",
+      "Steam": "76561198765625025",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "deathbed",
       "Steam": "76561199761205539",
-      "Score": 57,
-      "Time": "16:37"
+      "Score": 65,
+      "Time": "18:37"
     },
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 115,
-      "Time": "56:33"
+      "Score": 123,
+      "Time": "58:33"
     },
     {
       "Name": "aryminh",
       "Steam": "76561199639741969",
-      "Score": 23,
-      "Time": "09:43"
+      "Score": 8,
+      "Time": "11:43"
     },
     {
       "Name": "Omoree",
@@ -46,26 +58,26 @@
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 87,
-      "Time": "75:48"
+      "Score": 93,
+      "Time": "77:48"
     },
     {
       "Name": "Arthur",
       "Steam": "76561198772884947",
-      "Score": 92,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "suri",
       "Steam": "76561199838777794",
-      "Score": 37,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "OG",
       "Steam": "76561198362296452",
-      "Score": 37,
-      "Time": "36:10"
+      "Score": 39,
+      "Time": "38:10"
     },
     {
       "Name": "Kaiii",
@@ -76,7 +88,7 @@
     {
       "Name": "FentanylFrank",
       "Steam": "76561199880263638",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
