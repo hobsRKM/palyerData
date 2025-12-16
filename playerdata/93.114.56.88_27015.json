@@ -1,4 +1,53 @@
 {
-  "Time": "2025-12-16T21:40:19.5096351Z",
-  "Players": []
+  "Time": "2025-12-16T21:41:09.6618414Z",
+  "Players": [
+    {
+      "Name": "global",
+      "Steam": "76561197963183861",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Trionxs",
+      "Steam": "76561199040781865",
+      "Score": 53,
+      "Time": "24:10"
+    },
+    {
+      "Name": "zimer",
+      "Steam": "76561198758142393",
+      "Score": 4,
+      "Time": "02:35"
+    },
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 62,
+      "Time": "52:37"
+    },
+    {
+      "Name": "Pengalin tiikeri",
+      "Steam": "76561199028582444",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kivesa\uD83D\uDC2C",
+      "Steam": "76561199243944264",
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "JOJO",
+      "Steam": "76561199657161263",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Charlie Kirk",
+      "Steam": "76561199320733877",
+      "Score": 43,
+      "Time": "18:19"
+    }
+  ]
 }
