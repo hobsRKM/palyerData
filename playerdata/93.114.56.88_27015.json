@@ -1,4 +1,53 @@
 {
-  "Time": "2025-12-16T21:10:19.499219Z",
-  "Players": []
+  "Time": "2025-12-16T21:11:09.6675763Z",
+  "Players": [
+    {
+      "Name": "global",
+      "Steam": "76561197963183861",
+      "Score": 68,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 25,
+      "Time": "22:37"
+    },
+    {
+      "Name": "ZwMapViewOfSection",
+      "Steam": "76561199884966036",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Volvo Anticheat",
+      "Steam": "76561198762537703",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kivesa\uD83D\uDC2C",
+      "Steam": "76561199243944264",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
+      "Steam": "76561198341012123",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nixware user",
+      "Steam": "76561199820198006",
+      "Score": 59,
+      "Time": "36:01"
+    },
+    {
+      "Name": "nixware user",
+      "Steam": "76561198759945739",
+      "Score": 4,
+      "Time": "08:07"
+    }
+  ]
 }
