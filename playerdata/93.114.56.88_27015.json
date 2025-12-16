@@ -1,4 +1,29 @@
 {
-  "Time": "2025-12-16T22:22:19.5041501Z",
-  "Players": []
+  "Time": "2025-12-16T22:23:09.6706854Z",
+  "Players": [
+    {
+      "Name": "global",
+      "Steam": "76561197963183861",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Trionxs",
+      "Steam": "76561199040781865",
+      "Score": 0,
+      "Time": "66:10"
+    },
+    {
+      "Name": "Kivesa\uD83D\uDC2C",
+      "Steam": "76561199243944264",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Utilizing pasted software",
+      "Steam": "76561197961425049",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
