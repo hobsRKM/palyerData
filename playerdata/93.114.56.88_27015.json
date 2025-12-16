@@ -1,4 +1,47 @@
 {
-  "Time": "2025-12-16T21:12:19.4993899Z",
-  "Players": []
+  "Time": "2025-12-16T21:13:09.6711335Z",
+  "Players": [
+    {
+      "Name": "global",
+      "Steam": "76561197963183861",
+      "Score": 80,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 4,
+      "Time": "24:37"
+    },
+    {
+      "Name": "ZwMapViewOfSection",
+      "Steam": "76561199884966036",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kivesa\uD83D\uDC2C",
+      "Steam": "76561199243944264",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
+      "Steam": "76561198341012123",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nixware user",
+      "Steam": "76561199820198006",
+      "Score": 59,
+      "Time": "38:01"
+    },
+    {
+      "Name": "nixware user",
+      "Steam": "76561198759945739",
+      "Score": 0,
+      "Time": "10:07"
+    }
+  ]
 }
