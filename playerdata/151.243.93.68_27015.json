@@ -1,4 +1,47 @@
 {
-  "Time": "2025-12-16T20:11:15.1834361Z",
-  "Players": []
+  "Time": "2025-12-16T20:11:30.6106062Z",
+  "Players": [
+    {
+      "Name": "snowman",
+      "Steam": "76561199041753106",
+      "Score": 51,
+      "Time": "12:05"
+    },
+    {
+      "Name": "john mc burgerlington",
+      "Steam": "76561198760033756",
+      "Score": 45,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sippin' fanta",
+      "Steam": "76561198762577434",
+      "Score": 19,
+      "Time": "02:20"
+    },
+    {
+      "Name": "Fa Q",
+      "Steam": "76561199648052473",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tempra",
+      "Steam": "76561198211982265",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "funyun munyun",
+      "Steam": "76561199678608838",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pusheaxret",
+      "Steam": "76561198782287736",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
