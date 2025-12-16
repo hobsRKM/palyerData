@@ -1,11 +1,23 @@
 {
-  "Time": "2025-12-16T00:34:40.5071406Z",
+  "Time": "2025-12-16T00:36:40.5076232Z",
   "Players": [
+    {
+      "Name": "kirkdroid.lua beta user",
+      "Steam": "76561199074739149",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "LazaRun",
       "Steam": "76561199809489401",
       "Score": 0,
-      "Time": "02:11"
+      "Time": "04:11"
+    },
+    {
+      "Name": "Nixware",
+      "Steam": "76561198775209729",
+      "Score": 0,
+      "Time": "01:44"
     }
   ]
 }
