@@ -1,59 +1,41 @@
 {
-  "Time": "2025-12-16T21:02:19.5090902Z",
+  "Time": "2025-12-16T21:03:09.6717005Z",
   "Players": [
     {
-      "Name": "zqyrz",
-      "Steam": "76561199605640131",
+      "Name": "global",
+      "Steam": "76561197963183861",
+      "Score": 50,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fake",
+      "Steam": "76561199729334552",
+      "Score": 46,
+      "Time": "70:02"
+    },
+    {
+      "Name": "xhsxr",
+      "Steam": "76561198759810230",
+      "Score": 15,
+      "Time": "12:17"
+    },
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
       "Score": 0,
+      "Time": "14:37"
+    },
+    {
+      "Name": "secret service",
+      "Steam": "76561199850061423",
+      "Score": 31,
       "Time": "??:??"
     },
     {
-      "Name": "Flash4838",
-      "Steam": "76561198883665407",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "lemon",
-      "Steam": "76561198760138673",
-      "Score": 0,
-      "Time": "02:56"
-    },
-    {
-      "Name": "queliston",
-      "Steam": "76561199388964856",
-      "Score": 2,
-      "Time": "07:53"
-    },
-    {
-      "Name": "K1zaru",
-      "Steam": "76561198761251198",
-      "Score": 0,
-      "Time": "04:07"
-    },
-    {
-      "Name": "Arvid",
-      "Steam": "76561198759743621",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Kivesa\uD83D\uDC2C",
-      "Steam": "76561199243944264",
-      "Score": 3,
-      "Time": "??:??"
-    },
-    {
-      "Name": "GodOfWar",
-      "Steam": "76561198765200309",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "x64",
-      "Steam": "76561199848723808",
-      "Score": 2,
-      "Time": "37:44"
+      "Name": "Nixware user",
+      "Steam": "76561199820198006",
+      "Score": 49,
+      "Time": "28:01"
     }
   ]
 }
