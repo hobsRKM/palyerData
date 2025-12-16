@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-16T01:40:40.5021612Z",
+  "Time": "2025-12-16T01:42:40.5144883Z",
   "Players": [
     {
       "Name": "kirkdroid.lua beta user",
       "Steam": "76561199074739149",
-      "Score": 18,
-      "Time": "56:54"
+      "Score": 20,
+      "Time": "58:54"
     },
     {
       "Name": "Nixware",
       "Steam": "76561198775209729",
-      "Score": 31,
-      "Time": "12:26"
+      "Score": 33,
+      "Time": "14:26"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 29,
-      "Time": "671:58"
+      "Score": 39,
+      "Time": "673:58"
     },
     {
       "Name": "SpongeBob",
       "Steam": "76561198759766953",
-      "Score": 2,
-      "Time": "02:51"
+      "Score": 3,
+      "Time": "04:51"
+    },
+    {
+      "Name": "deathbed",
+      "Steam": "76561199761205539",
+      "Score": 6,
+      "Time": "01:49"
     }
   ]
 }
