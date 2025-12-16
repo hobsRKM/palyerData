@@ -1,4 +1,53 @@
 {
-  "Time": "2025-12-16T21:47:15.1712369Z",
-  "Players": []
+  "Time": "2025-12-16T21:47:30.6214335Z",
+  "Players": [
+    {
+      "Name": "pretty despicable",
+      "Steam": "76561198759529726",
+      "Score": 102,
+      "Time": "15:13"
+    },
+    {
+      "Name": "john mc burgerlington",
+      "Steam": "76561198760033756",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LeanGut",
+      "Steam": "76561199476306368",
+      "Score": 54,
+      "Time": "45:03"
+    },
+    {
+      "Name": "sippin' fanta",
+      "Steam": "76561198762577434",
+      "Score": 10,
+      "Time": "03:54"
+    },
+    {
+      "Name": "rust",
+      "Steam": "76561199558146085",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "emu",
+      "Steam": "76561198147102077",
+      "Score": 10,
+      "Time": "01:56"
+    },
+    {
+      "Name": "Brandon",
+      "Steam": "76561198289473124",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Solvyr.exe",
+      "Steam": "76561198760611916",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
