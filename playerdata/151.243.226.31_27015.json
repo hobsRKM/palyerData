@@ -1,41 +1,35 @@
 {
-  "Time": "2025-12-17T18:22:27.8961096Z",
+  "Time": "2025-12-17T18:24:27.8952175Z",
   "Players": [
+    {
+      "Name": "DataWave 02",
+      "Steam": "76561199821033774",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "e",
       "Steam": "76561199822125252",
-      "Score": 131,
-      "Time": "46:10"
+      "Score": 0,
+      "Time": "48:10"
     },
     {
       "Name": "TomYB",
       "Steam": "76561199085968726",
       "Score": 0,
-      "Time": "01:04"
+      "Time": "03:04"
     },
     {
       "Name": "kbwfsxz",
       "Steam": "76561199717612677",
-      "Score": 64,
-      "Time": "57:05"
-    },
-    {
-      "Name": "Alt loves fent",
-      "Steam": "76561199834727236",
-      "Score": 48,
-      "Time": "148:34"
-    },
-    {
-      "Name": "Star lvy (Pro Zoomy®)",
-      "Steam": "76561198872584941",
-      "Score": 54,
-      "Time": "54:59"
+      "Score": 2,
+      "Time": "59:05"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 29,
-      "Time": "131:10"
+      "Score": 4,
+      "Time": "133:10"
     }
   ]
 }
