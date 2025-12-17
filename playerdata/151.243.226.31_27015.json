@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-17T18:04:27.906371Z",
+  "Time": "2025-12-17T18:06:27.9037863Z",
   "Players": [
+    {
+      "Name": "midnight.exe",
+      "Steam": "76561199522394440",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "e",
       "Steam": "76561199822125252",
-      "Score": 69,
-      "Time": "28:10"
+      "Score": 79,
+      "Time": "30:10"
     },
     {
       "Name": "kbwfsxz",
       "Steam": "76561199717612677",
-      "Score": 32,
-      "Time": "39:05"
+      "Score": 42,
+      "Time": "41:05"
     },
     {
       "Name": "Alt loves fent",
       "Steam": "76561199834727236",
-      "Score": 31,
-      "Time": "130:34"
+      "Score": 33,
+      "Time": "132:34"
     },
     {
       "Name": "Star lvy (Pro Zoomy®)",
       "Steam": "76561198872584941",
-      "Score": 29,
-      "Time": "36:59"
+      "Score": 31,
+      "Time": "38:59"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 18,
-      "Time": "113:10"
+      "Score": 20,
+      "Time": "115:10"
     }
   ]
 }
