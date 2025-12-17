@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-17T09:07:38.8858766Z",
+  "Time": "2025-12-17T09:08:10.5552468Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "rawzsfz",
+      "Steam": "76561199508776170",
+      "Score": 6,
+      "Time": "870:42"
+    },
+    {
+      "Name": "Ironic",
+      "Steam": "76561199757503197",
+      "Score": 4,
+      "Time": "02:30"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "las venturas",
-      "Steam": "76561199613550130",
+      "Name": "Schneetaxi420",
+      "Steam": "76561199504441521",
+      "Score": 0,
+      "Time": "07:01"
+    },
+    {
+      "Name": "||AmLOVEBASKETBALL",
+      "Steam": "76561198757910871",
+      "Score": 0,
+      "Time": "07:12"
+    },
+    {
+      "Name": "BROKENIST X 144HZ",
+      "Steam": "76561199650065854",
       "Score": 2,
-      "Time": "22:40"
-    },
-    {
-      "Name": "ciesta botan",
-      "Steam": "76561198853471732",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Smiling",
-      "Steam": "76561199080142510",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "\uD83C\uDF10",
-      "Steam": "76561198772081383",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "07:35"
     }
   ]
 }
