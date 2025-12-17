@@ -1,17 +1,29 @@
 {
-  "Time": "2025-12-17T14:16:27.9060487Z",
+  "Time": "2025-12-17T14:18:27.9112856Z",
   "Players": [
+    {
+      "Name": "E",
+      "Steam": "76561199392730279",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "H",
       "Steam": "76561199823298853",
-      "Score": 40,
-      "Time": "35:33"
+      "Score": 50,
+      "Time": "37:33"
     },
     {
       "Name": "挨打神nixware",
       "Steam": "76561198778813347",
-      "Score": 4,
-      "Time": "08:35"
+      "Score": 6,
+      "Time": "10:35"
+    },
+    {
+      "Name": "senssipapca",
+      "Steam": "76561198794304343",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "TomYB",
@@ -22,68 +34,56 @@
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Omoree",
       "Steam": "76561198767489002",
-      "Score": 22,
-      "Time": "61:41"
-    },
-    {
-      "Name": "Bruhh",
-      "Steam": "76561198791215723",
-      "Score": 32,
-      "Time": "76:50"
+      "Score": 0,
+      "Time": "63:41"
     },
     {
       "Name": "ABCDEFG",
       "Steam": "76561199720405224",
-      "Score": 95,
+      "Score": 97,
       "Time": "??:??"
     },
     {
       "Name": "Alt loves fent",
       "Steam": "76561199834727236",
-      "Score": 72,
-      "Time": "113:36"
+      "Score": 76,
+      "Time": "115:36"
     },
     {
       "Name": "ALAmeri",
       "Steam": "76561198411566992",
-      "Score": 27,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "OG",
       "Steam": "76561198362296452",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Alchemy Hub User",
-      "Steam": "76561199821769259",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Arthur",
       "Steam": "76561198772884947",
-      "Score": 83,
-      "Time": "23:01"
+      "Score": 88,
+      "Time": "25:01"
     },
     {
       "Name": "Kim Il-sung",
       "Steam": "76561199717783206",
-      "Score": 34,
-      "Time": "61:23"
+      "Score": 39,
+      "Time": "63:23"
     },
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 123,
-      "Time": "15:19"
+      "Score": 143,
+      "Time": "17:19"
     }
   ]
 }
