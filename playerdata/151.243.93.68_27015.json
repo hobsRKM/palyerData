@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-18T22:49:32.4125641Z",
-  "Players": []
+  "Time": "2025-12-18T22:49:58.9631396Z",
+  "Players": [
+    {
+      "Name": "kiki",
+      "Steam": "76561199711887613",
+      "Score": 41,
+      "Time": "18:44"
+    },
+    {
+      "Name": "comboss doxbin reaper",
+      "Steam": "76561198183975199",
+      "Score": 40,
+      "Time": "22:02"
+    },
+    {
+      "Name": "GabrielHernández2011",
+      "Steam": "76561199872909206",
+      "Score": 62,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mr. Creamy Peanut",
+      "Steam": "76561199229233111",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jazzer #SAVETF2",
+      "Steam": "76561199154387213",
+      "Score": 18,
+      "Time": "??:??"
+    }
+  ]
 }
