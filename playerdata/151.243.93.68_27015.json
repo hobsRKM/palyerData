@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-18T11:27:15.4681248Z",
-  "Players": []
+  "Time": "2025-12-18T11:27:20.3027602Z",
+  "Players": [
+    {
+      "Name": "goob",
+      "Steam": "76561199236019226",
+      "Score": 55,
+      "Time": "17:19"
+    },
+    {
+      "Name": "hrmny",
+      "Steam": "76561199841075039",
+      "Score": 69,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561199525060285",
+      "Score": 65,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Solidas Condolencias",
+      "Steam": "76561198775842250",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "All I Play Is Cs",
+      "Steam": "76561198914498191",
+      "Score": 17,
+      "Time": "??:??"
+    }
+  ]
 }
