@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-18T22:15:32.4028264Z",
-  "Players": []
+  "Time": "2025-12-18T22:15:58.9655093Z",
+  "Players": [
+    {
+      "Name": "kiki",
+      "Steam": "76561199711887613",
+      "Score": 22,
+      "Time": "11:18"
+    },
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Plug Walk Drew",
+      "Steam": "76561199560641528",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Quin",
+      "Steam": "76561199847868570",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GabrielHernández2011",
+      "Steam": "76561199872909206",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "w key",
+      "Steam": "76561198054352379",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
