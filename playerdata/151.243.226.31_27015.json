@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-18T11:20:21.1969287Z",
+  "Time": "2025-12-18T11:22:21.184555Z",
   "Players": [
+    {
+      "Name": "Omoree",
+      "Steam": "76561198767489002",
+      "Score": 0,
+      "Time": "00:19"
+    },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 5,
-      "Time": "03:42"
+      "Score": 6,
+      "Time": "05:42"
     },
     {
       "Name": "Nice Shot",
       "Steam": "76561198766502780",
       "Score": 0,
-      "Time": "05:58"
+      "Time": "07:58"
     },
     {
       "Name": "Carrier",
       "Steam": "76561198775209729",
-      "Score": 43,
-      "Time": "11:27"
+      "Score": 45,
+      "Time": "13:27"
     },
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 48,
-      "Time": "27:30"
+      "Score": 66,
+      "Time": "29:30"
     },
     {
       "Name": "外挂卡网：88.2a2a.top 群",
@@ -34,19 +40,19 @@
     {
       "Name": "Yyeclax",
       "Steam": "76561199804415761",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Tell Me Why???",
       "Steam": "76561199557856957",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
