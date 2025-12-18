@@ -1,4 +1,29 @@
 {
-  "Time": "2025-12-18T23:29:32.4140448Z",
-  "Players": []
+  "Time": "2025-12-18T23:29:58.9783225Z",
+  "Players": [
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 88,
+      "Time": "29:22"
+    },
+    {
+      "Name": "Mr. Creamy Peanut",
+      "Steam": "76561199229233111",
+      "Score": 51,
+      "Time": "??:??"
+    },
+    {
+      "Name": "stik",
+      "Steam": "76561198772709108",
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pusheaxret",
+      "Steam": "76561198782287736",
+      "Score": 11,
+      "Time": "??:??"
+    }
+  ]
 }
