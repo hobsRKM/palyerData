@@ -1,52 +1,70 @@
 {
-  "Time": "2025-12-18T08:52:21.1944251Z",
+  "Time": "2025-12-18T08:54:21.1968301Z",
   "Players": [
+    {
+      "Name": "Omoree",
+      "Steam": "76561198767489002",
+      "Score": 2,
+      "Time": "01:41"
+    },
     {
       "Name": "64",
       "Steam": "76561199711015858",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 0,
-      "Time": "01:51"
+      "Score": 2,
+      "Time": "03:51"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
       "Score": 0,
-      "Time": "62:46"
+      "Time": "64:46"
+    },
+    {
+      "Name": "言玖",
+      "Steam": "76561198841910814",
+      "Score": 8,
+      "Time": "01:19"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
       "Score": 0,
-      "Time": "00:38"
+      "Time": "02:38"
     },
     {
       "Name": "Arthur",
       "Steam": "76561198772884947",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "DADA 77",
+      "Steam": "76561198778455365",
+      "Score": 0,
+      "Time": "01:55"
     },
     {
       "Name": "Alt loves fent",
       "Steam": "76561199834727236",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Зять-некуй взять",
       "Steam": "76561199201953425",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "nevershoot",
       "Steam": "76561199717612677",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -58,13 +76,13 @@
     {
       "Name": "ZzzzZzzz",
       "Steam": "76561198219469781",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Carrier",
       "Steam": "76561198775209729",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
