@@ -1,23 +1,41 @@
 {
-  "Time": "2025-12-18T14:50:24.3330069Z",
+  "Time": "2025-12-18T14:51:20.1537485Z",
   "Players": [
     {
-      "Name": "Crazy Lama",
-      "Steam": "76561198792379558",
-      "Score": 4,
+      "Name": "Dihydrocodein",
+      "Steam": "76561198250109980",
+      "Score": 14,
+      "Time": "12:02"
+    },
+    {
+      "Name": "HM",
+      "Steam": "76561198772001377",
+      "Score": 65,
       "Time": "??:??"
     },
     {
-      "Name": "impresa",
-      "Steam": "76561198759728115",
-      "Score": 10,
-      "Time": "??:??"
+      "Name": "SchluchtenScheißer",
+      "Steam": "76561198930127692",
+      "Score": 16,
+      "Time": "17:43"
     },
     {
-      "Name": "Shao Leng Leng",
-      "Steam": "76561199603245807",
-      "Score": 6,
-      "Time": "??:??"
+      "Name": "Mahmoud's Kebab Shop",
+      "Steam": "76561199105830408",
+      "Score": 79,
+      "Time": "22:40"
+    },
+    {
+      "Name": "cake",
+      "Steam": "76561199874806273",
+      "Score": 2,
+      "Time": "07:33"
+    },
+    {
+      "Name": "mafiq",
+      "Steam": "76561199171127041",
+      "Score": 46,
+      "Time": "889:46"
     }
   ]
 }
