@@ -1,4 +1,29 @@
 {
-  "Time": "2025-12-18T00:06:23.4204986Z",
-  "Players": []
+  "Time": "2025-12-18T00:06:31.2213252Z",
+  "Players": [
+    {
+      "Name": "Neo",
+      "Steam": "76561199201440406",
+      "Score": 44,
+      "Time": "155:53"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 0,
+      "Time": "128:08"
+    },
+    {
+      "Name": "Starline Connoisseur",
+      "Steam": "76561199876078574",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "retarded newgen",
+      "Steam": "76561198785874413",
+      "Score": 30,
+      "Time": "??:??"
+    }
+  ]
 }
