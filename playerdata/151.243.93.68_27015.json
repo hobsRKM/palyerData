@@ -1,4 +1,29 @@
 {
-  "Time": "2025-12-19T20:01:15.5246657Z",
-  "Players": []
+  "Time": "2025-12-19T20:02:07.9191331Z",
+  "Players": [
+    {
+      "Name": "high speed",
+      "Steam": "76561198756626989",
+      "Score": 43,
+      "Time": "46:10"
+    },
+    {
+      "Name": "Officer BuzzBall",
+      "Steam": "76561198396926179",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 103,
+      "Time": "63:51"
+    },
+    {
+      "Name": "banned",
+      "Steam": "76561199550875109",
+      "Score": 88,
+      "Time": "??:??"
+    }
+  ]
 }
