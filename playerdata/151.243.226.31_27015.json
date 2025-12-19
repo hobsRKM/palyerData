@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-19T02:13:37.8817468Z",
+  "Time": "2025-12-19T02:15:37.8816753Z",
   "Players": [
     {
       "Name": "s 1 m p l e",
       "Steam": "76561198848960112",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Carrier",
       "Steam": "76561198775209729",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "nullptr_t",
       "Steam": "76561198766056255",
-      "Score": 4,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Exploding Heads",
+      "Steam": "76561198766922230",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
