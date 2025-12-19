@@ -1,5 +1,5 @@
 {
-  "Time": "2025-12-19T23:04:22.3401809Z",
+  "Time": "2025-12-19T23:06:22.3419732Z",
   "Players": [
     {
       "Name": "llm",
@@ -10,68 +10,74 @@
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 83,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "LilTroy The Jewel Dropp’r",
       "Steam": "76561199050170734",
-      "Score": 16,
-      "Time": "04:37"
+      "Score": 18,
+      "Time": "06:37"
     },
     {
       "Name": "67",
       "Steam": "76561199442363655",
-      "Score": 86,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "ronny is tight",
       "Steam": "76561199821597360",
-      "Score": 69,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "me mum",
       "Steam": "76561198992148678",
-      "Score": 92,
-      "Time": "23:01"
+      "Score": 99,
+      "Time": "25:01"
     },
     {
       "Name": "BWAHHHHH",
       "Steam": "76561199550875109",
-      "Score": 53,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "External",
-      "Steam": "76561198973753658",
       "Score": 5,
-      "Time": "11:45"
+      "Time": "??:??"
     },
     {
       "Name": "goob",
       "Steam": "76561199236019226",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "chez",
       "Steam": "76561198273566562",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "elephant",
       "Steam": "76561199551553809",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Unknown Player",
+      "Steam": "76561199590377764",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "the hat",
+      "Steam": "76561199041753106",
+      "Score": 0,
+      "Time": "04:33"
     }
   ]
 }
