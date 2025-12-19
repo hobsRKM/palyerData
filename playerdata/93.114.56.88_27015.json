@@ -1,41 +1,59 @@
 {
-  "Time": "2025-12-19T19:27:00.3389916Z",
+  "Time": "2025-12-19T19:27:23.0819593Z",
   "Players": [
     {
-      "Name": "kfc sokeg",
-      "Steam": "76561198786319361",
+      "Name": "Starr",
+      "Steam": "76561198766427169",
+      "Score": 19,
+      "Time": "185:20"
+    },
+    {
+      "Name": "Max Verstappen",
+      "Steam": "76561198771000157",
       "Score": 0,
-      "Time": "00:19"
+      "Time": "479:53"
     },
     {
-      "Name": "mimishka",
-      "Steam": "76561198774953782",
-      "Score": 31,
-      "Time": "41:08"
-    },
-    {
-      "Name": "1 botikkk",
-      "Steam": "76561198765539657",
-      "Score": 54,
-      "Time": "24:29"
-    },
-    {
-      "Name": "kim kardashian",
-      "Steam": "76561198756669583",
-      "Score": 20,
+      "Name": "Snowzzy",
+      "Steam": "76561198765473539",
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "arisen",
-      "Steam": "76561199460374443",
-      "Score": 22,
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Nixware user",
-      "Steam": "76561199820198006",
-      "Score": 54,
+      "Name": "kocham duske1337",
+      "Steam": "76561198758534558",
+      "Score": 12,
+      "Time": "181:04"
+    },
+    {
+      "Name": "Волк с лузстрит",
+      "Steam": "76561199597561430",
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "cake",
+      "Steam": "76561199874806273",
+      "Score": 11,
+      "Time": "326:24"
+    },
+    {
+      "Name": "Lugdush",
+      "Steam": "76561199074920843",
+      "Score": 10,
+      "Time": "174:37"
+    },
+    {
+      "Name": "ferox",
+      "Steam": "76561199377440484",
+      "Score": 2,
+      "Time": "00:22"
     }
   ]
 }
