@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-19T14:15:00.3377097Z",
-  "Players": []
+  "Time": "2025-12-19T14:15:20.3840521Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "The Holy Spirit",
+      "Steam": "76561199847532948",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aut be pdf.file",
+      "Steam": "76561199608478209",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mango",
+      "Steam": "76561199019981304",
+      "Score": 44,
+      "Time": "09:23"
+    },
+    {
+      "Name": "pety / dualipa",
+      "Steam": "76561198894164178",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
