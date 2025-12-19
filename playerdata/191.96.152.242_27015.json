@@ -1,10 +1,16 @@
 {
-  "Time": "2025-12-19T06:00:55.8247845Z",
+  "Time": "2025-12-19T06:02:55.8157553Z",
   "Players": [
+    {
+      "Name": "mommys slave",
+      "Steam": "76561199678608838",
+      "Score": 0,
+      "Time": "00:52"
+    },
     {
       "Name": "FatherDavidMoss",
       "Steam": "76561198763035737",
-      "Score": 16,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -16,7 +22,7 @@
     {
       "Name": "debrismuncher",
       "Steam": "76561198757473331",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
