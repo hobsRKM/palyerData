@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-19T18:34:45.033561Z",
+  "Time": "2025-12-19T18:36:45.0254068Z",
   "Players": [
+    {
+      "Name": "keiii",
+      "Steam": "76561199113967944",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "windows",
       "Steam": "76561198757045752",
-      "Score": 18,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 21,
-      "Time": "55:01"
+      "Score": 29,
+      "Time": "57:01"
     },
     {
       "Name": "get good",
@@ -22,38 +28,38 @@
     {
       "Name": "Alt loves fent",
       "Steam": "76561199834727236",
-      "Score": 29,
-      "Time": "296:08"
+      "Score": 30,
+      "Time": "298:07"
     },
     {
       "Name": "✡⃤⛴☁",
       "Steam": "76561199060922164",
-      "Score": 30,
-      "Time": "83:12"
+      "Score": 36,
+      "Time": "85:12"
     },
     {
       "Name": "ALAmeri",
       "Steam": "76561198411566992",
-      "Score": 29,
-      "Time": "39:41"
+      "Score": 33,
+      "Time": "41:41"
     },
     {
       "Name": "Dozy",
       "Steam": "76561199761205539",
-      "Score": 0,
-      "Time": "01:43"
+      "Score": 4,
+      "Time": "03:43"
     },
     {
       "Name": "BEST \uD83D\uDE01",
       "Steam": "76561198786904680",
-      "Score": 78,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
       "Score": 36,
-      "Time": "48:22"
+      "Time": "50:22"
     }
   ]
 }
