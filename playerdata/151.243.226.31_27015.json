@@ -1,6 +1,12 @@
 {
-  "Time": "2025-12-19T16:18:45.0199498Z",
+  "Time": "2025-12-19T16:20:45.022794Z",
   "Players": [
+    {
+      "Name": "plgmisses",
+      "Steam": "76561199717612677",
+      "Score": 75,
+      "Time": "00:48"
+    },
     {
       "Name": "✪ Night",
       "Steam": "76561198759815705",
@@ -10,32 +16,26 @@
     {
       "Name": "Arthur",
       "Steam": "76561198772884947",
-      "Score": 121,
-      "Time": "144:01"
+      "Score": 127,
+      "Time": "146:01"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 28,
-      "Time": "14:49"
+      "Score": 38,
+      "Time": "16:49"
     },
     {
       "Name": "Alt loves fent",
       "Steam": "76561199834727236",
-      "Score": 82,
-      "Time": "160:07"
+      "Score": 85,
+      "Time": "162:07"
     },
     {
       "Name": "Tell Me Why???",
       "Steam": "76561199557856957",
-      "Score": 15,
-      "Time": "126:13"
-    },
-    {
-      "Name": "plushhack",
-      "Steam": "76561198844155000",
-      "Score": 94,
-      "Time": "00:38"
+      "Score": 17,
+      "Time": "128:13"
     }
   ]
 }
