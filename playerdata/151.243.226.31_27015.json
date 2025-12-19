@@ -1,52 +1,52 @@
 {
-  "Time": "2025-12-19T15:34:45.0237465Z",
+  "Time": "2025-12-19T15:36:45.020867Z",
   "Players": [
+    {
+      "Name": "plgmisses",
+      "Steam": "76561199717612677",
+      "Score": 0,
+      "Time": "00:05"
+    },
     {
       "Name": "howlhack",
       "Steam": "76561198983792841",
-      "Score": 91,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "Arthur",
       "Steam": "76561198772884947",
-      "Score": 102,
-      "Time": "100:01"
+      "Score": 104,
+      "Time": "102:01"
     },
     {
       "Name": "Alt loves fent",
       "Steam": "76561199834727236",
-      "Score": 33,
-      "Time": "116:07"
+      "Score": 39,
+      "Time": "118:07"
     },
     {
       "Name": "Tell Me Why???",
       "Steam": "76561199557856957",
       "Score": 49,
-      "Time": "82:13"
+      "Time": "84:13"
     },
     {
       "Name": "JFF THE LAND SHARK",
       "Steam": "76561198774315242",
-      "Score": 57,
-      "Time": "113:30"
+      "Score": 59,
+      "Time": "115:30"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 157,
-      "Time": "79:24"
-    },
-    {
-      "Name": "freya",
-      "Steam": "76561199229682369",
-      "Score": 13,
-      "Time": "??:??"
+      "Score": 163,
+      "Time": "81:24"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 93,
+      "Score": 97,
       "Time": "??:??"
     }
   ]
