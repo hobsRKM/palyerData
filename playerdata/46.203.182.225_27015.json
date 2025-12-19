@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-19T13:06:15.6385166Z",
+  "Time": "2025-12-19T13:08:15.6472304Z",
   "Players": [
     {
       "Name": "1",
       "Steam": "76561198762146353",
-      "Score": 17,
-      "Time": "35:00"
+      "Score": 19,
+      "Time": "37:00"
     },
     {
       "Name": "ciesta botan",
       "Steam": "76561198853471732",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Stasyxcan",
       "Steam": "76561199228294700",
       "Score": 2,
-      "Time": "38:43"
+      "Time": "40:43"
     },
     {
       "Name": "Enes baturun ağacı",
       "Steam": "76561199757774659",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "X",
+      "Steam": "76561198767901784",
+      "Score": 2,
+      "Time": "01:18"
     }
   ]
 }
