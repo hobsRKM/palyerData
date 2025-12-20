@@ -1,28 +1,46 @@
 {
-  "Time": "2025-12-20T13:48:01.688308Z",
+  "Time": "2025-12-20T13:48:26.8594576Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "St0rm",
+      "Steam": "76561199819784349",
+      "Score": 17,
+      "Time": "21:33"
+    },
+    {
+      "Name": "ga CAT",
+      "Steam": "76561199516412968",
       "Score": 0,
+      "Time": "04:33"
+    },
+    {
+      "Name": "Pibble Rustyloot",
+      "Steam": "76561199498480798",
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "Mlutty",
-      "Steam": "76561199877285218",
-      "Score": 14,
+      "Name": "polski_morcik",
+      "Steam": "76561199891084411",
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "kanaa",
-      "Steam": "76561199365905587",
-      "Score": 26,
+      "Name": "Aimstars",
+      "Steam": "76561199885893585",
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "memesen luh_geeked",
-      "Steam": "76561198780060093",
-      "Score": 18,
+      "Name": "dima_wallhacks",
+      "Steam": "76561198877613778",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jake",
+      "Steam": "76561199484806832",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
