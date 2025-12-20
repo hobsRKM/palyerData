@@ -1,16 +1,70 @@
 {
-  "Time": "2025-12-20T13:28:01.6855328Z",
+  "Time": "2025-12-20T13:28:26.8677167Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "xoxo",
+      "Steam": "76561199590377764",
+      "Score": 2,
+      "Time": "12:08"
+    },
+    {
+      "Name": "St0rm",
+      "Steam": "76561199819784349",
       "Score": 0,
+      "Time": "01:33"
+    },
+    {
+      "Name": "Azrael",
+      "Steam": "76561199151228814",
+      "Score": 42,
+      "Time": "10:02"
+    },
+    {
+      "Name": "C0BRA#4",
+      "Steam": "76561199684861708",
+      "Score": 38,
+      "Time": "30:04"
+    },
+    {
+      "Name": "Pibble Rustyloot",
+      "Steam": "76561199498480798",
+      "Score": 42,
       "Time": "??:??"
     },
     {
-      "Name": "Mlutty",
-      "Steam": "76561199877285218",
-      "Score": 0,
+      "Name": "Meow Meow",
+      "Steam": "76561199828015418",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatal polski_morcik",
+      "Steam": "76561199891084411",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kivesa\uD83D\uDC2C",
+      "Steam": "76561199243944264",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Shmunk",
+      "Steam": "76561199027006594",
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Aimstars",
+      "Steam": "76561199885893585",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kit",
+      "Steam": "76561198419854940",
+      "Score": 8,
       "Time": "??:??"
     }
   ]
