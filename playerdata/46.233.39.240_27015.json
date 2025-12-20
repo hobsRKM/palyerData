@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-20T13:48:05.0861336Z",
+  "Time": "2025-12-20T13:50:05.0705622Z",
   "Players": [
     {
       "Name": "Raspberry Freeze",
       "Steam": "76561198756556743",
-      "Score": 0,
-      "Time": "01:58"
+      "Score": 10,
+      "Time": "03:58"
     },
     {
       "Name": "Felix",
       "Steam": "76561198759706570",
-      "Score": 42,
-      "Time": "31:24"
+      "Score": 46,
+      "Time": "33:24"
     },
     {
       "Name": "Watermelon Freeze",
       "Steam": "76561198759941872",
-      "Score": 20,
-      "Time": "34:09"
+      "Score": 22,
+      "Time": "36:09"
+    },
+    {
+      "Name": "N1pple",
+      "Steam": "76561199320961156",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
