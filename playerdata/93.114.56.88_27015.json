@@ -1,34 +1,28 @@
 {
-  "Time": "2025-12-20T15:02:01.6878366Z",
+  "Time": "2025-12-20T15:02:26.8569465Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "Hush",
+      "Steam": "76561199890049005",
+      "Score": 28,
+      "Time": "27:44"
+    },
+    {
+      "Name": "Arvid",
+      "Steam": "76561198759743621",
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "roflzakura",
+      "Steam": "76561199799520489",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "MathisS SKINS",
-      "Steam": "76561199079985538",
-      "Score": 49,
-      "Time": "??:??"
-    },
-    {
-      "Name": "hgr7rxj",
-      "Steam": "76561198758510292",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "sense           John Long",
-      "Steam": "76561199049761310",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Meow Meow",
-      "Steam": "76561199828015418",
-      "Score": 6,
+      "Name": "spirrow",
+      "Steam": "76561199664676770",
+      "Score": 12,
       "Time": "??:??"
     }
   ]
