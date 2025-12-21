@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-21T22:12:20.3957151Z",
+  "Time": "2025-12-21T22:14:20.3890002Z",
   "Players": [
+    {
+      "Name": "Faith",
+      "Steam": "76561199783203575",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "mainmsty",
       "Steam": "76561198763839550",
-      "Score": 2,
-      "Time": "05:39"
+      "Score": 3,
+      "Time": "07:39"
     },
     {
       "Name": "funyun munyun",
       "Steam": "76561199678608838",
-      "Score": 63,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "Dripler88",
       "Steam": "76561198901575526",
-      "Score": 34,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "Heng1337",
       "Steam": "76561199711700574",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "gingerbreadman102 (jolly)",
       "Steam": "76561198791541733",
-      "Score": 36,
-      "Time": "31:40"
+      "Score": 44,
+      "Time": "33:40"
     }
   ]
 }
