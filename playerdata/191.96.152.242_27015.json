@@ -1,28 +1,34 @@
 {
-  "Time": "2025-12-21T23:00:20.3998113Z",
+  "Time": "2025-12-21T23:02:20.3952776Z",
   "Players": [
+    {
+      "Name": "0x6a6179",
+      "Steam": "76561198758593147",
+      "Score": 2,
+      "Time": "01:43"
+    },
     {
       "Name": "////////////////////////////",
       "Steam": "76561199655883528",
-      "Score": 138,
-      "Time": "33:33"
+      "Score": 146,
+      "Time": "35:33"
     },
     {
       "Name": "Chiwu",
       "Steam": "76561198755984587",
-      "Score": 34,
-      "Time": "21:08"
+      "Score": 36,
+      "Time": "23:08"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 71,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "rasintdallamac",
       "Steam": "76561198781830595",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -34,31 +40,25 @@
     {
       "Name": "MIKEEEEEEE",
       "Steam": "76561198765116538",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "\uD834\uDD03\uD834\uDD02\uD834\uDD00\uD834\uDD01\uD834\uDD03\uD834\uDD02",
       "Steam": "76561199562186125",
-      "Score": 0,
-      "Time": "13:07"
-    },
-    {
-      "Name": "kemy",
-      "Steam": "76561198074792700",
       "Score": 4,
-      "Time": "40:43"
+      "Time": "15:07"
     },
     {
       "Name": "conspicuous",
       "Steam": "76561198031625589",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "L’homme recherché",
       "Steam": "76561198179626582",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
