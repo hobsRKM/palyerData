@@ -1,10 +1,16 @@
 {
-  "Time": "2025-12-21T03:24:23.1754667Z",
+  "Time": "2025-12-21T03:26:23.172447Z",
   "Players": [
     {
       "Name": "Mr. Creamy Peanut",
       "Steam": "76561199229233111",
-      "Score": 35,
+      "Score": 41,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -16,44 +22,38 @@
     {
       "Name": "Smurf",
       "Steam": "76561198755984587",
-      "Score": 2,
-      "Time": "04:16"
+      "Score": 6,
+      "Time": "06:16"
     },
     {
       "Name": "K",
       "Steam": "76561198758462926",
-      "Score": 68,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "Agnes Digital",
       "Steam": "76561198758261166",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "360",
       "Steam": "76561198791673624",
-      "Score": 67,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Toxiss.",
-      "Steam": "76561198127608052",
-      "Score": 82,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 46,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "Dripler88",
       "Steam": "76561198901575526",
-      "Score": 26,
-      "Time": "22:36"
+      "Score": 33,
+      "Time": "24:36"
     }
   ]
 }
