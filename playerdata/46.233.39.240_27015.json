@@ -1,16 +1,22 @@
 {
-  "Time": "2025-12-21T05:06:28.0156363Z",
+  "Time": "2025-12-21T05:08:28.0198948Z",
   "Players": [
     {
       "Name": "screwdriver",
       "Steam": "76561198284906238",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Felix",
       "Steam": "76561198759706570",
-      "Score": 14,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "christiansburg",
+      "Steam": "76561198245268520",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
