@@ -1,16 +1,22 @@
 {
-  "Time": "2025-12-22T11:40:23.3113171Z",
+  "Time": "2025-12-22T11:42:23.3106286Z",
   "Players": [
+    {
+      "Name": "язаБудду",
+      "Steam": "76561198274325509",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": ".",
       "Steam": "76561198787609237",
       "Score": 0,
-      "Time": "02:42"
+      "Time": "04:42"
     },
     {
-      "Name": "e.luaradianc cranberries",
+      "Name": "radiance.lua cranberries",
       "Steam": "76561199809447264",
-      "Score": 10,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
