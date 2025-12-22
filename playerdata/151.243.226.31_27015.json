@@ -1,47 +1,47 @@
 {
-  "Time": "2025-12-22T14:13:13.5404775Z",
+  "Time": "2025-12-22T14:15:13.5441363Z",
   "Players": [
     {
       "Name": "Allen0419",
       "Steam": "76561199817087739",
+      "Score": 10,
+      "Time": "51:44"
+    },
+    {
+      "Name": "HEHEHEHA",
+      "Steam": "76561199848551825",
       "Score": 0,
-      "Time": "49:44"
+      "Time": "??:??"
     },
     {
       "Name": "?????",
       "Steam": "76561199865563018",
       "Score": 0,
-      "Time": "47:55"
+      "Time": "49:55"
     },
     {
       "Name": "Carrier",
       "Steam": "76561198775209729",
-      "Score": 0,
-      "Time": "49:16"
-    },
-    {
-      "Name": "lylaa",
-      "Steam": "76561199783489133",
-      "Score": 0,
-      "Time": "56:13"
+      "Score": 3,
+      "Time": "51:16"
     },
     {
       "Name": "Arthur",
       "Steam": "76561198772884947",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "4lpacaLoL V3",
       "Steam": "76561199822315115",
       "Score": 0,
-      "Time": "31:20"
+      "Time": "33:20"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 0,
-      "Time": "02:44"
+      "Score": 2,
+      "Time": "04:44"
     },
     {
       "Name": "\uD835\uDE41\uD835\uDE67\uD835\uDE56\uD835\uDE63\uD835\uDE60\uD835\uDE6E\uD835\uDE6E",
@@ -52,8 +52,14 @@
     {
       "Name": "jalil_hacker19",
       "Steam": "76561198983792841",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "Pe3kuu_TIapeHek",
+      "Steam": "76561199798484842",
+      "Score": 0,
+      "Time": "00:47"
     }
   ]
 }
