@@ -1,53 +1,41 @@
 {
-  "Time": "2025-12-22T15:32:42.998439Z",
+  "Time": "2025-12-22T15:34:03.2455119Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Renegade Raider",
+      "Steam": "76561199125795754",
       "Score": 0,
+      "Time": "00:12"
+    },
+    {
+      "Name": "flickz",
+      "Steam": "76561198871230555",
+      "Score": 77,
       "Time": "??:??"
     },
     {
-      "Name": "Bogdanuq",
-      "Steam": "76561199550122482",
+      "Name": "majin [Bot]",
+      "Steam": "76561199016518335",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "02:56"
     },
     {
-      "Name": "kufkuf",
-      "Steam": "76561198770832105",
-      "Score": 19,
-      "Time": "??:??"
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 24,
+      "Time": "1128:51"
     },
     {
-      "Name": "Thuxx",
-      "Steam": "76561199495521816",
-      "Score": 47,
-      "Time": "1044:52"
-    },
-    {
-      "Name": "paw",
-      "Steam": "76561199822757102",
-      "Score": 11,
-      "Time": "??:??"
-    },
-    {
-      "Name": "/Plague.cc/",
-      "Steam": "76561199449394910",
-      "Score": 13,
-      "Time": "1344:30"
-    },
-    {
-      "Name": "life enjoyer",
-      "Steam": "76561199590377764",
+      "Name": "S I L E N C E",
+      "Steam": "76561199167348716",
       "Score": 56,
-      "Time": "1364:06"
+      "Time": "879:38"
     },
     {
-      "Name": "\uD835\uDFD2\uD835\uDFD6",
-      "Steam": "76561198762114318",
-      "Score": 40,
-      "Time": "??:??"
+      "Name": "Projectile_Vektus",
+      "Steam": "76561199808810340",
+      "Score": 0,
+      "Time": "1445:03"
     }
   ]
 }
