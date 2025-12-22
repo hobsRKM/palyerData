@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-22T08:50:19.4937039Z",
-  "Players": []
+  "Time": "2025-12-22T08:50:36.5419698Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aimware.ne johnny <3",
+      "Steam": "76561199177348784",
+      "Score": 57,
+      "Time": "12:43"
+    },
+    {
+      "Name": "kr1pima",
+      "Steam": "76561199769455129",
+      "Score": 22,
+      "Time": "12:34"
+    },
+    {
+      "Name": "Pibble Rustyloot",
+      "Steam": "76561199498480798",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "blurp",
+      "Steam": "76561198849685336",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
