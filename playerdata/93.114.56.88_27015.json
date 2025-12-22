@@ -1,53 +1,35 @@
 {
-  "Time": "2025-12-22T15:36:43.9795377Z",
+  "Time": "2025-12-22T15:38:04.2276598Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "flickz",
+      "Steam": "76561198871230555",
+      "Score": 85,
+      "Time": "??:??"
+    },
+    {
+      "Name": "majin [Bot]",
+      "Steam": "76561199016518335",
+      "Score": 6,
+      "Time": "06:57"
+    },
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 41,
+      "Time": "1132:52"
+    },
+    {
+      "Name": "mima52crystal",
+      "Steam": "76561198757536551",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "1406:00"
     },
     {
-      "Name": "synq",
-      "Steam": "76561198967672425",
-      "Score": 0,
-      "Time": "868:35"
-    },
-    {
-      "Name": "Bogdanuq",
-      "Steam": "76561199550122482",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "misterfister",
-      "Steam": "76561199273744791",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Thuxx",
-      "Steam": "76561199495521816",
-      "Score": 53,
-      "Time": "1048:53"
-    },
-    {
-      "Name": "/Plague.cc/",
-      "Steam": "76561199449394910",
-      "Score": 19,
-      "Time": "1348:31"
-    },
-    {
-      "Name": "life enjoyer",
-      "Steam": "76561199590377764",
-      "Score": 64,
-      "Time": "1368:07"
-    },
-    {
-      "Name": "\uD835\uDFD2\uD835\uDFD6",
-      "Steam": "76561198762114318",
-      "Score": 50,
-      "Time": "??:??"
+      "Name": "S I L E N C E",
+      "Steam": "76561199167348716",
+      "Score": 72,
+      "Time": "883:39"
     }
   ]
 }
