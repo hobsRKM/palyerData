@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-22T03:04:31.1313627Z",
-  "Players": []
+  "Time": "2025-12-22T03:05:41.589418Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "/Plague.cc/",
+      "Steam": "76561199449394910",
+      "Score": 19,
+      "Time": "179:58"
+    },
+    {
+      "Name": "neverlose frajer",
+      "Steam": "76561198771000157",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Shao Leng Leng",
+      "Steam": "76561199603245807",
+      "Score": 6,
+      "Time": "131:32"
+    },
+    {
+      "Name": "frajer",
+      "Steam": "76561198761932696",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
