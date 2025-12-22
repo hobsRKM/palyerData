@@ -1,6 +1,12 @@
 {
-  "Time": "2025-12-22T02:48:20.3975877Z",
+  "Time": "2025-12-22T02:50:20.3939327Z",
   "Players": [
+    {
+      "Name": "voxlis",
+      "Steam": "76561198763517260",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "gcat04125",
       "Steam": "76561198757745593",
@@ -10,31 +16,37 @@
     {
       "Name": "shut up",
       "Steam": "76561198758462926",
-      "Score": 63,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "funyun munyun",
       "Steam": "76561199678608838",
-      "Score": 80,
-      "Time": "55:25"
+      "Score": 88,
+      "Time": "57:25"
     },
     {
       "Name": "rasintdallamac",
       "Steam": "76561198781830595",
-      "Score": 25,
-      "Time": "51:39"
+      "Score": 29,
+      "Time": "53:39"
     },
     {
       "Name": "revenant",
       "Steam": "76561198759862027",
-      "Score": 67,
-      "Time": "19:44"
+      "Score": 77,
+      "Time": "21:44"
+    },
+    {
+      "Name": "Agnes Digital",
+      "Steam": "76561198758261166",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "yuricatgirls",
       "Steam": "76561198791673624",
-      "Score": 26,
+      "Score": 29,
       "Time": "??:??"
     }
   ]
