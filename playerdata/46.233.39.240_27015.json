@@ -1,34 +1,46 @@
 {
-  "Time": "2025-12-22T08:58:28.6850736Z",
+  "Time": "2025-12-22T09:00:28.672666Z",
   "Players": [
     {
       "Name": "riley",
       "Steam": "76561199866652415",
       "Score": 24,
-      "Time": "124:43"
+      "Time": "126:43"
     },
     {
       "Name": "darren",
       "Steam": "76561199033651671",
-      "Score": 31,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "screwdriver",
       "Steam": "76561198284906238",
-      "Score": 33,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "gaminggenius2012",
       "Steam": "76561198170202181",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "christiansburg",
       "Steam": "76561198245268520",
-      "Score": 8,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "@@",
+      "Steam": "76561198257745143",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "faceit_sxnd",
+      "Steam": "76561198782377449",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
