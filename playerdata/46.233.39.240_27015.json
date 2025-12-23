@@ -1,4 +1,29 @@
 {
-  "Time": "2025-12-23T17:28:43.7888385Z",
-  "Players": []
+  "Time": "2025-12-23T17:30:43.787869Z",
+  "Players": [
+    {
+      "Name": "G-Man",
+      "Steam": "76561198755601571",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "the cat is over there",
+      "Steam": "76561199848848720",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gordon Freeman",
+      "Steam": "76561199571677660",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561199818472808",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
