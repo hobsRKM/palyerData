@@ -1,40 +1,52 @@
 {
-  "Time": "2025-12-23T19:04:08.0809942Z",
+  "Time": "2025-12-23T19:04:19.0274978Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "Azrael",
+      "Steam": "76561198758554538",
+      "Score": 40,
+      "Time": "11:58"
+    },
+    {
+      "Name": "Azrael",
+      "Steam": "76561199151228814",
+      "Score": 82,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fat MitRO",
+      "Steam": "76561198794087367",
+      "Score": 60,
+      "Time": "02:06"
+    },
+    {
+      "Name": "[Monolith] ScommerOfc",
+      "Steam": "76561199816841149",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Rick",
-      "Steam": "76561199050470003",
-      "Score": 0,
-      "Time": "00:12"
-    },
-    {
-      "Name": "Bean_",
-      "Steam": "76561199096646407",
-      "Score": 17,
+      "Name": "Sirus",
+      "Steam": "76561199822791181",
+      "Score": 26,
       "Time": "??:??"
     },
     {
-      "Name": "Esdeekid",
-      "Steam": "76561199880065297",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "xurv",
-      "Steam": "76561198786879012",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "we have artem's dick's",
-      "Steam": "76561198769354847",
+      "Name": "Michael Jackson",
+      "Steam": "76561198761692998",
       "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Aimstars",
+      "Steam": "76561199885893585",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗUgy",
+      "Steam": "76561198274193245",
+      "Score": 7,
       "Time": "??:??"
     }
   ]
