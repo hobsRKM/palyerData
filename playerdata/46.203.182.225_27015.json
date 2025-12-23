@@ -1,34 +1,40 @@
 {
-  "Time": "2025-12-23T16:58:58.8332429Z",
+  "Time": "2025-12-23T17:00:58.8345149Z",
   "Players": [
+    {
+      "Name": "x",
+      "Steam": "76561198770541566",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "okşa lambayı",
       "Steam": "76561198274351483",
-      "Score": 4,
-      "Time": "12:23"
+      "Score": 0,
+      "Time": "14:23"
     },
     {
       "Name": "balbazar nejdet",
       "Steam": "76561199827372895",
-      "Score": 31,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "frosty",
       "Steam": "76561198391889085",
-      "Score": 12,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "snaxes",
       "Steam": "76561199781198897",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "lvbelc5",
       "Steam": "76561199822934930",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
