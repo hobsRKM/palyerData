@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-23T13:34:43.78614Z",
+  "Time": "2025-12-23T13:36:43.7862638Z",
   "Players": [
     {
       "Name": "smirnoff double black",
       "Steam": "76561198756936337",
-      "Score": 24,
-      "Time": "57:27"
+      "Score": 28,
+      "Time": "59:27"
     },
     {
       "Name": "Fried Rice",
       "Steam": "76561198758576426",
-      "Score": 36,
-      "Time": "58:29"
+      "Score": 42,
+      "Time": "60:29"
+    },
+    {
+      "Name": "martinsiht",
+      "Steam": "76561198773334987",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
