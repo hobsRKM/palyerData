@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-23T08:22:23.3039433Z",
+  "Time": "2025-12-23T08:24:23.303896Z",
   "Players": [
+    {
+      "Name": "oyw",
+      "Steam": "76561198771333148",
+      "Score": 4,
+      "Time": "01:08"
+    },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 39,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "gabriel apple",
       "Steam": "76561198058219578",
-      "Score": 22,
-      "Time": "30:12"
+      "Score": 26,
+      "Time": "32:12"
     },
     {
       "Name": "septicbooger",
       "Steam": "76561199678608838",
-      "Score": 31,
-      "Time": "42:47"
+      "Score": 34,
+      "Time": "44:47"
     }
   ]
 }
