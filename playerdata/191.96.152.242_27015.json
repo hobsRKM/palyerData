@@ -1,41 +1,53 @@
 {
-  "Time": "2025-12-23T07:36:23.310828Z",
+  "Time": "2025-12-23T07:38:23.3138667Z",
   "Players": [
+    {
+      "Name": "MRRAPEYOURASS",
+      "Steam": "76561198769219543",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
       "Score": 2,
-      "Time": "06:44"
+      "Time": "08:44"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "\uD834\uDD03\uD834\uDD02\uD834\uDD00\uD834\uDD01\uD834\uDD03\uD834\uDD02",
       "Steam": "76561199562186125",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 0,
-      "Time": "76:59"
+      "Score": 3,
+      "Time": "78:59"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 8,
-      "Time": "77:49"
+      "Score": 10,
+      "Time": "79:49"
+    },
+    {
+      "Name": ":)",
+      "Steam": "76561198345824647",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
