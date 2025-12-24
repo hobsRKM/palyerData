@@ -1,22 +1,34 @@
 {
-  "Time": "2025-12-24T05:00:25.9905712Z",
+  "Time": "2025-12-24T05:02:25.9914137Z",
   "Players": [
     {
       "Name": "pyro",
       "Steam": "76561198937460477",
-      "Score": 20,
-      "Time": "10:59"
+      "Score": 24,
+      "Time": "12:59"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "COUGARLOVR.Fatality",
       "Steam": "76561199870719553",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rozetlev",
+      "Steam": "76561198761934582",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "was",
+      "Steam": "76561198965718058",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
