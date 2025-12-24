@@ -1,71 +1,77 @@
 {
-  "Time": "2025-12-24T11:00:45.1981085Z",
+  "Time": "2025-12-24T11:02:45.2171967Z",
   "Players": [
+    {
+      "Name": "Tell Me Why???",
+      "Steam": "76561199557856957",
+      "Score": 1,
+      "Time": "00:25"
+    },
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 48,
-      "Time": "28:14"
+      "Score": 56,
+      "Time": "30:14"
     },
     {
       "Name": "1m74xD",
       "Steam": "76561198862303454",
-      "Score": 2,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "windows",
       "Steam": "76561198757045752",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 22,
-      "Time": "49:56"
+      "Score": 26,
+      "Time": "51:56"
     },
     {
       "Name": "DKJ",
       "Steam": "76561199803368947",
-      "Score": 4,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "//METOKE",
       "Steam": "76561198808123924",
-      "Score": 16,
-      "Time": "52:26"
+      "Score": 30,
+      "Time": "54:26"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 10,
-      "Time": "53:31"
+      "Score": 14,
+      "Time": "55:31"
     },
     {
       "Name": "rosel.u.n.a04.1",
       "Steam": "76561198771061304",
       "Score": 16,
-      "Time": "114:00"
+      "Time": "116:00"
     },
     {
       "Name": "鹌鹑蛋",
       "Steam": "76561199827977559",
-      "Score": 5,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "blond",
       "Steam": "76561199885332136",
-      "Score": 11,
-      "Time": "16:08"
+      "Score": 17,
+      "Time": "18:08"
     }
   ]
 }
