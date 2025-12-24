@@ -1,52 +1,70 @@
 {
-  "Time": "2025-12-24T10:18:43.4942629Z",
+  "Time": "2025-12-24T10:20:43.5151422Z",
   "Players": [
     {
       "Name": "Tell Me Why???",
       "Steam": "76561199557856957",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bonk",
+      "Steam": "76561199814943115",
+      "Score": 5,
+      "Time": "00:41"
+    },
+    {
+      "Name": "Cyron",
+      "Steam": "76561198855550056",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "windows",
+      "Steam": "76561198757045752",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 94,
+      "Score": 106,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 23,
-      "Time": "07:54"
+      "Score": 30,
+      "Time": "09:54"
     },
     {
       "Name": "//METOKE",
       "Steam": "76561198808123924",
-      "Score": 37,
-      "Time": "10:24"
+      "Score": 40,
+      "Time": "12:24"
     },
     {
       "Name": "Viet nam top 1",
       "Steam": "76561199557016632",
       "Score": 35,
-      "Time": "61:17"
+      "Time": "63:17"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
       "Score": 9,
-      "Time": "11:29"
+      "Time": "13:29"
     },
     {
       "Name": "rosel.u.n.a04.1",
       "Steam": "76561198771061304",
-      "Score": 97,
-      "Time": "71:58"
+      "Score": 99,
+      "Time": "73:58"
     },
     {
       "Name": "peksta",
       "Steam": "76561198755840381",
-      "Score": 116,
+      "Score": 126,
       "Time": "??:??"
     }
   ]
