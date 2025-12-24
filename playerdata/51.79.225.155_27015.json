@@ -1,16 +1,22 @@
 {
-  "Time": "2025-12-24T06:42:42.4169402Z",
+  "Time": "2025-12-24T06:44:42.4230498Z",
   "Players": [
+    {
+      "Name": "Ryuga",
+      "Steam": "76561198860369613",
+      "Score": 0,
+      "Time": "00:34"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
-      "Time": "00:47"
+      "Score": 5,
+      "Time": "02:47"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 43,
+      "Score": 45,
       "Time": "??:??"
     },
     {
@@ -22,8 +28,8 @@
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 8,
-      "Time": "03:55"
+      "Score": 16,
+      "Time": "05:55"
     },
     {
       "Name": "W E I W E I",
@@ -34,38 +40,38 @@
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "jalil_hacker19",
       "Steam": "76561198983792841",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "HEHEHEHA",
       "Steam": "76561199848551825",
       "Score": 47,
-      "Time": "06:41"
+      "Time": "00:36"
     },
     {
       "Name": "//METOKE",
       "Steam": "76561198808123924",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "johngarza2822",
       "Steam": "76561199711388998",
-      "Score": 15,
-      "Time": "06:10"
+      "Score": 17,
+      "Time": "08:10"
     },
     {
       "Name": "Dozy",
       "Steam": "76561199761205539",
-      "Score": 6,
-      "Time": "06:04"
+      "Score": 7,
+      "Time": "08:04"
     },
     {
       "Name": "Viet nam top 1",
@@ -76,19 +82,19 @@
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "rosel.u.n.a04.1",
       "Steam": "76561198771061304",
-      "Score": 25,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Z",
       "Steam": "76561198769837429",
-      "Score": 2,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
