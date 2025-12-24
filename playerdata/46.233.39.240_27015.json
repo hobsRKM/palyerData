@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-24T13:13:39.9424894Z",
+  "Time": "2025-12-24T13:15:39.9413906Z",
   "Players": [
     {
       "Name": "Steve Harrington",
       "Steam": "76561198755024911",
       "Score": 34,
-      "Time": "18:34"
+      "Time": "20:34"
+    },
+    {
+      "Name": "kash",
+      "Steam": "76561199823345343",
+      "Score": 7,
+      "Time": "01:04"
     },
     {
       "Name": "evilnettspendfan2010",
       "Steam": "76561198424817476",
       "Score": 2,
-      "Time": "66:22"
+      "Time": "68:22"
     }
   ]
 }
