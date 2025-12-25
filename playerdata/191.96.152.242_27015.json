@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-25T23:36:24.7439877Z",
+  "Time": "2025-12-25T23:38:24.7541435Z",
   "Players": [
+    {
+      "Name": "fatal296123456",
+      "Steam": "76561198753956601",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "XXX",
       "Steam": "76561199148908407",
       "Score": 0,
-      "Time": "255:21"
+      "Time": "257:21"
     },
     {
       "Name": "CS2Yapper",
       "Steam": "76561199568679621",
-      "Score": 18,
-      "Time": "06:08"
+      "Score": 20,
+      "Time": "08:08"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 51,
-      "Time": "75:06"
+      "Score": 57,
+      "Time": "77:06"
     },
     {
       "Name": "c1un4un0wx",
@@ -29,25 +35,31 @@
       "Name": "yakub",
       "Steam": "76561199594039131",
       "Score": 14,
-      "Time": "239:32"
+      "Time": "241:32"
     },
     {
       "Name": "Outkast6",
       "Steam": "76561198777105685",
-      "Score": 18,
-      "Time": "13:45"
+      "Score": 22,
+      "Time": "15:45"
+    },
+    {
+      "Name": "AdiosAmigo",
+      "Steam": "76561199882269371",
+      "Score": 0,
+      "Time": "00:52"
     },
     {
       "Name": "scoundrel",
       "Steam": "76561199319541476",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "lbydesync0",
       "Steam": "76561198756120442",
-      "Score": 0,
-      "Time": "00:28"
+      "Score": 2,
+      "Time": "02:28"
     }
   ]
 }
