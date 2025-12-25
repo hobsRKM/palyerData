@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-25T18:24:24.7466448Z",
+  "Time": "2025-12-25T18:26:24.746705Z",
   "Players": [
+    {
+      "Name": "1",
+      "Steam": "76561199050170734",
+      "Score": 6,
+      "Time": "00:25"
+    },
     {
       "Name": "Машон Кулизал",
       "Steam": "76561198759408593",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 80,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "MRRAPEYOURASS",
       "Steam": "76561198769219543",
-      "Score": 35,
+      "Score": 40,
       "Time": "??:??"
     },
     {
@@ -34,14 +40,14 @@
     {
       "Name": "my bug is jumpin",
       "Steam": "76561198782333753",
-      "Score": 59,
-      "Time": "22:33"
+      "Score": 65,
+      "Time": "24:33"
     },
     {
       "Name": "misanthropy.ecstasy",
       "Steam": "76561199844832166",
-      "Score": 7,
-      "Time": "18:26"
+      "Score": 8,
+      "Time": "20:26"
     },
     {
       "Name": "russian nl user (give figs)",
