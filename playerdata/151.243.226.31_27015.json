@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-25T15:50:26.7575823Z",
+  "Time": "2025-12-25T15:52:26.7509907Z",
   "Players": [
+    {
+      "Name": "lylaa",
+      "Steam": "76561199783489133",
+      "Score": 0,
+      "Time": "333:11"
+    },
     {
       "Name": "2023/Desync > CS2",
       "Steam": "76561199074739149",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Kaiii",
       "Steam": "76561199832854360",
-      "Score": 15,
-      "Time": "361:06"
+      "Score": 22,
+      "Time": "363:06"
     },
     {
       "Name": "K03",
@@ -22,37 +28,31 @@
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 83,
-      "Time": "41:07"
+      "Score": 87,
+      "Time": "43:07"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 18,
-      "Time": "24:30"
-    },
-    {
-      "Name": "S1MPLE",
-      "Steam": "76561198758503244",
-      "Score": 5,
-      "Time": "09:38"
+      "Score": 26,
+      "Time": "26:30"
     },
     {
       "Name": "BEST \uD83D\uDE01",
       "Steam": "76561198786904680",
       "Score": 72,
-      "Time": "34:33"
+      "Time": "36:33"
     },
     {
       "Name": "WHO IS THIS?",
       "Steam": "76561199819989461",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "drezastas",
       "Steam": "76561199887060530",
-      "Score": 8,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
