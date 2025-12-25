@@ -1,53 +1,59 @@
 {
-  "Time": "2025-12-25T12:04:26.7590029Z",
+  "Time": "2025-12-25T12:06:26.7545224Z",
   "Players": [
     {
       "Name": "Plaguecheat.cc",
       "Steam": "76561198778813347",
-      "Score": 13,
-      "Time": "204:36"
+      "Score": 16,
+      "Time": "206:36"
+    },
+    {
+      "Name": "Black",
+      "Steam": "76561199159788976",
+      "Score": 52,
+      "Time": "01:39"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 90,
-      "Time": "69:40"
+      "Score": 94,
+      "Time": "71:40"
     },
     {
       "Name": "rosel.u.n.a04.1",
       "Steam": "76561198771061304",
       "Score": 114,
-      "Time": "103:48"
+      "Time": "105:48"
     },
     {
       "Name": "tiramisuPing999+",
       "Steam": "76561198239908776",
-      "Score": 27,
-      "Time": "61:10"
+      "Score": 31,
+      "Time": "63:10"
     },
     {
       "Name": "Alt Misses Alot",
       "Steam": "76561199834727236",
-      "Score": 65,
-      "Time": "43:14"
+      "Score": 72,
+      "Time": "45:14"
     },
     {
       "Name": "WHO IS THIS?",
       "Steam": "76561199819989461",
-      "Score": 85,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "Peterbot",
       "Steam": "76561199466115742",
-      "Score": 6,
-      "Time": "02:08"
+      "Score": 14,
+      "Time": "04:08"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 35,
-      "Time": "19:11"
+      "Score": 46,
+      "Time": "21:11"
     }
   ]
 }
