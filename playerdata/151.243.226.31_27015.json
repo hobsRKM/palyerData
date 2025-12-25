@@ -1,65 +1,71 @@
 {
-  "Time": "2025-12-25T17:20:26.7550968Z",
+  "Time": "2025-12-25T17:22:26.7522749Z",
   "Players": [
+    {
+      "Name": "10",
+      "Steam": "76561199839137313",
+      "Score": 0,
+      "Time": "00:10"
+    },
     {
       "Name": "rosel.u.n.a04.1",
       "Steam": "76561198771061304",
       "Score": 66,
-      "Time": "69:22"
+      "Time": "71:22"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 74,
-      "Time": "32:58"
+      "Score": 78,
+      "Time": "34:58"
     },
     {
       "Name": "2023/Desync > CS2",
       "Steam": "76561199074739149",
       "Score": 24,
-      "Time": "27:04"
+      "Time": "29:04"
     },
     {
       "Name": "D⭕\uD83C\uDD76\uD83C\uDD70®",
       "Steam": "76561198778744795",
       "Score": 57,
-      "Time": "53:50"
+      "Time": "55:50"
     },
     {
       "Name": "Kaiii",
       "Steam": "76561199832854360",
-      "Score": 129,
-      "Time": "65:06"
+      "Score": 135,
+      "Time": "67:06"
     },
     {
       "Name": "Nikki",
       "Steam": "76561199830043416",
-      "Score": 55,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 95,
-      "Time": "34:58"
+      "Score": 96,
+      "Time": "36:58"
     },
     {
       "Name": "xitvast",
       "Steam": "76561199232789057",
-      "Score": 40,
-      "Time": "250:02"
+      "Score": 42,
+      "Time": "252:02"
     },
     {
       "Name": "1",
       "Steam": "76561198759796859",
-      "Score": 31,
-      "Time": "28:37"
+      "Score": 35,
+      "Time": "30:37"
     },
     {
       "Name": "BEST \uD83D\uDE01",
       "Steam": "76561198786904680",
-      "Score": 88,
-      "Time": "124:33"
+      "Score": 90,
+      "Time": "126:33"
     },
     {
       "Name": "WHO IS THIS?",
@@ -70,14 +76,8 @@
     {
       "Name": "Fructuoso",
       "Steam": "76561199369783246",
-      "Score": 29,
-      "Time": "05:45"
-    },
-    {
-      "Name": "ghostY",
-      "Steam": "76561199591486018",
-      "Score": 2,
-      "Time": "402:50"
+      "Score": 31,
+      "Time": "07:45"
     }
   ]
 }
