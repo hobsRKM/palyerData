@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-25T04:10:18.34752Z",
-  "Players": []
+  "Time": "2025-12-25T04:12:08.3116636Z",
+  "Players": [
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 0,
+      "Time": "00:37"
+    },
+    {
+      "Name": "Mr. Creamy Peanut 1v1 for fatal",
+      "Steam": "76561198205105983",
+      "Score": 0,
+      "Time": "02:52"
+    },
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 30,
+      "Time": "45:06"
+    },
+    {
+      "Name": "ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Outkast6",
+      "Steam": "76561198777105685",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "justgooderer",
+      "Steam": "76561198766702971",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
