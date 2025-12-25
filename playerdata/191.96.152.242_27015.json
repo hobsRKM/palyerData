@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-25T22:54:24.7458428Z",
+  "Time": "2025-12-25T22:56:24.7480415Z",
   "Players": [
+    {
+      "Name": "Kodexg",
+      "Steam": "76561199524420343",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Paul",
       "Steam": "76561198795280812",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 6,
-      "Time": "33:06"
+      "Score": 18,
+      "Time": "35:06"
     },
     {
       "Name": "yakub",
       "Steam": "76561199594039131",
-      "Score": 2,
-      "Time": "197:32"
+      "Score": 10,
+      "Time": "199:32"
     },
     {
       "Name": "Outkast6",
       "Steam": "76561198777105685",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "lbydesync0",
       "Steam": "76561198756120442",
       "Score": 0,
-      "Time": "42:18"
+      "Time": "44:18"
     }
   ]
 }
