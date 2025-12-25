@@ -1,29 +1,41 @@
 {
-  "Time": "2025-12-25T14:14:26.7511197Z",
+  "Time": "2025-12-25T14:16:26.7592176Z",
   "Players": [
+    {
+      "Name": "zieibiusu",
+      "Steam": "76561198860220714",
+      "Score": 2,
+      "Time": "01:31"
+    },
     {
       "Name": "Grwww",
       "Steam": "76561199010435611",
-      "Score": 38,
-      "Time": "27:22"
+      "Score": 44,
+      "Time": "29:22"
     },
     {
       "Name": "くそanti",
       "Steam": "76561198170426931",
-      "Score": 25,
-      "Time": "33:59"
+      "Score": 27,
+      "Time": "35:59"
+    },
+    {
+      "Name": "HEHEHEHA",
+      "Steam": "76561199848551825",
+      "Score": 9,
+      "Time": "01:57"
     },
     {
       "Name": "rosel.u.n.a04.1",
       "Steam": "76561198771061304",
       "Score": 0,
-      "Time": "233:48"
+      "Time": "235:48"
     },
     {
       "Name": "X",
       "Steam": "76561198239908776",
-      "Score": 2,
-      "Time": "02:14"
+      "Score": 4,
+      "Time": "04:14"
     },
     {
       "Name": "gift from vac",
@@ -34,13 +46,13 @@
     {
       "Name": "tw1stie⚡",
       "Steam": "76561199188655006",
-      "Score": 124,
+      "Score": 127,
       "Time": "??:??"
     },
     {
       "Name": "Allen0419",
       "Steam": "76561199817087739",
-      "Score": 94,
+      "Score": 108,
       "Time": "??:??"
     },
     {
@@ -52,32 +64,26 @@
     {
       "Name": "illusio_o",
       "Steam": "76561198285997263",
-      "Score": 75,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "cr7",
       "Steam": "76561199822315115",
-      "Score": 121,
+      "Score": 131,
       "Time": "??:??"
     },
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 112,
-      "Time": "65:29"
+      "Score": 118,
+      "Time": "67:29"
     },
     {
       "Name": "ICE",
       "Steam": "76561199856474370",
-      "Score": 88,
-      "Time": "108:31"
-    },
-    {
-      "Name": "Mio",
-      "Steam": "76561199840305664",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 90,
+      "Time": "110:31"
     }
   ]
 }
