@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-25T11:22:31.5142642Z",
+  "Time": "2025-12-25T11:24:31.514272Z",
   "Players": [
     {
       "Name": "ICE",
       "Steam": "76561199856474370",
-      "Score": 43,
-      "Time": "107:40"
+      "Score": 44,
+      "Time": "109:40"
     },
     {
       "Name": "DaHUnter",
       "Steam": "76561198756661532",
-      "Score": 33,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "kash",
       "Steam": "76561198914307216",
-      "Score": 37,
+      "Score": 41,
       "Time": "??:??"
+    },
+    {
+      "Name": "GCC | printf(\"helloworld\");",
+      "Steam": "76561198762642444",
+      "Score": 12,
+      "Time": "01:31"
     }
   ]
 }
