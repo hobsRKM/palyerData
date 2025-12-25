@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-25T23:08:24.7389786Z",
+  "Time": "2025-12-25T23:10:24.7473828Z",
   "Players": [
+    {
+      "Name": "Holiday",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Kodexg",
       "Steam": "76561199524420343",
-      "Score": 24,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Paul",
       "Steam": "76561198795280812",
-      "Score": 46,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 64,
-      "Time": "47:06"
+      "Score": 78,
+      "Time": "49:06"
     },
     {
       "Name": "c1un4un0wx",
@@ -29,7 +35,13 @@
       "Name": "yakub",
       "Steam": "76561199594039131",
       "Score": 28,
-      "Time": "211:32"
+      "Time": "213:32"
+    },
+    {
+      "Name": "scoundrel",
+      "Steam": "76561199319541476",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Alex Beke",
@@ -40,14 +52,14 @@
     {
       "Name": "187",
       "Steam": "76561199634018466",
-      "Score": 4,
-      "Time": "40:18"
+      "Score": 12,
+      "Time": "42:18"
     },
     {
       "Name": "lbydesync0",
       "Steam": "76561198756120442",
       "Score": 32,
-      "Time": "56:18"
+      "Time": "58:18"
     }
   ]
 }
