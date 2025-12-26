@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-26T08:14:24.7483512Z",
+  "Time": "2025-12-26T08:16:24.7514216Z",
   "Players": [
     {
       "Name": "rich com boss",
       "Steam": "76561199864701700",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "ace",
       "Steam": "76561198043769839",
-      "Score": 60,
+      "Score": 61,
       "Time": "??:??"
+    },
+    {
+      "Name": "kiki",
+      "Steam": "76561199711887613",
+      "Score": 1,
+      "Time": "01:37"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 56,
-      "Time": "108:53"
+      "Score": 60,
+      "Time": "110:53"
     },
     {
       "Name": "blatantgay",
@@ -28,26 +34,20 @@
     {
       "Name": "ВованРНБ",
       "Steam": "76561199568001469",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "loser",
-      "Steam": "76561198775607274",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "максим BALENCIAGA",
       "Steam": "76561198786798631",
       "Score": 23,
-      "Time": "19:05"
+      "Time": "21:05"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 72,
-      "Time": "293:31"
+      "Score": 86,
+      "Time": "295:31"
     }
   ]
 }
