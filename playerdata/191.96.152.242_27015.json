@@ -1,52 +1,64 @@
 {
-  "Time": "2025-12-26T03:18:24.7508055Z",
+  "Time": "2025-12-26T03:20:24.7421139Z",
   "Players": [
+    {
+      "Name": "Knarcos",
+      "Steam": "76561198767154074",
+      "Score": 0,
+      "Time": "00:36"
+    },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 37,
-      "Time": "51:00"
+      "Score": 42,
+      "Time": "53:00"
     },
     {
       "Name": "城市 :3",
       "Steam": "76561198767015556",
-      "Score": 33,
-      "Time": "191:18"
+      "Score": 41,
+      "Time": "193:18"
+    },
+    {
+      "Name": "xzc",
+      "Steam": "76561199867620687",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 57,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 0,
-      "Time": "00:48"
+      "Score": 4,
+      "Time": "02:48"
     },
     {
       "Name": "mof1x",
       "Steam": "76561199809257359",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "OxyC",
       "Steam": "76561199867927758",
-      "Score": 11,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "максим BALENCIAGA",
       "Steam": "76561198786798631",
       "Score": 29,
-      "Time": "571:40"
+      "Time": "573:40"
     },
     {
       "Name": "Blimbo Winckleton",
       "Steam": "76561199868275355",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
