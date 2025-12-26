@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-26T19:34:26.7510865Z",
+  "Time": "2025-12-26T19:36:26.744085Z",
   "Players": [
+    {
+      "Name": "WOMEN",
+      "Steam": "76561199734210488",
+      "Score": 2,
+      "Time": "02:01"
+    },
     {
       "Name": "Misaka boyfriend :>",
       "Steam": "76561198286493344",
-      "Score": 12,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Plaguecheat.cc",
       "Steam": "76561198778813347",
-      "Score": 4,
-      "Time": "08:21"
+      "Score": 5,
+      "Time": "10:21"
     },
     {
       "Name": "xitvast",
       "Steam": "76561199232789057",
-      "Score": 4,
-      "Time": "25:41"
+      "Score": 9,
+      "Time": "27:41"
     },
     {
       "Name": "QBBBQ",
       "Steam": "76561198226968228",
-      "Score": 0,
-      "Time": "33:53"
+      "Score": 6,
+      "Time": "35:53"
     }
   ]
 }
