@@ -1,34 +1,46 @@
 {
-  "Time": "2025-12-26T04:56:31.511251Z",
+  "Time": "2025-12-26T04:58:31.5137584Z",
   "Players": [
     {
       "Name": "Steve Harrington",
       "Steam": "76561198755024911",
-      "Score": 5,
-      "Time": "17:48"
+      "Score": 10,
+      "Time": "19:48"
     },
     {
       "Name": "riley",
       "Steam": "76561199866652415",
-      "Score": 15,
-      "Time": "06:51"
+      "Score": 17,
+      "Time": "08:51"
     },
     {
       "Name": "მე მძულს ებრ",
       "Steam": "76561198772817916",
-      "Score": 19,
-      "Time": "98:18"
+      "Score": 25,
+      "Time": "100:18"
+    },
+    {
+      "Name": "kash",
+      "Steam": "76561199823345343",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Manq",
       "Steam": "76561198762404452",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "chicken big mac",
       "Steam": "76561199145031291",
-      "Score": 14,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hubbzs.",
+      "Steam": "76561199868190525",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
