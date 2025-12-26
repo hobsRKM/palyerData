@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-26T17:48:26.7515854Z",
+  "Time": "2025-12-26T17:50:26.7392536Z",
   "Players": [
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 23,
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ALAmeri",
+      "Steam": "76561198851922530",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Sexy Boy",
       "Steam": "76561199761247030",
-      "Score": 30,
-      "Time": "83:23"
+      "Score": 1,
+      "Time": "85:22"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 10,
-      "Time": "33:57"
+      "Score": 13,
+      "Time": "35:57"
     },
     {
       "Name": "drezastas",
       "Steam": "76561199887060530",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Kaiii",
       "Steam": "76561199832854360",
-      "Score": 36,
-      "Time": "30:46"
+      "Score": 45,
+      "Time": "32:46"
     }
   ]
 }
