@@ -1,28 +1,34 @@
 {
-  "Time": "2025-12-26T19:22:42.07102Z",
+  "Time": "2025-12-26T19:24:42.0688324Z",
   "Players": [
+    {
+      "Name": "noname member",
+      "Steam": "76561199848062599",
+      "Score": 0,
+      "Time": "01:07"
+    },
     {
       "Name": "FERRARİ",
       "Steam": "76561199363671488",
-      "Score": 79,
-      "Time": "36:41"
+      "Score": 89,
+      "Time": "38:41"
     },
     {
       "Name": "nig",
       "Steam": "76561198756309558",
-      "Score": 37,
-      "Time": "36:41"
+      "Score": 41,
+      "Time": "38:41"
     },
     {
       "Name": ":((((((",
       "Steam": "76561198791731244",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "üçkağıtçı",
       "Steam": "76561198274351483",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -34,19 +40,31 @@
     {
       "Name": "hustler",
       "Steam": "76561199070352608",
-      "Score": 34,
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Zabolotny",
+      "Steam": "76561199846005856",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": ".....",
       "Steam": "76561198761998911",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "era7capone",
       "Steam": "76561198753701547",
-      "Score": 12,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "senin gibi *******un",
+      "Steam": "76561198755190414",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
