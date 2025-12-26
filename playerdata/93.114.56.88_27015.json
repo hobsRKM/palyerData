@@ -1,59 +1,95 @@
 {
-  "Time": "2025-12-26T01:36:05.8276542Z",
+  "Time": "2025-12-26T01:36:21.7187864Z",
   "Players": [
     {
-      "Name": "AimWare",
-      "Steam": "76561199262816547",
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "akela",
+      "Steam": "76561197995324447",
+      "Score": 8,
+      "Time": "278:50"
+    },
+    {
+      "Name": "TaLenT",
+      "Steam": "76561198854668207",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "con artist",
+      "Steam": "76561198131709407",
+      "Score": 24,
+      "Time": "35:20"
+    },
+    {
+      "Name": "Mythical Glory",
+      "Steam": "76561198761901015",
+      "Score": 2,
+      "Time": "51:07"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kardos Cigány",
+      "Steam": "76561198800976872",
       "Score": 7,
-      "Time": "00:41"
+      "Time": "241:26"
     },
     {
-      "Name": "suspect",
-      "Steam": "76561198849840994",
-      "Score": 81,
+      "Name": "Lynx",
+      "Steam": "76561198824806305",
+      "Score": 8,
+      "Time": "602:09"
+    },
+    {
+      "Name": "AbdullahMuhammed",
+      "Steam": "76561199859729441",
+      "Score": 0,
+      "Time": "335:46"
+    },
+    {
+      "Name": "zmrzlinář",
+      "Steam": "76561198868632842",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Ghost",
-      "Steam": "76561198782974522",
-      "Score": 5,
-      "Time": "16:59"
+      "Name": "IDKlegit",
+      "Steam": "76561199037222147",
+      "Score": 13,
+      "Time": "226:13"
     },
     {
-      "Name": "Mr Rambo",
-      "Steam": "76561199836567328",
-      "Score": 12,
-      "Time": "03:54"
-    },
-    {
-      "Name": "bb6333547323",
-      "Steam": "76561199183033771",
-      "Score": 34,
+      "Name": "охраник лоутаба",
+      "Steam": "76561199834435063",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "( ‾ʖ̫‾)",
-      "Steam": "76561199559471982",
-      "Score": 6,
-      "Time": "??:??"
+      "Name": "bakom dig",
+      "Steam": "76561198806792145",
+      "Score": 0,
+      "Time": "32:10"
     },
     {
-      "Name": "Cardiac Arrest",
-      "Steam": "76561199476170304",
-      "Score": 61,
-      "Time": "83:03"
+      "Name": "realpious",
+      "Steam": "76561199174885840",
+      "Score": 4,
+      "Time": "13:28"
     },
     {
-      "Name": "\u0005Rick\u0005",
-      "Steam": "76561199050470003",
-      "Score": 30,
-      "Time": "227:53"
-    },
-    {
-      "Name": "Squ",
-      "Steam": "76561198781726394",
-      "Score": 15,
-      "Time": "17:08"
+      "Name": "interactive disassembler",
+      "Steam": "76561199688643157",
+      "Score": 0,
+      "Time": "42:42"
     }
   ]
 }
