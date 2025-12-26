@@ -1,35 +1,47 @@
 {
-  "Time": "2025-12-26T03:00:24.7370946Z",
+  "Time": "2025-12-26T03:02:24.7447172Z",
   "Players": [
+    {
+      "Name": "Knarcos",
+      "Steam": "76561198767154074",
+      "Score": 0,
+      "Time": "01:55"
+    },
     {
       "Name": "polizzi",
       "Steam": "76561198793598358",
-      "Score": 104,
-      "Time": "33:00"
+      "Score": 0,
+      "Time": "35:00"
     },
     {
       "Name": "城市 :3",
       "Steam": "76561198767015556",
-      "Score": 26,
-      "Time": "173:18"
+      "Score": 0,
+      "Time": "175:18"
     },
     {
       "Name": "Halura",
       "Steam": "76561199711836932",
-      "Score": 95,
-      "Time": "46:47"
+      "Score": 0,
+      "Time": "48:47"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 2,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mof1x",
+      "Steam": "76561199809257359",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "максим BALENCIAGA",
       "Steam": "76561198786798631",
-      "Score": 22,
-      "Time": "553:40"
+      "Score": 0,
+      "Time": "555:40"
     }
   ]
 }
