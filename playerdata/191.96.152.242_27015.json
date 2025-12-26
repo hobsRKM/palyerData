@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-26T01:40:24.739371Z",
+  "Time": "2025-12-26T01:42:24.7393595Z",
   "Players": [
+    {
+      "Name": "Halura",
+      "Steam": "76561199711836932",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "thanks for ts",
       "Steam": "76561198790242755",
-      "Score": 90,
+      "Score": 96,
       "Time": "??:??"
     },
     {
       "Name": "CS2Yapper",
       "Steam": "76561199568679621",
       "Score": 2,
-      "Time": "01:36"
+      "Time": "03:36"
     }
   ]
 }
