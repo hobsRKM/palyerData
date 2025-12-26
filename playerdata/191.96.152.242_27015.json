@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-26T08:38:24.7439724Z",
+  "Time": "2025-12-26T08:40:24.7387852Z",
   "Players": [
     {
       "Name": "rich com boss",
       "Steam": "76561199864701700",
-      "Score": 18,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "ace",
       "Steam": "76561198043769839",
-      "Score": 33,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ryn",
+      "Steam": "76561199755599976",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "blatantgay",
       "Steam": "76561198792862274",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -26,22 +32,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "house arrest harold",
-      "Steam": "76561199150483449",
-      "Score": 33,
-      "Time": "??:??"
-    },
-    {
-      "Name": "using RustClient;",
-      "Steam": "76561199688628918",
-      "Score": 0,
-      "Time": "04:04"
-    },
-    {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 46,
-      "Time": "317:31"
+      "Score": 55,
+      "Time": "319:31"
     }
   ]
 }
