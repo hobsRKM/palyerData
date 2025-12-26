@@ -1,22 +1,28 @@
 {
-  "Time": "2025-12-26T12:10:28.6950744Z",
+  "Time": "2025-12-26T12:12:28.6956816Z",
   "Players": [
     {
       "Name": "chicken big mac",
       "Steam": "76561199145031291",
       "Score": 30,
-      "Time": "20:52"
+      "Time": "22:52"
     },
     {
       "Name": "dma",
       "Steam": "76561199749529269",
-      "Score": 7,
-      "Time": "08:50"
+      "Score": 11,
+      "Time": "10:50"
     },
     {
       "Name": "kash",
       "Steam": "76561198914307216",
-      "Score": 32,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOT Striker",
+      "Steam": "76561198757730107",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
