@@ -1,41 +1,53 @@
 {
-  "Time": "2025-12-27T13:16:25.1214035Z",
+  "Time": "2025-12-27T13:18:25.1295059Z",
   "Players": [
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 78,
-      "Time": "61:39"
+      "Score": 83,
+      "Time": "63:39"
     },
     {
       "Name": "LagMaster",
       "Steam": "76561199717783206",
       "Score": 2,
-      "Time": "22:49"
+      "Time": "24:49"
+    },
+    {
+      "Name": "Carrier",
+      "Steam": "76561198775209729",
+      "Score": 1,
+      "Time": "??:??"
     },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 10,
-      "Time": "08:17"
+      "Score": 16,
+      "Time": "10:17"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 57,
-      "Time": "191:02"
+      "Score": 67,
+      "Time": "193:02"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 19,
-      "Time": "03:06"
+      "Score": 21,
+      "Time": "05:06"
     },
     {
       "Name": "bandz",
       "Steam": "76561199813816409",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561199163976232",
+      "Score": 0,
+      "Time": "00:52"
     }
   ]
 }
