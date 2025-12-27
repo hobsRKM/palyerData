@@ -1,5 +1,5 @@
 {
-  "Time": "2025-12-27T14:16:25.1258898Z",
+  "Time": "2025-12-27T14:18:25.1307608Z",
   "Players": [
     {
       "Name": "K03",
@@ -10,20 +10,26 @@
     {
       "Name": "\uD835\uDD77\uD835\uDD94\uD835\uDD93\uD835\uDD8C \uD835\uDD73\uD835\uDD7B",
       "Steam": "76561198337232337",
-      "Score": 32,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 4,
-      "Time": "68:17"
+      "Score": 0,
+      "Time": "70:17"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 23,
+      "Score": 37,
       "Time": "??:??"
+    },
+    {
+      "Name": "freya",
+      "Steam": "76561199229682369",
+      "Score": 4,
+      "Time": "01:42"
     }
   ]
 }
