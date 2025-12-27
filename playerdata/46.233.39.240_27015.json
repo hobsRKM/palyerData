@@ -1,23 +1,29 @@
 {
-  "Time": "2025-12-27T06:16:28.5095222Z",
+  "Time": "2025-12-27T06:18:28.5100893Z",
   "Players": [
     {
-      "Name": "fatalit chicken big mac",
+      "Name": "fatality.win chicken big mac",
       "Steam": "76561199145031291",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Steve Harrington",
       "Steam": "76561198755024911",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "r@d14nc3.lua kash",
+      "Name": "radiance.lua kash",
       "Steam": "76561198914307216",
+      "Score": 10,
+      "Time": "38:54"
+    },
+    {
+      "Name": "Onii-Chan",
+      "Steam": "76561199875141227",
       "Score": 0,
-      "Time": "36:54"
+      "Time": "??:??"
     }
   ]
 }
