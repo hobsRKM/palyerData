@@ -1,16 +1,22 @@
 {
-  "Time": "2025-12-27T19:04:42.5480438Z",
+  "Time": "2025-12-27T19:06:42.5408927Z",
   "Players": [
+    {
+      "Name": "Lefties",
+      "Steam": "76561199803709567",
+      "Score": 2,
+      "Time": "01:29"
+    },
     {
       "Name": "babayimlan",
       "Steam": "76561198758816140",
-      "Score": 10,
-      "Time": "09:26"
+      "Score": 16,
+      "Time": "11:26"
     },
     {
       "Name": "ciesta botan",
       "Steam": "76561198853471732",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
