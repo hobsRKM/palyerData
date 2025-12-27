@@ -1,40 +1,46 @@
 {
-  "Time": "2025-12-27T08:08:25.1335958Z",
+  "Time": "2025-12-27T08:10:25.1269445Z",
   "Players": [
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 10,
-      "Time": "286:33"
+      "Score": 16,
+      "Time": "288:33"
     },
     {
       "Name": "150K",
       "Steam": "76561198759189186",
-      "Score": 11,
-      "Time": "19:36"
+      "Score": 15,
+      "Time": "21:36"
     },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 52,
-      "Time": "59:31"
+      "Score": 58,
+      "Time": "61:31"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 52,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "swap",
       "Steam": "76561199055787074",
-      "Score": 2,
-      "Time": "78:32"
+      "Score": 0,
+      "Time": "80:32"
     },
     {
       "Name": "Fried Chicken",
       "Steam": "76561198761755601",
-      "Score": 5,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "digga",
+      "Steam": "76561199782546210",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
