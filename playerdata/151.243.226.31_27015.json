@@ -1,47 +1,53 @@
 {
-  "Time": "2025-12-27T17:08:25.1259905Z",
+  "Time": "2025-12-27T17:10:25.1273153Z",
   "Players": [
+    {
+      "Name": "e",
+      "Steam": "76561199564752768",
+      "Score": 0,
+      "Time": "01:25"
+    },
     {
       "Name": "SixSeven",
       "Steam": "76561198765855998",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Plaguecheat.cc",
       "Steam": "76561198778813347",
       "Score": 18,
-      "Time": "70:33"
+      "Time": "72:33"
     },
     {
       "Name": "=w=...",
       "Steam": "76561199045450966",
-      "Score": 10,
-      "Time": "04:31"
+      "Score": 12,
+      "Time": "06:31"
     },
     {
       "Name": "my pfp fetish",
       "Steam": "76561198759387430",
-      "Score": 45,
-      "Time": "21:55"
+      "Score": 57,
+      "Time": "23:55"
     },
     {
       "Name": "zoe",
       "Steam": "76561199127011949",
-      "Score": 61,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 23,
-      "Time": "05:36"
+      "Score": 32,
+      "Time": "07:36"
     },
     {
       "Name": "awfehtrs",
       "Steam": "76561198757925764",
-      "Score": 2,
-      "Time": "35:05"
+      "Score": 6,
+      "Time": "37:05"
     }
   ]
 }
