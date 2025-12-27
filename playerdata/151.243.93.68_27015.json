@@ -1,4 +1,29 @@
 {
-  "Time": "2025-12-27T19:32:13.3870628Z",
-  "Players": []
+  "Time": "2025-12-27T19:32:17.1110745Z",
+  "Players": [
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 7,
+      "Time": "05:21"
+    },
+    {
+      "Name": "Negro Garcia",
+      "Steam": "76561199156395215",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Roma",
+      "Steam": "76561199874070115",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BankvsBanana",
+      "Steam": "76561199619301187",
+      "Score": 22,
+      "Time": "??:??"
+    }
+  ]
 }
