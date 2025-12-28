@@ -1,11 +1,17 @@
 {
-  "Time": "2025-12-28T09:14:33.2291011Z",
+  "Time": "2025-12-28T09:16:33.2405374Z",
   "Players": [
+    {
+      "Name": "mavishogan5076",
+      "Steam": "76561199717243009",
+      "Score": 2,
+      "Time": "01:24"
+    },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 10,
-      "Time": "05:06"
+      "Score": 15,
+      "Time": "07:06"
     },
     {
       "Name": "K03",
@@ -16,31 +22,37 @@
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 52,
-      "Time": "74:35"
+      "Score": 66,
+      "Time": "76:35"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 32,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "WHO IS THIS?",
       "Steam": "76561199819989461",
-      "Score": 40,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "JumpScout 2077",
       "Steam": "76561199842283410",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Nikki",
       "Steam": "76561199830043416",
-      "Score": 22,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "chicken big mac",
+      "Steam": "76561199145031291",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
