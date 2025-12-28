@@ -1,28 +1,34 @@
 {
-  "Time": "2025-12-28T14:52:29.89398Z",
+  "Time": "2025-12-28T14:54:29.8944729Z",
   "Players": [
     {
       "Name": "kash",
       "Steam": "76561198914307216",
-      "Score": 32,
-      "Time": "292:48"
+      "Score": 37,
+      "Time": "294:48"
     },
     {
       "Name": "larrrrp",
       "Steam": "76561198780185198",
-      "Score": 40,
-      "Time": "68:12"
+      "Score": 48,
+      "Time": "70:12"
     },
     {
       "Name": "Onii-Chan",
       "Steam": "76561199875141227",
-      "Score": 39,
+      "Score": 45,
       "Time": "??:??"
+    },
+    {
+      "Name": "MacBookProUser",
+      "Steam": "76561199707309671",
+      "Score": 0,
+      "Time": "00:35"
     },
     {
       "Name": "slowly",
       "Steam": "76561199400046022",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     }
   ]
