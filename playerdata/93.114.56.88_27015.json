@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-28T22:20:20.0561165Z",
-  "Players": []
+  "Time": "2025-12-28T22:20:25.0737464Z",
+  "Players": [
+    {
+      "Name": "Forever",
+      "Steam": "76561199094263202",
+      "Score": 20,
+      "Time": "48:23"
+    },
+    {
+      "Name": "PORYWAM CZARNYCH",
+      "Steam": "76561198758534558",
+      "Score": 17,
+      "Time": "09:19"
+    },
+    {
+      "Name": "dumb as a door",
+      "Steam": "76561199420078405",
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "arisen",
+      "Steam": "76561199460374443",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fusyon",
+      "Steam": "76561198763321837",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tulip",
+      "Steam": "76561199549893146",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
