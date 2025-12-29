@@ -1,4 +1,65 @@
 {
-  "Time": "2025-12-29T03:49:23.8666795Z",
-  "Players": []
+  "Time": "2025-12-29T03:49:53.0196821Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 50,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ghostY",
+      "Steam": "76561199591486018",
+      "Score": 24,
+      "Time": "77:00"
+    },
+    {
+      "Name": "festive stylisz",
+      "Steam": "76561199683040816",
+      "Score": 13,
+      "Time": "72:14"
+    },
+    {
+      "Name": "ᴺᴸJerry",
+      "Steam": "76561198782416811",
+      "Score": 38,
+      "Time": "64:36"
+    },
+    {
+      "Name": "Xave",
+      "Steam": "76561199698203416",
+      "Score": 0,
+      "Time": "142:01"
+    },
+    {
+      "Name": "HateSek #DriverSpeed",
+      "Steam": "76561198349844769",
+      "Score": 30,
+      "Time": "456:44"
+    },
+    {
+      "Name": "Mythical Glory",
+      "Steam": "76561198761901015",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 40,
+      "Time": "207:28"
+    },
+    {
+      "Name": "pixiuboss",
+      "Steam": "76561199820049103",
+      "Score": 4,
+      "Time": "82:25"
+    }
+  ]
 }
