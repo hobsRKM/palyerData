@@ -1,35 +1,29 @@
 {
-  "Time": "2025-12-29T23:42:24.9199678Z",
+  "Time": "2025-12-29T23:44:24.9239749Z",
   "Players": [
+    {
+      "Name": "SandyHooks.lua",
+      "Steam": "76561199874044368",
+      "Score": 0,
+      "Time": "00:36"
+    },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "DethLok",
       "Steam": "76561199247762502",
       "Score": 0,
-      "Time": "11:37"
+      "Time": "13:37"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
-    },
-    {
-      "Name": "santa",
-      "Steam": "76561199869483563",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "N3M3515",
-      "Steam": "76561198762281843",
-      "Score": 2,
-      "Time": "02:39"
     }
   ]
 }
