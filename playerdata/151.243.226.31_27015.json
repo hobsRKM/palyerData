@@ -1,46 +1,52 @@
 {
-  "Time": "2025-12-29T11:50:41.3097938Z",
+  "Time": "2025-12-29T11:52:41.3081437Z",
   "Players": [
+    {
+      "Name": "LagMaster",
+      "Steam": "76561199717783206",
+      "Score": 0,
+      "Time": "00:55"
+    },
     {
       "Name": "?????",
       "Steam": "76561199865563018",
-      "Score": 21,
-      "Time": "17:29"
+      "Score": 23,
+      "Time": "19:29"
     },
     {
       "Name": "Jeff",
       "Steam": "76561198774315242",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "ради ани",
       "Steam": "76561199113967944",
-      "Score": 20,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "p\uDB40\uDC73⁧⁧q",
       "Steam": "76561199058371972",
-      "Score": 4,
-      "Time": "52:03"
+      "Score": 6,
+      "Time": "54:03"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 37,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 19,
-      "Time": "07:15"
+      "Score": 20,
+      "Time": "09:15"
     },
     {
       "Name": "JoeBiden",
       "Steam": "76561198756813069",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
