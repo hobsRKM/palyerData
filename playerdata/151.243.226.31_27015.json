@@ -1,10 +1,16 @@
 {
-  "Time": "2025-12-29T04:42:41.3120471Z",
+  "Time": "2025-12-29T04:44:41.3313815Z",
   "Players": [
+    {
+      "Name": "newgen final boss",
+      "Steam": "76561199821033774",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
       "Steam": "76561199015518114",
-      "Score": 87,
+      "Score": 91,
       "Time": "??:??"
     },
     {
@@ -16,7 +22,13 @@
     {
       "Name": "LagMaster",
       "Steam": "76561199717783206",
-      "Score": 8,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[VIP]DONK",
+      "Steam": "76561199661556318",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
