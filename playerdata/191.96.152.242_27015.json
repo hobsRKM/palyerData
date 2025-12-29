@@ -1,35 +1,53 @@
 {
-  "Time": "2025-12-29T23:16:24.9143695Z",
+  "Time": "2025-12-29T23:18:24.9118325Z",
   "Players": [
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uD834\uDD03\uD834\uDD02\uD834\uDD00\uD834\uDD01\uD834\uDD03\uD834\uDD02",
+      "Steam": "76561199562186125",
+      "Score": 0,
+      "Time": "00:03"
     },
     {
       "Name": "Simply",
       "Steam": "76561199889163804",
-      "Score": 17,
-      "Time": "10:56"
+      "Score": 27,
+      "Time": "12:56"
     },
     {
-      "Name": "pidor",
-      "Steam": "76561199869182415",
-      "Score": 60,
-      "Time": "13:08"
+      "Name": "DethLok",
+      "Steam": "76561199247762502",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gardanome",
+      "Steam": "76561198757699210",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "boolymon",
+      "Steam": "76561199206934752",
+      "Score": 0,
+      "Time": "00:37"
     },
     {
       "Name": "imonfatality1",
       "Steam": "76561198754614730",
-      "Score": 2,
-      "Time": "05:54"
+      "Score": 4,
+      "Time": "07:54"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 10,
-      "Time": "13:20"
+      "Score": 11,
+      "Time": "15:20"
     }
   ]
 }
