@@ -1,34 +1,40 @@
 {
-  "Time": "2025-12-29T12:38:41.3101316Z",
+  "Time": "2025-12-29T12:40:41.3194185Z",
   "Players": [
+    {
+      "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
+      "Steam": "76561199015518114",
+      "Score": 2,
+      "Time": "01:25"
+    },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 27,
-      "Time": "20:43"
+      "Score": 30,
+      "Time": "22:43"
     },
     {
       "Name": "LagMaster",
       "Steam": "76561199717783206",
       "Score": 0,
-      "Time": "46:55"
+      "Time": "48:55"
     },
     {
       "Name": "Dozy",
       "Steam": "76561199761205539",
       "Score": 66,
-      "Time": "34:00"
+      "Time": "36:00"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 99,
-      "Time": "44:23"
+      "Score": 104,
+      "Time": "46:23"
     },
     {
       "Name": "Jeff",
       "Steam": "76561198774315242",
-      "Score": 15,
+      "Score": 31,
       "Time": "??:??"
     },
     {
@@ -40,26 +46,32 @@
     {
       "Name": "\uD835\uDD6E\uD835\uDD86\uD835\uDD97\uD835\uDD97\uD835\uDD8E\uD835\uDD8A\uD835\uDD97",
       "Steam": "76561198775209729",
-      "Score": 80,
-      "Time": "24:02"
+      "Score": 92,
+      "Time": "26:02"
     },
     {
       "Name": "p\uDB40\uDC73⁧⁧q",
       "Steam": "76561199058371972",
-      "Score": 35,
-      "Time": "100:03"
+      "Score": 39,
+      "Time": "102:03"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 86,
+      "Score": 96,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 45,
-      "Time": "55:15"
+      "Score": 52,
+      "Time": "57:15"
+    },
+    {
+      "Name": "беременный",
+      "Steam": "76561198758599024",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
