@@ -1,11 +1,23 @@
 {
-  "Time": "2025-12-30T01:10:41.3089963Z",
+  "Time": "2025-12-30T01:12:41.3190842Z",
   "Players": [
+    {
+      "Name": "\uD835\uDE3F\uD835\uDE67\uD835\uDE56\uD835\uDE5C",
+      "Steam": "76561199015518114",
+      "Score": 0,
+      "Time": "00:24"
+    },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 14,
-      "Time": "09:25"
+      "Score": 16,
+      "Time": "11:25"
+    },
+    {
+      "Name": "vaccanttouchthis",
+      "Steam": "76561198752194898",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ilana_strussberg96",
@@ -16,8 +28,14 @@
     {
       "Name": "p\uDB40\uDC73⁧⁧q",
       "Steam": "76561199058371972",
-      "Score": 28,
-      "Time": "18:01"
+      "Score": 34,
+      "Time": "20:01"
+    },
+    {
+      "Name": "xxxxv",
+      "Steam": "76561199242156295",
+      "Score": 4,
+      "Time": "00:46"
     }
   ]
 }
