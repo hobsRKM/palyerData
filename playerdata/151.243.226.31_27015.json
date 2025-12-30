@@ -1,40 +1,52 @@
 {
-  "Time": "2025-12-30T07:00:29.8659845Z",
+  "Time": "2025-12-30T07:02:29.8721216Z",
   "Players": [
+    {
+      "Name": "plgmisses",
+      "Steam": "76561199717612677",
+      "Score": 6,
+      "Time": "01:48"
+    },
     {
       "Name": "404",
       "Steam": "76561199661377605",
-      "Score": 44,
-      "Time": "20:25"
+      "Score": 46,
+      "Time": "22:25"
     },
     {
       "Name": "LagMaster",
       "Steam": "76561199717783206",
-      "Score": 84,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD79\uD835\uDD8E\uD835\uDD9D\uD835\uDD9C\uD835\uDD86\uD835\uDD97\uD835\uDD8A",
       "Steam": "76561198775209729",
-      "Score": 66,
+      "Score": 72,
       "Time": "??:??"
     },
     {
       "Name": "cayman island boss",
       "Steam": "76561198983792841",
-      "Score": 117,
+      "Score": 119,
       "Time": "??:??"
+    },
+    {
+      "Name": "AIMWARE V7",
+      "Steam": "76561198793408983",
+      "Score": 0,
+      "Time": "01:03"
     },
     {
       "Name": "LuckyCharms.cc chicken big mac",
       "Steam": "76561199145031291",
-      "Score": 34,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "노무현",
       "Steam": "76561198753757684",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
