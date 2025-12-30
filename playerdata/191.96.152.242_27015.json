@@ -1,11 +1,17 @@
 {
-  "Time": "2025-12-30T06:58:24.9189755Z",
+  "Time": "2025-12-30T07:00:24.9168494Z",
   "Players": [
+    {
+      "Name": "perc",
+      "Steam": "76561198893834285",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "d's secret",
       "Steam": "76561198771366230",
       "Score": 4,
-      "Time": "26:50"
+      "Time": "28:50"
     },
     {
       "Name": "Mathis Miles",
@@ -20,21 +26,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "Holiday",
-      "Steam": "76561199442363655",
-      "Score": 94,
-      "Time": "??:??"
-    },
-    {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 75,
-      "Time": "170:45"
+      "Score": 85,
+      "Time": "172:45"
     },
     {
       "Name": "elephant",
       "Steam": "76561199551553809",
-      "Score": 26,
+      "Score": 41,
       "Time": "??:??"
     }
   ]
