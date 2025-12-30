@@ -1,4 +1,65 @@
 {
-  "Time": "2025-12-30T02:02:25.1063647Z",
-  "Players": []
+  "Time": "2025-12-30T02:03:00.6173108Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "#445",
+      "Steam": "76561199092838756",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WWWWWWWWWWWWW",
+      "Steam": "76561198290307218",
+      "Score": 9,
+      "Time": "397:57"
+    },
+    {
+      "Name": "der macher",
+      "Steam": "76561199100078181",
+      "Score": 2,
+      "Time": "07:21"
+    },
+    {
+      "Name": "HappY",
+      "Steam": "76561199642039622",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "interium.ooo smoke me",
+      "Steam": "76561199870521469",
+      "Score": 4,
+      "Time": "410:49"
+    },
+    {
+      "Name": "Gertt-01",
+      "Steam": "76561198756919457",
+      "Score": 1,
+      "Time": "43:54"
+    },
+    {
+      "Name": "2k00$",
+      "Steam": "76561199313171207",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Aimstars",
+      "Steam": "76561199885893585",
+      "Score": 12,
+      "Time": "20:54"
+    },
+    {
+      "Name": "IDONTUSE_PLAGUE",
+      "Steam": "76561198752448314",
+      "Score": 2,
+      "Time": "01:23"
+    }
+  ]
 }
