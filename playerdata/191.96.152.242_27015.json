@@ -1,6 +1,12 @@
 {
-  "Time": "2025-12-30T06:20:24.9159677Z",
+  "Time": "2025-12-30T06:22:24.9221902Z",
   "Players": [
+    {
+      "Name": "MRRAPEYOURASS",
+      "Steam": "76561198769219543",
+      "Score": 0,
+      "Time": "27:20"
+    },
     {
       "Name": "The Baltimore Reaper",
       "Steam": "76561198216766196",
@@ -8,10 +14,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "VACLover",
+      "Steam": "76561199373928412",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "znorux on yt",
       "Steam": "76561199159332814",
-      "Score": 5,
-      "Time": "01:52"
+      "Score": 7,
+      "Time": "03:52"
     },
     {
       "Name": "\uD83D\uDCABwinter4ever",
@@ -20,16 +32,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "Holiday",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "imsigma :3",
       "Steam": "76561198756281241",
       "Score": 7,
-      "Time": "13:44"
+      "Time": "15:44"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 76,
-      "Time": "132:45"
+      "Score": 87,
+      "Time": "134:45"
     }
   ]
 }
