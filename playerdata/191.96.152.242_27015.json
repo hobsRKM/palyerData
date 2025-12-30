@@ -1,29 +1,35 @@
 {
-  "Time": "2025-12-30T06:04:24.9184085Z",
+  "Time": "2025-12-30T06:06:24.92203Z",
   "Players": [
+    {
+      "Name": "The Baltimore Reaper",
+      "Steam": "76561198216766196",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "znorux on yt",
       "Steam": "76561199159332814",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "\uD83D\uDCABwinter4ever",
       "Steam": "76561199217315069",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Оллях пидор бабах",
       "Steam": "76561198754329691",
       "Score": 17,
-      "Time": "120:48"
+      "Time": "122:48"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 21,
-      "Time": "116:45"
+      "Score": 33,
+      "Time": "118:45"
     }
   ]
 }
