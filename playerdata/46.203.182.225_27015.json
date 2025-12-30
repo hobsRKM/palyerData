@@ -1,21 +1,45 @@
 {
-  "Time": "2025-12-30T20:12:44.120168Z",
+  "Time": "2025-12-30T20:16:44.1079065Z",
   "Players": [
+    {
+      "Name": "Lefties",
+      "Steam": "76561199803709567",
+      "Score": 0,
+      "Time": "00:05"
+    },
+    {
+      "Name": "WALTER WHİTE",
+      "Steam": "76561199117987631",
+      "Score": 4,
+      "Time": "03:02"
+    },
     {
       "Name": "Dokuro_Chan",
       "Steam": "76561199861420621",
-      "Score": 2,
-      "Time": "00:52"
+      "Score": 23,
+      "Time": "04:52"
     },
     {
       "Name": "sizux",
       "Steam": "76561198752077327",
-      "Score": 28,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "exe",
       "Steam": "76561198437509300",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hyperbaiter",
+      "Steam": "76561198755830878",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Belisarius",
+      "Steam": "76561198771654626",
       "Score": 0,
       "Time": "??:??"
     }
