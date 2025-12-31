@@ -1,35 +1,41 @@
 {
-  "Time": "2025-12-31T17:10:59.1701301Z",
+  "Time": "2025-12-31T17:11:46.8269235Z",
   "Players": [
     {
-      "Name": "444",
-      "Steam": "76561199021664616",
+      "Name": "\"'",
+      "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xyre",
+      "Steam": "76561199105830408",
       "Score": 12,
+      "Time": "09:01"
+    },
+    {
+      "Name": "simle",
+      "Steam": "76561199872136858",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Gamesens Julita <3.",
-      "Steam": "76561199892316246",
-      "Score": 9,
-      "Time": "??:??"
+      "Name": "vize // testing family alpha2026",
+      "Steam": "76561198045568925",
+      "Score": 0,
+      "Time": "31:16"
     },
     {
-      "Name": "krankenwagen",
-      "Steam": "76561199670175762",
-      "Score": 8,
-      "Time": "??:??"
+      "Name": "delta",
+      "Steam": "76561198757242588",
+      "Score": 1,
+      "Time": "03:27"
     },
     {
-      "Name": "Fnnik",
-      "Steam": "76561198758534558",
+      "Name": "realpious",
+      "Steam": "76561199174885840",
       "Score": 6,
-      "Time": "14:26"
-    },
-    {
-      "Name": "marlboro",
-      "Steam": "76561198771547632",
-      "Score": 7,
-      "Time": "??:??"
+      "Time": "35:48"
     }
   ]
 }
