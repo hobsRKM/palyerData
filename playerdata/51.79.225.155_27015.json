@@ -1,34 +1,40 @@
 {
-  "Time": "2025-12-31T16:42:37.2026673Z",
+  "Time": "2025-12-31T16:44:37.3540061Z",
   "Players": [
     {
       "Name": "CiDo",
       "Steam": "76561198855206904",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
+    },
+    {
+      "Name": "Chadolf Rizzler",
+      "Steam": "76561199821735699",
+      "Score": 3,
+      "Time": "01:09"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 36,
-      "Time": "78:02"
+      "Score": 48,
+      "Time": "80:02"
     },
     {
       "Name": "\uD835\uDE94\uD835\uDE9B\uD835\uDEA3\uD835\uDEA0\uD835\uDE95◣_◢",
       "Steam": "76561198759189186",
-      "Score": 10,
-      "Time": "07:40"
+      "Score": 15,
+      "Time": "09:40"
     },
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
-      "Score": 22,
-      "Time": "22:23"
+      "Score": 28,
+      "Time": "24:23"
     },
     {
       "Name": "KING",
       "Steam": "76561199711442396",
-      "Score": 42,
+      "Score": 45,
       "Time": "??:??"
     }
   ]
