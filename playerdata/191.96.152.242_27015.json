@@ -1,11 +1,11 @@
 {
-  "Time": "2025-12-31T03:04:21.8688442Z",
+  "Time": "2025-12-31T03:06:21.8690588Z",
   "Players": [
     {
       "Name": "Capybara Best",
       "Steam": "76561199867286012",
-      "Score": 46,
-      "Time": "19:15"
+      "Score": 50,
+      "Time": "21:15"
     },
     {
       "Name": "Ghostline Services",
@@ -16,7 +16,13 @@
     {
       "Name": "Retro.CLUB",
       "Steam": "76561198753392880",
-      "Score": 8,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fart500",
+      "Steam": "76561199626903344",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
