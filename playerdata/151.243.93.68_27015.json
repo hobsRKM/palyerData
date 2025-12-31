@@ -1,4 +1,29 @@
 {
-  "Time": "2025-12-31T20:08:16.4076785Z",
-  "Players": []
+  "Time": "2025-12-31T20:08:26.1835961Z",
+  "Players": [
+    {
+      "Name": "Bullet",
+      "Steam": "76561198781702164",
+      "Score": 12,
+      "Time": "41:25"
+    },
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 51,
+      "Time": "21:31"
+    },
+    {
+      "Name": "SandyHooks.lua",
+      "Steam": "76561199874044368",
+      "Score": 1,
+      "Time": "02:02"
+    },
+    {
+      "Name": "skyline tony too good",
+      "Steam": "76561198756722671",
+      "Score": 23,
+      "Time": "??:??"
+    }
+  ]
 }
