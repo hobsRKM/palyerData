@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-31T17:16:16.4143027Z",
-  "Players": []
+  "Time": "2025-12-31T17:16:52.9601686Z",
+  "Players": [
+    {
+      "Name": "Bullet",
+      "Steam": "76561198781702164",
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 41,
+      "Time": "??:??"
+    },
+    {
+      "Name": "The Baltimore Reaper",
+      "Steam": "76561198216766196",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nes",
+      "Steam": "76561199867566993",
+      "Score": 13,
+      "Time": "04:16"
+    },
+    {
+      "Name": "Joe Bartolozzi",
+      "Steam": "76561199366903380",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
