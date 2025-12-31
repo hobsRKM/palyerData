@@ -1,4 +1,47 @@
 {
-  "Time": "2025-12-31T17:30:16.4146784Z",
-  "Players": []
+  "Time": "2025-12-31T17:30:52.9582067Z",
+  "Players": [
+    {
+      "Name": "Bullet",
+      "Steam": "76561198781702164",
+      "Score": 79,
+      "Time": "??:??"
+    },
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "The Baltimore Reaper",
+      "Steam": "76561198216766196",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nes",
+      "Steam": "76561199867566993",
+      "Score": 32,
+      "Time": "18:16"
+    },
+    {
+      "Name": "NoL!miT",
+      "Steam": "76561199180296128",
+      "Score": 19,
+      "Time": "06:17"
+    },
+    {
+      "Name": "vacked",
+      "Steam": "76561199159332814",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SandyHooks.lua",
+      "Steam": "76561199874044368",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
