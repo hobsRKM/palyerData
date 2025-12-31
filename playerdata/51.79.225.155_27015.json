@@ -1,22 +1,40 @@
 {
-  "Time": "2025-12-31T16:56:38.4035412Z",
+  "Time": "2025-12-31T16:58:38.6350435Z",
   "Players": [
     {
       "Name": "CiDo",
       "Steam": "76561198855206904",
       "Score": 4,
-      "Time": "09:56"
+      "Time": "11:56"
+    },
+    {
+      "Name": "ALAmeri",
+      "Steam": "76561198851922530",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Byrdinn",
+      "Steam": "76561198201551281",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AIMWARE",
+      "Steam": "76561199303359682",
+      "Score": 4,
+      "Time": "01:45"
     },
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
-      "Score": 2,
-      "Time": "36:24"
+      "Score": 6,
+      "Time": "38:25"
     },
     {
       "Name": "KING",
       "Steam": "76561199711442396",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
