@@ -1,17 +1,23 @@
 {
-  "Time": "2025-12-31T02:48:21.8620443Z",
+  "Time": "2025-12-31T02:50:21.8627582Z",
   "Players": [
     {
       "Name": "Capybara Best",
       "Steam": "76561199867286012",
-      "Score": 6,
-      "Time": "03:15"
+      "Score": 14,
+      "Time": "05:15"
     },
     {
       "Name": "Mathis Miles",
       "Steam": "76561199383238962",
       "Score": 4,
-      "Time": "03:13"
+      "Time": "05:13"
+    },
+    {
+      "Name": "Ghostline Services",
+      "Steam": "76561198754613052",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
