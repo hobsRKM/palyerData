@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-31T18:38:16.4081259Z",
-  "Players": []
+  "Time": "2025-12-31T18:38:26.1822226Z",
+  "Players": [
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 2,
+      "Time": "15:57"
+    },
+    {
+      "Name": "nes",
+      "Steam": "76561199867566993",
+      "Score": 2,
+      "Time": "22:18"
+    },
+    {
+      "Name": "SandyHooks.lua",
+      "Steam": "76561199874044368",
+      "Score": 0,
+      "Time": "00:20"
+    },
+    {
+      "Name": "bara Best",
+      "Steam": "76561199867286012",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "La Thiên Hành",
+      "Steam": "76561198766355307",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
