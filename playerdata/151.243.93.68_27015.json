@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-31T20:26:16.4080611Z",
-  "Players": []
+  "Time": "2025-12-31T20:26:26.1726788Z",
+  "Players": [
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 11,
+      "Time": "39:31"
+    },
+    {
+      "Name": "vacked",
+      "Steam": "76561199159332814",
+      "Score": 4,
+      "Time": "16:26"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 2,
+      "Time": "14:37"
+    },
+    {
+      "Name": "a1most",
+      "Steam": "76561198767015556",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fidel Castro",
+      "Steam": "76561198350630437",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GAMESENSE FREAK",
+      "Steam": "76561199079017174",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
