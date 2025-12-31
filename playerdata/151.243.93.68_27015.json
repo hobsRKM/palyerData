@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-31T20:42:16.4077162Z",
-  "Players": []
+  "Time": "2025-12-31T20:42:26.18063Z",
+  "Players": [
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 69,
+      "Time": "55:31"
+    },
+    {
+      "Name": "vacked",
+      "Steam": "76561199159332814",
+      "Score": 23,
+      "Time": "32:26"
+    },
+    {
+      "Name": "a1most",
+      "Steam": "76561198767015556",
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fidel Castro",
+      "Steam": "76561198350630437",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "texa",
+      "Steam": "76561199828812573",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "misanthropy.ecstasy",
+      "Steam": "76561199844832166",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
