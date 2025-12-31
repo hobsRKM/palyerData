@@ -1,4 +1,35 @@
 {
-  "Time": "2025-12-31T20:10:16.4081426Z",
-  "Players": []
+  "Time": "2025-12-31T20:10:26.1765961Z",
+  "Players": [
+    {
+      "Name": "Bullet",
+      "Steam": "76561198781702164",
+      "Score": 20,
+      "Time": "43:25"
+    },
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 57,
+      "Time": "23:31"
+    },
+    {
+      "Name": "vacked",
+      "Steam": "76561199159332814",
+      "Score": 0,
+      "Time": "00:26"
+    },
+    {
+      "Name": "SandyHooks.lua",
+      "Steam": "76561199874044368",
+      "Score": 5,
+      "Time": "04:02"
+    },
+    {
+      "Name": "BankvsBanana",
+      "Steam": "76561199619301187",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
