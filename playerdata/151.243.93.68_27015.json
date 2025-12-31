@@ -1,4 +1,41 @@
 {
-  "Time": "2025-12-31T17:26:16.4142316Z",
-  "Players": []
+  "Time": "2025-12-31T17:26:52.95431Z",
+  "Players": [
+    {
+      "Name": "Bullet",
+      "Steam": "76561198781702164",
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "The Baltimore Reaper",
+      "Steam": "76561198216766196",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nes",
+      "Steam": "76561199867566993",
+      "Score": 31,
+      "Time": "14:16"
+    },
+    {
+      "Name": "Anthony Gregory Vefling",
+      "Steam": "76561199803595505",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NoL!miT",
+      "Steam": "76561199180296128",
+      "Score": 6,
+      "Time": "02:17"
+    }
+  ]
 }
