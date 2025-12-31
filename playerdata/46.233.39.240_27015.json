@@ -1,10 +1,16 @@
 {
-  "Time": "2025-12-31T11:46:29.0006385Z",
+  "Time": "2025-12-31T11:48:28.9997223Z",
   "Players": [
     {
       "Name": "Steve Harrington",
       "Steam": "76561198755024911",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dustin Henderson",
+      "Steam": "76561199551475078",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
