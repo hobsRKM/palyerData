@@ -1,4 +1,29 @@
 {
-  "Time": "2025-12-31T16:33:53.8284285Z",
-  "Players": []
+  "Time": "2025-12-31T16:34:18.0949144Z",
+  "Players": [
+    {
+      "Name": "El Cucuy",
+      "Steam": "76561199558449830",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDCE2\uD835\uDCFD\uD835\uDCF8\uD835\uDCFB\uD835\uDCF6\uD835\uDD02",
+      "Steam": "76561198779696501",
+      "Score": 0,
+      "Time": "00:32"
+    },
+    {
+      "Name": "Winxx",
+      "Steam": "76561199472686469",
+      "Score": 8,
+      "Time": "56:01"
+    },
+    {
+      "Name": "Simon",
+      "Steam": "76561199057995920",
+      "Score": 18,
+      "Time": "??:??"
+    }
+  ]
 }
