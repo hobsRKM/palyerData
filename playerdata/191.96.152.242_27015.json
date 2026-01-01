@@ -1,28 +1,34 @@
 {
-  "Time": "2026-01-01T22:02:20.2330713Z",
+  "Time": "2026-01-01T22:04:20.2284378Z",
   "Players": [
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "ุ",
       "Steam": "76561198755537551",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Prapor",
       "Steam": "76561199871955765",
-      "Score": 35,
-      "Time": "11:18"
+      "Score": 39,
+      "Time": "13:18"
     },
     {
       "Name": "Such Finite Happiness",
       "Steam": "76561198819683930",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "0a9703589edf02501cc1eaa3cae02d6a",
       "Steam": "76561198753086898",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
