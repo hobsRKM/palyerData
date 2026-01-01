@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-01T02:32:28.9911925Z",
+  "Time": "2026-01-01T02:34:28.9921215Z",
   "Players": [
+    {
+      "Name": "kash >.<",
+      "Steam": "76561198914307216",
+      "Score": 2,
+      "Time": "01:19"
+    },
     {
       "Name": "vltz",
       "Steam": "76561198288488016",
-      "Score": 0,
-      "Time": "32:27"
+      "Score": 2,
+      "Time": "34:27"
     },
     {
-      "Name": "Lu chicken big mac",
+      "Name": "Luck chicken big mac",
       "Steam": "76561199145031291",
-      "Score": 6,
-      "Time": "32:07"
+      "Score": 16,
+      "Time": "34:07"
     },
     {
       "Name": "K03",
       "Steam": "76561199788609972",
       "Score": 0,
-      "Time": "00:28"
+      "Time": "02:28"
     }
   ]
 }
