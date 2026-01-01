@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-01T09:02:19.6320041Z",
+  "Time": "2026-01-01T09:04:19.6299354Z",
   "Players": [
     {
       "Name": "y",
@@ -10,32 +10,44 @@
     {
       "Name": "california girls",
       "Steam": "76561198782333753",
-      "Score": 90,
+      "Score": 100,
       "Time": "??:??"
     },
     {
       "Name": "main",
       "Steam": "76561199853188051",
-      "Score": 22,
-      "Time": "15:45"
+      "Score": 28,
+      "Time": "17:45"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 68,
+      "Score": 74,
       "Time": "??:??"
+    },
+    {
+      "Name": "yakub",
+      "Steam": "76561199594039131",
+      "Score": 8,
+      "Time": "01:18"
     },
     {
       "Name": "emu",
       "Steam": "76561198147102077",
-      "Score": 3,
-      "Time": "04:47"
+      "Score": 4,
+      "Time": "06:47"
     },
     {
       "Name": "barcode",
       "Steam": "76561199527800621",
-      "Score": 8,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "crystal_virtual",
+      "Steam": "76561198752386392",
+      "Score": 0,
+      "Time": "00:19"
     }
   ]
 }
