@@ -1,29 +1,23 @@
 {
-  "Time": "2026-01-01T23:54:20.2475247Z",
+  "Time": "2026-01-01T23:56:20.2488228Z",
   "Players": [
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 18,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 14,
-      "Time": "20:24"
+      "Score": 22,
+      "Time": "22:24"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 4,
-      "Time": "56:02"
-    },
-    {
-      "Name": "hrmny",
-      "Steam": "76561199841075039",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 11,
+      "Time": "58:02"
     }
   ]
 }
