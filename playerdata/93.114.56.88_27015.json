@@ -1,4 +1,35 @@
 {
-  "Time": "2026-01-01T20:10:22.953829Z",
-  "Players": []
+  "Time": "2026-01-01T20:10:39.9271894Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Boss",
+      "Steam": "76561199801654475",
+      "Score": 21,
+      "Time": "04:05"
+    },
+    {
+      "Name": "lebedincevdima6",
+      "Steam": "76561198753230100",
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "deny",
+      "Steam": "76561198752988127",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WE ARE CHARLIE KIRKKKK",
+      "Steam": "76561198884223891",
+      "Score": 32,
+      "Time": "??:??"
+    }
+  ]
 }
