@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-01T10:16:19.6240173Z",
+  "Time": "2026-01-01T10:18:19.6292334Z",
   "Players": [
     {
       "Name": "BBC",
       "Steam": "76561199031753721",
-      "Score": 45,
-      "Time": "36:21"
+      "Score": 51,
+      "Time": "38:21"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 0,
+      "Time": "01:19"
     },
     {
       "Name": "blatantgayish",
@@ -16,19 +22,19 @@
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 85,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 55,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
