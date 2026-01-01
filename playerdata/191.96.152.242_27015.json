@@ -1,28 +1,40 @@
 {
-  "Time": "2026-01-01T08:38:19.6290257Z",
+  "Time": "2026-01-01T08:40:19.6331019Z",
   "Players": [
+    {
+      "Name": "ุ",
+      "Steam": "76561198755537551",
+      "Score": 2,
+      "Time": "00:29"
+    },
     {
       "Name": "gysic44444",
       "Steam": "76561198985355666",
-      "Score": 44,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "Munk",
       "Steam": "76561198177713373",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 55,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "slitpuppy",
       "Steam": "76561198784546301",
-      "Score": 16,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MRRAPEYOURASS",
+      "Steam": "76561198769219543",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
