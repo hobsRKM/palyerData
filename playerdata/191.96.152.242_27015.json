@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-01T18:00:20.2319861Z",
+  "Time": "2026-01-01T18:02:20.2438501Z",
   "Players": [
+    {
+      "Name": "DaCouchMan",
+      "Steam": "76561198043040531",
+      "Score": 0,
+      "Time": "00:44"
+    },
     {
       "Name": "Blank♕",
       "Steam": "76561199096269503",
@@ -10,25 +16,25 @@
     {
       "Name": "Baby Boo Jus",
       "Steam": "76561199871692853",
-      "Score": 2,
-      "Time": "00:37"
+      "Score": 11,
+      "Time": "02:37"
     },
     {
       "Name": "misanthropy.ecstasy",
       "Steam": "76561199844832166",
-      "Score": 32,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 36,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
@@ -40,12 +46,30 @@
     {
       "Name": "GAMESENSE FREAK",
       "Steam": "76561199079017174",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "45",
       "Steam": "76561198757745510",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "revenant p2c",
+      "Steam": "76561198753002658",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FeldtTheDeveloper",
+      "Steam": "76561198754776387",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "depressionhvh",
+      "Steam": "76561199880888477",
       "Score": 0,
       "Time": "??:??"
     }
