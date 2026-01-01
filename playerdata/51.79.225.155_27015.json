@@ -1,41 +1,53 @@
 {
-  "Time": "2026-01-01T11:40:33.0552313Z",
+  "Time": "2026-01-01T11:42:33.0888328Z",
   "Players": [
+    {
+      "Name": "LZT",
+      "Steam": "76561199147325969",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "76561198778813347",
+      "Steam": "76561198778813347",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "雨√打芭蕉",
       "Steam": "76561199783866410",
       "Score": 0,
-      "Time": "02:02"
+      "Time": "04:03"
     },
     {
       "Name": "Chadolf Rizzler",
       "Steam": "76561199821735699",
-      "Score": 68,
-      "Time": "47:17"
+      "Score": 72,
+      "Time": "49:17"
     },
     {
       "Name": "Grwww",
       "Steam": "76561199010435611",
-      "Score": 39,
-      "Time": "34:30"
+      "Score": 0,
+      "Time": "36:30"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
       "Score": 45,
-      "Time": "52:56"
+      "Time": "54:56"
     },
     {
       "Name": "ради ани",
       "Steam": "76561199113967944",
-      "Score": 65,
-      "Time": "38:11"
+      "Score": 77,
+      "Time": "40:11"
     },
     {
       "Name": "BEST \uD83D\uDE01",
       "Steam": "76561198786904680",
-      "Score": 41,
-      "Time": "43:05"
+      "Score": 47,
+      "Time": "45:05"
     },
     {
       "Name": "b \uD835\uDE8C\uD835\uDE8A\uD835\uDE8D\uD835\uDE8E\uD835\uDE9B\uD835\uDE8E 愛",
@@ -46,14 +58,14 @@
     {
       "Name": "peksta",
       "Steam": "76561198755840381",
-      "Score": 74,
-      "Time": "29:22"
+      "Score": 78,
+      "Time": "31:22"
     },
     {
       "Name": "Joseph Rizzler",
       "Steam": "76561199822092076",
       "Score": 0,
-      "Time": "52:27"
+      "Time": "54:27"
     }
   ]
 }
