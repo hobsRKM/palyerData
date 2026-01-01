@@ -1,20 +1,26 @@
 {
-  "Time": "2026-01-01T10:56:32.1568076Z",
+  "Time": "2026-01-01T10:58:32.1778195Z",
   "Players": [
+    {
+      "Name": "\uD835\uDE94\uD835\uDE9B\uD835\uDEA3\uD835\uDEA0\uD835\uDE95◣_◢",
+      "Steam": "76561198759189186",
+      "Score": 10,
+      "Time": "01:56"
+    },
     {
       "Name": "404",
       "Steam": "76561199661377605",
-      "Score": 0,
-      "Time": "40:40"
+      "Score": 2,
+      "Time": "42:40"
     },
     {
       "Name": "Chadolf Rizzler",
       "Steam": "76561199821735699",
-      "Score": 2,
-      "Time": "03:16"
+      "Score": 13,
+      "Time": "05:16"
     },
     {
-      "Name": "404 i LagMaster",
+      "Name": "4 LagMaster",
       "Steam": "76561199717783206",
       "Score": 0,
       "Time": "??:??"
@@ -22,38 +28,44 @@
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 0,
-      "Time": "08:55"
+      "Score": 2,
+      "Time": "10:55"
     },
     {
-      "Name": "I'm bla \uD835\uDE8C\uD835\uDE8A\uD835\uDE8D\uD835\uDE8E\uD835\uDE9B\uD835\uDE8E 愛",
+      "Name": "BEST \uD83D\uDE01",
+      "Steam": "76561198786904680",
+      "Score": 2,
+      "Time": "01:04"
+    },
+    {
+      "Name": "black \uD835\uDE8C\uD835\uDE8A\uD835\uDE8D\uD835\uDE8E\uD835\uDE9B\uD835\uDE8E 愛",
       "Steam": "76561198822079717",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "麦香鱼",
       "Steam": "76561199724831608",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "简单的游戏",
       "Steam": "76561198755517723",
       "Score": 0,
-      "Time": "08:13"
+      "Time": "10:13"
     },
     {
       "Name": "Joseph Rizzler",
       "Steam": "76561199822092076",
-      "Score": 0,
-      "Time": "08:26"
+      "Score": 5,
+      "Time": "10:26"
     },
     {
       "Name": "ezzka",
       "Steam": "76561198787032266",
-      "Score": 2,
-      "Time": "06:19"
+      "Score": 4,
+      "Time": "08:19"
     }
   ]
 }
