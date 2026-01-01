@@ -1,27 +1,39 @@
 {
-  "Time": "2026-01-01T16:10:32.9908369Z",
+  "Time": "2026-01-01T16:12:32.9866186Z",
   "Players": [
+    {
+      "Name": "plgmisses",
+      "Steam": "76561199717612677",
+      "Score": 0,
+      "Time": "01:00"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
       "Score": 0,
-      "Time": "69:58"
+      "Time": "71:58"
     },
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
-      "Score": 2,
-      "Time": "48:35"
+      "Score": 12,
+      "Time": "50:35"
     },
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 0,
-      "Time": "38:39"
+      "Score": 4,
+      "Time": "40:39"
     },
     {
       "Name": "DO NOT REDEEM IT !!!!",
       "Steam": "76561199470819678",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "exhub \uD835\uDE8C\uD835\uDE8A\uD835\uDE8D\uD835\uDE8E\uD835\uDE9B\uD835\uDE8E 愛",
+      "Steam": "76561198822079717",
       "Score": 0,
       "Time": "??:??"
     }
