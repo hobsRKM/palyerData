@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-01T18:04:22.952712Z",
-  "Players": []
+  "Time": "2026-01-01T18:05:02.9139862Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "60:00"
+    },
+    {
+      "Name": "Kawasaki",
+      "Steam": "76561199758080398",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nymphobrainiac",
+      "Steam": "76561199880783602",
+      "Score": 20,
+      "Time": "00:38"
+    },
+    {
+      "Name": "krankenwagen",
+      "Steam": "76561198780629511",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
