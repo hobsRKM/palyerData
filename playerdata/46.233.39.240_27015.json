@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-01T08:32:31.5828169Z",
+  "Time": "2026-01-01T08:38:31.5830264Z",
   "Players": [
+    {
+      "Name": "Dishwasher Certified",
+      "Steam": "76561199489491259",
+      "Score": 2,
+      "Time": "01:44"
+    },
     {
       "Name": "vltz",
       "Steam": "76561198288488016",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
-      "Name": "radiance.lua Beans",
+      "Name": "iance.luarad Beans",
       "Steam": "76561199053428594",
-      "Score": 12,
+      "Score": 30,
       "Time": "??:??"
     }
   ]
