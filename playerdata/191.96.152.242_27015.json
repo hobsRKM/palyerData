@@ -1,83 +1,59 @@
 {
-  "Time": "2026-01-01T23:34:20.2566436Z",
+  "Time": "2026-01-01T23:36:20.2554785Z",
   "Players": [
-    {
-      "Name": "odin",
-      "Steam": "76561199880717233",
-      "Score": 31,
-      "Time": "26:11"
-    },
-    {
-      "Name": "devour",
-      "Steam": "76561199634018466",
-      "Score": 0,
-      "Time": "12:23"
-    },
     {
       "Name": "Holiday",
       "Steam": "76561199442363655",
-      "Score": 9,
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Perry the Platypus",
+      "Steam": "76561199186233956",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "coursed",
       "Steam": "76561199569628909",
-      "Score": 11,
-      "Time": "05:36"
+      "Score": 15,
+      "Time": "07:36"
     },
     {
       "Name": "julius caesar",
       "Steam": "76561199268825034",
       "Score": 0,
-      "Time": "38:10"
-    },
-    {
-      "Name": "misanthropy.ecstasy",
-      "Steam": "76561199844832166",
-      "Score": 44,
-      "Time": "??:??"
+      "Time": "40:10"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 0,
-      "Time": "00:24"
+      "Score": 9,
+      "Time": "02:24"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 31,
-      "Time": "36:02"
+      "Score": 35,
+      "Time": "38:02"
     },
     {
       "Name": "vacked",
       "Steam": "76561199159332814",
-      "Score": 2,
-      "Time": "02:26"
-    },
-    {
-      "Name": "cloxid",
-      "Steam": "76561199525060285",
-      "Score": 50,
-      "Time": "18:29"
-    },
-    {
-      "Name": "ozelphy",
-      "Steam": "76561198273566562",
-      "Score": 51,
-      "Time": "??:??"
+      "Score": 8,
+      "Time": "04:26"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 39,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "evov6u3ye7",
       "Steam": "76561198759983123",
-      "Score": 6,
-      "Time": "04:37"
+      "Score": 9,
+      "Time": "06:37"
     }
   ]
 }
