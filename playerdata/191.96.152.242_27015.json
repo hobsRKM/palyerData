@@ -1,64 +1,70 @@
 {
-  "Time": "2026-01-01T23:28:20.2447815Z",
+  "Time": "2026-01-01T23:30:20.2501032Z",
   "Players": [
     {
       "Name": "Simply",
       "Steam": "76561199889163804",
-      "Score": 50,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "odin",
       "Steam": "76561199880717233",
-      "Score": 24,
-      "Time": "20:11"
+      "Score": 29,
+      "Time": "22:11"
     },
     {
       "Name": "devour",
       "Steam": "76561199634018466",
-      "Score": 10,
-      "Time": "06:23"
+      "Score": 12,
+      "Time": "08:23"
     },
     {
       "Name": "Holiday",
       "Steam": "76561199442363655",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
+    },
+    {
+      "Name": "coursed",
+      "Steam": "76561199569628909",
+      "Score": 0,
+      "Time": "01:36"
     },
     {
       "Name": "julius caesar",
       "Steam": "76561199268825034",
       "Score": 27,
-      "Time": "32:10"
+      "Time": "34:10"
     },
     {
       "Name": "Kuroken",
       "Steam": "76561199479790668",
-      "Score": 6,
-      "Time": "02:15"
+      "Score": 1,
+      "Time": "01:08"
     },
     {
       "Name": "misanthropy.ecstasy",
       "Steam": "76561199844832166",
-      "Score": 39,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 28,
-      "Time": "30:02"
+      "Score": 30,
+      "Time": "32:02"
     },
     {
       "Name": "cloxid",
       "Steam": "76561199525060285",
-      "Score": 32,
-      "Time": "12:29"
+      "Score": 40,
+      "Time": "14:29"
     },
     {
       "Name": "ozelphy",
       "Steam": "76561198273566562",
-      "Score": 33,
+      "Score": 41,
       "Time": "??:??"
     },
     {
@@ -66,6 +72,12 @@
       "Steam": "76561199841075039",
       "Score": 31,
       "Time": "??:??"
+    },
+    {
+      "Name": "evov6u3ye7",
+      "Steam": "76561198759983123",
+      "Score": 4,
+      "Time": "00:37"
     }
   ]
 }
