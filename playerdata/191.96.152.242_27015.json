@@ -1,10 +1,16 @@
 {
-  "Time": "2026-01-01T16:54:20.2322763Z",
+  "Time": "2026-01-01T16:56:20.2330453Z",
   "Players": [
+    {
+      "Name": "D gets no hos",
+      "Steam": "76561199868419880",
+      "Score": 2,
+      "Time": "00:42"
+    },
     {
       "Name": "kill em wit nothing",
       "Steam": "76561198356401784",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
