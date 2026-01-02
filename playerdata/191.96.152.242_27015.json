@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-02T00:20:20.2412935Z",
+  "Time": "2026-01-02T00:22:20.2458276Z",
   "Players": [
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 27,
+      "Score": 30,
       "Time": "??:??"
+    },
+    {
+      "Name": "Baby Boo Jus",
+      "Steam": "76561199871692853",
+      "Score": 0,
+      "Time": "00:15"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 11,
-      "Time": "46:24"
+      "Score": 22,
+      "Time": "48:24"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 7,
-      "Time": "82:02"
+      "Score": 15,
+      "Time": "84:02"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 40,
-      "Time": "14:53"
+      "Score": 44,
+      "Time": "16:53"
     }
   ]
 }
