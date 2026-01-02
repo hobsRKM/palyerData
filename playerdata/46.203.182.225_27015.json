@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-02T17:44:45.1420735Z",
+  "Time": "2026-01-02T17:46:45.1556179Z",
   "Players": [
     {
-      "Name": "ral     suzune",
+      "Name": "$       suzune",
       "Steam": "76561198831338710",
-      "Score": 73,
-      "Time": "48:29"
+      "Score": 2,
+      "Time": "50:29"
     },
     {
-      "Name": "al      suzune",
+      "Name": "keer",
+      "Steam": "76561199860787478",
+      "Score": 0,
+      "Time": "01:29"
+    },
+    {
+      "Name": "$       suzune",
       "Steam": "76561199820885302",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
