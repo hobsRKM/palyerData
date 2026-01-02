@@ -1,58 +1,64 @@
 {
-  "Time": "2026-01-02T16:56:27.7288683Z",
+  "Time": "2026-01-02T16:58:27.7338824Z",
   "Players": [
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 3,
-      "Time": "20:24"
+      "Score": 7,
+      "Time": "22:24"
     },
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
-      "Score": 2,
-      "Time": "27:11"
+      "Score": 8,
+      "Time": "29:11"
     },
     {
       "Name": "KING",
       "Steam": "76561199711442396",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "yawn",
       "Steam": "76561198768590486",
-      "Score": 0,
-      "Time": "15:59"
+      "Score": 4,
+      "Time": "17:59"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 6,
-      "Time": "102:22"
+      "Score": 12,
+      "Time": "104:22"
     },
     {
       "Name": "thatgirl",
       "Steam": "76561198759387430",
-      "Score": 3,
-      "Time": "42:50"
+      "Score": 2,
+      "Time": "44:50"
+    },
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 0,
+      "Time": "00:20"
     },
     {
       "Name": "e",
       "Steam": "76561199564752768",
-      "Score": 9,
-      "Time": "03:23"
+      "Score": 13,
+      "Time": "05:23"
     },
     {
       "Name": "ghostY",
       "Steam": "76561199591486018",
-      "Score": 0,
-      "Time": "01:31"
+      "Score": 2,
+      "Time": "03:31"
     },
     {
       "Name": "rchz",
       "Steam": "76561198753049263",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
