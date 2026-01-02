@@ -1,28 +1,34 @@
 {
-  "Time": "2026-01-02T23:04:20.9921681Z",
+  "Time": "2026-01-02T23:06:20.980948Z",
   "Players": [
+    {
+      "Name": "ViroxZen",
+      "Steam": "76561198752633884",
+      "Score": 0,
+      "Time": "00:30"
+    },
     {
       "Name": "terrorist of muderous action",
       "Steam": "76561199678608838",
-      "Score": 54,
-      "Time": "22:48"
+      "Score": 62,
+      "Time": "24:48"
     },
     {
       "Name": "revenant",
       "Steam": "76561198759862027",
-      "Score": 25,
-      "Time": "08:43"
+      "Score": 35,
+      "Time": "10:43"
     },
     {
       "Name": "Nevo",
       "Steam": "76561198791368162",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "wock",
       "Steam": "76561198756120442",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
