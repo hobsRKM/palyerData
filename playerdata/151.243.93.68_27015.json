@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-02T04:36:14.9914795Z",
-  "Players": []
+  "Time": "2026-01-02T04:37:43.5187071Z",
+  "Players": [
+    {
+      "Name": "yakub",
+      "Steam": "76561199594039131",
+      "Score": 0,
+      "Time": "66:58"
+    },
+    {
+      "Name": "thrax mafia",
+      "Steam": "76561198870752603",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MRRAPEYOURASS",
+      "Steam": "76561198769219543",
+      "Score": 2,
+      "Time": "01:44"
+    },
+    {
+      "Name": "revenant",
+      "Steam": "76561198759862027",
+      "Score": 6,
+      "Time": "09:42"
+    }
+  ]
 }
