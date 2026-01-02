@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-02T18:26:45.1563126Z",
+  "Time": "2026-01-02T18:28:45.1514406Z",
   "Players": [
     {
-      "Name": "suzune",
+      "Name": "realaftermann",
+      "Steam": "76561198751262226",
+      "Score": 0,
+      "Time": "00:47"
+    },
+    {
+      "Name": "astr    suzune",
       "Steam": "76561198831338710",
       "Score": 36,
-      "Time": "90:29"
+      "Time": "92:29"
     },
     {
       "Name": "sybau",
       "Steam": "76561198761075140",
-      "Score": 26,
+      "Score": 40,
       "Time": "??:??"
     },
     {
@@ -28,7 +34,7 @@
     {
       "Name": "xxxxxxvaaa",
       "Steam": "76561198143960810",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
