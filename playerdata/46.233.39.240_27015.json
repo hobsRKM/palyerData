@@ -1,23 +1,17 @@
 {
-  "Time": "2026-01-02T11:18:28.196497Z",
+  "Time": "2026-01-02T11:20:28.1959819Z",
   "Players": [
+    {
+      "Name": "screwdriver",
+      "Steam": "76561198284906238",
+      "Score": 2,
+      "Time": "00:47"
+    },
     {
       "Name": "nixware.cc | Dishwasher Certified",
       "Steam": "76561199489491259",
-      "Score": 16,
-      "Time": "10:17"
-    },
-    {
-      "Name": "NINJAKRAKRN",
-      "Steam": "76561198769785621",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Хрюкослав Лужайк",
-      "Steam": "76561198752934340",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 18,
+      "Time": "12:17"
     }
   ]
 }
