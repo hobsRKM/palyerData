@@ -1,40 +1,46 @@
 {
-  "Time": "2026-01-02T04:18:20.2395758Z",
+  "Time": "2026-01-02T04:20:20.240785Z",
   "Players": [
     {
       "Name": "Summer 美国人",
       "Steam": "76561198029031056",
-      "Score": 31,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bonk",
       "Steam": "76561198120534840",
-      "Score": 38,
-      "Time": "11:35"
+      "Score": 0,
+      "Time": "13:35"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 25,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "rich",
+      "Steam": "76561199096269503",
+      "Score": 0,
+      "Time": "16:21"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 45,
-      "Time": "03:22"
+      "Score": 0,
+      "Time": "00:07"
     },
     {
       "Name": "VikingHammer87",
       "Steam": "76561198001746934",
-      "Score": 59,
-      "Time": "37:07"
+      "Score": 0,
+      "Time": "39:07"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 10,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
