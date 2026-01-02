@@ -1,53 +1,65 @@
 {
-  "Time": "2026-01-02T13:04:27.7380335Z",
+  "Time": "2026-01-02T13:06:27.7298982Z",
   "Players": [
+    {
+      "Name": "samfisher",
+      "Steam": "76561198245268520",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 25,
-      "Time": "19:04"
+      "Score": 32,
+      "Time": "21:04"
     },
     {
       "Name": "Traceless.cc",
       "Steam": "76561198752640811",
-      "Score": 10,
-      "Time": "20:55"
+      "Score": 0,
+      "Time": "22:55"
     },
     {
       "Name": "我的性欲非常强。",
       "Steam": "76561198750856269",
-      "Score": 2,
-      "Time": "00:45"
+      "Score": 7,
+      "Time": "02:45"
     },
     {
       "Name": "✡⃤⛴☁",
       "Steam": "76561199060922164",
-      "Score": 37,
-      "Time": "271:07"
+      "Score": 38,
+      "Time": "273:07"
     },
     {
       "Name": "\uD835\uDE8C\uD835\uDE8A\uD835\uDE8D\uD835\uDE8E\uD835\uDE9B\uD835\uDE8E 愛",
       "Steam": "76561198822079717",
-      "Score": 40,
-      "Time": "46:17"
+      "Score": 54,
+      "Time": "48:17"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 3,
-      "Time": "93:33"
+      "Score": 6,
+      "Time": "95:33"
+    },
+    {
+      "Name": "Seventh Sister Remix",
+      "Steam": "76561199836415907",
+      "Score": 0,
+      "Time": "00:45"
     },
     {
       "Name": "Joseph Rizzler",
       "Steam": "76561199822092076",
-      "Score": 5,
-      "Time": "26:31"
+      "Score": 17,
+      "Time": "28:31"
     },
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
-      "Score": 28,
-      "Time": "62:07"
+      "Score": 33,
+      "Time": "64:07"
     },
     {
       "Name": "AIMWARE",
@@ -58,14 +70,14 @@
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "ICT",
       "Steam": "76561199822233506",
-      "Score": 2,
-      "Time": "07:34"
+      "Score": 4,
+      "Time": "09:34"
     }
   ]
 }
