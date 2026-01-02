@@ -1,4 +1,59 @@
 {
-  "Time": "2026-01-02T08:50:22.5883167Z",
-  "Players": []
+  "Time": "2026-01-02T08:50:40.0214197Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gertt-01",
+      "Steam": "76561198756919457",
+      "Score": 7,
+      "Time": "49:22"
+    },
+    {
+      "Name": "Azrael",
+      "Steam": "76561199151228814",
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MR Donald Trump",
+      "Steam": "76561199525797809",
+      "Score": 0,
+      "Time": "01:20"
+    },
+    {
+      "Name": "sky",
+      "Steam": "76561199890749463",
+      "Score": 29,
+      "Time": "08:38"
+    },
+    {
+      "Name": "meleemeister|",
+      "Steam": "76561197982171598",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nymphobrainiac",
+      "Steam": "76561199880783602",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hdf",
+      "Steam": "76561198775597963",
+      "Score": 4,
+      "Time": "04:03"
+    },
+    {
+      "Name": "LowSkill",
+      "Steam": "76561199754770939",
+      "Score": 2,
+      "Time": "01:46"
+    }
+  ]
 }
