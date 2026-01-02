@@ -1,4 +1,65 @@
 {
-  "Time": "2026-01-02T05:54:14.9914028Z",
-  "Players": []
+  "Time": "2026-01-02T05:55:43.5205295Z",
+  "Players": [
+    {
+      "Name": "sol",
+      "Steam": "76561198774876005",
+      "Score": 54,
+      "Time": "15:30"
+    },
+    {
+      "Name": "thrax mafia",
+      "Steam": "76561198870752603",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 6,
+      "Time": "67:06"
+    },
+    {
+      "Name": "RAT",
+      "Steam": "76561199373220953",
+      "Score": 117,
+      "Time": "??:??"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 20,
+      "Time": "08:14"
+    },
+    {
+      "Name": "MRRAPEYOURASS",
+      "Steam": "76561198769219543",
+      "Score": 94,
+      "Time": "41:03"
+    },
+    {
+      "Name": "barcode",
+      "Steam": "76561199527800621",
+      "Score": 24,
+      "Time": "05:13"
+    },
+    {
+      "Name": "game nexher",
+      "Steam": "76561199614193814",
+      "Score": 59,
+      "Time": "05:57"
+    },
+    {
+      "Name": "@silencebytoni",
+      "Steam": "76561199841103814",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rich",
+      "Steam": "76561199096269503",
+      "Score": 23,
+      "Time": "08:32"
+    }
+  ]
 }
