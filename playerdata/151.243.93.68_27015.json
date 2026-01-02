@@ -1,4 +1,53 @@
 {
-  "Time": "2026-01-02T21:28:16.5204703Z",
-  "Players": []
+  "Time": "2026-01-02T21:29:25.2875979Z",
+  "Players": [
+    {
+      "Name": "rich",
+      "Steam": "76561199096269503",
+      "Score": 45,
+      "Time": "13:35"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 62,
+      "Time": "24:19"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 55,
+      "Time": "76:22"
+    },
+    {
+      "Name": "dONT Kill ME im AFK!!!!111!11",
+      "Steam": "76561199643793569",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ozelphy",
+      "Steam": "76561198273566562",
+      "Score": 151,
+      "Time": "??:??"
+    },
+    {
+      "Name": "★Astral Crack★",
+      "Steam": "76561199156395215",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "texa",
+      "Steam": "76561199828812573",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hrmny",
+      "Steam": "76561199841075039",
+      "Score": 57,
+      "Time": "??:??"
+    }
+  ]
 }
