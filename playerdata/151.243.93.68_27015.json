@@ -1,4 +1,47 @@
 {
-  "Time": "2026-01-02T22:30:16.5362103Z",
-  "Players": []
+  "Time": "2026-01-02T22:31:25.2790212Z",
+  "Players": [
+    {
+      "Name": "barcode",
+      "Steam": "76561199527800621",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 0,
+      "Time": "00:41"
+    },
+    {
+      "Name": "Baby Boo Jus",
+      "Steam": "76561199871692853",
+      "Score": 40,
+      "Time": "30:28"
+    },
+    {
+      "Name": "Shux",
+      "Steam": "76561199170636130",
+      "Score": 16,
+      "Time": "06:58"
+    },
+    {
+      "Name": "hrmny",
+      "Steam": "76561199841075039",
+      "Score": 90,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LULALAFR",
+      "Steam": "76561198753086898",
+      "Score": 0,
+      "Time": "56:43"
+    },
+    {
+      "Name": "Sipping lean, cliché",
+      "Steam": "76561198760311544",
+      "Score": 74,
+      "Time": "??:??"
+    }
+  ]
 }
