@@ -1,65 +1,83 @@
 {
-  "Time": "2026-01-02T14:22:26.6065912Z",
+  "Time": "2026-01-02T14:22:59.2761497Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "X.Main",
+      "Steam": "76561199706707447",
+      "Score": 12,
+      "Time": "361:38"
+    },
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "[Monolith] Tofuuasd",
-      "Steam": "76561199094388949",
+      "Name": "боб",
+      "Steam": "76561198788045832",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gertt-01",
+      "Steam": "76561198756919457",
       "Score": 5,
+      "Time": "28:02"
+    },
+    {
+      "Name": "Noah111 //",
+      "Steam": "76561198880699322",
+      "Score": 0,
+      "Time": "02:14"
+    },
+    {
+      "Name": "#WOMANBOSS ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 0,
+      "Time": "69:03"
+    },
+    {
+      "Name": "stylisz",
+      "Steam": "76561199683040816",
+      "Score": 51,
+      "Time": "89:55"
+    },
+    {
+      "Name": "ᵇᵒᵍᵃᵗᵉFerox",
+      "Steam": "76561199377440484",
+      "Score": 49,
+      "Time": "58:45"
+    },
+    {
+      "Name": "friesforsure",
+      "Steam": "76561198783285372",
+      "Score": 10,
+      "Time": "06:36"
+    },
+    {
+      "Name": "draggy242011",
+      "Steam": "76561198752679149",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "colman",
-      "Steam": "76561199362804934",
-      "Score": 64,
+      "Name": "gd_rialto",
+      "Steam": "76561199480864735",
+      "Score": 25,
       "Time": "??:??"
     },
     {
-      "Name": "bruh",
-      "Steam": "76561198968678598",
-      "Score": 16,
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗxgrc",
+      "Steam": "76561198791116856",
+      "Score": 5,
+      "Time": "589:17"
+    },
+    {
+      "Name": "erick",
+      "Steam": "76561199493665678",
+      "Score": 11,
       "Time": "??:??"
-    },
-    {
-      "Name": "< blank >",
-      "Steam": "76561199837395195",
-      "Score": 62,
-      "Time": "??:??"
-    },
-    {
-      "Name": "MitRO",
-      "Steam": "76561198794087367",
-      "Score": 37,
-      "Time": "22:23"
-    },
-    {
-      "Name": "9Night",
-      "Steam": "76561199501165297",
-      "Score": 48,
-      "Time": "14:58"
-    },
-    {
-      "Name": "lubie placuszki",
-      "Steam": "76561198257642396",
-      "Score": 30,
-      "Time": "322:02"
-    },
-    {
-      "Name": "[Monolith] ScommerOfc",
-      "Steam": "76561199816841149",
-      "Score": 50,
-      "Time": "1084:09"
-    },
-    {
-      "Name": "SrY............",
-      "Steam": "76561199571055028",
-      "Score": 6,
-      "Time": "07:23"
     }
   ]
 }
