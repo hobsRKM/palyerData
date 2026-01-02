@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-02T03:58:20.2434858Z",
+  "Time": "2026-01-02T04:00:20.251656Z",
   "Players": [
     {
       "Name": "Mr Crunchy",
       "Steam": "76561199043213580",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "VikingHammer87",
       "Steam": "76561198001746934",
-      "Score": 23,
-      "Time": "17:07"
+      "Score": 25,
+      "Time": "19:07"
     },
     {
       "Name": "revenant",
       "Steam": "76561198759862027",
-      "Score": 39,
-      "Time": "79:28"
+      "Score": 44,
+      "Time": "81:28"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 33,
-      "Time": "58:08"
+      "Score": 35,
+      "Time": "60:08"
+    },
+    {
+      "Name": "hrmny",
+      "Steam": "76561199841075039",
+      "Score": 0,
+      "Time": "01:06"
     }
   ]
 }
