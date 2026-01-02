@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-02T17:46:45.1556179Z",
+  "Time": "2026-01-02T17:48:45.1557794Z",
   "Players": [
     {
-      "Name": "$       suzune",
+      "Name": "astral  suzune",
       "Steam": "76561198831338710",
-      "Score": 2,
-      "Time": "50:29"
+      "Score": 0,
+      "Time": "52:29"
     },
     {
       "Name": "keer",
       "Steam": "76561199860787478",
       "Score": 0,
-      "Time": "01:29"
+      "Time": "03:29"
     },
     {
-      "Name": "$       suzune",
+      "Name": "astral  suzune",
       "Steam": "76561199820885302",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "ThePlayer148",
+      "Steam": "76561198752484779",
+      "Score": 0,
+      "Time": "01:30"
     }
   ]
 }
