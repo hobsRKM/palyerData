@@ -1,16 +1,34 @@
 {
-  "Time": "2026-01-02T11:36:28.1979519Z",
+  "Time": "2026-01-02T11:42:28.1995584Z",
   "Players": [
+    {
+      "Name": "Schyeah",
+      "Steam": "76561199655842342",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "lil nas x",
       "Steam": "76561198756936337",
-      "Score": 10,
-      "Time": "05:40"
+      "Score": 23,
+      "Time": "11:40"
+    },
+    {
+      "Name": "screwdriver",
+      "Steam": "76561198284906238",
+      "Score": 0,
+      "Time": "02:45"
+    },
+    {
+      "Name": "NINJAKRAKRN",
+      "Steam": "76561198769785621",
+      "Score": 2,
+      "Time": "03:25"
     },
     {
       "Name": "blehh",
       "Steam": "76561199863302978",
-      "Score": 10,
+      "Score": 34,
       "Time": "??:??"
     }
   ]
