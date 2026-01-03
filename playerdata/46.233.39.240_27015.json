@@ -1,23 +1,35 @@
 {
-  "Time": "2026-01-03T10:44:30.3460327Z",
+  "Time": "2026-01-03T10:46:30.3470935Z",
   "Players": [
     {
-      "Name": "radiance.lua vltz",
+      "Name": "vltz",
       "Steam": "76561198288488016",
-      "Score": 44,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "nixware.cc | Dishwasher Certified",
       "Steam": "76561199489491259",
-      "Score": 53,
-      "Time": "38:41"
+      "Score": 0,
+      "Time": "40:41"
     },
     {
       "Name": "JJAYJOKER",
       "Steam": "76561198752947767",
-      "Score": 14,
-      "Time": "08:20"
+      "Score": 2,
+      "Time": "10:20"
+    },
+    {
+      "Name": "maz",
+      "Steam": "76561199049294295",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "asosyall",
+      "Steam": "76561199225484645",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
