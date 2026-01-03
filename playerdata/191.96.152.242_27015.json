@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-03T05:28:20.9815236Z",
+  "Time": "2026-01-03T05:30:20.9891471Z",
   "Players": [
     {
       "Name": "YES...KING",
@@ -10,26 +10,32 @@
     {
       "Name": "xxx",
       "Steam": "76561199503060650",
-      "Score": 15,
-      "Time": "11:23"
+      "Score": 19,
+      "Time": "13:23"
+    },
+    {
+      "Name": "johnny joestar",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "00:55"
     },
     {
       "Name": "La Thiên Hành",
       "Steam": "76561198766355307",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
       "Score": 0,
-      "Time": "04:52"
+      "Time": "06:52"
     },
     {
       "Name": "Holiday",
       "Steam": "76561199442363655",
-      "Score": 53,
-      "Time": "18:30"
+      "Score": 63,
+      "Time": "20:30"
     }
   ]
 }
