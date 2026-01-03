@@ -1,11 +1,23 @@
 {
-  "Time": "2026-01-03T22:48:30.3514592Z",
+  "Time": "2026-01-03T22:50:30.351114Z",
   "Players": [
     {
-      "Name": "/-adiance.lua vltz",
+      "Name": "radiance.lua vltz",
       "Steam": "76561198288488016",
+      "Score": 2,
+      "Time": "33:30"
+    },
+    {
+      "Name": "Dishwasher Certified",
+      "Steam": "76561199489491259",
       "Score": 0,
-      "Time": "31:30"
+      "Time": "00:51"
+    },
+    {
+      "Name": "白夜",
+      "Steam": "76561199786181730",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
