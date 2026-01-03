@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-03T05:44:20.980223Z",
+  "Time": "2026-01-03T05:46:20.9836634Z",
   "Players": [
+    {
+      "Name": "Bullet",
+      "Steam": "76561198781702164",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "YES...KING",
       "Steam": "76561198753677612",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "johnny joestar",
       "Steam": "76561199880717233",
-      "Score": 10,
-      "Time": "14:55"
+      "Score": 16,
+      "Time": "16:55"
     },
     {
       "Name": "La Thiên Hành",
       "Steam": "76561198766355307",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 2,
-      "Time": "20:52"
+      "Score": 12,
+      "Time": "22:52"
     },
     {
       "Name": "Holiday",
       "Steam": "76561199442363655",
-      "Score": 3,
-      "Time": "34:30"
+      "Score": 0,
+      "Time": "36:30"
     }
   ]
 }
