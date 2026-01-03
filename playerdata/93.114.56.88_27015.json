@@ -1,4 +1,53 @@
 {
-  "Time": "2026-01-03T16:28:20.0198802Z",
-  "Players": []
+  "Time": "2026-01-03T16:29:00.309024Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "synq",
+      "Steam": "76561198967672425",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SKEETLESS",
+      "Steam": "76561198418699703",
+      "Score": 60,
+      "Time": "135:30"
+    },
+    {
+      "Name": "Spark",
+      "Steam": "76561199847321920",
+      "Score": 0,
+      "Time": "198:57"
+    },
+    {
+      "Name": "SHAy",
+      "Steam": "76561198955920388",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "baba yaga",
+      "Steam": "76561198752787796",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Assault Mode",
+      "Steam": "76561198854285250",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "loadingscreen",
+      "Steam": "76561199813308264",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
