@@ -1,35 +1,47 @@
 {
-  "Time": "2026-01-03T06:10:20.9831832Z",
+  "Time": "2026-01-03T06:12:20.9946209Z",
   "Players": [
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 70,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 85,
+      "Score": 99,
       "Time": "??:??"
+    },
+    {
+      "Name": "mk27",
+      "Steam": "76561199527800621",
+      "Score": 0,
+      "Time": "00:35"
     },
     {
       "Name": "johnny joestar",
       "Steam": "76561199880717233",
       "Score": 52,
-      "Time": "40:55"
+      "Time": "42:55"
+    },
+    {
+      "Name": "Real shit no gay shit",
+      "Steam": "76561199100343450",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
       "Score": 48,
-      "Time": "46:52"
+      "Time": "48:52"
     },
     {
       "Name": "Holiday",
       "Steam": "76561199442363655",
       "Score": 32,
-      "Time": "60:30"
+      "Time": "62:30"
     }
   ]
 }
