@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-03T05:22:30.3567436Z",
+  "Time": "2026-01-03T05:24:30.3574926Z",
   "Players": [
     {
       "Name": "gamesens chicken big mac",
       "Steam": "76561199145031291",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "larrrrp",
       "Steam": "76561198780185198",
-      "Score": 36,
-      "Time": "06:48"
+      "Score": 40,
+      "Time": "08:48"
+    },
+    {
+      "Name": "fexo-cs",
+      "Steam": "76561199803782355",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
