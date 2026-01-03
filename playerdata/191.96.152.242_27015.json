@@ -1,16 +1,28 @@
 {
-  "Time": "2026-01-03T03:52:20.986226Z",
+  "Time": "2026-01-03T03:54:20.9901Z",
   "Players": [
+    {
+      "Name": "ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "rParcival",
       "Steam": "76561199178129603",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Manipulation",
       "Steam": "76561199836944600",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "johnny joestar",
+      "Steam": "76561199880717233",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
