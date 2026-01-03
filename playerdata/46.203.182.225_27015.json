@@ -1,28 +1,40 @@
 {
-  "Time": "2026-01-03T18:42:44.8251249Z",
+  "Time": "2026-01-03T18:44:44.81609Z",
   "Players": [
+    {
+      "Name": "PolatAMIMDAR",
+      "Steam": "76561198755967252",
+      "Score": 0,
+      "Time": "00:05"
+    },
     {
       "Name": "Lefties",
       "Steam": "76561199803709567",
-      "Score": 16,
-      "Time": "03:09"
+      "Score": 28,
+      "Time": "05:09"
     },
     {
       "Name": "WALTER WHİTE",
       "Steam": "76561199117987631",
-      "Score": 9,
-      "Time": "02:56"
+      "Score": 13,
+      "Time": "04:56"
     },
     {
       "Name": "C.C.",
       "Steam": "76561199858045884",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "cs 2000hour+ igrok",
       "Steam": "76561198770422116",
-      "Score": 10,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Yt-Xafira",
+      "Steam": "76561198416561422",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
