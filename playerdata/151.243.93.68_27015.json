@@ -1,4 +1,65 @@
 {
-  "Time": "2026-01-03T20:40:17.5258915Z",
-  "Players": []
+  "Time": "2026-01-03T20:40:35.3398201Z",
+  "Players": [
+    {
+      "Name": "ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 49,
+      "Time": "44:51"
+    },
+    {
+      "Name": "Nigwardo",
+      "Steam": "76561198820538389",
+      "Score": 29,
+      "Time": "22:49"
+    },
+    {
+      "Name": "VikingHammer87",
+      "Steam": "76561198001746934",
+      "Score": 30,
+      "Time": "22:34"
+    },
+    {
+      "Name": "imhittingpee",
+      "Steam": "76561199626903344",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mr Crunchy",
+      "Steam": "76561199043213580",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "epstein had aura",
+      "Steam": "76561199525552573",
+      "Score": 18,
+      "Time": "130:32"
+    },
+    {
+      "Name": "METHY",
+      "Steam": "76561198752177780",
+      "Score": 0,
+      "Time": "41:59"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 0,
+      "Time": "30:29"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 45,
+      "Time": "124:02"
+    },
+    {
+      "Name": "[NHResolver] CS2Yapper",
+      "Steam": "76561199568679621",
+      "Score": 39,
+      "Time": "49:25"
+    }
+  ]
 }
