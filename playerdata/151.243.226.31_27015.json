@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-03T07:34:27.8973625Z",
+  "Time": "2026-01-03T07:36:27.9054822Z",
   "Players": [
+    {
+      "Name": "Grwww",
+      "Steam": "76561199010435611",
+      "Score": 0,
+      "Time": "00:20"
+    },
     {
       "Name": "JumpScout 2077",
       "Steam": "76561199842283410",
-      "Score": 0,
-      "Time": "63:03"
+      "Score": 10,
+      "Time": "65:03"
     },
     {
       "Name": "Traceless.cc",
       "Steam": "76561198752640811",
       "Score": 4,
-      "Time": "36:24"
+      "Time": "38:24"
     },
     {
       "Name": "peksta",
@@ -22,7 +28,7 @@
     {
       "Name": "yawn",
       "Steam": "76561198768590486",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
