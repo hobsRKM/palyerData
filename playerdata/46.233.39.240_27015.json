@@ -1,23 +1,35 @@
 {
-  "Time": "2026-01-04T08:18:28.0640884Z",
+  "Time": "2026-01-04T08:20:28.0642736Z",
   "Players": [
     {
       "Name": "chicken big mac",
       "Steam": "76561199145031291",
+      "Score": 12,
+      "Time": "03:22"
+    },
+    {
+      "Name": "LDLC.COM KQLY",
+      "Steam": "76561198750438911",
       "Score": 2,
-      "Time": "01:22"
+      "Time": "01:15"
     },
     {
       "Name": "Jenko From O'Block",
       "Steam": "76561198094827036",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Vtec34",
       "Steam": "76561199845842299",
-      "Score": 15,
-      "Time": "08:25"
+      "Score": 13,
+      "Time": "10:25"
+    },
+    {
+      "Name": "maga",
+      "Steam": "76561199880361011",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
