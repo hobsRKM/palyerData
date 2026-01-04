@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-04T06:30:28.072869Z",
+  "Time": "2026-01-04T06:32:28.073227Z",
   "Players": [
+    {
+      "Name": "mega knight",
+      "Steam": "76561198754853794",
+      "Score": 0,
+      "Time": "01:56"
+    },
     {
       "Name": "chicken big mac",
       "Steam": "76561199145031291",
@@ -10,13 +16,13 @@
     {
       "Name": "christiansburg",
       "Steam": "76561198245268520",
-      "Score": 10,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "detained",
       "Steam": "76561199093223654",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     }
   ]
