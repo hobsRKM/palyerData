@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-04T16:14:28.153914Z",
+  "Time": "2026-01-04T16:28:28.1583699Z",
   "Players": [
+    {
+      "Name": "Kaiii",
+      "Steam": "76561199832854360",
+      "Score": 44,
+      "Time": "??:??"
+    },
     {
       "Name": "killuaa22",
       "Steam": "76561198430642298",
-      "Score": 30,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "LemonTree",
       "Steam": "76561199034508885",
-      "Score": 18,
+      "Score": 9,
       "Time": "??:??"
-    },
-    {
-      "Name": "momaxcbm711",
-      "Steam": "76561199703245000",
-      "Score": 2,
-      "Time": "02:50"
     },
     {
       "Name": "felix",
       "Steam": "76561198765165744",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
+      "Steam": "76561199806910486",
+      "Score": 2,
+      "Time": "01:21"
     }
   ]
 }
