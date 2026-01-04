@@ -1,71 +1,59 @@
 {
-  "Time": "2026-01-04T05:28:35.3256792Z",
+  "Time": "2026-01-04T05:30:35.3172338Z",
   "Players": [
+    {
+      "Name": "Stopes",
+      "Steam": "76561198755674076",
+      "Score": 0,
+      "Time": "01:33"
+    },
     {
       "Name": "Holiday",
       "Steam": "76561199442363655",
-      "Score": 75,
-      "Time": "54:13"
+      "Score": 0,
+      "Time": "56:13"
     },
     {
       "Name": "Adam",
       "Steam": "76561199443560891",
-      "Score": 5,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Entod",
       "Steam": "76561198764909721",
-      "Score": 2,
-      "Time": "231:36"
+      "Score": 4,
+      "Time": "233:36"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 23,
-      "Time": "03:23"
-    },
-    {
-      "Name": "Fa simply",
-      "Steam": "76561199889163804",
-      "Score": 104,
-      "Time": "??:??"
+      "Score": 6,
+      "Time": "05:23"
     },
     {
       "Name": "switchglock",
       "Steam": "76561199527800621",
-      "Score": 11,
-      "Time": "08:24"
-    },
-    {
-      "Name": "goob",
-      "Steam": "76561199236019226",
-      "Score": 86,
-      "Time": "21:19"
+      "Score": 0,
+      "Time": "10:24"
     },
     {
       "Name": "zุesus christ",
       "Steam": "76561198755537551",
-      "Score": 26,
-      "Time": "19:48"
+      "Score": 2,
+      "Time": "21:48"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 57,
-      "Time": "18:27"
+      "Score": 0,
+      "Time": "20:27"
     },
     {
       "Name": "Nattspend",
       "Steam": "76561199527913332",
-      "Score": 7,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "imhittingpee",
-      "Steam": "76561199626903344",
-      "Score": 50,
-      "Time": "311:27"
     }
   ]
 }
