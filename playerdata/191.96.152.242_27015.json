@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-04T21:38:20.5522194Z",
+  "Time": "2026-01-04T21:40:20.5524443Z",
   "Players": [
+    {
+      "Name": "BOT Opie",
+      "Steam": "76561197982529353",
+      "Score": 0,
+      "Time": "01:04"
+    },
     {
       "Name": "pipiska",
       "Steam": "76561198752394953",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "xanterestpeek",
       "Steam": "76561198751496979",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
