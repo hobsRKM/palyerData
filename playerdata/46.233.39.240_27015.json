@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-04T08:54:28.0659278Z",
+  "Time": "2026-01-04T08:56:28.066147Z",
   "Players": [
+    {
+      "Name": "mega knight",
+      "Steam": "76561198754853794",
+      "Score": 0,
+      "Time": "00:41"
+    },
     {
       "Name": "chicken big mac",
       "Steam": "76561199145031291",
-      "Score": 24,
-      "Time": "37:22"
+      "Score": 30,
+      "Time": "39:22"
     },
     {
       "Name": "nixware.cc | Dishwasher Certified",
@@ -16,14 +22,14 @@
     {
       "Name": "LDLC.COM KQLY",
       "Steam": "76561198750438911",
-      "Score": 8,
-      "Time": "03:33"
+      "Score": 15,
+      "Time": "05:33"
     },
     {
       "Name": "Vtec34",
       "Steam": "76561199845842299",
       "Score": 12,
-      "Time": "44:25"
+      "Time": "46:25"
     }
   ]
 }
