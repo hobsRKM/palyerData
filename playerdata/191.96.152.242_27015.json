@@ -1,28 +1,28 @@
 {
-  "Time": "2026-01-04T19:56:20.5581322Z",
+  "Time": "2026-01-04T19:58:20.5446497Z",
   "Players": [
+    {
+      "Name": "xxx",
+      "Steam": "76561199503060650",
+      "Score": 0,
+      "Time": "00:25"
+    },
     {
       "Name": "QuesoCrusader",
       "Steam": "76561199820982951",
-      "Score": 38,
-      "Time": "35:35"
+      "Score": 1,
+      "Time": "37:35"
     },
     {
       "Name": "superstar >:3",
       "Steam": "76561198768490015",
-      "Score": 66,
-      "Time": "27:32"
+      "Score": 0,
+      "Time": "29:32"
     },
     {
       "Name": "imhittingpee",
       "Steam": "76561199626903344",
-      "Score": 84,
-      "Time": "??:??"
-    },
-    {
-      "Name": "kgaard",
-      "Steam": "76561198997246062",
-      "Score": 6,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
