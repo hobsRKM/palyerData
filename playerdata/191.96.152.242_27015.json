@@ -1,10 +1,16 @@
 {
-  "Time": "2026-01-04T17:02:20.5551452Z",
+  "Time": "2026-01-04T17:04:20.5559471Z",
   "Players": [
+    {
+      "Name": "epstein had aura",
+      "Steam": "76561199525552573",
+      "Score": 2,
+      "Time": "00:27"
+    },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 103,
+      "Score": 116,
       "Time": "??:??"
     },
     {
@@ -16,14 +22,26 @@
     {
       "Name": "✮",
       "Steam": "76561199031753721",
-      "Score": 55,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "devour",
       "Steam": "76561199634018466",
       "Score": 10,
-      "Time": "08:42"
+      "Time": "10:42"
+    },
+    {
+      "Name": "Legendary Eagle Kisser",
+      "Steam": "76561198205105983",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
