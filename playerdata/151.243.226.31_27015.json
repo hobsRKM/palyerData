@@ -1,47 +1,59 @@
 {
-  "Time": "2026-01-05T08:58:48.4587809Z",
+  "Time": "2026-01-05T09:00:48.4642023Z",
   "Players": [
     {
       "Name": "-btw",
       "Steam": "76561199417064156",
+      "Score": 4,
+      "Time": "17:04"
+    },
+    {
+      "Name": "Aquafina__",
+      "Steam": "76561198239908776",
       "Score": 0,
-      "Time": "15:04"
+      "Time": "01:31"
     },
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "longphamhoang566",
+      "Steam": "76561198752492018",
+      "Score": 0,
+      "Time": "00:27"
+    },
+    {
+      "Name": "Grwww",
+      "Steam": "76561199010435611",
+      "Score": 0,
+      "Time": "00:24"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Beijng Rizzler",
       "Steam": "76561199820767921",
-      "Score": 2,
-      "Time": "14:32"
+      "Score": 8,
+      "Time": "16:32"
     },
     {
       "Name": "e",
       "Steam": "76561199564752768",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "zoe",
       "Steam": "76561199127011949",
-      "Score": 0,
-      "Time": "00:36"
-    },
-    {
-      "Name": "курю пиво",
-      "Steam": "76561199875037727",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 1,
+      "Time": "02:36"
     }
   ]
 }
