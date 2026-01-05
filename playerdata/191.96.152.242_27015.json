@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-05T03:40:20.5493347Z",
+  "Time": "2026-01-05T03:42:20.5603736Z",
   "Players": [
+    {
+      "Name": "xxx",
+      "Steam": "76561199503060650",
+      "Score": 14,
+      "Time": "00:27"
+    },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 75,
+      "Score": 83,
       "Time": "??:??"
     },
     {
       "Name": "OG user",
       "Steam": "76561199755573645",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "blyat",
       "Steam": "76561199863490756",
-      "Score": 31,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "chen",
       "Steam": "76561199860618727",
-      "Score": 69,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "Frostyx",
       "Steam": "76561198754223447",
-      "Score": 46,
-      "Time": "28:42"
+      "Score": 52,
+      "Time": "30:42"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199870719553",
-      "Score": 29,
-      "Time": "28:51"
+      "Score": 33,
+      "Time": "30:51"
     }
   ]
 }
