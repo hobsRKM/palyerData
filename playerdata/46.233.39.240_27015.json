@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-05T00:42:28.0625479Z",
+  "Time": "2026-01-05T00:44:28.0626572Z",
   "Players": [
     {
-      "Name": "r@diance.lua vltz",
+      "Name": "LDLC.COM KQLY",
+      "Steam": "76561198750438911",
+      "Score": 0,
+      "Time": "00:14"
+    },
+    {
+      "Name": "radiance.lua vltz",
       "Steam": "76561198288488016",
       "Score": 14,
-      "Time": "35:32"
+      "Time": "37:32"
     },
     {
       "Name": "revision",
       "Steam": "76561199816780266",
-      "Score": 6,
-      "Time": "05:21"
+      "Score": 10,
+      "Time": "07:21"
     }
   ]
 }
