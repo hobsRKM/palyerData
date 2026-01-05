@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-05T17:30:48.4595176Z",
+  "Time": "2026-01-05T17:32:48.458414Z",
   "Players": [
     {
       "Name": "soul",
       "Steam": "76561199822021009",
-      "Score": 17,
+      "Score": 27,
       "Time": "??:??"
+    },
+    {
+      "Name": "nachtkatze",
+      "Steam": "76561198818924013",
+      "Score": 0,
+      "Time": "00:15"
     },
     {
       "Name": "Aquafina__",
       "Steam": "76561198239908776",
-      "Score": 59,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 36,
-      "Time": "24:16"
+      "Score": 44,
+      "Time": "26:16"
     },
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 118,
+      "Score": 134,
       "Time": "??:??"
     },
     {
       "Name": "Lol",
       "Steam": "76561199506002413",
       "Score": 0,
-      "Time": "01:40"
+      "Time": "03:40"
     }
   ]
 }
