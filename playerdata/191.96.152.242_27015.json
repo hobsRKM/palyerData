@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-06T03:08:23.3146668Z",
+  "Time": "2026-01-06T03:10:23.3140697Z",
   "Players": [
     {
       "Name": "Pancake",
       "Steam": "76561199079256726",
+      "Score": 6,
+      "Time": "03:50"
+    },
+    {
+      "Name": "FeldtTheDev",
+      "Steam": "76561199857957335",
       "Score": 0,
-      "Time": "01:50"
+      "Time": "00:43"
     },
     {
       "Name": "kiro yep ok thanks",
       "Steam": "76561198751170381",
-      "Score": 0,
-      "Time": "01:44"
+      "Score": 2,
+      "Time": "03:44"
     }
   ]
 }
