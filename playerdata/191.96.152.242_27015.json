@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-06T04:10:23.32122Z",
+  "Time": "2026-01-06T04:12:23.3206744Z",
   "Players": [
     {
       "Name": "Pancake",
       "Steam": "76561199079256726",
-      "Score": 4,
-      "Time": "12:01"
+      "Score": 2,
+      "Time": "14:01"
     },
     {
       "Name": "FeldtTheDev",
       "Steam": "76561199857957335",
-      "Score": 5,
-      "Time": "11:49"
+      "Score": 13,
+      "Time": "13:49"
     },
     {
       "Name": "lattice",
       "Steam": "76561199667946841",
-      "Score": 16,
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dobrygracz",
+      "Steam": "76561198755253582",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
