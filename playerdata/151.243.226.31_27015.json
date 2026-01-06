@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-06T11:24:34.0291882Z",
+  "Time": "2026-01-06T11:26:34.0230062Z",
   "Players": [
+    {
+      "Name": "ether",
+      "Steam": "76561199724403388",
+      "Score": 6,
+      "Time": "01:46"
+    },
     {
       "Name": "soul",
       "Steam": "76561199822021009",
-      "Score": 48,
-      "Time": "92:36"
+      "Score": 55,
+      "Time": "94:36"
     },
     {
       "Name": "1",
       "Steam": "76561198759796859",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Joseph Rizzler",
       "Steam": "76561199822092076",
       "Score": 22,
-      "Time": "21:16"
+      "Time": "23:16"
     },
     {
       "Name": "kryozzz",
       "Steam": "76561199485394741",
-      "Score": 47,
-      "Time": "10:52"
+      "Score": 53,
+      "Time": "12:52"
     },
     {
       "Name": "Kopi Ko Teh",
@@ -40,25 +46,19 @@
     {
       "Name": "Esther_Lynch",
       "Steam": "76561198239908776",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "SystemSeoul",
       "Steam": "76561199781191467",
-      "Score": 31,
-      "Time": "??:??"
-    },
-    {
-      "Name": "\uD835\uDE57\uD835\uDE56\uD835\uDE58\uD835\uDE60\uD835\uDE68\uD835\uDE5D\uD835\uDE64\uD835\uDE69",
-      "Steam": "76561198749095853",
-      "Score": 13,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "нгшка с лорди",
       "Steam": "76561198192899758",
-      "Score": 55,
+      "Score": 73,
       "Time": "??:??"
     },
     {
@@ -70,25 +70,19 @@
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "bello20_",
       "Steam": "76561199125167289",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "erikerdes1",
-      "Steam": "76561199816150728",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "momaxcbm711",
       "Steam": "76561199703245000",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
