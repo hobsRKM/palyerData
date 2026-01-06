@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-06T12:42:37.7062754Z",
+  "Time": "2026-01-06T12:44:37.7103862Z",
   "Players": [
     {
-      "Name": "radiance.lua vltz",
+      "Name": "240 KMH P33K KQLY",
+      "Steam": "76561198750438911",
+      "Score": 0,
+      "Time": "00:10"
+    },
+    {
+      "Name": "vltz",
       "Steam": "76561198288488016",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Vtec34",
       "Steam": "76561199845842299",
-      "Score": 8,
-      "Time": "17:41"
+      "Score": 18,
+      "Time": "19:41"
     }
   ]
 }
