@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-06T15:24:09.6643849Z",
-  "Players": []
+  "Time": "2026-01-06T15:24:16.7624649Z",
+  "Players": [
+    {
+      "Name": "Meow Meow",
+      "Steam": "76561199828015418",
+      "Score": 62,
+      "Time": "??:??"
+    },
+    {
+      "Name": "no name",
+      "Steam": "76561199148319120",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "batmanstylers",
+      "Steam": "76561198752614834",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lil downsider",
+      "Steam": "76561198751473305",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
