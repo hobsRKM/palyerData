@@ -1,29 +1,41 @@
 {
-  "Time": "2026-01-06T11:58:34.029643Z",
+  "Time": "2026-01-06T12:00:34.0246772Z",
   "Players": [
+    {
+      "Name": "ether",
+      "Steam": "76561199724403388",
+      "Score": 7,
+      "Time": "01:17"
+    },
     {
       "Name": "soul",
       "Steam": "76561199822021009",
-      "Score": 10,
-      "Time": "04:51"
+      "Score": 1,
+      "Time": "06:51"
     },
     {
       "Name": "Traceless.cc",
       "Steam": "76561198752640811",
       "Score": 0,
-      "Time": "02:22"
+      "Time": "04:22"
     },
     {
       "Name": "kryozzz",
       "Steam": "76561199485394741",
-      "Score": 18,
-      "Time": "44:52"
+      "Score": 30,
+      "Time": "46:52"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 35,
+      "Score": 40,
       "Time": "??:??"
+    },
+    {
+      "Name": "bello20_",
+      "Steam": "76561199125167289",
+      "Score": 0,
+      "Time": "00:38"
     }
   ]
 }
