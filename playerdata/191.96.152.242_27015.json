@@ -1,17 +1,29 @@
 {
-  "Time": "2026-01-06T16:32:26.9921756Z",
+  "Time": "2026-01-06T16:34:26.9921933Z",
   "Players": [
+    {
+      "Name": "Baimless",
+      "Steam": "76561198750812216",
+      "Score": 0,
+      "Time": "01:53"
+    },
     {
       "Name": "vacdefeater",
       "Steam": "76561198252990273",
-      "Score": 38,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "texa",
       "Steam": "76561199828812573",
-      "Score": 43,
+      "Score": 51,
       "Time": "??:??"
+    },
+    {
+      "Name": "i failed kindergarten",
+      "Steam": "76561199367247291",
+      "Score": 0,
+      "Time": "00:30"
     }
   ]
 }
