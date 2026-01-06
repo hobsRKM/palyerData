@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-06T17:06:34.0355258Z",
+  "Time": "2026-01-06T17:08:34.0250393Z",
   "Players": [
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
-      "Score": 30,
-      "Time": "23:24"
+      "Score": 38,
+      "Time": "25:24"
     },
     {
       "Name": "Byrdinn",
       "Steam": "76561198201551281",
-      "Score": 19,
-      "Time": "17:10"
+      "Score": 21,
+      "Time": "19:10"
+    },
+    {
+      "Name": "sir hs",
+      "Steam": "76561199205784412",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Esther_Lynch",
       "Steam": "76561198239908776",
-      "Score": 25,
-      "Time": "220:26"
+      "Score": 34,
+      "Time": "222:26"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 4,
-      "Time": "49:21"
+      "Score": 7,
+      "Time": "51:21"
     }
   ]
 }
