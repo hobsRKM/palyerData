@@ -1,53 +1,65 @@
 {
-  "Time": "2026-01-06T18:33:50.3692713Z",
+  "Time": "2026-01-06T18:33:53.1738314Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "K1tanna",
+      "Steam": "76561199521351689",
+      "Score": 2,
+      "Time": "02:12"
+    },
+    {
+      "Name": "Moris",
+      "Steam": "76561199858395904",
+      "Score": 0,
+      "Time": "20:20"
+    },
+    {
+      "Name": "fentanyl",
+      "Steam": "76561198778117405",
+      "Score": 0,
+      "Time": "13:39"
+    },
+    {
+      "Name": "uddnas!",
+      "Steam": "76561198835474175",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "calvin07",
-      "Steam": "76561198752489347",
+      "Name": "mardont",
+      "Steam": "76561199112161314",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "anthonywin219",
-      "Steam": "76561198768850609",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Traceless Crack user",
-      "Steam": "76561199820869362",
-      "Score": 5,
-      "Time": "28:22"
-    },
-    {
-      "Name": "kriiisz",
-      "Steam": "76561199037506232",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "#корольфинанс",
-      "Steam": "76561199818472808",
-      "Score": 0,
-      "Time": "209:58"
-    },
-    {
-      "Name": "Ҿ",
-      "Steam": "76561199890584282",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
-      "Steam": "76561198333235279",
+      "Name": "Ksenik",
+      "Steam": "76561199212894586",
       "Score": 4,
-      "Time": "02:16"
+      "Time": "16:14"
+    },
+    {
+      "Name": "Unspecified object in GameUI",
+      "Steam": "76561198775452081",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": ";unbindall;m_yaw inf;quit;",
+      "Steam": "76561199819655846",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "crep #underisseymiyake",
+      "Steam": "76561199240595610",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dexter Morgan",
+      "Steam": "76561199696258960",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
