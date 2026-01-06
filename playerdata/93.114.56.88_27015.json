@@ -1,65 +1,41 @@
 {
-  "Time": "2026-01-06T18:49:50.3672981Z",
+  "Time": "2026-01-06T18:49:53.1714224Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
-      "Score": 0,
+      "Name": "Moris",
+      "Steam": "76561199858395904",
+      "Score": 34,
+      "Time": "36:20"
+    },
+    {
+      "Name": "mardont",
+      "Steam": "76561199112161314",
+      "Score": 26,
       "Time": "??:??"
     },
     {
-      "Name": "anthonywin219",
-      "Steam": "76561198768850609",
-      "Score": 18,
+      "Name": "Ksenik",
+      "Steam": "76561199212894586",
+      "Score": 39,
+      "Time": "32:14"
+    },
+    {
+      "Name": ";unbindall;m_yaw inf;quit;",
+      "Steam": "76561199819655846",
+      "Score": 48,
       "Time": "??:??"
     },
     {
-      "Name": "Exactey",
-      "Steam": "76561198308584524",
-      "Score": 24,
+      "Name": "wizzr",
+      "Steam": "76561198752665424",
+      "Score": 23,
       "Time": "??:??"
     },
     {
-      "Name": "ᵇᵒᵍᵃᵗᵉFerox",
-      "Steam": "76561199377440484",
-      "Score": 0,
-      "Time": "20:45"
-    },
-    {
-      "Name": "⁹⁹⁹drp1y",
-      "Steam": "76561199885893585",
-      "Score": 4,
-      "Time": "03:38"
-    },
-    {
-      "Name": "agent 5.5",
-      "Steam": "76561199082508729",
-      "Score": 31,
+      "Name": "angel",
+      "Steam": "76561199798812373",
+      "Score": 10,
       "Time": "??:??"
-    },
-    {
-      "Name": "George",
-      "Steam": "76561199334969958",
-      "Score": 46,
-      "Time": "??:??"
-    },
-    {
-      "Name": "hellowppy1",
-      "Steam": "76561198765065855",
-      "Score": 0,
-      "Time": "05:05"
-    },
-    {
-      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
-      "Steam": "76561198333235279",
-      "Score": 53,
-      "Time": "18:16"
-    },
-    {
-      "Name": "yovimi emulator",
-      "Steam": "76561199682194905",
-      "Score": 22,
-      "Time": "06:49"
     }
   ]
 }
