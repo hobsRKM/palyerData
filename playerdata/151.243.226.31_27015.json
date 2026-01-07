@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-07T22:24:28.3656102Z",
+  "Time": "2026-01-07T22:26:28.3665003Z",
   "Players": [
     {
       "Name": "Viet nam top 1",
       "Steam": "76561199557016632",
-      "Score": 2,
-      "Time": "01:37"
+      "Score": 8,
+      "Time": "03:37"
     },
     {
       "Name": "小猫酱",
       "Steam": "76561199860625632",
-      "Score": 4,
-      "Time": "01:33"
+      "Score": 8,
+      "Time": "03:33"
+    },
+    {
+      "Name": "type yes if you want to win",
+      "Steam": "76561198098711957",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
