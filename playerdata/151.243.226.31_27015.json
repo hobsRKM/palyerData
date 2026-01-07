@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-07T20:36:28.3713122Z",
+  "Time": "2026-01-07T20:38:28.3739676Z",
   "Players": [
+    {
+      "Name": "\uD835\uDC29\uD835\uDC1A\uD835\uDC2B\uD835\uDC21\uD835\uDC1A\uD835\uDC26_\uD835\uDC24",
+      "Steam": "76561198753523531",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
-      "Score": 19,
-      "Time": "55:08"
+      "Score": 33,
+      "Time": "57:08"
     },
     {
       "Name": "Viet nam top 1",
       "Steam": "76561199557016632",
-      "Score": 24,
-      "Time": "23:12"
+      "Score": 30,
+      "Time": "25:12"
     },
     {
       "Name": "小猫酱",
       "Steam": "76561199860625632",
       "Score": 16,
-      "Time": "11:18"
+      "Time": "13:18"
     },
     {
       "Name": "BOTESTHAX",
       "Steam": "76561198751592111",
-      "Score": 6,
-      "Time": "06:18"
+      "Score": 8,
+      "Time": "08:18"
     },
     {
       "Name": "Kaiii",
       "Steam": "76561199832854360",
-      "Score": 30,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "N自己上来yao",
       "Steam": "76561198854915681",
-      "Score": 19,
-      "Time": "59:33"
+      "Score": 25,
+      "Time": "61:33"
     }
   ]
 }
