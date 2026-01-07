@@ -1,29 +1,101 @@
 {
-  "Time": "2026-01-07T23:42:23.4518725Z",
+  "Time": "2026-01-07T23:43:36.7310996Z",
   "Players": [
     {
-      "Name": "ex",
-      "Steam": "76561198755374413",
+      "Name": "Apple Pie",
+      "Steam": "76561199043213580",
+      "Score": 80,
+      "Time": "41:31"
+    },
+    {
+      "Name": "kinnah",
+      "Steam": "76561198884606310",
+      "Score": 30,
+      "Time": "60:59"
+    },
+    {
+      "Name": "GargantuanRhombus09",
+      "Steam": "76561198001746934",
+      "Score": 55,
+      "Time": "85:18"
+    },
+    {
+      "Name": "Trav",
+      "Steam": "76561199471217940",
+      "Score": 76,
+      "Time": "61:59"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "stylisz",
+      "Steam": "76561199683040816",
+      "Score": 138,
+      "Time": "104:37"
+    },
+    {
+      "Name": "Eliza",
+      "Steam": "76561199886101992",
+      "Score": 10,
+      "Time": "1406:43"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
+      "Steam": "76561198341012123",
+      "Score": 138,
+      "Time": "57:36"
+    },
+    {
+      "Name": "Bishkek",
+      "Steam": "76561198215570155",
+      "Score": 47,
+      "Time": "119:17"
+    },
+    {
+      "Name": "jackreacher671",
+      "Steam": "76561198751291147",
       "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "negroswag",
-      "Steam": "76561198751961947",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "budyn",
-      "Steam": "76561199607220610",
+      "Name": "1",
+      "Steam": "76561198751278550",
       "Score": 4,
-      "Time": "07:17"
+      "Time": "??:??"
     },
     {
-      "Name": "Diaconescu Lukas",
-      "Steam": "76561199667028575",
-      "Score": 0,
+      "Name": "Bosnia",
+      "Steam": "76561198992148678",
+      "Score": 85,
+      "Time": "76:44"
+    },
+    {
+      "Name": "RYUGA KİSHATU",
+      "Steam": "76561199884368592",
+      "Score": 27,
+      "Time": "60:30"
+    },
+    {
+      "Name": "Gertt-01",
+      "Steam": "76561198756919457",
+      "Score": 24,
+      "Time": "370:30"
+    },
+    {
+      "Name": "-=N@p@S-UA=-",
+      "Steam": "76561199668764062",
+      "Score": 15,
       "Time": "??:??"
+    },
+    {
+      "Name": "q",
+      "Steam": "76561199890360648",
+      "Score": 0,
+      "Time": "95:29"
     }
   ]
 }
