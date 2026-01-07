@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-07T11:22:28.3678134Z",
+  "Time": "2026-01-07T11:24:28.3708368Z",
   "Players": [
+    {
+      "Name": "aryminh",
+      "Steam": "76561199639741969",
+      "Score": 0,
+      "Time": "01:32"
+    },
     {
       "Name": "-btw",
       "Steam": "76561199417064156",
-      "Score": 74,
-      "Time": "22:31"
+      "Score": 5,
+      "Time": "24:31"
     },
     {
       "Name": "zoe",
       "Steam": "76561199127011949",
-      "Score": 2,
-      "Time": "01:01"
+      "Score": 0,
+      "Time": "03:01"
     },
     {
       "Name": "kryozzz",
       "Steam": "76561199485394741",
-      "Score": 43,
-      "Time": "11:45"
+      "Score": 5,
+      "Time": "13:45"
     },
     {
       "Name": "Erm",
       "Steam": "76561198753975972",
-      "Score": 0,
-      "Time": "06:10"
+      "Score": 4,
+      "Time": "08:10"
     },
     {
       "Name": "\uD835\uDC12\uD835\uDC21\uD835\uDC22\uD835\uDC27\uD835\uDC20\uD835\uDC1E\uD835\uDC27",
       "Steam": "76561198201071901",
-      "Score": 21,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
