@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-07T03:14:26.9891603Z",
+  "Time": "2026-01-07T03:16:26.9884073Z",
   "Players": [
     {
       "Name": "FeldtTheDev",
       "Steam": "76561199857957335",
-      "Score": 20,
-      "Time": "03:19"
+      "Score": 0,
+      "Time": "05:19"
     },
     {
       "Name": "Pancake",
       "Steam": "76561199079256726",
-      "Score": 10,
-      "Time": "03:47"
+      "Score": 18,
+      "Time": "05:47"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 0,
-      "Time": "03:23"
+      "Score": 10,
+      "Time": "05:23"
+    },
+    {
+      "Name": "backtrackless",
+      "Steam": "76561199254673723",
+      "Score": 4,
+      "Time": "01:23"
     }
   ]
 }
