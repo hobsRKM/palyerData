@@ -1,47 +1,89 @@
 {
-  "Time": "2026-01-07T23:22:23.4574515Z",
+  "Time": "2026-01-07T23:23:31.197418Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Apple Pie",
+      "Steam": "76561199043213580",
+      "Score": 30,
+      "Time": "21:25"
+    },
+    {
+      "Name": "pureHVH",
+      "Steam": "76561199617733456",
+      "Score": 4,
+      "Time": "05:05"
+    },
+    {
+      "Name": "NigLOose",
+      "Steam": "76561199890889878",
+      "Score": 37,
+      "Time": "23:28"
+    },
+    {
+      "Name": "GargantuanRhombus09",
+      "Steam": "76561198001746934",
+      "Score": 21,
+      "Time": "65:13"
+    },
+    {
+      "Name": "Trav",
+      "Steam": "76561199471217940",
+      "Score": 28,
+      "Time": "41:54"
+    },
+    {
+      "Name": "oyakata",
+      "Steam": "76561199852055471",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Meow Meow",
-      "Steam": "76561199828015418",
-      "Score": 21,
-      "Time": "??:??"
-    },
-    {
-      "Name": "#445",
-      "Steam": "76561199092838756",
-      "Score": 16,
-      "Time": "08:51"
-    },
-    {
-      "Name": "ex",
-      "Steam": "76561198755374413",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "negroswag",
-      "Steam": "76561198751961947",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Susikus",
-      "Steam": "76561199845631058",
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
       "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "budyn",
-      "Steam": "76561199607220610",
-      "Score": 0,
+      "Name": "stylisz",
+      "Steam": "76561199683040816",
+      "Score": 48,
+      "Time": "84:31"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
+      "Steam": "76561198341012123",
+      "Score": 65,
+      "Time": "37:30"
+    },
+    {
+      "Name": "Pr|O|texXx",
+      "Steam": "76561199837452595",
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "Bosnia",
+      "Steam": "76561198992148678",
+      "Score": 20,
+      "Time": "56:39"
+    },
+    {
+      "Name": "iskra",
+      "Steam": "76561198756249280",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gertt-01",
+      "Steam": "76561198756919457",
+      "Score": 19,
+      "Time": "350:25"
+    },
+    {
+      "Name": "Big Bang",
+      "Steam": "76561199670156806",
+      "Score": 8,
+      "Time": "23:34"
     }
   ]
 }
