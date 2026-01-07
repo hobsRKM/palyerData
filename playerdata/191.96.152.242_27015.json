@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-07T04:32:26.9907592Z",
+  "Time": "2026-01-07T04:34:26.9911619Z",
   "Players": [
+    {
+      "Name": "sadie sink",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "01:01"
+    },
     {
       "Name": "Kamirzipp12",
       "Steam": "76561199257841180",
-      "Score": 46,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Zazu gamer",
       "Steam": "76561198297031904",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     }
   ]
