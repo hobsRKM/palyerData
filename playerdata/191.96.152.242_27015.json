@@ -1,52 +1,58 @@
 {
-  "Time": "2026-01-07T00:28:27.0021065Z",
+  "Time": "2026-01-07T00:30:26.9985494Z",
   "Players": [
+    {
+      "Name": "Jj(V)",
+      "Steam": "76561199668056830",
+      "Score": 0,
+      "Time": "00:32"
+    },
     {
       "Name": "skintbot1",
       "Steam": "76561198752220948",
-      "Score": 33,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "I Love Cats With 3 Legs",
       "Steam": "76561199868341762",
-      "Score": 46,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "Yui",
       "Steam": "76561198778966756",
-      "Score": 21,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "etherealness",
       "Steam": "76561199097243449",
-      "Score": 50,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "fuck the material world",
       "Steam": "76561199678608838",
-      "Score": 37,
-      "Time": "02:34"
+      "Score": 39,
+      "Time": "04:34"
     },
     {
       "Name": "astro",
       "Steam": "76561198782333753",
-      "Score": 46,
-      "Time": "04:32"
-    },
-    {
-      "Name": "pretend",
-      "Steam": "76561199321025751",
-      "Score": 23,
-      "Time": "??:??"
+      "Score": 48,
+      "Time": "06:32"
     },
     {
       "Name": "feign",
       "Steam": "76561198795187333",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "im a immigrant",
+      "Steam": "76561199410751476",
+      "Score": 9,
       "Time": "??:??"
     }
   ]
