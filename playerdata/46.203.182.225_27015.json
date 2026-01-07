@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-07T18:54:50.8168629Z",
+  "Time": "2026-01-07T18:56:50.8182583Z",
   "Players": [
+    {
+      "Name": "hikaminee0",
+      "Steam": "76561198783885024",
+      "Score": 1,
+      "Time": "01:34"
+    },
     {
       "Name": "mibombo",
       "Steam": "76561199236297765",
-      "Score": 76,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "patrick",
       "Steam": "76561198037811960",
-      "Score": 56,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "telegram user",
       "Steam": "76561199877844395",
-      "Score": 2,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
