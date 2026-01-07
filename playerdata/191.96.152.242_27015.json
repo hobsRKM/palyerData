@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-07T01:02:26.9872143Z",
+  "Time": "2026-01-07T01:04:26.9892127Z",
   "Players": [
+    {
+      "Name": "DaCouchMan",
+      "Steam": "76561198043040531",
+      "Score": 2,
+      "Time": "01:14"
+    },
     {
       "Name": "Yui",
       "Steam": "76561198778966756",
@@ -10,19 +16,13 @@
     {
       "Name": "astro",
       "Steam": "76561198782333753",
-      "Score": 42,
-      "Time": "38:32"
+      "Score": 44,
+      "Time": "40:32"
     },
     {
       "Name": "feign",
       "Steam": "76561198795187333",
-      "Score": 54,
-      "Time": "??:??"
-    },
-    {
-      "Name": "philip015 from Fatality.win",
-      "Steam": "76561198762281843",
-      "Score": 35,
+      "Score": 62,
       "Time": "??:??"
     }
   ]
