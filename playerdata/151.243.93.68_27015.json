@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-08T14:58:16.3711871Z",
-  "Players": []
+  "Time": "2026-01-08T14:59:00.1713557Z",
+  "Players": [
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 41,
+      "Time": "32:00"
+    },
+    {
+      "Name": "SandyHooks.lua",
+      "Steam": "76561199874044368",
+      "Score": 4,
+      "Time": "01:39"
+    },
+    {
+      "Name": "[Monoli] ruga",
+      "Steam": "76561199873108764",
+      "Score": 0,
+      "Time": "03:42"
+    },
+    {
+      "Name": "Niko",
+      "Steam": "76561198782161671",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
