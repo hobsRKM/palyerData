@@ -1,4 +1,41 @@
 {
-  "Time": "2026-01-08T02:12:19.3014471Z",
-  "Players": []
+  "Time": "2026-01-08T02:13:30.1691565Z",
+  "Players": [
+    {
+      "Name": "jewboy",
+      "Steam": "76561199879016613",
+      "Score": 29,
+      "Time": "08:09"
+    },
+    {
+      "Name": "Paul",
+      "Steam": "76561198795280812",
+      "Score": 8,
+      "Time": "06:32"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 3,
+      "Time": "27:17"
+    },
+    {
+      "Name": "Mr. Creamy Peanut",
+      "Steam": "76561199229233111",
+      "Score": 4,
+      "Time": "04:40"
+    },
+    {
+      "Name": "Goon King | Need Skeet Inv",
+      "Steam": "76561198784560984",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ShaquilleOatmeal",
+      "Steam": "76561198755919504",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
