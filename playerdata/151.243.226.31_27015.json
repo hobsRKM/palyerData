@@ -1,47 +1,53 @@
 {
-  "Time": "2026-01-08T04:32:51.5333924Z",
+  "Time": "2026-01-08T04:34:51.525981Z",
   "Players": [
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 15,
-      "Time": "79:10"
+      "Score": 19,
+      "Time": "81:10"
     },
     {
       "Name": "Traceless.cc",
       "Steam": "76561198752640811",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
       "Score": 14,
-      "Time": "00:23"
+      "Time": "00:34"
     },
     {
       "Name": "aryminh",
       "Steam": "76561199639741969",
-      "Score": 6,
-      "Time": "11:12"
+      "Score": 13,
+      "Time": "13:12"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 0,
-      "Time": "11:51"
+      "Score": 6,
+      "Time": "13:51"
     },
     {
       "Name": "nevershoot",
       "Steam": "76561199603240415",
       "Score": 6,
-      "Time": "37:10"
+      "Time": "39:10"
     },
     {
       "Name": "WuYeGod",
       "Steam": "76561199721063147",
-      "Score": 10,
-      "Time": "47:56"
+      "Score": 16,
+      "Time": "49:56"
+    },
+    {
+      "Name": "十柒",
+      "Steam": "76561199076368282",
+      "Score": 0,
+      "Time": "00:28"
     }
   ]
 }
