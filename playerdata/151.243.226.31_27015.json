@@ -1,58 +1,70 @@
 {
-  "Time": "2026-01-08T07:42:51.529712Z",
+  "Time": "2026-01-08T07:44:51.5334625Z",
   "Players": [
+    {
+      "Name": "Ayla",
+      "Steam": "76561199880055163",
+      "Score": 2,
+      "Time": "00:23"
+    },
     {
       "Name": "aryminh",
       "Steam": "76561199639741969",
-      "Score": 7,
-      "Time": "04:42"
+      "Score": 9,
+      "Time": "06:42"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 41,
-      "Time": "13:32"
+      "Score": 50,
+      "Time": "15:32"
     },
     {
       "Name": "Esther_Lynch",
       "Steam": "76561198239908776",
-      "Score": 13,
-      "Time": "82:44"
+      "Score": 15,
+      "Time": "84:44"
     },
     {
       "Name": "ZzZzZzZzZ",
       "Steam": "76561198752682070",
-      "Score": 21,
-      "Time": "71:26"
+      "Score": 24,
+      "Time": "73:26"
     },
     {
       "Name": "Vroxith",
       "Steam": "76561199010435611",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 26,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "外挂卡网：88.2a2a.top 群",
       "Steam": "76561199767945836",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "1",
-      "Steam": "76561198772191270",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 22,
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NO IQ PLAY HVH",
+      "Steam": "76561199107271518",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "героический",
+      "Steam": "76561199582103015",
+      "Score": 8,
       "Time": "??:??"
     }
   ]
