@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-08T07:36:51.5294061Z",
+  "Time": "2026-01-08T07:38:51.5364768Z",
   "Players": [
+    {
+      "Name": "aryminh",
+      "Steam": "76561199639741969",
+      "Score": 0,
+      "Time": "00:42"
+    },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 4,
-      "Time": "07:32"
+      "Score": 21,
+      "Time": "09:32"
     },
     {
       "Name": "Esther_Lynch",
       "Steam": "76561198239908776",
-      "Score": 0,
-      "Time": "76:44"
+      "Score": 4,
+      "Time": "78:44"
     },
     {
       "Name": "ZzZzZzZzZ",
       "Steam": "76561198752682070",
-      "Score": 6,
-      "Time": "65:26"
+      "Score": 11,
+      "Time": "67:26"
     },
     {
       "Name": "Vroxith",
       "Steam": "76561199010435611",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -40,7 +46,13 @@
     {
       "Name": "1",
       "Steam": "76561198772191270",
-      "Score": 0,
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
+      "Steam": "76561199806910486",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
