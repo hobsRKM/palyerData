@@ -1,46 +1,70 @@
 {
-  "Time": "2026-01-08T14:18:55.0810526Z",
+  "Time": "2026-01-08T14:19:49.233134Z",
   "Players": [
     {
-      "Name": "Mario",
-      "Steam": "76561199847598102",
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 8,
+      "Time": "20:20"
+    },
+    {
+      "Name": "Interessant",
+      "Steam": "76561198757021862",
+      "Score": 75,
+      "Time": "23:07"
+    },
+    {
+      "Name": "MitRO",
+      "Steam": "76561198794087367",
+      "Score": 61,
+      "Time": "33:48"
+    },
+    {
+      "Name": "Timee",
+      "Steam": "76561199206658984",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 60,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Flamii",
+      "Steam": "76561198366691450",
+      "Score": 65,
+      "Time": "34:54"
+    },
+    {
+      "Name": "\uD835\uDD05\uD835\uDD1E\uD835\uDD30\uD835\uDD31\uD835\uDD1E\uD835\uDD2F\uD835\uDD21",
+      "Steam": "76561199827217325",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "2auzks6o",
+      "Steam": "76561199868035778",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "quefley",
+      "Steam": "76561199103219838",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vereme",
+      "Steam": "76561199121376038",
       "Score": 10,
-      "Time": "04:05"
-    },
-    {
-      "Name": "im ud",
-      "Steam": "76561198764733323",
-      "Score": 28,
-      "Time": "75:12"
-    },
-    {
-      "Name": "nohvhplz",
-      "Steam": "76561199827618693",
-      "Score": 38,
       "Time": "??:??"
     },
     {
-      "Name": "カ...noob",
-      "Steam": "76561199837008024",
-      "Score": 38,
-      "Time": "??:??"
-    },
-    {
-      "Name": "MILFHUNTER [fatal]",
-      "Steam": "76561198759278959",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "call 0x001337",
-      "Steam": "76561199516412968",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "M 1 L I ☰ 1 0 8 0 T I",
-      "Steam": "76561197971687436",
-      "Score": 0,
+      "Name": "igorvichochek",
+      "Steam": "76561199208096307",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
