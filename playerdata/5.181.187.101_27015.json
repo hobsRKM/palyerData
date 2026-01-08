@@ -1,4 +1,35 @@
 {
-  "Time": "2026-01-08T21:00:24.5625254Z",
-  "Players": []
+  "Time": "2026-01-08T21:01:20.9001299Z",
+  "Players": [
+    {
+      "Name": "adrianpavel2009",
+      "Steam": "76561198766689259",
+      "Score": 28,
+      "Time": "05:23"
+    },
+    {
+      "Name": "Markeszzzz",
+      "Steam": "76561199386959658",
+      "Score": 2,
+      "Time": "01:04"
+    },
+    {
+      "Name": "Blasimius",
+      "Steam": "76561199823826570",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TwentyThreeNineteen",
+      "Steam": "76561199398078908",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "0",
+      "Steam": "76561199797005118",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
