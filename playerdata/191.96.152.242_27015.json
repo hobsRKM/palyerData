@@ -1,46 +1,52 @@
 {
-  "Time": "2026-01-08T05:14:24.29046Z",
+  "Time": "2026-01-08T05:16:24.2972178Z",
   "Players": [
+    {
+      "Name": "cookie killer",
+      "Steam": "76561199501859260",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "kill everyone today",
       "Steam": "76561199678608838",
-      "Score": 9,
-      "Time": "05:42"
+      "Score": 10,
+      "Time": "07:42"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 43,
-      "Time": "31:35"
+      "Score": 47,
+      "Time": "33:35"
     },
     {
       "Name": "one call away",
       "Steam": "76561199667954817",
-      "Score": 7,
-      "Time": "05:04"
+      "Score": 8,
+      "Time": "07:04"
     },
     {
       "Name": "pretend",
       "Steam": "76561199321025751",
-      "Score": 86,
+      "Score": 98,
       "Time": "??:??"
     },
     {
       "Name": "neverlose",
       "Steam": "76561199622150117",
-      "Score": 34,
-      "Time": "08:45"
+      "Score": 38,
+      "Time": "10:45"
     },
     {
       "Name": "larp",
       "Steam": "76561198238790718",
-      "Score": 37,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 37,
+      "Score": 43,
       "Time": "??:??"
     }
   ]
