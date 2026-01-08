@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-08T16:25:11.3450043Z",
+  "Time": "2026-01-08T16:27:11.3516298Z",
   "Players": [
+    {
+      "Name": "donk",
+      "Steam": "76561199856738337",
+      "Score": 0,
+      "Time": "00:36"
+    },
     {
       "Name": "CHORUJE NA CUKRZYCE",
       "Steam": "76561198772595197",
@@ -10,7 +16,13 @@
     {
       "Name": "Arvid #luckbased",
       "Steam": "76561198759743621",
-      "Score": 26,
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mlutty",
+      "Steam": "76561199877285218",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
