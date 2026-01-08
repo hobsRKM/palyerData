@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-08T02:06:50.3402107Z",
+  "Time": "2026-01-08T02:08:39.2186872Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "gamesense",
+      "Steam": "76561199571154189",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "angel",
+      "Steam": "76561198190429917",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "z3rph",
+      "Steam": "76561199189499325",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gamesense",
+      "Steam": "76561198757461452",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "aglimpseofheaven",
-      "Steam": "76561198756527012",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "HD Tizz",
-      "Steam": "76561199811920278",
-      "Score": 2,
       "Time": "??:??"
     }
   ]
