@@ -1,47 +1,53 @@
 {
-  "Time": "2026-01-08T15:08:51.52431Z",
+  "Time": "2026-01-08T15:10:51.5359214Z",
   "Players": [
+    {
+      "Name": "just play better than u",
+      "Steam": "76561199860625632",
+      "Score": 0,
+      "Time": "01:02"
+    },
     {
       "Name": "sadd3991",
       "Steam": "76561199197302466",
       "Score": 19,
-      "Time": "17:42"
+      "Time": "19:42"
     },
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
-      "Score": 37,
-      "Time": "39:28"
+      "Score": 44,
+      "Time": "41:28"
     },
     {
-      "Name": "Exploding Heads",
-      "Steam": "76561198766922230",
-      "Score": 30,
-      "Time": "21:32"
+      "Name": "longphamhoang566",
+      "Steam": "76561198752492018",
+      "Score": 8,
+      "Time": "00:09"
     },
     {
       "Name": "cayman island boss",
       "Steam": "76561198983792841",
-      "Score": 63,
-      "Time": "49:22"
+      "Score": 74,
+      "Time": "51:22"
     },
     {
       "Name": "Tripple T",
       "Steam": "76561198782989811",
-      "Score": 61,
-      "Time": "290:24"
+      "Score": 72,
+      "Time": "292:24"
     },
     {
       "Name": "audrey",
       "Steam": "76561199850105132",
-      "Score": 43,
-      "Time": "49:31"
+      "Score": 48,
+      "Time": "51:31"
     },
     {
       "Name": "-btw",
       "Steam": "76561199417064156",
-      "Score": 37,
-      "Time": "03:49"
+      "Score": 39,
+      "Time": "05:49"
     }
   ]
 }
