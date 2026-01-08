@@ -1,29 +1,41 @@
 {
-  "Time": "2026-01-08T05:08:24.2952203Z",
+  "Time": "2026-01-08T05:10:24.2911116Z",
   "Players": [
+    {
+      "Name": "kill everyone today",
+      "Steam": "76561199678608838",
+      "Score": 0,
+      "Time": "01:42"
+    },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 36,
-      "Time": "25:35"
+      "Score": 38,
+      "Time": "27:35"
+    },
+    {
+      "Name": "one call away",
+      "Steam": "76561199667954817",
+      "Score": 4,
+      "Time": "01:04"
     },
     {
       "Name": "pretend",
       "Steam": "76561199321025751",
-      "Score": 69,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 44,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "neverlose",
       "Steam": "76561199622150117",
-      "Score": 16,
-      "Time": "02:45"
+      "Score": 20,
+      "Time": "04:45"
     },
     {
       "Name": "larp",
@@ -34,7 +46,7 @@
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 21,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
