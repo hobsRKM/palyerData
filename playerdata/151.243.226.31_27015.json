@@ -1,58 +1,64 @@
 {
-  "Time": "2026-01-08T12:56:51.5362998Z",
+  "Time": "2026-01-08T12:58:51.5333185Z",
   "Players": [
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 0,
-      "Time": "09:03"
+      "Score": 6,
+      "Time": "11:03"
+    },
+    {
+      "Name": "Traceless.cc",
+      "Steam": "76561198752640811",
+      "Score": 2,
+      "Time": "00:09"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 51,
-      "Time": "14:20"
+      "Score": 57,
+      "Time": "16:20"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 79,
-      "Time": "23:20"
+      "Score": 88,
+      "Time": "25:20"
     },
     {
       "Name": "Black",
       "Steam": "76561199159788976",
-      "Score": 96,
-      "Time": "53:32"
+      "Score": 100,
+      "Time": "55:32"
     },
     {
       "Name": "Vroxith",
       "Steam": "76561199010435611",
-      "Score": 15,
-      "Time": "98:58"
+      "Score": 23,
+      "Time": "100:58"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 33,
-      "Time": "07:12"
+      "Score": 40,
+      "Time": "09:12"
     },
     {
       "Name": "CCB",
       "Steam": "76561198769302520",
-      "Score": 0,
-      "Time": "06:24"
+      "Score": 3,
+      "Time": "08:24"
     },
     {
       "Name": "Alt Misses Alot",
       "Steam": "76561199834727236",
-      "Score": 90,
+      "Score": 92,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 66,
+      "Score": 72,
       "Time": "??:??"
     },
     {
@@ -64,7 +70,7 @@
     {
       "Name": "Acid1337",
       "Steam": "76561198761755601",
-      "Score": 41,
+      "Score": 49,
       "Time": "??:??"
     }
   ]
