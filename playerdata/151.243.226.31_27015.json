@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-09T16:14:31.5810212Z",
+  "Time": "2026-01-09T16:16:31.5828296Z",
   "Players": [
+    {
+      "Name": "iLLuminat",
+      "Steam": "76561199219190958",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Alt is Supaman",
       "Steam": "76561199834727236",
-      "Score": 25,
-      "Time": "28:13"
+      "Score": 31,
+      "Time": "30:13"
     },
     {
       "Name": "미카사랑해",
       "Steam": "76561198765249975",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
       "Score": 0,
-      "Time": "00:39"
+      "Time": "00:51"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 24,
-      "Time": "57:57"
+      "Score": 28,
+      "Time": "59:57"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 1,
-      "Time": "02:42"
+      "Score": 7,
+      "Time": "04:42"
     }
   ]
 }
