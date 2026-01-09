@@ -1,4 +1,53 @@
 {
-  "Time": "2026-01-09T01:40:16.3855766Z",
-  "Players": []
+  "Time": "2026-01-09T01:41:51.8769686Z",
+  "Players": [
+    {
+      "Name": "jimmy",
+      "Steam": "76561199857658395",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Double Lion",
+      "Steam": "76561199658178463",
+      "Score": 6,
+      "Time": "22:06"
+    },
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 4,
+      "Time": "35:41"
+    },
+    {
+      "Name": "Jj(V)",
+      "Steam": "76561199668056830",
+      "Score": 2,
+      "Time": "04:12"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "maverick",
+      "Steam": "76561199622150117",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LedgerLlama78",
+      "Steam": "76561199491138856",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "meow meow meow :3",
+      "Steam": "76561198758437919",
+      "Score": 17,
+      "Time": "??:??"
+    }
+  ]
 }
