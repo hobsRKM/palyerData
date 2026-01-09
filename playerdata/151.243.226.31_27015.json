@@ -1,59 +1,65 @@
 {
-  "Time": "2026-01-09T13:24:31.5721539Z",
+  "Time": "2026-01-09T13:26:31.574636Z",
   "Players": [
+    {
+      "Name": "headonly",
+      "Steam": "76561198750197652",
+      "Score": 0,
+      "Time": "00:32"
+    },
     {
       "Name": "CCB",
       "Steam": "76561198769302520",
-      "Score": 23,
-      "Time": "05:05"
+      "Score": 29,
+      "Time": "07:05"
     },
     {
       "Name": "sadd3991",
       "Steam": "76561199197302466",
-      "Score": 2,
-      "Time": "02:22"
+      "Score": 0,
+      "Time": "04:22"
     },
     {
       "Name": "睦子米",
       "Steam": "76561199723211524",
       "Score": 2,
-      "Time": "05:33"
+      "Time": "00:05"
     },
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 97,
-      "Time": "98:56"
+      "Score": 110,
+      "Time": "100:56"
     },
     {
       "Name": "Vax",
       "Steam": "76561199350577848",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "`A",
       "Steam": "76561199699289339",
-      "Score": 46,
-      "Time": "67:03"
+      "Score": 49,
+      "Time": "69:03"
     },
     {
       "Name": "Pe3kuu_TIapeHek",
       "Steam": "76561199798484842",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "cayman island boss",
       "Steam": "76561198983792841",
-      "Score": 18,
-      "Time": "11:46"
+      "Score": 32,
+      "Time": "13:46"
     },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 29,
-      "Time": "04:28"
+      "Score": 38,
+      "Time": "06:28"
     }
   ]
 }
