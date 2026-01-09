@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-09T22:40:27.795771Z",
+  "Time": "2026-01-09T22:42:27.8025996Z",
   "Players": [
+    {
+      "Name": "dobro pozhalovat'",
+      "Steam": "76561198967621758",
+      "Score": 3,
+      "Time": "??:??"
+    },
     {
       "Name": "making mercury fulminate",
       "Steam": "76561198748438666",
-      "Score": 4,
-      "Time": "07:12"
+      "Score": 6,
+      "Time": "09:12"
     },
     {
       "Name": "деловой спанч боб",
       "Steam": "76561199713167272",
-      "Score": 48,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "krtecek_duch",
       "Steam": "76561199481373037",
-      "Score": 3,
-      "Time": "02:25"
+      "Score": 4,
+      "Time": "04:25"
     }
   ]
 }
