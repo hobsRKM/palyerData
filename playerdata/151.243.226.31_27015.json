@@ -1,52 +1,58 @@
 {
-  "Time": "2026-01-09T11:02:31.5782587Z",
+  "Time": "2026-01-09T11:04:31.5795001Z",
   "Players": [
+    {
+      "Name": "Traceless.cc",
+      "Steam": "76561198752640811",
+      "Score": 37,
+      "Time": "02:05"
+    },
     {
       "Name": "Alt is Supaman",
       "Steam": "76561199834727236",
-      "Score": 100,
-      "Time": "76:24"
+      "Score": 110,
+      "Time": "78:24"
     },
     {
       "Name": "Esther_Lynch",
       "Steam": "76561198239908776",
-      "Score": 73,
-      "Time": "153:36"
+      "Score": 79,
+      "Time": "155:36"
     },
     {
       "Name": "\uD835\uDD1Aℜ\uD835\uDD0F\uD835\uDD07",
       "Steam": "76561198351599237",
-      "Score": 86,
-      "Time": "79:33"
+      "Score": 98,
+      "Time": "81:33"
     },
     {
       "Name": "1m74xD",
       "Steam": "76561198862303454",
-      "Score": 26,
-      "Time": "22:44"
+      "Score": 24,
+      "Time": "24:44"
     },
     {
       "Name": "Eternity",
       "Steam": "76561199850022519",
-      "Score": 79,
-      "Time": "40:17"
+      "Score": 81,
+      "Time": "42:17"
     },
     {
       "Name": "MoMo",
       "Steam": "76561199776780694",
-      "Score": 27,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Gen1e",
       "Steam": "76561198751906413",
       "Score": 6,
-      "Time": "00:06"
+      "Time": "02:06"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
