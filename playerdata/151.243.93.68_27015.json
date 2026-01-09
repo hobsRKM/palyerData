@@ -1,4 +1,53 @@
 {
-  "Time": "2026-01-09T09:40:16.3853073Z",
-  "Players": []
+  "Time": "2026-01-09T09:41:51.8757706Z",
+  "Players": [
+    {
+      "Name": "cloxid",
+      "Steam": "76561199525060285",
+      "Score": 102,
+      "Time": "26:40"
+    },
+    {
+      "Name": "rockstar",
+      "Steam": "76561198748501306",
+      "Score": 74,
+      "Time": "44:30"
+    },
+    {
+      "Name": "SwaggyGrace",
+      "Steam": "76561199031753721",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cheeziepooh",
+      "Steam": "76561198273566562",
+      "Score": 71,
+      "Time": "148:41"
+    },
+    {
+      "Name": "vape",
+      "Steam": "76561199828812573",
+      "Score": 78,
+      "Time": "53:35"
+    },
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 20,
+      "Time": "46:37"
+    },
+    {
+      "Name": "devour",
+      "Steam": "76561199634018466",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "useronms",
+      "Steam": "76561198752344339",
+      "Score": 11,
+      "Time": "16:46"
+    }
+  ]
 }
