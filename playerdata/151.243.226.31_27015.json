@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-09T17:50:31.5738724Z",
+  "Time": "2026-01-09T17:52:31.5710164Z",
   "Players": [
     {
       "Name": "Alpha",
       "Steam": "76561199822492698",
-      "Score": 34,
-      "Time": "53:25"
+      "Score": 41,
+      "Time": "55:25"
     },
     {
       "Name": "Joseph Rizzler",
       "Steam": "76561199822092076",
-      "Score": 39,
-      "Time": "28:58"
+      "Score": 47,
+      "Time": "30:58"
     },
     {
       "Name": "cayman island boss",
       "Steam": "76561198983792841",
-      "Score": 6,
-      "Time": "08:37"
+      "Score": 1,
+      "Time": "10:37"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 24,
-      "Time": "64:07"
+      "Score": 36,
+      "Time": "66:07"
+    },
+    {
+      "Name": "trojan",
+      "Steam": "76561198784460433",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
