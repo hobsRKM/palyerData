@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-09T18:06:31.5823276Z",
+  "Time": "2026-01-09T18:08:31.5815203Z",
   "Players": [
     {
       "Name": "Alpha",
       "Steam": "76561199822492698",
-      "Score": 0,
-      "Time": "69:25"
+      "Score": 15,
+      "Time": "71:25"
     },
     {
       "Name": "Joseph Rizzler",
       "Steam": "76561199822092076",
-      "Score": 0,
-      "Time": "44:58"
+      "Score": 1,
+      "Time": "46:58"
     },
     {
       "Name": "e",
       "Steam": "76561199564752768",
-      "Score": 0,
-      "Time": "391:01"
+      "Score": 6,
+      "Time": "393:01"
+    },
+    {
+      "Name": "Vroxith",
+      "Steam": "76561199010435611",
+      "Score": 4,
+      "Time": "01:53"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 4,
-      "Time": "80:08"
+      "Score": 9,
+      "Time": "82:08"
     }
   ]
 }
