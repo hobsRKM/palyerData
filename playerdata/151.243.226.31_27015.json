@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-09T15:46:31.5748754Z",
+  "Time": "2026-01-09T15:48:31.5732831Z",
   "Players": [
+    {
+      "Name": "Alt is Supaman",
+      "Steam": "76561199834727236",
+      "Score": 0,
+      "Time": "02:13"
+    },
     {
       "Name": "Esther_Lynch",
       "Steam": "76561198239908776",
       "Score": 20,
-      "Time": "77:13"
+      "Time": "79:13"
     },
     {
       "Name": "героический",
       "Steam": "76561199582103015",
-      "Score": 11,
-      "Time": "04:15"
+      "Score": 14,
+      "Time": "06:15"
     },
     {
       "Name": "kryozzz",
       "Steam": "76561199485394741",
-      "Score": 38,
-      "Time": "27:49"
+      "Score": 46,
+      "Time": "29:49"
     },
     {
       "Name": "Ping Pong",
@@ -28,8 +34,8 @@
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 36,
-      "Time": "29:57"
+      "Score": 44,
+      "Time": "31:57"
     }
   ]
 }
