@@ -1,23 +1,35 @@
 {
-  "Time": "2026-01-10T16:04:27.4120896Z",
+  "Time": "2026-01-10T16:06:27.4089479Z",
   "Players": [
+    {
+      "Name": "Toyota",
+      "Steam": "76561197969823680",
+      "Score": 0,
+      "Time": "225:37"
+    },
+    {
+      "Name": "Alt is Supaman",
+      "Steam": "76561199834727236",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "rchz",
       "Steam": "76561198753049263",
-      "Score": 76,
-      "Time": "27:05"
+      "Score": 87,
+      "Time": "29:05"
     },
     {
       "Name": "孔顏",
       "Steam": "76561198239908776",
-      "Score": 97,
+      "Score": 101,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 116,
-      "Time": "64:26"
+      "Score": 123,
+      "Time": "66:26"
     },
     {
       "Name": "Alpha",
@@ -28,8 +40,8 @@
     {
       "Name": "skibidizoilet123",
       "Steam": "76561198752394955",
-      "Score": 17,
-      "Time": "33:49"
+      "Score": 21,
+      "Time": "35:49"
     },
     {
       "Name": "Joseph Rizzler",
@@ -41,30 +53,30 @@
       "Name": "しんのすけです",
       "Steam": "76561199555977322",
       "Score": 31,
-      "Time": "20:31"
+      "Time": "22:31"
     },
     {
       "Name": "去性交",
       "Steam": "76561199726829725",
       "Score": 24,
-      "Time": "38:55"
+      "Time": "40:55"
     },
     {
       "Name": "`A",
       "Steam": "76561199699289339",
-      "Score": 102,
+      "Score": 106,
       "Time": "??:??"
     },
     {
       "Name": "MoMo",
       "Steam": "76561199776780694",
-      "Score": 26,
-      "Time": "38:37"
+      "Score": 28,
+      "Time": "40:37"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 52,
+      "Score": 62,
       "Time": "??:??"
     },
     {
@@ -76,8 +88,8 @@
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 9,
-      "Time": "100:00"
+      "Score": 18,
+      "Time": "102:00"
     }
   ]
 }
