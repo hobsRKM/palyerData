@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-10T17:44:27.4111576Z",
+  "Time": "2026-01-10T17:46:27.407784Z",
   "Players": [
+    {
+      "Name": "s1rota типо s1mple",
+      "Steam": "76561198749922610",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Alt is Supaman",
       "Steam": "76561199834727236",
-      "Score": 56,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE8C\uD835\uDE8A\uD835\uDE8D\uD835\uDE8E\uD835\uDE9B\uD835\uDE8E 愛",
       "Steam": "76561198822079717",
-      "Score": 52,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 78,
+      "Score": 86,
       "Time": "??:??"
     },
     {
@@ -29,25 +35,31 @@
       "Name": "しんのすけです",
       "Steam": "76561199555977322",
       "Score": 22,
-      "Time": "65:07"
+      "Time": "67:07"
     },
     {
       "Name": "去性交",
       "Steam": "76561199726829725",
-      "Score": 12,
-      "Time": "23:43"
+      "Score": 16,
+      "Time": "25:43"
     },
     {
       "Name": "MoMo",
       "Steam": "76561199776780694",
       "Score": 16,
-      "Time": "10:23"
+      "Time": "12:23"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 79,
-      "Time": "43:09"
+      "Score": 97,
+      "Time": "45:09"
+    },
+    {
+      "Name": "plgmisses",
+      "Steam": "76561199717612677",
+      "Score": 0,
+      "Time": "00:05"
     }
   ]
 }
