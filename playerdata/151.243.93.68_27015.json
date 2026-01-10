@@ -1,4 +1,65 @@
 {
-  "Time": "2026-01-10T10:06:16.7759457Z",
-  "Players": []
+  "Time": "2026-01-10T10:07:25.5033943Z",
+  "Players": [
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 17,
+      "Time": "15:22"
+    },
+    {
+      "Name": "ball-sak-juice",
+      "Steam": "76561198138115797",
+      "Score": 26,
+      "Time": "06:11"
+    },
+    {
+      "Name": "Entod",
+      "Steam": "76561199206844408",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tehk",
+      "Steam": "76561198753203481",
+      "Score": 37,
+      "Time": "225:09"
+    },
+    {
+      "Name": "Breathe",
+      "Steam": "76561198752220948",
+      "Score": 24,
+      "Time": "262:59"
+    },
+    {
+      "Name": "CryInChat owned by StarLord",
+      "Steam": "76561198781822916",
+      "Score": 26,
+      "Time": "51:09"
+    },
+    {
+      "Name": "reich⁶ʳᵏˢ",
+      "Steam": "76561199667954817",
+      "Score": 11,
+      "Time": "73:38"
+    },
+    {
+      "Name": "Frostyx",
+      "Steam": "76561198754223447",
+      "Score": 29,
+      "Time": "47:52"
+    },
+    {
+      "Name": "DaCouchMan",
+      "Steam": "76561198043040531",
+      "Score": 0,
+      "Time": "00:56"
+    },
+    {
+      "Name": "SAKI",
+      "Steam": "76561198255916712",
+      "Score": 18,
+      "Time": "??:??"
+    }
+  ]
 }
