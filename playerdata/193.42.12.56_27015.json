@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-10T22:48:32.429774Z",
+  "Time": "2026-01-10T22:50:32.432517Z",
   "Players": [
+    {
+      "Name": "godz",
+      "Steam": "76561198754469699",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Rıp.",
       "Steam": "76561199500245964",
@@ -16,20 +22,20 @@
     {
       "Name": "Scooby",
       "Steam": "76561198793740161",
-      "Score": 22,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "lachtanice15",
       "Steam": "76561198789141656",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "hey i heard u are a wild one",
       "Steam": "76561197963183861",
-      "Score": 98,
-      "Time": "90:04"
+      "Score": 114,
+      "Time": "92:04"
     }
   ]
 }
