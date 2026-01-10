@@ -1,53 +1,59 @@
 {
-  "Time": "2026-01-10T19:38:27.4005366Z",
+  "Time": "2026-01-10T19:40:27.4110882Z",
   "Players": [
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 11,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "YunChan",
       "Steam": "76561199860625632",
-      "Score": 12,
-      "Time": "34:39"
+      "Score": 14,
+      "Time": "36:39"
+    },
+    {
+      "Name": "serzy_mecaniculv6",
+      "Steam": "76561198749463485",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Ping Pong",
       "Steam": "76561198782416061",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "e",
       "Steam": "76561199564752768",
-      "Score": 24,
-      "Time": "66:00"
+      "Score": 36,
+      "Time": "68:00"
     },
     {
       "Name": "Therapist",
       "Steam": "76561199851447671",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "しんのすけです",
       "Steam": "76561199555977322",
-      "Score": 6,
-      "Time": "179:07"
+      "Score": 8,
+      "Time": "181:07"
     },
     {
       "Name": "MoMo",
       "Steam": "76561199776780694",
-      "Score": 2,
-      "Time": "01:49"
+      "Score": 4,
+      "Time": "03:49"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 19,
-      "Time": "157:09"
+      "Score": 29,
+      "Time": "159:09"
     }
   ]
 }
