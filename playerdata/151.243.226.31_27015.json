@@ -1,40 +1,40 @@
 {
-  "Time": "2026-01-10T05:26:27.4086501Z",
+  "Time": "2026-01-10T05:28:27.4080709Z",
   "Players": [
+    {
+      "Name": "Toyota",
+      "Steam": "76561197969823680",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 2,
-      "Time": "60:28"
+      "Score": 4,
+      "Time": "62:28"
     },
     {
       "Name": "rchz",
       "Steam": "76561198753049263",
-      "Score": 61,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "plgmisses",
       "Steam": "76561199717612677",
-      "Score": 86,
-      "Time": "36:58"
+      "Score": 9,
+      "Time": "38:58"
     },
     {
       "Name": "?????",
       "Steam": "76561199865563018",
-      "Score": 33,
-      "Time": "65:22"
+      "Score": 0,
+      "Time": "67:22"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 72,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Pe3kuu_TIapeHek",
-      "Steam": "76561199798484842",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
