@@ -1,40 +1,46 @@
 {
-  "Time": "2026-01-10T00:44:19.3888889Z",
+  "Time": "2026-01-10T00:46:19.3950863Z",
   "Players": [
+    {
+      "Name": "metro",
+      "Steam": "76561199007818126",
+      "Score": 0,
+      "Time": "01:14"
+    },
     {
       "Name": "sophie kirk",
       "Steam": "76561198753737179",
       "Score": 13,
-      "Time": "27:19"
+      "Time": "29:19"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 5,
-      "Time": "03:28"
+      "Score": 9,
+      "Time": "05:28"
     },
     {
       "Name": "MANGO HOOK SLAVE67",
       "Steam": "76561199321025751",
-      "Score": 17,
-      "Time": "08:59"
+      "Score": 25,
+      "Time": "10:59"
     },
     {
       "Name": "Flopper",
       "Steam": "76561199871691306",
-      "Score": 16,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Jj(V)",
       "Steam": "76561199668056830",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 24,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
