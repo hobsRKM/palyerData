@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-10T11:22:31.5238279Z",
+  "Time": "2026-01-10T11:24:31.5292581Z",
   "Players": [
     {
       "Name": "916frosty",
       "Steam": "76561199177563574",
       "Score": 2,
-      "Time": "12:25"
+      "Time": "14:25"
     },
     {
-      "Name": "e.luaradianc vltz",
+      "Name": "radiance.lua vltz",
       "Steam": "76561198288488016",
-      "Score": 18,
-      "Time": "29:58"
+      "Score": 22,
+      "Time": "31:58"
     },
     {
       "Name": "Vtec34",
       "Steam": "76561199845842299",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "ace",
+      "Steam": "76561198749232961",
+      "Score": 4,
+      "Time": "01:26"
     }
   ]
 }
