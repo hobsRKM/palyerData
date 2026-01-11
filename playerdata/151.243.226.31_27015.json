@@ -1,40 +1,46 @@
 {
-  "Time": "2026-01-11T09:28:48.4183305Z",
+  "Time": "2026-01-11T09:30:48.4179306Z",
   "Players": [
     {
       "Name": "1m74xD",
       "Steam": "76561198862303454",
-      "Score": 16,
-      "Time": "45:56"
+      "Score": 24,
+      "Time": "47:56"
     },
     {
       "Name": "Toyota",
       "Steam": "76561197969823680",
-      "Score": 42,
-      "Time": "69:47"
+      "Score": 46,
+      "Time": "71:47"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 13,
-      "Time": "05:50"
+      "Score": 17,
+      "Time": "07:50"
     },
     {
       "Name": "孔顏",
       "Steam": "76561198239908776",
-      "Score": 36,
-      "Time": "121:45"
+      "Score": 38,
+      "Time": "123:45"
+    },
+    {
+      "Name": "yt:lek2notfound",
+      "Steam": "76561199734794273",
+      "Score": 0,
+      "Time": "00:19"
     },
     {
       "Name": "\uD835\uDE94\uD835\uDE9B\uD835\uDEA3\uD835\uDEA0\uD835\uDE95◣_◢",
       "Steam": "76561198759189186",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 45,
+      "Score": 51,
       "Time": "??:??"
     },
     {
@@ -52,13 +58,19 @@
     {
       "Name": "Stfu nixware best",
       "Steam": "76561199781090383",
-      "Score": 16,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "rchz",
       "Steam": "76561198753049263",
-      "Score": 18,
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tengeali210",
+      "Steam": "76561199862230602",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
