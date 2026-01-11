@@ -1,28 +1,34 @@
 {
-  "Time": "2026-01-10T23:58:05.7929583Z",
+  "Time": "2026-01-11T00:00:05.8037097Z",
   "Players": [
     {
       "Name": "cdn",
       "Steam": "76561199865430753",
-      "Score": 83,
+      "Score": 91,
       "Time": "??:??"
     },
     {
       "Name": "hessu777",
       "Steam": "76561198776921465",
-      "Score": 19,
-      "Time": "05:53"
+      "Score": 31,
+      "Time": "07:53"
     },
     {
       "Name": "moneyboys1",
       "Steam": "76561199848917272",
-      "Score": 37,
-      "Time": "48:18"
+      "Score": 46,
+      "Time": "50:18"
+    },
+    {
+      "Name": "Gerorge",
+      "Steam": "76561199886937151",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "neaxy",
       "Steam": "76561199048207385",
-      "Score": 23,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -34,20 +40,38 @@
     {
       "Name": "berinaliu74",
       "Steam": "76561198749647378",
-      "Score": 13,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SkeetLarper7238",
+      "Steam": "76561198762446157",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ketaxgla330",
+      "Steam": "76561199616357573",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "OsamaBinBaden",
       "Steam": "76561198750913841",
-      "Score": 30,
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jakub SHOOTGG",
+      "Steam": "76561199615136344",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 53,
-      "Time": "90:39"
+      "Score": 59,
+      "Time": "92:39"
     }
   ]
 }
