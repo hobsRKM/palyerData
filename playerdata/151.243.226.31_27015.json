@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-11T14:16:48.4193591Z",
+  "Time": "2026-01-11T14:18:48.4162496Z",
   "Players": [
+    {
+      "Name": "ahmedsalam",
+      "Steam": "76561198748982504",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 19,
-      "Time": "26:44"
+      "Score": 32,
+      "Time": "28:44"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 22,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "kryozzz",
       "Steam": "76561199485394741",
-      "Score": 23,
-      "Time": "52:30"
+      "Score": 34,
+      "Time": "54:30"
     },
     {
       "Name": "Yyeclax",
       "Steam": "76561199804415761",
-      "Score": 14,
-      "Time": "11:48"
+      "Score": 16,
+      "Time": "13:48"
     }
   ]
 }
