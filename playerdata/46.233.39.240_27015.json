@@ -1,22 +1,22 @@
 {
-  "Time": "2026-01-11T09:28:29.784138Z",
+  "Time": "2026-01-11T09:30:29.7843501Z",
   "Players": [
     {
       "Name": "Shark",
       "Steam": "76561198785575338",
-      "Score": 61,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "mega knight",
       "Steam": "76561198754853794",
-      "Score": 0,
-      "Time": "06:12"
+      "Score": 5,
+      "Time": "08:12"
     },
     {
-      "Name": "e.luaradianc vltz",
+      "Name": "radiance.lua vltz",
       "Steam": "76561198288488016",
-      "Score": 53,
+      "Score": 55,
       "Time": "??:??"
     },
     {
@@ -24,6 +24,12 @@
       "Steam": "76561199383761717",
       "Score": 9,
       "Time": "??:??"
+    },
+    {
+      "Name": "Avatar",
+      "Steam": "76561198274962814",
+      "Score": 2,
+      "Time": "01:54"
     }
   ]
 }
