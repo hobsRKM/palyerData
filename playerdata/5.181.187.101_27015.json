@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-11T20:22:23.57112Z",
-  "Players": []
+  "Time": "2026-01-11T20:23:31.6372508Z",
+  "Players": [
+    {
+      "Name": "Bot",
+      "Steam": "76561199820000108",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mike hanksoff",
+      "Steam": "76561199409844133",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sadam Hussein",
+      "Steam": "76561198766154169",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hafez al-Assad",
+      "Steam": "76561199513863425",
+      "Score": 94,
+      "Time": "??:??"
+    }
+  ]
 }
