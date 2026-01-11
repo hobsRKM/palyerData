@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-11T08:14:29.7805757Z",
+  "Time": "2026-01-11T08:16:29.7811846Z",
   "Players": [
     {
       "Name": "VAC POLICE",
       "Steam": "76561198753684753",
-      "Score": 12,
-      "Time": "19:17"
+      "Score": 18,
+      "Time": "21:17"
     },
     {
       "Name": "Nettspending",
       "Steam": "76561199849932107",
-      "Score": 38,
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Shark",
+      "Steam": "76561198785575338",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
