@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-11T16:20:20.472185Z",
+  "Time": "2026-01-11T16:22:20.4724742Z",
   "Players": [
+    {
+      "Name": "usa needs more terrorism",
+      "Steam": "76561199678608838",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Bosnia",
       "Steam": "76561198992148678",
-      "Score": 2,
-      "Time": "01:46"
+      "Score": 8,
+      "Time": "03:46"
     },
     {
       "Name": ".",
       "Steam": "76561198356401784",
-      "Score": 6,
-      "Time": "02:21"
+      "Score": 8,
+      "Time": "04:21"
     },
     {
       "Name": "Eight",
       "Steam": "76561199043213580",
-      "Score": 3,
-      "Time": "01:33"
+      "Score": 7,
+      "Time": "03:33"
     }
   ]
 }
