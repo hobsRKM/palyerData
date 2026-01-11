@@ -1,28 +1,40 @@
 {
-  "Time": "2026-01-11T19:22:39.9197884Z",
+  "Time": "2026-01-11T19:24:39.9175953Z",
   "Players": [
+    {
+      "Name": "Montarix",
+      "Steam": "76561199166298884",
+      "Score": 0,
+      "Time": "00:26"
+    },
     {
       "Name": "420",
       "Steam": "76561198785909285",
-      "Score": 18,
-      "Time": "27:33"
+      "Score": 27,
+      "Time": "29:33"
+    },
+    {
+      "Name": "StackBoi",
+      "Steam": "76561198765494904",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Dokuro_Chan",
       "Steam": "76561199861420621",
-      "Score": 59,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "hikaminee0",
       "Steam": "76561198783885024",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "\uD83D\uDE42",
       "Steam": "76561198749555178",
-      "Score": 49,
+      "Score": 55,
       "Time": "??:??"
     }
   ]
