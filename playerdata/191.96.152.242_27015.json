@@ -1,47 +1,35 @@
 {
-  "Time": "2026-01-11T05:00:17.8219201Z",
+  "Time": "2026-01-11T05:02:17.812042Z",
   "Players": [
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 6,
-      "Time": "73:30"
+      "Score": 12,
+      "Time": "75:30"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 0,
-      "Time": "120:44"
+      "Score": 2,
+      "Time": "122:44"
     },
     {
       "Name": "Mogged by Maduro",
       "Steam": "76561199156395215",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 8,
-      "Time": "38:54"
-    },
-    {
-      "Name": "Felix",
-      "Steam": "76561198193603937",
-      "Score": 6,
-      "Time": "11:17"
-    },
-    {
-      "Name": "123",
-      "Steam": "76561198429182345",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 12,
+      "Time": "40:54"
     }
   ]
 }
