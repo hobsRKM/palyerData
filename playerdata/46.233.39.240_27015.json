@@ -1,17 +1,29 @@
 {
-  "Time": "2026-01-11T08:28:29.7835238Z",
+  "Time": "2026-01-11T08:30:29.7836473Z",
   "Players": [
     {
       "Name": "Nettspending",
       "Steam": "76561199849932107",
-      "Score": 28,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "Shark",
       "Steam": "76561198785575338",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "mega knight",
+      "Steam": "76561198754853794",
+      "Score": 4,
+      "Time": "00:15"
+    },
+    {
+      "Name": "jaksoohmakebabieswlez",
+      "Steam": "76561198748658957",
+      "Score": 3,
+      "Time": "01:39"
     }
   ]
 }
