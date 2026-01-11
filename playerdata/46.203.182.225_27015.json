@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-11T08:52:45.6485237Z",
+  "Time": "2026-01-11T08:54:45.6545409Z",
   "Players": [
+    {
+      "Name": "tukansiken",
+      "Steam": "76561198748985833",
+      "Score": 0,
+      "Time": "01:29"
+    },
     {
       "Name": "asdfg",
       "Steam": "76561199447776144",
-      "Score": 30,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bodrum block",
       "Steam": "76561198748203839",
-      "Score": 35,
-      "Time": "17:05"
-    },
-    {
-      "Name": "eldak950",
-      "Steam": "76561198750709678",
-      "Score": 6,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "19:05"
     },
     {
       "Name": "hikaminee0",
       "Steam": "76561198783885024",
-      "Score": 16,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Orca",
       "Steam": "76561198752077069",
-      "Score": 4,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VIP | Code10",
+      "Steam": "76561199885925695",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
