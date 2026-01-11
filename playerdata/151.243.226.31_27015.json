@@ -1,41 +1,35 @@
 {
-  "Time": "2026-01-11T14:12:48.4154559Z",
+  "Time": "2026-01-11T14:14:48.4153533Z",
   "Players": [
+    {
+      "Name": "playwell",
+      "Steam": "76561199063607835",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 9,
-      "Time": "22:44"
+      "Score": 11,
+      "Time": "24:44"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "IDontKnowHowToPlay",
-      "Steam": "76561199100375414",
-      "Score": 0,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "kryozzz",
       "Steam": "76561199485394741",
-      "Score": 7,
-      "Time": "48:30"
-    },
-    {
-      "Name": "user",
-      "Steam": "76561199644970861",
-      "Score": 0,
-      "Time": "37:27"
+      "Score": 22,
+      "Time": "50:30"
     },
     {
       "Name": "Yyeclax",
       "Steam": "76561199804415761",
-      "Score": 0,
-      "Time": "07:48"
+      "Score": 8,
+      "Time": "09:48"
     }
   ]
 }
