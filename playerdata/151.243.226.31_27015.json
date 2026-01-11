@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-11T14:38:48.4220824Z",
+  "Time": "2026-01-11T14:40:48.4274331Z",
   "Players": [
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
+      "Score": 4,
+      "Time": "50:44"
+    },
+    {
+      "Name": "ddd-TWO-X",
+      "Steam": "76561199653138556",
       "Score": 0,
-      "Time": "48:44"
+      "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "kryozzz",
       "Steam": "76561199485394741",
-      "Score": 0,
-      "Time": "00:06"
+      "Score": 2,
+      "Time": "02:06"
     },
     {
       "Name": "Ping Pong",
@@ -29,7 +35,7 @@
       "Name": "Yyeclax",
       "Steam": "76561199804415761",
       "Score": 0,
-      "Time": "33:48"
+      "Time": "35:48"
     }
   ]
 }
