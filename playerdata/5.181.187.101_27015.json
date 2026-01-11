@@ -1,53 +1,83 @@
 {
-  "Time": "2026-01-11T17:01:31.6316193Z",
+  "Time": "2026-01-11T17:02:14.326433Z",
   "Players": [
     {
-      "Name": "wizzr",
-      "Steam": "76561198752665424",
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Timee",
+      "Steam": "76561199206658984",
+      "Score": 70,
+      "Time": "28:45"
+    },
+    {
+      "Name": "Missed due to Spread",
+      "Steam": "76561199498192347",
+      "Score": 1,
+      "Time": "01:01"
+    },
+    {
+      "Name": "flashy",
+      "Steam": "76561199164375637",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ᴄᴏʀᴏɴᴀ",
+      "Steam": "76561199180147646",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Julian",
+      "Steam": "76561199815717068",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "majin [Bot]",
+      "Steam": "76561199016518335",
+      "Score": 48,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fenta jocke",
+      "Steam": "76561199646985403",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "4elik",
+      "Steam": "76561198327957560",
+      "Score": 67,
+      "Time": "17:58"
+    },
+    {
+      "Name": "✮⋆ ˢⁿᵘˢ miffo",
+      "Steam": "76561198788157791",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "youtube.com/XyberJutt",
+      "Steam": "76561199221111473",
       "Score": 0,
-      "Time": "00:55"
-    },
-    {
-      "Name": "fade",
-      "Steam": "76561198749511793",
-      "Score": 25,
-      "Time": "14:11"
-    },
-    {
-      "Name": "Smell it",
-      "Steam": "76561199825732371",
-      "Score": 38,
       "Time": "??:??"
     },
     {
-      "Name": "Fatality M1RtiN4o",
-      "Steam": "76561198794087367",
-      "Score": 60,
-      "Time": "11:14"
-    },
-    {
-      "Name": "Kiszo Maslanka",
-      "Steam": "76561199866941128",
-      "Score": 99,
-      "Time": "65:12"
-    },
-    {
-      "Name": "eetsu",
-      "Steam": "76561199027496695",
-      "Score": 8,
+      "Name": "LeckEi",
+      "Steam": "76561198749477238",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "Punchmade Dev",
-      "Steam": "76561198748069450",
+      "Name": "tymo--",
+      "Steam": "76561199425592793",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "lfke",
-      "Steam": "76561198749723566",
-      "Score": 25,
-      "Time": "30:28"
+      "Time": "01:42"
     }
   ]
 }
