@@ -1,64 +1,52 @@
 {
-  "Time": "2026-01-11T10:00:48.4210958Z",
+  "Time": "2026-01-11T10:02:48.4237192Z",
   "Players": [
-    {
-      "Name": "Toyota",
-      "Steam": "76561197969823680",
-      "Score": 19,
-      "Time": "101:47"
-    },
     {
       "Name": "悟空",
       "Steam": "76561199717783206",
+      "Score": 2,
+      "Time": "10:59"
+    },
+    {
+      "Name": "zeko",
+      "Steam": "76561198327416467",
       "Score": 0,
-      "Time": "08:59"
+      "Time": "00:44"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 18,
-      "Time": "09:46"
+      "Score": 20,
+      "Time": "11:46"
     },
     {
       "Name": "e",
       "Steam": "76561199564752768",
-      "Score": 2,
-      "Time": "01:07"
+      "Score": 6,
+      "Time": "03:07"
     },
     {
       "Name": "yt:lek2notfound",
       "Steam": "76561199734794273",
-      "Score": 16,
-      "Time": "30:19"
+      "Score": 26,
+      "Time": "32:19"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 26,
-      "Time": "??:??"
-    },
-    {
-      "Name": "abg",
-      "Steam": "76561198779024260",
-      "Score": 11,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "rchz",
       "Steam": "76561198753049263",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "cayman island boss",
       "Steam": "76561198983792841",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "beczka",
-      "Steam": "76561199023068942",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
