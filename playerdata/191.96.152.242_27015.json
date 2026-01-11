@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-11T09:22:17.8182713Z",
+  "Time": "2026-01-11T09:24:17.824969Z",
   "Players": [
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
-      "Score": 5,
-      "Time": "42:50"
+      "Score": 9,
+      "Time": "44:50"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 16,
-      "Time": "102:28"
+      "Score": 26,
+      "Time": "104:28"
     },
     {
       "Name": "devour",
       "Steam": "76561199634018466",
-      "Score": 0,
-      "Time": "01:14"
+      "Score": 2,
+      "Time": "00:43"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 6,
+      "Score": 17,
       "Time": "??:??"
+    },
+    {
+      "Name": "Hysteria",
+      "Steam": "76561198751671283",
+      "Score": 0,
+      "Time": "213:00"
     },
     {
       "Name": "cloxid",
       "Steam": "76561199525060285",
-      "Score": 26,
-      "Time": "08:48"
+      "Score": 29,
+      "Time": "10:48"
     }
   ]
 }
