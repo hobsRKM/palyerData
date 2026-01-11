@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-11T16:06:20.4682608Z",
+  "Time": "2026-01-11T16:08:20.4679384Z",
   "Players": [
+    {
+      "Name": "SwaggyGrace",
+      "Steam": "76561199031753721",
+      "Score": 0,
+      "Time": "00:45"
+    },
     {
       "Name": "Bosnia",
       "Steam": "76561198992148678",
-      "Score": 20,
-      "Time": "07:14"
+      "Score": 2,
+      "Time": "09:14"
     },
     {
       "Name": "Mr. Creamy Peanut",
       "Steam": "76561199229233111",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561198356401784",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
