@@ -1,4 +1,35 @@
 {
-  "Time": "2026-01-12T02:10:11.5330091Z",
-  "Players": []
+  "Time": "2026-01-12T02:12:10.2702976Z",
+  "Players": [
+    {
+      "Name": "cheeziepooh",
+      "Steam": "76561198273566562",
+      "Score": 33,
+      "Time": "00:40"
+    },
+    {
+      "Name": "123",
+      "Steam": "76561199804500311",
+      "Score": 29,
+      "Time": "29:33"
+    },
+    {
+      "Name": "apart",
+      "Steam": "76561198782333753",
+      "Score": 14,
+      "Time": "06:42"
+    },
+    {
+      "Name": "vape",
+      "Steam": "76561199828812573",
+      "Score": 53,
+      "Time": "93:11"
+    },
+    {
+      "Name": "CryInChat owned by StarLord",
+      "Steam": "76561198781822916",
+      "Score": 11,
+      "Time": "10:30"
+    }
+  ]
 }
