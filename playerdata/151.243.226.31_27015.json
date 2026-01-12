@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-12T14:22:39.2851452Z",
+  "Time": "2026-01-12T14:24:39.2902004Z",
   "Players": [
+    {
+      "Name": "black cat | nix",
+      "Steam": "76561198749542182",
+      "Score": 0,
+      "Time": "00:23"
+    },
     {
       "Name": "Alt is Supaman",
       "Steam": "76561199834727236",
-      "Score": 47,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "1",
       "Steam": "76561199163976232",
-      "Score": 88,
-      "Time": "56:01"
+      "Score": 90,
+      "Time": "58:01"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 34,
+      "Score": 37,
       "Time": "??:??"
     }
   ]
