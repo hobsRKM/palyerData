@@ -1,47 +1,59 @@
 {
-  "Time": "2026-01-12T12:44:39.2798497Z",
+  "Time": "2026-01-12T12:46:39.289314Z",
   "Players": [
+    {
+      "Name": "Meowny",
+      "Steam": "76561199015755611",
+      "Score": 7,
+      "Time": "01:45"
+    },
     {
       "Name": "孔顏",
       "Steam": "76561198239908776",
       "Score": 67,
-      "Time": "59:09"
+      "Time": "61:09"
     },
     {
       "Name": "Alpha [washed]",
       "Steam": "76561199822492698",
-      "Score": 44,
-      "Time": "62:44"
+      "Score": 53,
+      "Time": "64:44"
     },
     {
       "Name": "dog eater",
       "Steam": "76561199822470656",
-      "Score": 44,
-      "Time": "44:09"
+      "Score": 54,
+      "Time": "46:09"
     },
     {
       "Name": "Black",
       "Steam": "76561199159788976",
-      "Score": 4,
-      "Time": "06:04"
+      "Score": 0,
+      "Time": "08:04"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 4,
-      "Time": "07:26"
+      "Score": 0,
+      "Time": "09:26"
     },
     {
       "Name": "Alt is Supaman",
       "Steam": "76561199834727236",
-      "Score": 75,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 105,
+      "Score": 111,
       "Time": "??:??"
+    },
+    {
+      "Name": "героический",
+      "Steam": "76561199582103015",
+      "Score": 110,
+      "Time": "00:28"
     }
   ]
 }
