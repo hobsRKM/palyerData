@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-12T05:54:20.474746Z",
+  "Time": "2026-01-12T05:56:20.4843726Z",
   "Players": [
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 18,
+      "Score": 27,
       "Time": "??:??"
+    },
+    {
+      "Name": "I know what you did last summer",
+      "Steam": "76561199050170734",
+      "Score": 0,
+      "Time": "00:44"
     },
     {
       "Name": "blumpkin",
@@ -16,25 +22,25 @@
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 19,
-      "Time": "21:46"
+      "Score": 25,
+      "Time": "23:46"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "shaded",
       "Steam": "76561199714249946",
-      "Score": 1,
-      "Time": "01:50"
+      "Score": 5,
+      "Time": "03:50"
     },
     {
       "Name": "apart",
       "Steam": "76561198782333753",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
