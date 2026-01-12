@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-12T07:26:39.2833897Z",
+  "Time": "2026-01-12T07:28:39.2799201Z",
   "Players": [
     {
       "Name": "koko",
       "Steam": "76561199525673844",
-      "Score": 42,
-      "Time": "40:08"
+      "Score": 0,
+      "Time": "42:08"
     },
     {
       "Name": "NIXWARE",
       "Steam": "76561199665714843",
-      "Score": 4,
-      "Time": "04:22"
+      "Score": 11,
+      "Time": "06:22"
+    },
+    {
+      "Name": "Stfu nixware best",
+      "Steam": "76561199781090383",
+      "Score": 18,
+      "Time": "01:08"
     },
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 58,
-      "Time": "43:38"
+      "Score": 63,
+      "Time": "45:38"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 17,
-      "Time": "10:06"
+      "Score": 27,
+      "Time": "12:06"
     },
     {
       "Name": "Alpha",
       "Steam": "76561199822492698",
-      "Score": 2,
-      "Time": "01:30"
+      "Score": 10,
+      "Time": "03:30"
     }
   ]
 }
