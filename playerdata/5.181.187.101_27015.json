@@ -1,71 +1,17 @@
 {
-  "Time": "2026-01-12T12:36:31.9399841Z",
+  "Time": "2026-01-12T12:38:23.3400852Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
-      "Score": 0,
+      "Name": "s1mple",
+      "Steam": "76561198755220664",
+      "Score": 10,
+      "Time": "08:00"
+    },
+    {
+      "Name": "krokettenkreuzer",
+      "Steam": "76561199702518440",
+      "Score": 14,
       "Time": "??:??"
-    },
-    {
-      "Name": "BOMBO CLAT",
-      "Steam": "76561198757825729",
-      "Score": 37,
-      "Time": "??:??"
-    },
-    {
-      "Name": "beniasty",
-      "Steam": "76561198293009472",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ghostY",
-      "Steam": "76561199591486018",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
-      "Name": "21",
-      "Steam": "76561199706697341",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "GAP",
-      "Steam": "76561199230497763",
-      "Score": 0,
-      "Time": "24:00"
-    },
-    {
-      "Name": "mock",
-      "Steam": "76561198755398524",
-      "Score": 18,
-      "Time": "92:52"
-    },
-    {
-      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
-      "Steam": "76561198784581696",
-      "Score": 37,
-      "Time": "55:48"
-    },
-    {
-      "Name": "HateSek #DriverSpeed",
-      "Steam": "76561198349844769",
-      "Score": 5,
-      "Time": "??:??"
-    },
-    {
-      "Name": "cloxid",
-      "Steam": "76561199525060285",
-      "Score": 54,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Moldova",
-      "Steam": "76561199543172968",
-      "Score": 2,
-      "Time": "17:25"
     }
   ]
 }
