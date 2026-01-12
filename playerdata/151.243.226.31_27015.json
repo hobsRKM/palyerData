@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-12T09:06:39.284247Z",
+  "Time": "2026-01-12T09:08:39.2910785Z",
   "Players": [
     {
       "Name": "Yyeclax",
       "Steam": "76561199804415761",
-      "Score": 43,
-      "Time": "34:12"
+      "Score": 47,
+      "Time": "36:12"
     },
     {
       "Name": "NIXWARE",
       "Steam": "76561199665714843",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "孔顏",
       "Steam": "76561198239908776",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "Alpha [washed]",
       "Steam": "76561199822492698",
-      "Score": 24,
-      "Time": "05:07"
+      "Score": 42,
+      "Time": "07:07"
+    },
+    {
+      "Name": "Joseph Rizzler",
+      "Steam": "76561199822092076",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
