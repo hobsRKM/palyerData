@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-12T08:38:18.6855809Z",
+  "Time": "2026-01-12T08:40:18.6874949Z",
   "Players": [
     {
       "Name": "\"'",
@@ -10,20 +10,26 @@
     {
       "Name": "Adderal",
       "Steam": "76561199890749463",
+      "Score": 3,
+      "Time": "03:52"
+    },
+    {
+      "Name": "majin [Bot]",
+      "Steam": "76561199016518335",
       "Score": 0,
-      "Time": "01:52"
+      "Time": "01:35"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 147,
-      "Time": "44:27"
+      "Score": 155,
+      "Time": "46:27"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
       "Steam": "76561198333235279",
-      "Score": 11,
-      "Time": "29:22"
+      "Score": 13,
+      "Time": "31:22"
     },
     {
       "Name": "\uD835\uDD05\uD835\uDD1E\uD835\uDD30\uD835\uDD31\uD835\uDD1E\uD835\uDD2F\uD835\uDD21",
@@ -34,37 +40,31 @@
     {
       "Name": "demencja",
       "Steam": "76561199055496444",
-      "Score": 58,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 44,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "keer",
       "Steam": "76561199860787478",
-      "Score": 16,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "perc",
       "Steam": "76561199503396912",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "szybki zawodnik",
       "Steam": "76561199131633124",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
-      "Name": "qwizik",
-      "Steam": "76561199862643080",
-      "Score": 0,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
