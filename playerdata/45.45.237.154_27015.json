@@ -1,29 +1,47 @@
 {
-  "Time": "2026-01-13T01:53:07.3999034Z",
+  "Time": "2026-01-13T01:55:07.4044292Z",
   "Players": [
+    {
+      "Name": "lllllllllllllll|||||||||||||||||",
+      "Steam": "76561199531695282",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "emotional suport bagel",
       "Steam": "76561199548982521",
-      "Score": 6,
-      "Time": "10:00"
+      "Score": 11,
+      "Time": "12:00"
+    },
+    {
+      "Name": "noname",
+      "Steam": "76561198748767888",
+      "Score": 0,
+      "Time": "00:39"
     },
     {
       "Name": "apollo",
       "Steam": "76561199860618727",
-      "Score": 32,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 18,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "apart",
       "Steam": "76561198782333753",
-      "Score": 11,
+      "Score": 19,
       "Time": "??:??"
+    },
+    {
+      "Name": "0x6a6179",
+      "Steam": "76561198758593147",
+      "Score": 0,
+      "Time": "00:16"
     }
   ]
 }
