@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-13T23:34:02.308097Z",
+  "Time": "2026-01-13T23:36:02.3106672Z",
   "Players": [
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 36,
-      "Time": "34:24"
+      "Score": 39,
+      "Time": "36:24"
     },
     {
       "Name": "please",
       "Steam": "76561197963183861",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "Torpern",
+      "Steam": "76561198749762014",
+      "Score": 0,
+      "Time": "01:01"
     }
   ]
 }
