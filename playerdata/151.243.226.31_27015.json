@@ -1,53 +1,59 @@
 {
-  "Time": "2026-01-13T14:42:38.1243636Z",
+  "Time": "2026-01-13T14:44:38.1336817Z",
   "Players": [
     {
       "Name": "@cooper on fatality",
       "Steam": "76561198791610523",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "dog eater",
       "Steam": "76561199822470656",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Alt is Supaman",
       "Steam": "76561199834727236",
-      "Score": 60,
-      "Time": "38:49"
+      "Score": 62,
+      "Time": "40:49"
     },
     {
       "Name": "rchz",
       "Steam": "76561198753049263",
       "Score": 18,
-      "Time": "11:10"
+      "Time": "13:10"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 74,
-      "Time": "85:23"
+      "Score": 79,
+      "Time": "87:23"
     },
     {
       "Name": "HWzz",
       "Steam": "76561199731538659",
-      "Score": 28,
-      "Time": "44:25"
+      "Score": 29,
+      "Time": "46:25"
     },
     {
       "Name": "aura",
       "Steam": "76561199821169844",
-      "Score": 59,
-      "Time": "13:08"
+      "Score": 71,
+      "Time": "15:08"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 18,
-      "Time": "08:00"
+      "Score": 20,
+      "Time": "10:00"
+    },
+    {
+      "Name": "plgmisses",
+      "Steam": "76561199717612677",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
