@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-13T13:37:51.2555669Z",
+  "Time": "2026-01-13T13:39:51.2475346Z",
   "Players": [
+    {
+      "Name": "devour",
+      "Steam": "76561199634018466",
+      "Score": 0,
+      "Time": "00:12"
+    },
     {
       "Name": "oooooooooox",
       "Steam": "76561199141534082",
-      "Score": 23,
-      "Time": "12:06"
+      "Score": 27,
+      "Time": "14:06"
     },
     {
       "Name": "SwaggyGrace",
@@ -14,10 +20,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "XXⅠ",
+      "Steam": "76561198762281843",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 38,
-      "Time": "10:47"
+      "Score": 42,
+      "Time": "12:47"
     }
   ]
 }
