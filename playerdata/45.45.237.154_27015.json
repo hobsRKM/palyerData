@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-13T06:57:51.1451769Z",
+  "Time": "2026-01-13T06:59:51.1367946Z",
   "Players": [
+    {
+      "Name": "vape",
+      "Steam": "76561199828812573",
+      "Score": 4,
+      "Time": "01:32"
+    },
     {
       "Name": "aboleshyy",
       "Steam": "76561198749108439",
@@ -10,8 +16,8 @@
     {
       "Name": "areweseriousrightneowbro45",
       "Steam": "76561198758437919",
-      "Score": 0,
-      "Time": "00:46"
+      "Score": 2,
+      "Time": "02:46"
     },
     {
       "Name": "qt",
@@ -22,7 +28,7 @@
     {
       "Name": "frozen frogs",
       "Steam": "76561199479457727",
-      "Score": 8,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
