@@ -1,22 +1,34 @@
 {
-  "Time": "2026-01-13T08:52:31.4501587Z",
+  "Time": "2026-01-13T08:54:31.4517952Z",
   "Players": [
+    {
+      "Name": "최고",
+      "Steam": "76561199866652415",
+      "Score": 4,
+      "Time": "01:39"
+    },
+    {
+      "Name": "plaguecheat.cc",
+      "Steam": "76561198747398066",
+      "Score": 6,
+      "Time": "02:05"
+    },
     {
       "Name": "mega knight",
       "Steam": "76561198754853794",
       "Score": 6,
-      "Time": "10:22"
+      "Time": "12:22"
     },
     {
       "Name": "darren",
       "Steam": "76561199033651671",
-      "Score": 28,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "Avatar",
       "Steam": "76561198274962814",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
