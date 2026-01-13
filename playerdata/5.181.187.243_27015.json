@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-13T21:22:02.3096151Z",
+  "Time": "2026-01-13T21:23:59.8712459Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
-      "Score": 0,
+      "Name": "AbduLLaHH",
+      "Steam": "76561198764375260",
+      "Score": 27,
+      "Time": "59:52"
+    },
+    {
+      "Name": "angel",
+      "Steam": "76561199798812373",
+      "Score": 17,
+      "Time": "08:36"
+    },
+    {
+      "Name": "Sir Prost",
+      "Steam": "76561199160093857",
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "Goatis",
-      "Steam": "76561198751025484",
-      "Score": 60,
-      "Time": "??:??"
+      "Name": "guy",
+      "Steam": "76561199471182367",
+      "Score": 26,
+      "Time": "18:48"
     },
     {
-      "Name": "J...",
-      "Steam": "76561198782604078",
-      "Score": 9,
+      "Name": "HelloKitty.exe",
+      "Steam": "76561199809357039",
+      "Score": 8,
       "Time": "??:??"
-    },
-    {
-      "Name": "FATAL BOOST VAC BAN",
-      "Steam": "76561199742873534",
-      "Score": 4,
-      "Time": "03:56"
     }
   ]
 }
