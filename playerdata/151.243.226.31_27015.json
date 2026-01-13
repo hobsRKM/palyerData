@@ -1,35 +1,47 @@
 {
-  "Time": "2026-01-13T16:38:38.1281266Z",
+  "Time": "2026-01-13T16:40:38.1266995Z",
   "Players": [
+    {
+      "Name": "cayman island boss",
+      "Steam": "76561198983792841",
+      "Score": 2,
+      "Time": "01:31"
+    },
     {
       "Name": "恰逢锦时梦",
       "Steam": "76561199646837225",
-      "Score": 36,
-      "Time": "15:34"
+      "Score": 38,
+      "Time": "17:34"
     },
     {
       "Name": "lucijia-",
       "Steam": "76561199271360702",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 14,
-      "Time": "13:43"
+      "Score": 19,
+      "Time": "15:43"
+    },
+    {
+      "Name": "aura",
+      "Steam": "76561199821169844",
+      "Score": 16,
+      "Time": "00:23"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 2,
-      "Time": "05:50"
+      "Score": 6,
+      "Time": "07:50"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 53,
-      "Time": "65:58"
+      "Score": 57,
+      "Time": "67:58"
     }
   ]
 }
