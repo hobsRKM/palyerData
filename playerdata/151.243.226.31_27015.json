@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-13T09:24:38.1289125Z",
+  "Time": "2026-01-13T09:26:38.124785Z",
   "Players": [
+    {
+      "Name": "freya",
+      "Steam": "76561199229682369",
+      "Score": 0,
+      "Time": "86:40"
+    },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 0,
-      "Time": "15:42"
+      "Score": 2,
+      "Time": "17:42"
     },
     {
       "Name": "1",
       "Steam": "76561199163976232",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "zoe",
       "Steam": "76561199127011949",
-      "Score": 0,
-      "Time": "18:25"
+      "Score": 4,
+      "Time": "20:25"
     },
     {
       "Name": "Alt is Supaman",
       "Steam": "76561199834727236",
       "Score": 0,
-      "Time": "43:38"
+      "Time": "45:38"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "rchz",
       "Steam": "76561198753049263",
-      "Score": 0,
-      "Time": "10:59"
+      "Score": 6,
+      "Time": "12:59"
     }
   ]
 }
