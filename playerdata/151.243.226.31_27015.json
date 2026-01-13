@@ -1,52 +1,52 @@
 {
-  "Time": "2026-01-13T14:16:38.1193793Z",
+  "Time": "2026-01-13T14:18:38.1237278Z",
   "Players": [
+    {
+      "Name": "poundtown",
+      "Steam": "76561199833558426",
+      "Score": 0,
+      "Time": "01:47"
+    },
     {
       "Name": "Alt is Supaman",
       "Steam": "76561199834727236",
-      "Score": 22,
-      "Time": "12:49"
+      "Score": 26,
+      "Time": "14:49"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 111,
-      "Time": "59:23"
+      "Score": 120,
+      "Time": "61:23"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 49,
-      "Time": "50:37"
+      "Score": 54,
+      "Time": "52:37"
     },
     {
       "Name": "HWzz",
       "Steam": "76561199731538659",
       "Score": 28,
-      "Time": "18:25"
-    },
-    {
-      "Name": "Cyron",
-      "Steam": "76561198855550056",
-      "Score": 98,
-      "Time": "66:18"
+      "Time": "20:25"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 90,
+      "Score": 96,
       "Time": "??:??"
     },
     {
       "Name": "zeko",
       "Steam": "76561198327416467",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "❤︎ Columbina ❤",
       "Steam": "76561198790860703",
-      "Score": 80,
+      "Score": 82,
       "Time": "??:??"
     }
   ]
