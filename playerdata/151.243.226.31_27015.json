@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-13T12:30:38.1238068Z",
+  "Time": "2026-01-13T12:32:38.1237084Z",
   "Players": [
     {
       "Name": "zoe",
       "Steam": "76561199127011949",
-      "Score": 25,
-      "Time": "08:13"
+      "Score": 31,
+      "Time": "10:13"
     },
     {
       "Name": "HWzz",
       "Steam": "76561199731538659",
       "Score": 12,
-      "Time": "14:32"
+      "Time": "16:32"
     },
     {
       "Name": "AZL",
       "Steam": "76561199280028199",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Alpha [washed]",
       "Steam": "76561199822492698",
-      "Score": 59,
+      "Score": 65,
       "Time": "??:??"
+    },
+    {
+      "Name": "mishokmashok",
+      "Steam": "76561198755655293",
+      "Score": 0,
+      "Time": "00:42"
     }
   ]
 }
