@@ -1,40 +1,22 @@
 {
-  "Time": "2026-01-13T11:57:51.252085Z",
+  "Time": "2026-01-13T11:59:51.2600388Z",
   "Players": [
+    {
+      "Name": "artembombar",
+      "Steam": "76561198750223131",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "SwaggyGrace",
       "Steam": "76561199031753721",
-      "Score": 25,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "aboleshyy",
       "Steam": "76561198749108439",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "cheeziepooh",
-      "Steam": "76561198273566562",
-      "Score": 24,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Наниса миндамаг",
-      "Steam": "76561199861762543",
-      "Score": 36,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Things are getting better",
-      "Steam": "76561198752220948",
-      "Score": 59,
-      "Time": "??:??"
-    },
-    {
-      "Name": "silk",
-      "Steam": "76561199158461000",
-      "Score": 80,
       "Time": "??:??"
     }
   ]
