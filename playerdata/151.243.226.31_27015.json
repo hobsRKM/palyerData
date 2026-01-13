@@ -1,59 +1,59 @@
 {
-  "Time": "2026-01-13T16:54:38.118769Z",
+  "Time": "2026-01-13T16:56:38.1201345Z",
   "Players": [
+    {
+      "Name": "huecpososi",
+      "Steam": "76561198748229218",
+      "Score": 0,
+      "Time": "01:36"
+    },
     {
       "Name": "cayman island boss",
       "Steam": "76561198983792841",
-      "Score": 22,
-      "Time": "15:31"
+      "Score": 26,
+      "Time": "17:31"
     },
     {
       "Name": "N0ob",
       "Steam": "76561199712341739",
-      "Score": 0,
-      "Time": "07:32"
+      "Score": 4,
+      "Time": "09:32"
     },
     {
       "Name": "恰逢锦时梦",
       "Steam": "76561199646837225",
-      "Score": 64,
-      "Time": "02:15"
+      "Score": 66,
+      "Time": "04:15"
     },
     {
       "Name": "lucijia-",
       "Steam": "76561199271360702",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
-    },
-    {
-      "Name": "Eternity",
-      "Steam": "76561199850022519",
-      "Score": 2,
-      "Time": "00:47"
     },
     {
       "Name": "\uD835\uDC74\uD835\uDC8A\uD835\uDC94\uD835\uDC95",
       "Steam": "76561199806910486",
-      "Score": 11,
-      "Time": "29:43"
+      "Score": 16,
+      "Time": "31:43"
     },
     {
       "Name": "aura",
       "Steam": "76561199821169844",
       "Score": 31,
-      "Time": "14:23"
+      "Time": "16:23"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 35,
-      "Time": "21:50"
+      "Score": 43,
+      "Time": "23:50"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 96,
-      "Time": "81:58"
+      "Score": 98,
+      "Time": "83:58"
     }
   ]
 }
