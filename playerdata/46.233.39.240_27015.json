@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-13T08:10:31.4498112Z",
+  "Time": "2026-01-13T08:12:31.4493365Z",
   "Players": [
     {
       "Name": "mega knight",
       "Steam": "76561198754853794",
-      "Score": 22,
-      "Time": "32:55"
+      "Score": 26,
+      "Time": "34:55"
     },
     {
       "Name": "Jenko From O'Block",
       "Steam": "76561198094827036",
-      "Score": 34,
-      "Time": "12:20"
+      "Score": 42,
+      "Time": "14:20"
+    },
+    {
+      "Name": "glorify",
+      "Steam": "76561199783615851",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
