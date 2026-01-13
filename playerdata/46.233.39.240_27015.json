@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-13T04:38:56.4688209Z",
+  "Time": "2026-01-13T04:40:56.4691427Z",
   "Players": [
     {
       "Name": "Darkronan",
       "Steam": "76561198298840207",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nixware.cc | Dishwasher Certified",
+      "Steam": "76561199489491259",
       "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "Counter-Terrorist | Dishwasher Certified",
-      "Steam": "76561199489491259",
-      "Score": 2,
+      "Name": "freya",
+      "Steam": "76561199229682369",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
