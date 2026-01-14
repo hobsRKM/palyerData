@@ -1,4 +1,41 @@
 {
-  "Time": "2026-01-14T21:52:02.3063439Z",
-  "Players": []
+  "Time": "2026-01-14T21:52:11.8867024Z",
+  "Players": [
+    {
+      "Name": "rolik",
+      "Steam": "76561198999548268",
+      "Score": 0,
+      "Time": "08:19"
+    },
+    {
+      "Name": "Epstein had aura",
+      "Steam": "76561198783170670",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "valerio",
+      "Steam": "76561199090946517",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zredtema",
+      "Steam": "76561198747710641",
+      "Score": 57,
+      "Time": "??:??"
+    },
+    {
+      "Name": "frosty",
+      "Steam": "76561198977033081",
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jose",
+      "Steam": "76561198315948842",
+      "Score": 92,
+      "Time": "??:??"
+    }
+  ]
 }
