@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-14T08:57:18.7411703Z",
+  "Time": "2026-01-14T08:59:18.734448Z",
   "Players": [
+    {
+      "Name": "ImWhite141",
+      "Steam": "76561199837230349",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "anthonywin219",
       "Steam": "76561198768850609",
@@ -10,20 +16,20 @@
     {
       "Name": "samue.ler.u.tt.e.r414",
       "Steam": "76561198748672177",
-      "Score": 6,
-      "Time": "03:26"
+      "Score": 8,
+      "Time": "05:26"
     },
     {
       "Name": "dihmaster64",
       "Steam": "76561198748655339",
-      "Score": 36,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "ShArWa",
       "Steam": "76561199838409889",
-      "Score": 42,
-      "Time": "12:22"
+      "Score": 48,
+      "Time": "14:22"
     }
   ]
 }
