@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-14T14:20:32.8633031Z",
+  "Time": "2026-01-14T14:22:32.8598091Z",
   "Players": [
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 0,
-      "Time": "54:02"
+      "Score": 9,
+      "Time": "56:02"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "NIXWARE",
       "Steam": "76561199665714843",
-      "Score": 29,
-      "Time": "14:47"
+      "Score": 31,
+      "Time": "16:47"
+    },
+    {
+      "Name": "Cyron",
+      "Steam": "76561198855550056",
+      "Score": 4,
+      "Time": "01:42"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 29,
-      "Time": "09:32"
+      "Score": 31,
+      "Time": "11:32"
     }
   ]
 }
