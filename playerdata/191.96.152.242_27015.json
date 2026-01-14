@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-14T14:20:43.757253Z",
+  "Time": "2026-01-14T14:22:43.7468629Z",
   "Players": [
+    {
+      "Name": "guess what my ego says",
+      "Steam": "76561198753850850",
+      "Score": 40,
+      "Time": "00:23"
+    },
     {
       "Name": "DaCouchMan",
       "Steam": "76561198043040531",
-      "Score": 13,
-      "Time": "12:18"
+      "Score": 16,
+      "Time": "14:18"
     },
     {
       "Name": "187",
@@ -22,19 +28,25 @@
     {
       "Name": "Jewish Flight | Need Fatal Inv",
       "Steam": "76561199605056549",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "175200",
       "Steam": "76561199096269503",
-      "Score": 71,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "mieszankasmoothie53",
       "Steam": "76561199847539744",
-      "Score": 6,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "slime700",
+      "Steam": "76561198752163538",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
