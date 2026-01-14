@@ -1,28 +1,40 @@
 {
-  "Time": "2026-01-14T11:19:19.8310904Z",
+  "Time": "2026-01-14T11:21:19.8335495Z",
   "Players": [
+    {
+      "Name": "Tobix",
+      "Steam": "76561198769188061",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 38,
-      "Time": "19:51"
+      "Score": 48,
+      "Time": "21:51"
     },
     {
-      "Name": "1337",
-      "Steam": "76561199309614511",
-      "Score": 5,
+      "Name": "p-dobosz",
+      "Steam": "76561199590752766",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nakesh9hussain82317282",
+      "Steam": "76561199062675406",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "NEVERLOSER",
       "Steam": "76561198751982546",
-      "Score": 13,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "hocus pocus",
       "Steam": "76561199888197236",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
     }
   ]
