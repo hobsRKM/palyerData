@@ -1,4 +1,35 @@
 {
-  "Time": "2026-01-14T10:52:20.2848591Z",
-  "Players": []
+  "Time": "2026-01-14T10:52:24.288088Z",
+  "Players": [
+    {
+      "Name": "nixware.cc",
+      "Steam": "76561198747426651",
+      "Score": 28,
+      "Time": "06:04"
+    },
+    {
+      "Name": "bodrum_block",
+      "Steam": "76561198748203839",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "PENCİ",
+      "Steam": "76561199850241735",
+      "Score": 48,
+      "Time": "??:??"
+    },
+    {
+      "Name": "huecpososi",
+      "Steam": "76561198748229218",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "swiitifoks",
+      "Steam": "76561198751985614",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
