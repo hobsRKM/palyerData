@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-14T02:14:00.0205212Z",
+  "Time": "2026-01-14T02:16:00.0271616Z",
   "Players": [
+    {
+      "Name": "The grink",
+      "Steam": "76561198750546700",
+      "Score": 0,
+      "Time": "00:02"
+    },
     {
       "Name": "aboleshyy",
       "Steam": "76561198749108439",
       "Score": 5,
-      "Time": "18:56"
+      "Time": "20:56"
     },
     {
       "Name": "superstar >:3",
       "Steam": "76561198768490015",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "...",
       "Steam": "76561199868275355",
-      "Score": 61,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 65,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "chutiya rat",
       "Steam": "76561198752639632",
       "Score": 6,
-      "Time": "02:16"
+      "Time": "04:16"
     }
   ]
 }
