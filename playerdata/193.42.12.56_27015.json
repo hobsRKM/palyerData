@@ -1,28 +1,28 @@
 {
-  "Time": "2026-01-14T19:58:41.0635053Z",
+  "Time": "2026-01-14T20:00:41.051852Z",
   "Players": [
     {
       "Name": "Neo",
       "Steam": "76561199201440406",
-      "Score": 25,
-      "Time": "14:04"
+      "Score": 33,
+      "Time": "16:04"
+    },
+    {
+      "Name": "WE'RE FUCKED",
+      "Steam": "76561199870073279",
+      "Score": 0,
+      "Time": "01:15"
     },
     {
       "Name": "Neo Lover",
       "Steam": "76561199828015418",
-      "Score": 14,
-      "Time": "08:23"
+      "Score": 22,
+      "Time": "10:23"
     },
     {
       "Name": "longcook187",
       "Steam": "76561198748343279",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "uuid.manji",
-      "Steam": "76561199083170493",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
