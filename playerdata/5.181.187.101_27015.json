@@ -1,41 +1,59 @@
 {
-  "Time": "2026-01-14T10:23:18.8411587Z",
+  "Time": "2026-01-14T10:25:18.8399811Z",
   "Players": [
+    {
+      "Name": "Tobix",
+      "Steam": "76561198769188061",
+      "Score": 0,
+      "Time": "00:04"
+    },
     {
       "Name": "kristis",
       "Steam": "76561199836464438",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 69,
-      "Time": "67:29"
+      "Score": 78,
+      "Time": "69:29"
+    },
+    {
+      "Name": "eb",
+      "Steam": "76561198754213497",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "guess what my ego says",
       "Steam": "76561198753850850",
-      "Score": 14,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nixware.cc",
+      "Steam": "76561198747426651",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "kramk",
       "Steam": "76561198751019575",
-      "Score": 6,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "KREED",
       "Steam": "76561199890749463",
-      "Score": 0,
-      "Time": "10:43"
+      "Score": 5,
+      "Time": "12:43"
     },
     {
       "Name": "⁹⁹⁹ SubGhz",
       "Steam": "76561199504650285",
-      "Score": 4,
-      "Time": "03:12"
+      "Score": 12,
+      "Time": "05:12"
     }
   ]
 }
