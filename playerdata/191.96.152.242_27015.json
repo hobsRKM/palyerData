@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-14T23:14:43.7706038Z",
+  "Time": "2026-01-14T23:16:43.7618236Z",
   "Players": [
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 29,
-      "Time": "19:37"
+      "Score": 37,
+      "Time": "21:37"
     },
     {
       "Name": "Jewish Flight | Need Fatal Inv",
       "Steam": "76561199605056549",
       "Score": 37,
-      "Time": "24:20"
+      "Time": "26:20"
     },
     {
       "Name": "MagentaGiraffe",
       "Steam": "76561199059047333",
-      "Score": 25,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Torta (on tesamorelin)",
       "Steam": "76561198373259020",
-      "Score": 33,
+      "Score": 41,
       "Time": "??:??"
+    },
+    {
+      "Name": "box",
+      "Steam": "76561199868275355",
+      "Score": 0,
+      "Time": "01:53"
     }
   ]
 }
