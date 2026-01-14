@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-14T06:37:18.6993284Z",
+  "Time": "2026-01-14T06:39:18.7053217Z",
   "Players": [
+    {
+      "Name": "Scooby Jew",
+      "Steam": "76561199506246946",
+      "Score": 0,
+      "Time": "00:44"
+    },
     {
       "Name": "Seoul999",
       "Steam": "76561198051992092",
-      "Score": 2,
-      "Time": "36:08"
+      "Score": 6,
+      "Time": "38:08"
     },
     {
       "Name": "anthonywin219",
@@ -16,37 +22,43 @@
     {
       "Name": "NL | B3rt",
       "Steam": "76561199322442955",
-      "Score": 8,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "şenol",
       "Steam": "76561199645243680",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "haunted",
+      "Steam": "76561198829222666",
+      "Score": 2,
+      "Time": "60:54"
     },
     {
       "Name": "миссварчег",
       "Steam": "76561198759390016",
-      "Score": 7,
-      "Time": "36:56"
+      "Score": 1,
+      "Time": "38:56"
     },
     {
       "Name": "female hunter",
       "Steam": "76561198881596623",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "kr1pima",
       "Steam": "76561199769455129",
-      "Score": 9,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "unreal",
       "Steam": "76561199011662523",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
