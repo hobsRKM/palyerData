@@ -1,52 +1,58 @@
 {
-  "Time": "2026-01-14T09:28:32.8664387Z",
+  "Time": "2026-01-14T09:30:32.8621018Z",
   "Players": [
+    {
+      "Name": "sora",
+      "Steam": "76561198378460956",
+      "Score": 0,
+      "Time": "00:57"
+    },
     {
       "Name": "peop0082",
       "Steam": "76561198767139262",
-      "Score": 0,
-      "Time": "01:03"
+      "Score": 2,
+      "Time": "03:03"
     },
     {
       "Name": "N0ob",
       "Steam": "76561199712341739",
-      "Score": 2,
-      "Time": "01:19"
+      "Score": 4,
+      "Time": "03:19"
     },
     {
       "Name": "1m74xD",
       "Steam": "76561198862303454",
-      "Score": 47,
-      "Time": "14:08"
+      "Score": 53,
+      "Time": "16:08"
     },
     {
       "Name": "Alt is Supaman",
       "Steam": "76561199834727236",
-      "Score": 90,
-      "Time": "122:22"
+      "Score": 98,
+      "Time": "124:21"
+    },
+    {
+      "Name": "p\uDB40\uDC73⁧⁧q",
+      "Steam": "76561199058371972",
+      "Score": 2,
+      "Time": "01:56"
     },
     {
       "Name": "esther孔顏",
       "Steam": "76561198239908776",
-      "Score": 73,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "Fanta",
       "Steam": "76561198782416061",
-      "Score": 16,
-      "Time": "23:11"
-    },
-    {
-      "Name": "Tell Me Why???",
-      "Steam": "76561199557856957",
-      "Score": 17,
-      "Time": "??:??"
+      "Score": 24,
+      "Time": "25:11"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
