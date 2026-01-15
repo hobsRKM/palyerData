@@ -1,95 +1,89 @@
 {
-  "Time": "2026-01-15T05:54:43.8619209Z",
+  "Time": "2026-01-15T05:56:43.8695099Z",
   "Players": [
+    {
+      "Name": "Maw maw",
+      "Steam": "76561198754409191",
+      "Score": 1,
+      "Time": "01:08"
+    },
     {
       "Name": "dame time",
       "Steam": "76561199831478066",
       "Score": 0,
-      "Time": "259:59"
+      "Time": "261:59"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 86,
-      "Time": "211:02"
+      "Score": 91,
+      "Time": "213:02"
     },
     {
       "Name": "R U F U S",
       "Steam": "76561198001746934",
-      "Score": 52,
-      "Time": "76:04"
+      "Score": 59,
+      "Time": "78:04"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
       "Score": 50,
-      "Time": "58:33"
+      "Time": "60:33"
     },
     {
       "Name": "sol",
       "Steam": "76561198774876005",
-      "Score": 28,
-      "Time": "24:16"
+      "Score": 32,
+      "Time": "26:16"
     },
     {
       "Name": "anne frank",
       "Steam": "76561198781427861",
       "Score": 0,
-      "Time": "00:45"
-    },
-    {
-      "Name": "︻デCУGΛN™™ 一",
-      "Steam": "76561199167622583",
-      "Score": 0,
-      "Time": "01:46"
+      "Time": "02:45"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 31,
-      "Time": "127:23"
-    },
-    {
-      "Name": "apart",
-      "Steam": "76561198782333753",
       "Score": 6,
-      "Time": "1076:20"
+      "Time": "129:23"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "i knew when the hotline blinged",
       "Steam": "76561198319140486",
-      "Score": 25,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 37,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Eight",
       "Steam": "76561199043213580",
-      "Score": 34,
-      "Time": "86:18"
+      "Score": 41,
+      "Time": "88:18"
     },
     {
       "Name": "guess what my ego says",
       "Steam": "76561198753850850",
-      "Score": 89,
-      "Time": "341:17"
+      "Score": 109,
+      "Time": "343:17"
     },
     {
       "Name": "K75",
       "Steam": "76561198238300160",
       "Score": 0,
-      "Time": "60:43"
+      "Time": "62:43"
     }
   ]
 }
