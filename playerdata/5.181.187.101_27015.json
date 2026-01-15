@@ -1,4 +1,41 @@
 {
-  "Time": "2026-01-15T17:04:30.7069021Z",
-  "Players": []
+  "Time": "2026-01-15T17:05:15.86602Z",
+  "Players": [
+    {
+      "Name": "моти",
+      "Steam": "76561199781854187",
+      "Score": 60,
+      "Time": "34:57"
+    },
+    {
+      "Name": "friesforsure",
+      "Steam": "76561198783285372",
+      "Score": 92,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nixware.cc",
+      "Steam": "76561198747426651",
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mamduzo_stulejke",
+      "Steam": "76561198753123700",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "1.9tdi Peek",
+      "Steam": "76561199517936939",
+      "Score": 59,
+      "Time": "05:12"
+    },
+    {
+      "Name": "hocus pocus",
+      "Steam": "76561199888197236",
+      "Score": 82,
+      "Time": "??:??"
+    }
+  ]
 }
