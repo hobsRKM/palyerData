@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-15T06:44:43.8593863Z",
+  "Time": "2026-01-15T06:46:43.8674492Z",
   "Players": [
+    {
+      "Name": "vape",
+      "Steam": "76561199828812573",
+      "Score": 0,
+      "Time": "67:26"
+    },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 53,
-      "Time": "261:02"
+      "Score": 57,
+      "Time": "263:02"
     },
     {
       "Name": "R U F U S",
       "Steam": "76561198001746934",
-      "Score": 90,
-      "Time": "126:04"
+      "Score": 96,
+      "Time": "128:04"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 93,
-      "Time": "108:33"
+      "Score": 94,
+      "Time": "110:33"
     },
     {
       "Name": "skintbot1",
@@ -28,50 +34,44 @@
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 2,
-      "Time": "177:23"
+      "Score": 8,
+      "Time": "179:23"
     },
     {
       "Name": "i knew when the hotline blinged",
       "Steam": "76561198319140486",
-      "Score": 58,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
       "Score": 35,
-      "Time": "22:22"
+      "Time": "24:22"
     },
     {
       "Name": "Eight",
       "Steam": "76561199043213580",
       "Score": 75,
-      "Time": "136:18"
+      "Time": "138:18"
     },
     {
       "Name": "guess what my ego says",
       "Steam": "76561198753850850",
-      "Score": 37,
-      "Time": "06:18"
+      "Score": 43,
+      "Time": "08:18"
     },
     {
       "Name": "K75",
       "Steam": "76561198238300160",
-      "Score": 74,
-      "Time": "110:43"
-    },
-    {
-      "Name": "Sophie.dma",
-      "Steam": "76561199156395215",
-      "Score": 0,
-      "Time": "04:53"
+      "Score": 76,
+      "Time": "112:43"
     },
     {
       "Name": "Malva",
       "Steam": "76561198036942622",
       "Score": 6,
-      "Time": "02:14"
+      "Time": "04:14"
     }
   ]
 }
