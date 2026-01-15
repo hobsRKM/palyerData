@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-15T21:48:45.5972912Z",
+  "Time": "2026-01-15T21:50:45.6121265Z",
   "Players": [
     {
       "Name": "tap",
       "Steam": "76561198754218352",
-      "Score": 36,
-      "Time": "13:16"
+      "Score": 40,
+      "Time": "15:16"
     },
     {
       "Name": "emres666",
       "Steam": "76561198753536190",
-      "Score": 12,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "banana",
       "Steam": "76561199851538390",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
+    },
+    {
+      "Name": "Woldan Winchester",
+      "Steam": "76561198747319981",
+      "Score": 0,
+      "Time": "00:24"
     }
   ]
 }
