@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-15T01:54:43.7713414Z",
+  "Time": "2026-01-15T01:56:43.7832865Z",
   "Players": [
+    {
+      "Name": "xxx",
+      "Steam": "76561199503060650",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 38,
-      "Time": "58:07"
+      "Score": 48,
+      "Time": "60:07"
     },
     {
       "Name": "idi nahui blyat kurva",
       "Steam": "76561199229432620",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 13,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
-      "Score": 6,
-      "Time": "49:10"
+      "Score": 8,
+      "Time": "51:10"
     },
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
-      "Score": 23,
-      "Time": "12:39"
+      "Score": 32,
+      "Time": "14:39"
     },
     {
       "Name": "\uD835\uDD09\uD835\uDD26\uD835\uDD29\uD835\uDD26\uD835\uDD2D",
@@ -40,19 +46,19 @@
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 2,
-      "Time": "92:32"
+      "Score": 10,
+      "Time": "94:32"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 36,
-      "Time": "64:36"
+      "Score": 40,
+      "Time": "66:36"
     },
     {
       "Name": "gooner",
       "Steam": "76561199367247291",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
