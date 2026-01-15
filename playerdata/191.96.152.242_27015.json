@@ -1,41 +1,41 @@
 {
-  "Time": "2026-01-15T03:16:43.7784341Z",
+  "Time": "2026-01-15T03:18:43.7743681Z",
   "Players": [
+    {
+      "Name": "Felix",
+      "Steam": "76561198193603937",
+      "Score": 3,
+      "Time": "??:??"
+    },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 4,
-      "Time": "29:57"
+      "Score": 5,
+      "Time": "31:57"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 48,
-      "Time": "39:59"
+      "Score": 53,
+      "Time": "41:59"
     },
     {
       "Name": "Sikkme",
       "Steam": "76561199711747339",
-      "Score": 1,
+      "Score": 8,
       "Time": "??:??"
-    },
-    {
-      "Name": "im a immigrant",
-      "Steam": "76561199410751476",
-      "Score": 50,
-      "Time": "40:02"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 46,
-      "Time": "23:58"
+      "Score": 54,
+      "Time": "25:58"
     },
     {
       "Name": "K75",
       "Steam": "76561198238300160",
-      "Score": 21,
-      "Time": "18:43"
+      "Score": 25,
+      "Time": "20:43"
     }
   ]
 }
