@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-15T21:08:26.6807416Z",
+  "Time": "2026-01-15T21:10:26.6813129Z",
   "Players": [
+    {
+      "Name": "DaCouchMan",
+      "Steam": "76561198043040531",
+      "Score": 2,
+      "Time": "01:34"
+    },
     {
       "Name": "shit",
       "Steam": "76561199678608838",
-      "Score": 16,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
