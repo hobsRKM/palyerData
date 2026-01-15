@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-15T00:18:43.7718648Z",
+  "Time": "2026-01-15T00:20:43.7741507Z",
   "Players": [
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 0,
-      "Time": "83:37"
+      "Score": 2,
+      "Time": "85:37"
     },
     {
       "Name": "qqkenny",
       "Steam": "76561199801805395",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "mochi",
+      "Steam": "76561198354505731",
+      "Score": 0,
+      "Time": "00:30"
     },
     {
       "Name": "gabby",
       "Steam": "76561199097243449",
-      "Score": 4,
-      "Time": "13:08"
+      "Score": 11,
+      "Time": "15:08"
     },
     {
       "Name": "Yeehaw2",
@@ -28,38 +34,44 @@
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 4,
-      "Time": "73:28"
+      "Score": 7,
+      "Time": "75:28"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "MagentaGiraffe",
       "Steam": "76561199059047333",
-      "Score": 4,
-      "Time": "05:01"
+      "Score": 10,
+      "Time": "07:01"
     },
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
-      "Score": 0,
-      "Time": "07:59"
+      "Score": 8,
+      "Time": "09:59"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 2,
-      "Time": "05:17"
+      "Score": 10,
+      "Time": "07:17"
+    },
+    {
+      "Name": "Entod",
+      "Steam": "76561199206844408",
+      "Score": 0,
+      "Time": "00:14"
     }
   ]
 }
