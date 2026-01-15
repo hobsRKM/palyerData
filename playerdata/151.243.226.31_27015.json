@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-15T18:44:28.3145559Z",
+  "Time": "2026-01-15T18:46:28.3080522Z",
   "Players": [
+    {
+      "Name": "D3con - stele98",
+      "Steam": "76561199730029577",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Vroxith",
       "Steam": "76561199010435611",
-      "Score": 10,
-      "Time": "34:03"
+      "Score": 16,
+      "Time": "36:03"
     },
     {
       "Name": "freya",
       "Steam": "76561199229682369",
       "Score": 0,
-      "Time": "231:44"
+      "Time": "233:44"
     },
     {
       "Name": "e",
       "Steam": "76561199564752768",
-      "Score": 17,
-      "Time": "25:47"
+      "Score": 19,
+      "Time": "27:47"
     },
     {
-      "Name": "eternity.lua  cr7",
+      "Name": "eternity.lua   cr7",
       "Steam": "76561199822315115",
-      "Score": 23,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Beijng Rizzler",
       "Steam": "76561199820767921",
-      "Score": 25,
-      "Time": "30:48"
+      "Score": 33,
+      "Time": "32:48"
     }
   ]
 }
