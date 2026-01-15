@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-15T20:20:28.3094164Z",
+  "Time": "2026-01-15T20:22:28.3186261Z",
   "Players": [
     {
       "Name": "freya",
       "Steam": "76561199229682369",
       "Score": 0,
-      "Time": "327:44"
+      "Time": "329:44"
+    },
+    {
+      "Name": "eternity.lua   cr7",
+      "Steam": "76561199822315115",
+      "Score": 42,
+      "Time": "01:15"
     },
     {
       "Name": "Beijng Rizzler",
       "Steam": "76561199820767921",
       "Score": 29,
-      "Time": "126:48"
+      "Time": "128:48"
     },
     {
       "Name": "Fanta",
       "Steam": "76561198782416061",
-      "Score": 65,
-      "Time": "42:09"
+      "Score": 79,
+      "Time": "44:09"
     },
     {
       "Name": "MrBiscotti",
       "Steam": "76561199229255865",
       "Score": 4,
-      "Time": "07:10"
+      "Time": "09:10"
     }
   ]
 }
