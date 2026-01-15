@@ -1,10 +1,16 @@
 {
-  "Time": "2026-01-15T20:24:45.6078233Z",
+  "Time": "2026-01-15T20:26:45.6134144Z",
   "Players": [
+    {
+      "Name": "abu yusuf",
+      "Steam": "76561198746737396",
+      "Score": 5,
+      "Time": "01:47"
+    },
     {
       "Name": "2PEEK",
       "Steam": "76561198851445828",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
@@ -16,19 +22,19 @@
     {
       "Name": "sheef",
       "Steam": "76561198752493397",
-      "Score": 12,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "KutsalFLEX",
       "Steam": "76561199077480055",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "justin bieber",
       "Steam": "76561198764991809",
-      "Score": 18,
+      "Score": 23,
       "Time": "??:??"
     },
     {
@@ -40,19 +46,37 @@
     {
       "Name": "Dracoxrd",
       "Steam": "76561198751144631",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Y2K",
       "Steam": "76561199866573844",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Kurd0913",
       "Steam": "76561198747876819",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "RAPSGT",
+      "Steam": "76561198748437070",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "yarrock yalayanzi",
+      "Steam": "76561199881092959",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cevizin oglu fındık",
+      "Steam": "76561198768398190",
+      "Score": 3,
       "Time": "??:??"
     }
   ]
