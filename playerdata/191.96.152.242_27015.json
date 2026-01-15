@@ -1,22 +1,22 @@
 {
-  "Time": "2026-01-15T01:22:43.7749765Z",
+  "Time": "2026-01-15T01:24:43.7817878Z",
   "Players": [
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
       "Score": 36,
-      "Time": "26:07"
+      "Time": "28:07"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 58,
-      "Time": "26:15"
+      "Score": 62,
+      "Time": "28:15"
     },
     {
       "Name": "idi nahui blyat kurva",
       "Steam": "76561199229432620",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -28,26 +28,32 @@
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
-      "Score": 24,
-      "Time": "17:10"
+      "Score": 28,
+      "Time": "19:10"
     },
     {
       "Name": "jason bourne",
       "Steam": "76561199655883528",
-      "Score": 63,
-      "Time": "48:52"
+      "Score": 65,
+      "Time": "50:52"
+    },
+    {
+      "Name": "! 52Hz",
+      "Steam": "76561199186503353",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 37,
-      "Time": "60:32"
+      "Score": 41,
+      "Time": "62:32"
     },
     {
       "Name": "obnoxious",
       "Steam": "76561199031753721",
-      "Score": 18,
-      "Time": "28:59"
+      "Score": 24,
+      "Time": "30:59"
     }
   ]
 }
