@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-15T13:22:28.3166701Z",
+  "Time": "2026-01-15T13:24:28.3170952Z",
   "Players": [
+    {
+      "Name": "Meowny",
+      "Steam": "76561199015755611",
+      "Score": 5,
+      "Time": "00:53"
+    },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
       "Score": 17,
-      "Time": "31:08"
+      "Time": "33:08"
     },
     {
       "Name": "Friendly Guy",
       "Steam": "76561199834727236",
-      "Score": 33,
-      "Time": "68:02"
+      "Score": 40,
+      "Time": "70:02"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 35,
-      "Time": "155:38"
+      "Score": 39,
+      "Time": "157:38"
     },
     {
       "Name": "p\uDB40\uDC73⁧⁧q",
       "Steam": "76561199058371972",
       "Score": 34,
-      "Time": "23:15"
+      "Time": "25:15"
     },
     {
       "Name": "N0ob",
       "Steam": "76561199712341739",
-      "Score": 19,
-      "Time": "09:54"
+      "Score": 25,
+      "Time": "11:54"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 10,
-      "Time": "02:52"
+      "Score": 21,
+      "Time": "04:52"
     },
     {
       "Name": "Snowwie",
@@ -46,19 +52,19 @@
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 5,
-      "Time": "15:00"
+      "Score": 9,
+      "Time": "17:00"
     },
     {
       "Name": "mantory",
       "Steam": "76561198950822697",
-      "Score": 8,
-      "Time": "06:35"
+      "Score": 9,
+      "Time": "08:35"
     },
     {
       "Name": "くそanti",
       "Steam": "76561198170426931",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
