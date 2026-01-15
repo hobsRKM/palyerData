@@ -1,46 +1,40 @@
 {
-  "Time": "2026-01-15T06:28:43.858416Z",
+  "Time": "2026-01-15T06:30:43.8642314Z",
   "Players": [
-    {
-      "Name": "supremacy",
-      "Steam": "76561198763517260",
-      "Score": 5,
-      "Time": "05:40"
-    },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 21,
-      "Time": "245:02"
+      "Score": 28,
+      "Time": "247:02"
     },
     {
       "Name": "R U F U S",
       "Steam": "76561198001746934",
-      "Score": 45,
-      "Time": "110:04"
+      "Score": 51,
+      "Time": "112:04"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 61,
-      "Time": "92:33"
+      "Score": 69,
+      "Time": "94:33"
     },
     {
       "Name": "skintbot1",
       "Steam": "76561198776110082",
-      "Score": 25,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 32,
-      "Time": "161:23"
+      "Score": 37,
+      "Time": "163:23"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
@@ -58,8 +52,8 @@
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 0,
-      "Time": "06:22"
+      "Score": 2,
+      "Time": "08:22"
     },
     {
       "Name": "snorkelmaster2008",
@@ -71,13 +65,19 @@
       "Name": "Eight",
       "Steam": "76561199043213580",
       "Score": 52,
-      "Time": "120:18"
+      "Time": "122:18"
+    },
+    {
+      "Name": "guess what my ego says",
+      "Steam": "76561198753850850",
+      "Score": 4,
+      "Time": "01:12"
     },
     {
       "Name": "K75",
       "Steam": "76561198238300160",
-      "Score": 58,
-      "Time": "94:43"
+      "Score": 60,
+      "Time": "96:43"
     }
   ]
 }
