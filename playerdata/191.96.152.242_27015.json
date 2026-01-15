@@ -1,65 +1,47 @@
 {
-  "Time": "2026-01-15T06:58:43.8622981Z",
+  "Time": "2026-01-15T07:00:43.861976Z",
   "Players": [
-    {
-      "Name": "Goat",
-      "Steam": "76561198752544412",
-      "Score": 3,
-      "Time": "??:??"
-    },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 25,
-      "Time": "79:26"
+      "Score": 36,
+      "Time": "81:26"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 33,
-      "Time": "275:02"
+      "Score": 37,
+      "Time": "277:02"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 22,
-      "Time": "191:23"
+      "Score": 34,
+      "Time": "193:23"
     },
     {
       "Name": "chrome hearts",
       "Steam": "76561199863506964",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
       "Score": 15,
-      "Time": "36:22"
+      "Time": "38:22"
     },
     {
       "Name": "guess what my ego says",
       "Steam": "76561198753850850",
-      "Score": 55,
-      "Time": "20:18"
+      "Score": 64,
+      "Time": "22:18"
     },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 30,
-      "Time": "250:53"
-    },
-    {
-      "Name": "K75",
-      "Steam": "76561198238300160",
-      "Score": 0,
-      "Time": "124:43"
-    },
-    {
-      "Name": "Neverlose = Jumpscout",
-      "Steam": "76561199156395215",
-      "Score": 0,
-      "Time": "00:14"
+      "Score": 32,
+      "Time": "252:53"
     }
   ]
 }
