@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-16T17:00:31.1441911Z",
+  "Time": "2026-01-16T17:02:31.1495344Z",
   "Players": [
+    {
+      "Name": "Vroxith",
+      "Steam": "76561199010435611",
+      "Score": 0,
+      "Time": "00:12"
+    },
     {
       "Name": "cr7",
       "Steam": "76561199822315115",
-      "Score": 72,
-      "Time": "28:27"
+      "Score": 78,
+      "Time": "30:27"
     },
     {
       "Name": "AltBProfen",
       "Steam": "76561199834727236",
-      "Score": 26,
-      "Time": "97:54"
+      "Score": 31,
+      "Time": "99:54"
     },
     {
       "Name": "Fanta",
       "Steam": "76561198782416061",
-      "Score": 28,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 13,
-      "Time": "03:59"
+      "Score": 15,
+      "Time": "05:59"
     }
   ]
 }
