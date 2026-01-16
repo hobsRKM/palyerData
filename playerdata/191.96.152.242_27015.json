@@ -1,46 +1,64 @@
 {
-  "Time": "2026-01-16T23:54:19.5735941Z",
+  "Time": "2026-01-16T23:56:19.5728349Z",
   "Players": [
+    {
+      "Name": "Malloh",
+      "Steam": "76561199482476605",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "sniggle",
       "Steam": "76561199622150117",
-      "Score": 8,
-      "Time": "07:53"
+      "Score": 12,
+      "Time": "09:53"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561199525060285",
-      "Score": 70,
-      "Time": "72:04"
+      "Score": 75,
+      "Time": "74:04"
     },
     {
       "Name": "Peak = Jumpscout",
       "Steam": "76561199156395215",
-      "Score": 6,
-      "Time": "29:12"
+      "Score": 8,
+      "Time": "31:12"
     },
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
-      "Score": 6,
-      "Time": "10:31"
+      "Score": 11,
+      "Time": "12:31"
     },
     {
       "Name": "fashion #fuckallugot",
       "Steam": "76561198750276290",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDD8D\uD835\uDD86\uD835\uDD99\uD835\uDD8A™",
+      "Steam": "76561198749608670",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sea Of Problems",
+      "Steam": "76561199632897302",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
