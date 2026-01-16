@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-16T21:46:19.5632011Z",
+  "Time": "2026-01-16T21:48:19.5638479Z",
   "Players": [
     {
       "Name": "sniggle",
       "Steam": "76561199622150117",
       "Score": 0,
-      "Time": "00:45"
+      "Time": "02:45"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561199525060285",
+      "Score": 0,
+      "Time": "00:11"
     }
   ]
 }
