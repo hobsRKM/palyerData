@@ -1,23 +1,23 @@
 {
-  "Time": "2026-01-16T03:02:26.672706Z",
+  "Time": "2026-01-16T03:04:26.6727209Z",
   "Players": [
+    {
+      "Name": "aboleshyy",
+      "Steam": "76561198749108439",
+      "Score": 5,
+      "Time": "00:26"
+    },
     {
       "Name": "chutiya rat",
       "Steam": "76561198752639632",
       "Score": 6,
-      "Time": "05:53"
+      "Time": "07:53"
     },
     {
       "Name": "anne frank",
       "Steam": "76561198781427861",
-      "Score": 20,
-      "Time": "18:12"
-    },
-    {
-      "Name": "fashion #fuckallugot",
-      "Steam": "76561198750276290",
-      "Score": 12,
-      "Time": "??:??"
+      "Score": 26,
+      "Time": "20:12"
     }
   ]
 }
