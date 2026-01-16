@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-16T20:36:49.0706786Z",
+  "Time": "2026-01-16T20:38:49.0734614Z",
   "Players": [
     {
-      "Name": "games sikkos",
+      "Name": "gamesen sikkos",
       "Steam": "76561198754401375",
-      "Score": 10,
-      "Time": "04:28"
+      "Score": 12,
+      "Time": "06:28"
     },
     {
-      "Name": "amster bodrum flex",
+      "Name": "amsterdam.s bodrum flex",
       "Steam": "76561198748203839",
-      "Score": 16,
-      "Time": "05:26"
+      "Score": 22,
+      "Time": "07:26"
     },
     {
-      "Name": "astr PENCİ",
+      "Name": "stral PENCİ",
       "Steam": "76561199850241735",
       "Score": 0,
-      "Time": "04:01"
+      "Time": "06:01"
+    },
+    {
+      "Name": "X",
+      "Steam": "76561199867060203",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
