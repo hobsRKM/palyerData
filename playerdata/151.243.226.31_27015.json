@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-16T17:06:31.1446765Z",
+  "Time": "2026-01-16T17:08:31.1410255Z",
   "Players": [
     {
       "Name": "cr7",
       "Steam": "76561199822315115",
-      "Score": 85,
-      "Time": "34:27"
+      "Score": 103,
+      "Time": "36:27"
     },
     {
       "Name": "Flexorz",
       "Steam": "76561199503006146",
       "Score": 2,
-      "Time": "02:10"
+      "Time": "04:10"
     },
     {
       "Name": "AltBProfen",
       "Steam": "76561199834727236",
-      "Score": 45,
-      "Time": "103:54"
+      "Score": 49,
+      "Time": "105:54"
     },
     {
       "Name": "Fanta",
       "Steam": "76561198782416061",
-      "Score": 44,
+      "Score": 52,
       "Time": "??:??"
+    },
+    {
+      "Name": "H1TLER_SENSE",
+      "Steam": "76561198746418785",
+      "Score": 0,
+      "Time": "00:15"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
       "Score": 20,
-      "Time": "09:59"
+      "Time": "00:57"
     }
   ]
 }
