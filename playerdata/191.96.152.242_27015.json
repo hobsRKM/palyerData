@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-16T22:40:19.5757841Z",
+  "Time": "2026-01-16T22:42:19.5764762Z",
   "Players": [
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561199525060285",
+      "Score": 0,
+      "Time": "00:04"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 0,
-      "Time": "01:22"
+      "Score": 4,
+      "Time": "03:22"
     },
     {
       "Name": "mikasa",
@@ -22,13 +28,19 @@
     {
       "Name": "sol",
       "Steam": "76561198774876005",
-      "Score": 4,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "islurwhenitalk",
+      "Steam": "76561198757745510",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
