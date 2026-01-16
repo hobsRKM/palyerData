@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-16T20:22:19.5658671Z",
+  "Time": "2026-01-16T20:24:19.5690112Z",
   "Players": [
+    {
+      "Name": "Simply",
+      "Steam": "76561199889163804",
+      "Score": 0,
+      "Time": "00:50"
+    },
     {
       "Name": "sniggle",
       "Steam": "76561199622150117",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "syxcal",
       "Steam": "76561198760028888",
       "Score": 0,
-      "Time": "17:17"
+      "Time": "19:17"
     },
     {
       "Name": "Rei-K",
       "Steam": "76561199819403946",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
@@ -28,14 +34,14 @@
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "fear or lust",
       "Steam": "76561198324493175",
-      "Score": 3,
-      "Time": "19:02"
+      "Score": 15,
+      "Time": "21:02"
     },
     {
       "Name": "baccomarige",
@@ -46,18 +52,12 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "vac-is-bad",
       "Steam": "76561199528003162",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "TheQuestion",
-      "Steam": "76561199092225710",
       "Score": 0,
       "Time": "??:??"
     }
