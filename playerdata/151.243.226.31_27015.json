@@ -1,35 +1,35 @@
 {
-  "Time": "2026-01-16T17:36:31.1411732Z",
+  "Time": "2026-01-16T17:38:31.142631Z",
   "Players": [
     {
       "Name": "an.niele.o.nh.ar.t986.7",
       "Steam": "76561198747600483",
-      "Score": 27,
+      "Score": 37,
       "Time": "??:??"
+    },
+    {
+      "Name": "Psycho",
+      "Steam": "76561198358030667",
+      "Score": 0,
+      "Time": "687:23"
     },
     {
       "Name": "Fanta",
       "Steam": "76561198782416061",
-      "Score": 54,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "Low Level Threat",
       "Steam": "76561199807754717",
-      "Score": 23,
-      "Time": "11:36"
-    },
-    {
-      "Name": "onlinehero",
-      "Steam": "76561198757479875",
-      "Score": 8,
-      "Time": "??:??"
+      "Score": 29,
+      "Time": "13:36"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 50,
-      "Time": "28:57"
+      "Score": 52,
+      "Time": "30:57"
     }
   ]
 }
