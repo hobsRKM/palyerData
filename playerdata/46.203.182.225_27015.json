@@ -1,23 +1,35 @@
 {
-  "Time": "2026-01-16T21:28:49.0687151Z",
+  "Time": "2026-01-16T21:30:49.0813431Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561199848294683",
+      "Score": 2,
+      "Time": "01:26"
+    },
     {
       "Name": "✩°｡⋆✩°｡⋆",
       "Steam": "76561198769957175",
       "Score": 10,
-      "Time": "00:22"
+      "Time": "02:22"
     },
     {
-      "Name": "gam lâ estúpido",
+      "Name": "gamesens lâ estúpido",
       "Steam": "76561198755965543",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "amsterd bodrum flex",
+      "Name": "amsterdam.sik bodrum flex",
       "Steam": "76561198748203839",
-      "Score": 34,
-      "Time": "01:01"
+      "Score": 40,
+      "Time": "03:01"
+    },
+    {
+      "Name": "cphHoxyof;5;;}%#>$€'a",
+      "Steam": "76561198778255026",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
