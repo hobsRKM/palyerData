@@ -1,40 +1,52 @@
 {
-  "Time": "2026-01-16T23:46:19.5713838Z",
+  "Time": "2026-01-16T23:48:19.5687168Z",
   "Players": [
+    {
+      "Name": "sniggle",
+      "Steam": "76561199622150117",
+      "Score": 2,
+      "Time": "01:53"
+    },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561199525060285",
-      "Score": 32,
-      "Time": "64:04"
+      "Score": 38,
+      "Time": "66:04"
+    },
+    {
+      "Name": "coral.",
+      "Steam": "76561198753589845",
+      "Score": 0,
+      "Time": "00:20"
     },
     {
       "Name": "Peak = Jumpscout",
       "Steam": "76561199156395215",
-      "Score": 16,
-      "Time": "21:12"
+      "Score": 22,
+      "Time": "23:12"
     },
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
-      "Score": 0,
-      "Time": "02:31"
+      "Score": 3,
+      "Time": "04:31"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "fashion #fuckallugot",
       "Steam": "76561198750276290",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     }
   ]
