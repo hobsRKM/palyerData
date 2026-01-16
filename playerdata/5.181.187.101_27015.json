@@ -1,34 +1,28 @@
 {
-  "Time": "2026-01-16T12:56:38.5723276Z",
+  "Time": "2026-01-16T12:57:03.4198891Z",
   "Players": [
     {
-      "Name": "SW",
-      "Steam": "76561199647822907",
+      "Name": "MILFHUNTER",
+      "Steam": "76561198759278959",
+      "Score": 10,
+      "Time": "37:14"
+    },
+    {
+      "Name": "burski",
+      "Steam": "76561198758473058",
+      "Score": 0,
+      "Time": "10:30"
+    },
+    {
+      "Name": "karli.leckt.denise",
+      "Steam": "76561198748073294",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "M1RtiN4o",
-      "Steam": "76561198785657723",
-      "Score": 14,
-      "Time": "09:22"
-    },
-    {
-      "Name": "Buggy",
-      "Steam": "76561198974777067",
-      "Score": 18,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Ramura^^^",
-      "Steam": "76561198747728461",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "K1tanna",
-      "Steam": "76561199521351689",
-      "Score": 2,
+      "Name": "#swag",
+      "Steam": "76561198887153366",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
