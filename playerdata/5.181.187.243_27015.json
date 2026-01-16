@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-16T05:00:02.3008952Z",
-  "Players": []
+  "Time": "2026-01-16T05:00:38.4265254Z",
+  "Players": [
+    {
+      "Name": "burger",
+      "Steam": "76561199160093857",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOBAH!",
+      "Steam": "76561198349045053",
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jagharenhagelbössaiminkällare",
+      "Steam": "76561198791202815",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "eternity.lua    petrik",
+      "Steam": "76561199499013499",
+      "Score": 33,
+      "Time": "??:??"
+    }
+  ]
 }
