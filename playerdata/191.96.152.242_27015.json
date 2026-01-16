@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-16T23:18:19.5653658Z",
+  "Time": "2026-01-16T23:20:19.5749379Z",
   "Players": [
     {
       "Name": "cloxid",
       "Steam": "76561199525060285",
-      "Score": 9,
-      "Time": "36:04"
+      "Score": 19,
+      "Time": "38:04"
     },
     {
       "Name": "dame time",
       "Steam": "76561199831478066",
       "Score": 0,
-      "Time": "05:07"
+      "Time": "07:07"
+    },
+    {
+      "Name": "chrome hearts",
+      "Steam": "76561199863506964",
+      "Score": 0,
+      "Time": "00:35"
     },
     {
       "Name": "alcantara",
       "Steam": "76561199682916670",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -28,13 +34,19 @@
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "u",
-      "Steam": "76561199803082526",
+      "Name": "Major Salty Billy Bob",
+      "Steam": "76561199043213580",
       "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "shit",
+      "Steam": "76561199678608838",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
