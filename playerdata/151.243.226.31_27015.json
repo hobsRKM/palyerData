@@ -1,47 +1,53 @@
 {
-  "Time": "2026-01-16T18:26:31.1480878Z",
+  "Time": "2026-01-16T18:28:31.1399341Z",
   "Players": [
+    {
+      "Name": "Vroxith",
+      "Steam": "76561199010435611",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "an.niele.o.nh.ar.t986.7",
       "Steam": "76561198747600483",
-      "Score": 21,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "cr7",
       "Steam": "76561199822315115",
-      "Score": 16,
-      "Time": "37:55"
+      "Score": 18,
+      "Time": "39:55"
     },
     {
       "Name": "Psycho",
       "Steam": "76561198358030667",
-      "Score": 0,
-      "Time": "06:35"
+      "Score": 2,
+      "Time": "08:35"
     },
     {
       "Name": "Fanta",
       "Steam": "76561198782416061",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Low Level Threat",
       "Steam": "76561199807754717",
       "Score": 0,
-      "Time": "05:49"
+      "Time": "07:49"
     },
     {
       "Name": "zeko",
       "Steam": "76561198327416467",
-      "Score": 0,
-      "Time": "160:39"
+      "Score": 9,
+      "Time": "162:39"
     },
     {
       "Name": "くそanti",
       "Steam": "76561198170426931",
-      "Score": 4,
-      "Time": "31:28"
+      "Score": 8,
+      "Time": "33:28"
     }
   ]
 }
