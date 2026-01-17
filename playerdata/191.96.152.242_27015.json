@@ -1,35 +1,47 @@
 {
-  "Time": "2026-01-17T04:26:19.5726617Z",
+  "Time": "2026-01-17T04:28:19.5691715Z",
   "Players": [
+    {
+      "Name": "TSUBJE .",
+      "Steam": "76561199849153218",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 53,
-      "Time": "152:34"
+      "Score": 58,
+      "Time": "154:34"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198751610816",
+      "Score": 0,
+      "Time": "00:07"
     },
     {
       "Name": "ck user",
       "Steam": "76561198293312486",
-      "Score": 35,
-      "Time": "168:24"
+      "Score": 39,
+      "Time": "170:24"
     },
     {
       "Name": "apollo",
       "Steam": "76561199860618727",
-      "Score": 72,
-      "Time": "23:21"
+      "Score": 80,
+      "Time": "25:21"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
       "Score": 0,
-      "Time": "00:05"
+      "Time": "02:05"
     },
     {
       "Name": "artemis",
       "Steam": "76561199097243449",
-      "Score": 53,
-      "Time": "20:36"
+      "Score": 65,
+      "Time": "22:36"
     }
   ]
 }
