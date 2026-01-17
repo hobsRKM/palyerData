@@ -1,4 +1,47 @@
 {
-  "Time": "2026-01-17T01:52:14.9715056Z",
-  "Players": []
+  "Time": "2026-01-17T01:52:51.6867132Z",
+  "Players": [
+    {
+      "Name": "arianna",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "00:25"
+    },
+    {
+      "Name": "70 ping",
+      "Steam": "76561199103785164",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "confucius",
+      "Steam": "76561198748102818",
+      "Score": 10,
+      "Time": "07:19"
+    },
+    {
+      "Name": "anne frank",
+      "Steam": "76561198781427861",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "chutiya rat",
+      "Steam": "76561198752639632",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rofl nation",
+      "Steam": "76561199678608838",
+      "Score": 26,
+      "Time": "14:50"
+    },
+    {
+      "Name": "Donk",
+      "Steam": "76561199868275355",
+      "Score": 12,
+      "Time": "03:32"
+    }
+  ]
 }
