@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-17T22:52:47.1463951Z",
+  "Time": "2026-01-17T22:54:47.1430322Z",
   "Players": [
     {
       "Name": "IDG",
       "Steam": "76561198752334688",
-      "Score": 0,
-      "Time": "24:12"
+      "Score": 10,
+      "Time": "26:12"
     },
     {
       "Name": "CODALEX5 CaseOpening.com",
       "Steam": "76561199383120104",
-      "Score": 1,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ragnar Lodbrok",
+      "Steam": "76561199076110906",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
