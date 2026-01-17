@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-17T17:34:28.1660665Z",
+  "Time": "2026-01-17T17:36:28.1790247Z",
   "Players": [
+    {
+      "Name": "CCB",
+      "Steam": "76561198769302520",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 72,
-      "Time": "72:58"
+      "Score": 80,
+      "Time": "74:58"
     },
     {
       "Name": "i love sawit",
       "Steam": "76561198747289691",
-      "Score": 19,
-      "Time": "65:00"
+      "Score": 21,
+      "Time": "67:00"
     },
     {
       "Name": "skibidizoilet123",
       "Steam": "76561198752394955",
-      "Score": 13,
-      "Time": "01:08"
+      "Score": 17,
+      "Time": "03:08"
     },
     {
       "Name": "Tell Me Why???",
       "Steam": "76561199557856957",
-      "Score": 16,
-      "Time": "08:51"
+      "Score": 20,
+      "Time": "10:51"
     },
     {
       "Name": "AltBProfen",
       "Steam": "76561199834727236",
-      "Score": 73,
-      "Time": "62:57"
+      "Score": 80,
+      "Time": "64:57"
     }
   ]
 }
