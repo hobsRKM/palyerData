@@ -1,29 +1,41 @@
 {
-  "Time": "2026-01-17T21:16:22.3815199Z",
+  "Time": "2026-01-17T21:18:22.3830652Z",
   "Players": [
+    {
+      "Name": "GigglyGoon",
+      "Steam": "76561199400457766",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
       "Score": 24,
-      "Time": "09:18"
+      "Time": "11:18"
     },
     {
       "Name": "spit",
       "Steam": "76561199678608838",
-      "Score": 4,
-      "Time": "03:40"
+      "Score": 12,
+      "Time": "05:40"
     },
     {
       "Name": "XersXers",
       "Steam": "76561198779549924",
-      "Score": 0,
-      "Time": "01:38"
+      "Score": 4,
+      "Time": "03:38"
     },
     {
       "Name": "confucius",
       "Steam": "76561198748102818",
-      "Score": 21,
-      "Time": "06:57"
+      "Score": 29,
+      "Time": "08:57"
+    },
+    {
+      "Name": "blumpkin",
+      "Steam": "76561199803889471",
+      "Score": 0,
+      "Time": "00:21"
     }
   ]
 }
