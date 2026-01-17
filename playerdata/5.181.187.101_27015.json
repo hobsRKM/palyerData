@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-17T16:32:14.2740036Z",
-  "Players": []
+  "Time": "2026-01-17T16:32:24.6215499Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "184:15"
+    },
+    {
+      "Name": "modafinil",
+      "Steam": "76561199847867630",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "negrnegrovskilnl",
+      "Steam": "76561198749705738",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "radiance.lua robertkubica",
+      "Steam": "76561198746583604",
+      "Score": 23,
+      "Time": "??:??"
+    }
+  ]
 }
