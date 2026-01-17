@@ -1,4 +1,41 @@
 {
-  "Time": "2026-01-17T03:26:14.9714835Z",
-  "Players": []
+  "Time": "2026-01-17T03:26:51.7516623Z",
+  "Players": [
+    {
+      "Name": "gakster",
+      "Steam": "76561198001746934",
+      "Score": 19,
+      "Time": "05:17"
+    },
+    {
+      "Name": "Sea Of Problems",
+      "Steam": "76561199632897302",
+      "Score": 0,
+      "Time": "01:48"
+    },
+    {
+      "Name": "anne frank",
+      "Steam": "76561198781427861",
+      "Score": 2,
+      "Time": "09:26"
+    },
+    {
+      "Name": "chutiya rat",
+      "Steam": "76561198752639632",
+      "Score": 0,
+      "Time": "05:49"
+    },
+    {
+      "Name": "apollo",
+      "Steam": "76561199860618727",
+      "Score": 5,
+      "Time": "03:49"
+    },
+    {
+      "Name": "xa",
+      "Steam": "76561198751671283",
+      "Score": 15,
+      "Time": "39:05"
+    }
+  ]
 }
