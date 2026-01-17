@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-17T00:02:19.5681733Z",
+  "Time": "2026-01-17T00:04:19.570511Z",
   "Players": [
+    {
+      "Name": "icantaimshit",
+      "Steam": "76561198754891749",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "dingolelimbi",
       "Steam": "76561198767189020",
@@ -10,37 +16,43 @@
     {
       "Name": "sniggle",
       "Steam": "76561199622150117",
-      "Score": 27,
-      "Time": "15:53"
+      "Score": 29,
+      "Time": "17:53"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 40,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561199525060285",
-      "Score": 108,
-      "Time": "80:04"
+      "Score": 110,
+      "Time": "82:04"
     },
     {
       "Name": "Peak = Jumpscout",
       "Steam": "76561199156395215",
-      "Score": 0,
-      "Time": "37:12"
+      "Score": 7,
+      "Time": "39:12"
     },
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
       "Score": 2,
-      "Time": "18:31"
+      "Time": "20:31"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 2,
+      "Time": "01:53"
     },
     {
       "Name": "fashion #fuckallugot",
       "Steam": "76561198750276290",
-      "Score": 49,
+      "Score": 58,
       "Time": "??:??"
     },
     {
@@ -48,12 +60,6 @@
       "Steam": "76561199100343450",
       "Score": 23,
       "Time": "??:??"
-    },
-    {
-      "Name": "\uD835\uDD8D\uD835\uDD86\uD835\uDD99\uD835\uDD8A™",
-      "Steam": "76561198749608670",
-      "Score": 1,
-      "Time": "00:19"
     }
   ]
 }
