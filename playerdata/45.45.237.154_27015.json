@@ -1,28 +1,28 @@
 {
-  "Time": "2026-01-17T20:20:28.1962305Z",
+  "Time": "2026-01-17T20:24:28.1892738Z",
   "Players": [
+    {
+      "Name": "0x6a6179",
+      "Steam": "76561198758593147",
+      "Score": 5,
+      "Time": "02:09"
+    },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 74,
+      "Score": 96,
       "Time": "??:??"
-    },
-    {
-      "Name": "sol",
-      "Steam": "76561198774876005",
-      "Score": 17,
-      "Time": "15:09"
     },
     {
       "Name": "Mr Creamy Peanut - skeet huntin",
       "Steam": "76561199229233111",
       "Score": 40,
-      "Time": "20:11"
+      "Time": "24:11"
     },
     {
       "Name": "80 ping smh",
       "Steam": "76561198293312486",
-      "Score": 50,
+      "Score": 56,
       "Time": "??:??"
     }
   ]
