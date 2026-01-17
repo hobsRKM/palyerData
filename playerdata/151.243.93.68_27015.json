@@ -1,4 +1,53 @@
 {
-  "Time": "2026-01-17T02:36:14.9716873Z",
-  "Players": []
+  "Time": "2026-01-17T02:36:51.6929254Z",
+  "Players": [
+    {
+      "Name": "sol",
+      "Steam": "76561198774876005",
+      "Score": 0,
+      "Time": "01:30"
+    },
+    {
+      "Name": "70 ping",
+      "Steam": "76561199103785164",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "2coldware",
+      "Steam": "76561198759122611",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "HELLCORE ALPHA USER",
+      "Steam": "76561199622150117",
+      "Score": 4,
+      "Time": "20:27"
+    },
+    {
+      "Name": "anne frank",
+      "Steam": "76561198781427861",
+      "Score": 6,
+      "Time": "09:55"
+    },
+    {
+      "Name": "apollo",
+      "Steam": "76561199860618727",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Wave",
+      "Steam": "76561198751403441",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Donk",
+      "Steam": "76561199868275355",
+      "Score": 32,
+      "Time": "47:32"
+    }
+  ]
 }
