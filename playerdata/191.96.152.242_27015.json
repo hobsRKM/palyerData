@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-17T01:52:19.5758088Z",
+  "Time": "2026-01-17T01:54:19.566044Z",
   "Players": [
+    {
+      "Name": "vapeboss2001",
+      "Steam": "76561198207461899",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hage Reborn",
+      "Steam": "76561199754918087",
+      "Score": 0,
+      "Time": "00:34"
+    },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 76,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "ck user",
       "Steam": "76561198293312486",
-      "Score": 11,
-      "Time": "14:24"
+      "Score": 12,
+      "Time": "16:24"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
       "Score": 49,
-      "Time": "61:15"
+      "Time": "63:15"
     },
     {
       "Name": "CУĒŢỢЛǾГ",
       "Steam": "76561199531695282",
-      "Score": 46,
-      "Time": "28:53"
+      "Score": 48,
+      "Time": "30:53"
     },
     {
       "Name": "cloxid",
       "Steam": "76561199525060285",
-      "Score": 103,
-      "Time": "52:16"
-    },
-    {
-      "Name": "be from sweaden to be doxxer",
-      "Steam": "76561198777802004",
-      "Score": 108,
-      "Time": "47:06"
+      "Score": 107,
+      "Time": "54:16"
     }
   ]
 }
