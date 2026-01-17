@@ -1,58 +1,64 @@
 {
-  "Time": "2026-01-17T08:48:28.1692659Z",
+  "Time": "2026-01-17T08:50:28.1652345Z",
   "Players": [
+    {
+      "Name": "Cyron",
+      "Steam": "76561198855550056",
+      "Score": 0,
+      "Time": "00:12"
+    },
     {
       "Name": "freya",
       "Steam": "76561199229682369",
-      "Score": 0,
-      "Time": "99:59"
+      "Score": 13,
+      "Time": "101:59"
     },
     {
       "Name": "くそanti",
       "Steam": "76561198170426931",
-      "Score": 2,
-      "Time": "10:49"
+      "Score": 0,
+      "Time": "12:49"
     },
     {
       "Name": "Hitler",
       "Steam": "76561198746699122",
-      "Score": 0,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199845188453",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198760092720",
       "Score": 2,
-      "Time": "11:46"
+      "Time": "13:46"
     },
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 4,
-      "Time": "47:49"
+      "Score": 8,
+      "Time": "49:48"
     },
     {
       "Name": "ghostY",
       "Steam": "76561199591486018",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "N0ob",
       "Steam": "76561199712341739",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
