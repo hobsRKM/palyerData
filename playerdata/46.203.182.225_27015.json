@@ -1,28 +1,46 @@
 {
-  "Time": "2026-01-17T20:34:47.1449328Z",
+  "Time": "2026-01-17T20:36:47.1508395Z",
   "Players": [
+    {
+      "Name": "Zenth",
+      "Steam": "76561198745746743",
+      "Score": 0,
+      "Time": "01:24"
+    },
+    {
+      "Name": "sorakaHvH",
+      "Steam": "76561198747406998",
+      "Score": 0,
+      "Time": "01:53"
+    },
+    {
+      "Name": "eseknix",
+      "Steam": "76561199402105922",
+      "Score": 0,
+      "Time": "01:36"
+    },
     {
       "Name": "babasiken",
       "Steam": "76561199711137534",
-      "Score": 110,
-      "Time": "21:03"
-    },
-    {
-      "Name": "\uD83D\uDDFF",
-      "Steam": "76561199488023684",
-      "Score": 58,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "23:03"
     },
     {
       "Name": "IDG",
       "Steam": "76561198752334688",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "sa2moqq",
       "Steam": "76561198755028817",
-      "Score": 29,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "X",
+      "Steam": "76561199867060203",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
