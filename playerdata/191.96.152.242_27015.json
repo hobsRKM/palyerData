@@ -1,59 +1,65 @@
 {
-  "Time": "2026-01-17T22:04:22.3841067Z",
+  "Time": "2026-01-17T22:06:22.3829403Z",
   "Players": [
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 26,
-      "Time": "40:52"
+      "Score": 32,
+      "Time": "42:52"
     },
     {
       "Name": "BreakItDown",
       "Steam": "76561198777802004",
-      "Score": 40,
-      "Time": "15:37"
+      "Score": 48,
+      "Time": "17:37"
+    },
+    {
+      "Name": "icantaimshit",
+      "Steam": "76561198754891749",
+      "Score": 0,
+      "Time": "01:21"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 29,
-      "Time": "40:44"
+      "Score": 39,
+      "Time": "42:44"
     },
     {
       "Name": "XersXers",
       "Steam": "76561198779549924",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "lora",
       "Steam": "76561198759125966",
-      "Score": 0,
-      "Time": "00:26"
+      "Score": 4,
+      "Time": "02:26"
+    },
+    {
+      "Name": "chutiya rat",
+      "Steam": "76561198752639632",
+      "Score": 1,
+      "Time": "01:08"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 31,
-      "Time": "11:11"
+      "Score": 36,
+      "Time": "13:11"
     },
     {
       "Name": "Simply #Larpingskeet",
       "Steam": "76561199889163804",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "futt bucker",
       "Steam": "76561198782084625",
-      "Score": 2,
-      "Time": "05:47"
-    },
-    {
-      "Name": "cats",
-      "Steam": "76561198751610816",
-      "Score": 43,
-      "Time": "36:37"
+      "Score": 3,
+      "Time": "07:47"
     }
   ]
 }
