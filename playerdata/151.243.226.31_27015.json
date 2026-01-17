@@ -1,40 +1,52 @@
 {
-  "Time": "2026-01-17T09:54:28.1741567Z",
+  "Time": "2026-01-17T09:56:28.1715099Z",
   "Players": [
+    {
+      "Name": "cr7",
+      "Steam": "76561199822315115",
+      "Score": 6,
+      "Time": "01:04"
+    },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 16,
-      "Time": "08:35"
+      "Score": 24,
+      "Time": "10:35"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199845188453",
-      "Score": 18,
-      "Time": "18:04"
+      "Score": 20,
+      "Time": "20:04"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 41,
-      "Time": "27:11"
+      "Score": 49,
+      "Time": "29:11"
     },
     {
       "Name": "skibidizoilet123",
       "Steam": "76561198752394955",
-      "Score": 43,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Stfu nixware best",
       "Steam": "76561199781090383",
-      "Score": 68,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "peop0082",
       "Steam": "76561198767139262",
-      "Score": 16,
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "스킷인바좀요시발",
+      "Steam": "76561198761755601",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
