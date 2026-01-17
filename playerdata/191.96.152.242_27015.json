@@ -1,17 +1,17 @@
 {
-  "Time": "2026-01-17T21:36:22.392677Z",
+  "Time": "2026-01-17T21:38:22.3827579Z",
   "Players": [
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 15,
-      "Time": "12:52"
+      "Score": 23,
+      "Time": "14:52"
     },
     {
       "Name": "spit",
       "Steam": "76561199678608838",
-      "Score": 10,
-      "Time": "13:26"
+      "Score": 0,
+      "Time": "15:26"
     },
     {
       "Name": "[HITLR] VIPER",
@@ -22,32 +22,38 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 17,
-      "Time": "12:44"
+      "Score": 24,
+      "Time": "14:44"
+    },
+    {
+      "Name": "arianna",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "XersXers",
       "Steam": "76561198779549924",
-      "Score": 4,
-      "Time": "21:38"
+      "Score": 8,
+      "Time": "23:38"
     },
     {
       "Name": "xa",
       "Steam": "76561198751671283",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 29,
-      "Time": "08:37"
+      "Score": 39,
+      "Time": "10:37"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 6,
-      "Time": "18:21"
+      "Score": 12,
+      "Time": "20:21"
     }
   ]
 }
