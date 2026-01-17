@@ -1,35 +1,47 @@
 {
-  "Time": "2026-01-17T05:00:19.5650741Z",
+  "Time": "2026-01-17T05:02:19.5723597Z",
   "Players": [
+    {
+      "Name": "icantaimshit",
+      "Steam": "76561198754891749",
+      "Score": 0,
+      "Time": "01:54"
+    },
     {
       "Name": "primer",
       "Steam": "76561198749710396",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "DaCouchMan",
       "Steam": "76561198043040531",
-      "Score": 3,
-      "Time": "10:40"
+      "Score": 9,
+      "Time": "12:40"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 54,
-      "Time": "186:34"
+      "Score": 66,
+      "Time": "188:34"
     },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 106,
-      "Time": "32:07"
+      "Score": 114,
+      "Time": "34:07"
+    },
+    {
+      "Name": "tehk",
+      "Steam": "76561198753203481",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ck user",
       "Steam": "76561198293312486",
-      "Score": 40,
-      "Time": "12:47"
+      "Score": 44,
+      "Time": "14:47"
     }
   ]
 }
