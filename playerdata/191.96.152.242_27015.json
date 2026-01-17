@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-17T02:46:19.5769298Z",
+  "Time": "2026-01-17T02:48:19.5642429Z",
   "Players": [
     {
       "Name": "Wave",
       "Steam": "76561198751403441",
-      "Score": 12,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 20,
-      "Time": "52:34"
+      "Score": 28,
+      "Time": "54:34"
     },
     {
       "Name": "ck user",
       "Steam": "76561198293312486",
-      "Score": 13,
-      "Time": "68:24"
+      "Score": 17,
+      "Time": "70:24"
     },
     {
       "Name": "apollo",
       "Steam": "76561199860618727",
-      "Score": 10,
+      "Score": 15,
       "Time": "??:??"
+    },
+    {
+      "Name": "Sea Of Problems",
+      "Steam": "76561199632897302",
+      "Score": 4,
+      "Time": "161:49"
     }
   ]
 }
