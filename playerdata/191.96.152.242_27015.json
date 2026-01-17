@@ -1,53 +1,65 @@
 {
-  "Time": "2026-01-17T04:02:19.5733192Z",
+  "Time": "2026-01-17T04:04:19.5779438Z",
   "Players": [
     {
       "Name": "HELLCORE ALPHA USER",
       "Steam": "76561199622150117",
-      "Score": 0,
-      "Time": "00:08"
+      "Score": 8,
+      "Time": "02:08"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
       "Score": 6,
-      "Time": "128:34"
+      "Time": "130:34"
     },
     {
       "Name": "ck user",
       "Steam": "76561198293312486",
       "Score": 12,
-      "Time": "144:24"
+      "Time": "146:24"
+    },
+    {
+      "Name": "apollo",
+      "Steam": "76561199860618727",
+      "Score": 4,
+      "Time": "01:21"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "gakster",
       "Steam": "76561198001746934",
-      "Score": 6,
-      "Time": "29:43"
+      "Score": 13,
+      "Time": "31:43"
     },
     {
       "Name": "70 ping",
       "Steam": "76561199103785164",
-      "Score": 7,
-      "Time": "03:07"
+      "Score": 12,
+      "Time": "05:07"
     },
     {
       "Name": "sigh",
       "Steam": "76561199468716831",
-      "Score": 2,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "artemis",
+      "Steam": "76561199097243449",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "sol",
       "Steam": "76561198774876005",
-      "Score": 2,
-      "Time": "03:33"
+      "Score": 8,
+      "Time": "05:33"
     }
   ]
 }
