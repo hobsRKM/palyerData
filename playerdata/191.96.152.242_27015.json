@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-18T03:10:22.3863484Z",
+  "Time": "2026-01-18T03:12:22.3858054Z",
   "Players": [
     {
       "Name": "anne frank",
@@ -22,44 +22,56 @@
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "GigglyGoon",
+      "Steam": "76561199400457766",
+      "Score": 0,
+      "Time": "174:12"
     },
     {
       "Name": "lIlIlIlIlIl-",
       "Steam": "76561198776691812",
-      "Score": 10,
-      "Time": "327:35"
+      "Score": 16,
+      "Time": "329:35"
     },
     {
       "Name": "Major Salty Billy Bob",
       "Steam": "76561199043213580",
-      "Score": 5,
-      "Time": "04:21"
+      "Score": 11,
+      "Time": "06:21"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 22,
-      "Time": "33:19"
+      "Score": 26,
+      "Time": "35:19"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 18,
-      "Time": "06:06"
+      "Score": 30,
+      "Time": "08:06"
     },
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 23,
-      "Time": "20:49"
+      "Score": 27,
+      "Time": "22:49"
+    },
+    {
+      "Name": "cheeziepooh",
+      "Steam": "76561198273566562",
+      "Score": 0,
+      "Time": "14:11"
     }
   ]
 }
