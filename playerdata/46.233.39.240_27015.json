@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-18T07:32:28.0936207Z",
+  "Time": "2026-01-18T07:34:28.0939065Z",
   "Players": [
+    {
+      "Name": "916frosty",
+      "Steam": "76561199177563574",
+      "Score": 0,
+      "Time": "00:06"
+    },
     {
       "Name": "nl",
       "Steam": "76561198747398066",
-      "Score": 0,
-      "Time": "09:49"
+      "Score": 4,
+      "Time": "11:49"
     },
     {
       "Name": "Dishwasher Certified",
       "Steam": "76561199489491259",
-      "Score": 0,
-      "Time": "31:11"
+      "Score": 4,
+      "Time": "33:11"
     },
     {
       "Name": "FasTeRBroTheR",
       "Steam": "76561198749134133",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
