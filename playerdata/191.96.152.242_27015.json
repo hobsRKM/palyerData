@@ -1,59 +1,65 @@
 {
-  "Time": "2026-01-18T01:18:22.3855958Z",
+  "Time": "2026-01-18T01:20:22.389061Z",
   "Players": [
     {
       "Name": "Palace Player #1",
       "Steam": "76561199029764827",
-      "Score": 70,
-      "Time": "127:45"
+      "Score": 72,
+      "Time": "129:45"
+    },
+    {
+      "Name": "chalk it",
+      "Steam": "76561198843385688",
+      "Score": 0,
+      "Time": "02:01"
     },
     {
       "Name": "Loading…",
       "Steam": "76561199833487665",
-      "Score": 28,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Khy",
       "Steam": "76561199655165702",
-      "Score": 35,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "Astral",
       "Steam": "76561199879900946",
-      "Score": 26,
-      "Time": "09:34"
+      "Score": 27,
+      "Time": "11:34"
     },
     {
       "Name": "Simply #Larpingskeet",
       "Steam": "76561199140462879",
-      "Score": 112,
-      "Time": "234:44"
+      "Score": 116,
+      "Time": "236:44"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 60,
-      "Time": "240:03"
+      "Score": 62,
+      "Time": "242:03"
     },
     {
       "Name": "2006",
       "Steam": "76561199755599976",
       "Score": 0,
-      "Time": "08:08"
-    },
-    {
-      "Name": "x4ngel",
-      "Steam": "76561199433297625",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "10:08"
     },
     {
       "Name": "Simply #Larpingskeet",
       "Steam": "76561199889163804",
-      "Score": 19,
-      "Time": "07:55"
+      "Score": 23,
+      "Time": "09:55"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198751610816",
+      "Score": 1,
+      "Time": "??:??"
     }
   ]
 }
