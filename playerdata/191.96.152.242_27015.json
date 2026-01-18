@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-18T00:30:22.3842311Z",
+  "Time": "2026-01-18T00:32:22.3798523Z",
   "Players": [
     {
       "Name": "Noclipzz",
       "Steam": "76561199013354918",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Khy",
       "Steam": "76561199655165702",
-      "Score": 15,
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Astral",
+      "Steam": "76561199879900946",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 27,
-      "Time": "186:44"
+      "Score": 41,
+      "Time": "188:44"
     },
     {
       "Name": "lora",
       "Steam": "76561198759125966",
-      "Score": 2,
-      "Time": "35:51"
+      "Score": 6,
+      "Time": "37:51"
     }
   ]
 }
