@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-18T05:34:52.7738393Z",
+  "Time": "2026-01-18T05:36:52.7776208Z",
   "Players": [
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 23,
-      "Time": "34:00"
+      "Score": 25,
+      "Time": "36:00"
     },
     {
       "Name": "Extra Old Stock",
       "Steam": "76561198027457804",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 0,
+      "Time": "00:17"
     }
   ]
 }
