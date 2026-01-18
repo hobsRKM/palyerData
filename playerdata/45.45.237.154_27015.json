@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-18T23:25:42.744524Z",
+  "Time": "2026-01-18T23:27:42.7447364Z",
   "Players": [
+    {
+      "Name": "epstein had aura",
+      "Steam": "76561199525552573",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 31,
-      "Time": "10:59"
+      "Score": 35,
+      "Time": "12:59"
+    },
+    {
+      "Name": "Major Salty Billy Bob",
+      "Steam": "76561199043213580",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "fantasycat",
       "Steam": "76561199040769247",
-      "Score": 28,
-      "Time": "13:58"
+      "Score": 32,
+      "Time": "15:58"
     },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 0,
-      "Time": "01:09"
+      "Score": 4,
+      "Time": "03:09"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 19,
-      "Time": "11:38"
-    },
-    {
-      "Name": "luna",
-      "Steam": "76561199840946349",
-      "Score": 14,
-      "Time": "14:04"
+      "Score": 27,
+      "Time": "13:38"
     }
   ]
 }
