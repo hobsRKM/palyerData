@@ -1,40 +1,52 @@
 {
-  "Time": "2026-01-18T19:26:29.8164743Z",
+  "Time": "2026-01-18T19:28:29.8050842Z",
   "Players": [
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 73,
-      "Time": "59:06"
+      "Score": 78,
+      "Time": "61:06"
     },
     {
       "Name": "Double Lion",
       "Steam": "76561199658178463",
       "Score": 20,
-      "Time": "125:15"
+      "Time": "127:15"
+    },
+    {
+      "Name": "sol",
+      "Steam": "76561198774876005",
+      "Score": 0,
+      "Time": "00:55"
     },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 65,
+      "Score": 75,
       "Time": "??:??"
+    },
+    {
+      "Name": "HoHoHo",
+      "Steam": "76561198755417759",
+      "Score": 0,
+      "Time": "00:34"
     },
     {
       "Name": "NotKenny",
       "Steam": "76561199870970905",
-      "Score": 24,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "tealgang",
       "Steam": "76561199232624117",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "fantasycat",
       "Steam": "76561199040769247",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
@@ -46,19 +58,19 @@
     {
       "Name": "swagatron3000",
       "Steam": "76561198111358891",
-      "Score": 26,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "80 ping smh",
       "Steam": "76561198293312486",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 9,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
