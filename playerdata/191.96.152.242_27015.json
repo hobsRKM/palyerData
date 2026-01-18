@@ -1,47 +1,59 @@
 {
-  "Time": "2026-01-18T03:30:22.3940346Z",
+  "Time": "2026-01-18T03:32:22.3831282Z",
   "Players": [
     {
       "Name": "phen6m",
       "Steam": "76561199527800621",
-      "Score": 30,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mild",
+      "Steam": "76561198120534840",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561199833487665",
-      "Score": 43,
+      "Score": 46,
       "Time": "??:??"
+    },
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 20,
+      "Time": "02:01"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 39,
-      "Time": "192:12"
+      "Score": 43,
+      "Time": "194:12"
     },
     {
       "Name": "lIlIlIlIlIl-",
       "Steam": "76561198776691812",
-      "Score": 51,
-      "Time": "347:35"
+      "Score": 53,
+      "Time": "349:35"
     },
     {
       "Name": "Major Salty Billy Bob",
       "Steam": "76561199043213580",
-      "Score": 66,
-      "Time": "24:21"
+      "Score": 72,
+      "Time": "26:21"
     },
     {
       "Name": "bleeod",
       "Steam": "76561198756200396",
-      "Score": 18,
-      "Time": "91:33"
+      "Score": 20,
+      "Time": "93:33"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 65,
-      "Time": "53:19"
+      "Score": 69,
+      "Time": "55:19"
     },
     {
       "Name": "vit",
@@ -52,32 +64,32 @@
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 70,
-      "Time": "26:06"
+      "Score": 72,
+      "Time": "28:06"
     },
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 75,
-      "Time": "09:18"
+      "Score": 84,
+      "Time": "11:18"
     },
     {
       "Name": "soda",
       "Steam": "76561198786321609",
-      "Score": 7,
-      "Time": "369:42"
+      "Score": 11,
+      "Time": "371:42"
     },
     {
-      "Name": "REALL \uD800\uDC83\uD800\uDC83",
+      "Name": "RE \uD800\uDC83\uD800\uDC83",
       "Steam": "76561198152322242",
-      "Score": 5,
-      "Time": "13:13"
+      "Score": 7,
+      "Time": "15:13"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 59,
-      "Time": "32:11"
+      "Score": 64,
+      "Time": "34:11"
     }
   ]
 }
