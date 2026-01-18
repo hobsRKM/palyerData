@@ -1,29 +1,41 @@
 {
-  "Time": "2026-01-17T23:58:22.3939197Z",
+  "Time": "2026-01-18T00:00:22.387227Z",
   "Players": [
+    {
+      "Name": "cloxid",
+      "Steam": "76561199846338954",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Loading…",
+      "Steam": "76561199833487665",
+      "Score": 2,
+      "Time": "00:38"
+    },
     {
       "Name": "nade",
       "Steam": "76561199312322988",
-      "Score": 34,
-      "Time": "29:15"
+      "Score": 37,
+      "Time": "31:15"
     },
     {
       "Name": "cloxid",
       "Steam": "76561199525060285",
-      "Score": 51,
-      "Time": "15:45"
+      "Score": 55,
+      "Time": "17:45"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561199140462879",
       "Score": 57,
-      "Time": "154:44"
+      "Time": "156:44"
     },
     {
       "Name": "XersXers",
@@ -41,19 +53,25 @@
       "Name": "lora",
       "Steam": "76561198759125966",
       "Score": 7,
-      "Time": "03:51"
+      "Time": "05:51"
     },
     {
-      "Name": "DXVXD",
-      "Steam": "76561199442363655",
-      "Score": 3,
-      "Time": "03:31"
+      "Name": "Simply #Larpingskeet",
+      "Steam": "76561199889163804",
+      "Score": 0,
+      "Time": "00:07"
+    },
+    {
+      "Name": "0x6a6179",
+      "Steam": "76561198758593147",
+      "Score": 2,
+      "Time": "01:23"
     },
     {
       "Name": "CУĒŢỢЛǾГ",
       "Steam": "76561199531695282",
-      "Score": 17,
-      "Time": "09:50"
+      "Score": 30,
+      "Time": "11:50"
     }
   ]
 }
