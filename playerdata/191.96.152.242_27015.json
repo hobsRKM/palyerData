@@ -1,53 +1,65 @@
 {
-  "Time": "2026-01-18T01:40:22.3842416Z",
+  "Time": "2026-01-18T01:42:22.3898184Z",
   "Players": [
     {
       "Name": "Palace Player #1",
       "Steam": "76561199029764827",
-      "Score": 57,
-      "Time": "149:45"
+      "Score": 59,
+      "Time": "151:45"
     },
     {
-      "Name": "Loading…",
+      "Name": "Palace Player #1",
       "Steam": "76561199833487665",
-      "Score": 3,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561199525060285",
+      "Score": 0,
+      "Time": "01:23"
+    },
+    {
+      "Name": "стул навального",
+      "Steam": "76561198749428246",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "vlone custom model",
       "Steam": "76561199678608838",
-      "Score": 18,
-      "Time": "09:51"
+      "Score": 20,
+      "Time": "11:51"
     },
     {
       "Name": "Astral",
       "Steam": "76561199879900946",
-      "Score": 32,
-      "Time": "31:34"
+      "Score": 35,
+      "Time": "33:34"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 24,
-      "Time": "256:44"
+      "Score": 30,
+      "Time": "258:44"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
       "Score": 6,
-      "Time": "02:07"
+      "Time": "04:07"
     },
     {
       "Name": "2006",
       "Steam": "76561199755599976",
-      "Score": 35,
-      "Time": "30:08"
+      "Score": 0,
+      "Time": "32:08"
     },
     {
       "Name": "arianna",
       "Steam": "76561199880717233",
-      "Score": 0,
-      "Time": "54:01"
+      "Score": 2,
+      "Time": "56:01"
     }
   ]
 }
