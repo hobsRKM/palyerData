@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-18T18:40:36.5944931Z",
+  "Time": "2026-01-18T18:42:36.5906247Z",
   "Players": [
+    {
+      "Name": "haroldmosner",
+      "Steam": "76561198745436440",
+      "Score": 1,
+      "Time": "01:53"
+    },
     {
       "Name": "anne frank",
       "Steam": "76561198781427861",
-      "Score": 20,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "aboleshyy",
       "Steam": "76561198749108439",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
