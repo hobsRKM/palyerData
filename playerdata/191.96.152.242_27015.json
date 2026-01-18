@@ -1,53 +1,59 @@
 {
-  "Time": "2026-01-18T01:30:22.3881216Z",
+  "Time": "2026-01-18T01:32:22.3926433Z",
   "Players": [
     {
       "Name": "Palace Player #1",
       "Steam": "76561199029764827",
-      "Score": 9,
-      "Time": "139:45"
+      "Score": 17,
+      "Time": "141:45"
     },
     {
       "Name": "Loading…",
       "Steam": "76561199833487665",
-      "Score": 3,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "vlone custom model",
+      "Steam": "76561199678608838",
+      "Score": 2,
+      "Time": "01:51"
     },
     {
       "Name": "Astral",
       "Steam": "76561199879900946",
-      "Score": 10,
-      "Time": "21:34"
+      "Score": 15,
+      "Time": "23:34"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 6,
-      "Time": "246:44"
+      "Score": 8,
+      "Time": "248:44"
     },
     {
       "Name": "2006",
       "Steam": "76561199755599976",
-      "Score": 11,
-      "Time": "20:08"
+      "Score": 23,
+      "Time": "22:08"
     },
     {
       "Name": "arianna",
       "Steam": "76561199880717233",
-      "Score": 8,
-      "Time": "44:01"
+      "Score": 16,
+      "Time": "46:01"
     },
     {
       "Name": "chrome hearts",
       "Steam": "76561199863506964",
-      "Score": 4,
-      "Time": "07:35"
+      "Score": 8,
+      "Time": "09:35"
     },
     {
       "Name": "No I ain't dead",
       "Steam": "76561198098243474",
-      "Score": 4,
-      "Time": "05:50"
+      "Score": 5,
+      "Time": "07:50"
     }
   ]
 }
