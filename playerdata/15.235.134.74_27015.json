@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-19T07:37:16.3404808Z",
+  "Time": "2026-01-19T07:39:16.3529595Z",
   "Players": [
+    {
+      "Name": "Cyron",
+      "Steam": "76561198855550056",
+      "Score": 2,
+      "Time": "00:49"
+    },
     {
       "Name": "AltBProfen",
       "Steam": "76561199834727236",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Hitler",
       "Steam": "76561198746699122",
-      "Score": 3,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "kenny",
       "Steam": "76561199868090392",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
