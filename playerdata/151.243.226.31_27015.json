@@ -1,47 +1,47 @@
 {
-  "Time": "2026-01-19T11:46:42.3412912Z",
+  "Time": "2026-01-19T11:48:42.3421178Z",
   "Players": [
+    {
+      "Name": "Cyron",
+      "Steam": "76561198855550056",
+      "Score": 2,
+      "Time": "01:23"
+    },
     {
       "Name": "word.exe",
       "Steam": "76561198755220664",
-      "Score": 0,
-      "Time": "32:16"
-    },
-    {
-      "Name": "$$$$$$$",
-      "Steam": "76561199229682369",
-      "Score": 0,
-      "Time": "100:06"
+      "Score": 2,
+      "Time": "34:16"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
-      "Time": "21:30"
+      "Score": 6,
+      "Time": "23:30"
     },
     {
       "Name": "AltBProfen",
       "Steam": "76561199834727236",
-      "Score": 0,
-      "Time": "11:22"
+      "Score": 10,
+      "Time": "13:22"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199845188453",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Sinsnorv Robert",
       "Steam": "76561199557025963",
       "Score": 0,
-      "Time": "09:24"
+      "Time": "11:24"
     }
   ]
 }
