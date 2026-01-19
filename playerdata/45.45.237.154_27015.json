@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-19T06:18:36.9716308Z",
+  "Time": "2026-01-19T06:20:36.9621321Z",
   "Players": [
     {
       "Name": "cats (gay version)",
       "Steam": "76561198745436440",
-      "Score": 6,
-      "Time": "01:57"
+      "Score": 8,
+      "Time": "03:57"
     },
     {
       "Name": "aboleshyy",
       "Steam": "76561198749108439",
       "Score": 0,
-      "Time": "01:35"
+      "Time": "03:35"
+    },
+    {
+      "Name": "fantasycat",
+      "Steam": "76561199040769247",
+      "Score": 12,
+      "Time": "01:14"
     },
     {
       "Name": "anne frank",
       "Steam": "76561198781427861",
-      "Score": 2,
-      "Time": "02:00"
+      "Score": 9,
+      "Time": "04:00"
     }
   ]
 }
