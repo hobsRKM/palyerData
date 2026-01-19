@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-19T09:06:19.42827Z",
+  "Time": "2026-01-19T09:08:19.4299955Z",
   "Players": [
+    {
+      "Name": "JumpScout 2077",
+      "Steam": "76561199842283410",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 36,
-      "Time": "21:39"
+      "Score": 38,
+      "Time": "23:39"
     },
     {
       "Name": "wyattandkatie",
       "Steam": "76561198833219379",
-      "Score": 60,
-      "Time": "31:34"
+      "Score": 75,
+      "Time": "33:34"
     },
     {
       "Name": "mobsetcs",
       "Steam": "76561199571109635",
-      "Score": 5,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
