@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-19T16:48:17.7886249Z",
-  "Players": []
+  "Time": "2026-01-19T16:48:25.7921577Z",
+  "Players": [
+    {
+      "Name": "aat",
+      "Steam": "76561199403849529",
+      "Score": 31,
+      "Time": "13:37"
+    },
+    {
+      "Name": "cheeziepooh",
+      "Steam": "76561198273566562",
+      "Score": 84,
+      "Time": "22:45"
+    },
+    {
+      "Name": "Mr Creamy Peanut - skeet huntin",
+      "Steam": "76561199229233111",
+      "Score": 70,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hacktivist",
+      "Steam": "76561199848482186",
+      "Score": 58,
+      "Time": "28:28"
+    }
+  ]
 }
