@@ -1,47 +1,47 @@
 {
-  "Time": "2026-01-19T16:52:42.3352787Z",
+  "Time": "2026-01-19T16:54:42.3433201Z",
   "Players": [
+    {
+      "Name": "word.exe",
+      "Steam": "76561198755220664",
+      "Score": 0,
+      "Time": "02:04"
+    },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 32,
-      "Time": "95:49"
+      "Score": 40,
+      "Time": "97:49"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 2,
-      "Time": "16:54"
+      "Score": 4,
+      "Time": "18:54"
     },
     {
       "Name": "AltBProfen",
       "Steam": "76561199834727236",
-      "Score": 29,
-      "Time": "105:47"
+      "Score": 31,
+      "Time": "107:47"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 45,
-      "Time": "38:13"
+      "Score": 57,
+      "Time": "40:13"
     },
     {
       "Name": "Fanta",
       "Steam": "76561198782416061",
-      "Score": 20,
-      "Time": "111:32"
+      "Score": 24,
+      "Time": "113:32"
     },
     {
       "Name": "peop0082",
       "Steam": "76561198767139262",
-      "Score": 17,
-      "Time": "50:22"
-    },
-    {
-      "Name": "Blozerd",
-      "Steam": "76561199519764094",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "52:22"
     }
   ]
 }
