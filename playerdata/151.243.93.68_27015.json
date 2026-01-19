@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-19T03:52:37.6604119Z",
+  "Time": "2026-01-19T03:54:37.6540993Z",
   "Players": [
     {
       "Name": "alberto",
       "Steam": "76561199867366945",
-      "Score": 18,
-      "Time": "09:40"
+      "Score": 24,
+      "Time": "11:40"
+    },
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 6,
+      "Time": "34:34"
     },
     {
       "Name": "2006",
       "Steam": "76561199755599976",
-      "Score": 70,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "unbindall",
       "Steam": "76561199176180324",
-      "Score": 75,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "AimJunkies.co",
       "Steam": "76561199626903344",
-      "Score": 75,
-      "Time": "43:00"
+      "Score": 79,
+      "Time": "45:00"
     },
     {
       "Name": "GigglyGoon",
@@ -34,20 +40,26 @@
     {
       "Name": "Cracktivist",
       "Steam": "76561199848482186",
-      "Score": 39,
-      "Time": "63:51"
+      "Score": 44,
+      "Time": "65:51"
     },
     {
       "Name": "In hands shitter",
       "Steam": "76561198768136486",
-      "Score": 25,
+      "Score": 33,
       "Time": "??:??"
     },
     {
-      "Name": "lua           ohcarter",
+      "Name": "islurwhenitalk",
+      "Steam": "76561198757745510",
+      "Score": 2,
+      "Time": "01:21"
+    },
+    {
+      "Name": ".lua           ohcarter",
       "Steam": "76561198772153840",
-      "Score": 24,
-      "Time": "08:37"
+      "Score": 26,
+      "Time": "10:37"
     }
   ]
 }
