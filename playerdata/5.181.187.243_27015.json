@@ -1,4 +1,41 @@
 {
-  "Time": "2026-01-19T05:32:22.8960991Z",
-  "Players": []
+  "Time": "2026-01-19T05:34:03.4718044Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Mono] MimiChuu",
+      "Steam": "76561198773397866",
+      "Score": 36,
+      "Time": "12:15"
+    },
+    {
+      "Name": "Danny",
+      "Steam": "76561198116349730",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vois derbi joskus toimia",
+      "Steam": "76561198748448059",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aleksjooo",
+      "Steam": "76561198756755557",
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SCP sem0chka",
+      "Steam": "76561199846900801",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
