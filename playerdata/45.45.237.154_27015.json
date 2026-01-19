@@ -1,17 +1,29 @@
 {
-  "Time": "2026-01-19T06:26:36.9690691Z",
+  "Time": "2026-01-19T06:28:36.9724624Z",
   "Players": [
+    {
+      "Name": "I'm on Iniuria",
+      "Steam": "76561198745959376",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "cats (gay version)",
       "Steam": "76561198745436440",
-      "Score": 17,
-      "Time": "09:57"
+      "Score": 21,
+      "Time": "11:57"
     },
     {
       "Name": "fantasycat",
       "Steam": "76561199040769247",
-      "Score": 49,
-      "Time": "07:14"
+      "Score": 53,
+      "Time": "09:14"
+    },
+    {
+      "Name": "The Rig",
+      "Steam": "76561198027457804",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
