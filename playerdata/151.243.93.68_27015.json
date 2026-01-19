@@ -1,22 +1,40 @@
 {
-  "Time": "2026-01-19T22:24:16.7246022Z",
+  "Time": "2026-01-19T22:26:16.7373231Z",
   "Players": [
+    {
+      "Name": "skidware user",
+      "Steam": "76561198745436440",
+      "Score": 2,
+      "Time": "00:19"
+    },
+    {
+      "Name": "aat",
+      "Steam": "76561199403849529",
+      "Score": 0,
+      "Time": "00:16"
+    },
+    {
+      "Name": "fantasycat",
+      "Steam": "76561199040769247",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "HELLCORE ALPHA USER",
       "Steam": "76561199096269503",
-      "Score": 25,
-      "Time": "22:59"
+      "Score": 41,
+      "Time": "24:59"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 42,
-      "Time": "09:18"
+      "Score": 48,
+      "Time": "11:18"
     },
     {
       "Name": "////////////////////////////",
       "Steam": "76561199655883528",
-      "Score": 25,
+      "Score": 36,
       "Time": "??:??"
     },
     {
@@ -28,31 +46,25 @@
     {
       "Name": "HELLCORE ALPHA USER",
       "Steam": "76561199622150117",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 12,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "s",
       "Steam": "76561198750080629",
-      "Score": 25,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Moneybot Beta Tester",
-      "Steam": "76561199682916670",
-      "Score": 0,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "fear or lust",
       "Steam": "76561198324493175",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
