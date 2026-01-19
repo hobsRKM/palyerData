@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-19T20:06:32.1870158Z",
+  "Time": "2026-01-19T20:08:32.1851472Z",
   "Players": [
+    {
+      "Name": "eternity.lua   ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 2,
+      "Time": "00:59"
+    },
     {
       "Name": "trijn",
       "Steam": "76561198754521206",
-      "Score": 4,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "confucius",
       "Steam": "76561198748102818",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "ageplayr larp (i need a dada)",
       "Steam": "76561198749155214",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
