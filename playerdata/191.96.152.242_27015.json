@@ -1,35 +1,47 @@
 {
-  "Time": "2026-01-19T23:00:25.6005149Z",
+  "Time": "2026-01-19T23:02:25.5982866Z",
   "Players": [
     {
       "Name": "s",
       "Steam": "76561199096269503",
-      "Score": 22,
-      "Time": "28:11"
+      "Score": 0,
+      "Time": "30:11"
+    },
+    {
+      "Name": "Astral",
+      "Steam": "76561199879900946",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 12,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "retrodresscode",
+      "Steam": "76561198788747213",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "HELLCORE ALPHA USER",
       "Steam": "76561199622150117",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 0,
-      "Time": "00:06"
+      "Score": 2,
+      "Time": "02:06"
     },
     {
-      "Name": "s",
+      "Name": "tehk",
       "Steam": "76561198750080629",
       "Score": 64,
-      "Time": "17:11"
+      "Time": "19:11"
     }
   ]
 }
