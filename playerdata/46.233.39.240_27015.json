@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-20T07:23:35.9609627Z",
+  "Time": "2026-01-20T07:25:35.9613323Z",
   "Players": [
     {
       "Name": "beancream",
       "Steam": "76561198746475943",
-      "Score": 4,
-      "Time": "07:16"
+      "Score": 8,
+      "Time": "09:16"
     },
     {
       "Name": "meow",
       "Steam": "76561198746561956",
-      "Score": 10,
-      "Time": "39:50"
+      "Score": 12,
+      "Time": "41:50"
+    },
+    {
+      "Name": "Jenko From O'Block",
+      "Steam": "76561198191934227",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
