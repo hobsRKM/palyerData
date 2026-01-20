@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-20T02:00:03.4971805Z",
+  "Time": "2026-01-20T02:02:03.4937069Z",
   "Players": [
     {
       "Name": "bad",
@@ -10,26 +10,32 @@
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 14,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "0x6a6179",
+      "Steam": "76561198758593147",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 30,
-      "Time": "04:43"
+      "Score": 51,
+      "Time": "06:43"
     },
     {
       "Name": "Sea Of Problems",
       "Steam": "76561199632897302",
       "Score": 12,
-      "Time": "09:54"
+      "Time": "11:54"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
       "Score": 4,
-      "Time": "03:35"
+      "Time": "05:35"
     },
     {
       "Name": "october 19th",
@@ -47,13 +53,13 @@
       "Name": "sigh",
       "Steam": "76561199468716831",
       "Score": 0,
-      "Time": "01:39"
+      "Time": "00:11"
     },
     {
-      "Name": "ternity.lua      ohcarter",
+      "Name": "eternity.lua     ohcarter",
       "Steam": "76561198772153840",
-      "Score": 14,
-      "Time": "04:41"
+      "Score": 25,
+      "Time": "06:41"
     }
   ]
 }
