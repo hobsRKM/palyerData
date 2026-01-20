@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-20T18:23:31.0386929Z",
+  "Time": "2026-01-20T18:25:31.0467899Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,25 +10,31 @@
     {
       "Name": "Vveks",
       "Steam": "76561199547865338",
-      "Score": 20,
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
+      "Steam": "76561198333235279",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "clearmoon",
       "Steam": "76561199809357039",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "kfc sokeg",
       "Steam": "76561199114850775",
-      "Score": 17,
-      "Time": "118:55"
+      "Score": 23,
+      "Time": "120:55"
     },
     {
       "Name": "thgin",
       "Steam": "76561199519063323",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
@@ -38,45 +44,33 @@
       "Time": "??:??"
     },
     {
-      "Name": "baimless",
-      "Steam": "76561199660705672",
-      "Score": 78,
-      "Time": "1187:40"
-    },
-    {
       "Name": "Arstotzkan",
       "Steam": "76561198753921044",
-      "Score": 24,
-      "Time": "28:23"
+      "Score": 26,
+      "Time": "30:23"
     },
     {
       "Name": "!sanddu",
       "Steam": "76561198835474175",
-      "Score": 0,
-      "Time": "00:26"
+      "Score": 2,
+      "Time": "02:26"
     },
     {
       "Name": "Mike Oxlong",
       "Steam": "76561198749154292",
       "Score": 69,
-      "Time": "158:35"
+      "Time": "160:35"
     },
     {
       "Name": "bubber",
       "Steam": "76561199053195051",
-      "Score": 31,
-      "Time": "05:04"
-    },
-    {
-      "Name": "gluesniffer",
-      "Steam": "76561198782604078",
-      "Score": 70,
-      "Time": "54:58"
+      "Score": 38,
+      "Time": "07:04"
     },
     {
       "Name": "tonka",
       "Steam": "76561199846884696",
-      "Score": 67,
+      "Score": 69,
       "Time": "??:??"
     }
   ]
