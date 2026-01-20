@@ -1,23 +1,35 @@
 {
-  "Time": "2026-01-20T04:02:03.4877212Z",
+  "Time": "2026-01-20T04:04:03.940047Z",
   "Players": [
+    {
+      "Name": "bad",
+      "Steam": "76561198281663381",
+      "Score": 0,
+      "Time": "01:21"
+    },
     {
       "Name": "✯✯MemeSense User✯✯",
       "Steam": "76561198781427861",
       "Score": 2,
-      "Time": "05:20"
+      "Time": "07:20"
     },
     {
       "Name": "LustAlpha User",
       "Steam": "76561198749108439",
       "Score": 0,
-      "Time": "50:54"
+      "Time": "52:55"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 16,
-      "Time": "15:18"
+      "Score": 23,
+      "Time": "17:19"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 4,
+      "Time": "01:30"
     }
   ]
 }
