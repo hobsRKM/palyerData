@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-20T05:00:25.5932831Z",
+  "Time": "2026-01-20T05:02:25.5942367Z",
   "Players": [
     {
       "Name": "bad",
       "Steam": "76561198281663381",
+      "Score": 4,
+      "Time": "03:52"
+    },
+    {
+      "Name": "october 19th",
+      "Steam": "76561198782084625",
       "Score": 2,
-      "Time": "01:52"
+      "Time": "??:??"
     },
     {
       "Name": "✯✯MemeSense User✯✯",
       "Steam": "76561198781427861",
       "Score": 0,
-      "Time": "00:16"
+      "Time": "02:16"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 10,
-      "Time": "10:05"
+      "Score": 14,
+      "Time": "12:05"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 0,
-      "Time": "487:27"
+      "Score": 6,
+      "Time": "489:27"
     }
   ]
 }
