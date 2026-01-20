@@ -1,29 +1,41 @@
 {
-  "Time": "2026-01-20T04:18:03.9375116Z",
+  "Time": "2026-01-20T04:20:03.9395195Z",
   "Players": [
     {
       "Name": "CNCS Somebody",
       "Steam": "76561199712426828",
-      "Score": 33,
-      "Time": "10:49"
+      "Score": 41,
+      "Time": "12:49"
+    },
+    {
+      "Name": "me gusta tortas",
+      "Steam": "76561199851129501",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 54,
-      "Time": "13:17"
+      "Score": 56,
+      "Time": "15:17"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561199880717233",
+      "Score": 3,
+      "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 53,
-      "Time": "31:19"
+      "Score": 57,
+      "Time": "33:19"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 23,
-      "Time": "15:30"
+      "Score": 28,
+      "Time": "17:30"
     }
   ]
 }
