@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-20T17:56:48.0715379Z",
-  "Players": []
+  "Time": "2026-01-20T17:56:59.2544206Z",
+  "Players": [
+    {
+      "Name": "goldenlion",
+      "Steam": "76561198745012696",
+      "Score": 6,
+      "Time": "22:17"
+    },
+    {
+      "Name": "rockin",
+      "Steam": "76561199851063794",
+      "Score": 0,
+      "Time": "01:37"
+    },
+    {
+      "Name": "Mr Creamy Peanut - skeet huntin",
+      "Steam": "76561199229233111",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
