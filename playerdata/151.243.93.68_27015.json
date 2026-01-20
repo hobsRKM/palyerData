@@ -1,23 +1,41 @@
 {
-  "Time": "2026-01-20T00:02:12.1346915Z",
+  "Time": "2026-01-20T00:04:12.1335414Z",
   "Players": [
+    {
+      "Name": "barcode",
+      "Steam": "76561199527800621",
+      "Score": 0,
+      "Time": "00:44"
+    },
     {
       "Name": "jewboyx11",
       "Steam": "76561198748838667",
-      "Score": 50,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "I_win_lol",
       "Steam": "76561198744899181",
       "Score": 0,
-      "Time": "00:25"
+      "Time": "02:25"
+    },
+    {
+      "Name": "rayvnmoon",
+      "Steam": "76561199434656701",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "prodruguser",
       "Steam": "76561199622150117",
-      "Score": 28,
-      "Time": "14:42"
+      "Score": 34,
+      "Time": "16:42"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
