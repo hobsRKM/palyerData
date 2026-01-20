@@ -1,53 +1,53 @@
 {
-  "Time": "2026-01-20T03:10:03.4996794Z",
+  "Time": "2026-01-20T03:12:03.4977092Z",
   "Players": [
+    {
+      "Name": "Major Salty Billy Bob",
+      "Steam": "76561199043213580",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fantasycat",
+      "Steam": "76561199040769247",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "brotha uh",
       "Steam": "76561198293312486",
-      "Score": 10,
-      "Time": "38:02"
-    },
-    {
-      "Name": "bleeod",
-      "Steam": "76561198756200396",
-      "Score": 6,
-      "Time": "29:40"
+      "Score": 18,
+      "Time": "40:02"
     },
     {
       "Name": "Silver Bell",
       "Steam": "76561198819683930",
-      "Score": 0,
-      "Time": "00:37"
+      "Score": 4,
+      "Time": "02:37"
     },
     {
       "Name": "gakster",
       "Steam": "76561198001746934",
-      "Score": 6,
-      "Time": "08:52"
+      "Score": 13,
+      "Time": "10:52"
     },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
-      "Name": "xilo.dll",
-      "Steam": "76561199682659428",
-      "Score": 0,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "icantaimshit",
       "Steam": "76561198754891749",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "rayvnmoon",
       "Steam": "76561199434656701",
-      "Score": 2,
-      "Time": "02:32"
+      "Score": 3,
+      "Time": "04:32"
     }
   ]
 }
