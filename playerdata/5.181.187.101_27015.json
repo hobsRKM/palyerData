@@ -1,4 +1,35 @@
 {
-  "Time": "2026-01-21T08:42:22.2661484Z",
-  "Players": []
+  "Time": "2026-01-21T08:42:45.4331669Z",
+  "Players": [
+    {
+      "Name": "word.exe",
+      "Steam": "76561198755220664",
+      "Score": 12,
+      "Time": "63:02"
+    },
+    {
+      "Name": "mercury",
+      "Steam": "76561199891995705",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fatality.win",
+      "Steam": "76561198792942200",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "christiannn",
+      "Steam": "76561199034400951",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nixware.cc",
+      "Steam": "76561198747426651",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
