@@ -1,10 +1,10 @@
 {
-  "Time": "2026-01-21T03:55:15.9508455Z",
+  "Time": "2026-01-21T03:57:15.9572963Z",
   "Players": [
     {
       "Name": "Qwerty",
       "Steam": "76561199850398606",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -16,8 +16,14 @@
     {
       "Name": "\uD835\uDC12\uD835\uDC21\uD835\uDC22\uD835\uDC27\uD835\uDC20\uD835\uDC1E\uD835\uDC27",
       "Steam": "76561198201071901",
-      "Score": 68,
+      "Score": 76,
       "Time": "??:??"
+    },
+    {
+      "Name": "extacySTREET",
+      "Steam": "76561198745881329",
+      "Score": 0,
+      "Time": "00:27"
     }
   ]
 }
