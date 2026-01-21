@@ -1,70 +1,46 @@
 {
-  "Time": "2026-01-21T00:58:34.3898924Z",
+  "Time": "2026-01-21T01:00:34.3844639Z",
   "Players": [
+    {
+      "Name": "dylan",
+      "Steam": "76561198265104876",
+      "Score": 0,
+      "Time": "00:55"
+    },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 93,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "october 19th",
       "Steam": "76561198782084625",
-      "Score": 57,
-      "Time": "??:??"
-    },
-    {
-      "Name": "gakster",
-      "Steam": "76561198001746934",
-      "Score": 48,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Major Salty Billy Bob",
-      "Steam": "76561199043213580",
-      "Score": 59,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "mdoy",
       "Steam": "76561198750080629",
-      "Score": 39,
-      "Time": "11:12"
+      "Score": 1,
+      "Time": "13:12"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Retro",
-      "Steam": "76561198992148678",
-      "Score": 43,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "What is?",
       "Steam": "76561199409698094",
-      "Score": 35,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "oh please nigha",
       "Steam": "76561198293312486",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "$%*##$%!!!*",
-      "Steam": "76561197960283350",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "a0percs2",
-      "Steam": "76561198745261172",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
