@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-21T20:29:13.8655299Z",
+  "Time": "2026-01-21T20:31:13.8747848Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,14 +10,14 @@
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 0,
-      "Time": "64:07"
+      "Score": 2,
+      "Time": "66:07"
     },
     {
       "Name": "slicer",
       "Steam": "76561198781696394",
-      "Score": 4,
-      "Time": "01:23"
+      "Score": 16,
+      "Time": "03:23"
     },
     {
       "Name": "nicoevensen",
@@ -28,13 +28,19 @@
     {
       "Name": "auqafncs",
       "Steam": "76561198749945041",
-      "Score": 2,
-      "Time": "01:49"
+      "Score": 3,
+      "Time": "03:49"
     },
     {
       "Name": "bigasslasasailatingacandy",
       "Steam": "76561198750875532",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "y.lua           PashaBicycle",
+      "Steam": "76561199640932206",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
