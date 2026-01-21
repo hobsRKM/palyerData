@@ -1,4 +1,41 @@
 {
-  "Time": "2026-01-21T05:10:22.2660935Z",
-  "Players": []
+  "Time": "2026-01-21T05:10:37.8040259Z",
+  "Players": [
+    {
+      "Name": "Jamal",
+      "Steam": "76561198963830393",
+      "Score": 36,
+      "Time": "715:26"
+    },
+    {
+      "Name": "anthonywin219",
+      "Steam": "76561198768850609",
+      "Score": 0,
+      "Time": "492:26"
+    },
+    {
+      "Name": "vois derbi joskus toimia",
+      "Steam": "76561198748448059",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "orospu evladı",
+      "Steam": "76561198764837964",
+      "Score": 2,
+      "Time": "670:34"
+    },
+    {
+      "Name": "Смайлек :D",
+      "Steam": "76561198815816234",
+      "Score": 0,
+      "Time": "497:46"
+    },
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
