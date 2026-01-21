@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-21T08:06:22.2661583Z",
-  "Players": []
+  "Time": "2026-01-21T08:06:45.4325552Z",
+  "Players": [
+    {
+      "Name": "word.exe",
+      "Steam": "76561198755220664",
+      "Score": 56,
+      "Time": "27:02"
+    },
+    {
+      "Name": "kristallik",
+      "Steam": "76561199097217683",
+      "Score": 2,
+      "Time": "01:37"
+    },
+    {
+      "Name": "ToySoldier",
+      "Steam": "76561198280118856",
+      "Score": 12,
+      "Time": "04:14"
+    },
+    {
+      "Name": "Azurflow",
+      "Steam": "76561198771559647",
+      "Score": 28,
+      "Time": "??:??"
+    }
+  ]
 }
