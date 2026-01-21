@@ -1,4 +1,35 @@
 {
-  "Time": "2026-01-21T10:18:48.0783554Z",
-  "Players": []
+  "Time": "2026-01-21T10:18:59.3005763Z",
+  "Players": [
+    {
+      "Name": "DaCouchMan",
+      "Steam": "76561198043040531",
+      "Score": 51,
+      "Time": "01:38"
+    },
+    {
+      "Name": "cheeziepooh",
+      "Steam": "76561198273566562",
+      "Score": 44,
+      "Time": "10:47"
+    },
+    {
+      "Name": "wishiwasblack",
+      "Steam": "76561198745436440",
+      "Score": 14,
+      "Time": "10:40"
+    },
+    {
+      "Name": "trevvy",
+      "Steam": "76561199874044368",
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xXxrobinatorXxx",
+      "Steam": "76561199868067319",
+      "Score": 0,
+      "Time": "729:18"
+    }
+  ]
 }
