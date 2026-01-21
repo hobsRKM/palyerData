@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-21T22:37:13.8673435Z",
+  "Time": "2026-01-21T22:39:13.8739556Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -8,16 +8,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "Dex",
+      "Steam": "76561198780251412",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "Buggy",
       "Steam": "76561198974777067",
-      "Score": 48,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 0,
-      "Time": "37:14"
+      "Score": 8,
+      "Time": "39:14"
     },
     {
       "Name": "beniastyy 2",
@@ -35,37 +41,43 @@
       "Name": "slicer",
       "Steam": "76561198781696394",
       "Score": 19,
-      "Time": "07:23"
+      "Time": "09:23"
     },
     {
       "Name": "Kiszo Maslanka",
       "Steam": "76561199866941128",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "K1tanna",
       "Steam": "76561199521351689",
-      "Score": 3,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "пеншик",
       "Steam": "76561198748994255",
-      "Score": 2,
-      "Time": "17:15"
+      "Score": 12,
+      "Time": "19:15"
     },
     {
       "Name": "Gorben",
       "Steam": "76561198763619471",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "hileci",
+      "Steam": "76561199881092959",
+      "Score": 6,
+      "Time": "122:16"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561199855230938",
-      "Score": 71,
-      "Time": "20:05"
+      "Score": 72,
+      "Time": "22:05"
     }
   ]
 }
