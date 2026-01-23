@@ -1,28 +1,40 @@
 {
-  "Time": "2026-01-23T15:42:33.8617709Z",
+  "Time": "2026-01-23T15:44:33.8532131Z",
   "Players": [
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "jagharenhagelbössaiminkällare",
       "Steam": "76561198791202815",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "v",
       "Steam": "76561199822757102",
-      "Score": 1,
-      "Time": "02:54"
+      "Score": 2,
+      "Time": "04:54"
     },
     {
       "Name": "valennezz",
       "Steam": "76561198794851069",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Coze",
       "Steam": "76561198891790832",
-      "Score": 2,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bemoi629",
+      "Steam": "76561198745583841",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -34,13 +46,13 @@
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "3",
       "Steam": "76561198765278487",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     }
   ]
