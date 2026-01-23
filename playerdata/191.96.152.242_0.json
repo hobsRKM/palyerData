@@ -1,46 +1,58 @@
 {
-  "Time": "2026-01-23T22:26:23.4547779Z",
+  "Time": "2026-01-23T22:28:23.4418597Z",
   "Players": [
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 0,
+      "Time": "00:51"
+    },
     {
       "Name": "Silver Eyes",
       "Steam": "76561198819683930",
-      "Score": 42,
-      "Time": "12:59"
+      "Score": 46,
+      "Time": "14:59"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 55,
+      "Score": 60,
       "Time": "??:??"
     },
     {
-      "Name": "ty.lua           Green Fn",
+      "Name": "ity.lua          Green Fn",
       "Steam": "76561199077791772",
-      "Score": 49,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "blatantgayish",
       "Steam": "76561198767243598",
-      "Score": 57,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "Da Goat",
       "Steam": "76561199043213580",
-      "Score": 43,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 63,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "plimpus",
       "Steam": "76561198001746934",
-      "Score": 44,
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hvh",
+      "Steam": "76561198784473790",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
