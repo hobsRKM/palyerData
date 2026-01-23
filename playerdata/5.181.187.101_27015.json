@@ -1,4 +1,47 @@
 {
-  "Time": "2026-01-23T12:43:59.0696918Z",
-  "Players": []
+  "Time": "2026-01-23T12:44:14.3831106Z",
+  "Players": [
+    {
+      "Name": "Trav",
+      "Steam": "76561199471217940",
+      "Score": 77,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mock",
+      "Steam": "76561198755398524",
+      "Score": 12,
+      "Time": "17:47"
+    },
+    {
+      "Name": "Mike Oxlong",
+      "Steam": "76561198749154292",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "petrik",
+      "Steam": "76561199499013499",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haha",
+      "Steam": "76561199002053532",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SchluchtenScheißer",
+      "Steam": "76561198930127692",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sato #SpreadSquad",
+      "Steam": "76561199732115959",
+      "Score": 8,
+      "Time": "??:??"
+    }
+  ]
 }
