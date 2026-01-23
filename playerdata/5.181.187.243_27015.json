@@ -1,10 +1,16 @@
 {
-  "Time": "2026-01-23T19:18:33.8597021Z",
+  "Time": "2026-01-23T19:20:33.8643363Z",
   "Players": [
+    {
+      "Name": "Moris",
+      "Steam": "76561199858395904",
+      "Score": 0,
+      "Time": "01:22"
+    },
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 102,
+      "Score": 104,
       "Time": "??:??"
     },
     {
@@ -16,36 +22,24 @@
     {
       "Name": "sedat artemis",
       "Steam": "76561198780646846",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
-    },
-    {
-      "Name": "Winxx",
-      "Steam": "76561199472686469",
-      "Score": 0,
-      "Time": "06:29"
     },
     {
       "Name": "\uD835\uDD09\uD835\uDD26\uD835\uDD29\uD835\uDD26\uD835\uDD2D",
       "Steam": "76561198449372051",
-      "Score": 16,
-      "Time": "02:32"
+      "Score": 32,
+      "Time": "04:32"
     },
     {
-      "Name": "ᵃˢᶜʸⁿ RetroSpective",
-      "Steam": "76561199504650285",
-      "Score": 22,
-      "Time": "07:51"
-    },
-    {
-      "Name": "Le Breet",
-      "Steam": "76561199050274315",
+      "Name": "человек",
+      "Steam": "76561199766942479",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Real Madrid",
-      "Steam": "76561198791309345",
+      "Name": "Le Breet",
+      "Steam": "76561199050274315",
       "Score": 0,
       "Time": "??:??"
     },
