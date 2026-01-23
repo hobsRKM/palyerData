@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-23T21:12:33.8539794Z",
+  "Time": "2026-01-23T21:14:33.8582399Z",
   "Players": [
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 0,
+      "Time": "00:43"
+    },
     {
       "Name": "aimware glazer",
       "Steam": "76561199837364437",
-      "Score": 68,
-      "Time": "31:26"
+      "Score": 76,
+      "Time": "33:26"
     },
     {
       "Name": "Dode",
@@ -14,39 +20,51 @@
       "Time": "??:??"
     },
     {
+      "Name": "航空交通管制",
+      "Steam": "76561199011662523",
+      "Score": 0,
+      "Time": "06:38"
+    },
+    {
       "Name": "†ZyLuxx†",
       "Steam": "76561199499431083",
-      "Score": 2,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Maslanka",
       "Steam": "76561199866941128",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "111",
       "Steam": "76561198773896425",
-      "Score": 20,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "SM3RF",
       "Steam": "76561199267532979",
-      "Score": 14,
-      "Time": "05:01"
+      "Score": 31,
+      "Time": "07:01"
+    },
+    {
+      "Name": "gaminggenius2012",
+      "Steam": "76561198170202181",
+      "Score": 0,
+      "Time": "00:19"
     },
     {
       "Name": "top4eekk",
       "Steam": "76561199696354097",
-      "Score": 32,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "sexually.lol",
       "Steam": "76561199809436143",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -56,16 +74,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "eternity.lua     Green Fn",
+      "Name": "eternity.lua    Green Fn",
       "Steam": "76561199077791772",
-      "Score": 23,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "rpeq93916",
       "Steam": "76561199853448989",
       "Score": 4,
-      "Time": "04:12"
+      "Time": "06:12"
     }
   ]
 }
