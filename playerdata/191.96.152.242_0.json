@@ -1,22 +1,22 @@
 {
-  "Time": "2026-01-23T21:42:23.4544398Z",
+  "Time": "2026-01-23T21:44:23.4433916Z",
   "Players": [
     {
       "Name": "James",
       "Steam": "76561199121215178",
       "Score": 23,
-      "Time": "10:45"
+      "Time": "12:45"
     },
     {
       "Name": "Silver Eyes",
       "Steam": "76561198819683930",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 37,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -26,9 +26,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "nity.lua         Green Fn",
+      "Name": "rnity.lua        Green Fn",
       "Steam": "76561199077791772",
-      "Score": 5,
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "blatantgayish",
+      "Steam": "76561198767243598",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
