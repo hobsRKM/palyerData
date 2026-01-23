@@ -1,28 +1,40 @@
 {
-  "Time": "2026-01-23T23:06:23.4404224Z",
+  "Time": "2026-01-23T23:08:23.452Z",
   "Players": [
+    {
+      "Name": "Shift At Midnight Demo",
+      "Steam": "76561198749014700",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 44,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "blatantgayish",
       "Steam": "76561198767243598",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 52,
+      "Score": 66,
+      "Time": "??:??"
+    },
+    {
+      "Name": "6xx70",
+      "Steam": "76561199886103403",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
