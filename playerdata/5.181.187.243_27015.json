@@ -1,28 +1,28 @@
 {
-  "Time": "2026-01-23T20:04:33.8552839Z",
+  "Time": "2026-01-23T20:06:33.8662359Z",
   "Players": [
+    {
+      "Name": "Diabito",
+      "Steam": "76561199082073582",
+      "Score": 0,
+      "Time": "18:50"
+    },
     {
       "Name": "ikanusvar",
       "Steam": "76561199831261545",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "venux shootgg",
-      "Steam": "76561198028829083",
       "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "George",
       "Steam": "76561199334969958",
-      "Score": 56,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "sexpir",
       "Steam": "76561199846629045",
-      "Score": 6,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -34,14 +34,14 @@
     {
       "Name": "lebron james",
       "Steam": "76561199819784349",
-      "Score": 34,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Yukema",
       "Steam": "76561199862541312",
-      "Score": 30,
-      "Time": "05:07"
+      "Score": 55,
+      "Time": "07:07"
     },
     {
       "Name": "\"'",
@@ -52,14 +52,14 @@
     {
       "Name": "YT Snowzz",
       "Steam": "76561198757602895",
-      "Score": 18,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "rpeq93916",
       "Steam": "76561199853448989",
-      "Score": 1,
-      "Time": "02:21"
+      "Score": 0,
+      "Time": "04:21"
     }
   ]
 }
