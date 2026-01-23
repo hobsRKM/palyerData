@@ -1,47 +1,35 @@
 {
-  "Time": "2026-01-23T23:20:33.8685754Z",
+  "Time": "2026-01-23T23:22:33.8685705Z",
   "Players": [
+    {
+      "Name": "sigma",
+      "Steam": "76561198749907723",
+      "Score": 5,
+      "Time": "276:42"
+    },
     {
       "Name": "hvh",
       "Steam": "76561198784473790",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "OMG",
       "Steam": "76561198782604078",
-      "Score": 128,
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "Los Pollos Hermanos",
-      "Steam": "76561199088444116",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "bophouse6",
-      "Steam": "76561198747364111",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "SANTANDER",
-      "Steam": "76561199319067376",
+      "Name": "Blanco 73",
+      "Steam": "76561198255877566",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "sexually.lol",
       "Steam": "76561199809436143",
-      "Score": 57,
+      "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "Mxmba",
-      "Steam": "76561198758534558",
-      "Score": 18,
-      "Time": "206:28"
     },
     {
       "Name": "\"'",
@@ -52,14 +40,8 @@
     {
       "Name": "breaking memesense users",
       "Steam": "76561198780576822",
-      "Score": 73,
+      "Score": 5,
       "Time": "??:??"
-    },
-    {
-      "Name": "nh",
-      "Steam": "76561198746557417",
-      "Score": 22,
-      "Time": "23:53"
     }
   ]
 }
