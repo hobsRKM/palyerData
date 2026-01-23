@@ -1,22 +1,28 @@
 {
-  "Time": "2026-01-23T17:50:33.8606319Z",
+  "Time": "2026-01-23T17:52:33.8601794Z",
   "Players": [
+    {
+      "Name": "\u1CBC",
+      "Steam": "76561198381131235",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "meow meow",
       "Steam": "76561199828015418",
-      "Score": 61,
-      "Time": "31:34"
+      "Score": 69,
+      "Time": "33:34"
     },
     {
       "Name": "ᵏᵒᵖᶠˢᶜʰᶦˢˢApostl",
       "Steam": "76561199684356210",
-      "Score": 43,
-      "Time": "12:07"
+      "Score": 47,
+      "Time": "14:07"
     },
     {
       "Name": "Real Madrid",
       "Steam": "76561198791309345",
-      "Score": 10,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -28,20 +34,20 @@
     {
       "Name": "Fusyon",
       "Steam": "76561198763321837",
-      "Score": 44,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "fronteN",
       "Steam": "76561199818931039",
-      "Score": 21,
-      "Time": "70:29"
+      "Score": 27,
+      "Time": "72:29"
     },
     {
       "Name": "alexandrei901212",
       "Steam": "76561198752448085",
-      "Score": 7,
-      "Time": "03:50"
+      "Score": 3,
+      "Time": "05:50"
     }
   ]
 }
