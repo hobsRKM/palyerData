@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-23T18:40:33.8622456Z",
+  "Time": "2026-01-23T18:42:33.8610399Z",
   "Players": [
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 4,
+      "Time": "01:33"
+    },
     {
       "Name": "Moris",
       "Steam": "76561199858395904",
       "Score": 31,
-      "Time": "67:13"
+      "Time": "69:13"
     },
     {
       "Name": "moo - maj",
       "Steam": "76561198754742545",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "vance",
       "Steam": "76561198744460712",
-      "Score": 4,
-      "Time": "45:10"
+      "Score": 6,
+      "Time": "47:10"
     },
     {
       "Name": "It hurts when ip",
       "Steam": "76561198788157791",
-      "Score": 24,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Winxx",
       "Steam": "76561199472686469",
-      "Score": 11,
-      "Time": "69:37"
+      "Score": 17,
+      "Time": "71:37"
     },
     {
       "Name": "Ferox",
       "Steam": "76561199377440484",
-      "Score": 3,
-      "Time": "00:57"
+      "Score": 2,
+      "Time": "02:57"
     },
     {
       "Name": "Real Madrid",
@@ -46,6 +52,12 @@
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "loh",
+      "Steam": "76561198782355003",
       "Score": 0,
       "Time": "??:??"
     }
