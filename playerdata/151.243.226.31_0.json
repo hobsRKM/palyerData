@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-23T12:53:11.7134731Z",
+  "Time": "2026-01-23T12:55:11.706735Z",
   "Players": [
     {
       "Name": "Mr PeAce™ ♕",
       "Steam": "76561198294617498",
-      "Score": 0,
-      "Time": "34:22"
+      "Score": 10,
+      "Time": "36:22"
     },
     {
       "Name": "AltBProfen",
       "Steam": "76561199834727236",
       "Score": 16,
-      "Time": "32:38"
+      "Time": "34:38"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "sol.frisie",
+      "Steam": "76561199208640259",
+      "Score": 2,
+      "Time": "01:15"
     }
   ]
 }
