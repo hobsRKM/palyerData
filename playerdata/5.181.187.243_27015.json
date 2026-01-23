@@ -1,28 +1,34 @@
 {
-  "Time": "2026-01-23T22:56:33.8721279Z",
+  "Time": "2026-01-23T22:58:33.8673108Z",
   "Players": [
+    {
+      "Name": "hvh",
+      "Steam": "76561198784473790",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "OMG",
       "Steam": "76561198782604078",
-      "Score": 21,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "1 Fatality game ban on record",
       "Steam": "76561199829074660",
-      "Score": 97,
+      "Score": 103,
       "Time": "??:??"
     },
     {
       "Name": "lkgsdkf",
       "Steam": "76561198764733323",
-      "Score": 64,
-      "Time": "10:12"
+      "Score": 76,
+      "Time": "12:12"
     },
     {
       "Name": "sexually.lol",
       "Steam": "76561199809436143",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
@@ -30,6 +36,12 @@
       "Steam": "76561199028888055",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "nh",
+      "Steam": "76561198746557417",
+      "Score": 10,
+      "Time": "01:53"
     }
   ]
 }
