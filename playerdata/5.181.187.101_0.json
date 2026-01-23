@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-23T09:34:22.8295405Z",
-  "Players": []
+  "Time": "2026-01-23T09:35:45.7676806Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "70:09"
+    },
+    {
+      "Name": "Russian Federation",
+      "Steam": "76561198121511397",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "venge",
+      "Steam": "76561198757253100",
+      "Score": 27,
+      "Time": "04:46"
+    },
+    {
+      "Name": "Zirkilibnjmia",
+      "Steam": "76561198749666053",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
