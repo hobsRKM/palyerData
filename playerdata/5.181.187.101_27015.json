@@ -1,4 +1,41 @@
 {
-  "Time": "2026-01-23T14:51:59.0697208Z",
-  "Players": []
+  "Time": "2026-01-23T14:52:14.3845361Z",
+  "Players": [
+    {
+      "Name": "eb",
+      "Steam": "76561198754213497",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "johnfishing@yahoo.com",
+      "Steam": "76561199685733063",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ulguberg",
+      "Steam": "76561198871985269",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Turtle.Turn(6)",
+      "Steam": "76561199187600654",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 2,
+      "Time": "03:58"
+    },
+    {
+      "Name": "George",
+      "Steam": "76561199334969958",
+      "Score": 4,
+      "Time": "20:35"
+    }
+  ]
 }
