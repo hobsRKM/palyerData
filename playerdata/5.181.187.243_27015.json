@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-23T15:28:33.8527291Z",
+  "Time": "2026-01-23T15:30:33.8536891Z",
   "Players": [
+    {
+      "Name": "lil downsider",
+      "Steam": "76561198751473305",
+      "Score": 0,
+      "Time": "00:46"
+    },
     {
       "Name": "SłodkiDzik30",
       "Steam": "76561199053765081",
-      "Score": 10,
-      "Time": "03:17"
+      "Score": 23,
+      "Time": "05:17"
     },
     {
       "Name": "asdadwddfgrregtreghtereger",
       "Steam": "76561199013172589",
-      "Score": 30,
-      "Time": "05:16"
+      "Score": 44,
+      "Time": "07:16"
     },
     {
       "Name": "\"'",
@@ -22,19 +28,13 @@
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 39,
-      "Time": "??:??"
-    },
-    {
-      "Name": "s.atr.eop.a.ls.en",
-      "Steam": "76561198745746564",
-      "Score": 12,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "3",
       "Steam": "76561198765278487",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
