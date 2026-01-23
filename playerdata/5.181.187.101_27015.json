@@ -1,4 +1,41 @@
 {
-  "Time": "2026-01-23T12:47:59.070862Z",
-  "Players": []
+  "Time": "2026-01-23T12:48:14.3850169Z",
+  "Players": [
+    {
+      "Name": "Trav",
+      "Steam": "76561199471217940",
+      "Score": 89,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mock",
+      "Steam": "76561198755398524",
+      "Score": 22,
+      "Time": "21:47"
+    },
+    {
+      "Name": "Mike Oxlong",
+      "Steam": "76561198749154292",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "petrik",
+      "Steam": "76561199499013499",
+      "Score": 52,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haha",
+      "Steam": "76561199002053532",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SchluchtenScheißer",
+      "Steam": "76561198930127692",
+      "Score": 3,
+      "Time": "??:??"
+    }
+  ]
 }
