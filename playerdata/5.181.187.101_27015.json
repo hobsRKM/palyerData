@@ -1,4 +1,35 @@
 {
-  "Time": "2026-01-24T18:00:48.6039812Z",
-  "Players": []
+  "Time": "2026-01-24T18:01:13.8813664Z",
+  "Players": [
+    {
+      "Name": "Karim Santos",
+      "Steam": "76561198268324959",
+      "Score": 32,
+      "Time": "35:18"
+    },
+    {
+      "Name": "WesleyTM2.0",
+      "Steam": "76561199406774307",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FR - MrX",
+      "Steam": "76561198783305929",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ilian.gavazov7",
+      "Steam": "76561199367660114",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mercury",
+      "Steam": "76561199891995705",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
