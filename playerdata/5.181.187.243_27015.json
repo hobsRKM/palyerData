@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-24T19:40:29.1932851Z",
+  "Time": "2026-01-24T19:42:29.2053555Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561198770779132",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
@@ -10,37 +16,25 @@
     {
       "Name": "siema",
       "Steam": "76561199040449208",
-      "Score": 2,
-      "Time": "258:12"
+      "Score": 18,
+      "Time": "260:12"
     },
     {
       "Name": "test gamesense crack #mira.kim",
       "Steam": "76561198745960064",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "SM3RF",
       "Steam": "76561199267532979",
-      "Score": 85,
-      "Time": "256:15"
-    },
-    {
-      "Name": "Diaconescu Lucas",
-      "Steam": "76561199667028575",
-      "Score": 4,
-      "Time": "01:13"
+      "Score": 103,
+      "Time": "258:16"
     },
     {
       "Name": "Ferarry",
       "Steam": "76561199828130632",
       "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "wsnbb",
-      "Steam": "76561199244749873",
-      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -52,20 +46,14 @@
     {
       "Name": "sexually.lol",
       "Steam": "76561199809436143",
-      "Score": 14,
-      "Time": "242:24"
+      "Score": 16,
+      "Time": "244:24"
     },
     {
       "Name": "alec",
       "Steam": "76561199499013499",
-      "Score": 21,
-      "Time": "35:53"
-    },
-    {
-      "Name": "Kanaa",
-      "Steam": "76561199365905587",
-      "Score": 70,
-      "Time": "21:27"
+      "Score": 23,
+      "Time": "37:53"
     }
   ]
 }
