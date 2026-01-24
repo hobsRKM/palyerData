@@ -1,29 +1,23 @@
 {
-  "Time": "2026-01-24T03:26:23.4466408Z",
+  "Time": "2026-01-24T03:28:23.4447046Z",
   "Players": [
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 6,
-      "Time": "03:06"
+      "Score": 12,
+      "Time": "05:06"
     },
     {
       "Name": "xilo.dll",
       "Steam": "76561199682659428",
-      "Score": 16,
-      "Time": "08:48"
+      "Score": 24,
+      "Time": "10:48"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 31,
-      "Time": "32:19"
-    },
-    {
-      "Name": "La Thiên Hành",
-      "Steam": "76561198766355307",
-      "Score": 29,
-      "Time": "35:28"
+      "Score": 33,
+      "Time": "34:19"
     },
     {
       "Name": "JxstWink",
@@ -34,26 +28,32 @@
     {
       "Name": "Aime-moi la peau beige",
       "Steam": "76561198750080629",
-      "Score": 18,
-      "Time": "04:20"
+      "Score": 26,
+      "Time": "06:20"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 8,
-      "Time": "13:34"
+      "Score": 14,
+      "Time": "15:34"
     },
     {
       "Name": "Summer 美国人",
       "Steam": "76561198029031056",
-      "Score": 21,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "plimpus",
       "Steam": "76561198001746934",
-      "Score": 9,
-      "Time": "02:41"
+      "Score": 13,
+      "Time": "04:41"
+    },
+    {
+      "Name": "WeSmokeAlot",
+      "Steam": "76561198751727077",
+      "Score": 0,
+      "Time": "01:21"
     }
   ]
 }
