@@ -1,10 +1,10 @@
 {
-  "Time": "2026-01-24T22:06:29.2995191Z",
+  "Time": "2026-01-24T22:08:29.2910507Z",
   "Players": [
     {
       "Name": "Flamii",
       "Steam": "76561198366691450",
-      "Score": 40,
+      "Score": 54,
       "Time": "??:??"
     },
     {
@@ -16,14 +16,20 @@
     {
       "Name": "Trav",
       "Steam": "76561199471217940",
-      "Score": 39,
-      "Time": "11:48"
+      "Score": 53,
+      "Time": "13:48"
     },
     {
       "Name": "egor",
       "Steam": "76561198745960064",
       "Score": 0,
-      "Time": "00:29"
+      "Time": "02:29"
+    },
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 0,
+      "Time": "00:52"
     },
     {
       "Name": "M1tko",
@@ -34,32 +40,38 @@
     {
       "Name": "spat",
       "Steam": "76561199047342216",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "szynszylek",
       "Steam": "76561199851471338",
-      "Score": 36,
-      "Time": "158:12"
+      "Score": 40,
+      "Time": "160:12"
     },
     {
       "Name": "[] neverlove []",
       "Steam": "76561199774202139",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "sexually.lol",
       "Steam": "76561199809436143",
-      "Score": 21,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "alec",
       "Steam": "76561199499013499",
       "Score": 0,
-      "Time": "83:04"
+      "Time": "85:04"
+    },
+    {
+      "Name": "cwel",
+      "Steam": "76561198745152558",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
