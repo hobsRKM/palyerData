@@ -1,23 +1,23 @@
 {
-  "Time": "2026-01-24T03:04:23.4485214Z",
+  "Time": "2026-01-24T03:06:23.4458674Z",
   "Players": [
     {
       "Name": "raf",
       "Steam": "76561198398976448",
       "Score": 0,
-      "Time": "01:15"
+      "Time": "03:15"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 14,
-      "Time": "10:19"
+      "Score": 22,
+      "Time": "12:19"
     },
     {
       "Name": "La Thiên Hành",
       "Steam": "76561198766355307",
-      "Score": 14,
-      "Time": "13:28"
+      "Score": 16,
+      "Time": "15:28"
     },
     {
       "Name": "JxstWink",
@@ -28,14 +28,20 @@
     {
       "Name": "Aime-moi la peau beige",
       "Steam": "76561198750080629",
-      "Score": 99,
+      "Score": 119,
       "Time": "??:??"
     },
     {
       "Name": "Zolex ZORD",
       "Steam": "76561199582179876",
       "Score": 0,
-      "Time": "56:25"
+      "Time": "58:25"
+    },
+    {
+      "Name": "snow",
+      "Steam": "76561198745262805",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
