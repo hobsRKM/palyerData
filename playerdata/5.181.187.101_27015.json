@@ -1,35 +1,47 @@
 {
-  "Time": "2026-01-24T12:06:24.7740613Z",
+  "Time": "2026-01-24T12:08:24.7789075Z",
   "Players": [
+    {
+      "Name": "Blank",
+      "Steam": "76561199396651185",
+      "Score": 0,
+      "Time": "40:47"
+    },
     {
       "Name": "Void",
       "Steam": "76561199364599696",
-      "Score": 69,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "cake",
       "Steam": "76561199874806273",
-      "Score": 6,
-      "Time": "23:05"
+      "Score": 14,
+      "Time": "25:05"
     },
     {
       "Name": "atro <3",
       "Steam": "76561199774812194",
       "Score": 17,
-      "Time": "11:27"
+      "Time": "13:27"
     },
     {
       "Name": "Nope2LateIDied (I Dont talk)",
       "Steam": "76561199842244548",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "$win (богатая побед",
       "Steam": "76561199886179002",
-      "Score": 24,
-      "Time": "11:59"
+      "Score": 28,
+      "Time": "13:59"
+    },
+    {
+      "Name": "erik jülich",
+      "Steam": "76561198746365964",
+      "Score": 14,
+      "Time": "00:07"
     },
     {
       "Name": "zxc?",
@@ -40,13 +52,13 @@
     {
       "Name": "real shit",
       "Steam": "76561199525508650",
-      "Score": 8,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "wollhek",
       "Steam": "76561199536216391",
-      "Score": 57,
+      "Score": 58,
       "Time": "??:??"
     }
   ]
