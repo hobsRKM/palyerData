@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-24T03:22:34.1561436Z",
+  "Time": "2026-01-24T03:24:34.1651498Z",
   "Players": [
+    {
+      "Name": "dhali",
+      "Steam": "76561198745799920",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Trav",
       "Steam": "76561199471217940",
-      "Score": 17,
-      "Time": "03:03"
+      "Score": 25,
+      "Time": "05:03"
     },
     {
       "Name": "fa \uDB40\uDC21\uDB40\uDC21",
@@ -16,25 +22,25 @@
     {
       "Name": "Turtle.Turn(6)",
       "Steam": "76561199187600654",
-      "Score": 5,
-      "Time": "03:59"
+      "Score": 17,
+      "Time": "05:59"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 12,
-      "Time": "35:13"
+      "Score": 21,
+      "Time": "37:13"
     },
     {
       "Name": "osecc",
       "Steam": "76561199231439540",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": ";pooh shiesty",
       "Steam": "76561199040449208",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
@@ -46,8 +52,8 @@
     {
       "Name": "stylisz",
       "Steam": "76561199683040816",
-      "Score": 51,
-      "Time": "08:38"
+      "Score": 65,
+      "Time": "10:38"
     }
   ]
 }
