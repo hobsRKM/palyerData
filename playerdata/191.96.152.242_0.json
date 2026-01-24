@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-24T03:16:23.4398464Z",
+  "Time": "2026-01-24T03:18:23.4452422Z",
   "Players": [
+    {
+      "Name": "xilo.dll",
+      "Steam": "76561199682659428",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 2,
-      "Time": "22:19"
+      "Score": 8,
+      "Time": "24:19"
     },
     {
       "Name": "La Thiên Hành",
       "Steam": "76561198766355307",
-      "Score": 0,
-      "Time": "25:28"
+      "Score": 10,
+      "Time": "27:28"
     },
     {
       "Name": "JxstWink",
       "Steam": "76561198970577013",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 3,
-      "Time": "03:34"
+      "Score": 9,
+      "Time": "05:34"
     },
     {
       "Name": "Summer 美国人",
       "Steam": "76561198029031056",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
