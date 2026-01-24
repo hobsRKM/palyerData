@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-24T23:12:29.8996175Z",
+  "Time": "2026-01-24T23:14:29.9937194Z",
   "Players": [
+    {
+      "Name": "DZ",
+      "Steam": "76561198750989548",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "apathetic conclusioni",
       "Steam": "76561199679982159",
-      "Score": 76,
-      "Time": "136:10"
+      "Score": 82,
+      "Time": "138:10"
     },
     {
       "Name": "\"'",
@@ -16,43 +22,49 @@
     {
       "Name": "boom",
       "Steam": "76561198744496932",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "tymo--",
       "Steam": "76561199425592793",
-      "Score": 31,
-      "Time": "05:27"
+      "Score": 43,
+      "Time": "07:27"
     },
     {
       "Name": "slow",
       "Steam": "76561198352987785",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "egor",
       "Steam": "76561198745960064",
       "Score": 0,
-      "Time": "66:30"
+      "Time": "68:30"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 76,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "fuh nga's",
       "Steam": "76561199089645924",
       "Score": 6,
-      "Time": "21:42"
+      "Time": "23:43"
     },
     {
       "Name": "benelpsycho",
       "Steam": "76561198152345219",
-      "Score": 5,
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Termopan",
+      "Steam": "76561198749090480",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -64,19 +76,19 @@
     {
       "Name": "sexually.lol",
       "Steam": "76561199809436143",
-      "Score": 21,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 4,
-      "Time": "13:25"
+      "Score": 8,
+      "Time": "15:25"
     },
     {
       "Name": "Andrei",
       "Steam": "76561199699257542",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
