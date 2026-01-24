@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-24T13:06:24.7726673Z",
+  "Time": "2026-01-24T13:08:24.7689731Z",
   "Players": [
+    {
+      "Name": "x",
+      "Steam": "76561198746991706",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "dexik266",
       "Steam": "76561198745473520",
@@ -16,50 +22,50 @@
     {
       "Name": "jagharenhagelbössaiminkällare",
       "Steam": "76561198791202815",
-      "Score": 59,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Waynee",
       "Steam": "76561199139273459",
-      "Score": 35,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "moon",
       "Steam": "76561198754310085",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "ciganypeek",
       "Steam": "76561199408339271",
-      "Score": 6,
-      "Time": "23:28"
+      "Score": 14,
+      "Time": "25:28"
     },
     {
       "Name": "rain",
       "Steam": "76561199866887764",
-      "Score": 59,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "Mr. Penis",
       "Steam": "76561198788157791",
-      "Score": 66,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "Ibra TV",
       "Steam": "76561199498192347",
-      "Score": 32,
-      "Time": "23:45"
+      "Score": 37,
+      "Time": "25:45"
     },
     {
       "Name": "KREED",
       "Steam": "76561199890749463",
-      "Score": 18,
-      "Time": "61:36"
+      "Score": 20,
+      "Time": "63:36"
     }
   ]
 }
