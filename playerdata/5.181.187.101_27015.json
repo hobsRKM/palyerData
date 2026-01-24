@@ -1,4 +1,47 @@
 {
-  "Time": "2026-01-24T01:23:59.0747633Z",
-  "Players": []
+  "Time": "2026-01-24T01:24:14.4174234Z",
+  "Players": [
+    {
+      "Name": "SW",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "683:21"
+    },
+    {
+      "Name": "sedat artemis",
+      "Steam": "76561198780646846",
+      "Score": 6,
+      "Time": "18:27"
+    },
+    {
+      "Name": "mobbyn",
+      "Steam": "76561198989879887",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mozart2k",
+      "Steam": "76561199835812907",
+      "Score": 34,
+      "Time": "78:25"
+    },
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 14,
+      "Time": "500:16"
+    },
+    {
+      "Name": "sawyer.00",
+      "Steam": "76561198762446157",
+      "Score": 5,
+      "Time": "601:58"
+    },
+    {
+      "Name": "Trav",
+      "Steam": "76561199471217940",
+      "Score": 2,
+      "Time": "26:30"
+    }
+  ]
 }
