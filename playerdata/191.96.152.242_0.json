@@ -1,40 +1,46 @@
 {
-  "Time": "2026-01-24T02:02:23.4406378Z",
+  "Time": "2026-01-24T02:04:23.4543067Z",
   "Players": [
+    {
+      "Name": "raf",
+      "Steam": "76561198398976448",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "La Thiên Hành",
       "Steam": "76561198766355307",
-      "Score": 8,
-      "Time": "05:34"
+      "Score": 1,
+      "Time": "07:34"
     },
     {
       "Name": "Gamebot2",
       "Steam": "76561198874611168",
-      "Score": 58,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "CУĒŢỢЛǾГ",
       "Steam": "76561199531695282",
-      "Score": 53,
-      "Time": "18:42"
+      "Score": 61,
+      "Time": "20:42"
     },
     {
       "Name": "fashion #fuckallugot",
       "Steam": "76561198750276290",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Buff X Sam",
       "Steam": "76561199285740136",
       "Score": 20,
-      "Time": "08:38"
+      "Time": "10:38"
     },
     {
       "Name": "gi october 19th",
       "Steam": "76561198782084625",
-      "Score": 42,
+      "Score": 45,
       "Time": "??:??"
     }
   ]
