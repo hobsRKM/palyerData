@@ -1,28 +1,40 @@
 {
-  "Time": "2026-01-24T23:11:09.5127169Z",
+  "Time": "2026-01-24T23:13:09.5135522Z",
   "Players": [
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 0,
+      "Time": "00:15"
+    },
     {
       "Name": "Endernah",
       "Steam": "76561199245175321",
-      "Score": 41,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 92,
+      "Score": 98,
       "Time": "??:??"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Trey #HappyManSnacks",
       "Steam": "76561198751095579",
-      "Score": 49,
+      "Score": 53,
+      "Time": "??:??"
+    },
+    {
+      "Name": "epstein had aura",
+      "Steam": "76561199525552573",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
