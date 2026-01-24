@@ -1,11 +1,11 @@
 {
-  "Time": "2026-01-24T23:55:56.1046473Z",
+  "Time": "2026-01-24T23:57:56.0911454Z",
   "Players": [
     {
       "Name": "SW",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "542:06"
+      "Time": "544:06"
     },
     {
       "Name": "egor",
@@ -16,26 +16,32 @@
     {
       "Name": "deafeningpig1104",
       "Steam": "76561199393952327",
-      "Score": 3,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "samu",
+      "Steam": "76561199580107149",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "whm9cmqlr1",
       "Steam": "76561198745711763",
-      "Score": 15,
-      "Time": "301:44"
+      "Score": 21,
+      "Time": "303:44"
     },
     {
       "Name": "Pingvinhik",
       "Steam": "76561199652423052",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Turtle.Turn(6)",
       "Steam": "76561199187600654",
-      "Score": 52,
-      "Time": "420:00"
+      "Score": 63,
+      "Time": "422:00"
     }
   ]
 }
