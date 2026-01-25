@@ -1,71 +1,77 @@
 {
-  "Time": "2026-01-25T04:21:09.5155069Z",
+  "Time": "2026-01-25T04:23:09.5108522Z",
   "Players": [
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 26,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MK-47",
+      "Steam": "76561199817784432",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "KGB Thomas Shelby",
       "Steam": "76561199849830316",
-      "Score": 1,
-      "Time": "01:24"
+      "Score": 0,
+      "Time": "03:24"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 83,
-      "Time": "57:41"
+      "Score": 0,
+      "Time": "59:41"
     },
     {
       "Name": "pop",
       "Steam": "76561198984943721",
-      "Score": 11,
-      "Time": "07:48"
+      "Score": 0,
+      "Time": "09:48"
     },
     {
       "Name": "ana",
       "Steam": "76561199841252574",
-      "Score": 75,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "shoe-kun",
       "Steam": "76561199879696872",
-      "Score": 73,
-      "Time": "38:39"
+      "Score": 0,
+      "Time": "40:39"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 34,
-      "Time": "04:50"
+      "Score": 0,
+      "Time": "06:50"
     },
     {
       "Name": "st",
       "Steam": "76561198750080629",
-      "Score": 65,
-      "Time": "20:12"
+      "Score": 0,
+      "Time": "22:12"
     },
     {
-      "Name": "fatalit im crine",
+      "Name": "im crine",
       "Steam": "76561198765221048",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 40,
-      "Time": "54:16"
+      "Score": 0,
+      "Time": "56:16"
     },
     {
       "Name": "Aenesidemus",
       "Steam": "76561199043213580",
-      "Score": 42,
-      "Time": "202:17"
+      "Score": 0,
+      "Time": "204:17"
     }
   ]
 }
