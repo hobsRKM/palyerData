@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-25T07:57:09.5053623Z",
+  "Time": "2026-01-25T07:59:09.5085628Z",
   "Players": [
     {
       "Name": "ageneote",
       "Steam": "76561198849284665",
-      "Score": 46,
+      "Score": 53,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bleeod",
+      "Steam": "76561198756200396",
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "xXxrobinatorXxx",
       "Steam": "76561199868067319",
-      "Score": 29,
-      "Time": "79:47"
+      "Score": 0,
+      "Time": "81:47"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 25,
-      "Time": "86:26"
+      "Score": 27,
+      "Time": "88:26"
     },
     {
-      "Name": "give skeet i october 19th",
+      "Name": "giv october 19th",
       "Steam": "76561198782084625",
-      "Score": 31,
-      "Time": "305:03"
+      "Score": 33,
+      "Time": "307:03"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 23,
-      "Time": "51:36"
+      "Score": 40,
+      "Time": "53:36"
     },
     {
       "Name": "Dylsshop",
@@ -47,13 +53,19 @@
       "Name": "Sbeve",
       "Steam": "76561199028723655",
       "Score": 4,
-      "Time": "53:35"
+      "Time": "55:35"
+    },
+    {
+      "Name": "ana",
+      "Steam": "76561199841252574",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "pumpdotfun",
       "Steam": "76561199660418998",
-      "Score": 16,
-      "Time": "405:02"
+      "Score": 19,
+      "Time": "407:02"
     }
   ]
 }
