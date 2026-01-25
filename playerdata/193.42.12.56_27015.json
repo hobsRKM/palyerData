@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-25T23:27:56.479512Z",
+  "Time": "2026-01-25T23:29:56.476335Z",
   "Players": [
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 6,
+      "Time": "01:31"
+    },
     {
       "Name": "Mike Oxlong",
       "Steam": "76561198749154292",
@@ -10,7 +16,7 @@
     {
       "Name": "valkanow",
       "Steam": "76561198747479959",
-      "Score": 34,
+      "Score": 42,
       "Time": "??:??"
     },
     {
@@ -28,7 +34,13 @@
     {
       "Name": "Luger",
       "Steam": "76561198751216667",
-      "Score": 32,
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bankroll.su alpha members 53",
+      "Steam": "76561199010254074",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
