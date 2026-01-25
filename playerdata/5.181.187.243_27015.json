@@ -1,10 +1,22 @@
 {
-  "Time": "2026-01-25T16:46:21.6112288Z",
+  "Time": "2026-01-25T16:48:21.6212168Z",
   "Players": [
+    {
+      "Name": "Fatality user",
+      "Steam": "76561198745053325",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fronteN",
+      "Steam": "76561199818931039",
+      "Score": 12,
+      "Time": "01:42"
+    },
     {
       "Name": "Александр Шмидт",
       "Steam": "76561198780596309",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     },
     {
@@ -16,26 +28,26 @@
     {
       "Name": "im not killing lol#CASEHUG",
       "Steam": "76561199151609154",
-      "Score": 21,
-      "Time": "44:59"
+      "Score": 25,
+      "Time": "46:59"
     },
     {
       "Name": "kkkkkkkkkk",
       "Steam": "76561199040449208",
-      "Score": 23,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Baum",
       "Steam": "76561199071665991",
-      "Score": 23,
-      "Time": "14:10"
+      "Score": 26,
+      "Time": "16:10"
     },
     {
       "Name": "Moris",
       "Steam": "76561199858395904",
-      "Score": 20,
-      "Time": "159:18"
+      "Score": 28,
+      "Time": "161:18"
     },
     {
       "Name": "\"'",
@@ -46,8 +58,8 @@
     {
       "Name": "valerio",
       "Steam": "76561199090946517",
-      "Score": 24,
-      "Time": "08:13"
+      "Score": 34,
+      "Time": "10:13"
     }
   ]
 }
