@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-25T18:18:20.1370256Z",
+  "Time": "2026-01-25T18:20:20.1260655Z",
   "Players": [
     {
       "Name": "Player 1",
@@ -10,7 +10,7 @@
     {
       "Name": "silent",
       "Steam": "76561199002053532",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -20,15 +20,27 @@
       "Time": "??:??"
     },
     {
+      "Name": "guerra",
+      "Steam": "76561199375778459",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "swin",
+      "Steam": "76561198752414358",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
       "Name": "⁹⁹⁹drp1y",
       "Steam": "76561199885893585",
-      "Score": 38,
-      "Time": "13:38"
+      "Score": 40,
+      "Time": "15:38"
     },
     {
       "Name": "OMG",
       "Steam": "76561198782604078",
-      "Score": 39,
+      "Score": 41,
       "Time": "??:??"
     },
     {
@@ -40,7 +52,7 @@
     {
       "Name": "V6",
       "Steam": "76561198744415997",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -52,25 +64,25 @@
     {
       "Name": ";unbindall;m_yaw inf;quit;",
       "Steam": "76561199819655846",
-      "Score": 7,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Lezajsky",
       "Steam": "76561198994915093",
-      "Score": 36,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "WE WIN NO CHALLENGE",
       "Steam": "76561199812722796",
-      "Score": 35,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "thrasher",
       "Steam": "76561199824171461",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
