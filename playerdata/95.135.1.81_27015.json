@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-25T14:24:23.6566949Z",
+  "Time": "2026-01-25T14:26:23.6534766Z",
   "Players": [
     {
       "Name": "SW",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "358:38"
+      "Time": "360:38"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 31,
-      "Time": "11:13"
+      "Score": 33,
+      "Time": "13:13"
+    },
+    {
+      "Name": "wild wiggler",
+      "Steam": "76561199227067001",
+      "Score": 0,
+      "Time": "01:00"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 56,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "GESHTALT",
       "Steam": "76561198317554443",
-      "Score": 27,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
-      "Score": 1,
-      "Time": "29:30"
+      "Score": 2,
+      "Time": "31:30"
     },
     {
       "Name": "wc372290",
@@ -40,14 +46,14 @@
     {
       "Name": "Trav",
       "Steam": "76561199471217940",
-      "Score": 22,
-      "Time": "14:21"
+      "Score": 32,
+      "Time": "16:21"
     },
     {
       "Name": "!sanddu",
       "Steam": "76561198835474175",
-      "Score": 2,
-      "Time": "02:07"
+      "Score": 4,
+      "Time": "04:07"
     },
     {
       "Name": "aether",
@@ -58,14 +64,20 @@
     {
       "Name": "silent",
       "Steam": "76561199002053532",
-      "Score": 16,
-      "Time": "134:04"
+      "Score": 21,
+      "Time": "136:04"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
+      "Score": 8,
+      "Time": "19:45"
+    },
+    {
+      "Name": "Kardos Cigány",
+      "Steam": "76561198800976872",
       "Score": 0,
-      "Time": "17:45"
+      "Time": "53:01"
     }
   ]
 }
