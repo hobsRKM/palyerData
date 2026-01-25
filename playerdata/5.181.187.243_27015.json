@@ -1,29 +1,29 @@
 {
-  "Time": "2026-01-25T13:22:21.6150621Z",
+  "Time": "2026-01-25T13:24:21.6117809Z",
   "Players": [
+    {
+      "Name": "Nixware the best",
+      "Steam": "76561199868888614",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Крутой пацан",
       "Steam": "76561198744633757",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Smurf Punisc",
       "Steam": "76561198964475693",
-      "Score": 47,
-      "Time": "??:??"
-    },
-    {
-      "Name": "OGSimple05",
-      "Steam": "76561198746843938",
-      "Score": 20,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "hertramir",
       "Steam": "76561198746584487",
-      "Score": 39,
-      "Time": "148:09"
+      "Score": 43,
+      "Time": "150:09"
     }
   ]
 }
