@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-25T19:50:23.6599856Z",
+  "Time": "2026-01-25T19:52:23.6504365Z",
   "Players": [
     {
       "Name": "SW",
@@ -8,58 +8,70 @@
       "Time": "??:??"
     },
     {
+      "Name": "Carlos",
+      "Steam": "76561199473263715",
+      "Score": 0,
+      "Time": "296:35"
+    },
+    {
       "Name": "Ibra TV",
       "Steam": "76561199498192347",
-      "Score": 6,
-      "Time": "60:49"
+      "Score": 2,
+      "Time": "62:49"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 15,
-      "Time": "16:30"
+      "Score": 21,
+      "Time": "18:30"
     },
     {
       "Name": "GESHTALT",
       "Steam": "76561198317554443",
-      "Score": 2,
-      "Time": "38:22"
+      "Score": 0,
+      "Time": "40:22"
     },
     {
       "Name": "Flamii",
       "Steam": "76561198366691450",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "ulguberg",
       "Steam": "76561198871985269",
-      "Score": 14,
-      "Time": "154:49"
+      "Score": 23,
+      "Time": "156:49"
+    },
+    {
+      "Name": "naal",
+      "Steam": "76561199584136281",
+      "Score": 0,
+      "Time": "162:11"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 12,
-      "Time": "14:10"
+      "Score": 19,
+      "Time": "16:10"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 0,
-      "Time": "03:07"
+      "Score": 2,
+      "Time": "05:07"
     },
     {
       "Name": "航空交通管制",
       "Steam": "76561199011662523",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "bubber",
       "Steam": "76561199053195051",
-      "Score": 12,
-      "Time": "11:19"
+      "Score": 0,
+      "Time": "13:19"
     }
   ]
 }
