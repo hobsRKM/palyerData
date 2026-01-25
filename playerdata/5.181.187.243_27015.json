@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-25T17:30:21.6074624Z",
+  "Time": "2026-01-25T17:32:21.6258879Z",
   "Players": [
     {
       "Name": "Lezajsky",
       "Steam": "76561198994915093",
-      "Score": 37,
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Exactey",
+      "Steam": "76561198308584524",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Pitbull",
       "Steam": "76561199260308107",
-      "Score": 26,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "sexually.lol",
       "Steam": "76561199809436143",
-      "Score": 27,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Baum",
       "Steam": "76561199071665991",
-      "Score": 12,
-      "Time": "58:10"
+      "Score": 6,
+      "Time": "60:10"
     },
     {
       "Name": "\"'",
@@ -34,20 +40,32 @@
     {
       "Name": "zwwr77",
       "Steam": "76561198744640977",
-      "Score": 12,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "uixhc7ha",
+      "Steam": "76561198750581724",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Алексей Навальны",
       "Steam": "76561198744962751",
-      "Score": 49,
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Robot Cawk",
+      "Steam": "76561199848482186",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "s.atr.eop.a.ls.en",
       "Steam": "76561198745746564",
-      "Score": 16,
-      "Time": "352:51"
+      "Score": 18,
+      "Time": "354:51"
     }
   ]
 }
