@@ -1,41 +1,59 @@
 {
-  "Time": "2026-01-25T05:13:09.5109193Z",
+  "Time": "2026-01-25T05:15:09.5125712Z",
   "Players": [
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 81,
+      "Score": 87,
       "Time": "??:??"
+    },
+    {
+      "Name": "AlwaysWin",
+      "Steam": "76561198746551376",
+      "Score": 0,
+      "Time": "00:20"
     },
     {
       "Name": "KGB Thomas Shelby",
       "Steam": "76561199849830316",
-      "Score": 41,
-      "Time": "53:24"
+      "Score": 49,
+      "Time": "55:24"
     },
     {
       "Name": "mobset",
       "Steam": "76561199220993591",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
+      "Score": 2,
+      "Time": "02:02"
+    },
+    {
+      "Name": "Shux",
+      "Steam": "76561199170636130",
       "Score": 0,
-      "Time": "00:02"
+      "Time": "229:06"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
       "Score": 26,
-      "Time": "56:50"
+      "Time": "58:50"
+    },
+    {
+      "Name": "st",
+      "Steam": "76561198750080629",
+      "Score": 0,
+      "Time": "01:03"
     }
   ]
 }
