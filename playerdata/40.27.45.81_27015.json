@@ -1,17 +1,17 @@
 {
-  "Time": "2026-01-25T05:25:09.5075594Z",
+  "Time": "2026-01-25T05:27:09.5112135Z",
   "Players": [
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 29,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "AlwaysWin",
       "Steam": "76561198746551376",
       "Score": 20,
-      "Time": "10:20"
+      "Time": "12:20"
     },
     {
       "Name": "mobset",
@@ -22,20 +22,26 @@
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 23,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Diaconescu Lucas",
       "Steam": "76561199667028575",
-      "Score": 16,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "kurtos",
       "Steam": "76561198764739930",
-      "Score": 3,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "raf",
+      "Steam": "76561198398976448",
+      "Score": 12,
+      "Time": "02:02"
     }
   ]
 }
