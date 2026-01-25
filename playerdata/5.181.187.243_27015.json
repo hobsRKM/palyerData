@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-25T17:20:21.6184614Z",
+  "Time": "2026-01-25T17:22:21.6149586Z",
   "Players": [
+    {
+      "Name": "Lezajsky",
+      "Steam": "76561198994915093",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Pitbull",
       "Steam": "76561199260308107",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561198770779132",
-      "Score": 35,
-      "Time": "103:11"
+      "Score": 36,
+      "Time": "105:11"
     },
     {
       "Name": "im not killing lol#CASEHUG",
       "Steam": "76561199151609154",
-      "Score": 20,
-      "Time": "78:59"
+      "Score": 24,
+      "Time": "80:59"
     },
     {
       "Name": "sexually.lol",
       "Steam": "76561199809436143",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Baum",
       "Steam": "76561199071665991",
-      "Score": 7,
-      "Time": "48:10"
+      "Score": 9,
+      "Time": "50:10"
     },
     {
       "Name": "Miku-Lover",
       "Steam": "76561199820396045",
-      "Score": 6,
-      "Time": "05:36"
+      "Score": 13,
+      "Time": "07:36"
     },
     {
       "Name": "\"'",
@@ -44,22 +50,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "zwwr77",
+      "Steam": "76561198744640977",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "hate ɴɪɢɢᴇʀꜱ",
       "Steam": "76561198744924265",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Алексей Навальны",
       "Steam": "76561198744962751",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "s.atr.eop.a.ls.en",
+      "Steam": "76561198745746564",
+      "Score": 0,
+      "Time": "344:51"
     },
     {
       "Name": "123",
       "Steam": "76561199572737983",
       "Score": 0,
-      "Time": "00:17"
+      "Time": "02:17"
     }
   ]
 }
