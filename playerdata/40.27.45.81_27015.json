@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-25T03:39:09.5198111Z",
+  "Time": "2026-01-25T03:41:09.5164075Z",
   "Players": [
     {
       "Name": "p1mple",
       "Steam": "76561198746568979",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
+    },
+    {
+      "Name": "..",
+      "Steam": "76561198747398066",
+      "Score": 0,
+      "Time": "00:32"
     },
     {
       "Name": "Enigma V2.1 HVH",
@@ -14,34 +20,34 @@
       "Time": "??:??"
     },
     {
-      "Name": "Robot Cawk",
-      "Steam": "76561199848482186",
-      "Score": 0,
-      "Time": "00:49"
-    },
-    {
       "Name": "AlwaysWin",
       "Steam": "76561198746551376",
-      "Score": 20,
-      "Time": "12:50"
+      "Score": 24,
+      "Time": "14:50"
     },
     {
       "Name": "KGB Thomas Shelby",
       "Steam": "76561199849830316",
-      "Score": 2,
-      "Time": "55:25"
+      "Score": 4,
+      "Time": "57:25"
+    },
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "00:16"
     },
     {
       "Name": "The grink",
       "Steam": "76561198750546700",
-      "Score": 17,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 58,
-      "Time": "15:41"
+      "Score": 70,
+      "Time": "17:41"
     },
     {
       "Name": "\"'",
@@ -52,44 +58,50 @@
     {
       "Name": "a1most",
       "Steam": "76561199622150117",
-      "Score": 0,
-      "Time": "05:06"
+      "Score": 2,
+      "Time": "07:06"
     },
     {
       "Name": "pop",
       "Steam": "76561198984943721",
-      "Score": 91,
-      "Time": "36:56"
+      "Score": 95,
+      "Time": "38:56"
     },
     {
       "Name": "ana",
       "Steam": "76561199841252574",
-      "Score": 86,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
       "Score": 59,
-      "Time": "224:23"
+      "Time": "226:23"
     },
     {
       "Name": "st",
       "Steam": "76561198750080629",
-      "Score": 66,
-      "Time": "103:32"
+      "Score": 68,
+      "Time": "105:32"
     },
     {
       "Name": "no changin me",
       "Steam": "76561199878413811",
-      "Score": 35,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 34,
-      "Time": "12:16"
+      "Score": 37,
+      "Time": "14:16"
+    },
+    {
+      "Name": "mommy?",
+      "Steam": "76561199466648628",
+      "Score": 0,
+      "Time": "173:10"
     }
   ]
 }
