@@ -1,41 +1,35 @@
 {
-  "Time": "2026-01-25T04:49:09.5167352Z",
+  "Time": "2026-01-25T04:51:09.50604Z",
   "Players": [
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 65,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "KGB Thomas Shelby",
       "Steam": "76561199849830316",
-      "Score": 35,
-      "Time": "29:24"
+      "Score": 4,
+      "Time": "31:24"
     },
     {
       "Name": "pop",
       "Steam": "76561198984943721",
-      "Score": 20,
-      "Time": "35:48"
-    },
-    {
-      "Name": "ana",
-      "Steam": "76561199841252574",
-      "Score": 68,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "37:48"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 62,
-      "Time": "32:50"
+      "Score": 0,
+      "Time": "34:50"
     },
     {
       "Name": "st",
       "Steam": "76561198750080629",
-      "Score": 38,
-      "Time": "13:40"
+      "Score": 2,
+      "Time": "15:40"
     }
   ]
 }
