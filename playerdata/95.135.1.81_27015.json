@@ -1,47 +1,53 @@
 {
-  "Time": "2026-01-25T13:32:23.6564077Z",
+  "Time": "2026-01-25T13:34:23.6496006Z",
   "Players": [
     {
       "Name": "SW",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "306:38"
+      "Time": "308:38"
     },
     {
       "Name": "Marty",
       "Steam": "76561198216843963",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 8,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "lukáš",
       "Steam": "76561198868632842",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "robbiehenry1920",
+      "Steam": "76561199825577810",
+      "Score": 0,
+      "Time": "71:52"
     },
     {
       "Name": ".",
       "Steam": "76561198770779132",
-      "Score": 5,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "jaw",
       "Steam": "76561198973210903",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "silent",
       "Steam": "76561199002053532",
-      "Score": 14,
-      "Time": "82:04"
+      "Score": 27,
+      "Time": "84:04"
     },
     {
       "Name": "George SKINS",
@@ -52,37 +58,19 @@
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 8,
-      "Time": "08:46"
-    },
-    {
-      "Name": "Carlos",
-      "Steam": "76561199473263715",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 11,
+      "Time": "10:46"
     },
     {
       "Name": "⁹⁹⁹drp1y",
       "Steam": "76561199885893585",
-      "Score": 1,
-      "Time": "27:02"
-    },
-    {
-      "Name": "mafix",
-      "Steam": "76561199171127041",
-      "Score": 4,
-      "Time": "35:45"
-    },
-    {
-      "Name": "shaormica",
-      "Steam": "76561199830477562",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 11,
+      "Time": "29:02"
     },
     {
       "Name": "☆\uD835\uDC69\uD835\uDC8D\uD835\uDC82\uD835\uDC84\uD835\uDC8C\uD835\uDC6E\uD835\uDC89\uD835\uDC90\uD835\uDC94\uD835\uDC7B☆",
       "Steam": "76561198745830152",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
