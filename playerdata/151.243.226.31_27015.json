@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-25T06:06:34.0415464Z",
+  "Time": "2026-01-25T06:08:34.0463786Z",
   "Players": [
+    {
+      "Name": "K03",
+      "Steam": "76561199788609972",
+      "Score": 36,
+      "Time": "00:35"
+    },
     {
       "Name": "\uD835\uDD44\uD835\uDD5A\uD835\uDD64\uD835\uDD65",
       "Steam": "76561199806910486",
-      "Score": 0,
-      "Time": "39:16"
+      "Score": 5,
+      "Time": "41:16"
     },
     {
       "Name": "peksta",
       "Steam": "76561198755840381",
-      "Score": 22,
-      "Time": "39:35"
+      "Score": 29,
+      "Time": "41:35"
     },
     {
       "Name": "Mr PeAce™ ♕",
       "Steam": "76561198294617498",
-      "Score": 9,
-      "Time": "06:38"
+      "Score": 17,
+      "Time": "08:38"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 34,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 34,
+      "Score": 44,
       "Time": "??:??"
     }
   ]
