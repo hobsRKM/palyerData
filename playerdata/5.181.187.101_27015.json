@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-25T18:56:20.1365246Z",
+  "Time": "2026-01-25T18:58:20.1353767Z",
   "Players": [
     {
       "Name": "shadowtopq",
       "Steam": "76561198744674893",
-      "Score": 6,
-      "Time": "17:49"
+      "Score": 7,
+      "Time": "19:49"
     },
     {
       "Name": "FridaPuso",
       "Steam": "76561198835773656",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Molodoy",
+      "Steam": "76561199580195912",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "OMG",
       "Steam": "76561198782604078",
-      "Score": 18,
-      "Time": "07:01"
+      "Score": 32,
+      "Time": "09:01"
     }
   ]
 }
