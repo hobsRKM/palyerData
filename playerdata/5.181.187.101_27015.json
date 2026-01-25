@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-25T20:30:20.1352838Z",
+  "Time": "2026-01-25T20:32:20.133442Z",
   "Players": [
+    {
+      "Name": "Fusyon",
+      "Steam": "76561198763321837",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Przemek #nevervac",
       "Steam": "76561199758079435",
-      "Score": 19,
-      "Time": "08:06"
+      "Score": 27,
+      "Time": "10:06"
     },
     {
       "Name": "Fake Kult",
       "Steam": "76561198783170670",
-      "Score": 33,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "thrasher",
       "Steam": "76561199824171461",
-      "Score": 41,
-      "Time": "26:48"
+      "Score": 47,
+      "Time": "28:48"
     }
   ]
 }
