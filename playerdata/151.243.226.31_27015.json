@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-26T14:57:50.1545136Z",
+  "Time": "2026-01-26T14:59:50.1585429Z",
   "Players": [
     {
       "Name": "Tetris",
       "Steam": "76561198262088029",
-      "Score": 20,
-      "Time": "44:41"
+      "Score": 24,
+      "Time": "46:41"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 24,
-      "Time": "14:18"
+      "Score": 28,
+      "Time": "16:18"
     },
     {
       "Name": "MoMo",
       "Steam": "76561197974310160",
       "Score": 4,
-      "Time": "07:39"
+      "Time": "09:39"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 16,
-      "Time": "36:33"
+      "Score": 18,
+      "Time": "38:33"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
       "Score": 9,
-      "Time": "38:05"
+      "Time": "40:05"
+    },
+    {
+      "Name": "jimmysandppaper",
+      "Steam": "76561198762920972",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
