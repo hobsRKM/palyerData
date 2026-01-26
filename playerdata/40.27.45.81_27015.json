@@ -1,22 +1,22 @@
 {
-  "Time": "2026-01-26T06:57:10.3383278Z",
+  "Time": "2026-01-26T06:59:10.345439Z",
   "Players": [
     {
       "Name": "raf",
       "Steam": "76561198398976448",
       "Score": 12,
-      "Time": "08:18"
+      "Time": "10:18"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "bound for the floor",
       "Steam": "76561199880717233",
-      "Score": 13,
+      "Score": 18,
       "Time": "??:??"
     },
     {
@@ -34,25 +34,19 @@
     {
       "Name": "Cortez",
       "Steam": "76561198750080629",
-      "Score": 27,
-      "Time": "38:00"
-    },
-    {
-      "Name": "ana",
-      "Steam": "76561199841252574",
-      "Score": 45,
-      "Time": "18:06"
+      "Score": 37,
+      "Time": "40:00"
     },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 72,
-      "Time": "46:33"
+      "Score": 77,
+      "Time": "48:33"
     },
     {
       "Name": "loc",
       "Steam": "76561199817152901",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
