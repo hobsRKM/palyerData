@@ -1,35 +1,35 @@
 {
-  "Time": "2026-01-26T22:05:09.5216432Z",
+  "Time": "2026-01-26T22:07:09.5350987Z",
   "Players": [
+    {
+      "Name": "zen",
+      "Steam": "76561198743831818",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "JewKiller",
       "Steam": "76561198747680698",
-      "Score": 36,
-      "Time": "10:31"
+      "Score": 41,
+      "Time": "12:31"
     },
     {
       "Name": "DrunkPup",
       "Steam": "76561199017304201",
-      "Score": 2,
-      "Time": "00:17"
-    },
-    {
-      "Name": "CalebIsElite",
-      "Steam": "76561199587098568",
-      "Score": 42,
-      "Time": "??:??"
+      "Score": 4,
+      "Time": "02:17"
     },
     {
       "Name": "Versatile",
       "Steam": "76561198819683930",
-      "Score": 38,
-      "Time": "25:19"
+      "Score": 48,
+      "Time": "27:19"
     },
     {
       "Name": "I AM EVIL LARP",
       "Steam": "76561198765221048",
-      "Score": 34,
-      "Time": "55:55"
+      "Score": 41,
+      "Time": "57:55"
     }
   ]
 }
