@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-26T20:05:09.5315688Z",
+  "Time": "2026-01-26T20:07:09.5260622Z",
   "Players": [
+    {
+      "Name": "icantaimshit",
+      "Steam": "76561198754891749",
+      "Score": 0,
+      "Time": "01:54"
+    },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 0,
-      "Time": "00:42"
+      "Score": 2,
+      "Time": "02:42"
     },
     {
       "Name": "tellmethatulovemebaby",
@@ -16,13 +22,13 @@
     {
       "Name": "Cortez",
       "Steam": "76561198750080629",
-      "Score": 41,
-      "Time": "32:25"
+      "Score": 55,
+      "Time": "34:25"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 25,
+      "Score": 26,
       "Time": "??:??"
     }
   ]
