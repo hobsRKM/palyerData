@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-26T14:25:50.1539541Z",
+  "Time": "2026-01-26T14:27:50.1517702Z",
   "Players": [
     {
       "Name": "Tetris",
       "Steam": "76561198262088029",
-      "Score": 15,
-      "Time": "12:41"
+      "Score": 22,
+      "Time": "14:41"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 15,
-      "Time": "04:33"
+      "Score": 19,
+      "Time": "06:33"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 14,
-      "Time": "06:05"
+      "Score": 25,
+      "Time": "08:05"
+    },
+    {
+      "Name": "mattes.jr",
+      "Steam": "76561199870902362",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
