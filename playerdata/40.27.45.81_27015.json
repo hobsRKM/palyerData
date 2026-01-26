@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-26T08:37:10.3391531Z",
+  "Time": "2026-01-26T08:39:10.3431784Z",
   "Players": [
+    {
+      "Name": "我杀死黑鬼",
+      "Steam": "76561198117980694",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -10,38 +16,38 @@
     {
       "Name": "BBQ_Dad_1978",
       "Steam": "76561198792640001",
-      "Score": 18,
-      "Time": "13:27"
+      "Score": 2,
+      "Time": "15:27"
     },
     {
       "Name": "pumpdotfun",
       "Steam": "76561199660418998",
-      "Score": 77,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 5,
-      "Time": "06:42"
+      "Score": 9,
+      "Time": "08:42"
     },
     {
-      "Name": "eter      RADICAL RACIST",
+      "Name": "ete      RADICAL RACIST",
       "Steam": "76561199870945474",
-      "Score": 44,
-      "Time": "25:02"
+      "Score": 50,
+      "Time": "27:02"
     },
     {
       "Name": "Testing Skeet",
       "Steam": "76561199880765177",
-      "Score": 21,
-      "Time": "06:24"
+      "Score": 28,
+      "Time": "08:24"
     },
     {
       "Name": "loc",
       "Steam": "76561199817152901",
-      "Score": 41,
-      "Time": "25:13"
+      "Score": 45,
+      "Time": "27:13"
     }
   ]
 }
