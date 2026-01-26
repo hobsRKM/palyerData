@@ -1,28 +1,40 @@
 {
-  "Time": "2026-01-26T21:25:36.7381345Z",
+  "Time": "2026-01-26T21:27:36.7382643Z",
   "Players": [
+    {
+      "Name": "Parked",
+      "Steam": "76561198751193965",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "awd",
       "Steam": "76561198790995419",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hyra",
+      "Steam": "76561199871897643",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "mercury",
       "Steam": "76561199891995705",
-      "Score": 26,
-      "Time": "08:00"
+      "Score": 4,
+      "Time": "10:00"
     },
     {
       "Name": "@03",
       "Steam": "76561198743235688",
-      "Score": 17,
-      "Time": "07:48"
+      "Score": 23,
+      "Time": "09:48"
     },
     {
       "Name": "nevermiss( #magicrust",
       "Steam": "76561199552050481",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
