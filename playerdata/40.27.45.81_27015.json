@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-26T22:15:09.5326524Z",
+  "Time": "2026-01-26T22:17:09.5261431Z",
   "Players": [
+    {
+      "Name": "burp :3",
+      "Steam": "76561199882461072",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "zen",
       "Steam": "76561198743831818",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "JewKiller",
       "Steam": "76561198747680698",
-      "Score": 70,
-      "Time": "20:31"
+      "Score": 80,
+      "Time": "22:31"
     },
     {
       "Name": "DrunkPup",
       "Steam": "76561199017304201",
-      "Score": 14,
-      "Time": "10:17"
+      "Score": 20,
+      "Time": "12:17"
     },
     {
       "Name": "END.",
@@ -28,8 +34,8 @@
     {
       "Name": "Versatile",
       "Steam": "76561198819683930",
-      "Score": 76,
-      "Time": "35:19"
+      "Score": 80,
+      "Time": "37:19"
     }
   ]
 }
