@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-26T04:29:10.336789Z",
+  "Time": "2026-01-26T04:31:10.3463179Z",
   "Players": [
+    {
+      "Name": "fatal",
+      "Steam": "76561199826584816",
+      "Score": 0,
+      "Time": "00:07"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -10,25 +16,25 @@
     {
       "Name": "ana",
       "Steam": "76561199841252574",
-      "Score": 18,
-      "Time": "05:21"
+      "Score": 22,
+      "Time": "07:21"
     },
     {
       "Name": "RADICAL RACIST",
       "Steam": "76561199870945474",
-      "Score": 14,
-      "Time": "09:47"
+      "Score": 18,
+      "Time": "11:47"
     },
     {
       "Name": "egirldroolspitcollector",
       "Steam": "76561198746620264",
-      "Score": 25,
-      "Time": "07:57"
+      "Score": 29,
+      "Time": "09:57"
     },
     {
       "Name": "Testing Skeet",
       "Steam": "76561199880765177",
-      "Score": 17,
+      "Score": 30,
       "Time": "??:??"
     }
   ]
