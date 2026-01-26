@@ -1,41 +1,35 @@
 {
-  "Time": "2026-01-26T13:52:50.5926609Z",
+  "Time": "2026-01-26T13:54:50.5896437Z",
   "Players": [
     {
       "Name": "SW",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "03:04"
+      "Time": "05:04"
+    },
+    {
+      "Name": "NEVERLOSER",
+      "Steam": "76561199669629352",
+      "Score": 3,
+      "Time": "200:27"
     },
     {
       "Name": "egor",
       "Steam": "76561198981983919",
-      "Score": 0,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Mr Rambo",
       "Steam": "76561199836567328",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
-    },
-    {
-      "Name": "SmíchovMoreČávo",
-      "Steam": "76561199758080398",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "guy",
-      "Steam": "76561199471182367",
-      "Score": 0,
-      "Time": "34:05"
     },
     {
       "Name": "cake",
       "Steam": "76561199874806273",
-      "Score": 0,
-      "Time": "03:02"
+      "Score": 4,
+      "Time": "05:02"
     }
   ]
 }
