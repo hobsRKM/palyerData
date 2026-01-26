@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-26T20:09:09.535588Z",
+  "Time": "2026-01-26T20:11:09.5373906Z",
   "Players": [
     {
       "Name": "white knight carl",
       "Steam": "76561199845706237",
-      "Score": 4,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nixware Ejnoyer",
+      "Steam": "76561198745274930",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "icantaimshit",
       "Steam": "76561198754891749",
-      "Score": 2,
-      "Time": "03:54"
+      "Score": 4,
+      "Time": "05:54"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 4,
-      "Time": "04:42"
+      "Score": 6,
+      "Time": "06:42"
     },
     {
       "Name": "Cortez",
       "Steam": "76561198750080629",
-      "Score": 62,
-      "Time": "36:25"
+      "Score": 74,
+      "Time": "38:25"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 35,
+      "Score": 45,
       "Time": "??:??"
     }
   ]
