@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-26T06:19:10.3492036Z",
+  "Time": "2026-01-26T06:21:10.3437589Z",
   "Players": [
+    {
+      "Name": "Robot Cawk",
+      "Steam": "76561199848482186",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -10,44 +16,44 @@
     {
       "Name": "BBQ_Dad_1978",
       "Steam": "76561198792640001",
-      "Score": 14,
-      "Time": "28:45"
+      "Score": 20,
+      "Time": "30:45"
+    },
+    {
+      "Name": "Cortez",
+      "Steam": "76561198750080629",
+      "Score": 12,
+      "Time": "02:00"
     },
     {
       "Name": "ana",
       "Steam": "76561199841252574",
-      "Score": 4,
-      "Time": "31:10"
+      "Score": 12,
+      "Time": "33:10"
     },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 23,
-      "Time": "08:33"
+      "Score": 33,
+      "Time": "10:33"
     },
     {
       "Name": "sgdrsg a feaf easg",
       "Steam": "76561198749275911",
-      "Score": 36,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "K75",
       "Steam": "76561198238300160",
-      "Score": 41,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "stephentrades0",
       "Steam": "76561198752132667",
-      "Score": 23,
-      "Time": "16:10"
-    },
-    {
-      "Name": "Jeremy lipton firtzgerald III",
-      "Steam": "76561199229453482",
-      "Score": 30,
-      "Time": "10:26"
+      "Score": 24,
+      "Time": "18:10"
     },
     {
       "Name": "silk",
@@ -64,7 +70,7 @@
     {
       "Name": "loc",
       "Steam": "76561199817152901",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
