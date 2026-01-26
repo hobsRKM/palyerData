@@ -1,29 +1,29 @@
 {
-  "Time": "2026-01-26T21:12:52.9731982Z",
+  "Time": "2026-01-26T21:14:52.9757839Z",
   "Players": [
-    {
-      "Name": "frajer",
-      "Steam": "76561198761932696",
-      "Score": 36,
-      "Time": "??:??"
-    },
     {
       "Name": "EdoRack",
       "Steam": "76561199147216868",
-      "Score": 0,
+      "Score": 12,
       "Time": "??:??"
+    },
+    {
+      "Name": "Relic",
+      "Steam": "76561198773092137",
+      "Score": 1,
+      "Time": "00:50"
     },
     {
       "Name": "Compl1cated",
       "Steam": "76561199077811359",
-      "Score": 6,
-      "Time": "04:24"
+      "Score": 11,
+      "Time": "06:24"
     },
     {
       "Name": "we gonn' leave u in the trees",
       "Steam": "76561198759254262",
-      "Score": 32,
-      "Time": "17:50"
+      "Score": 38,
+      "Time": "19:50"
     }
   ]
 }
