@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-26T20:58:52.97271Z",
+  "Time": "2026-01-26T21:00:52.9716835Z",
   "Players": [
+    {
+      "Name": "frajer",
+      "Steam": "76561198761932696",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "we gonn' leave u in the trees",
       "Steam": "76561198759254262",
-      "Score": 4,
-      "Time": "03:50"
+      "Score": 8,
+      "Time": "05:50"
     },
     {
       "Name": "0JBKr5GXu",
       "Steam": "76561198745556694",
-      "Score": 6,
-      "Time": "04:00"
+      "Score": 12,
+      "Time": "06:00"
     }
   ]
 }
