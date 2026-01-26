@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-26T13:23:50.1487119Z",
+  "Time": "2026-01-26T13:25:50.1557251Z",
   "Players": [
     {
       "Name": "Tetris",
       "Steam": "76561198262088029",
-      "Score": 3,
-      "Time": "21:09"
+      "Score": 6,
+      "Time": "23:09"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561199163976232",
+      "Score": 0,
+      "Time": "00:38"
     },
     {
       "Name": "Khazix",
       "Steam": "76561198787508138",
-      "Score": 6,
-      "Time": "04:52"
+      "Score": 8,
+      "Time": "06:52"
     },
     {
-      "Name": "ga ❤︎ Columbina ❤",
+      "Name": "games ❤︎ Columbina ❤",
       "Steam": "76561198790860703",
-      "Score": 8,
-      "Time": "06:17"
+      "Score": 14,
+      "Time": "08:17"
     }
   ]
 }
