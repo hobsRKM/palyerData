@@ -1,29 +1,41 @@
 {
-  "Time": "2026-01-26T15:09:50.1549875Z",
+  "Time": "2026-01-26T15:11:50.1507148Z",
   "Players": [
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 76,
-      "Time": "26:18"
+      "Score": 78,
+      "Time": "28:18"
+    },
+    {
+      "Name": "AltBProfen",
+      "Steam": "76561199834727236",
+      "Score": 0,
+      "Time": "01:04"
     },
     {
       "Name": "MoMo",
       "Steam": "76561197974310160",
-      "Score": 14,
-      "Time": "19:39"
+      "Score": 21,
+      "Time": "21:39"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 38,
-      "Time": "48:33"
+      "Score": 45,
+      "Time": "50:33"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 34,
-      "Time": "50:05"
+      "Score": 38,
+      "Time": "52:05"
+    },
+    {
+      "Name": "Loading...",
+      "Steam": "76561198749340141",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
