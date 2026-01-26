@@ -1,28 +1,16 @@
 {
-  "Time": "2026-01-26T08:05:10.3390702Z",
+  "Time": "2026-01-26T08:07:10.3361162Z",
   "Players": [
-    {
-      "Name": "raf",
-      "Steam": "76561198398976448",
-      "Score": 73,
-      "Time": "76:18"
-    },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 59,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Jewish Flight",
       "Steam": "76561199605056549",
-      "Score": 39,
-      "Time": "??:??"
-    },
-    {
-      "Name": "BadBoy1991",
-      "Steam": "76561199849125547",
-      "Score": 35,
+      "Score": 49,
       "Time": "??:??"
     },
     {
@@ -34,8 +22,14 @@
     {
       "Name": "pumpdotfun",
       "Steam": "76561199660418998",
-      "Score": 58,
+      "Score": 62,
       "Time": "??:??"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 6,
+      "Time": "38:25"
     }
   ]
 }
