@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-26T22:17:36.7335721Z",
+  "Time": "2026-01-26T22:19:36.7330915Z",
   "Players": [
     {
       "Name": "mercury",
       "Steam": "76561199891995705",
-      "Score": 32,
-      "Time": "60:00"
+      "Score": 42,
+      "Time": "62:00"
     },
     {
       "Name": "nevermiss( #magicrust",
       "Steam": "76561199552050481",
-      "Score": 22,
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jantorek56",
+      "Steam": "76561198743378124",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "-=DEADSHOT=-",
       "Steam": "76561199668108941",
-      "Score": 8,
-      "Time": "12:10"
+      "Score": 10,
+      "Time": "14:10"
     }
   ]
 }
