@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-26T04:21:10.3468365Z",
+  "Time": "2026-01-26T04:23:10.3451556Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,8 +10,20 @@
     {
       "Name": "RADICAL RACIST",
       "Steam": "76561199870945474",
+      "Score": 2,
+      "Time": "03:47"
+    },
+    {
+      "Name": "egirldroolspitcollector",
+      "Steam": "76561198746620264",
+      "Score": 8,
+      "Time": "01:57"
+    },
+    {
+      "Name": "Testing Skeet",
+      "Steam": "76561199880765177",
       "Score": 0,
-      "Time": "01:47"
+      "Time": "??:??"
     }
   ]
 }
