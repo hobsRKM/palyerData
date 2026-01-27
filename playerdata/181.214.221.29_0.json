@@ -1,46 +1,52 @@
 {
-  "Time": "2026-01-27T21:44:02.6247267Z",
+  "Time": "2026-01-27T21:46:02.6337576Z",
   "Players": [
+    {
+      "Name": "Plaguecheat.cc",
+      "Steam": "76561199844175645",
+      "Score": 0,
+      "Time": "01:58"
+    },
     {
       "Name": "queen",
       "Steam": "76561198744770178",
-      "Score": 67,
-      "Time": "79:31"
+      "Score": 79,
+      "Time": "81:31"
     },
     {
       "Name": "first day of fatal",
       "Steam": "76561198746558243",
-      "Score": 28,
-      "Time": "43:31"
+      "Score": 32,
+      "Time": "45:31"
     },
     {
       "Name": "jon",
       "Steam": "76561198779927030",
-      "Score": 63,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "Office",
       "Steam": "76561198751543202",
-      "Score": 7,
-      "Time": "08:38"
+      "Score": 9,
+      "Time": "10:38"
     },
     {
       "Name": "everybody. 2k22",
       "Steam": "76561199885504159",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "zss",
       "Steam": "76561199863655840",
-      "Score": 13,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "PowerPoint",
       "Steam": "76561199870212370",
-      "Score": 14,
+      "Score": 19,
       "Time": "??:??"
     },
     {
@@ -52,12 +58,18 @@
     {
       "Name": "mihai",
       "Steam": "76561197970349135",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗluvii",
       "Steam": "76561198339966370",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pqp",
+      "Steam": "76561199397291582",
       "Score": 0,
       "Time": "??:??"
     }
