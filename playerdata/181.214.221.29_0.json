@@ -1,29 +1,29 @@
 {
-  "Time": "2026-01-27T19:20:02.6342342Z",
+  "Time": "2026-01-27T19:22:02.6345Z",
   "Players": [
+    {
+      "Name": "queen",
+      "Steam": "76561198744770178",
+      "Score": 8,
+      "Time": "01:37"
+    },
     {
       "Name": "first day of fatal",
       "Steam": "76561198746558243",
       "Score": 0,
-      "Time": "45:20"
-    },
-    {
-      "Name": "t'",
-      "Steam": "76561199059830928",
-      "Score": 0,
-      "Time": "19:31"
+      "Time": "47:20"
     },
     {
       "Name": "my enemies are just an illusion",
       "Steam": "76561199628604770",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "transicaohormonal",
+      "Name": "bad luck",
       "Steam": "76561199465886792",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:45"
     }
   ]
 }
