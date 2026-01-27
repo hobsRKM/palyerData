@@ -1,11 +1,11 @@
 {
-  "Time": "2026-01-27T06:57:19.5072149Z",
+  "Time": "2026-01-27T06:59:19.5094434Z",
   "Players": [
     {
       "Name": "1",
       "Steam": "76561199031753721",
       "Score": 4,
-      "Time": "30:02"
+      "Time": "32:02"
     },
     {
       "Name": "pumpdotfun",
@@ -16,44 +16,50 @@
     {
       "Name": "m",
       "Steam": "76561198413187085",
-      "Score": 21,
-      "Time": "19:13"
+      "Score": 25,
+      "Time": "21:13"
     },
     {
       "Name": "airduck",
       "Steam": "76561198273566562",
-      "Score": 63,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 57,
-      "Time": "27:32"
+      "Score": 59,
+      "Time": "29:32"
     },
     {
       "Name": "bound for the floor",
       "Steam": "76561199880717233",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "indigo.lua",
+      "Steam": "76561199229368839",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Cortez",
       "Steam": "76561198750080629",
-      "Score": 70,
-      "Time": "33:35"
+      "Score": 83,
+      "Time": "35:35"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 18,
-      "Time": "00:06"
+      "Score": 20,
+      "Time": "02:06"
     }
   ]
 }
