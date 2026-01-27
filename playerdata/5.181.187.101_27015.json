@@ -1,4 +1,23 @@
 {
-  "Time": "2026-01-27T23:10:22.4000761Z",
-  "Players": []
+  "Time": "2026-01-27T23:11:00.5472105Z",
+  "Players": [
+    {
+      "Name": "Saphir [RUS]",
+      "Steam": "76561199397291582",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FR - MrX",
+      "Steam": "76561198783305929",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WesleyTM2.0 - power by aimware",
+      "Steam": "76561199406774307",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
