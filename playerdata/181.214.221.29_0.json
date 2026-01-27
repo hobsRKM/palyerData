@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-27T19:24:02.6349418Z",
+  "Time": "2026-01-27T19:26:02.624914Z",
   "Players": [
     {
       "Name": "queen",
       "Steam": "76561198744770178",
-      "Score": 18,
-      "Time": "03:37"
+      "Score": 27,
+      "Time": "05:37"
     },
     {
       "Name": "first day of fatal",
       "Steam": "76561198746558243",
-      "Score": 9,
-      "Time": "49:20"
+      "Score": 22,
+      "Time": "51:20"
+    },
+    {
+      "Name": "power",
+      "Steam": "76561198746134246",
+      "Score": 0,
+      "Time": "01:01"
     },
     {
       "Name": "my enemies are just an illusion",
       "Steam": "76561199628604770",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bad luck",
       "Steam": "76561199465886792",
-      "Score": 2,
-      "Time": "02:45"
+      "Score": 6,
+      "Time": "04:45"
     },
     {
-      "Name": "augusto degusta leite forte",
-      "Steam": "76561198087195718",
-      "Score": 2,
+      "Name": "enpungix",
+      "Steam": "76561199611314496",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
