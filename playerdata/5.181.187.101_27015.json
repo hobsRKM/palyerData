@@ -1,4 +1,29 @@
 {
-  "Time": "2026-01-27T22:54:22.4000511Z",
-  "Players": []
+  "Time": "2026-01-27T22:55:00.5421894Z",
+  "Players": [
+    {
+      "Name": "Kreki",
+      "Steam": "76561198914304944",
+      "Score": 50,
+      "Time": "19:25"
+    },
+    {
+      "Name": "Beamed by dre",
+      "Steam": "76561198745926168",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FR - MrX",
+      "Steam": "76561198783305929",
+      "Score": 50,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WesleyTM2.0 - power by aimware",
+      "Steam": "76561199406774307",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
