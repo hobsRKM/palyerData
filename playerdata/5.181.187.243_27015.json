@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-27T19:38:21.1738871Z",
+  "Time": "2026-01-27T19:40:21.1638896Z",
   "Players": [
+    {
+      "Name": ":)",
+      "Steam": "76561199847392950",
+      "Score": 0,
+      "Time": "118:34"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -10,7 +16,7 @@
     {
       "Name": "Bogdanuq",
       "Steam": "76561199550122482",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "\uD835\uDCDB",
       "Steam": "76561198744121054",
-      "Score": 4,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "SIX???",
       "Steam": "76561198744496932",
-      "Score": 12,
+      "Score": 21,
       "Time": "??:??"
     },
     {
@@ -40,31 +46,43 @@
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 8,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vl",
+      "Steam": "76561199889663133",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "potassium",
+      "Steam": "76561198752798622",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "SHINIGAMI",
       "Steam": "76561199003552070",
-      "Score": 21,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "D",
       "Steam": "76561199865430753",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
-      "Name": "orospu evladı",
+      "Name": "eliware yazilim",
       "Steam": "76561198764837964",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "salivatore",
-      "Steam": "76561198763620370",
-      "Score": 9,
+      "Name": "ghostY",
+      "Steam": "76561199591486018",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -77,31 +95,25 @@
       "Name": "gambling addict",
       "Steam": "76561199867920735",
       "Score": 14,
-      "Time": "271:45"
+      "Time": "273:45"
     },
     {
       "Name": "fronteN",
       "Steam": "76561199818931039",
-      "Score": 8,
-      "Time": "02:41"
+      "Score": 15,
+      "Time": "04:41"
     },
     {
       "Name": "mihai",
       "Steam": "76561197970349135",
-      "Score": 5,
-      "Time": "156:06"
+      "Score": 0,
+      "Time": "158:06"
     },
     {
       "Name": "⁺ ₊✦Ria₊✦°",
       "Steam": "76561199236818034",
-      "Score": 63,
+      "Score": 68,
       "Time": "??:??"
-    },
-    {
-      "Name": "flop!",
-      "Steam": "76561198273585152",
-      "Score": 16,
-      "Time": "10:17"
     }
   ]
 }
