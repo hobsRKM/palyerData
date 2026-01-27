@@ -1,35 +1,35 @@
 {
-  "Time": "2026-01-27T17:46:02.6324988Z",
+  "Time": "2026-01-27T17:48:02.6346545Z",
   "Players": [
     {
       "Name": "Plaguecheat.cc",
       "Steam": "76561199844175645",
-      "Score": 52,
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "queen",
+      "Steam": "76561198744770178",
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "testing compkiller",
       "Steam": "76561198746558243",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "h",
       "Steam": "76561199882302025",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Big cheef",
       "Steam": "76561198744198186",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "memory loop",
-      "Steam": "76561198759758386",
-      "Score": 0,
-      "Time": "04:32"
     }
   ]
 }
