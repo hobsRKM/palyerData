@@ -1,40 +1,46 @@
 {
-  "Time": "2026-01-27T16:17:55.6363186Z",
+  "Time": "2026-01-27T16:19:55.639447Z",
   "Players": [
     {
       "Name": "meowls bait",
       "Steam": "76561199147325969",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "cr7",
       "Steam": "76561199820767921",
-      "Score": 0,
-      "Time": "90:36"
+      "Score": 12,
+      "Time": "92:36"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 8,
+      "Score": 15,
       "Time": "??:??"
+    },
+    {
+      "Name": "ishi",
+      "Steam": "76561199816299279",
+      "Score": 0,
+      "Time": "08:48"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
       "Score": 24,
-      "Time": "31:48"
+      "Time": "33:48"
     },
     {
       "Name": "AltBProfen",
       "Steam": "76561199834727236",
-      "Score": 26,
-      "Time": "39:13"
+      "Score": 28,
+      "Time": "41:13"
     },
     {
       "Name": "Neymar",
       "Steam": "76561199821169844",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     }
   ]
