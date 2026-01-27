@@ -1,17 +1,29 @@
 {
-  "Time": "2026-01-27T21:08:02.6342755Z",
+  "Time": "2026-01-27T21:10:02.6338843Z",
   "Players": [
+    {
+      "Name": "Plaguecheat.cc",
+      "Steam": "76561199844175645",
+      "Score": 0,
+      "Time": "100:24"
+    },
     {
       "Name": "queen",
       "Steam": "76561198744770178",
-      "Score": 2,
-      "Time": "43:31"
+      "Score": 17,
+      "Time": "45:31"
     },
     {
       "Name": "first day of fatal",
       "Steam": "76561198746558243",
       "Score": 0,
-      "Time": "07:31"
+      "Time": "09:31"
+    },
+    {
+      "Name": "jon",
+      "Steam": "76561198779927030",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
