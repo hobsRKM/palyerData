@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-27T17:35:55.626829Z",
+  "Time": "2026-01-27T17:37:55.6382543Z",
   "Players": [
     {
       "Name": "Tetris",
       "Steam": "76561198262088029",
-      "Score": 69,
-      "Time": "53:22"
+      "Score": 74,
+      "Time": "55:22"
     },
     {
       "Name": "cr7",
       "Steam": "76561199820767921",
-      "Score": 0,
-      "Time": "24:00"
+      "Score": 6,
+      "Time": "26:00"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 6,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "MoMo",
       "Steam": "76561199840508387",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "*sucks at hvh* LAM",
+      "Steam": "76561198746194864",
+      "Score": 0,
+      "Time": "01:30"
     }
   ]
 }
