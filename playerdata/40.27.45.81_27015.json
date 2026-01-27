@@ -1,11 +1,11 @@
 {
-  "Time": "2026-01-27T06:53:19.5122808Z",
+  "Time": "2026-01-27T06:55:19.5001182Z",
   "Players": [
     {
       "Name": "1",
       "Steam": "76561199031753721",
-      "Score": 4,
-      "Time": "26:02"
+      "Score": 0,
+      "Time": "28:02"
     },
     {
       "Name": "pumpdotfun",
@@ -17,7 +17,7 @@
       "Name": "m",
       "Steam": "76561198413187085",
       "Score": 20,
-      "Time": "15:13"
+      "Time": "17:13"
     },
     {
       "Name": "airduck",
@@ -28,26 +28,32 @@
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 47,
-      "Time": "23:32"
+      "Score": 51,
+      "Time": "25:32"
     },
     {
       "Name": "bound for the floor",
       "Steam": "76561199880717233",
-      "Score": 2,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "XXⅠ",
+      "Steam": "76561198762281843",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Cortez",
       "Steam": "76561198750080629",
-      "Score": 58,
-      "Time": "29:35"
+      "Score": 62,
+      "Time": "31:35"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 4,
-      "Time": "04:30"
+      "Score": 16,
+      "Time": "06:30"
     }
   ]
 }
