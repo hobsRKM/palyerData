@@ -1,4 +1,35 @@
 {
-  "Time": "2026-01-27T22:58:22.4000389Z",
-  "Players": []
+  "Time": "2026-01-27T22:59:00.5473351Z",
+  "Players": [
+    {
+      "Name": "MrBiscotti",
+      "Steam": "76561199229255865",
+      "Score": 4,
+      "Time": "95:27"
+    },
+    {
+      "Name": "Kreki",
+      "Steam": "76561198914304944",
+      "Score": 68,
+      "Time": "23:25"
+    },
+    {
+      "Name": "FR - MrX",
+      "Steam": "76561198783305929",
+      "Score": 66,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Chrupek.Crack",
+      "Steam": "76561199051518032",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WesleyTM2.0 - power by aimware",
+      "Steam": "76561199406774307",
+      "Score": 18,
+      "Time": "??:??"
+    }
+  ]
 }
