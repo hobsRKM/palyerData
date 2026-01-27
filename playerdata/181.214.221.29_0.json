@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-27T17:10:02.6214922Z",
+  "Time": "2026-01-27T17:12:02.6219592Z",
   "Players": [
     {
       "Name": "Plaguecheat.cc",
       "Steam": "76561199844175645",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "testing compkiller",
       "Steam": "76561198746558243",
-      "Score": 4,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "power",
+      "Steam": "76561198746134246",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
