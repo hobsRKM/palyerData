@@ -1,65 +1,59 @@
 {
-  "Time": "2026-01-27T16:57:11.1548647Z",
+  "Time": "2026-01-27T16:59:11.1542538Z",
   "Players": [
     {
       "Name": "SW",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "756:58"
+      "Time": "758:58"
     },
     {
       "Name": "flashy",
       "Steam": "76561199164375637",
-      "Score": 0,
-      "Time": "13:23"
-    },
-    {
-      "Name": "sxrrow",
-      "Steam": "76561199396258299",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "15:23"
     },
     {
       "Name": "deyboydeydeyi",
       "Steam": "76561199377973483",
-      "Score": 0,
-      "Time": "07:06"
+      "Score": 2,
+      "Time": "09:06"
     },
     {
       "Name": "Netpincér",
       "Steam": "76561198783480630",
+      "Score": 6,
+      "Time": "27:36"
+    },
+    {
+      "Name": "ghostY",
+      "Steam": "76561199591486018",
       "Score": 2,
-      "Time": "25:36"
+      "Time": "74:45"
     },
     {
       "Name": "demon",
       "Steam": "76561198303438254",
       "Score": 19,
-      "Time": "12:21"
+      "Time": "14:21"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 23,
-      "Time": "39:52"
+      "Score": 27,
+      "Time": "41:52"
     },
     {
       "Name": "juif vnr",
       "Steam": "76561198774896970",
-      "Score": 19,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "I LOVE SCAR!",
       "Steam": "76561198778758389",
-      "Score": 2,
-      "Time": "226:29"
-    },
-    {
-      "Name": "sssssssssssssssssssssssssss",
-      "Steam": "76561198748331928",
-      "Score": 24,
-      "Time": "12:03"
+      "Score": 7,
+      "Time": "228:29"
     }
   ]
 }
