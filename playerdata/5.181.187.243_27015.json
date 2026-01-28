@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-28T14:14:25.5418679Z",
+  "Time": "2026-01-28T14:16:25.5380818Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -14,22 +14,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "cake",
+      "Steam": "76561199874806273",
+      "Score": 0,
+      "Time": "197:08"
+    },
+    {
       "Name": "McAffe free Antivirus",
       "Steam": "76561198743725049",
       "Score": 4,
-      "Time": "14:46"
+      "Time": "16:46"
     },
     {
       "Name": "anx1ety",
       "Steam": "76561198786108096",
-      "Score": 5,
-      "Time": "08:18"
+      "Score": 9,
+      "Time": "10:18"
     },
     {
       "Name": "SRC",
       "Steam": "76561198241397796",
-      "Score": 36,
-      "Time": "08:49"
+      "Score": 44,
+      "Time": "10:49"
     },
     {
       "Name": "Windows_Defender",
@@ -40,44 +46,44 @@
     {
       "Name": "notreal",
       "Steam": "76561198772165912",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗluvii",
       "Steam": "76561198339966370",
       "Score": 69,
-      "Time": "24:11"
+      "Time": "26:11"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 63,
-      "Time": "18:56"
+      "Score": 71,
+      "Time": "20:56"
     },
     {
       "Name": "nessie",
       "Steam": "76561199498486356",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "ULUGBEK",
       "Steam": "76561199629184110",
-      "Score": 81,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 90,
-      "Time": "18:46"
+      "Score": 93,
+      "Time": "20:46"
     },
     {
       "Name": "Avast Free Antivirus",
       "Steam": "76561198744984203",
-      "Score": 58,
-      "Time": "31:51"
+      "Score": 68,
+      "Time": "33:51"
     }
   ]
 }
