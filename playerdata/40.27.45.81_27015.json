@@ -1,17 +1,17 @@
 {
-  "Time": "2026-01-28T04:56:14.9830499Z",
+  "Time": "2026-01-28T04:58:14.9796494Z",
   "Players": [
     {
       "Name": "nade",
       "Steam": "76561199312322988",
-      "Score": 6,
-      "Time": "29:29"
+      "Score": 10,
+      "Time": "31:29"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 72,
-      "Time": "128:34"
+      "Score": 76,
+      "Time": "130:34"
     },
     {
       "Name": "\"'",
@@ -28,14 +28,20 @@
     {
       "Name": "throatnumbspray",
       "Steam": "76561199631965285",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
+    },
+    {
+      "Name": "top floor boss",
+      "Steam": "76561199023217160",
+      "Score": 4,
+      "Time": "01:35"
     },
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 81,
-      "Time": "17:12"
+      "Score": 85,
+      "Time": "19:12"
     },
     {
       "Name": "James",
@@ -47,7 +53,7 @@
       "Name": "ana",
       "Steam": "76561199841252574",
       "Score": 43,
-      "Time": "186:35"
+      "Time": "188:35"
     },
     {
       "Name": "Kasumi",
@@ -58,14 +64,8 @@
     {
       "Name": "Loading…",
       "Steam": "76561199833487665",
-      "Score": 53,
+      "Score": 66,
       "Time": "??:??"
-    },
-    {
-      "Name": "Shux",
-      "Steam": "76561199170636130",
-      "Score": 11,
-      "Time": "05:11"
     }
   ]
 }
