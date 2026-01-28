@@ -1,23 +1,29 @@
 {
-  "Time": "2026-01-28T19:02:44.0258612Z",
+  "Time": "2026-01-28T19:04:44.0297495Z",
   "Players": [
     {
       "Name": "Qwerty",
       "Steam": "76561199864540341",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Mi Sedaap",
       "Steam": "76561199806910486",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "MoMo",
       "Steam": "76561199840508387",
-      "Score": 2,
-      "Time": "10:32"
+      "Score": 4,
+      "Time": "12:32"
+    },
+    {
+      "Name": "nixware free cfg user",
+      "Steam": "76561198745885615",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
