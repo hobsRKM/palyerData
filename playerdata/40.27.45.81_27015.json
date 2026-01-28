@@ -1,17 +1,17 @@
 {
-  "Time": "2026-01-28T06:30:14.9870282Z",
+  "Time": "2026-01-28T06:32:14.9865918Z",
   "Players": [
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 116,
-      "Time": "90:04"
+      "Score": 0,
+      "Time": "92:04"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 102,
-      "Time": "80:30"
+      "Score": 8,
+      "Time": "82:30"
     },
     {
       "Name": "\"'",
@@ -22,20 +22,26 @@
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 86,
-      "Time": "606:12"
+      "Score": 0,
+      "Time": "608:12"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 47,
-      "Time": "32:23"
+      "Score": 0,
+      "Time": "34:23"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 42,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "barcode",
+      "Steam": "76561199527800621",
+      "Score": 0,
+      "Time": "00:13"
     }
   ]
 }
