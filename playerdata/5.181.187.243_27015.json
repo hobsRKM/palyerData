@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-28T13:32:25.5346092Z",
+  "Time": "2026-01-28T13:34:25.5445957Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,44 +10,50 @@
     {
       "Name": "Infantrit",
       "Steam": "76561199827876555",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "McAffe free Antivirus",
       "Steam": "76561198743725049",
-      "Score": 3,
-      "Time": "01:43"
+      "Score": 5,
+      "Time": "03:43"
     },
     {
       "Name": "hollleeaaaea",
       "Steam": "76561198744948723",
       "Score": 5,
-      "Time": "12:40"
+      "Time": "14:40"
     },
     {
       "Name": "BLADE",
       "Steam": "76561199610874010",
-      "Score": 2,
+      "Score": 5,
       "Time": "??:??"
+    },
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 0,
+      "Time": "00:50"
     },
     {
       "Name": "Zacarias",
       "Steam": "76561199076803716",
       "Score": 18,
-      "Time": "214:28"
+      "Time": "216:28"
     },
     {
       "Name": "EGG",
       "Steam": "76561198777139371",
-      "Score": 21,
-      "Time": "06:55"
+      "Score": 27,
+      "Time": "08:55"
     },
     {
       "Name": "Obi",
       "Steam": "76561199446105603",
-      "Score": 67,
-      "Time": "35:12"
+      "Score": 82,
+      "Time": "37:12"
     },
     {
       "Name": "Windows_Defender",
@@ -56,10 +62,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "олег",
+      "Steam": "76561198743529379",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 61,
-      "Time": "10:16"
+      "Score": 69,
+      "Time": "12:16"
     },
     {
       "Name": "xdlol",
@@ -70,26 +82,26 @@
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 66,
-      "Time": "42:19"
+      "Score": 79,
+      "Time": "44:19"
     },
     {
-      "Name": "BOT Franklin",
+      "Name": "fatality.win | BOT Franklin",
       "Steam": "76561199061150203",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "01:13"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 20,
-      "Time": "05:06"
+      "Score": 37,
+      "Time": "07:06"
     },
     {
       "Name": "Avast Free Antivirus",
       "Steam": "76561198744984203",
-      "Score": 26,
-      "Time": "09:29"
+      "Score": 36,
+      "Time": "11:29"
     }
   ]
 }
