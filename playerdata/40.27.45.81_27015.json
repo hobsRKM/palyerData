@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-28T02:46:14.9859964Z",
+  "Time": "2026-01-28T02:48:14.9860503Z",
   "Players": [
+    {
+      "Name": "Perhks",
+      "Steam": "76561198293312486",
+      "Score": 53,
+      "Time": "00:34"
+    },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
@@ -10,38 +16,44 @@
     {
       "Name": "oran",
       "Steam": "76561199884422546",
-      "Score": 26,
-      "Time": "77:35"
+      "Score": 32,
+      "Time": "79:35"
     },
     {
-      "Name": "ternity.lua      silk",
+      "Name": "eternity.lua     silk",
       "Steam": "76561199473516704",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 0,
-      "Time": "00:34"
+      "Score": 6,
+      "Time": "02:34"
     },
     {
-      "Name": "ternity.lua      ohcarter",
+      "Name": "Youtube user",
+      "Steam": "76561198742023935",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "eternity.lua     ohcarter",
       "Steam": "76561198772153840",
-      "Score": 39,
-      "Time": "98:20"
+      "Score": 45,
+      "Time": "100:20"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 55,
-      "Time": "16:01"
+      "Score": 59,
+      "Time": "18:01"
     },
     {
       "Name": "G͓̽a͓̽b͓̽e͓̽n͓̽",
       "Steam": "76561199829105920",
-      "Score": 27,
-      "Time": "12:18"
+      "Score": 29,
+      "Time": "14:18"
     }
   ]
 }
