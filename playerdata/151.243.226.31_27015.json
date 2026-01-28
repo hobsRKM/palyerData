@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-28T18:18:44.0309911Z",
+  "Time": "2026-01-28T18:20:44.021447Z",
   "Players": [
     {
       "Name": "Qwerty",
       "Steam": "76561199864540341",
-      "Score": 11,
-      "Time": "07:38"
+      "Score": 13,
+      "Time": "09:38"
     },
     {
       "Name": "MoMo",
       "Steam": "76561199840508387",
       "Score": 11,
-      "Time": "76:17"
+      "Time": "78:17"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198749340141",
-      "Score": 12,
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "arch",
+      "Steam": "76561199868873372",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 27,
-      "Time": "54:49"
+      "Score": 29,
+      "Time": "56:49"
     },
     {
       "Name": "*sucks at hvh* LAM",
       "Steam": "76561198746194864",
-      "Score": 42,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 76,
-      "Time": "55:04"
+      "Score": 86,
+      "Time": "57:04"
     }
   ]
 }
