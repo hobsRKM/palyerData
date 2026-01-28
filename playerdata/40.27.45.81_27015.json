@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-28T05:08:14.976837Z",
+  "Time": "2026-01-28T05:10:14.980053Z",
   "Players": [
+    {
+      "Name": "Perhks",
+      "Steam": "76561198293312486",
+      "Score": 105,
+      "Time": "00:30"
+    },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
@@ -10,32 +16,44 @@
     {
       "Name": "throatnumbspray",
       "Steam": "76561199631965285",
-      "Score": 49,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 17,
-      "Time": "11:35"
+      "Score": 21,
+      "Time": "13:35"
+    },
+    {
+      "Name": "rabukjo03",
+      "Steam": "76561199714323239",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
       "Score": 2,
-      "Time": "02:41"
+      "Time": "04:41"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198406446992",
-      "Score": 24,
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pumpdotfun",
+      "Steam": "76561199660418998",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 113,
-      "Time": "29:12"
+      "Score": 121,
+      "Time": "31:12"
     },
     {
       "Name": "James",
@@ -46,26 +64,32 @@
     {
       "Name": "ana",
       "Steam": "76561199841252574",
-      "Score": 60,
-      "Time": "198:35"
+      "Score": 61,
+      "Time": "200:35"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 8,
-      "Time": "02:27"
+      "Score": 16,
+      "Time": "04:27"
     },
     {
       "Name": "barcode",
       "Steam": "76561199527800621",
-      "Score": 5,
-      "Time": "03:23"
+      "Score": 13,
+      "Time": "05:23"
     },
     {
       "Name": "Loading…",
       "Steam": "76561199833487665",
-      "Score": 82,
+      "Score": 89,
       "Time": "??:??"
+    },
+    {
+      "Name": "Robot Cawk",
+      "Steam": "76561199848482186",
+      "Score": 0,
+      "Time": "347:48"
     }
   ]
 }
