@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-28T20:40:26.1727953Z",
+  "Time": "2026-01-28T20:42:26.1960938Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,20 +10,32 @@
     {
       "Name": "Lars",
       "Steam": "76561199082073582",
-      "Score": 0,
-      "Time": "109:54"
+      "Score": 13,
+      "Time": "111:54"
     },
     {
       "Name": "chat gpt",
       "Steam": "76561198747440298",
-      "Score": 2,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Farifadir Kambuira",
+      "Steam": "76561198744415997",
+      "Score": 0,
+      "Time": "80:16"
+    },
+    {
+      "Name": "sosigkilla-CS",
+      "Steam": "76561198775300095",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "OMG",
       "Steam": "76561198782604078",
-      "Score": 61,
-      "Time": "63:51"
+      "Score": 68,
+      "Time": "65:51"
     }
   ]
 }
