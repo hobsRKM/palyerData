@@ -1,10 +1,16 @@
 {
-  "Time": "2026-01-28T16:40:35.033329Z",
+  "Time": "2026-01-28T16:42:35.0431524Z",
   "Players": [
+    {
+      "Name": "Женя на хуе (2.0)",
+      "Steam": "76561198741841191",
+      "Score": 0,
+      "Time": "00:51"
+    },
     {
       "Name": "puli 么",
       "Steam": "76561198777234885",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -28,49 +34,61 @@
     {
       "Name": "m1nboomnn",
       "Steam": "76561198745008485",
-      "Score": 23,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "TÚ CHÉ",
+      "Steam": "76561199869044827",
+      "Score": 0,
+      "Time": "01:43"
     },
     {
       "Name": "Kardos Cigány",
       "Steam": "76561198800976872",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 32,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Drxzm.",
       "Steam": "76561199488521483",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "ᴬᴺᵀᴵᴬᴵᴹ syntrix",
       "Steam": "76561199230497763",
-      "Score": 49,
-      "Time": "16:54"
+      "Score": 59,
+      "Time": "18:54"
+    },
+    {
+      "Name": "suicide",
+      "Steam": "76561199881092959",
+      "Score": 10,
+      "Time": "01:50"
     },
     {
       "Name": "laxo",
       "Steam": "76561199631116344",
-      "Score": 70,
-      "Time": "11:16"
+      "Score": 86,
+      "Time": "13:16"
     },
     {
       "Name": "kaktusior1 #neverlosecrack",
       "Steam": "76561199510403300",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "flashy",
       "Steam": "76561199164375637",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     }
   ]
