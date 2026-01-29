@@ -1,52 +1,58 @@
 {
-  "Time": "2026-01-29T04:18:35.0302792Z",
+  "Time": "2026-01-29T04:20:35.0364778Z",
   "Players": [
+    {
+      "Name": "-=KoC=-",
+      "Steam": "76561199667272865",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "629:04"
+      "Time": "631:04"
     },
     {
       "Name": "SIX???",
       "Steam": "76561198744496932",
-      "Score": 0,
-      "Time": "660:12"
+      "Score": 10,
+      "Time": "662:12"
     },
     {
-      "Name": "bored.",
+      "Name": "Mjay",
       "Steam": "76561199237707727",
       "Score": 62,
-      "Time": "17:03"
-    },
-    {
-      "Name": "bored.",
-      "Steam": "76561199634244736",
-      "Score": 0,
-      "Time": "207:00"
+      "Time": "19:03"
     },
     {
       "Name": "Misia Monisia",
       "Steam": "76561199133584383",
+      "Score": 2,
+      "Time": "730:12"
+    },
+    {
+      "Name": "youtube user",
+      "Steam": "76561198745518632",
       "Score": 0,
-      "Time": "728:12"
+      "Time": "02:23"
     },
     {
       "Name": "osecc",
       "Steam": "76561199231439540",
-      "Score": 0,
-      "Time": "444:02"
+      "Score": 2,
+      "Time": "446:02"
     },
     {
       "Name": "D0cc",
       "Steam": "76561198354203324",
-      "Score": 11,
-      "Time": "09:05"
+      "Score": 13,
+      "Time": "11:05"
     },
     {
       "Name": "qodex",
       "Steam": "76561199698937829",
-      "Score": 20,
+      "Score": 23,
       "Time": "??:??"
     }
   ]
