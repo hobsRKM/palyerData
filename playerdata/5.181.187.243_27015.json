@@ -1,46 +1,52 @@
 {
-  "Time": "2026-01-29T21:58:47.9305424Z",
+  "Time": "2026-01-29T22:04:47.9406259Z",
   "Players": [
+    {
+      "Name": "Refuse",
+      "Steam": "76561199160093857",
+      "Score": 14,
+      "Time": "02:50"
+    },
     {
       "Name": "Drxzm.",
       "Steam": "76561198345858138",
+      "Score": 22,
+      "Time": "494:16"
+    },
+    {
+      "Name": "MrBiscotti",
+      "Steam": "76561199229255865",
       "Score": 1,
-      "Time": "488:16"
+      "Time": "??:??"
     },
     {
       "Name": "spoti",
       "Steam": "76561199696081620",
-      "Score": 0,
-      "Time": "00:24"
+      "Score": 18,
+      "Time": "06:24"
     },
     {
-      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗglobal",
+      "Name": "⁹⁹⁹Rick",
       "Steam": "76561197963183861",
       "Score": 0,
-      "Time": "63:44"
+      "Time": "69:44"
     },
     {
       "Name": "⁹⁹⁹Rick",
       "Steam": "76561199050470003",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "MARTANEK",
-      "Steam": "76561199255578268",
-      "Score": 3,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "gambling addict",
       "Steam": "76561199867920735",
-      "Score": 2,
-      "Time": "383:01"
+      "Score": 4,
+      "Time": "389:01"
     },
     {
       "Name": "&$^#&*$",
       "Steam": "76561198772029784",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -52,14 +58,20 @@
     {
       "Name": "cake",
       "Steam": "76561199874806273",
-      "Score": 0,
-      "Time": "404:39"
+      "Score": 30,
+      "Time": "410:39"
     },
     {
       "Name": "guy",
       "Steam": "76561199471182367",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
+    },
+    {
+      "Name": "Charlie",
+      "Steam": "76561199070756563",
+      "Score": 0,
+      "Time": "418:20"
     }
   ]
 }
