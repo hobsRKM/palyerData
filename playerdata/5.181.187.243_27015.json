@@ -1,53 +1,65 @@
 {
-  "Time": "2026-01-29T19:30:47.6520824Z",
+  "Time": "2026-01-29T19:32:47.6468919Z",
   "Players": [
+    {
+      "Name": "Money Samara",
+      "Steam": "76561199030657144",
+      "Score": 3,
+      "Time": "??:??"
+    },
     {
       "Name": "ᶠᵗecstacy",
       "Steam": "76561199151609154",
-      "Score": 8,
-      "Time": "02:42"
+      "Score": 0,
+      "Time": "04:42"
     },
     {
       "Name": "ArchLinux",
       "Steam": "76561199132339380",
-      "Score": 5,
-      "Time": "02:44"
+      "Score": 2,
+      "Time": "04:44"
     },
     {
       "Name": "rolik",
       "Steam": "76561199780151993",
-      "Score": 4,
-      "Time": "34:50"
+      "Score": 6,
+      "Time": "36:50"
     },
     {
       "Name": "bzzc",
       "Steam": "76561198788157791",
-      "Score": 19,
-      "Time": "06:47"
+      "Score": 0,
+      "Time": "08:47"
     },
     {
       "Name": "Compkiller.net",
       "Steam": "76561198750044238",
-      "Score": 24,
-      "Time": "22:55"
+      "Score": 0,
+      "Time": "24:55"
     },
     {
-      "Name": "(◣◢)",
+      "Name": "bzzc",
       "Steam": "76561197963183861",
-      "Score": 10,
-      "Time": "25:31"
+      "Score": 2,
+      "Time": "27:31"
+    },
+    {
+      "Name": "zqx",
+      "Steam": "76561199237916760",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "https://dc.gg/foxnet",
       "Steam": "76561199691142851",
-      "Score": 28,
-      "Time": "180:23"
+      "Score": 1,
+      "Time": "182:23"
     },
     {
       "Name": "(◣◢)",
       "Steam": "76561199318511009",
-      "Score": 109,
-      "Time": "41:12"
+      "Score": 6,
+      "Time": "43:12"
     }
   ]
 }
