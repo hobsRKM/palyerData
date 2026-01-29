@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-29T03:46:21.9315683Z",
+  "Time": "2026-01-29T03:48:21.9246381Z",
   "Players": [
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 5,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WeSmokeAlot",
+      "Steam": "76561198751727077",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "gravemyinitials",
       "Steam": "76561198744712586",
-      "Score": 75,
-      "Time": "39:40"
+      "Score": 2,
+      "Time": "41:40"
     },
     {
       "Name": "noob Vs Pro Vs Hacker",
       "Steam": "76561198790678315",
-      "Score": 17,
-      "Time": "05:53"
+      "Score": 0,
+      "Time": "07:53"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 114,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "wock",
       "Steam": "76561199562282315",
-      "Score": 66,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
