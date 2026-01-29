@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-29T17:50:30.3258737Z",
+  "Time": "2026-01-29T17:52:30.3284264Z",
   "Players": [
+    {
+      "Name": "Maslanka",
+      "Steam": "76561199866941128",
+      "Score": 0,
+      "Time": "143:36"
+    },
     {
       "Name": "p",
       "Steam": "76561199054143629",
@@ -16,74 +22,80 @@
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗUgy",
       "Steam": "76561198274193245",
-      "Score": 9,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "jeffrey (epstein)",
       "Steam": "76561199819992062",
       "Score": 0,
-      "Time": "92:00"
+      "Time": "94:00"
     },
     {
       "Name": "stylisz",
       "Steam": "76561199683040816",
-      "Score": 38,
-      "Time": "94:52"
-    },
-    {
-      "Name": "Gertt-01",
-      "Steam": "76561198756919457",
-      "Score": 6,
-      "Time": "51:55"
+      "Score": 40,
+      "Time": "96:52"
     },
     {
       "Name": "migostagomurzyka",
       "Steam": "76561199573701378",
-      "Score": 3,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "matko",
       "Steam": "76561199499013499",
-      "Score": 32,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "⁹⁹⁹drp1y",
       "Steam": "76561199885893585",
-      "Score": 22,
-      "Time": "16:22"
+      "Score": 24,
+      "Time": "18:22"
+    },
+    {
+      "Name": "Ради неё...",
+      "Steam": "76561198779681703",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 29,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Ferox",
       "Steam": "76561199377440484",
-      "Score": 44,
-      "Time": "25:56"
+      "Score": 48,
+      "Time": "27:56"
+    },
+    {
+      "Name": "siegmund",
+      "Steam": "76561198743712610",
+      "Score": 0,
+      "Time": "14:56"
     },
     {
       "Name": "ULUGBEK",
       "Steam": "76561199629184110",
-      "Score": 0,
-      "Time": "05:17"
+      "Score": 6,
+      "Time": "07:17"
     },
     {
       "Name": "Netpincér",
       "Steam": "76561198783480630",
       "Score": 41,
-      "Time": "24:18"
+      "Time": "26:18"
     },
     {
       "Name": "Kirkenstein",
       "Steam": "76561199070756563",
       "Score": 0,
-      "Time": "03:06"
+      "Time": "05:06"
     }
   ]
 }
