@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-29T13:12:30.3133643Z",
+  "Time": "2026-01-29T13:14:30.3203662Z",
   "Players": [
     {
       "Name": "e3",
@@ -16,38 +16,50 @@
     {
       "Name": "MNZone",
       "Steam": "76561198750671481",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 2,
+      "Time": "01:15"
     },
     {
       "Name": "stylisz",
       "Steam": "76561199683040816",
-      "Score": 83,
-      "Time": "21:00"
+      "Score": 90,
+      "Time": "23:00"
+    },
+    {
+      "Name": "Василий Писюнови",
+      "Steam": "76561199542559010",
+      "Score": 5,
+      "Time": "00:27"
     },
     {
       "Name": "imgusstas",
       "Steam": "76561198742241366",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "ozempeek",
       "Steam": "76561199241125970",
-      "Score": 9,
-      "Time": "30:41"
+      "Score": 0,
+      "Time": "32:41"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 6,
-      "Time": "72:15"
+      "Score": 1,
+      "Time": "74:15"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 63,
-      "Time": "70:55"
+      "Score": 71,
+      "Time": "72:55"
     }
   ]
 }
