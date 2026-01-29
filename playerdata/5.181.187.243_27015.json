@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-29T15:44:47.6536265Z",
+  "Time": "2026-01-29T15:46:47.6521832Z",
   "Players": [
+    {
+      "Name": "Void",
+      "Steam": "76561199491997558",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "Ｋａｔａｓｈｉ 科現",
       "Steam": "76561199579109620",
-      "Score": 20,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "desync daddy",
       "Steam": "76561198376802362",
-      "Score": 30,
+      "Score": 38,
       "Time": "??:??"
     },
     {
@@ -22,38 +28,32 @@
     {
       "Name": "Tysbo",
       "Steam": "76561198856278042",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "nymphobrainiac",
       "Steam": "76561199880783602",
       "Score": 8,
-      "Time": "03:20"
+      "Time": "05:20"
     },
     {
       "Name": "hauda kotakbaz",
       "Steam": "76561199874595968",
-      "Score": 49,
-      "Time": "??:??"
-    },
-    {
-      "Name": "gjidgdugjdgdyugd",
-      "Steam": "76561198750800175",
-      "Score": 9,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "notreal",
       "Steam": "76561198772165912",
-      "Score": 14,
-      "Time": "27:44"
+      "Score": 0,
+      "Time": "29:44"
     },
     {
       "Name": "Farifadir Kambuira",
       "Steam": "76561198744415997",
-      "Score": 8,
-      "Time": "01:40"
+      "Score": 24,
+      "Time": "03:40"
     }
   ]
 }
