@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-29T22:03:17.4425652Z",
+  "Time": "2026-01-29T22:05:17.4374047Z",
   "Players": [
+    {
+      "Name": "radiance.lua Pakas Biseks",
+      "Steam": "76561199892316246",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "cipsonn38",
       "Steam": "76561198743225662",
       "Score": 0,
-      "Time": "04:13"
+      "Time": "06:13"
     },
     {
       "Name": "jantorek56",
       "Steam": "76561198743378124",
-      "Score": 2,
-      "Time": "102:33"
+      "Score": 12,
+      "Time": "104:33"
     }
   ]
 }
