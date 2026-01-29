@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-29T01:32:21.9238336Z",
+  "Time": "2026-01-29T01:34:21.9236665Z",
   "Players": [
+    {
+      "Name": "Cortez",
+      "Steam": "76561198750080629",
+      "Score": 1,
+      "Time": "01:27"
+    },
     {
       "Name": "emotional suport bagel",
       "Steam": "76561199548982521",
-      "Score": 44,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "RADICAL RACIST",
       "Steam": "76561199870945474",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
