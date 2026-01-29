@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-29T10:48:30.3220741Z",
+  "Time": "2026-01-29T10:50:30.3232033Z",
   "Players": [
     {
       "Name": "e3",
@@ -16,26 +16,26 @@
     {
       "Name": "xx",
       "Steam": "76561198996680458",
-      "Score": 18,
-      "Time": "22:24"
+      "Score": 21,
+      "Time": "24:24"
     },
     {
       "Name": "ᶠᵗecstacy",
       "Steam": "76561199151609154",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "suzune",
       "Steam": "76561198831338710",
-      "Score": 4,
-      "Time": "03:15"
+      "Score": 9,
+      "Time": "05:15"
     },
     {
       "Name": "ᴬᴺᵀᴵᴬᴵᴹ syntrix",
       "Steam": "76561199230497763",
-      "Score": 18,
-      "Time": "14:17"
+      "Score": 21,
+      "Time": "16:17"
     },
     {
       "Name": "Relic",
@@ -52,14 +52,20 @@
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "freaky bob",
       "Steam": "76561199571154189",
-      "Score": 7,
-      "Time": "05:21"
+      "Score": 17,
+      "Time": "07:21"
+    },
+    {
+      "Name": "notreal",
+      "Steam": "76561198772165912",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
