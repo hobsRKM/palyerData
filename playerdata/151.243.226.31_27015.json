@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-29T08:54:13.1910532Z",
+  "Time": "2026-01-29T08:56:13.1971041Z",
   "Players": [
+    {
+      "Name": "savel1_y",
+      "Steam": "76561199571442411",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "小兔",
       "Steam": "76561198752125629",
-      "Score": 8,
-      "Time": "36:46"
+      "Score": 10,
+      "Time": "38:46"
     },
     {
       "Name": "dev1ce",
       "Steam": "76561198789697989",
-      "Score": 6,
-      "Time": "02:14"
+      "Score": 8,
+      "Time": "04:14"
     },
     {
       "Name": "Mi Sedaap",
       "Steam": "76561199806910486",
-      "Score": 45,
+      "Score": 55,
       "Time": "??:??"
     },
     {
-      "Name": "yoruha1337",
-      "Steam": "76561199524954152",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "gam ❤︎ Columbina ❤",
+      "Name": "ga ❤︎ Columbina ❤",
       "Steam": "76561198790860703",
-      "Score": 12,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Khazix",
+      "Steam": "76561198787508138",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
