@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-29T16:42:30.3172242Z",
+  "Time": "2026-01-29T16:44:30.3209103Z",
   "Players": [
     {
       "Name": "0x81",
       "Steam": "76561198248444674",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "⁹⁹⁹drp1y",
       "Steam": "76561199885893585",
-      "Score": 31,
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lol",
+      "Steam": "76561199507798544",
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -22,62 +28,74 @@
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 62,
-      "Time": "32:38"
+      "Score": 79,
+      "Time": "34:38"
     },
     {
       "Name": "19",
       "Steam": "76561198742767214",
-      "Score": 72,
-      "Time": "20:57"
+      "Score": 77,
+      "Time": "22:57"
     },
     {
       "Name": "d",
       "Steam": "76561199842369196",
+      "Score": 2,
+      "Time": "09:52"
+    },
+    {
+      "Name": "laxo",
+      "Steam": "76561199631116344",
       "Score": 0,
-      "Time": "07:52"
+      "Time": "??:??"
     },
     {
       "Name": ">.<",
       "Steam": "76561199042138318",
-      "Score": 10,
-      "Time": "05:04"
+      "Score": 2,
+      "Time": "07:04"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 49,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "anx1ety",
       "Steam": "76561198786108096",
-      "Score": 30,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Sevo",
       "Steam": "76561199861196210",
-      "Score": 2,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "jantorek56",
       "Steam": "76561198743378124",
-      "Score": 16,
-      "Time": "63:58"
+      "Score": 17,
+      "Time": "65:58"
+    },
+    {
+      "Name": "pana pana mera",
+      "Steam": "76561199881092959",
+      "Score": 6,
+      "Time": "01:40"
     },
     {
       "Name": "ULUGBEK",
       "Steam": "76561199629184110",
-      "Score": 20,
-      "Time": "06:00"
+      "Score": 0,
+      "Time": "08:00"
     },
     {
       "Name": "facts",
       "Steam": "76561199032334406",
-      "Score": 3,
-      "Time": "09:10"
+      "Score": 5,
+      "Time": "11:10"
     }
   ]
 }
