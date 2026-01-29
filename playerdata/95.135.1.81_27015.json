@@ -1,9 +1,15 @@
 {
-  "Time": "2026-01-29T13:38:30.3179053Z",
+  "Time": "2026-01-29T13:40:30.3270109Z",
   "Players": [
     {
       "Name": "e3",
       "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sakuhirito",
+      "Steam": "76561198329422936",
       "Score": 0,
       "Time": "??:??"
     },
@@ -14,33 +20,27 @@
       "Time": "??:??"
     },
     {
-      "Name": "shOt.cc Diaconescu Lucas",
-      "Steam": "76561199667028575",
-      "Score": 8,
-      "Time": "15:53"
-    },
-    {
       "Name": "...",
       "Steam": "76561199552312261",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD05\uD835\uDD1E\uD835\uDD30\uD835\uDD31\uD835\uDD1E\uD835\uDD2F\uD835\uDD21",
       "Steam": "76561199827217325",
-      "Score": 11,
-      "Time": "130:03"
+      "Score": 16,
+      "Time": "132:03"
     },
     {
       "Name": "xspymer837667",
       "Steam": "76561199781811309",
-      "Score": 4,
-      "Time": "76:35"
+      "Score": 6,
+      "Time": "78:35"
     },
     {
       "Name": "gaidys",
       "Steam": "76561199889225791",
-      "Score": 24,
+      "Score": 34,
       "Time": "??:??"
     },
     {
@@ -50,22 +50,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "⚞fata invite please?⚟",
+      "Steam": "76561198750824104",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "silence sub 5",
       "Steam": "76561198747440298",
-      "Score": 26,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Trader-Joe",
       "Steam": "76561199467073125",
-      "Score": 2,
-      "Time": "230:39"
+      "Score": 10,
+      "Time": "232:39"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 24,
-      "Time": "96:55"
+      "Score": 28,
+      "Time": "98:55"
     }
   ]
 }
