@@ -1,53 +1,47 @@
 {
-  "Time": "2026-01-29T21:04:30.3220196Z",
+  "Time": "2026-01-29T21:06:30.3242227Z",
   "Players": [
-    {
-      "Name": "kapiub0b",
-      "Steam": "76561198151423700",
-      "Score": 102,
-      "Time": "163:01"
-    },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 20,
-      "Time": "139:21"
+      "Score": 0,
+      "Time": "141:21"
+    },
+    {
+      "Name": "d",
+      "Steam": "76561199842369196",
+      "Score": 0,
+      "Time": "00:33"
     },
     {
       "Name": "erick",
       "Steam": "76561199493665678",
-      "Score": 32,
-      "Time": "117:56"
+      "Score": 0,
+      "Time": "119:56"
     },
     {
       "Name": "19",
       "Steam": "76561198742767214",
-      "Score": 6,
-      "Time": "198:14"
+      "Score": 0,
+      "Time": "200:14"
     },
     {
       "Name": "jeffrey (epstein)",
       "Steam": "76561199819992062",
-      "Score": 55,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 25,
-      "Time": "08:13"
+      "Score": 0,
+      "Time": "10:13"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 81,
-      "Time": "41:10"
-    },
-    {
-      "Name": "scaliee cs",
-      "Steam": "76561198741665090",
-      "Score": 30,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "43:10"
     }
   ]
 }
