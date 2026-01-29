@@ -1,28 +1,40 @@
 {
-  "Time": "2026-01-29T03:06:21.9312793Z",
+  "Time": "2026-01-29T03:08:21.9217658Z",
   "Players": [
+    {
+      "Name": "Cortez",
+      "Steam": "76561198750080629",
+      "Score": 0,
+      "Time": "00:32"
+    },
+    {
+      "Name": "gravemyinitials",
+      "Steam": "76561198744712586",
+      "Score": 5,
+      "Time": "01:40"
+    },
     {
       "Name": "event Xanxlover lilcouchhch",
       "Steam": "76561198774428536",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "youtube user",
       "Steam": "76561198745518632",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Gay Rat",
       "Steam": "76561198790678315",
       "Score": 6,
-      "Time": "12:14"
+      "Time": "14:14"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     }
   ]
