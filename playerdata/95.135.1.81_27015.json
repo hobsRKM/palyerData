@@ -1,40 +1,40 @@
 {
-  "Time": "2026-01-29T01:22:35.0361081Z",
+  "Time": "2026-01-29T01:24:35.0391028Z",
   "Players": [
+    {
+      "Name": "GABIMARU",
+      "Steam": "76561199865276971",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "453:04"
-    },
-    {
-      "Name": "WeSmokeAlot",
-      "Steam": "76561198751727077",
-      "Score": 8,
-      "Time": "09:08"
+      "Time": "455:04"
     },
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
-      "Score": 33,
-      "Time": "05:52"
+      "Score": 53,
+      "Time": "07:52"
     },
     {
       "Name": "placebo",
       "Steam": "76561199814510059",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "⁹⁹⁹drp1y",
       "Steam": "76561199885893585",
-      "Score": 31,
-      "Time": "469:27"
+      "Score": 35,
+      "Time": "471:27"
     },
     {
       "Name": "hocus pocus",
       "Steam": "76561199888197236",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
