@@ -1,4 +1,35 @@
 {
-  "Time": "2026-01-29T19:45:13.286799Z",
-  "Players": []
+  "Time": "2026-01-29T19:46:41.0259088Z",
+  "Players": [
+    {
+      "Name": "Kreki",
+      "Steam": "76561198914304944",
+      "Score": 22,
+      "Time": "08:21"
+    },
+    {
+      "Name": "friesforsure",
+      "Steam": "76561198783285372",
+      "Score": 6,
+      "Time": "03:51"
+    },
+    {
+      "Name": "lacoste",
+      "Steam": "76561199889697498",
+      "Score": 24,
+      "Time": "02:25"
+    },
+    {
+      "Name": "anime enjoyer",
+      "Steam": "76561198743555732",
+      "Score": 14,
+      "Time": "65:03"
+    },
+    {
+      "Name": "s1mple",
+      "Steam": "76561198766655275",
+      "Score": 28,
+      "Time": "06:58"
+    }
+  ]
 }
