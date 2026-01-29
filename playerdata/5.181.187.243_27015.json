@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-29T15:52:47.6448853Z",
+  "Time": "2026-01-29T15:54:47.6589246Z",
   "Players": [
+    {
+      "Name": "Jeanned",
+      "Steam": "76561199351086943",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": ".eXe.",
       "Steam": "76561198122074764",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "desync daddy",
       "Steam": "76561198376802362",
-      "Score": 73,
+      "Score": 84,
       "Time": "??:??"
     },
     {
@@ -20,22 +26,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "hauda kotakbaz",
-      "Steam": "76561199874595968",
-      "Score": 66,
+      "Name": "me",
+      "Steam": "76561198782604078",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ascyn beta",
+      "Steam": "76561197963183861",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "notreal",
       "Steam": "76561198772165912",
-      "Score": 10,
-      "Time": "35:44"
+      "Score": 16,
+      "Time": "00:30"
     },
     {
       "Name": "Farifadir Kambuira",
       "Steam": "76561198744415997",
-      "Score": 49,
-      "Time": "09:40"
+      "Score": 52,
+      "Time": "11:40"
     }
   ]
 }
