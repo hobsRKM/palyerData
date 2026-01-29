@@ -1,16 +1,22 @@
 {
-  "Time": "2026-01-29T15:24:47.6521076Z",
+  "Time": "2026-01-29T15:26:47.6607086Z",
   "Players": [
+    {
+      "Name": "Flexorz",
+      "Steam": "76561199503006146",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "colon three",
       "Steam": "76561199817643907",
-      "Score": 79,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "desync daddy",
       "Steam": "76561198376802362",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -22,31 +28,31 @@
     {
       "Name": "hauda kotakbaz",
       "Steam": "76561199874595968",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "ULUGBEK",
       "Steam": "76561199629184110",
-      "Score": 2,
-      "Time": "06:39"
+      "Score": 4,
+      "Time": "08:39"
     },
     {
       "Name": "notreal",
       "Steam": "76561198772165912",
-      "Score": 17,
-      "Time": "07:44"
+      "Score": 19,
+      "Time": "09:44"
     },
     {
       "Name": "aimlabs is free",
       "Steam": "76561199319639405",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "deceptive",
       "Steam": "76561198361012781",
-      "Score": 16,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
