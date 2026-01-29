@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-29T14:02:47.6465143Z",
+  "Time": "2026-01-29T14:04:47.6516077Z",
   "Players": [
+    {
+      "Name": "Blank",
+      "Steam": "76561199396651185",
+      "Score": 0,
+      "Time": "01:52"
+    },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
@@ -10,50 +16,50 @@
     {
       "Name": "Vollka Putt",
       "Steam": "76561198836447982",
-      "Score": 16,
-      "Time": "23:00"
+      "Score": 18,
+      "Time": "25:00"
     },
     {
       "Name": "Trav",
       "Steam": "76561199471217940",
-      "Score": 6,
-      "Time": "07:18"
+      "Score": 8,
+      "Time": "09:18"
     },
     {
       "Name": "Compkiller.net",
       "Steam": "76561198750044238",
-      "Score": 13,
-      "Time": "49:35"
+      "Score": 16,
+      "Time": "51:35"
     },
     {
       "Name": "Avast4r \uD83E\uDDCA",
       "Steam": "76561199376242490",
-      "Score": 14,
-      "Time": "03:08"
+      "Score": 26,
+      "Time": "05:08"
     },
     {
       "Name": "ULUGBEK",
       "Steam": "76561199629184110",
-      "Score": 53,
-      "Time": "49:28"
+      "Score": 55,
+      "Time": "51:28"
     },
     {
       "Name": "tymo--",
       "Steam": "76561199425592793",
-      "Score": 26,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561198744496932",
-      "Score": 0,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "notreal",
       "Steam": "76561198772165912",
-      "Score": 6,
-      "Time": "18:37"
+      "Score": 8,
+      "Time": "20:37"
     }
   ]
 }
