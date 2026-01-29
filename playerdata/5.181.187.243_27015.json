@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-29T01:42:34.6587561Z",
+  "Time": "2026-01-29T01:44:34.7389725Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,31 +10,37 @@
     {
       "Name": "valk",
       "Steam": "76561198747479959",
-      "Score": 20,
-      "Time": "407:29"
+      "Score": 22,
+      "Time": "409:29"
+    },
+    {
+      "Name": "vel",
+      "Steam": "76561198272569557",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "meow meow",
       "Steam": "76561199828015418",
-      "Score": 43,
-      "Time": "408:03"
+      "Score": 51,
+      "Time": "410:03"
     },
     {
       "Name": "vyros",
       "Steam": "76561199123809914",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "IDGAF",
       "Steam": "76561198140763876",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "wave carried",
       "Steam": "76561199443385276",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
