@@ -1,35 +1,41 @@
 {
-  "Time": "2026-01-29T08:18:21.9332147Z",
+  "Time": "2026-01-29T08:20:21.9281564Z",
   "Players": [
+    {
+      "Name": "SlickSense",
+      "Steam": "76561199322842580",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "haroldmosner",
       "Steam": "76561198745132172",
-      "Score": 7,
-      "Time": "78:43"
+      "Score": 13,
+      "Time": "80:43"
     },
     {
       "Name": "Torta (on tesamorelin)",
       "Steam": "76561198373259020",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "serversiding",
       "Steam": "76561199868067319",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 4,
-      "Time": "81:57"
+      "Score": 10,
+      "Time": "83:57"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 4,
-      "Time": "60:15"
+      "Score": 14,
+      "Time": "62:15"
     },
     {
       "Name": "Yanaraki Kiyoshiki",
@@ -40,7 +46,7 @@
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     },
     {
@@ -50,15 +56,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "Yeehaw2",
-      "Steam": "76561199484150451",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "glamour",
       "Steam": "76561198180065165",
-      "Score": 28,
+      "Score": 45,
       "Time": "??:??"
     }
   ]
