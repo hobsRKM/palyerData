@@ -1,11 +1,17 @@
 {
-  "Time": "2026-01-30T09:57:39.7627788Z",
+  "Time": "2026-01-30T09:59:39.7570173Z",
   "Players": [
+    {
+      "Name": "自杀吧",
+      "Steam": "76561198778315230",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "d's",
       "Steam": "76561199053765081",
-      "Score": 48,
-      "Time": "52:08"
+      "Score": 54,
+      "Time": "54:08"
     },
     {
       "Name": "p",
@@ -16,8 +22,8 @@
     {
       "Name": "Mr President",
       "Steam": "76561199842369196",
-      "Score": 18,
-      "Time": "25:32"
+      "Score": 0,
+      "Time": "27:32"
     },
     {
       "Name": "aura",
@@ -28,31 +34,19 @@
     {
       "Name": "itchengs",
       "Steam": "76561199409008038",
-      "Score": 14,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "https://dc.gg/foxnet",
       "Steam": "76561199691142851",
-      "Score": 35,
-      "Time": "??:??"
-    },
-    {
-      "Name": "xx",
-      "Steam": "76561198996680458",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "neverlose (nevershoot)",
-      "Steam": "76561199819992062",
-      "Score": 17,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "cake",
       "Steam": "76561199874806273",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
