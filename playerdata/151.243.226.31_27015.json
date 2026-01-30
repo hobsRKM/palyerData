@@ -1,53 +1,65 @@
 {
-  "Time": "2026-01-30T12:41:17.2240511Z",
+  "Time": "2026-01-30T12:43:17.2244701Z",
   "Players": [
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 15,
-      "Time": "415:11"
+      "Score": 29,
+      "Time": "417:11"
+    },
+    {
+      "Name": "-----",
+      "Steam": "76561198402812376",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "peksta",
       "Steam": "76561198755840381",
-      "Score": 19,
-      "Time": "17:12"
+      "Score": 26,
+      "Time": "19:12"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 0,
-      "Time": "00:37"
+      "Score": 6,
+      "Time": "02:37"
     },
     {
       "Name": "klien",
       "Steam": "76561199130633559",
-      "Score": 0,
-      "Time": "80:56"
+      "Score": 2,
+      "Time": "82:56"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
       "Score": 14,
-      "Time": "62:56"
+      "Time": "64:56"
     },
     {
       "Name": "yen7",
       "Steam": "76561199693252775",
-      "Score": 13,
-      "Time": "31:59"
+      "Score": 15,
+      "Time": "33:59"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 9,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "LAM *sucks at hvh*",
       "Steam": "76561198745040363",
-      "Score": 10,
-      "Time": "25:46"
+      "Score": 14,
+      "Time": "27:46"
+    },
+    {
+      "Name": "Blank",
+      "Steam": "76561199396651185",
+      "Score": 0,
+      "Time": "00:22"
     }
   ]
 }
