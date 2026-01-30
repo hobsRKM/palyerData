@@ -1,40 +1,40 @@
 {
-  "Time": "2026-01-30T07:47:25.2461847Z",
+  "Time": "2026-01-30T07:49:25.2372602Z",
   "Players": [
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 10,
-      "Time": "08:01"
+      "Score": 20,
+      "Time": "10:01"
     },
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "dad",
       "Steam": "76561198273566562",
-      "Score": 6,
-      "Time": "02:52"
+      "Score": 10,
+      "Time": "04:52"
     },
     {
       "Name": "sosa",
       "Steam": "76561199782209001",
-      "Score": 2,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "botbot",
       "Steam": "76561198746683081",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
