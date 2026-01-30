@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-30T21:43:39.7638025Z",
+  "Time": "2026-01-30T21:45:39.7548647Z",
   "Players": [
+    {
+      "Name": "Fatality user",
+      "Steam": "76561198745053325",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "radiohead his good",
       "Steam": "76561198778110189",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "セックス",
       "Steam": "76561199571154189",
-      "Score": 12,
-      "Time": "281:58"
+      "Score": 24,
+      "Time": "283:58"
     },
     {
       "Name": "小灰毛",
       "Steam": "76561199837815539",
-      "Score": 51,
-      "Time": "28:01"
+      "Score": 59,
+      "Time": "30:01"
     },
     {
       "Name": "neverlose (nevershoot)",
       "Steam": "76561199819992062",
       "Score": 17,
-      "Time": "199:58"
+      "Time": "201:58"
     },
     {
       "Name": "un boleo en el tuje",
@@ -40,14 +46,14 @@
     {
       "Name": "egor",
       "Steam": "76561198742767214",
-      "Score": 2,
-      "Time": "30:59"
+      "Score": 0,
+      "Time": "32:59"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
       "Steam": "76561198341012123",
-      "Score": 41,
-      "Time": "88:05"
+      "Score": 45,
+      "Time": "90:05"
     }
   ]
 }
