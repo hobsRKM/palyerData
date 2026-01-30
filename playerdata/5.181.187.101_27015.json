@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-30T20:33:13.3576023Z",
+  "Time": "2026-01-30T20:35:13.3445755Z",
   "Players": [
     {
       "Name": "lacoste",
       "Steam": "76561199889697498",
-      "Score": 12,
-      "Time": "42:51"
+      "Score": 18,
+      "Time": "44:51"
     },
     {
       "Name": "mO1ex",
       "Steam": "76561198752605628",
       "Score": 36,
-      "Time": "43:18"
+      "Time": "45:18"
+    },
+    {
+      "Name": "Kreki",
+      "Steam": "76561198914304944",
+      "Score": 0,
+      "Time": "00:03"
     },
     {
       "Name": "ÇAYIR BİÇİYOM ÇAYIR",
@@ -22,50 +28,50 @@
     {
       "Name": "D0cc",
       "Steam": "76561198354203324",
-      "Score": 40,
-      "Time": "65:39"
-    },
-    {
-      "Name": "cweluszek",
-      "Steam": "76561198742757274",
-      "Score": 25,
-      "Time": "66:19"
+      "Score": 56,
+      "Time": "67:39"
     },
     {
       "Name": "\uD800\uDC83\uD800\uDC83",
       "Steam": "76561199653716668",
-      "Score": 6,
-      "Time": "32:12"
+      "Score": 8,
+      "Time": "34:12"
     },
     {
       "Name": "?skyy/",
       "Steam": "76561199838974363",
-      "Score": 59,
-      "Time": "160:44"
+      "Score": 63,
+      "Time": "162:44"
     },
     {
       "Name": "Avast4r \uD83E\uDDCA",
       "Steam": "76561199376242490",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "H3nta1",
       "Steam": "76561199845214203",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "lianxio",
       "Steam": "76561198754321636",
-      "Score": 28,
+      "Score": 35,
       "Time": "??:??"
+    },
+    {
+      "Name": "Dizzel",
+      "Steam": "76561199711150979",
+      "Score": 8,
+      "Time": "252:02"
     },
     {
       "Name": "S1MPLE",
       "Steam": "76561198748209216",
-      "Score": 14,
-      "Time": "29:29"
+      "Score": 16,
+      "Time": "31:29"
     }
   ]
 }
