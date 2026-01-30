@@ -1,34 +1,46 @@
 {
-  "Time": "2026-01-30T08:33:25.2392466Z",
+  "Time": "2026-01-30T08:35:25.2520301Z",
   "Players": [
+    {
+      "Name": "aether",
+      "Steam": "76561198745395809",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 62,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "shazam",
       "Steam": "76561199558744525",
       "Score": 0,
-      "Time": "01:52"
+      "Time": "03:52"
     },
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "Mime",
+      "Steam": "76561199229432620",
+      "Score": 0,
+      "Time": "01:03"
     },
     {
       "Name": "botbot",
       "Steam": "76561198746683081",
-      "Score": 40,
+      "Score": 49,
       "Time": "??:??"
     }
   ]
