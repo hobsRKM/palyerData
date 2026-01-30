@@ -1,53 +1,59 @@
 {
-  "Time": "2026-01-30T20:54:22.9833218Z",
+  "Time": "2026-01-30T20:56:22.989549Z",
   "Players": [
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 2,
-      "Time": "06:02"
+      "Score": 5,
+      "Time": "08:02"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 31,
-      "Time": "15:03"
+      "Score": 35,
+      "Time": "17:03"
     },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
       "Score": 4,
-      "Time": "23:04"
-    },
-    {
-      "Name": "ana",
-      "Steam": "76561199841252574",
-      "Score": 3,
-      "Time": "27:25"
+      "Time": "25:04"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 72,
-      "Time": "26:51"
+      "Score": 80,
+      "Time": "28:51"
     },
     {
       "Name": "Green Fn",
       "Steam": "76561199077791772",
-      "Score": 74,
+      "Score": 80,
       "Time": "??:??"
+    },
+    {
+      "Name": "Torta (running EQ)",
+      "Steam": "76561198373259020",
+      "Score": 2,
+      "Time": "02:07"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 103,
+      "Score": 111,
       "Time": "??:??"
     },
     {
       "Name": "trad pagan femboy",
       "Steam": "76561199879696872",
-      "Score": 98,
-      "Time": "21:31"
+      "Score": 102,
+      "Time": "23:31"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
