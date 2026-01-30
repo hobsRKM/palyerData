@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-30T23:19:45.7116825Z",
+  "Time": "2026-01-30T23:21:45.7045443Z",
   "Players": [
+    {
+      "Name": "mj",
+      "Steam": "76561198751671283",
+      "Score": 2,
+      "Time": "01:34"
+    },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 78,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "event Xanxlover lilcouchhch",
       "Steam": "76561198774428536",
-      "Score": 0,
-      "Time": "01:03"
+      "Score": 4,
+      "Time": "03:03"
     },
     {
       "Name": "Don't Do Drugs *",
@@ -22,13 +28,13 @@
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 63,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "fashion #fuckallugot",
       "Steam": "76561198750276290",
-      "Score": 21,
+      "Score": 33,
       "Time": "??:??"
     }
   ]
