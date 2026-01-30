@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-30T11:49:13.3414601Z",
+  "Time": "2026-01-30T11:51:13.3491055Z",
   "Players": [
+    {
+      "Name": "kennys the goat",
+      "Steam": "76561199848947693",
+      "Score": 0,
+      "Time": "02:02"
+    },
     {
       "Name": "D0cc",
       "Steam": "76561198354203324",
@@ -10,24 +16,12 @@
     {
       "Name": "M1RtiN4oo",
       "Steam": "76561198794087367",
-      "Score": 74,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "aimjunkies update",
       "Steam": "76561199660705672",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "EEVOICEMAIL",
-      "Steam": "76561198769695144",
-      "Score": 6,
-      "Time": "01:39"
-    },
-    {
-      "Name": "GameplayLegend",
-      "Steam": "76561199550253042",
       "Score": 2,
       "Time": "??:??"
     }
