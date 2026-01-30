@@ -1,11 +1,11 @@
 {
-  "Time": "2026-01-30T14:51:13.3361221Z",
+  "Time": "2026-01-30T14:53:13.3441983Z",
   "Players": [
     {
       "Name": "lacoste",
       "Steam": "76561199889697498",
       "Score": 39,
-      "Time": "168:23"
+      "Time": "170:23"
     },
     {
       "Name": "waffle",
@@ -16,20 +16,26 @@
     {
       "Name": "mirzauzunca",
       "Steam": "76561199836241390",
-      "Score": 16,
-      "Time": "09:01"
+      "Score": 22,
+      "Time": "11:01"
     },
     {
       "Name": "imuru",
       "Steam": "76561199062980285",
-      "Score": 57,
+      "Score": 71,
       "Time": "??:??"
+    },
+    {
+      "Name": "D0cc",
+      "Steam": "76561198354203324",
+      "Score": 0,
+      "Time": "01:46"
     },
     {
       "Name": "MILFHUNTER",
       "Steam": "76561198759278959",
-      "Score": 38,
-      "Time": "42:44"
+      "Score": 50,
+      "Time": "44:44"
     },
     {
       "Name": "han",
@@ -40,8 +46,8 @@
     {
       "Name": "MaksiuOK",
       "Steam": "76561199386647495",
-      "Score": 18,
-      "Time": "14:37"
+      "Score": 20,
+      "Time": "16:37"
     },
     {
       "Name": "slem",
@@ -52,8 +58,8 @@
     {
       "Name": "Respect",
       "Steam": "76561199118168815",
-      "Score": 58,
-      "Time": "61:47"
+      "Score": 64,
+      "Time": "63:47"
     }
   ]
 }
