@@ -1,40 +1,52 @@
 {
-  "Time": "2026-01-30T03:29:25.2530277Z",
+  "Time": "2026-01-30T03:31:25.237673Z",
   "Players": [
+    {
+      "Name": "milk",
+      "Steam": "76561199740544730",
+      "Score": 10,
+      "Time": "02:08"
+    },
     {
       "Name": "mj",
       "Steam": "76561198751671283",
-      "Score": 12,
-      "Time": "00:28"
+      "Score": 16,
+      "Time": "02:28"
     },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 64,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
-    },
-    {
-      "Name": "Cortez",
-      "Steam": "76561198750080629",
-      "Score": 32,
-      "Time": "05:54"
     },
     {
       "Name": "xan",
       "Steam": "76561199072674466",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 32,
+      "Score": 48,
+      "Time": "??:??"
+    },
+    {
+      "Name": "miamimint",
+      "Steam": "76561199862935138",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "RADICAL RACIST",
+      "Steam": "76561199870945474",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
