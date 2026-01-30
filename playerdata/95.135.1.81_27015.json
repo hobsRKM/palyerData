@@ -1,89 +1,89 @@
 {
-  "Time": "2026-01-30T12:19:39.7623304Z",
+  "Time": "2026-01-30T12:21:39.7564675Z",
   "Players": [
+    {
+      "Name": "raw",
+      "Steam": "76561199682061013",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "paw paw",
       "Steam": "76561198217660916",
       "Score": 19,
-      "Time": "08:26"
+      "Time": "10:26"
+    },
+    {
+      "Name": "Blank",
+      "Steam": "76561199396651185",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "[Owner] : Fck U -_-",
       "Steam": "76561198751785608",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Netpincér",
       "Steam": "76561198783480630",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 51,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "rt",
       "Steam": "76561198448616742",
-      "Score": 10,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "atlanta",
       "Steam": "76561199564017508",
-      "Score": 32,
-      "Time": "81:26"
+      "Score": 36,
+      "Time": "83:26"
     },
     {
       "Name": "Mr President",
       "Steam": "76561199842369196",
-      "Score": 36,
-      "Time": "12:54"
-    },
-    {
-      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
-      "Steam": "76561198333235279",
-      "Score": 87,
-      "Time": "??:??"
+      "Score": 44,
+      "Time": "14:54"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 38,
-      "Time": "26:20"
+      "Score": 45,
+      "Time": "28:20"
     },
     {
       "Name": "ghostY",
       "Steam": "76561199591486018",
-      "Score": 8,
-      "Time": "82:33"
-    },
-    {
-      "Name": "https://dc.gg/foxnet",
-      "Steam": "76561199691142851",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 10,
+      "Time": "84:33"
     },
     {
       "Name": "Женя на хуе (2.0)",
       "Steam": "76561198741841191",
-      "Score": 12,
-      "Time": "29:48"
+      "Score": 13,
+      "Time": "31:48"
     },
     {
       "Name": "neverlose (nevershoot)",
       "Steam": "76561199819992062",
       "Score": 29,
-      "Time": "25:02"
+      "Time": "27:02"
     },
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 36,
-      "Time": "07:56"
+      "Score": 44,
+      "Time": "09:56"
     }
   ]
 }
