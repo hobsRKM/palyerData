@@ -1,46 +1,52 @@
 {
-  "Time": "2026-01-30T14:23:13.3359184Z",
+  "Time": "2026-01-30T14:25:13.3391852Z",
   "Players": [
     {
       "Name": "lacoste",
       "Steam": "76561199889697498",
-      "Score": 36,
-      "Time": "140:23"
+      "Score": 42,
+      "Time": "142:23"
     },
     {
       "Name": "waffle",
       "Steam": "76561198309670036",
-      "Score": 34,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "cweluszek",
       "Steam": "76561198742757274",
-      "Score": 64,
-      "Time": "20:51"
+      "Score": 68,
+      "Time": "22:51"
     },
     {
       "Name": "kennys the goat",
       "Steam": "76561199848947693",
-      "Score": 47,
-      "Time": "154:02"
+      "Score": 53,
+      "Time": "156:02"
     },
     {
       "Name": "FR - MrX",
       "Steam": "76561198783305929",
-      "Score": 14,
-      "Time": "18:21"
+      "Score": 16,
+      "Time": "20:21"
     },
     {
       "Name": "mirzauzunca",
       "Steam": "76561199836241390",
-      "Score": 25,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "imuru",
       "Steam": "76561199062980285",
-      "Score": 52,
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "+",
+      "Steam": "76561199002053532",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -50,28 +56,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "FataLose",
-      "Steam": "76561198742964698",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Clutch Norris",
-      "Steam": "76561199887562521",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
       "Name": "MILFHUNTER",
       "Steam": "76561198759278959",
-      "Score": 14,
-      "Time": "14:44"
+      "Score": 28,
+      "Time": "16:44"
     },
     {
       "Name": "Respect",
       "Steam": "76561199118168815",
-      "Score": 22,
-      "Time": "33:47"
+      "Score": 24,
+      "Time": "35:47"
     }
   ]
 }
