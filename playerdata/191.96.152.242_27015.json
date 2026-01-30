@@ -1,57 +1,75 @@
 {
-  "Time": "2026-01-30T20:26:22.9804048Z",
+  "Time": "2026-01-30T20:28:22.9873842Z",
   "Players": [
+    {
+      "Name": "ana",
+      "Steam": "76561199841252574",
+      "Score": 0,
+      "Time": "01:25"
+    },
+    {
+      "Name": "GigglyGoon",
+      "Steam": "76561199400457766",
+      "Score": 9,
+      "Time": "00:51"
+    },
     {
       "Name": "Green Fn",
       "Steam": "76561199077791772",
-      "Score": 31,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 81,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561199473516704",
-      "Score": 40,
-      "Time": "34:49"
+      "Score": 42,
+      "Time": "36:49"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 52,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "pumpdotfun",
       "Steam": "76561199660418998",
-      "Score": 13,
-      "Time": "14:40"
+      "Score": 14,
+      "Time": "16:40"
     },
     {
       "Name": "conspicuous",
       "Steam": "76561198031625589",
-      "Score": 43,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "trad pagan femboy",
       "Steam": "76561199879696872",
-      "Score": 45,
-      "Time": "17:38"
+      "Score": 49,
+      "Time": "19:38"
     },
     {
       "Name": "emotional suport bagel",
       "Steam": "76561199548982521",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "virginia beach",
       "Steam": "76561199878413811",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cocoalt",
+      "Steam": "76561198745053212",
       "Score": 0,
       "Time": "??:??"
     }
