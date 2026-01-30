@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-30T15:11:39.7594119Z",
+  "Time": "2026-01-30T15:13:39.7609219Z",
   "Players": [
+    {
+      "Name": "tymo--",
+      "Steam": "76561199425592793",
+      "Score": 2,
+      "Time": "01:10"
+    },
     {
       "Name": "p",
       "Steam": "76561199054143629",
@@ -10,20 +16,14 @@
     {
       "Name": "ᵃˢᵃᵖ Candy Men",
       "Steam": "76561199142822378",
-      "Score": 111,
-      "Time": "45:02"
-    },
-    {
-      "Name": "direksi",
-      "Steam": "76561199494257943",
-      "Score": 5,
-      "Time": "??:??"
+      "Score": 116,
+      "Time": "47:02"
     },
     {
       "Name": "TESTING FATALITY UPDATE",
       "Steam": "76561199564017508",
-      "Score": 7,
-      "Time": "22:04"
+      "Score": 11,
+      "Time": "24:04"
     },
     {
       "Name": "anhopa",
@@ -40,8 +40,8 @@
     {
       "Name": ">.<",
       "Steam": "76561199042138318",
-      "Score": 4,
-      "Time": "01:48"
+      "Score": 8,
+      "Time": "03:48"
     },
     {
       "Name": "sarah",
@@ -52,26 +52,26 @@
     {
       "Name": "kaktusior1",
       "Steam": "76561199510403300",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "3",
       "Steam": "76561198765278487",
-      "Score": 48,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "小灰毛",
       "Steam": "76561199837815539",
       "Score": 0,
-      "Time": "05:38"
+      "Time": "07:38"
     },
     {
       "Name": "Kardos Cigány",
       "Steam": "76561198800976872",
       "Score": 40,
-      "Time": "42:50"
+      "Time": "44:50"
     }
   ]
 }
