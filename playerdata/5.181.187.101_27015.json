@@ -1,4 +1,41 @@
 {
-  "Time": "2026-01-30T12:04:22.9588844Z",
-  "Players": []
+  "Time": "2026-01-30T12:05:13.3436534Z",
+  "Players": [
+    {
+      "Name": "lacoste",
+      "Steam": "76561199889697498",
+      "Score": 2,
+      "Time": "02:23"
+    },
+    {
+      "Name": "kennys the goat",
+      "Steam": "76561199848947693",
+      "Score": 47,
+      "Time": "16:02"
+    },
+    {
+      "Name": "D0cc",
+      "Steam": "76561198354203324",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "M1RtiN4oo",
+      "Steam": "76561198794087367",
+      "Score": 70,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NeverFata",
+      "Steam": "76561198743831540",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dalnmian68",
+      "Steam": "76561199861637109",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
