@@ -1,5 +1,5 @@
 {
-  "Time": "2026-01-30T03:38:39.7228973Z",
+  "Time": "2026-01-30T03:40:39.7237733Z",
   "Players": [
     {
       "Name": "Mjay",
@@ -10,7 +10,7 @@
     {
       "Name": "meow meow",
       "Steam": "76561199828015418",
-      "Score": 20,
+      "Score": 32,
       "Time": "??:??"
     },
     {
@@ -22,14 +22,20 @@
     {
       "Name": "SCP sem0chka",
       "Steam": "76561199846900801",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "osecc",
       "Steam": "76561199231439540",
+      "Score": 7,
+      "Time": "03:01"
+    },
+    {
+      "Name": "Spargatoru de buci",
+      "Steam": "76561199214100987",
       "Score": 0,
-      "Time": "01:01"
+      "Time": "??:??"
     }
   ]
 }
