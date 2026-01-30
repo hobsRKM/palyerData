@@ -1,64 +1,70 @@
 {
-  "Time": "2026-01-30T00:06:12.5937512Z",
+  "Time": "2026-01-30T00:08:12.6011185Z",
   "Players": [
     {
       "Name": "James",
       "Steam": "76561199121215178",
       "Score": 6,
-      "Time": "04:29"
+      "Time": "06:29"
     },
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 0,
-      "Time": "04:05"
+      "Score": 8,
+      "Time": "06:05"
     },
     {
       "Name": "milk",
       "Steam": "76561199740544730",
       "Score": 22,
-      "Time": "37:11"
-    },
-    {
-      "Name": "mj",
-      "Steam": "76561198751671283",
-      "Score": 21,
-      "Time": "13:31"
+      "Time": "39:11"
     },
     {
       "Name": "Cortez",
       "Steam": "76561198750080629",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "pumpdotfun",
       "Steam": "76561199660418998",
-      "Score": 29,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 56,
-      "Time": "16:30"
+      "Score": 68,
+      "Time": "18:30"
     },
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "emotional suport bagel",
       "Steam": "76561199548982521",
-      "Score": 20,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Midtranny",
       "Steam": "76561199847771652",
-      "Score": 67,
+      "Score": 76,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jordan.clever",
+      "Steam": "76561198752400979",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "what",
+      "Steam": "76561198745504861",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
