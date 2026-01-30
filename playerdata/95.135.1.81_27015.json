@@ -1,10 +1,16 @@
 {
-  "Time": "2026-01-30T13:53:39.7552367Z",
+  "Time": "2026-01-30T13:55:39.7608762Z",
   "Players": [
     {
       "Name": "19",
       "Steam": "76561198742767214",
-      "Score": 0,
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tymo--",
+      "Steam": "76561199425592793",
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -14,39 +20,39 @@
       "Time": "??:??"
     },
     {
-      "Name": "dbd ass",
-      "Steam": "76561199590374605",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 83,
-      "Time": "06:04"
+      "Score": 87,
+      "Time": "08:04"
+    },
+    {
+      "Name": "aria",
+      "Steam": "76561199564017508",
+      "Score": 6,
+      "Time": "01:09"
     },
     {
       "Name": "Mr President",
       "Steam": "76561199842369196",
-      "Score": 4,
-      "Time": "106:54"
+      "Score": 11,
+      "Time": "108:54"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 17,
-      "Time": "18:45"
+      "Score": 34,
+      "Time": "20:45"
     },
     {
       "Name": "sarah",
       "Steam": "76561199174588366",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "zxro1337",
       "Steam": "76561199198065355",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -58,8 +64,14 @@
     {
       "Name": "M1RtiN4oo",
       "Steam": "76561198794087367",
-      "Score": 54,
-      "Time": "38:00"
+      "Score": 57,
+      "Time": "40:00"
+    },
+    {
+      "Name": "neverlose (nevershoot)",
+      "Steam": "76561199819992062",
+      "Score": 0,
+      "Time": "01:04"
     }
   ]
 }
