@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-30T11:57:39.7640604Z",
+  "Time": "2026-01-30T11:59:39.7620341Z",
   "Players": [
+    {
+      "Name": "Skriver",
+      "Steam": "76561198036988797",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 91,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "rt",
       "Steam": "76561198448616742",
-      "Score": 117,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "atlanta",
       "Steam": "76561199564017508",
-      "Score": 44,
-      "Time": "59:26"
+      "Score": 0,
+      "Time": "61:26"
     },
     {
       "Name": "y",
       "Steam": "76561198745487779",
       "Score": 0,
-      "Time": "03:50"
+      "Time": "05:50"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
       "Steam": "76561198333235279",
-      "Score": 79,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 108,
-      "Time": "04:20"
+      "Score": 0,
+      "Time": "06:20"
     },
     {
       "Name": "aw p",
@@ -44,16 +50,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "szybki zawodnik",
-      "Steam": "76561199131633124",
-      "Score": 141,
-      "Time": "??:??"
-    },
-    {
       "Name": "xoee",
       "Steam": "76561198761751293",
-      "Score": 42,
-      "Time": "35:21"
+      "Score": 0,
+      "Time": "37:21"
     },
     {
       "Name": "kasadam",
@@ -70,14 +70,14 @@
     {
       "Name": "Женя на хуе (2.0)",
       "Steam": "76561198741841191",
-      "Score": 5,
-      "Time": "07:48"
+      "Score": 0,
+      "Time": "09:48"
     },
     {
       "Name": "neverlose (nevershoot)",
       "Steam": "76561199819992062",
-      "Score": 37,
-      "Time": "03:02"
+      "Score": 0,
+      "Time": "05:02"
     },
     {
       "Name": "Noah111 = DD",
@@ -88,7 +88,7 @@
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 17,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
