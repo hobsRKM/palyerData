@@ -1,34 +1,40 @@
 {
-  "Time": "2026-01-30T08:23:25.2411108Z",
+  "Time": "2026-01-30T08:25:25.2416217Z",
   "Players": [
     {
       "Name": "Hitler",
       "Steam": "76561199866087705",
-      "Score": 10,
-      "Time": "04:41"
+      "Score": 11,
+      "Time": "06:41"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 23,
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Youngdeag",
+      "Steam": "76561198819313716",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "dad",
       "Steam": "76561198273566562",
-      "Score": 14,
-      "Time": "38:52"
+      "Score": 22,
+      "Time": "40:52"
     },
     {
       "Name": "botbot",
       "Steam": "76561198746683081",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
