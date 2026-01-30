@@ -1,52 +1,58 @@
 {
-  "Time": "2026-01-30T15:51:13.3394984Z",
+  "Time": "2026-01-30T15:53:13.3407037Z",
   "Players": [
+    {
+      "Name": "cweluszek",
+      "Steam": "76561198742757274",
+      "Score": 0,
+      "Time": "01:08"
+    },
     {
       "Name": "kennys the goat",
       "Steam": "76561199848947693",
       "Score": 40,
-      "Time": "15:33"
+      "Time": "17:33"
     },
     {
       "Name": "D0cc",
       "Steam": "76561198354203324",
-      "Score": 74,
-      "Time": "59:46"
+      "Score": 4,
+      "Time": "61:46"
     },
     {
       "Name": "Respect",
       "Steam": "76561199118168815",
       "Score": 65,
-      "Time": "31:15"
+      "Time": "33:15"
     },
     {
       "Name": "picabelli",
       "Steam": "76561198400013913",
       "Score": 0,
-      "Time": "98:11"
+      "Time": "100:11"
     },
     {
       "Name": "Karim Santos",
       "Steam": "76561198268324959",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "lleva",
       "Steam": "76561198268910286",
-      "Score": 75,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "mercury",
       "Steam": "76561199891995705",
-      "Score": 8,
-      "Time": "24:37"
+      "Score": 19,
+      "Time": "26:37"
     },
     {
       "Name": "S1MPLE",
       "Steam": "76561198748209216",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
