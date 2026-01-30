@@ -1,53 +1,71 @@
 {
-  "Time": "2026-01-30T16:31:13.3308245Z",
+  "Time": "2026-01-30T16:33:13.3363457Z",
   "Players": [
+    {
+      "Name": "TRPLBABY",
+      "Steam": "76561198413331142",
+      "Score": 2,
+      "Time": "00:17"
+    },
     {
       "Name": "TheTurboSub_0",
       "Steam": "76561199849390678",
-      "Score": 28,
+      "Score": 32,
       "Time": "??:??"
+    },
+    {
+      "Name": "mO1ex",
+      "Steam": "76561198752605628",
+      "Score": 0,
+      "Time": "00:51"
     },
     {
       "Name": "cweluszek",
       "Steam": "76561198742757274",
-      "Score": 50,
-      "Time": "39:08"
+      "Score": 52,
+      "Time": "41:08"
+    },
+    {
+      "Name": "Kreki",
+      "Steam": "76561198914304944",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "D0cc",
       "Steam": "76561198354203324",
-      "Score": 45,
-      "Time": "99:46"
+      "Score": 2,
+      "Time": "101:46"
     },
     {
       "Name": "Respect",
       "Steam": "76561199118168815",
       "Score": 0,
-      "Time": "04:08"
+      "Time": "06:08"
     },
     {
       "Name": "picabelli",
       "Steam": "76561198400013913",
       "Score": 0,
-      "Time": "138:11"
+      "Time": "140:11"
     },
     {
       "Name": "mercury",
       "Steam": "76561199891995705",
-      "Score": 2,
-      "Time": "64:37"
+      "Score": 22,
+      "Time": "66:37"
     },
     {
       "Name": "S1MPLE",
       "Steam": "76561198748209216",
-      "Score": 66,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "H",
       "Steam": "76561199345425735",
-      "Score": 32,
-      "Time": "65:09"
+      "Score": 36,
+      "Time": "67:09"
     }
   ]
 }
