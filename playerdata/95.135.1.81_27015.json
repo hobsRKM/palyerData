@@ -1,83 +1,95 @@
 {
-  "Time": "2026-01-31T11:33:54.8107195Z",
+  "Time": "2026-01-31T11:35:54.7986649Z",
   "Players": [
+    {
+      "Name": "D1ple",
+      "Steam": "76561198741545490",
+      "Score": 0,
+      "Time": "01:45"
+    },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 18,
-      "Time": "11:52"
+      "Score": 28,
+      "Time": "13:52"
     },
     {
       "Name": "tymo--",
       "Steam": "76561199425592793",
-      "Score": 0,
-      "Time": "13:08"
+      "Score": 4,
+      "Time": "15:08"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 47,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Noah111",
       "Steam": "76561198880699322",
-      "Score": 10,
-      "Time": "14:26"
+      "Score": 26,
+      "Time": "16:26"
     },
     {
       "Name": "Vilko",
       "Steam": "76561198160571123",
-      "Score": 30,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561199564017508",
-      "Score": 2,
-      "Time": "12:36"
+      "Score": 4,
+      "Time": "14:36"
+    },
+    {
+      "Name": "jose",
+      "Steam": "76561198315948842",
+      "Score": 0,
+      "Time": "00:18"
     },
     {
       "Name": "Exactey",
       "Steam": "76561198308584524",
-      "Score": 2,
-      "Time": "18:58"
+      "Score": 0,
+      "Time": "20:58"
     },
     {
       "Name": "vize",
       "Steam": "76561198448616742",
-      "Score": 21,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "drez",
       "Steam": "76561199237053410",
       "Score": 0,
-      "Time": "02:46"
+      "Time": "04:46"
     },
     {
       "Name": "?",
       "Steam": "76561199734403622",
-      "Score": 3,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "rivella enjoyer",
       "Steam": "76561198759841292",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "^>.<^",
       "Steam": "76561199700050320",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "beaver",
       "Steam": "76561199378890188",
-      "Score": 12,
-      "Time": "06:55"
+      "Score": 14,
+      "Time": "08:55"
     }
   ]
 }
