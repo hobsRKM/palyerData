@@ -1,17 +1,29 @@
 {
-  "Time": "2026-01-31T20:42:04.4708383Z",
+  "Time": "2026-01-31T20:44:04.4669263Z",
   "Players": [
+    {
+      "Name": "\uDB40\uDC73⁧⁧lovesick",
+      "Steam": "76561199258689499",
+      "Score": 1,
+      "Time": "01:26"
+    },
+    {
+      "Name": "nes",
+      "Steam": "76561199867566993",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 53,
-      "Time": "19:42"
+      "Score": 61,
+      "Time": "21:42"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 11,
-      "Time": "01:51"
+      "Score": 13,
+      "Time": "03:51"
     },
     {
       "Name": "Qhxix",
@@ -22,25 +34,19 @@
     {
       "Name": "but you know... whatever",
       "Steam": "76561198745592042",
-      "Score": 13,
-      "Time": "05:51"
+      "Score": 25,
+      "Time": "07:51"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 65,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "La Thiên Hành",
       "Steam": "76561198766355307",
-      "Score": 45,
-      "Time": "??:??"
-    },
-    {
-      "Name": "peak",
-      "Steam": "76561199064227906",
-      "Score": 2,
+      "Score": 46,
       "Time": "??:??"
     }
   ]
