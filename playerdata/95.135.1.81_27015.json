@@ -1,53 +1,59 @@
 {
-  "Time": "2026-01-31T16:59:54.8022551Z",
+  "Time": "2026-01-31T17:01:54.8075702Z",
   "Players": [
+    {
+      "Name": "hustawa1337",
+      "Steam": "76561199818675359",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Staszek",
       "Steam": "76561199407935025",
-      "Score": 0,
-      "Time": "236:21"
-    },
-    {
-      "Name": "hokus",
-      "Steam": "76561199524437506",
-      "Score": 9,
-      "Time": "95:43"
+      "Score": 3,
+      "Time": "238:21"
     },
     {
       "Name": "pqp",
       "Steam": "76561199397291582",
-      "Score": 24,
-      "Time": "09:27"
+      "Score": 31,
+      "Time": "11:27"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 18,
-      "Time": "13:26"
+      "Score": 26,
+      "Time": "15:26"
     },
     {
       "Name": "Drxzm.",
       "Steam": "76561198345858138",
-      "Score": 32,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "me",
       "Steam": "76561198782604078",
-      "Score": 1,
-      "Time": "01:38"
+      "Score": 2,
+      "Time": "03:38"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 34,
-      "Time": "35:33"
+      "Score": 44,
+      "Time": "37:33"
+    },
+    {
+      "Name": "counterstrikebomb45",
+      "Steam": "76561198791441850",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Mr President",
       "Steam": "76561199842369196",
-      "Score": 5,
-      "Time": "120:11"
+      "Score": 2,
+      "Time": "122:11"
     }
   ]
 }
