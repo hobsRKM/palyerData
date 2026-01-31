@@ -1,29 +1,41 @@
 {
-  "Time": "2026-01-31T19:15:36.1928449Z",
+  "Time": "2026-01-31T19:15:55.0987126Z",
   "Players": [
     {
-      "Name": "KKKKKKKKKKKKKKK",
-      "Steam": "76561198750394550",
+      "Name": "lacoste",
+      "Steam": "76561199889697498",
+      "Score": 2,
+      "Time": "51:36"
+    },
+    {
+      "Name": "D0cc",
+      "Steam": "76561198354203324",
+      "Score": 20,
+      "Time": "142:56"
+    },
+    {
+      "Name": "va|fut|mamele|tichie",
+      "Steam": "76561199882580065",
       "Score": 0,
+      "Time": "112:24"
+    },
+    {
+      "Name": "-297",
+      "Steam": "76561198945418115",
+      "Score": 12,
       "Time": "??:??"
     },
     {
-      "Name": "супер мопс",
-      "Steam": "76561198742877645",
-      "Score": 0,
-      "Time": "06:45"
-    },
-    {
-      "Name": "4YOU | Vexy",
-      "Steam": "76561199856089223",
-      "Score": 0,
+      "Name": "sleepymita",
+      "Steam": "76561198740673312",
+      "Score": 22,
       "Time": "??:??"
     },
     {
-      "Name": "(ZX) | K1LLUA | (ZX)",
-      "Steam": "76561198742596661",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "S1MPLE",
+      "Steam": "76561198748209216",
+      "Score": 23,
+      "Time": "100:58"
     }
   ]
 }
