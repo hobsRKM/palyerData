@@ -1,29 +1,35 @@
 {
-  "Time": "2026-01-31T06:14:41.5966389Z",
+  "Time": "2026-01-31T06:16:41.59649Z",
   "Players": [
+    {
+      "Name": "ether",
+      "Steam": "76561199724403388",
+      "Score": 0,
+      "Time": "01:28"
+    },
     {
       "Name": "Mr PeAce™ ♕",
       "Steam": "76561198294617498",
-      "Score": 4,
-      "Time": "34:19"
+      "Score": 8,
+      "Time": "36:19"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 8,
-      "Time": "57:08"
+      "Score": 14,
+      "Time": "59:08"
     },
     {
       "Name": "JumpScout 2077",
       "Steam": "76561199842283410",
-      "Score": 7,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "malloc",
       "Steam": "76561198792647665",
       "Score": 0,
-      "Time": "02:24"
+      "Time": "04:24"
     }
   ]
 }
