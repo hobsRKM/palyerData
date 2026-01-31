@@ -1,95 +1,101 @@
 {
-  "Time": "2026-01-31T18:15:54.8022838Z",
+  "Time": "2026-01-31T18:17:54.7996065Z",
   "Players": [
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 0,
+      "Time": "01:11"
+    },
     {
       "Name": "ozempeek",
       "Steam": "76561199241125970",
-      "Score": 0,
-      "Time": "60:26"
+      "Score": 6,
+      "Time": "62:26"
     },
     {
       "Name": "tymo--",
       "Steam": "76561199425592793",
-      "Score": 12,
-      "Time": "04:59"
+      "Score": 21,
+      "Time": "06:59"
     },
     {
       "Name": "⁹⁹⁹Rick",
       "Steam": "76561199050470003",
-      "Score": 12,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Seoul999",
       "Steam": "76561198051992092",
       "Score": 0,
-      "Time": "50:05"
+      "Time": "52:05"
     },
     {
       "Name": "أنت سيء للغاية",
       "Steam": "76561198784746245",
-      "Score": 18,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Staszek",
       "Steam": "76561199407935025",
-      "Score": 71,
-      "Time": "33:28"
+      "Score": 79,
+      "Time": "35:28"
     },
     {
       "Name": "d.",
       "Steam": "76561198743039321",
-      "Score": 71,
-      "Time": "208:38"
+      "Score": 76,
+      "Time": "210:38"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
       "Score": 0,
-      "Time": "89:26"
+      "Time": "91:26"
     },
     {
       "Name": "Kubxon",
       "Steam": "76561198426183355",
-      "Score": 0,
-      "Time": "04:40"
+      "Score": 2,
+      "Time": "06:40"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 41,
-      "Time": "18:24"
+      "Score": 43,
+      "Time": "20:24"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 10,
-      "Time": "11:40"
+      "Score": 11,
+      "Time": "13:40"
     },
     {
       "Name": "@_@",
       "Steam": "76561198745487779",
       "Score": 0,
-      "Time": "42:39"
+      "Time": "44:39"
     },
     {
       "Name": "con artist",
       "Steam": "76561198131709407",
-      "Score": 94,
-      "Time": "37:42"
+      "Score": 98,
+      "Time": "39:42"
     },
     {
       "Name": "Mr President",
       "Steam": "76561199842369196",
-      "Score": 13,
-      "Time": "196:11"
+      "Score": 18,
+      "Time": "198:11"
     },
     {
       "Name": ">.<",
       "Steam": "76561199042138318",
-      "Score": 4,
-      "Time": "10:28"
+      "Score": 0,
+      "Time": "12:28"
     }
   ]
 }
