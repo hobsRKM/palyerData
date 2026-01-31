@@ -1,41 +1,47 @@
 {
-  "Time": "2026-01-31T16:55:54.8035763Z",
+  "Time": "2026-01-31T16:57:54.8055594Z",
   "Players": [
+    {
+      "Name": "Kanaa",
+      "Steam": "76561199365905587",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "hokus",
       "Steam": "76561199524437506",
-      "Score": 6,
-      "Time": "91:43"
+      "Score": 7,
+      "Time": "93:43"
     },
     {
       "Name": "pqp",
       "Steam": "76561199397291582",
-      "Score": 10,
-      "Time": "05:27"
+      "Score": 18,
+      "Time": "07:27"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 6,
-      "Time": "09:26"
+      "Score": 8,
+      "Time": "11:26"
     },
     {
       "Name": "Drxzm.",
       "Steam": "76561198345858138",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 26,
-      "Time": "31:33"
+      "Score": 32,
+      "Time": "33:33"
     },
     {
       "Name": "Mr President",
       "Steam": "76561199842369196",
-      "Score": 10,
-      "Time": "116:11"
+      "Score": 0,
+      "Time": "118:11"
     }
   ]
 }
