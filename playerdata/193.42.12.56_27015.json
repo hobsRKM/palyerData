@@ -1,40 +1,40 @@
 {
-  "Time": "2026-01-31T10:01:34.5420169Z",
+  "Time": "2026-01-31T10:03:34.5298313Z",
   "Players": [
     {
       "Name": "Chris",
       "Steam": "76561199828037563",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "JordeN",
       "Steam": "76561198818249175",
-      "Score": 17,
-      "Time": "13:50"
+      "Score": 21,
+      "Time": "15:50"
     },
     {
       "Name": "Void",
       "Steam": "76561199491997558",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "beaver",
+      "Steam": "76561199378890188",
+      "Score": 0,
+      "Time": "00:37"
     },
     {
       "Name": "majesty",
       "Steam": "76561199144008024",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "why2cry",
-      "Steam": "76561199769266045",
-      "Score": 10,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "FridaPuso",
       "Steam": "76561198835773656",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
