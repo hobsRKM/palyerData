@@ -1,28 +1,34 @@
 {
-  "Time": "2026-01-31T18:03:53.6227919Z",
+  "Time": "2026-01-31T18:05:53.6157746Z",
   "Players": [
+    {
+      "Name": "EU SOU ?",
+      "Steam": "76561198746194117",
+      "Score": 28,
+      "Time": "00:55"
+    },
     {
       "Name": "pARAVANI dZ7",
       "Steam": "76561198741024276",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "focus",
       "Steam": "76561199884553201",
-      "Score": 65,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "bgn",
       "Steam": "76561198773400637",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "pikojlei",
       "Steam": "76561199086781703",
-      "Score": 25,
+      "Score": 28,
       "Time": "??:??"
     }
   ]
