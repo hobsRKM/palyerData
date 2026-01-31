@@ -1,6 +1,12 @@
 {
-  "Time": "2026-01-31T10:39:34.5339083Z",
+  "Time": "2026-01-31T10:41:34.5324179Z",
   "Players": [
+    {
+      "Name": "Chris",
+      "Steam": "76561199828037563",
+      "Score": 0,
+      "Time": "00:25"
+    },
     {
       "Name": "Void",
       "Steam": "76561199491997558",
@@ -10,14 +16,20 @@
     {
       "Name": "tragaci",
       "Steam": "76561199876689927",
-      "Score": 5,
-      "Time": "05:46"
+      "Score": 9,
+      "Time": "07:46"
+    },
+    {
+      "Name": "majesty",
+      "Steam": "76561199144008024",
+      "Score": 15,
+      "Time": "01:43"
     },
     {
       "Name": "why2cry",
       "Steam": "76561199769266045",
-      "Score": 14,
-      "Time": "06:55"
+      "Score": 25,
+      "Time": "08:55"
     },
     {
       "Name": "FridaPuso",
@@ -28,13 +40,13 @@
     {
       "Name": "AKARI",
       "Steam": "76561199880783602",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "uixhc7ha",
       "Steam": "76561198741023527",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
@@ -46,7 +58,7 @@
     {
       "Name": "Discord_User",
       "Steam": "76561199648431443",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
