@@ -1,41 +1,41 @@
 {
-  "Time": "2026-01-31T23:15:40.774866Z",
+  "Time": "2026-01-31T23:17:40.784787Z",
   "Players": [
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 13,
-      "Time": "13:05"
+      "Score": 0,
+      "Time": "15:05"
     },
     {
       "Name": "mj",
       "Steam": "76561198751671283",
-      "Score": 14,
-      "Time": "00:24"
+      "Score": 16,
+      "Time": "02:24"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 99,
+      "Score": 107,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 51,
-      "Time": "??:??"
-    },
-    {
-      "Name": "imnotdoggo",
-      "Steam": "76561198751610816",
-      "Score": 84,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 6,
-      "Time": "01:43"
+      "Score": 8,
+      "Time": "03:43"
+    },
+    {
+      "Name": "Ray of Sunshine",
+      "Steam": "76561198084345532",
+      "Score": 4,
+      "Time": "??:??"
     }
   ]
 }
