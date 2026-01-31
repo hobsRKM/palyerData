@@ -1,35 +1,53 @@
 {
-  "Time": "2026-01-31T19:58:04.4682654Z",
+  "Time": "2026-01-31T20:00:04.4688457Z",
   "Players": [
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 14,
-      "Time": "12:25"
+      "Score": 18,
+      "Time": "14:25"
+    },
+    {
+      "Name": "frozen frogs",
+      "Steam": "76561199479457727",
+      "Score": 0,
+      "Time": "00:23"
     },
     {
       "Name": "꧁ঔৣ☬✞\uD835\uDCD3\uD835\uDD94\uD835\uDD93✞",
       "Steam": "76561198740982351",
       "Score": 0,
-      "Time": "00:47"
+      "Time": "02:47"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
       "Score": 13,
-      "Time": "60:46"
+      "Time": "62:46"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "c8",
       "Steam": "76561199849474975",
-      "Score": 26,
+      "Score": 27,
       "Time": "??:??"
+    },
+    {
+      "Name": "BOT tony",
+      "Steam": "76561199367021539",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198751610816",
+      "Score": 0,
+      "Time": "00:04"
     }
   ]
 }
