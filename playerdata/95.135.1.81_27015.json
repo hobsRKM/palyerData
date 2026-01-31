@@ -1,41 +1,65 @@
 {
-  "Time": "2026-01-31T13:41:54.8053907Z",
+  "Time": "2026-01-31T13:43:54.8027558Z",
   "Players": [
+    {
+      "Name": "worst player",
+      "Steam": "76561198784574810",
+      "Score": 0,
+      "Time": "01:15"
+    },
     {
       "Name": "raw",
       "Steam": "76561199682061013",
-      "Score": 28,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Noah111",
       "Steam": "76561198880699322",
-      "Score": 0,
-      "Time": "01:03"
+      "Score": 5,
+      "Time": "03:03"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 50,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "hvh ez 1",
       "Steam": "76561198743123782",
-      "Score": 45,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "hokus",
       "Steam": "76561199524437506",
-      "Score": 0,
-      "Time": "01:25"
+      "Score": 4,
+      "Time": "03:25"
     },
     {
       "Name": "Exactey",
       "Steam": "76561198308584524",
-      "Score": 20,
-      "Time": "05:52"
+      "Score": 14,
+      "Time": "07:52"
+    },
+    {
+      "Name": "ULUGBEK",
+      "Steam": "76561199629184110",
+      "Score": 0,
+      "Time": "59:12"
+    },
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "homoersmipson13",
+      "Steam": "76561198745006794",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "?",
@@ -46,7 +70,7 @@
     {
       "Name": "^>.<^",
       "Steam": "76561199700050320",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
