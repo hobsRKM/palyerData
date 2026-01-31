@@ -1,47 +1,53 @@
 {
-  "Time": "2026-01-31T02:31:39.7612565Z",
+  "Time": "2026-01-31T02:33:39.7588381Z",
   "Players": [
     {
       "Name": "?",
       "Steam": "76561199734403622",
-      "Score": 2,
-      "Time": "03:14"
+      "Score": 0,
+      "Time": "05:14"
+    },
+    {
+      "Name": "CallmeGronko",
+      "Steam": "76561198164505725",
+      "Score": 0,
+      "Time": "01:24"
     },
     {
       "Name": "Mjay",
       "Steam": "76561199237707727",
-      "Score": 4,
-      "Time": "386:21"
+      "Score": 0,
+      "Time": "388:21"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
       "Steam": "76561198333235279",
-      "Score": 2,
-      "Time": "282:00"
+      "Score": 6,
+      "Time": "284:00"
     },
     {
       "Name": "digga",
       "Steam": "76561198743761579",
       "Score": 0,
-      "Time": "73:30"
+      "Time": "75:30"
     },
     {
       "Name": "bored.",
       "Steam": "76561199634244736",
-      "Score": 2,
-      "Time": "254:55"
+      "Score": 0,
+      "Time": "256:55"
     },
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
-      "Score": 6,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "g\uDB40\uDC21\uDB40\uDC21rey59",
       "Steam": "76561199187600654",
-      "Score": 0,
-      "Time": "03:07"
+      "Score": 10,
+      "Time": "05:07"
     }
   ]
 }
