@@ -1,40 +1,46 @@
 {
-  "Time": "2026-01-31T05:58:41.6086209Z",
+  "Time": "2026-01-31T06:00:41.6094338Z",
   "Players": [
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 0,
-      "Time": "02:24"
+      "Score": 7,
+      "Time": "04:24"
     },
     {
       "Name": "Mr PeAce™ ♕",
       "Steam": "76561198294617498",
-      "Score": 19,
-      "Time": "18:19"
+      "Score": 32,
+      "Time": "20:19"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 26,
-      "Time": "41:08"
+      "Score": 27,
+      "Time": "43:08"
     },
     {
       "Name": "小兔",
       "Steam": "76561198746152018",
-      "Score": 42,
-      "Time": "26:14"
+      "Score": 44,
+      "Time": "28:14"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "JumpScout 2077",
       "Steam": "76561199842283410",
-      "Score": 57,
+      "Score": 63,
+      "Time": "??:??"
+    },
+    {
+      "Name": "malloc",
+      "Steam": "76561198792647665",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
