@@ -1,58 +1,64 @@
 {
-  "Time": "2026-01-31T23:39:54.7986925Z",
+  "Time": "2026-01-31T23:41:54.8120116Z",
   "Players": [
+    {
+      "Name": "✠",
+      "Steam": "76561199099872423",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Holocaust denier",
       "Steam": "76561199772489774",
-      "Score": 21,
-      "Time": "349:07"
+      "Score": 0,
+      "Time": "351:08"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 0,
-      "Time": "197:20"
+      "Score": 5,
+      "Time": "199:20"
     },
     {
       "Name": "egor",
       "Steam": "76561198742767214",
-      "Score": 4,
-      "Time": "00:51"
+      "Score": 0,
+      "Time": "02:51"
     },
     {
       "Name": "tymo--",
       "Steam": "76561199425592793",
-      "Score": 9,
-      "Time": "05:50"
+      "Score": 5,
+      "Time": "07:50"
     },
     {
       "Name": "^>.<^",
       "Steam": "76561199700050320",
-      "Score": 50,
-      "Time": "479:07"
+      "Score": 51,
+      "Time": "481:07"
     },
     {
       "Name": "missed you",
       "Steam": "76561198740947343",
       "Score": 10,
-      "Time": "09:07"
+      "Time": "11:07"
     },
     {
       "Name": "Noah111",
       "Steam": "76561198880699322",
-      "Score": 44,
-      "Time": "35:47"
+      "Score": 55,
+      "Time": "37:47"
     },
     {
       "Name": "Overclock Lua Retired Me",
       "Steam": "76561198963830393",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "bennn",
       "Steam": "76561198740665020",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -65,18 +71,18 @@
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
       "Score": 0,
-      "Time": "07:25"
+      "Time": "09:25"
     },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
-      "Score": 14,
-      "Time": "97:31"
+      "Score": 15,
+      "Time": "99:31"
     },
     {
       "Name": "Zacarias",
       "Steam": "76561199076803716",
-      "Score": 83,
+      "Score": 85,
       "Time": "??:??"
     },
     {
@@ -88,32 +94,32 @@
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 8,
-      "Time": "05:22"
+      "Score": 9,
+      "Time": "07:22"
     },
     {
       "Name": "smd",
       "Steam": "76561199002053532",
-      "Score": 7,
-      "Time": "258:11"
+      "Score": 0,
+      "Time": "260:11"
     },
     {
       "Name": "dead resolver",
       "Steam": "76561199488984476",
-      "Score": 17,
-      "Time": "14:39"
+      "Score": 19,
+      "Time": "16:39"
     },
     {
       "Name": "Refuse",
       "Steam": "76561199160093857",
-      "Score": 2,
-      "Time": "06:13"
+      "Score": 4,
+      "Time": "08:13"
     },
     {
       "Name": "...",
       "Steam": "76561198743039321",
-      "Score": 48,
-      "Time": "29:48"
+      "Score": 50,
+      "Time": "31:48"
     }
   ]
 }
