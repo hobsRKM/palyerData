@@ -1,17 +1,23 @@
 {
-  "Time": "2026-01-31T23:48:04.4591392Z",
+  "Time": "2026-01-31T23:50:04.4596154Z",
   "Players": [
     {
       "Name": "President Ballsack",
       "Steam": "76561199848213859",
-      "Score": 7,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "虫King",
+      "Steam": "76561199712144407",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "nauseous",
       "Steam": "76561198749155214",
-      "Score": 18,
-      "Time": "04:14"
+      "Score": 22,
+      "Time": "06:14"
     }
   ]
 }
