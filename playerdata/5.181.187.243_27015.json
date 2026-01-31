@@ -1,28 +1,34 @@
 {
-  "Time": "2026-01-31T14:20:25.3055871Z",
+  "Time": "2026-01-31T14:22:25.3134147Z",
   "Players": [
+    {
+      "Name": "CarlitoMB",
+      "Steam": "76561199697633072",
+      "Score": 0,
+      "Time": "00:25"
+    },
     {
       "Name": "Chrupek.Crack",
       "Steam": "76561199051518032",
-      "Score": 39,
-      "Time": "71:47"
+      "Score": 41,
+      "Time": "73:47"
     },
     {
       "Name": "M1RtiN4oo",
       "Steam": "76561198794087367",
-      "Score": 24,
-      "Time": "04:06"
+      "Score": 26,
+      "Time": "06:06"
     },
     {
       "Name": "Skee Aether1337",
       "Steam": "76561198785089302",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "flour",
       "Steam": "76561199886624598",
-      "Score": 0,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
