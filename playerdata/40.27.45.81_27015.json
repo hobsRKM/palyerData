@@ -1,16 +1,16 @@
 {
-  "Time": "2026-02-01T02:33:40.7770603Z",
+  "Time": "2026-02-01T02:35:40.7796392Z",
   "Players": [
     {
       "Name": "p",
       "Steam": "76561199054143629",
       "Score": 0,
-      "Time": "37:14"
+      "Time": "39:14"
     },
     {
       "Name": "Griffith",
       "Steam": "76561198748759595",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -20,34 +20,40 @@
       "Time": "??:??"
     },
     {
+      "Name": "Mime",
+      "Steam": "76561199229432620",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "but you know... whatever",
       "Steam": "76561198745592042",
-      "Score": 16,
-      "Time": "35:04"
+      "Score": 23,
+      "Time": "37:04"
     },
     {
       "Name": "foreigner",
       "Steam": "76561199878413811",
-      "Score": 3,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 3,
-      "Time": "42:31"
+      "Score": 5,
+      "Time": "44:31"
     },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
-      "Score": 2,
-      "Time": "15:27"
+      "Score": 4,
+      "Time": "17:27"
     },
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 16,
-      "Time": "123:17"
+      "Score": 26,
+      "Time": "125:17"
     }
   ]
 }
