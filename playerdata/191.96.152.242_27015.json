@@ -1,64 +1,70 @@
 {
-  "Time": "2026-02-01T19:22:59.7212703Z",
+  "Time": "2026-02-01T19:24:59.7190512Z",
   "Players": [
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 2,
-      "Time": "01:29"
+      "Score": 4,
+      "Time": "03:29"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 25,
-      "Time": "10:17"
+      "Score": 29,
+      "Time": "12:17"
     },
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 68,
+      "Score": 72,
       "Time": "??:??"
     },
     {
       "Name": "Dripler88",
       "Steam": "76561198901575526",
-      "Score": 45,
-      "Time": "18:28"
+      "Score": 50,
+      "Time": "20:28"
     },
     {
       "Name": "saint",
       "Steam": "76561199851063794",
-      "Score": 2,
-      "Time": "27:59"
+      "Score": 4,
+      "Time": "29:59"
     },
     {
       "Name": "atkinson12122000",
       "Steam": "76561198744258915",
       "Score": 11,
-      "Time": "37:17"
+      "Time": "39:17"
     },
     {
       "Name": "333x",
       "Steam": "76561198776303423",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 33,
-      "Time": "13:33"
+      "Score": 41,
+      "Time": "15:33"
     },
     {
       "Name": "sters",
       "Steam": "76561198410014651",
       "Score": 8,
-      "Time": "11:16"
+      "Time": "13:16"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 39,
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "radiance,lua alice",
+      "Steam": "76561198803753163",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
