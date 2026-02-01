@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-01T08:23:40.787796Z",
+  "Time": "2026-02-01T08:25:40.7865096Z",
   "Players": [
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
-      "Score": 104,
-      "Time": "84:26"
+      "Score": 2,
+      "Time": "86:26"
     },
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 91,
-      "Time": "243:21"
+      "Score": 0,
+      "Time": "245:21"
     },
     {
-      "Name": "eternity.lua     Ozai",
+      "Name": "eternity.lua    Ozai",
       "Steam": "76561199156395215",
-      "Score": 82,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 101,
-      "Time": "305:53"
+      "Score": 0,
+      "Time": "307:53"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 40,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "wock",
       "Steam": "76561199562282315",
+      "Score": 4,
+      "Time": "91:05"
+    },
+    {
+      "Name": "kai",
+      "Steam": "76561198786470210",
       "Score": 0,
-      "Time": "89:05"
+      "Time": "??:??"
     }
   ]
 }
