@@ -1,52 +1,46 @@
 {
-  "Time": "2026-02-01T18:42:59.7145249Z",
+  "Time": "2026-02-01T18:44:59.7184914Z",
   "Players": [
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 7,
+      "Time": "01:16"
+    },
+    {
+      "Name": "raf",
+      "Steam": "76561198398976448",
+      "Score": 0,
+      "Time": "00:20"
+    },
     {
       "Name": "2coldware",
       "Steam": "76561198759122611",
-      "Score": 3,
-      "Time": "07:38"
+      "Score": 5,
+      "Time": "09:38"
     },
     {
       "Name": "It's PREGO (Traditional)",
       "Steam": "76561198746991829",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "333x",
       "Steam": "76561198776303423",
-      "Score": 16,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "snow",
-      "Steam": "76561198059477947",
-      "Score": 10,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "sters",
-      "Steam": "76561198410014651",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "homoersmipson13",
-      "Steam": "76561198745006794",
-      "Score": 4,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
