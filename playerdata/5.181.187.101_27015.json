@@ -1,4 +1,35 @@
 {
-  "Time": "2026-02-01T12:14:23.9307619Z",
-  "Players": []
+  "Time": "2026-02-01T12:14:41.1241228Z",
+  "Players": [
+    {
+      "Name": "nixware bot1",
+      "Steam": "76561198746339907",
+      "Score": 20,
+      "Time": "03:51"
+    },
+    {
+      "Name": "MILFHUNTER",
+      "Steam": "76561198759278959",
+      "Score": 59,
+      "Time": "33:47"
+    },
+    {
+      "Name": "17 cm de plaisir",
+      "Steam": "76561199187115705",
+      "Score": 6,
+      "Time": "10:42"
+    },
+    {
+      "Name": "vceraw",
+      "Steam": "76561198747116499",
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mitroglou",
+      "Steam": "76561198752399012",
+      "Score": 47,
+      "Time": "15:49"
+    }
+  ]
 }
