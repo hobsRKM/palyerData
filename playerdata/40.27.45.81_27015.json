@@ -1,40 +1,40 @@
 {
-  "Time": "2026-02-01T01:55:40.7874431Z",
+  "Time": "2026-02-01T01:57:40.7802173Z",
   "Players": [
+    {
+      "Name": "p",
+      "Steam": "76561199054143629",
+      "Score": 0,
+      "Time": "01:14"
+    },
     {
       "Name": "stephentrades0",
       "Steam": "76561198752132667",
-      "Score": 29,
-      "Time": "??:??"
-    },
-    {
-      "Name": "La Thiên Hành",
-      "Steam": "76561198766355307",
-      "Score": 8,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "pumpdotfun",
       "Steam": "76561199660418998",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 12,
-      "Time": "04:31"
+      "Score": 18,
+      "Time": "06:31"
     },
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 33,
-      "Time": "85:17"
+      "Score": 41,
+      "Time": "87:17"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
