@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-01T02:59:28.0094665Z",
+  "Time": "2026-02-01T03:01:27.9961154Z",
   "Players": [
+    {
+      "Name": "c1",
+      "Steam": "76561198752523136",
+      "Score": 2,
+      "Time": "00:41"
+    },
     {
       "Name": "Ooo",
       "Steam": "76561199319156182",
-      "Score": 26,
-      "Time": "08:00"
+      "Score": 30,
+      "Time": "10:00"
     },
     {
-      "Name": "discord.gg/silentium",
+      "Name": "sile discord.gg/silentium",
       "Steam": "76561198747630963",
-      "Score": 4,
-      "Time": "31:26"
+      "Score": 10,
+      "Time": "33:26"
     },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
       "Score": 0,
-      "Time": "101:13"
+      "Time": "103:13"
     },
     {
       "Name": "HardTry",
@@ -28,31 +34,25 @@
     {
       "Name": "Comando Vermelho",
       "Steam": "76561198215570155",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "ching",
       "Steam": "76561198201144728",
       "Score": 0,
-      "Time": "43:07"
+      "Time": "45:07"
     },
     {
       "Name": "Solix  suzune",
       "Steam": "76561198831338710",
-      "Score": 32,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ZtrOgO",
-      "Steam": "76561198744601845",
-      "Score": 0,
+      "Score": 40,
       "Time": "??:??"
     }
   ]
