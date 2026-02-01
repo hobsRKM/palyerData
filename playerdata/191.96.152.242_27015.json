@@ -1,52 +1,58 @@
 {
-  "Time": "2026-02-01T19:56:59.7094741Z",
+  "Time": "2026-02-01T19:58:59.7222868Z",
   "Players": [
+    {
+      "Name": "pumpdotfun",
+      "Steam": "76561199660418998",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "RICH OFF HACKING",
       "Steam": "76561198758437919",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "bro",
       "Steam": "76561197995675648",
-      "Score": 8,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 10,
-      "Time": "07:06"
+      "Score": 14,
+      "Time": "09:06"
     },
     {
       "Name": "2coldware",
       "Steam": "76561198759122611",
-      "Score": 20,
-      "Time": "29:16"
+      "Score": 22,
+      "Time": "31:16"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 12,
-      "Time": "11:09"
+      "Score": 16,
+      "Time": "13:09"
     },
     {
       "Name": "Dripler88",
       "Steam": "76561198901575526",
-      "Score": 28,
-      "Time": "52:28"
+      "Score": 32,
+      "Time": "54:28"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 41,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "frozen frogs",
       "Steam": "76561199479457727",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     }
   ]
