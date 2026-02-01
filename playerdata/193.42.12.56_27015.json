@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-01T01:33:28.0022092Z",
+  "Time": "2026-02-01T01:35:28.0070046Z",
   "Players": [
     {
       "Name": "N",
       "Steam": "76561199781144052",
-      "Score": 44,
+      "Score": 54,
+      "Time": "??:??"
+    },
+    {
+      "Name": "orrismisrahg7kjpf",
+      "Steam": "76561198776033353",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "kareofka11",
       "Steam": "76561198778599378",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "p2shok",
       "Steam": "76561199144008024",
-      "Score": 30,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "MISYONER^^",
       "Steam": "76561199851028312",
-      "Score": 0,
-      "Time": "00:04"
+      "Score": 1,
+      "Time": "02:04"
     }
   ]
 }
