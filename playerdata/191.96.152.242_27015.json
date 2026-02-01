@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-01T16:12:59.7089906Z",
+  "Time": "2026-02-01T16:14:59.7122272Z",
   "Players": [
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 1,
+      "Time": "01:04"
+    },
     {
       "Name": "In hands shitter",
       "Steam": "76561198768136486",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 47,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 42,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "COLDPEEK",
       "Steam": "76561198743485186",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "hanginonnacrane",
       "Steam": "76561199096269503",
-      "Score": 52,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "something creative",
       "Steam": "76561198788298317",
-      "Score": 45,
+      "Score": 47,
       "Time": "??:??"
     }
   ]
