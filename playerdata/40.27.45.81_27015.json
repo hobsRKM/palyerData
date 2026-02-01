@@ -1,11 +1,11 @@
 {
-  "Time": "2026-02-01T05:13:40.7762774Z",
+  "Time": "2026-02-01T05:15:40.7823947Z",
   "Players": [
     {
       "Name": "sosa",
       "Steam": "76561199782209001",
-      "Score": 10,
-      "Time": "05:46"
+      "Score": 14,
+      "Time": "07:46"
     },
     {
       "Name": "p",
@@ -14,46 +14,52 @@
       "Time": "??:??"
     },
     {
+      "Name": "botbot",
+      "Steam": "76561198746683081",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
       "Name": "Versatile",
       "Steam": "76561198819683930",
-      "Score": 75,
-      "Time": "70:09"
+      "Score": 79,
+      "Time": "72:09"
     },
     {
       "Name": "OvRss",
       "Steam": "76561198741220531",
-      "Score": 22,
-      "Time": "53:41"
+      "Score": 23,
+      "Time": "55:41"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 74,
+      "Score": 78,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 47,
-      "Time": "59:59"
+      "Score": 57,
+      "Time": "61:59"
     },
     {
       "Name": "Aenesidemus",
       "Steam": "76561199043213580",
-      "Score": 65,
-      "Time": "23:50"
+      "Score": 69,
+      "Time": "25:50"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 102,
-      "Time": "40:15"
+      "Score": 105,
+      "Time": "42:15"
     },
     {
       "Name": "plimpus",
       "Steam": "76561198001746934",
-      "Score": 66,
-      "Time": "23:41"
+      "Score": 68,
+      "Time": "25:41"
     }
   ]
 }
