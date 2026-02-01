@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-01T00:55:40.7832825Z",
+  "Time": "2026-02-01T00:57:40.781621Z",
   "Players": [
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 43,
-      "Time": "22:33"
+      "Score": 2,
+      "Time": "24:33"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561199670156806",
-      "Score": 66,
-      "Time": "28:33"
+      "Score": 72,
+      "Time": "30:33"
     },
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 49,
-      "Time": "25:17"
+      "Score": 57,
+      "Time": "27:17"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "waffle",
       "Steam": "76561198309670036",
       "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "expreince",
+      "Steam": "76561199559570720",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
