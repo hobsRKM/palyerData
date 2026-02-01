@@ -1,23 +1,23 @@
 {
-  "Time": "2026-02-01T04:01:40.7836592Z",
+  "Time": "2026-02-01T04:03:40.788104Z",
   "Players": [
     {
       "Name": "something creative",
       "Steam": "76561198788298317",
-      "Score": 58,
-      "Time": "02:25"
+      "Score": 60,
+      "Time": "04:25"
     },
     {
       "Name": "but you know... whatever",
       "Steam": "76561198745592042",
-      "Score": 6,
-      "Time": "01:09"
+      "Score": 19,
+      "Time": "03:09"
     },
     {
       "Name": "Versatile",
       "Steam": "76561198819683930",
-      "Score": 42,
-      "Time": "00:42"
+      "Score": 40,
+      "Time": "00:09"
     },
     {
       "Name": "votya",
@@ -28,19 +28,25 @@
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 78,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "OvRss",
       "Steam": "76561198741220531",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 60,
+      "Score": 62,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bro",
+      "Steam": "76561197995675648",
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -50,27 +56,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "Cortez",
-      "Steam": "76561198750080629",
-      "Score": 26,
-      "Time": "11:59"
-    },
-    {
-      "Name": "HardTry",
-      "Steam": "76561198774309786",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "Aenesidemus",
       "Steam": "76561199043213580",
-      "Score": 10,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
