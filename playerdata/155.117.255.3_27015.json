@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-01T02:58:22.6728282Z",
+  "Time": "2026-02-01T03:00:22.6733122Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,7 +10,13 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 12,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "something creative",
+      "Steam": "76561198788298317",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
