@@ -1,65 +1,71 @@
 {
-  "Time": "2026-02-01T09:53:40.7746325Z",
+  "Time": "2026-02-01T09:55:40.7874901Z",
   "Players": [
     {
       "Name": "\uDB40\uDC73⁧⁧lovesick",
       "Steam": "76561199258689499",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "Philip",
+      "Steam": "76561199054010875",
+      "Score": 0,
+      "Time": "01:16"
     },
     {
       "Name": "Jeremy lipton firtzgerald III",
       "Steam": "76561199229453482",
-      "Score": 11,
-      "Time": "334:57"
+      "Score": 13,
+      "Time": "336:57"
     },
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
       "Score": 0,
-      "Time": "174:26"
+      "Time": "176:26"
     },
     {
       "Name": "x",
       "Steam": "76561198745239228",
-      "Score": 4,
-      "Time": "13:44"
+      "Score": 16,
+      "Time": "15:44"
     },
     {
       "Name": "mj",
       "Steam": "76561198751671283",
-      "Score": 4,
-      "Time": "02:32"
+      "Score": 7,
+      "Time": "04:32"
     },
     {
       "Name": "nade",
       "Steam": "76561199312322988",
-      "Score": 60,
-      "Time": "50:27"
+      "Score": 68,
+      "Time": "52:27"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 52,
-      "Time": "148:45"
+      "Score": 62,
+      "Time": "150:45"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 30,
-      "Time": "64:43"
+      "Score": 32,
+      "Time": "66:43"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
       "Score": 0,
-      "Time": "48:23"
+      "Time": "50:23"
     },
     {
       "Name": "Cortez",
       "Steam": "76561198750080629",
-      "Score": 79,
-      "Time": "22:38"
+      "Score": 96,
+      "Time": "24:38"
     }
   ]
 }
