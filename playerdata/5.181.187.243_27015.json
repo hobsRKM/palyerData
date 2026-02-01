@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-01T09:46:23.3529829Z",
+  "Time": "2026-02-01T09:48:23.3503897Z",
   "Players": [
     {
       "Name": "ᵐʲᵃʸ",
       "Steam": "76561198812622071",
-      "Score": 14,
-      "Time": "23:17"
+      "Score": 30,
+      "Time": "25:17"
+    },
+    {
+      "Name": "FataLose",
+      "Steam": "76561198742964698",
+      "Score": 0,
+      "Time": "01:22"
     },
     {
       "Name": "Diddy",
       "Steam": "76561199207827141",
-      "Score": 16,
-      "Time": "22:04"
+      "Score": 19,
+      "Time": "24:04"
     },
     {
       "Name": "hertramir",
@@ -22,13 +28,19 @@
     {
       "Name": "KennIchNicht",
       "Steam": "76561198067371102",
-      "Score": 13,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Revern",
       "Steam": "76561199868471969",
-      "Score": 4,
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "M1RtiN4oo",
+      "Steam": "76561198794087367",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
