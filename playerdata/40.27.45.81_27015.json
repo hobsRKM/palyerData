@@ -1,68 +1,74 @@
 {
-  "Time": "2026-02-01T07:57:40.7878079Z",
+  "Time": "2026-02-01T07:59:40.7788597Z",
   "Players": [
+    {
+      "Name": "p",
+      "Steam": "76561199054143629",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
-      "Score": 0,
-      "Time": "58:26"
+      "Score": 18,
+      "Time": "60:26"
     },
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 4,
-      "Time": "217:21"
+      "Score": 12,
+      "Time": "219:21"
     },
     {
-      "Name": "etern      Ozai",
+      "Name": "ete      Ozai",
       "Steam": "76561199156395215",
-      "Score": 4,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
       "Score": 2,
-      "Time": "334:56"
+      "Time": "336:56"
     },
     {
       "Name": "OvRss",
       "Steam": "76561198741220531",
       "Score": 2,
-      "Time": "10:41"
+      "Time": "12:41"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 2,
-      "Time": "190:39"
+      "Score": 5,
+      "Time": "192:39"
     },
     {
       "Name": "nauseous (harmless)",
       "Steam": "76561198749155214",
-      "Score": 10,
-      "Time": "04:54"
+      "Score": 12,
+      "Time": "06:54"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 0,
-      "Time": "279:53"
+      "Score": 10,
+      "Time": "281:53"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 6,
-      "Time": "145:55"
+      "Score": 10,
+      "Time": "147:55"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 2,
+      "Score": 9,
       "Time": "??:??"
     },
     {
-      "Name": "eter      silk",
+      "Name": "ete      silk",
       "Steam": "76561199473516704",
       "Score": 6,
       "Time": "??:??"
@@ -70,8 +76,8 @@
     {
       "Name": "wock",
       "Steam": "76561199562282315",
-      "Score": 0,
-      "Time": "63:05"
+      "Score": 2,
+      "Time": "65:05"
     }
   ]
 }
