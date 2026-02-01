@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-01T06:02:35.6410111Z",
+  "Time": "2026-02-01T06:04:35.6359586Z",
   "Players": [
+    {
+      "Name": "ether",
+      "Steam": "76561199724403388",
+      "Score": 0,
+      "Time": "01:52"
+    },
     {
       "Name": "MoMo",
       "Steam": "76561199840508387",
-      "Score": 42,
-      "Time": "17:33"
+      "Score": 43,
+      "Time": "19:33"
     },
     {
       "Name": "Alt likes fems",
       "Steam": "76561199834727236",
-      "Score": 83,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 94,
+      "Score": 102,
       "Time": "??:??"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 7,
-      "Time": "24:23"
+      "Score": 15,
+      "Time": "26:23"
     },
     {
       "Name": "小兔",
       "Steam": "76561198747162464",
-      "Score": 6,
-      "Time": "14:08"
+      "Score": 0,
+      "Time": "16:08"
     }
   ]
 }
