@@ -1,16 +1,16 @@
 {
-  "Time": "2026-02-01T03:15:40.7887693Z",
+  "Time": "2026-02-01T03:17:40.7831044Z",
   "Players": [
     {
       "Name": "wock",
       "Steam": "76561199562282315",
-      "Score": 16,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "meow",
       "Steam": "76561198180065165",
-      "Score": 62,
+      "Score": 72,
       "Time": "??:??"
     },
     {
@@ -22,20 +22,26 @@
     {
       "Name": "jordan.clever",
       "Steam": "76561198752400979",
-      "Score": 15,
-      "Time": "23:32"
+      "Score": 5,
+      "Time": "25:32"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "0106",
+      "Steam": "76561198748417815",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 2,
-      "Time": "23:14"
+      "Score": 5,
+      "Time": "25:14"
     }
   ]
 }
