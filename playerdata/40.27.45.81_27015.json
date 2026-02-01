@@ -1,53 +1,59 @@
 {
-  "Time": "2026-02-01T02:23:40.7774333Z",
+  "Time": "2026-02-01T02:25:40.7891003Z",
   "Players": [
     {
       "Name": "p",
       "Steam": "76561199054143629",
       "Score": 0,
-      "Time": "27:14"
+      "Time": "29:14"
     },
     {
       "Name": "Griffith",
       "Steam": "76561198748759595",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "but you know... whatever",
       "Steam": "76561198745592042",
-      "Score": 92,
-      "Time": "25:04"
+      "Score": 103,
+      "Time": "27:04"
+    },
+    {
+      "Name": "foreigner",
+      "Steam": "76561199878413811",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "pumpdotfun",
       "Steam": "76561199660418998",
-      "Score": 43,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 46,
-      "Time": "32:31"
+      "Score": 51,
+      "Time": "34:31"
     },
     {
       "Name": "✪ Janosiq",
       "Steam": "76561198177696577",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "snow",
       "Steam": "76561198059477947",
-      "Score": 2,
-      "Time": "05:27"
+      "Score": 0,
+      "Time": "07:27"
     },
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 43,
-      "Time": "113:17"
+      "Score": 50,
+      "Time": "115:17"
     }
   ]
 }
