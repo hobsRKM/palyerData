@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-01T17:47:14.6932872Z",
+  "Time": "2026-02-01T17:49:14.6827002Z",
   "Players": [
     {
       "Name": "e3",
       "Steam": "76561199647822907",
-      "Score": 0,
-      "Time": "243:28"
+      "Score": 2,
+      "Time": "245:28"
+    },
+    {
+      "Name": "D1ple",
+      "Steam": "76561198741545490",
+      "Score": 7,
+      "Time": "00:04"
     },
     {
       "Name": "hvh ez 1",
       "Steam": "76561198743123782",
-      "Score": 27,
-      "Time": "05:48"
+      "Score": 33,
+      "Time": "07:48"
     },
     {
       "Name": "Netpincér",
       "Steam": "76561198783480630",
-      "Score": 36,
-      "Time": "20:30"
+      "Score": 38,
+      "Time": "22:30"
     },
     {
       "Name": "негр",
@@ -28,38 +34,32 @@
     {
       "Name": "wyscigufa #neverlosecrack",
       "Steam": "76561199004949875",
-      "Score": 5,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 10,
-      "Time": "86:50"
-    },
-    {
-      "Name": "ROBOTAIM",
-      "Steam": "76561199127852374",
-      "Score": 59,
-      "Time": "??:??"
+      "Score": 16,
+      "Time": "88:50"
     },
     {
       "Name": "The Syrmhestich",
       "Steam": "76561198766114743",
-      "Score": 1,
-      "Time": "306:43"
+      "Score": 3,
+      "Time": "308:43"
     },
     {
       "Name": "kaktusior1",
       "Steam": "76561199510403300",
-      "Score": 97,
+      "Score": 108,
       "Time": "??:??"
     },
     {
       "Name": "@_@",
       "Steam": "76561198745487779",
-      "Score": 69,
-      "Time": "261:41"
+      "Score": 77,
+      "Time": "263:41"
     }
   ]
 }
