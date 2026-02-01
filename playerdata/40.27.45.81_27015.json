@@ -1,17 +1,17 @@
 {
-  "Time": "2026-02-01T04:11:40.7854686Z",
+  "Time": "2026-02-01T04:13:40.7911903Z",
   "Players": [
     {
       "Name": "but you know... whatever",
       "Steam": "76561198745592042",
-      "Score": 7,
-      "Time": "11:09"
+      "Score": 11,
+      "Time": "13:09"
     },
     {
       "Name": "Versatile",
       "Steam": "76561198819683930",
-      "Score": 14,
-      "Time": "08:09"
+      "Score": 18,
+      "Time": "10:09"
     },
     {
       "Name": "votya",
@@ -26,9 +26,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "0x6a6179",
+      "Steam": "76561198758593147",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -40,31 +46,37 @@
     {
       "Name": "Cortez",
       "Steam": "76561198750080629",
-      "Score": 19,
-      "Time": "05:45"
+      "Score": 32,
+      "Time": "07:45"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 9,
-      "Time": "??:??"
+      "Score": 11,
+      "Time": "00:51"
     },
     {
       "Name": "Aenesidemus",
       "Steam": "76561199043213580",
-      "Score": 18,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "plimpus",
       "Steam": "76561198001746934",
-      "Score": 4,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "luhn",
+      "Steam": "76561198776045731",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
