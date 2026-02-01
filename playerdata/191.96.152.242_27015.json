@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-01T21:56:59.7068663Z",
+  "Time": "2026-02-01T21:58:59.7165137Z",
   "Players": [
+    {
+      "Name": "nauseous (com larp)",
+      "Steam": "76561198749155214",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "icantaimshit",
       "Steam": "76561198754891749",
@@ -8,58 +14,46 @@
       "Time": "??:??"
     },
     {
-      "Name": "Pozdro Poćwicz",
-      "Steam": "76561198801164982",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
       "Name": "hughie",
       "Steam": "76561199167994707",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "CУĒŢỢЛǾГ",
       "Steam": "76561199531695282",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Finesse",
-      "Steam": "76561198794872058",
-      "Score": 2,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 10,
-      "Time": "51:15"
+      "Score": 11,
+      "Time": "53:15"
     },
     {
       "Name": "jordan.clever",
       "Steam": "76561198752400979",
-      "Score": 14,
-      "Time": "12:56"
+      "Score": 24,
+      "Time": "14:56"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
       "Score": 2,
-      "Time": "27:24"
+      "Time": "29:24"
     },
     {
       "Name": "dad",
       "Steam": "76561198273566562",
-      "Score": 30,
-      "Time": "17:00"
+      "Score": 46,
+      "Time": "19:00"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 25,
-      "Time": "55:25"
+      "Score": 27,
+      "Time": "57:25"
     }
   ]
 }
