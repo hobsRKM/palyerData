@@ -1,11 +1,11 @@
 {
-  "Time": "2026-02-01T02:08:04.4655159Z",
+  "Time": "2026-02-01T02:10:04.4663374Z",
   "Players": [
     {
       "Name": "123",
       "Steam": "76561199805557263",
       "Score": 0,
-      "Time": "02:16"
+      "Time": "04:16"
     },
     {
       "Name": "JSAVERYLONGDISPLAYNAMEDLOLOLOL",
@@ -16,14 +16,20 @@
     {
       "Name": "axeprime",
       "Steam": "76561198770326480",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 46,
-      "Time": "10:48"
+      "Score": 66,
+      "Time": "12:48"
+    },
+    {
+      "Name": "nauseous",
+      "Steam": "76561198749155214",
+      "Score": 4,
+      "Time": "00:03"
     }
   ]
 }
