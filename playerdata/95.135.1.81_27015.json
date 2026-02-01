@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-01T01:37:54.7950274Z",
+  "Time": "2026-02-01T01:39:54.7965558Z",
   "Players": [
+    {
+      "Name": "helloteam",
+      "Steam": "76561198743600341",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
       "Score": 0,
-      "Time": "215:31"
+      "Time": "217:31"
     },
     {
       "Name": "pls invite me to fatality",
       "Steam": "76561199819992062",
-      "Score": 0,
-      "Time": "669:19"
+      "Score": 4,
+      "Time": "671:19"
     }
   ]
 }
