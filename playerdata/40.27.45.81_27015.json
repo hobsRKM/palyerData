@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-01T05:07:40.7785572Z",
+  "Time": "2026-02-01T05:09:40.7830773Z",
   "Players": [
+    {
+      "Name": "sosa",
+      "Steam": "76561199782209001",
+      "Score": 1,
+      "Time": "01:46"
+    },
     {
       "Name": "p",
       "Steam": "76561199054143629",
@@ -8,58 +14,46 @@
       "Time": "??:??"
     },
     {
-      "Name": "FWEST - maziaguilera SKINS",
-      "Steam": "76561199016726393",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "something creative",
-      "Steam": "76561198788298317",
-      "Score": 0,
-      "Time": "00:12"
-    },
-    {
       "Name": "Versatile",
       "Steam": "76561198819683930",
-      "Score": 59,
-      "Time": "64:09"
+      "Score": 61,
+      "Time": "66:09"
     },
     {
       "Name": "OvRss",
       "Steam": "76561198741220531",
-      "Score": 14,
-      "Time": "47:41"
+      "Score": 15,
+      "Time": "49:41"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 56,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 30,
-      "Time": "53:59"
+      "Score": 32,
+      "Time": "55:59"
     },
     {
       "Name": "Aenesidemus",
       "Steam": "76561199043213580",
-      "Score": 45,
-      "Time": "17:50"
+      "Score": 51,
+      "Time": "19:50"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 87,
-      "Time": "34:15"
+      "Score": 89,
+      "Time": "36:15"
     },
     {
       "Name": "plimpus",
       "Steam": "76561198001746934",
-      "Score": 47,
-      "Time": "17:41"
+      "Score": 55,
+      "Time": "19:41"
     }
   ]
 }
