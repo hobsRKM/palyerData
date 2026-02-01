@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-01T01:09:40.7811849Z",
+  "Time": "2026-02-01T01:11:40.7893317Z",
   "Players": [
+    {
+      "Name": "p",
+      "Steam": "76561199054143629",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "icantaimshit",
       "Steam": "76561198754891749",
-      "Score": 0,
-      "Time": "03:33"
+      "Score": 2,
+      "Time": "05:33"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 18,
-      "Time": "36:33"
+      "Score": 20,
+      "Time": "38:33"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561199670156806",
       "Score": 14,
-      "Time": "42:33"
+      "Time": "44:33"
+    },
+    {
+      "Name": "Real shit no gay shit",
+      "Steam": "76561199100343450",
+      "Score": 5,
+      "Time": "01:40"
     },
     {
       "Name": "illicit",
       "Steam": "76561199755599976",
-      "Score": 26,
-      "Time": "39:17"
+      "Score": 32,
+      "Time": "41:17"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "expreince",
-      "Steam": "76561199559570720",
-      "Score": 4,
+      "Score": 19,
       "Time": "??:??"
     }
   ]
