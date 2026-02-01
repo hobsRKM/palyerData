@@ -1,12 +1,6 @@
 {
-  "Time": "2026-02-01T01:18:04.4683186Z",
+  "Time": "2026-02-01T01:20:04.4678769Z",
   "Players": [
-    {
-      "Name": "expreince",
-      "Steam": "76561199559570720",
-      "Score": 7,
-      "Time": "06:56"
-    },
     {
       "Name": "Dabiel Larson",
       "Steam": "76561198741505523",
@@ -16,14 +10,20 @@
     {
       "Name": "but you know... whatever",
       "Steam": "76561198745592042",
-      "Score": 106,
-      "Time": "24:43"
+      "Score": 108,
+      "Time": "26:43"
+    },
+    {
+      "Name": "banannn",
+      "Steam": "76561198343466512",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "nauseous",
       "Steam": "76561198749155214",
-      "Score": 28,
-      "Time": "14:11"
+      "Score": 34,
+      "Time": "16:11"
     }
   ]
 }
