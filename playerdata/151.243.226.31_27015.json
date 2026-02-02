@@ -1,23 +1,35 @@
 {
-  "Time": "2026-02-02T15:44:19.0354025Z",
+  "Time": "2026-02-02T15:46:19.0453621Z",
   "Players": [
+    {
+      "Name": "LAM *ENIGMA HVH 2.1*",
+      "Steam": "76561199532625292",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Caped Baldy",
       "Steam": "76561199806910486",
-      "Score": 14,
-      "Time": "177:15"
+      "Score": 18,
+      "Time": "179:15"
+    },
+    {
+      "Name": "Alt likes fems",
+      "Steam": "76561199834727236",
+      "Score": 4,
+      "Time": "01:47"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 35,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "N",
       "Steam": "76561199731123842",
-      "Score": 6,
-      "Time": "13:03"
+      "Score": 8,
+      "Time": "15:03"
     }
   ]
 }
