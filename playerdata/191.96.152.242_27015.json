@@ -1,53 +1,65 @@
 {
-  "Time": "2026-02-02T02:26:59.7168613Z",
+  "Time": "2026-02-02T02:28:59.7090113Z",
   "Players": [
     {
       "Name": "swagatron3000",
       "Steam": "76561198111358891",
-      "Score": 6,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198751610816",
+      "Score": 0,
+      "Time": "83:33"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 3,
-      "Time": "16:08"
+      "Score": 5,
+      "Time": "18:08"
     },
     {
       "Name": "Cortez",
       "Steam": "76561198750080629",
-      "Score": 0,
-      "Time": "05:40"
+      "Score": 10,
+      "Time": "07:40"
     },
     {
       "Name": "dad",
       "Steam": "76561198273566562",
-      "Score": 23,
-      "Time": "00:52"
+      "Score": 27,
+      "Time": "02:52"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 23,
-      "Time": "100:24"
+      "Score": 0,
+      "Time": "102:24"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 27,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
       "Score": 15,
-      "Time": "30:04"
+      "Time": "32:04"
     },
     {
       "Name": "Moo",
       "Steam": "76561198789902043",
-      "Score": 1,
-      "Time": "342:54"
+      "Score": 3,
+      "Time": "344:54"
+    },
+    {
+      "Name": "ppk",
+      "Steam": "76561198753176325",
+      "Score": 6,
+      "Time": "??:??"
     }
   ]
 }
