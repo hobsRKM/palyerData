@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-02T12:36:19.0390942Z",
+  "Time": "2026-02-02T12:38:19.033978Z",
   "Players": [
+    {
+      "Name": "MoMo",
+      "Steam": "76561199840508387",
+      "Score": 0,
+      "Time": "00:05"
+    },
     {
       "Name": "LAM *sucks at HVH*",
       "Steam": "76561198746194864",
-      "Score": 0,
-      "Time": "11:26"
+      "Score": 2,
+      "Time": "13:26"
     },
     {
       "Name": "Mumble",
       "Steam": "76561199816299279",
-      "Score": 0,
-      "Time": "15:30"
+      "Score": 2,
+      "Time": "17:30"
     },
     {
       "Name": "Cyron",
       "Steam": "76561198855550056",
-      "Score": 0,
-      "Time": "30:02"
+      "Score": 6,
+      "Time": "32:02"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 0,
-      "Time": "29:17"
+      "Score": 5,
+      "Time": "31:17"
     },
     {
-      "Name": "nhekker",
-      "Steam": "76561199682863141",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "Alt likes fems",
+      "Steam": "76561199834727236",
+      "Score": 4,
+      "Time": "00:54"
     }
   ]
 }
