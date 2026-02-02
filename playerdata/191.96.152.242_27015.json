@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-02T05:12:59.7159891Z",
+  "Time": "2026-02-02T05:14:59.7065249Z",
   "Players": [
+    {
+      "Name": "PremierLegit lora",
+      "Steam": "76561198759125966",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "serversiding",
       "Steam": "76561199868067319",
-      "Score": 44,
-      "Time": "422:52"
+      "Score": 4,
+      "Time": "424:52"
     },
     {
-      "Name": "TS .",
-      "Steam": "76561199849153218",
-      "Score": 48,
-      "Time": "15:11"
+      "Name": "raf",
+      "Steam": "76561198398976448",
+      "Score": 0,
+      "Time": "01:41"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 38,
-      "Time": "18:54"
+      "Score": 7,
+      "Time": "20:54"
     }
   ]
 }
