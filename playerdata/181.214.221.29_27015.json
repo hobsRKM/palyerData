@@ -1,27 +1,39 @@
 {
-  "Time": "2026-02-02T02:48:00.5966476Z",
+  "Time": "2026-02-02T02:50:00.5876215Z",
   "Players": [
+    {
+      "Name": "Real demon",
+      "Steam": "76561199844175645",
+      "Score": 0,
+      "Time": "00:20"
+    },
     {
       "Name": "projected_invalid",
       "Steam": "76561198746558243",
-      "Score": 14,
-      "Time": "09:59"
+      "Score": 24,
+      "Time": "11:59"
+    },
+    {
+      "Name": "troll face",
+      "Steam": "76561199834815558",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "W",
       "Steam": "76561199671963535",
-      "Score": 33,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "beniitez87",
       "Steam": "76561198779485985",
-      "Score": 26,
+      "Score": 29,
       "Time": "??:??"
     },
     {
-      "Name": "21323112321312",
-      "Steam": "76561198752669230",
+      "Name": "pkt",
+      "Steam": "76561199657191433",
       "Score": 0,
       "Time": "??:??"
     }
