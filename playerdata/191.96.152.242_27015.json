@@ -1,47 +1,65 @@
 {
-  "Time": "2026-02-02T02:08:59.7068407Z",
+  "Time": "2026-02-02T02:10:59.718825Z",
   "Players": [
+    {
+      "Name": "Swiggity Swag",
+      "Steam": "76561198741701762",
+      "Score": 0,
+      "Time": "135:00"
+    },
+    {
+      "Name": "swagatron3000",
+      "Steam": "76561198111358891",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "6k",
       "Steam": "76561199755599976",
-      "Score": 44,
-      "Time": "127:37"
+      "Score": 53,
+      "Time": "129:37"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 16,
-      "Time": "02:06"
+      "Score": 24,
+      "Time": "04:06"
+    },
+    {
+      "Name": "raf",
+      "Steam": "76561198398976448",
+      "Score": 0,
+      "Time": "00:08"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 0,
-      "Time": "82:24"
+      "Score": 4,
+      "Time": "84:24"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 56,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 32,
-      "Time": "12:04"
+      "Score": 35,
+      "Time": "14:04"
     },
     {
       "Name": "Moo",
       "Steam": "76561198789902043",
-      "Score": 11,
-      "Time": "324:54"
+      "Score": 13,
+      "Time": "326:54"
     }
   ]
 }
