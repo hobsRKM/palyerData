@@ -1,52 +1,58 @@
 {
-  "Time": "2026-02-02T06:04:59.7097556Z",
+  "Time": "2026-02-02T06:06:59.7176332Z",
   "Players": [
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 72,
-      "Time": "20:04"
+      "Score": 76,
+      "Time": "22:04"
     },
     {
       "Name": "top floor boss",
       "Steam": "76561199023217160",
-      "Score": 14,
-      "Time": "32:08"
+      "Score": 16,
+      "Time": "34:08"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 48,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "olivia",
       "Steam": "76561199805921608",
-      "Score": 65,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "ernity.lua       Ozai",
       "Steam": "76561199156395215",
-      "Score": 37,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 1,
-      "Time": "06:27"
+      "Score": 13,
+      "Time": "08:27"
     },
     {
       "Name": "jasu0",
       "Steam": "76561198410904304",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 20,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BenTM",
+      "Steam": "76561198740156616",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
