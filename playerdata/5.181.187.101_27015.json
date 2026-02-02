@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-02T12:06:22.9358214Z",
+  "Time": "2026-02-02T12:08:22.935959Z",
   "Players": [
+    {
+      "Name": "lacoste",
+      "Steam": "76561199889697498",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "1.9tdi Peek",
       "Steam": "76561199517936939",
-      "Score": 18,
-      "Time": "22:30"
+      "Score": 24,
+      "Time": "24:30"
     },
     {
       "Name": "YOU ARE A AVATARD",
       "Steam": "76561199000384606",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
