@@ -1,52 +1,58 @@
 {
-  "Time": "2026-02-02T03:30:59.7058523Z",
+  "Time": "2026-02-02T03:32:59.7155442Z",
   "Players": [
+    {
+      "Name": "nauseous",
+      "Steam": "76561198744040458",
+      "Score": 0,
+      "Time": "00:33"
+    },
     {
       "Name": "mj",
       "Steam": "76561198751671283",
-      "Score": 17,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 19,
+      "Score": 33,
       "Time": "??:??"
     },
     {
-      "Name": "mild",
-      "Steam": "76561198120534840",
-      "Score": 26,
+      "Name": "beast",
+      "Steam": "76561199160228621",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 33,
-      "Time": "16:09"
+      "Score": 36,
+      "Time": "18:10"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 13,
-      "Time": "80:08"
+      "Score": 20,
+      "Time": "82:08"
     },
     {
       "Name": "dad",
       "Steam": "76561198273566562",
-      "Score": 14,
-      "Time": "19:37"
+      "Score": 20,
+      "Time": "21:37"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 46,
-      "Time": "28:42"
+      "Score": 56,
+      "Time": "30:42"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 106,
+      "Score": 108,
       "Time": "??:??"
     }
   ]
