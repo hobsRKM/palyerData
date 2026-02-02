@@ -1,70 +1,76 @@
 {
-  "Time": "2026-02-02T01:40:29.950106Z",
+  "Time": "2026-02-02T01:42:29.9482758Z",
   "Players": [
+    {
+      "Name": "ABCD",
+      "Steam": "76561198340731802",
+      "Score": 1,
+      "Time": "01:46"
+    },
     {
       "Name": "bemoi629",
       "Steam": "76561198745583841",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Penelope",
       "Steam": "76561198215570155",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "maison darc",
       "Steam": "76561198740997414",
-      "Score": 40,
-      "Time": "18:44"
+      "Score": 51,
+      "Time": "20:44"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "LIDL-Penis7",
       "Steam": "76561198393606513",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "s discord.gg/silentium",
+      "Name": "silentium discord.gg/silentium",
       "Steam": "76561198747630963",
-      "Score": 4,
-      "Time": "01:30"
+      "Score": 10,
+      "Time": "03:30"
     },
     {
       "Name": "suzune",
       "Steam": "76561198831338710",
-      "Score": 11,
-      "Time": "444:26"
+      "Score": 17,
+      "Time": "446:26"
     },
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 46,
-      "Time": "72:37"
+      "Score": 55,
+      "Time": "74:37"
     },
     {
       "Name": "frosty",
       "Steam": "76561198977033081",
-      "Score": 28,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "Bing3005",
       "Steam": "76561199160093857",
-      "Score": 6,
-      "Time": "183:23"
+      "Score": 4,
+      "Time": "185:23"
     },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
