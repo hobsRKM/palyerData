@@ -1,29 +1,29 @@
 {
-  "Time": "2026-02-02T02:56:59.7077279Z",
+  "Time": "2026-02-02T02:58:59.7105602Z",
   "Players": [
+    {
+      "Name": "Real demon",
+      "Steam": "76561199844175645",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 0,
-      "Time": "46:08"
+      "Score": 6,
+      "Time": "48:08"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 101,
+      "Score": 110,
       "Time": "??:??"
     },
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 54,
-      "Time": "17:54"
-    },
-    {
-      "Name": "ppk",
-      "Steam": "76561198753176325",
-      "Score": 80,
-      "Time": "??:??"
+      "Score": 57,
+      "Time": "19:54"
     }
   ]
 }
