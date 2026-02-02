@@ -1,16 +1,16 @@
 {
-  "Time": "2026-02-02T03:44:29.9552512Z",
+  "Time": "2026-02-02T03:46:29.9520387Z",
   "Players": [
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "aw p",
       "Steam": "76561199503396912",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
@@ -22,20 +22,26 @@
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
+    },
+    {
+      "Name": "noob player",
+      "Steam": "76561198740665020",
+      "Score": 6,
+      "Time": "00:54"
     },
     {
       "Name": "banana orange",
       "Steam": "76561199605284870",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Mjay",
       "Steam": "76561199237707727",
-      "Score": 25,
-      "Time": "68:27"
+      "Score": 27,
+      "Time": "70:27"
     },
     {
       "Name": "Gertt-01",
@@ -46,8 +52,14 @@
     {
       "Name": ".",
       "Steam": "76561198744496932",
-      "Score": 21,
-      "Time": "103:47"
+      "Score": 29,
+      "Time": "105:47"
+    },
+    {
+      "Name": "SHINIGAMI",
+      "Steam": "76561199003552070",
+      "Score": 7,
+      "Time": "??:??"
     }
   ]
 }
