@@ -1,59 +1,65 @@
 {
-  "Time": "2026-02-03T13:32:17.3601503Z",
+  "Time": "2026-02-03T13:34:17.3521603Z",
   "Players": [
+    {
+      "Name": "Cyron",
+      "Steam": "76561198855550056",
+      "Score": 5,
+      "Time": "01:56"
+    },
     {
       "Name": "klien",
       "Steam": "76561199130633559",
       "Score": 0,
-      "Time": "74:26"
+      "Time": "76:26"
     },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 79,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 65,
-      "Time": "27:29"
+      "Score": 67,
+      "Time": "29:29"
     },
     {
       "Name": "Dzee_Gamez",
       "Steam": "76561199848325599",
-      "Score": 83,
+      "Score": 91,
       "Time": "??:??"
     },
     {
       "Name": "Alt likes fems",
       "Steam": "76561199834727236",
-      "Score": 51,
-      "Time": "89:28"
+      "Score": 57,
+      "Time": "91:28"
     },
     {
       "Name": "Mumble",
       "Steam": "76561199816299279",
       "Score": 0,
-      "Time": "19:27"
+      "Time": "21:27"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 66,
+      "Score": 74,
       "Time": "??:??"
     },
     {
       "Name": "Mr PeAce™ ♕",
       "Steam": "76561198294617498",
-      "Score": 43,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 60,
-      "Time": "16:22"
+      "Score": 65,
+      "Time": "18:22"
     },
     {
       "Name": "ruski",
@@ -64,13 +70,19 @@
     {
       "Name": "\uE810",
       "Steam": "76561199704074879",
-      "Score": 29,
-      "Time": "19:54"
+      "Score": 30,
+      "Time": "21:54"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 31,
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bark.",
+      "Steam": "76561199187383838",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
