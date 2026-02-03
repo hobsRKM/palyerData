@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-03T18:48:20.1577916Z",
+  "Time": "2026-02-03T18:50:20.1483999Z",
   "Players": [
+    {
+      "Name": "why2cry",
+      "Steam": "76561199769266045",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "MrPatrykOficjalny",
       "Steam": "76561199090456406",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 20,
-      "Time": "04:38"
+      "Score": 23,
+      "Time": "06:38"
     },
     {
       "Name": ".",
       "Steam": "76561198754830416",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
@@ -28,19 +34,25 @@
     {
       "Name": "jooousy",
       "Steam": "76561198745935413",
-      "Score": 60,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": ".Xya_o",
       "Steam": "76561198764484597",
-      "Score": 47,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "люблю фоткать",
       "Steam": "76561198741820252",
       "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bigmac",
+      "Steam": "76561198742919563",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
