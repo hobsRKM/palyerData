@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-03T06:14:24.8763718Z",
+  "Time": "2026-02-03T06:16:24.8897371Z",
   "Players": [
+    {
+      "Name": "theory of quantum mechanics",
+      "Steam": "76561198752135724",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "freaky bob",
       "Steam": "76561199571154189",
-      "Score": 25,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "PremierLegit lora",
       "Steam": "76561198759125966",
-      "Score": 21,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
       "Score": 4,
-      "Time": "182:00"
+      "Time": "184:00"
     },
     {
       "Name": "6k",
       "Steam": "76561199755599976",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561199473516704",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Robot Cawk",
       "Steam": "76561199848482186",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
