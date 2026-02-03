@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-03T01:36:22.5579377Z",
+  "Time": "2026-02-03T01:38:22.5626023Z",
   "Players": [
     {
       "Name": "Mr Creamy Peanut #1 goof ball",
       "Steam": "76561199229233111",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "chinchilin",
       "Steam": "76561198744926859",
-      "Score": 46,
-      "Time": "11:05"
+      "Score": 56,
+      "Time": "13:05"
+    },
+    {
+      "Name": "mj",
+      "Steam": "76561198751671283",
+      "Score": 20,
+      "Time": "01:24"
     },
     {
       "Name": "but you know... whatever",
@@ -22,8 +28,14 @@
     {
       "Name": "sj",
       "Steam": "76561198756303634",
+      "Score": 4,
+      "Time": "04:26"
+    },
+    {
+      "Name": "theory of quantum mechanics",
+      "Steam": "76561198752135724",
       "Score": 2,
-      "Time": "02:26"
+      "Time": "??:??"
     }
   ]
 }
