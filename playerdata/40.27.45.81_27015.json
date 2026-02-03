@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-03T07:04:24.8874057Z",
+  "Time": "2026-02-03T07:06:24.8789721Z",
   "Players": [
+    {
+      "Name": "top floor boss",
+      "Steam": "76561199023217160",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Skee",
       "Steam": "76561198740132657",
-      "Score": 73,
-      "Time": "44:14"
+      "Score": 75,
+      "Time": "46:14"
     },
     {
       "Name": "PremierLegit lora",
       "Steam": "76561198759125966",
-      "Score": 56,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "6k",
       "Steam": "76561199755599976",
-      "Score": 90,
+      "Score": 96,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 48,
-      "Time": "38:28"
+      "Score": 60,
+      "Time": "40:28"
     }
   ]
 }
