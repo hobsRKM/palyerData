@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-03T23:00:20.15977Z",
+  "Time": "2026-02-03T23:02:20.1619478Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,6 +10,12 @@
     {
       "Name": "Testing Nixware",
       "Steam": "76561199868471969",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hvh | nixware.cc",
+      "Steam": "76561198742391330",
       "Score": 0,
       "Time": "??:??"
     }
