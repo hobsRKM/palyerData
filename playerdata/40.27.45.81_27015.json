@@ -1,47 +1,41 @@
 {
-  "Time": "2026-02-03T03:28:24.8862067Z",
+  "Time": "2026-02-03T03:30:24.8888018Z",
   "Players": [
-    {
-      "Name": "666",
-      "Steam": "76561198744712586",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "RADICAL RACIST",
       "Steam": "76561199870945474",
-      "Score": 0,
-      "Time": "03:31"
+      "Score": 5,
+      "Time": "05:31"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 0,
-      "Time": "33:05"
+      "Score": 6,
+      "Time": "35:05"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 0,
-      "Time": "04:24"
+      "Score": 6,
+      "Time": "06:24"
     },
     {
       "Name": "SINGDEPP",
       "Steam": "76561199445399217",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Luxzim",
       "Steam": "76561199140787326",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
       "Score": 0,
-      "Time": "18:13"
+      "Time": "20:13"
     }
   ]
 }
