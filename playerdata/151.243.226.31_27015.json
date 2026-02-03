@@ -1,46 +1,58 @@
 {
-  "Time": "2026-02-03T13:08:17.3512311Z",
+  "Time": "2026-02-03T13:10:17.3527504Z",
   "Players": [
+    {
+      "Name": "1",
+      "Steam": "76561199163976232",
+      "Score": 4,
+      "Time": "00:41"
+    },
     {
       "Name": "klien",
       "Steam": "76561199130633559",
-      "Score": 0,
-      "Time": "50:26"
+      "Score": 2,
+      "Time": "52:26"
     },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 120,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 6,
-      "Time": "03:29"
+      "Score": 0,
+      "Time": "05:29"
     },
     {
       "Name": "Dzee_Gamez",
       "Steam": "76561199848325599",
-      "Score": 68,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Alt likes fems",
       "Steam": "76561199834727236",
-      "Score": 98,
-      "Time": "65:28"
+      "Score": 0,
+      "Time": "67:28"
+    },
+    {
+      "Name": "Mumble",
+      "Steam": "76561199816299279",
+      "Score": 2,
+      "Time": "00:56"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 114,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "yen7",
       "Steam": "76561199693252775",
-      "Score": 51,
+      "Score": 1,
       "Time": "??:??"
     },
     {
@@ -52,7 +64,13 @@
     {
       "Name": "ruski",
       "Steam": "76561199255595960",
-      "Score": 6,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uE810",
+      "Steam": "76561199704074879",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
