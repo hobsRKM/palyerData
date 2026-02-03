@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-03T06:02:24.8848414Z",
+  "Time": "2026-02-03T06:04:24.8842526Z",
   "Players": [
+    {
+      "Name": "Real shit no gay shit",
+      "Steam": "76561199100343450",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "freaky bob",
       "Steam": "76561199571154189",
-      "Score": 17,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "PremierLegit lora",
       "Steam": "76561198759125966",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 32,
-      "Time": "170:00"
+      "Score": 34,
+      "Time": "172:00"
     },
     {
       "Name": "6k",
@@ -28,14 +34,14 @@
     {
       "Name": "Robot Cawk",
       "Steam": "76561199848482186",
-      "Score": 46,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 65,
-      "Time": "157:16"
+      "Score": 77,
+      "Time": "159:16"
     }
   ]
 }
