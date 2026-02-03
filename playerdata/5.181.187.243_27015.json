@@ -1,17 +1,17 @@
 {
-  "Time": "2026-02-03T15:04:20.1583548Z",
+  "Time": "2026-02-03T15:06:20.1541013Z",
   "Players": [
     {
       "Name": "not me",
       "Steam": "76561198744956985",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Diaconescu Lucas",
       "Steam": "76561199667028575",
-      "Score": 61,
-      "Time": "24:40"
+      "Score": 69,
+      "Time": "26:40"
     },
     {
       "Name": "JordeN",
@@ -20,16 +20,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗluvii",
+      "Steam": "76561198339966370",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "Netpincér",
       "Steam": "76561198783480630",
-      "Score": 6,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Tysbo",
       "Steam": "76561198856278042",
-      "Score": 27,
-      "Time": "60:19"
+      "Score": 31,
+      "Time": "62:19"
     },
     {
       "Name": "\"'",
@@ -40,32 +46,20 @@
     {
       "Name": "moreeesby",
       "Steam": "76561199192699014",
-      "Score": 79,
-      "Time": "71:59"
+      "Score": 92,
+      "Time": "73:59"
     },
     {
       "Name": "Dizzel",
       "Steam": "76561199711150979",
-      "Score": 37,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "CAPone",
       "Steam": "76561198743774112",
-      "Score": 68,
-      "Time": "15:35"
-    },
-    {
-      "Name": "Trav",
-      "Steam": "76561199471217940",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
-      "Name": "София ротару",
-      "Steam": "76561199571761985",
-      "Score": 22,
-      "Time": "??:??"
+      "Score": 74,
+      "Time": "17:35"
     }
   ]
 }
