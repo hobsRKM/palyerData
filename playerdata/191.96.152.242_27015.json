@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-03T03:45:03.8048238Z",
+  "Time": "2026-02-03T03:47:03.7996854Z",
   "Players": [
+    {
+      "Name": "something creative",
+      "Steam": "76561198788298317",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 27,
-      "Time": "458:37"
+      "Score": 36,
+      "Time": "460:37"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 41,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "6k",
       "Steam": "76561199755599976",
-      "Score": 62,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "uzi",
       "Steam": "76561198744674338",
-      "Score": 0,
-      "Time": "02:04"
+      "Score": 2,
+      "Time": "04:04"
     }
   ]
 }
