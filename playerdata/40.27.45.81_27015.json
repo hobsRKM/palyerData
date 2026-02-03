@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-03T04:40:24.8858068Z",
+  "Time": "2026-02-03T04:42:24.8827056Z",
   "Players": [
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 0,
-      "Time": "65:08"
+      "Score": 6,
+      "Time": "67:08"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 0,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tom Cruise",
+      "Steam": "76561198041181851",
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Skee",
       "Steam": "76561198740132657",
-      "Score": 0,
-      "Time": "223:51"
+      "Score": 3,
+      "Time": "225:51"
     },
     {
       "Name": "swagatron3000",
       "Steam": "76561198111358891",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 0,
-      "Time": "88:00"
+      "Score": 4,
+      "Time": "90:00"
     }
   ]
 }
