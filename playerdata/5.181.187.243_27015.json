@@ -1,41 +1,53 @@
 {
-  "Time": "2026-02-03T20:30:20.1598391Z",
+  "Time": "2026-02-03T20:32:20.1532183Z",
   "Players": [
+    {
+      "Name": "Wellsy",
+      "Steam": "76561198150286572",
+      "Score": 0,
+      "Time": "00:11"
+    },
     {
       "Name": "noobik",
       "Steam": "76561199101809915",
-      "Score": 32,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "{*****}-PUTIN CУKA БЛЯД",
       "Steam": "76561199611908411",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "radiCOOLit",
       "Steam": "76561199144008024",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "AKARI-12314",
       "Steam": "76561199880783602",
-      "Score": 17,
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Word2016.exe",
+      "Steam": "76561198746283832",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "tragaci",
       "Steam": "76561199876689927",
-      "Score": 34,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "MrBiscotti",
       "Steam": "76561199229255865",
       "Score": 16,
-      "Time": "06:48"
+      "Time": "08:48"
     },
     {
       "Name": "Unicorn",
@@ -44,15 +56,9 @@
       "Time": "??:??"
     },
     {
-      "Name": ";)",
-      "Steam": "76561199847392950",
-      "Score": 6,
-      "Time": "43:44"
-    },
-    {
       "Name": "bot1",
       "Steam": "76561199786976443",
-      "Score": 10,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
