@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-03T05:59:02.2620831Z",
+  "Time": "2026-02-03T06:01:02.2636343Z",
   "Players": [
     {
       "Name": "e3",
@@ -10,13 +10,19 @@
     {
       "Name": "bot1",
       "Steam": "76561199786976443",
-      "Score": 5,
+      "Score": 17,
       "Time": "??:??"
     },
     {
-      "Name": "eyeS wide shut valkanow",
+      "Name": "EyEs WiDe ShUt valkanow",
       "Steam": "76561199406570750",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cmd",
+      "Steam": "76561198762167919",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
