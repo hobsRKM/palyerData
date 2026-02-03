@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-03T19:19:09.4483297Z",
+  "Time": "2026-02-03T19:21:09.4520687Z",
   "Players": [
     {
       "Name": "e3",
@@ -8,21 +8,27 @@
       "Time": "??:??"
     },
     {
+      "Name": "qlix",
+      "Steam": "76561199682061013",
+      "Score": 4,
+      "Time": "00:55"
+    },
+    {
       "Name": "Revern",
       "Steam": "76561199868471969",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Maslanka",
       "Steam": "76561199866941128",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "President Ballsack",
       "Steam": "76561199848213859",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
