@@ -1,17 +1,35 @@
 {
-  "Time": "2026-02-03T01:43:03.793145Z",
+  "Time": "2026-02-03T01:45:03.7935053Z",
   "Players": [
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
+      "Score": 4,
+      "Time": "01:45"
+    },
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "26:20"
+      "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198751610816",
-      "Score": 6,
-      "Time": "08:47"
+      "Score": 4,
+      "Time": "10:47"
+    },
+    {
+      "Name": "theory of quantum mechanics",
+      "Steam": "76561198752135724",
+      "Score": 4,
+      "Time": "00:51"
+    },
+    {
+      "Name": "WeSmokeAlot",
+      "Steam": "76561198751727077",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
