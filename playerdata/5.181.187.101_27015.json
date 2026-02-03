@@ -1,29 +1,17 @@
 {
-  "Time": "2026-02-03T23:52:16.5150742Z",
+  "Time": "2026-02-03T23:52:24.0086214Z",
   "Players": [
     {
-      "Name": "\uD835\uDC13\uD835\uDC11\uD835\uDC17\uD835\uDC0F\uD835\uDC19.",
-      "Steam": "76561199113285471",
-      "Score": 41,
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 42,
+      "Time": "09:51"
+    },
+    {
+      "Name": "ganoff",
+      "Steam": "76561199549899909",
+      "Score": 12,
       "Time": "??:??"
-    },
-    {
-      "Name": "cweluszek",
-      "Steam": "76561198742757274",
-      "Score": 61,
-      "Time": "25:43"
-    },
-    {
-      "Name": "Dizzel",
-      "Steam": "76561199711150979",
-      "Score": 32,
-      "Time": "39:12"
-    },
-    {
-      "Name": "nohvhplz",
-      "Steam": "76561199827618693",
-      "Score": 56,
-      "Time": "31:58"
     }
   ]
 }
