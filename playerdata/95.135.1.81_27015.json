@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-03T01:39:15.6000513Z",
+  "Time": "2026-02-03T01:41:15.5891148Z",
   "Players": [
     {
       "Name": "e3",
@@ -10,44 +10,50 @@
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 8,
-      "Time": "30:10"
+      "Score": 10,
+      "Time": "32:10"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 8,
-      "Time": "121:14"
+      "Score": 12,
+      "Time": "123:14"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 37,
-      "Time": "18:11"
+      "Score": 43,
+      "Time": "20:11"
     },
     {
       "Name": "silent",
       "Steam": "76561199002053532",
+      "Score": 5,
+      "Time": "03:33"
+    },
+    {
+      "Name": "WeSmokeAlot",
+      "Steam": "76561198751727077",
       "Score": 0,
-      "Time": "01:33"
+      "Time": "??:??"
     },
     {
       "Name": "ghostY",
       "Steam": "76561199591486018",
       "Score": 27,
-      "Time": "673:52"
+      "Time": "675:52"
     },
     {
       "Name": "SM3RF",
       "Steam": "76561199267532979",
-      "Score": 72,
-      "Time": "481:44"
+      "Score": 78,
+      "Time": "483:44"
     },
     {
       "Name": "OvRss",
       "Steam": "76561198741220531",
-      "Score": 12,
-      "Time": "13:00"
+      "Score": 14,
+      "Time": "15:00"
     }
   ]
 }
