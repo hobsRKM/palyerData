@@ -1,41 +1,41 @@
 {
-  "Time": "2026-02-03T05:58:24.88327Z",
+  "Time": "2026-02-03T06:00:24.8887739Z",
   "Players": [
     {
       "Name": "freaky bob",
       "Steam": "76561199571154189",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "PremierLegit lora",
+      "Steam": "76561198759125966",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "eternity.lua   ohcarter",
-      "Steam": "76561198772153840",
-      "Score": 54,
-      "Time": "13:00"
-    },
-    {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 24,
-      "Time": "166:00"
+      "Score": 32,
+      "Time": "168:00"
     },
     {
       "Name": "6k",
       "Steam": "76561199755599976",
-      "Score": 79,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "Robot Cawk",
       "Steam": "76561199848482186",
-      "Score": 34,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 49,
-      "Time": "153:16"
+      "Score": 63,
+      "Time": "155:16"
     }
   ]
 }
