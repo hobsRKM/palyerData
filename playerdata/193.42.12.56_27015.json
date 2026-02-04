@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-04T15:49:07.1990887Z",
+  "Time": "2026-02-04T15:51:07.2089381Z",
   "Players": [
     {
       "Name": "frosty",
       "Steam": "76561198743039321",
-      "Score": 82,
+      "Score": 96,
       "Time": "??:??"
+    },
+    {
+      "Name": "HardTry",
+      "Steam": "76561198774309786",
+      "Score": 0,
+      "Time": "00:05"
     },
     {
       "Name": "keer",
       "Steam": "76561199860787478",
-      "Score": 27,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cake",
       "Steam": "76561199874806273",
-      "Score": 23,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "00:52"
     },
     {
       "Name": "c⁧⁧watrox",
@@ -28,13 +34,13 @@
     {
       "Name": "stunny",
       "Steam": "76561199126858787",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "sick",
       "Steam": "76561198746617042",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -46,19 +52,19 @@
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 25,
-      "Time": "18:01"
+      "Score": 9,
+      "Time": "20:01"
     },
     {
       "Name": "flashy",
       "Steam": "76561199164375637",
-      "Score": 53,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "Kardos Cigány",
       "Steam": "76561198800976872",
-      "Score": 26,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
