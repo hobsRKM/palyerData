@@ -1,34 +1,52 @@
 {
-  "Time": "2026-02-04T14:57:07.2081796Z",
+  "Time": "2026-02-04T14:59:07.2017072Z",
   "Players": [
+    {
+      "Name": "Diablo",
+      "Steam": "76561198756054596",
+      "Score": 5,
+      "Time": "01:25"
+    },
+    {
+      "Name": "petru_the_barbar",
+      "Steam": "76561199846515909",
+      "Score": 25,
+      "Time": "01:09"
+    },
+    {
+      "Name": "ruletik",
+      "Steam": "76561199816759374",
+      "Score": 0,
+      "Time": "00:16"
+    },
     {
       "Name": "ᵃˢᵃᵖ Candy Men",
       "Steam": "76561199142822378",
-      "Score": 101,
+      "Score": 109,
       "Time": "??:??"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 9,
-      "Time": "13:37"
+      "Score": 0,
+      "Time": "15:37"
     },
     {
       "Name": "lukáš",
       "Steam": "76561198868632842",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "flashy",
       "Steam": "76561199164375637",
-      "Score": 27,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "testing nixware stfu",
       "Steam": "76561199499013499",
-      "Score": 15,
+      "Score": 24,
       "Time": "??:??"
     },
     {
@@ -40,7 +58,7 @@
     {
       "Name": "-.-",
       "Steam": "76561198257642396",
-      "Score": 29,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -50,27 +68,27 @@
       "Time": "??:??"
     },
     {
-      "Name": "dead resolver",
-      "Steam": "76561199488984476",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
       "Name": "Lars Emil",
       "Steam": "76561198793023328",
-      "Score": 37,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "надоело +#мёртвый",
-      "Steam": "76561198741959665",
-      "Score": 1,
+      "Name": "Jobless",
+      "Steam": "76561199498192347",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ricky",
+      "Steam": "76561198269328732",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
