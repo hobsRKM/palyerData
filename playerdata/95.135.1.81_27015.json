@@ -1,34 +1,58 @@
 {
-  "Time": "2026-02-04T19:23:26.3892318Z",
+  "Time": "2026-02-04T19:25:26.3891947Z",
   "Players": [
+    {
+      "Name": "Nex11",
+      "Steam": "76561199102406785",
+      "Score": 10,
+      "Time": "01:47"
+    },
     {
       "Name": "sam",
       "Steam": "76561199558969772",
-      "Score": 21,
-      "Time": "36:17"
+      "Score": 25,
+      "Time": "38:17"
     },
     {
       "Name": "Netpincér",
       "Steam": "76561198783480630",
-      "Score": 20,
-      "Time": "61:21"
+      "Score": 30,
+      "Time": "63:21"
+    },
+    {
+      "Name": "uixhc7ha",
+      "Steam": "76561198741023527",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "Staszek",
       "Steam": "76561199407935025",
-      "Score": 15,
-      "Time": "28:24"
+      "Score": 4,
+      "Time": "30:24"
     },
     {
       "Name": "anx1ety",
       "Steam": "76561198786108096",
-      "Score": 2,
-      "Time": "14:45"
+      "Score": 0,
+      "Time": "16:45"
     },
     {
       "Name": "baini fimozer",
       "Steam": "76561198739537607",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "asd",
+      "Steam": "76561199510059617",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AsRock",
+      "Steam": "76561198760163917",
+      "Score": 3,
       "Time": "??:??"
     }
   ]
