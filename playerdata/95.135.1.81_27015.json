@@ -1,71 +1,77 @@
 {
-  "Time": "2026-02-04T20:11:26.3864234Z",
+  "Time": "2026-02-04T20:13:26.387896Z",
   "Players": [
+    {
+      "Name": "Nex11",
+      "Steam": "76561199102406785",
+      "Score": 37,
+      "Time": "00:56"
+    },
     {
       "Name": "virus.exe",
       "Steam": "76561199837364437",
-      "Score": 76,
-      "Time": "19:03"
+      "Score": 90,
+      "Time": "21:03"
     },
     {
       "Name": "sam",
       "Steam": "76561199558969772",
-      "Score": 89,
-      "Time": "02:41"
+      "Score": 95,
+      "Time": "04:41"
     },
     {
       "Name": "Drez",
       "Steam": "76561199869782470",
-      "Score": 20,
-      "Time": "08:10"
+      "Score": 31,
+      "Time": "10:10"
     },
     {
       "Name": "ᵏᵒᵖᶠˢᶜʰᶦˢˢApostl",
       "Steam": "76561199684356210",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "vayn",
-      "Steam": "76561198846937625",
+      "Name": "Tysbo",
+      "Steam": "76561198856278042",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "01:43"
     },
     {
       "Name": "♛WhenTheKingSpeaksYouListen♛",
       "Steam": "76561199872644590",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "kys",
       "Steam": "76561198772595197",
-      "Score": 3,
+      "Score": 11,
       "Time": "??:??"
     },
     {
-      "Name": "ete      jefstein",
+      "Name": "jefstein",
       "Steam": "76561198743378124",
       "Score": 2,
-      "Time": "122:53"
+      "Time": "124:53"
     },
     {
       "Name": "Dizzel",
       "Steam": "76561199711150979",
-      "Score": 15,
-      "Time": "10:33"
+      "Score": 17,
+      "Time": "12:33"
     },
     {
       "Name": "spezi",
       "Steam": "76561198849840994",
-      "Score": 47,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 2,
-      "Time": "49:07"
+      "Score": 4,
+      "Time": "51:07"
     }
   ]
 }
