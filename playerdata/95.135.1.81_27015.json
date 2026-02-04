@@ -1,29 +1,41 @@
 {
-  "Time": "2026-02-04T20:07:26.377851Z",
+  "Time": "2026-02-04T20:09:26.3865672Z",
   "Players": [
     {
       "Name": "virus.exe",
       "Steam": "76561199837364437",
-      "Score": 46,
-      "Time": "15:03"
+      "Score": 58,
+      "Time": "17:03"
+    },
+    {
+      "Name": "sam",
+      "Steam": "76561199558969772",
+      "Score": 82,
+      "Time": "00:41"
     },
     {
       "Name": "Drez",
       "Steam": "76561199869782470",
-      "Score": 6,
-      "Time": "04:10"
+      "Score": 8,
+      "Time": "06:10"
     },
     {
       "Name": "ᵏᵒᵖᶠˢᶜʰᶦˢˢApostl",
       "Steam": "76561199684356210",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "ete      jefstein",
+      "Steam": "76561198743378124",
+      "Score": 2,
+      "Time": "120:53"
     },
     {
       "Name": "Dizzel",
       "Steam": "76561199711150979",
-      "Score": 8,
-      "Time": "06:33"
+      "Score": 10,
+      "Time": "08:33"
     },
     {
       "Name": "spezi",
@@ -41,7 +53,7 @@
       "Name": "puli 么",
       "Steam": "76561198777234885",
       "Score": 0,
-      "Time": "34:43"
+      "Time": "36:43"
     }
   ]
 }
