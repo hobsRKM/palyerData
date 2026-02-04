@@ -1,4 +1,23 @@
 {
-  "Time": "2026-02-04T13:00:20.8801739Z",
-  "Players": []
+  "Time": "2026-02-04T13:00:53.6678214Z",
+  "Players": [
+    {
+      "Name": "S1MPLE",
+      "Steam": "76561198748209216",
+      "Score": 10,
+      "Time": "23:33"
+    },
+    {
+      "Name": "Zippyer_one_taps",
+      "Steam": "76561198745392935",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TheSunKawaII",
+      "Steam": "76561198744720955",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
