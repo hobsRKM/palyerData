@@ -1,47 +1,47 @@
 {
-  "Time": "2026-02-04T11:36:31.1033807Z",
+  "Time": "2026-02-04T11:38:31.1059033Z",
   "Players": [
+    {
+      "Name": "Rick",
+      "Steam": "76561199050470003",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Diaconescu Lucas",
       "Steam": "76561199667028575",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "D.",
       "Steam": "76561199823579259",
-      "Score": 9,
-      "Time": "28:09"
+      "Score": 0,
+      "Time": "30:09"
     },
     {
       "Name": "CallMeSpoofer",
       "Steam": "76561199026396251",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Exactey",
       "Steam": "76561198308584524",
-      "Score": 26,
-      "Time": "11:22"
+      "Score": 34,
+      "Time": "13:22"
     },
     {
       "Name": "c⁧⁧watrox",
       "Steam": "76561198161184894",
-      "Score": 14,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "anx1ety",
       "Steam": "76561198786108096",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
-    },
-    {
-      "Name": "ruletik",
-      "Steam": "76561199816759374",
-      "Score": 10,
-      "Time": "19:14"
     }
   ]
 }
