@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-04T18:57:26.3923169Z",
+  "Time": "2026-02-04T18:59:26.3914521Z",
   "Players": [
+    {
+      "Name": "Nex11",
+      "Steam": "76561199102406785",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "c⁧⁧watrox",
       "Steam": "76561198161184894",
-      "Score": 43,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "hokus",
       "Steam": "76561199524437506",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "sam",
       "Steam": "76561199558969772",
-      "Score": 59,
-      "Time": "10:17"
+      "Score": 70,
+      "Time": "12:17"
     },
     {
       "Name": "Netpincér",
       "Steam": "76561198783480630",
       "Score": 36,
-      "Time": "35:21"
+      "Time": "37:21"
     },
     {
       "Name": "Yasper Moglot",
       "Steam": "76561199814510059",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
@@ -40,32 +46,38 @@
     {
       "Name": "Staszek",
       "Steam": "76561199407935025",
-      "Score": 0,
-      "Time": "02:24"
+      "Score": 2,
+      "Time": "04:24"
     },
     {
       "Name": "FunnyMonkey",
       "Steam": "76561199435541437",
-      "Score": 44,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "nym メ",
       "Steam": "76561199879654346",
-      "Score": 27,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "Nie mam pomysłu na nick",
       "Steam": "76561199119162476",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "opa auf coca",
       "Steam": "76561198756732356",
+      "Score": 10,
+      "Time": "51:14"
+    },
+    {
+      "Name": "Exo",
+      "Steam": "76561198163119838",
       "Score": 0,
-      "Time": "49:14"
+      "Time": "??:??"
     }
   ]
 }
