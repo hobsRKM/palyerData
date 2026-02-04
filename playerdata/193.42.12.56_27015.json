@@ -1,47 +1,59 @@
 {
-  "Time": "2026-02-04T18:24:20.5313086Z",
+  "Time": "2026-02-04T18:26:20.5272486Z",
   "Players": [
     {
       "Name": "Trader-Joe",
       "Steam": "76561199467073125",
-      "Score": 21,
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kaktusior1",
+      "Steam": "76561199510403300",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "noxe",
+      "Steam": "76561199223978207",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "S0RO [PT]",
       "Steam": "76561199165947463",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "284:05"
+      "Time": "286:05"
     },
     {
       "Name": "I LOVE SCAR!",
       "Steam": "76561198778758389",
       "Score": 0,
-      "Time": "16:30"
+      "Time": "18:30"
     },
     {
       "Name": "HÈñ†ÄÌ",
       "Steam": "76561199821781008",
-      "Score": 27,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "refl3xz2",
       "Steam": "76561198748746279",
-      "Score": 3,
-      "Time": "28:54"
+      "Score": 5,
+      "Time": "30:54"
     },
     {
       "Name": "B.O.M.B.E.R",
       "Steam": "76561198084937811",
-      "Score": 0,
-      "Time": "01:22"
+      "Score": 6,
+      "Time": "03:22"
     }
   ]
 }
