@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-04T18:24:56.4312338Z",
+  "Time": "2026-02-04T18:26:56.4313964Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "S1",
       "Steam": "76561198743093823",
@@ -8,15 +14,21 @@
       "Time": "??:??"
     },
     {
-      "Name": "ternity.lua      bill",
+      "Name": "eternity.lua     bill",
       "Steam": "76561199013445293",
-      "Score": 24,
-      "Time": "21:02"
+      "Score": 28,
+      "Time": "23:02"
     },
     {
       "Name": "emotional suport bagel",
       "Steam": "76561199548982521",
-      "Score": 37,
+      "Score": 55,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ray Of Sunshine",
+      "Steam": "76561198084345532",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
