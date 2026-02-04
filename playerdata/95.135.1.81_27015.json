@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-04T19:21:26.3824432Z",
+  "Time": "2026-02-04T19:23:26.3892318Z",
   "Players": [
     {
       "Name": "sam",
       "Steam": "76561199558969772",
-      "Score": 13,
-      "Time": "34:17"
+      "Score": 21,
+      "Time": "36:17"
     },
     {
       "Name": "Netpincér",
       "Steam": "76561198783480630",
-      "Score": 10,
-      "Time": "59:21"
+      "Score": 20,
+      "Time": "61:21"
     },
     {
       "Name": "Staszek",
       "Steam": "76561199407935025",
-      "Score": 13,
-      "Time": "26:24"
+      "Score": 15,
+      "Time": "28:24"
     },
     {
       "Name": "anx1ety",
       "Steam": "76561198786108096",
+      "Score": 2,
+      "Time": "14:45"
+    },
+    {
+      "Name": "baini fimozer",
+      "Steam": "76561198739537607",
       "Score": 0,
-      "Time": "12:45"
+      "Time": "??:??"
     }
   ]
 }
