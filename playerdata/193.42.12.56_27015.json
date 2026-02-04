@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-04T15:51:07.2089381Z",
+  "Time": "2026-02-04T15:53:07.2070806Z",
   "Players": [
     {
       "Name": "frosty",
       "Steam": "76561198743039321",
-      "Score": 96,
+      "Score": 101,
       "Time": "??:??"
     },
     {
       "Name": "HardTry",
       "Steam": "76561198774309786",
-      "Score": 0,
-      "Time": "00:05"
+      "Score": 2,
+      "Time": "02:05"
     },
     {
       "Name": "keer",
       "Steam": "76561199860787478",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "cake",
       "Steam": "76561199874806273",
       "Score": 0,
-      "Time": "00:52"
+      "Time": "02:52"
+    },
+    {
+      "Name": "0x81",
+      "Steam": "76561198248444674",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "c⁧⁧watrox",
       "Steam": "76561198161184894",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "stunny",
       "Steam": "76561199126858787",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
@@ -44,27 +50,21 @@
       "Time": "??:??"
     },
     {
-      "Name": "compkiller / nhekker",
-      "Steam": "76561199682863141",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 9,
-      "Time": "20:01"
+      "Score": 14,
+      "Time": "22:01"
     },
     {
       "Name": "flashy",
       "Steam": "76561199164375637",
-      "Score": 61,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "Kardos Cigány",
       "Steam": "76561198800976872",
-      "Score": 31,
+      "Score": 40,
       "Time": "??:??"
     }
   ]
