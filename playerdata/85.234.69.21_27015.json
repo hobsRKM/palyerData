@@ -1,28 +1,22 @@
 {
-  "Time": "2026-02-04T07:44:31.1052422Z",
+  "Time": "2026-02-04T07:46:31.0980716Z",
   "Players": [
-    {
-      "Name": "lagcomp",
-      "Steam": "76561199660705672",
-      "Score": 0,
-      "Time": "06:03"
-    },
     {
       "Name": "Testing Nixware",
       "Steam": "76561199868471969",
-      "Score": 6,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "opa auf coca",
       "Steam": "76561198756732356",
-      "Score": 5,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Fatalıty",
       "Steam": "76561198748400027",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
@@ -34,13 +28,19 @@
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
       "Steam": "76561198333235279",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Chris",
       "Steam": "76561199828037563",
-      "Score": 1,
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "frosty",
+      "Steam": "76561198977033081",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
