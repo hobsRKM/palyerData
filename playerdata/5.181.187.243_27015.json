@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-04T22:28:17.3864069Z",
+  "Time": "2026-02-04T22:30:17.3874988Z",
   "Players": [
     {
       "Name": "\"'",
@@ -16,26 +16,32 @@
     {
       "Name": "david fincher",
       "Steam": "76561199688643157",
-      "Score": 6,
-      "Time": "18:51"
+      "Score": 4,
+      "Time": "20:51"
     },
     {
       "Name": "Igor Bolyčev Pro standoff killer",
       "Steam": "76561198783170670",
-      "Score": 40,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Bottas",
       "Steam": "76561199548005757",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Ooo",
       "Steam": "76561199319156182",
-      "Score": 23,
+      "Score": 33,
       "Time": "??:??"
+    },
+    {
+      "Name": "SM3RF",
+      "Steam": "76561199267532979",
+      "Score": 2,
+      "Time": "103:58"
     }
   ]
 }
