@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-05T18:11:05.4538915Z",
+  "Time": "2026-02-05T18:13:05.4587205Z",
   "Players": [
     {
       "Name": "east",
       "Steam": "76561198743093823",
-      "Score": 25,
-      "Time": "44:04"
+      "Score": 27,
+      "Time": "46:04"
     },
     {
       "Name": "bill",
       "Steam": "76561199013445293",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "00:59"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 20,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "burp :3",
       "Steam": "76561199882461072",
-      "Score": 13,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "PremierLegit lora",
       "Steam": "76561198759125966",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
