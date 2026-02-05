@@ -1,12 +1,6 @@
 {
-  "Time": "2026-02-05T16:00:36.4093537Z",
+  "Time": "2026-02-05T16:02:36.4061559Z",
   "Players": [
-    {
-      "Name": "Joeyy",
-      "Steam": "76561198741595660",
-      "Score": 16,
-      "Time": "18:30"
-    },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
@@ -16,8 +10,8 @@
     {
       "Name": "wizu",
       "Steam": "76561198784574810",
-      "Score": 79,
-      "Time": "26:33"
+      "Score": 0,
+      "Time": "28:33"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
@@ -28,20 +22,26 @@
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 55,
-      "Time": "104:30"
+      "Score": 59,
+      "Time": "106:30"
     },
     {
       "Name": "kaktusior1",
       "Steam": "76561199510403300",
-      "Score": 86,
+      "Score": 89,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dycha",
+      "Steam": "76561199691142851",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 25,
-      "Time": "208:34"
+      "Score": 31,
+      "Time": "210:34"
     },
     {
       "Name": "хонгор минь",
@@ -52,13 +52,13 @@
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 81,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "maison darc",
       "Steam": "76561198740435158",
-      "Score": 11,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -68,28 +68,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "IDKlegit",
+      "Steam": "76561199037222147",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": ";;;;",
       "Steam": "76561198745487779",
-      "Score": 12,
-      "Time": "04:20"
+      "Score": 2,
+      "Time": "06:20"
     },
     {
       "Name": ">.<",
       "Steam": "76561199042138318",
-      "Score": 18,
-      "Time": "10:52"
+      "Score": 26,
+      "Time": "12:52"
     },
     {
       "Name": "✝.\uD835\uDC52\uD835\uDCCB\uD835\uDC5C\uD835\uDCC1\uD835\uDCCB\uD835\uDC52",
       "Steam": "76561199849090682",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Charlie",
       "Steam": "76561199070756563",
-      "Score": 3,
-      "Time": "06:22"
+      "Score": 12,
+      "Time": "08:22"
     }
   ]
 }
