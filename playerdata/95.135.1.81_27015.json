@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-05T13:08:36.4052163Z",
+  "Time": "2026-02-05T13:10:36.4067708Z",
   "Players": [
+    {
+      "Name": "Garry",
+      "Steam": "76561199685733063",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "航空交通管制",
       "Steam": "76561199011662523",
-      "Score": 12,
-      "Time": "20:16"
+      "Score": 20,
+      "Time": "22:16"
     },
     {
       "Name": "e3",
@@ -16,67 +22,73 @@
     {
       "Name": "Jobless",
       "Steam": "76561199498192347",
-      "Score": 66,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Vilko",
       "Steam": "76561198160571123",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 12,
-      "Time": "265:58"
+      "Score": 2,
+      "Time": "267:58"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 1,
-      "Time": "36:34"
+      "Score": 8,
+      "Time": "38:34"
     },
     {
       "Name": ";;;;",
       "Steam": "76561198745487779",
-      "Score": 20,
-      "Time": "11:47"
+      "Score": 0,
+      "Time": "13:47"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "apathetic conclusioni",
       "Steam": "76561199679982159",
-      "Score": 87,
+      "Score": 93,
       "Time": "??:??"
     },
     {
       "Name": "✠",
       "Steam": "76561199099872423",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
+    },
+    {
+      "Name": "nemiss",
+      "Steam": "76561198169061365",
+      "Score": 8,
+      "Time": "00:20"
     },
     {
       "Name": "Ferox",
       "Steam": "76561199377440484",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "!sanddu",
       "Steam": "76561198835474175",
-      "Score": 9,
-      "Time": "24:06"
+      "Score": 17,
+      "Time": "26:06"
     },
     {
       "Name": "ULUGBEK",
       "Steam": "76561199629184110",
-      "Score": 31,
+      "Score": 41,
       "Time": "??:??"
     }
   ]
