@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-05T07:25:37.7913616Z",
+  "Time": "2026-02-05T07:27:37.7904168Z",
   "Players": [
+    {
+      "Name": "xmpp",
+      "Steam": "76561198263749290",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
@@ -8,34 +14,40 @@
       "Time": "??:??"
     },
     {
+      "Name": "blumpkin",
+      "Steam": "76561199803889471",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "6k",
       "Steam": "76561199755599976",
-      "Score": 0,
-      "Time": "01:24"
+      "Score": 8,
+      "Time": "03:24"
     },
     {
       "Name": "youfeelmelol11",
       "Steam": "76561198744128868",
       "Score": 5,
-      "Time": "14:53"
+      "Time": "16:53"
     },
     {
       "Name": "meow",
       "Steam": "76561198752275435",
-      "Score": 11,
-      "Time": "43:35"
+      "Score": 14,
+      "Time": "45:35"
     },
     {
       "Name": "The eyes, chico, they never lie.",
       "Steam": "76561198398976448",
-      "Score": 12,
-      "Time": "81:26"
+      "Score": 16,
+      "Time": "83:26"
     },
     {
-      "Name": "ity.lua          bill",
+      "Name": "nity.lua         bill",
       "Steam": "76561199013445293",
-      "Score": 19,
-      "Time": "50:59"
+      "Score": 21,
+      "Time": "01:11"
     }
   ]
 }
