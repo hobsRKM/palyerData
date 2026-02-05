@@ -1,53 +1,65 @@
 {
-  "Time": "2026-02-05T07:45:37.7962577Z",
+  "Time": "2026-02-05T07:47:37.785204Z",
   "Players": [
     {
       "Name": "mj",
       "Steam": "76561198751671283",
-      "Score": 21,
-      "Time": "10:29"
+      "Score": 23,
+      "Time": "12:29"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 47,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 26,
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Firefox",
+      "Steam": "76561198156068957",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mc32gaming",
+      "Steam": "76561198754104756",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "6k",
       "Steam": "76561199755599976",
-      "Score": 79,
-      "Time": "21:24"
+      "Score": 91,
+      "Time": "23:24"
     },
     {
       "Name": "youfeelmelol11",
       "Steam": "76561198744128868",
-      "Score": 23,
-      "Time": "34:53"
+      "Score": 33,
+      "Time": "36:53"
     },
     {
       "Name": "meow",
       "Steam": "76561198752275435",
-      "Score": 68,
-      "Time": "63:35"
+      "Score": 77,
+      "Time": "65:35"
     },
     {
       "Name": "The eyes, chico, they never lie.",
       "Steam": "76561198398976448",
-      "Score": 36,
-      "Time": "101:26"
+      "Score": 38,
+      "Time": "103:26"
     },
     {
-      "Name": "eternity.lua    bill",
+      "Name": "eternity.l     bill",
       "Steam": "76561199013445293",
-      "Score": 23,
-      "Time": "19:11"
+      "Score": 0,
+      "Time": "21:11"
     }
   ]
 }
