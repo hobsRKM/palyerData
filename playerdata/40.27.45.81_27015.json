@@ -1,53 +1,53 @@
 {
-  "Time": "2026-02-05T08:09:37.7923994Z",
+  "Time": "2026-02-05T08:11:37.7895022Z",
   "Players": [
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 61,
+      "Score": 65,
       "Time": "??:??"
+    },
+    {
+      "Name": "xmpp",
+      "Steam": "76561198263749290",
+      "Score": 0,
+      "Time": "01:22"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 27,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "mc32gaming",
       "Steam": "76561198754104756",
-      "Score": 15,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "6k",
       "Steam": "76561199755599976",
-      "Score": 55,
-      "Time": "45:24"
-    },
-    {
-      "Name": "youfeelmelol11",
-      "Steam": "76561198744128868",
-      "Score": 4,
-      "Time": "58:53"
+      "Score": 63,
+      "Time": "47:24"
     },
     {
       "Name": "The eyes, chico, they never lie.",
       "Steam": "76561198398976448",
-      "Score": 16,
-      "Time": "08:51"
+      "Score": 2,
+      "Time": "10:51"
     },
     {
-      "Name": ".lua           bill",
+      "Name": "y.lua           bill",
       "Steam": "76561199013445293",
       "Score": 0,
-      "Time": "02:36"
+      "Time": "04:36"
     }
   ]
 }
