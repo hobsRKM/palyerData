@@ -1,34 +1,34 @@
 {
-  "Time": "2026-02-05T18:19:54.2001396Z",
+  "Time": "2026-02-05T18:21:54.1942802Z",
   "Players": [
     {
       "Name": "desync daddy",
       "Steam": "76561198376802362",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "svitch000",
       "Steam": "76561199794808790",
-      "Score": 23,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "merkantilz",
       "Steam": "76561199767273513",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "hefju9411",
       "Steam": "76561198744624347",
-      "Score": 50,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
@@ -38,10 +38,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "sam",
+      "Steam": "76561199558969772",
+      "Score": 2,
+      "Time": "01:05"
+    },
+    {
       "Name": "Chris",
       "Steam": "76561199828037563",
       "Score": 0,
-      "Time": "73:53"
+      "Time": "75:53"
     }
   ]
 }
