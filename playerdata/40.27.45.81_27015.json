@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-05T22:45:05.4544211Z",
+  "Time": "2026-02-05T22:47:05.4541801Z",
   "Players": [
-    {
-      "Name": "anja",
-      "Steam": "76561199559570720",
-      "Score": 4,
-      "Time": "??:??"
-    },
     {
       "Name": "idk",
       "Steam": "76561198742474700",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
       "Score": 18,
-      "Time": "63:04"
+      "Time": "65:04"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 14,
-      "Time": "145:40"
+      "Score": 26,
+      "Time": "147:40"
     },
     {
       "Name": "Goon King",
       "Steam": "76561198784560984",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "cheeziepooh",
+      "Steam": "76561198273566562",
+      "Score": 2,
+      "Time": "00:42"
+    },
+    {
+      "Name": "aesthetic",
+      "Steam": "76561199880717233",
+      "Score": 4,
+      "Time": "01:51"
     }
   ]
 }
