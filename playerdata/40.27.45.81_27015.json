@@ -1,59 +1,71 @@
 {
-  "Time": "2026-02-05T09:49:37.7841622Z",
+  "Time": "2026-02-05T09:51:37.7927858Z",
   "Players": [
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 12,
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "virus.exe",
+      "Steam": "76561199837364437",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 48,
-      "Time": "20:55"
+      "Score": 54,
+      "Time": "22:55"
     },
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
-      "Score": 11,
-      "Time": "09:21"
+      "Score": 13,
+      "Time": "11:21"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 24,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": ";",
+      "Steam": "76561199321025751",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 53,
-      "Time": "48:09"
+      "Score": 55,
+      "Time": "50:09"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 68,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "Anti Toxic",
       "Steam": "76561199164396779",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "(TacoStreet) Torta",
       "Steam": "76561198373259020",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 76,
-      "Time": "56:26"
+      "Score": 81,
+      "Time": "58:26"
     }
   ]
 }
