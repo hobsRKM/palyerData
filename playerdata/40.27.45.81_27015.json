@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-05T06:53:37.7861755Z",
+  "Time": "2026-02-05T06:55:37.7948881Z",
   "Players": [
     {
       "Name": "GigglyGoon",
       "Steam": "76561199400457766",
-      "Score": 21,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "mj",
+      "Steam": "76561198751671283",
+      "Score": 0,
+      "Time": "190:13"
     },
     {
       "Name": "6k",
       "Steam": "76561199755599976",
-      "Score": 110,
-      "Time": "46:32"
+      "Score": 7,
+      "Time": "48:32"
     },
     {
       "Name": "meow",
       "Steam": "76561198752275435",
-      "Score": 51,
-      "Time": "11:35"
+      "Score": 0,
+      "Time": "13:35"
     },
     {
       "Name": "The eyes, chico, they never lie.",
       "Steam": "76561198398976448",
-      "Score": 18,
-      "Time": "49:26"
+      "Score": 5,
+      "Time": "51:26"
     },
     {
-      "Name": "eternity.lua  bill",
+      "Name": "eternity.lua   bill",
       "Steam": "76561199013445293",
-      "Score": 44,
-      "Time": "18:59"
+      "Score": 2,
+      "Time": "20:59"
     }
   ]
 }
