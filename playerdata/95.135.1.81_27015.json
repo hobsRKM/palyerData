@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-05T04:32:47.6801025Z",
+  "Time": "2026-02-05T04:34:47.6813906Z",
   "Players": [
     {
       "Name": "e3",
@@ -16,8 +16,14 @@
     {
       "Name": "in 2005 a hurensohn was born",
       "Steam": "76561198806792145",
+      "Score": 6,
+      "Time": "25:44"
+    },
+    {
+      "Name": "sudo rm -rf --no-preserve-root /",
+      "Steam": "76561198165973699",
       "Score": 0,
-      "Time": "23:44"
+      "Time": "??:??"
     }
   ]
 }
