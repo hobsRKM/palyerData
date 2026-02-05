@@ -1,23 +1,35 @@
 {
-  "Time": "2026-02-05T15:15:54.2005884Z",
+  "Time": "2026-02-05T15:17:54.2013598Z",
   "Players": [
+    {
+      "Name": "Saira",
+      "Steam": "76561198754189591",
+      "Score": 0,
+      "Time": "01:44"
+    },
+    {
+      "Name": "PEAKKISA",
+      "Steam": "76561198744973345",
+      "Score": 0,
+      "Time": "00:53"
+    },
     {
       "Name": "⁹⁹⁹Loading...",
       "Steam": "76561198771263703",
-      "Score": 72,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "☢Ď₳ÑǤĒ℟☢",
       "Steam": "76561198744766141",
-      "Score": 53,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "vxz.*･.*✫",
       "Steam": "76561198908394285",
-      "Score": 41,
-      "Time": "09:57"
+      "Score": 45,
+      "Time": "11:57"
     },
     {
       "Name": "wl666",
@@ -28,19 +40,13 @@
     {
       "Name": "c⁧⁧watrox",
       "Steam": "76561198161184894",
-      "Score": 42,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "Desoxyribonukleinsäure",
       "Steam": "76561199081081062",
-      "Score": 24,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Its always them",
-      "Steam": "76561199848067549",
-      "Score": 0,
+      "Score": 30,
       "Time": "??:??"
     },
     {
@@ -52,7 +58,25 @@
     {
       "Name": "Bshf",
       "Steam": "76561198313923594",
-      "Score": 14,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Svaga",
+      "Steam": "76561198740759483",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mystyle",
+      "Steam": "76561199687818354",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "uff ya $$",
+      "Steam": "76561199078306806",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
