@@ -1,10 +1,16 @@
 {
-  "Time": "2026-02-05T22:55:05.4618067Z",
+  "Time": "2026-02-05T22:59:05.4542714Z",
   "Players": [
+    {
+      "Name": "nixware beta",
+      "Steam": "76561199008444456",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "idk",
       "Steam": "76561198742474700",
-      "Score": 23,
+      "Score": 28,
       "Time": "??:??"
     },
     {
@@ -16,32 +22,38 @@
     {
       "Name": "Bananchiki",
       "Steam": "76561199619301187",
-      "Score": 6,
-      "Time": "04:00"
+      "Score": 7,
+      "Time": "08:00"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 6,
-      "Time": "02:32"
+      "Score": 20,
+      "Time": "06:32"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 0,
+      "Time": "01:28"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 62,
-      "Time": "155:40"
+      "Score": 68,
+      "Time": "159:40"
     },
     {
       "Name": "Goon King",
       "Steam": "76561198784560984",
-      "Score": 10,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "aesthetic",
       "Steam": "76561199880717233",
-      "Score": 0,
-      "Time": "09:51"
+      "Score": 6,
+      "Time": "13:51"
     }
   ]
 }
