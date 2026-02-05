@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-05T21:28:36.4100492Z",
+  "Time": "2026-02-05T21:30:36.4127297Z",
   "Players": [
     {
       "Name": "e3",
@@ -10,14 +10,14 @@
     {
       "Name": "CallMeSpoofer",
       "Steam": "76561199026396251",
-      "Score": 0,
-      "Time": "413:47"
+      "Score": 10,
+      "Time": "415:47"
     },
     {
       "Name": "purge",
       "Steam": "76561198764733323",
-      "Score": 30,
-      "Time": "134:20"
+      "Score": 31,
+      "Time": "136:20"
     },
     {
       "Name": "Kiri",
@@ -28,13 +28,25 @@
     {
       "Name": "R2 | Xonnnel",
       "Steam": "76561199076195711",
-      "Score": 10,
-      "Time": "337:46"
+      "Score": 8,
+      "Time": "339:46"
     },
     {
       "Name": "Pommesbude",
       "Steam": "76561199480254619",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mirzauzunca",
+      "Steam": "76561199836241390",
+      "Score": 0,
+      "Time": "00:21"
+    },
+    {
+      "Name": "neaxy",
+      "Steam": "76561199048207385",
+      "Score": 10,
       "Time": "??:??"
     }
   ]
