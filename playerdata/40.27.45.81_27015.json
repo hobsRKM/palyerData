@@ -1,17 +1,29 @@
 {
-  "Time": "2026-02-05T23:29:05.4578623Z",
+  "Time": "2026-02-05T23:31:05.4549133Z",
   "Players": [
     {
       "Name": "nixware beta",
       "Steam": "76561199008444456",
-      "Score": 28,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "0x6a6179",
+      "Steam": "76561198758593147",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 24,
-      "Time": "36:32"
+      "Score": 38,
+      "Time": "38:32"
+    },
+    {
+      "Name": "VOLCANO91",
+      "Steam": "76561198745458870",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "c.c",
@@ -22,26 +34,26 @@
     {
       "Name": "The eyes, chico, they never lie.",
       "Steam": "76561198398976448",
-      "Score": 5,
-      "Time": "06:20"
+      "Score": 9,
+      "Time": "08:20"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 51,
-      "Time": "10:20"
+      "Score": 61,
+      "Time": "12:20"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 25,
-      "Time": "189:40"
+      "Score": 26,
+      "Time": "191:40"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
       "Score": 0,
-      "Time": "03:03"
+      "Time": "05:03"
     }
   ]
 }
