@@ -1,28 +1,40 @@
 {
-  "Time": "2026-02-05T17:11:54.1861396Z",
+  "Time": "2026-02-05T17:13:54.1953971Z",
   "Players": [
     {
       "Name": "ScoTTyCuNtY\uD83C\uDDEC\uD83C\uDDE7",
       "Steam": "76561198909467158",
-      "Score": 3,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "che guevara",
+      "Steam": "76561198741960582",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "John",
       "Steam": "76561198770550425",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Maslanka",
       "Steam": "76561199866941128",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ka$h",
+      "Steam": "76561198769067462",
       "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "6 MILLION?",
       "Steam": "76561198774939761",
-      "Score": 29,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -35,7 +47,7 @@
       "Name": "Chris",
       "Steam": "76561199828037563",
       "Score": 14,
-      "Time": "05:53"
+      "Time": "07:53"
     }
   ]
 }
