@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-05T18:17:05.4630677Z",
+  "Time": "2026-02-05T18:19:05.4621306Z",
   "Players": [
     {
       "Name": "east",
       "Steam": "76561198743093823",
-      "Score": 35,
-      "Time": "50:04"
+      "Score": 37,
+      "Time": "52:04"
     },
     {
       "Name": "bill",
       "Steam": "76561199013445293",
-      "Score": 31,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 6,
-      "Time": "04:59"
-    },
-    {
-      "Name": "blumpkin",
-      "Steam": "76561199803889471",
-      "Score": 38,
-      "Time": "??:??"
+      "Score": 13,
+      "Time": "06:59"
     },
     {
       "Name": "burp :3",
       "Steam": "76561199882461072",
-      "Score": 30,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mr. Creamy Peanut",
+      "Steam": "76561198741770658",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Perhks",
+      "Steam": "76561198293312486",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
