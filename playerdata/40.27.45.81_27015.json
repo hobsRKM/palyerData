@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-05T17:53:05.4623793Z",
+  "Time": "2026-02-05T17:55:05.4580452Z",
   "Players": [
     {
       "Name": "east",
       "Steam": "76561198743093823",
-      "Score": 72,
-      "Time": "26:04"
+      "Score": 78,
+      "Time": "28:04"
     },
     {
       "Name": "bill",
       "Steam": "76561199013445293",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
-      "Name": "Niggalink.a Bananchiki",
+      "Name": "Nigg Bananchiki",
       "Steam": "76561199619301187",
       "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "blumpkin",
+      "Steam": "76561199803889471",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
