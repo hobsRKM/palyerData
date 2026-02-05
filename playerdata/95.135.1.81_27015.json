@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-05T22:12:36.4091364Z",
+  "Time": "2026-02-05T22:14:36.40738Z",
   "Players": [
+    {
+      "Name": "Grajchłopiec Kasti",
+      "Steam": "76561199833286399",
+      "Score": 2,
+      "Time": "01:16"
+    },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
@@ -10,26 +16,20 @@
     {
       "Name": "CallMeSpoofer",
       "Steam": "76561199026396251",
-      "Score": 0,
-      "Time": "457:47"
+      "Score": 6,
+      "Time": "459:47"
     },
     {
       "Name": "purge",
       "Steam": "76561198764733323",
       "Score": 60,
-      "Time": "178:20"
-    },
-    {
-      "Name": "supnyga",
-      "Steam": "76561198740663502",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "180:20"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 51,
-      "Time": "29:49"
+      "Score": 59,
+      "Time": "31:49"
     }
   ]
 }
