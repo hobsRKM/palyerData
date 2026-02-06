@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-06T22:42:15.3589764Z",
+  "Time": "2026-02-06T22:44:15.3629851Z",
   "Players": [
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "994:16"
+      "Time": "996:16"
     },
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 17,
-      "Time": "09:34"
+      "Score": 26,
+      "Time": "11:34"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 65,
+      "Score": 82,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tits",
+      "Steam": "76561198793026953",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "CallMeSpoofer",
       "Steam": "76561199026396251",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "noobik",
       "Steam": "76561199101809915",
-      "Score": 60,
+      "Score": 65,
       "Time": "??:??"
     },
     {
@@ -40,14 +46,26 @@
     {
       "Name": "Tysbo",
       "Steam": "76561198856278042",
-      "Score": 23,
-      "Time": "26:17"
+      "Score": 26,
+      "Time": "28:17"
+    },
+    {
+      "Name": "xspymer837667",
+      "Steam": "76561199781811309",
+      "Score": 0,
+      "Time": "01:50"
+    },
+    {
+      "Name": "Jobless",
+      "Steam": "76561199498192347",
+      "Score": 7,
+      "Time": "319:08"
     },
     {
       "Name": "Seraph",
       "Steam": "76561197963170942",
-      "Score": 71,
-      "Time": "64:25"
+      "Score": 77,
+      "Time": "66:25"
     },
     {
       "Name": "silent",
@@ -58,14 +76,14 @@
     {
       "Name": "EdwardFalcon01",
       "Steam": "76561198749679188",
-      "Score": 2,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "ju$jay",
       "Steam": "76561199175054884",
       "Score": 15,
-      "Time": "10:51"
+      "Time": "12:51"
     }
   ]
 }
