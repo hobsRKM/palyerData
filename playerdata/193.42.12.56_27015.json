@@ -1,12 +1,6 @@
 {
-  "Time": "2026-02-06T22:28:32.2191339Z",
+  "Time": "2026-02-06T22:30:32.224163Z",
   "Players": [
-    {
-      "Name": "tymo--",
-      "Steam": "76561199425592793",
-      "Score": 47,
-      "Time": "235:25"
-    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -16,32 +10,38 @@
     {
       "Name": "BRAWE | P1XEL",
       "Steam": "76561199493805486",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "SweetJesus",
       "Steam": "76561199841204994",
       "Score": 1,
-      "Time": "02:24"
+      "Time": "04:24"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 89,
-      "Time": "13:17"
+      "Score": 99,
+      "Time": "15:17"
+    },
+    {
+      "Name": "avg turk",
+      "Steam": "76561198784574810",
+      "Score": 2,
+      "Time": "00:45"
     },
     {
       "Name": "ux",
       "Steam": "76561199700050320",
-      "Score": 111,
-      "Time": "173:30"
+      "Score": 0,
+      "Time": "175:30"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
       "Steam": "76561198341012123",
-      "Score": 101,
-      "Time": "55:26"
+      "Score": 108,
+      "Time": "57:26"
     },
     {
       "Name": "IDKlegit",
@@ -52,26 +52,26 @@
     {
       "Name": "scommeR\uD83D\uDC51",
       "Steam": "76561199816841149",
-      "Score": 3,
-      "Time": "66:01"
+      "Score": 0,
+      "Time": "68:01"
     },
     {
       "Name": "guy",
       "Steam": "76561199471182367",
-      "Score": 20,
-      "Time": "11:17"
+      "Score": 28,
+      "Time": "13:17"
     },
     {
       "Name": "ozempeek",
       "Steam": "76561199241125970",
-      "Score": 0,
-      "Time": "16:34"
+      "Score": 4,
+      "Time": "18:34"
     },
     {
       "Name": "peter90910",
       "Steam": "76561198742597849",
-      "Score": 33,
-      "Time": "88:15"
+      "Score": 35,
+      "Time": "90:15"
     }
   ]
 }
