@@ -1,23 +1,35 @@
 {
-  "Time": "2026-02-06T08:07:54.4268863Z",
+  "Time": "2026-02-06T08:09:54.4398356Z",
   "Players": [
+    {
+      "Name": "fl4vv1o",
+      "Steam": "76561198849256320",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "feet",
       "Steam": "76561198253680975",
-      "Score": 44,
-      "Time": "09:01"
+      "Score": 50,
+      "Time": "11:01"
     },
     {
       "Name": "sebby >.<",
       "Steam": "76561198874356385",
-      "Score": 23,
+      "Score": 29,
       "Time": "??:??"
+    },
+    {
+      "Name": "eliyah epstein",
+      "Steam": "76561199688643157",
+      "Score": 0,
+      "Time": "00:38"
     },
     {
       "Name": "russian blue paste legend",
       "Steam": "76561199700050320",
-      "Score": 6,
-      "Time": "31:14"
+      "Score": 0,
+      "Time": "33:14"
     }
   ]
 }
