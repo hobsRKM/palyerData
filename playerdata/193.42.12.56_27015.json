@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-06T03:19:54.1962914Z",
+  "Time": "2026-02-06T03:21:54.1878726Z",
   "Players": [
     {
       "Name": "JACK SPEDAISY",
       "Steam": "76561198269379199",
-      "Score": 10,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ooo",
+      "Steam": "76561199319156182",
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "peter90910",
       "Steam": "76561198742597849",
       "Score": 2,
-      "Time": "51:03"
+      "Time": "53:03"
     },
     {
       "Name": "HardTry",
       "Steam": "76561198774309786",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "ᵃˢᵃᵖ rolik",
       "Steam": "76561198999548268",
-      "Score": 17,
-      "Time": "36:04"
+      "Score": 19,
+      "Time": "38:04"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 4,
-      "Time": "21:44"
+      "Score": 0,
+      "Time": "23:44"
     },
     {
       "Name": "Holocaust denier",
       "Steam": "76561199772489774",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -46,7 +52,7 @@
     {
       "Name": "spat",
       "Steam": "76561199047342216",
-      "Score": 22,
+      "Score": 25,
       "Time": "??:??"
     },
     {
@@ -59,7 +65,7 @@
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
       "Score": 2,
-      "Time": "04:44"
+      "Time": "06:44"
     }
   ]
 }
