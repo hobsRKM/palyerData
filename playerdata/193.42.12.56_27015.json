@@ -1,28 +1,34 @@
 {
-  "Time": "2026-02-06T05:01:54.2454218Z",
+  "Time": "2026-02-06T05:03:54.1923995Z",
   "Players": [
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 8,
-      "Time": "06:25"
+      "Score": 2,
+      "Time": "08:25"
     },
     {
       "Name": "JACK SPEDAISY",
       "Steam": "76561198269379199",
-      "Score": 33,
-      "Time": "74:37"
+      "Score": 36,
+      "Time": "76:37"
+    },
+    {
+      "Name": "benedict",
+      "Steam": "76561198135170351",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC2C\uD835\uDC21\uD835\uDC1A\uD835\uDC26\uD835\uDC1A\uD835\uDC27",
       "Steam": "76561198780646846",
-      "Score": 0,
-      "Time": "04:53"
+      "Score": 4,
+      "Time": "06:53"
     },
     {
       "Name": "Holocaust denier",
       "Steam": "76561199772489774",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -34,20 +40,20 @@
     {
       "Name": "D.",
       "Steam": "76561199823579259",
-      "Score": 11,
-      "Time": "10:26"
+      "Score": 12,
+      "Time": "12:26"
     },
     {
       "Name": "Mongol",
       "Steam": "76561199160093857",
-      "Score": 14,
-      "Time": "616:05"
+      "Score": 2,
+      "Time": "618:05"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
       "Score": 8,
-      "Time": "34:41"
+      "Time": "36:41"
     }
   ]
 }
