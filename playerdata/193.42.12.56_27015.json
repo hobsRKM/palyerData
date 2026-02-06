@@ -1,47 +1,53 @@
 {
-  "Time": "2026-02-06T09:27:56.2890661Z",
+  "Time": "2026-02-06T09:29:56.3814334Z",
   "Players": [
+    {
+      "Name": "PenguinSmeller67",
+      "Steam": "76561198236188228",
+      "Score": 0,
+      "Time": "461:22"
+    },
     {
       "Name": "anhopa",
       "Steam": "76561199810448463",
-      "Score": 1,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Zlman",
       "Steam": "76561199602803157",
-      "Score": 18,
-      "Time": "18:46"
+      "Score": 25,
+      "Time": "20:46"
     },
     {
       "Name": "xdeadfrouzyx",
       "Steam": "76561198774658997",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Sato #SpreadSquad",
       "Steam": "76561199732115959",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "fentlover123",
       "Steam": "76561199136741331",
-      "Score": 2,
-      "Time": "24:42"
+      "Score": 0,
+      "Time": "26:42"
     },
     {
       "Name": "seal_re",
       "Steam": "76561198740882992",
-      "Score": 0,
-      "Time": "30:46"
+      "Score": 2,
+      "Time": "32:46"
     },
     {
       "Name": "Testing Nixware",
       "Steam": "76561199868471969",
       "Score": 10,
-      "Time": "347:38"
+      "Time": "349:38"
     },
     {
       "Name": "DREAM X",
@@ -52,14 +58,14 @@
     {
       "Name": "Bogdanuq",
       "Steam": "76561199550122482",
-      "Score": 14,
-      "Time": "902:53"
+      "Score": 24,
+      "Time": "904:53"
     },
     {
       "Name": "Exactey",
       "Steam": "76561198308584524",
       "Score": 0,
-      "Time": "15:33"
+      "Time": "17:33"
     },
     {
       "Name": "Infantrit",
@@ -68,16 +74,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "russian blue paste legend",
+      "Steam": "76561199700050320",
+      "Score": 0,
+      "Time": "01:55"
+    },
+    {
       "Name": "Bulder",
       "Steam": "76561199871589103",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Pitbull",
       "Steam": "76561199260308107",
-      "Score": 14,
-      "Time": "738:56"
+      "Score": 22,
+      "Time": "740:56"
     }
   ]
 }
