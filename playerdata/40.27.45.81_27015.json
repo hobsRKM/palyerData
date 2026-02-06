@@ -1,65 +1,59 @@
 {
-  "Time": "2026-02-06T00:09:05.4578431Z",
+  "Time": "2026-02-06T00:11:05.4610775Z",
   "Players": [
     {
       "Name": "east",
       "Steam": "76561198743093823",
-      "Score": 0,
-      "Time": "27:51"
+      "Score": 6,
+      "Time": "29:51"
     },
     {
       "Name": "nixware beta",
       "Steam": "76561199008444456",
-      "Score": 29,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 0,
-      "Time": "16:47"
+      "Score": 8,
+      "Time": "18:47"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 0,
-      "Time": "02:20"
+      "Score": 6,
+      "Time": "04:20"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561198758593147",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "Perhks",
-      "Steam": "76561198293312486",
-      "Score": 17,
-      "Time": "20:55"
-    },
-    {
-      "Name": "cats",
+      "Name": "DXVXD",
       "Steam": "76561198741480204",
       "Score": 37,
-      "Time": "24:23"
+      "Time": "26:23"
     },
     {
       "Name": "DynamicBuilder",
       "Steam": "76561198752078348",
-      "Score": 0,
-      "Time": "19:21"
+      "Score": 6,
+      "Time": "21:21"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 11,
-      "Time": "26:25"
+      "Score": 12,
+      "Time": "28:25"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199880717233",
-      "Score": 10,
-      "Time": "12:36"
+      "Score": 14,
+      "Time": "14:36"
     }
   ]
 }
