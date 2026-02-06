@@ -1,4 +1,23 @@
 {
-  "Time": "2026-02-06T00:58:18.3952994Z",
-  "Players": []
+  "Time": "2026-02-06T00:59:10.0814842Z",
+  "Players": [
+    {
+      "Name": "aimware.net",
+      "Steam": "76561198760286570",
+      "Score": 2,
+      "Time": "04:51"
+    },
+    {
+      "Name": "Goon King",
+      "Steam": "76561198784560984",
+      "Score": 14,
+      "Time": "04:42"
+    },
+    {
+      "Name": "angelafreefire",
+      "Steam": "76561199482354544",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
