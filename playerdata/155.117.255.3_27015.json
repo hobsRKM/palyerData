@@ -1,4 +1,41 @@
 {
-  "Time": "2026-02-06T01:30:18.3965421Z",
-  "Players": []
+  "Time": "2026-02-06T01:31:10.0814384Z",
+  "Players": [
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 48,
+      "Time": "18:40"
+    },
+    {
+      "Name": "angelafreefire",
+      "Steam": "76561199482354544",
+      "Score": 0,
+      "Time": "00:23"
+    },
+    {
+      "Name": "east",
+      "Steam": "76561198743093823",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mime",
+      "Steam": "76561199229432620",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "PowerPoint",
+      "Steam": "76561199870212370",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
