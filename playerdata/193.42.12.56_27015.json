@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-06T22:14:32.2157583Z",
+  "Time": "2026-02-06T22:16:32.218432Z",
   "Players": [
+    {
+      "Name": "tymo--",
+      "Steam": "76561199425592793",
+      "Score": 0,
+      "Time": "223:25"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -14,34 +20,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 34,
+      "Time": "01:17"
+    },
+    {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
-      "Score": 2,
-      "Time": "14:02"
+      "Score": 4,
+      "Time": "16:02"
     },
     {
       "Name": "ux",
       "Steam": "76561199700050320",
-      "Score": 58,
-      "Time": "159:30"
-    },
-    {
-      "Name": ".",
-      "Steam": "76561199075912458",
-      "Score": 18,
-      "Time": "04:12"
+      "Score": 70,
+      "Time": "161:30"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
       "Steam": "76561198341012123",
-      "Score": 46,
-      "Time": "41:26"
+      "Score": 50,
+      "Time": "43:26"
     },
     {
       "Name": "lumineax",
       "Steam": "76561199682863141",
       "Score": 17,
-      "Time": "37:10"
+      "Time": "39:10"
     },
     {
       "Name": "SUPER_H0MA",
@@ -52,26 +58,20 @@
     {
       "Name": "IDKlegit",
       "Steam": "76561199037222147",
-      "Score": 86,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "Stephanie.Gleichner41",
       "Steam": "76561199750345125",
       "Score": 0,
-      "Time": "03:25"
+      "Time": "05:25"
     },
     {
       "Name": "peter90910",
       "Steam": "76561198742597849",
-      "Score": 23,
-      "Time": "74:15"
-    },
-    {
-      "Name": "Jophies hideshot",
-      "Steam": "76561198775044445",
-      "Score": 23,
-      "Time": "128:20"
+      "Score": 27,
+      "Time": "76:15"
     }
   ]
 }
