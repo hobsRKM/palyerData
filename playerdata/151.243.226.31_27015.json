@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-06T13:09:41.6053128Z",
+  "Time": "2026-02-06T13:11:41.5973671Z",
   "Players": [
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 0,
+      "Time": "01:06"
+    },
     {
       "Name": "new to hvh",
       "Steam": "76561198739819289",
       "Score": 29,
-      "Time": "18:49"
+      "Time": "20:49"
     },
     {
       "Name": "skubism",
       "Steam": "76561198744018928",
       "Score": 35,
-      "Time": "06:55"
+      "Time": "08:55"
     },
     {
       "Name": "bergesonrumah57390",
       "Steam": "76561199731808637",
-      "Score": 30,
-      "Time": "60:37"
+      "Score": 36,
+      "Time": "62:37"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 50,
-      "Time": "31:30"
+      "Score": 54,
+      "Time": "33:30"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 32,
-      "Time": "44:45"
+      "Score": 33,
+      "Time": "46:45"
     }
   ]
 }
