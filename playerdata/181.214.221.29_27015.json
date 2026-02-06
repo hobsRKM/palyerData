@@ -1,23 +1,35 @@
 {
-  "Time": "2026-02-06T01:43:53.1800753Z",
+  "Time": "2026-02-06T01:45:53.1913463Z",
   "Players": [
     {
       "Name": "HeatRelax",
       "Steam": "76561199688588921",
-      "Score": 4,
-      "Time": "10:34"
+      "Score": 6,
+      "Time": "12:34"
+    },
+    {
+      "Name": "TrielShax",
+      "Steam": "76561199618535473",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "PowerPoint",
       "Steam": "76561199870212370",
-      "Score": 10,
-      "Time": "05:22"
+      "Score": 16,
+      "Time": "07:22"
     },
     {
       "Name": "................",
       "Steam": "76561198740650773",
-      "Score": 8,
-      "Time": "04:05"
+      "Score": 20,
+      "Time": "06:05"
+    },
+    {
+      "Name": "angelafreefire",
+      "Steam": "76561199482354544",
+      "Score": 0,
+      "Time": "00:28"
     }
   ]
 }
