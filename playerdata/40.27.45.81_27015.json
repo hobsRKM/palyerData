@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-06T23:19:49.7833691Z",
+  "Time": "2026-02-06T23:21:49.789148Z",
   "Players": [
     {
       "Name": "female video game player",
       "Steam": "76561198326618891",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "bleeod",
+      "Steam": "76561198756200396",
+      "Score": 14,
+      "Time": "01:31"
     },
     {
       "Name": "trevvy",
@@ -16,38 +22,26 @@
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 83,
-      "Time": "91:47"
+      "Score": 105,
+      "Time": "93:47"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 69,
-      "Time": "33:02"
+      "Score": 76,
+      "Time": "35:02"
     },
     {
       "Name": "emu",
       "Steam": "76561198147102077",
-      "Score": 31,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "nade",
       "Steam": "76561199312322988",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
-    },
-    {
-      "Name": "brokie",
-      "Steam": "76561198293312486",
-      "Score": 4,
-      "Time": "02:26"
-    },
-    {
-      "Name": "loewe",
-      "Steam": "76561198750080629",
-      "Score": 122,
-      "Time": "64:49"
     }
   ]
 }
