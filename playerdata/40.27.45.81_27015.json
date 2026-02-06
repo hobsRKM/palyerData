@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-06T19:01:49.7919247Z",
+  "Time": "2026-02-06T19:03:49.7861266Z",
   "Players": [
+    {
+      "Name": "blumpkin",
+      "Steam": "76561199803889471",
+      "Score": 0,
+      "Time": "00:35"
+    },
     {
       "Name": "0x32E9C20",
       "Steam": "76561199880717233",
-      "Score": 12,
-      "Time": "62:11"
+      "Score": 13,
+      "Time": "64:11"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
     },
     {
@@ -22,49 +28,55 @@
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 20,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "【Adam】",
       "Steam": "76561198261709145",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561198398976448",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "In Hands Shitter",
       "Steam": "76561198768136486",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 32,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 21,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "G͓̽a͓̽b͓̽e͓̽n͓̽",
       "Steam": "76561199829105920",
-      "Score": 15,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xay",
+      "Steam": "76561198331408428",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
