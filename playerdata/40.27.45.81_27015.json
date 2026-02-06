@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-06T07:18:09.5346008Z",
+  "Time": "2026-02-06T07:20:09.5440255Z",
   "Players": [
+    {
+      "Name": "Jeremy lipton firtzgerald III",
+      "Steam": "76561199229453482",
+      "Score": 0,
+      "Time": "00:17"
+    },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561198398976448",
-      "Score": 28,
-      "Time": "14:20"
+      "Score": 32,
+      "Time": "16:20"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 61,
+      "Score": 65,
       "Time": "??:??"
-    },
-    {
-      "Name": "Wut da",
-      "Steam": "76561198762364594",
-      "Score": 18,
-      "Time": "09:44"
     },
     {
       "Name": "DynamicBuilder",
       "Steam": "76561198752078348",
-      "Score": 14,
-      "Time": "02:57"
+      "Score": 20,
+      "Time": "04:57"
+    },
+    {
+      "Name": "0xa6a6178",
+      "Steam": "76561199711544927",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
