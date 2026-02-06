@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-06T05:13:54.1993855Z",
+  "Time": "2026-02-06T05:15:54.205457Z",
   "Players": [
+    {
+      "Name": "SCP sem0chka",
+      "Steam": "76561199846900801",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "JACK SPEDAISY",
       "Steam": "76561198269379199",
-      "Score": 2,
-      "Time": "86:37"
+      "Score": 4,
+      "Time": "88:37"
     },
     {
       "Name": "Holocaust denier",
       "Steam": "76561199772489774",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -22,20 +28,20 @@
     {
       "Name": "D.",
       "Steam": "76561199823579259",
-      "Score": 3,
-      "Time": "05:40"
+      "Score": 1,
+      "Time": "07:40"
     },
     {
       "Name": "Mongol",
       "Steam": "76561199160093857",
-      "Score": 0,
-      "Time": "628:05"
+      "Score": 4,
+      "Time": "630:05"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
       "Score": 0,
-      "Time": "46:41"
+      "Time": "48:41"
     }
   ]
 }
