@@ -1,4 +1,41 @@
 {
-  "Time": "2026-02-06T01:12:18.3953558Z",
-  "Players": []
+  "Time": "2026-02-06T01:13:10.0827323Z",
+  "Players": [
+    {
+      "Name": "aimware.net",
+      "Steam": "76561198760286570",
+      "Score": 54,
+      "Time": "18:51"
+    },
+    {
+      "Name": "nixware beta",
+      "Steam": "76561199008444456",
+      "Score": 0,
+      "Time": "00:24"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 2,
+      "Time": "00:40"
+    },
+    {
+      "Name": "waffle",
+      "Steam": "76561198309670036",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "east",
+      "Steam": "76561198743093823",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Actually",
+      "Steam": "76561199067227551",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
