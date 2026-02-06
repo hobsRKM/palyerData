@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-06T07:23:54.3120241Z",
+  "Time": "2026-02-06T07:25:54.3216735Z",
   "Players": [
+    {
+      "Name": "aki gert spat",
+      "Steam": "76561198999548268",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Discord_User",
       "Steam": "76561199648431443",
-      "Score": 6,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Exactey",
       "Steam": "76561198308584524",
-      "Score": 16,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "aMınogluROTbalas",
       "Steam": "76561198741004975",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 9,
-      "Time": "95:34"
+      "Score": 2,
+      "Time": "97:34"
     }
   ]
 }
