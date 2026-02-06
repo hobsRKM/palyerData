@@ -1,59 +1,77 @@
 {
-  "Time": "2026-02-06T01:01:05.4569948Z",
+  "Time": "2026-02-06T01:05:05.4688822Z",
   "Players": [
     {
       "Name": "east",
       "Steam": "76561198743093823",
-      "Score": 27,
-      "Time": "79:51"
+      "Score": 28,
+      "Time": "83:51"
     },
     {
       "Name": "nixware beta",
       "Steam": "76561199008444456",
-      "Score": 100,
+      "Score": 112,
       "Time": "??:??"
+    },
+    {
+      "Name": "////////////////////////////////",
+      "Steam": "76561199804049711",
+      "Score": 4,
+      "Time": "96:00"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 79,
-      "Time": "45:26"
+      "Score": 90,
+      "Time": "49:26"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 56,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "c+r",
       "Steam": "76561199077798409",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
+    },
+    {
+      "Name": "DynamicBuilder",
+      "Steam": "76561198752078348",
+      "Score": 0,
+      "Time": "00:44"
+    },
+    {
+      "Name": "MistaWhite",
+      "Steam": "76561199410729009",
+      "Score": 0,
+      "Time": "35:27"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 19,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "antho",
       "Steam": "76561199152558383",
-      "Score": 78,
-      "Time": "27:55"
+      "Score": 80,
+      "Time": "31:55"
     },
     {
       "Name": "meow",
       "Steam": "76561198752275435",
-      "Score": 37,
+      "Score": 44,
       "Time": "??:??"
     },
     {
-      "Name": "DXVXD",
+      "Name": "paradise",
       "Steam": "76561199880717233",
-      "Score": 42,
-      "Time": "64:36"
+      "Score": 46,
+      "Time": "68:36"
     }
   ]
 }
