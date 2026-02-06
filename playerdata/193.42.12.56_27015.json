@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-06T07:41:54.3511905Z",
+  "Time": "2026-02-06T07:43:54.3463585Z",
   "Players": [
     {
       "Name": "hvh ez 1",
       "Steam": "76561198743123782",
+      "Score": 8,
+      "Time": "02:37"
+    },
+    {
+      "Name": "sebby >.<",
+      "Steam": "76561198874356385",
       "Score": 0,
-      "Time": "00:37"
+      "Time": "??:??"
     },
     {
       "Name": "Exactey",
       "Steam": "76561198308584524",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "aMınogluROTbalas",
       "Steam": "76561198741004975",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "russian blue paste legend",
       "Steam": "76561199700050320",
-      "Score": 4,
-      "Time": "05:13"
+      "Score": 0,
+      "Time": "07:13"
     }
   ]
 }
