@@ -1,35 +1,47 @@
 {
-  "Time": "2026-02-07T19:49:50.3288487Z",
+  "Time": "2026-02-07T19:51:50.3355939Z",
   "Players": [
     {
       "Name": "jon",
       "Steam": "76561198779927030",
-      "Score": 27,
-      "Time": "09:43"
+      "Score": 30,
+      "Time": "11:43"
     },
     {
       "Name": "Set Goodnight",
       "Steam": "76561198753349083",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "asmodeus",
       "Steam": "76561198746558243",
-      "Score": 0,
-      "Time": "85:15"
+      "Score": 1,
+      "Time": "87:15"
+    },
+    {
+      "Name": "Real demon",
+      "Steam": "76561199844175645",
+      "Score": 4,
+      "Time": "00:55"
     },
     {
       "Name": "arion",
       "Steam": "76561199204522503",
-      "Score": 47,
-      "Time": "31:14"
+      "Score": 53,
+      "Time": "33:14"
     },
     {
       "Name": "babka v new rockah",
       "Steam": "76561199560701127",
       "Score": 6,
-      "Time": "35:50"
+      "Time": "37:50"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561198905463276",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
