@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-07T21:03:50.328432Z",
+  "Time": "2026-02-07T21:05:50.3297839Z",
   "Players": [
     {
       "Name": "Remii",
       "Steam": "76561198738863231",
-      "Score": 12,
+      "Score": 21,
       "Time": "??:??"
+    },
+    {
+      "Name": "Set Goodnight",
+      "Steam": "76561198753349083",
+      "Score": 0,
+      "Time": "00:26"
     },
     {
       "Name": "Vladimir Putin",
       "Steam": "76561198746558243",
       "Score": 0,
-      "Time": "62:03"
+      "Time": "64:03"
     },
     {
       "Name": "sla",
       "Steam": "76561198743738277",
-      "Score": 1,
-      "Time": "02:05"
+      "Score": 10,
+      "Time": "04:05"
     },
     {
       "Name": "мир",
       "Steam": "76561199564155225",
-      "Score": 0,
-      "Time": "05:46"
+      "Score": 8,
+      "Time": "07:46"
     },
     {
       "Name": "ziqc",
       "Steam": "76561199688588921",
-      "Score": 10,
-      "Time": "04:44"
+      "Score": 12,
+      "Time": "06:44"
     }
   ]
 }
