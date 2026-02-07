@@ -1,4 +1,29 @@
 {
-  "Time": "2026-02-07T09:43:01.1936613Z",
-  "Players": []
+  "Time": "2026-02-07T09:44:21.3756381Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "13:15"
+    },
+    {
+      "Name": "petru_the_barbar",
+      "Steam": "76561199846515909",
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bednos",
+      "Steam": "76561198250109980",
+      "Score": 0,
+      "Time": "02:52"
+    },
+    {
+      "Name": "hvh police",
+      "Steam": "76561198775979147",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
