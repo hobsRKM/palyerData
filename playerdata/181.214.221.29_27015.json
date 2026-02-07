@@ -1,28 +1,40 @@
 {
-  "Time": "2026-02-07T23:39:50.3355488Z",
+  "Time": "2026-02-07T23:41:50.3325403Z",
   "Players": [
+    {
+      "Name": "\uD835\uDD53\uD835\uDD52\uD835\uDD53\uD835\uDD6A \uD835\uDD65\uD835\uDD56\uD835\uDD56",
+      "Steam": "76561198766971927",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "neverpaste",
       "Steam": "76561198739665030",
-      "Score": 2,
-      "Time": "64:27"
+      "Score": 10,
+      "Time": "66:27"
     },
     {
       "Name": "XIT LIXO",
       "Steam": "76561199829730349",
-      "Score": 15,
+      "Score": 20,
       "Time": "??:??"
     },
     {
-      "Name": "мир",
-      "Steam": "76561199564155225",
-      "Score": 42,
-      "Time": "53:47"
+      "Name": "never stress",
+      "Steam": "76561198742023762",
+      "Score": 0,
+      "Time": "01:15"
     },
     {
       "Name": "peqh",
       "Steam": "76561198741560516",
-      "Score": 25,
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MACSKI",
+      "Steam": "76561198847025237",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
