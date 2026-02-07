@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-07T06:50:38.9251444Z",
+  "Time": "2026-02-07T06:52:38.9162936Z",
   "Players": [
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 23,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "bleeod",
+      "Steam": "76561198756200396",
+      "Score": 0,
+      "Time": "01:36"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 57,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Sar",
       "Steam": "76561198767540094",
-      "Score": 26,
-      "Time": "77:06"
+      "Score": 2,
+      "Time": "79:06"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 83,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Who?",
       "Steam": "76561199830473352",
-      "Score": 88,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "ity.lua          ﾒ",
+      "Name": "rnity.lua        ﾒ",
       "Steam": "76561199031753721",
-      "Score": 21,
-      "Time": "02:40"
+      "Score": 0,
+      "Time": "04:40"
     }
   ]
 }
