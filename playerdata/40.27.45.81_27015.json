@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-07T05:26:38.9258358Z",
+  "Time": "2026-02-07T05:28:38.9233193Z",
   "Players": [
+    {
+      "Name": "c.c",
+      "Steam": "76561199101188595",
+      "Score": 2,
+      "Time": "309:13"
+    },
     {
       "Name": "milk",
       "Steam": "76561199740544730",
       "Score": 8,
-      "Time": "63:29"
+      "Time": "65:29"
     },
     {
       "Name": "Nevo",
       "Steam": "76561198791368162",
-      "Score": 18,
-      "Time": "197:57"
+      "Score": 22,
+      "Time": "199:57"
     },
     {
       "Name": "Niggas In Paris GetTappedKid",
       "Steam": "76561199498461340",
-      "Score": 19,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 34,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "russiam",
       "Steam": "76561198183975199",
       "Score": 0,
-      "Time": "43:08"
+      "Time": "45:08"
     }
   ]
 }
