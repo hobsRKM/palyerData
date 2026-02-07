@@ -1,4 +1,41 @@
 {
-  "Time": "2026-02-07T13:03:01.2212498Z",
-  "Players": []
+  "Time": "2026-02-07T13:04:21.3713604Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "213:15"
+    },
+    {
+      "Name": "Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 26,
+      "Time": "55:04"
+    },
+    {
+      "Name": "Staszek",
+      "Steam": "76561199407935025",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "valerio",
+      "Steam": "76561199090946517",
+      "Score": 19,
+      "Time": "08:14"
+    },
+    {
+      "Name": "Vac Live Manager",
+      "Steam": "76561199487673144",
+      "Score": 4,
+      "Time": "03:06"
+    },
+    {
+      "Name": "haha",
+      "Steam": "76561198746737396",
+      "Score": 14,
+      "Time": "??:??"
+    }
+  ]
 }
