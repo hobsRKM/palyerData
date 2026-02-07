@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-07T20:31:50.3370837Z",
+  "Time": "2026-02-07T20:33:50.3382626Z",
   "Players": [
+    {
+      "Name": "j",
+      "Steam": "76561198759758386",
+      "Score": 2,
+      "Time": "00:38"
+    },
     {
       "Name": "neverpaste",
       "Steam": "76561198739665030",
-      "Score": 2,
-      "Time": "15:31"
+      "Score": 12,
+      "Time": "17:31"
     },
     {
       "Name": "Vladimir Putin",
       "Steam": "76561198746558243",
       "Score": 0,
-      "Time": "30:03"
+      "Time": "32:03"
     },
     {
       "Name": "Byfron Beginner",
       "Steam": "76561198838373980",
-      "Score": 2,
-      "Time": "21:01"
+      "Score": 0,
+      "Time": "23:01"
     }
   ]
 }
