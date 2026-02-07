@@ -1,4 +1,47 @@
 {
-  "Time": "2026-02-07T13:05:01.2213864Z",
-  "Players": []
+  "Time": "2026-02-07T13:06:21.3704871Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "215:15"
+    },
+    {
+      "Name": "Compkiller.net",
+      "Steam": "76561198750044238",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 42,
+      "Time": "57:04"
+    },
+    {
+      "Name": "Staszek",
+      "Steam": "76561199407935025",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "valerio",
+      "Steam": "76561199090946517",
+      "Score": 23,
+      "Time": "10:14"
+    },
+    {
+      "Name": "Vac Live Manager",
+      "Steam": "76561199487673144",
+      "Score": 6,
+      "Time": "05:06"
+    },
+    {
+      "Name": "haha",
+      "Steam": "76561198746737396",
+      "Score": 24,
+      "Time": "??:??"
+    }
+  ]
 }
