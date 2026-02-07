@@ -1,59 +1,65 @@
 {
-  "Time": "2026-02-07T03:19:49.7919917Z",
+  "Time": "2026-02-07T03:21:49.7876537Z",
   "Players": [
+    {
+      "Name": "Electric540Jail",
+      "Steam": "76561199026627467",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "milk",
       "Steam": "76561199740544730",
-      "Score": 51,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "east",
       "Steam": "76561198743093823",
-      "Score": 16,
-      "Time": "07:35"
+      "Score": 0,
+      "Time": "09:35"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 125,
-      "Time": "28:15"
+      "Score": 4,
+      "Time": "30:15"
     },
     {
       "Name": "king von",
       "Steam": "76561198775486469",
-      "Score": 80,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
-      "Score": 0,
-      "Time": "44:46"
+      "Score": 2,
+      "Time": "46:46"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 37,
-      "Time": "215:01"
+      "Score": 0,
+      "Time": "217:01"
     },
     {
       "Name": "percoset",
       "Steam": "76561198293312486",
-      "Score": 66,
-      "Time": "29:21"
+      "Score": 0,
+      "Time": "31:21"
     },
     {
       "Name": "raf",
       "Steam": "76561198398976448",
-      "Score": 40,
-      "Time": "159:02"
+      "Score": 0,
+      "Time": "161:02"
     },
     {
       "Name": "nixware user",
       "Steam": "76561198751671283",
-      "Score": 15,
-      "Time": "13:37"
+      "Score": 4,
+      "Time": "15:37"
     }
   ]
 }
