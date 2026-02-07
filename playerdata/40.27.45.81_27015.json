@@ -1,28 +1,34 @@
 {
-  "Time": "2026-02-07T16:26:10.7809963Z",
+  "Time": "2026-02-07T16:28:10.7816145Z",
   "Players": [
     {
       "Name": "east",
       "Steam": "76561198743093823",
-      "Score": 65,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "The Coolest",
       "Steam": "76561198984943721",
-      "Score": 56,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 29,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "Up syndrome",
       "Steam": "76561198743011596",
-      "Score": 13,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "HowlPendragon",
+      "Steam": "76561199880230664",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
