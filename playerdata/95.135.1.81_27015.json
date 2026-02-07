@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-07T10:09:10.8440873Z",
+  "Time": "2026-02-07T10:11:10.851892Z",
   "Players": [
     {
       "Name": "0x81",
       "Steam": "76561198248444674",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
+    },
+    {
+      "Name": "cake",
+      "Steam": "76561199874806273",
+      "Score": 0,
+      "Time": "01:26"
     },
     {
       "Name": "dycha",
       "Steam": "76561199691142851",
-      "Score": 72,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "vaclive service",
       "Steam": "76561199564017508",
       "Score": 55,
-      "Time": "21:02"
+      "Time": "23:02"
     },
     {
       "Name": "\"'",
@@ -28,31 +34,37 @@
     {
       "Name": "sam",
       "Steam": "76561199558969772",
-      "Score": 93,
+      "Score": 105,
       "Time": "??:??"
     },
     {
       "Name": "FairGames",
       "Steam": "76561199033694913",
-      "Score": 46,
+      "Score": 58,
       "Time": "??:??"
+    },
+    {
+      "Name": "49.9IQ",
+      "Steam": "76561199025157198",
+      "Score": 2,
+      "Time": "01:50"
     },
     {
       "Name": "Sato #SpreadSquad",
       "Steam": "76561199732115959",
-      "Score": 4,
-      "Time": "08:55"
-    },
-    {
-      "Name": "sunlifescripts",
-      "Steam": "76561198746038400",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "10:55"
     },
     {
       "Name": "ŁORLD",
       "Steam": "76561198769290934",
-      "Score": 0,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "z",
+      "Steam": "76561199560721067",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
