@@ -1,41 +1,53 @@
 {
-  "Time": "2026-02-07T04:52:38.9212572Z",
+  "Time": "2026-02-07T04:54:38.9219867Z",
   "Players": [
+    {
+      "Name": "smartsamurai345",
+      "Steam": "76561198743351490",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bleeod",
+      "Steam": "76561198756200396",
+      "Score": 2,
+      "Time": "01:10"
+    },
     {
       "Name": "DynamicBuilder",
       "Steam": "76561198752078348",
       "Score": 0,
-      "Time": "126:27"
+      "Time": "128:27"
     },
     {
       "Name": "milk",
       "Steam": "76561199740544730",
-      "Score": 3,
-      "Time": "29:29"
+      "Score": 7,
+      "Time": "31:29"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 19,
-      "Time": "12:31"
+      "Score": 22,
+      "Time": "14:31"
     },
     {
       "Name": "Niggas In Paris GetTappedKid",
       "Steam": "76561199498461340",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "loewe",
       "Steam": "76561198750080629",
-      "Score": 66,
-      "Time": "131:36"
+      "Score": 74,
+      "Time": "133:36"
     },
     {
       "Name": "russiam",
       "Steam": "76561198183975199",
-      "Score": 22,
-      "Time": "09:08"
+      "Score": 29,
+      "Time": "11:08"
     }
   ]
 }
