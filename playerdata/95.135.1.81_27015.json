@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-07T15:31:10.8471484Z",
+  "Time": "2026-02-07T15:33:10.8439177Z",
   "Players": [
     {
       "Name": "e3",
@@ -10,32 +10,44 @@
     {
       "Name": "frosty",
       "Steam": "76561198977033081",
-      "Score": 10,
+      "Score": 13,
       "Time": "??:??"
+    },
+    {
+      "Name": "anhopa",
+      "Steam": "76561199810448463",
+      "Score": 0,
+      "Time": "07:48"
     },
     {
       "Name": "Tysbo",
       "Steam": "76561198856278042",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ᶜʰᵃᵐᵖ Jobless",
       "Steam": "76561199498192347",
-      "Score": 22,
-      "Time": "139:13"
+      "Score": 0,
+      "Time": "141:13"
+    },
+    {
+      "Name": "nixwareuser",
+      "Steam": "76561198745332088",
+      "Score": 0,
+      "Time": "01:16"
     },
     {
       "Name": "suzune",
       "Steam": "76561198831338710",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": ">.<",
       "Steam": "76561199042138318",
-      "Score": 6,
-      "Time": "01:09"
+      "Score": 0,
+      "Time": "03:09"
     },
     {
       "Name": "OwO",
@@ -52,20 +64,20 @@
     {
       "Name": "SLAGAI KASKA",
       "Steam": "76561198880765892",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "беларус лох",
       "Steam": "76561198743266417",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 12,
-      "Time": "38:25"
+      "Score": 30,
+      "Time": "40:25"
     }
   ]
 }
