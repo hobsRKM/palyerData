@@ -1,53 +1,59 @@
 {
-  "Time": "2026-02-07T07:58:38.9213914Z",
+  "Time": "2026-02-07T08:00:38.9211598Z",
   "Players": [
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 0,
-      "Time": "00:38"
+      "Score": 2,
+      "Time": "02:38"
     },
     {
       "Name": "meow",
       "Steam": "76561198752275435",
-      "Score": 3,
-      "Time": "17:19"
+      "Score": 5,
+      "Time": "19:19"
     },
     {
       "Name": "bleeod",
       "Steam": "76561198756200396",
       "Score": 0,
-      "Time": "67:36"
+      "Time": "69:36"
     },
     {
       "Name": "sofa.pub",
       "Steam": "76561199531695282",
       "Score": 13,
-      "Time": "06:05"
+      "Time": "08:05"
     },
     {
       "Name": "John Weak",
       "Steam": "76561198792540130",
-      "Score": 4,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "golden deagle",
+      "Steam": "76561198746056559",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 19,
-      "Time": "11:55"
+      "Score": 31,
+      "Time": "13:55"
     },
     {
       "Name": "Who?",
       "Steam": "76561199830473352",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 12,
-      "Time": "101:18"
+      "Score": 13,
+      "Time": "103:18"
     },
     {
       "Name": "Zinxu",
@@ -58,14 +64,14 @@
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 23,
-      "Time": "28:22"
+      "Score": 31,
+      "Time": "30:22"
     },
     {
       "Name": "ﾒ",
       "Steam": "76561199031753721",
-      "Score": 0,
-      "Time": "70:40"
+      "Score": 4,
+      "Time": "72:40"
     }
   ]
 }
