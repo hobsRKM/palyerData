@@ -1,65 +1,77 @@
 {
-  "Time": "2026-02-08T04:38:26.6320981Z",
+  "Time": "2026-02-08T04:40:26.6367191Z",
   "Players": [
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "googie",
       "Steam": "76561199881237918",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "00:40"
     },
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 100,
-      "Time": "45:11"
+      "Score": 107,
+      "Time": "47:11"
     },
     {
       "Name": "AestheticSyxm",
       "Steam": "76561199673615874",
       "Score": 6,
-      "Time": "11:35"
+      "Time": "13:35"
+    },
+    {
+      "Name": "Ozai",
+      "Steam": "76561199156395215",
+      "Score": 1,
+      "Time": "00:43"
     },
     {
       "Name": "milk",
       "Steam": "76561199740544730",
-      "Score": 3,
-      "Time": "54:30"
+      "Score": 0,
+      "Time": "56:30"
     },
     {
-      "Name": "nix | racks",
+      "Name": "Counter-Terrorist | racks",
       "Steam": "76561198740263308",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Trippy",
       "Steam": "76561199854252139",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 89,
+      "Score": 102,
       "Time": "??:??"
     },
     {
       "Name": "-_-",
       "Steam": "76561198780177804",
-      "Score": 29,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "say you wanna love me",
       "Steam": "76561199571154189",
-      "Score": 26,
-      "Time": "03:34"
+      "Score": 40,
+      "Time": "05:34"
     },
     {
       "Name": "p689v0hmecl9",
@@ -68,16 +80,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "Cakebomb",
+      "Steam": "76561199785151950",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "小趴菜",
+      "Steam": "76561198216654201",
+      "Score": 0,
+      "Time": "01:37"
+    },
+    {
       "Name": "Nevo",
       "Steam": "76561198791368162",
       "Score": 25,
-      "Time": "57:16"
+      "Time": "59:16"
     },
     {
       "Name": "Hiper Hama",
       "Steam": "76561198742230105",
-      "Score": 7,
-      "Time": "05:28"
+      "Score": 8,
+      "Time": "07:28"
     }
   ]
 }
