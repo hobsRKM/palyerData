@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-08T01:33:50.3434826Z",
+  "Time": "2026-02-08T01:35:50.3302766Z",
   "Players": [
     {
       "Name": "che",
       "Steam": "76561198190560294",
-      "Score": 12,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "yoru",
       "Steam": "76561199214124273",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TrielShax",
+      "Steam": "76561199618535473",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "coldzerA",
       "Steam": "76561199867728043",
-      "Score": 14,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "never stress",
       "Steam": "76561198742023762",
-      "Score": 5,
-      "Time": "30:52"
+      "Score": 7,
+      "Time": "32:52"
     },
     {
       "Name": "MACSKI",
       "Steam": "76561198847025237",
-      "Score": 15,
-      "Time": "15:58"
+      "Score": 18,
+      "Time": "17:58"
     }
   ]
 }
