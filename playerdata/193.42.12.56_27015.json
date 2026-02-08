@@ -1,17 +1,11 @@
 {
-  "Time": "2026-02-08T03:03:58.3860969Z",
+  "Time": "2026-02-08T03:05:58.3923135Z",
   "Players": [
     {
       "Name": "Unknown Player",
       "Steam": "76561199850628006",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
-    },
-    {
-      "Name": "Vegeance",
-      "Steam": "76561198737874814",
-      "Score": 2,
-      "Time": "08:29"
     },
     {
       "Name": "\"'",
@@ -22,26 +16,26 @@
     {
       "Name": "uixhc7ha",
       "Steam": "76561198741023527",
-      "Score": 17,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 48,
-      "Time": "46:26"
+      "Score": 66,
+      "Time": "48:26"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 6,
-      "Time": "177:13"
+      "Score": 0,
+      "Time": "179:13"
     },
     {
       "Name": "HardTry",
       "Steam": "76561198774309786",
-      "Score": 23,
-      "Time": "06:56"
+      "Score": 35,
+      "Time": "08:56"
     }
   ]
 }
