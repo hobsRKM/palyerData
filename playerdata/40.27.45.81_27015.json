@@ -1,53 +1,77 @@
 {
-  "Time": "2026-02-08T05:46:26.6392964Z",
+  "Time": "2026-02-08T05:48:26.6410354Z",
   "Players": [
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "00:12"
+    },
     {
       "Name": "googie",
       "Steam": "76561199881237918",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 2,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "-_-",
       "Steam": "76561198780177804",
-      "Score": 0,
-      "Time": "59:00"
+      "Score": 2,
+      "Time": "61:00"
     },
     {
       "Name": "ppk",
       "Steam": "76561198753176325",
-      "Score": 0,
-      "Time": "12:53"
+      "Score": 8,
+      "Time": "14:53"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 4,
-      "Time": "21:12"
+      "Score": 8,
+      "Time": "23:12"
     },
     {
       "Name": "booozo",
       "Steam": "76561199741794740",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
+    },
+    {
+      "Name": "Aang",
+      "Steam": "76561199830303771",
+      "Score": 8,
+      "Time": "01:33"
     },
     {
       "Name": "ging",
       "Steam": "76561198791541733",
+      "Score": 4,
+      "Time": "24:06"
+    },
+    {
+      "Name": "kopf",
+      "Steam": "76561199701080269",
       "Score": 0,
-      "Time": "22:06"
+      "Time": "06:46"
+    },
+    {
+      "Name": "XiaoZe97789",
+      "Steam": "76561199720437967",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
