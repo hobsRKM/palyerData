@@ -1,17 +1,17 @@
 {
-  "Time": "2026-02-08T04:04:33.2737326Z",
+  "Time": "2026-02-08T04:06:33.2681686Z",
   "Players": [
     {
       "Name": "aaaaaaaaaaa",
       "Steam": "76561199822092076",
-      "Score": 8,
-      "Time": "31:35"
+      "Score": 12,
+      "Time": "33:35"
     },
     {
       "Name": "rat46",
       "Steam": "76561199821066485",
-      "Score": 8,
-      "Time": "31:26"
+      "Score": 20,
+      "Time": "33:26"
     },
     {
       "Name": "basha",
@@ -22,19 +22,25 @@
     {
       "Name": "Tetris",
       "Steam": "76561198262088029",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "tragic",
       "Steam": "76561199857154786",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Dr. Victor Blane",
       "Steam": "76561198221390104",
-      "Score": 2,
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VAC",
+      "Steam": "76561198763811210",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
