@@ -1,23 +1,23 @@
 {
-  "Time": "2026-02-08T00:52:26.6312291Z",
+  "Time": "2026-02-08T00:54:26.6345365Z",
   "Players": [
     {
       "Name": "The Coolest",
       "Steam": "76561198984943721",
-      "Score": 48,
-      "Time": "15:37"
+      "Score": 54,
+      "Time": "17:37"
     },
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 42,
-      "Time": "15:10"
+      "Score": 58,
+      "Time": "17:10"
     },
     {
       "Name": "bill",
       "Steam": "76561199013445293",
-      "Score": 72,
-      "Time": "49:05"
+      "Score": 78,
+      "Time": "51:05"
     },
     {
       "Name": "mikasa",
@@ -28,13 +28,19 @@
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 117,
+      "Score": 127,
       "Time": "??:??"
     },
     {
       "Name": "Chewyo",
       "Steam": "76561198743400801",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lua           kanel",
+      "Steam": "76561198775486469",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
