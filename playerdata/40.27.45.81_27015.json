@@ -1,38 +1,44 @@
 {
-  "Time": "2026-02-08T03:24:26.6271418Z",
+  "Time": "2026-02-08T03:26:26.6352633Z",
   "Players": [
+    {
+      "Name": "0x32E9C20",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 36,
-      "Time": "38:04"
+      "Score": 37,
+      "Time": "40:04"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 9,
-      "Time": "04:20"
+      "Score": 13,
+      "Time": "06:20"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 17,
-      "Time": "20:05"
+      "Score": 0,
+      "Time": "22:05"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 35,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "Erome",
       "Steam": "76561198756011343",
-      "Score": 38,
+      "Score": 48,
       "Time": "??:??"
     },
     {
-      "Name": "neverlose | Nevo",
+      "Name": "Nevo",
       "Steam": "76561198791368162",
       "Score": 6,
       "Time": "??:??"
