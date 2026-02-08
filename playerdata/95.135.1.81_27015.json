@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-08T13:49:03.0144733Z",
+  "Time": "2026-02-08T13:51:03.0276213Z",
   "Players": [
+    {
+      "Name": "Testing Nixware",
+      "Steam": "76561199868471969",
+      "Score": 1,
+      "Time": "01:09"
+    },
     {
       "Name": "PaWiaN OlD Sch00L",
       "Steam": "76561199846460076",
-      "Score": 10,
-      "Time": "05:36"
+      "Score": 11,
+      "Time": "07:36"
     },
     {
       "Name": "\"'",
@@ -16,50 +22,62 @@
     {
       "Name": "xspymer837667",
       "Steam": "76561199781811309",
-      "Score": 39,
-      "Time": "47:25"
+      "Score": 41,
+      "Time": "49:25"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
+      "Steam": "76561197963250432",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "SM3RF",
       "Steam": "76561199267532979",
-      "Score": 30,
-      "Time": "09:25"
+      "Score": 43,
+      "Time": "11:25"
     },
     {
       "Name": "OwO",
       "Steam": "76561199067113258",
-      "Score": 3,
-      "Time": "07:06"
+      "Score": 11,
+      "Time": "09:06"
     },
     {
       "Name": "pofoc54061",
       "Steam": "76561198740850391",
-      "Score": 37,
-      "Time": "16:58"
+      "Score": 44,
+      "Time": "18:58"
     },
     {
       "Name": "Mjay",
       "Steam": "76561199237707727",
-      "Score": 83,
+      "Score": 93,
       "Time": "??:??"
     },
     {
       "Name": "ULUGBEK",
       "Steam": "76561199629184110",
-      "Score": 55,
-      "Time": "09:57"
+      "Score": 66,
+      "Time": "11:57"
     },
     {
       "Name": "serversider",
       "Steam": "76561199149955445",
-      "Score": 8,
-      "Time": "10:33"
+      "Score": 0,
+      "Time": "12:33"
     },
     {
       "Name": "Jonny 88",
       "Steam": "76561198753890382",
-      "Score": 45,
-      "Time": "35:50"
+      "Score": 50,
+      "Time": "37:50"
+    },
+    {
+      "Name": "\uD835\uDE48\uD835\uDE64\uD835\uDE63\uD835\uDE60™",
+      "Steam": "76561199092505663",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Epstein F.N",
@@ -70,14 +88,20 @@
     {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
-      "Score": 53,
-      "Time": "84:45"
+      "Score": 56,
+      "Time": "86:45"
     },
     {
       "Name": "Trav",
       "Steam": "76561199471217940",
-      "Score": 26,
+      "Score": 1,
       "Time": "??:??"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠˢᶜʰᶦˢˢApostl",
+      "Steam": "76561199684356210",
+      "Score": 0,
+      "Time": "00:20"
     }
   ]
 }
