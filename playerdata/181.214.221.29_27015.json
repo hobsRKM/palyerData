@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-08T15:27:50.3373525Z",
+  "Time": "2026-02-08T15:29:50.3410991Z",
   "Players": [
+    {
+      "Name": "JEFF",
+      "Steam": "76561199675092619",
+      "Score": 3,
+      "Time": "??:??"
+    },
     {
       "Name": "Rx7",
       "Steam": "76561199616686525",
-      "Score": 62,
-      "Time": "1109:34"
-    },
-    {
-      "Name": "Cogollo",
-      "Steam": "76561197971442569",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 68,
+      "Time": "1111:34"
     },
     {
       "Name": "neverpaste",
       "Steam": "76561198739665030",
       "Score": 13,
-      "Time": "15:10"
+      "Time": "17:10"
     },
     {
       "Name": "Vladimir Putin",
       "Steam": "76561198746558243",
-      "Score": 55,
-      "Time": "12:55"
+      "Score": 67,
+      "Time": "14:55"
+    },
+    {
+      "Name": "ncpmeliodas",
+      "Steam": "76561198297064203",
+      "Score": 2,
+      "Time": "871:34"
     },
     {
       "Name": "quem é voce?",
       "Steam": "76561198740790828",
-      "Score": 12,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "never stress",
       "Steam": "76561198742023762",
       "Score": 0,
-      "Time": "01:56"
+      "Time": "03:56"
     }
   ]
 }
