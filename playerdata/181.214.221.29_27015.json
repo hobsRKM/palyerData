@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-08T00:41:50.3404846Z",
+  "Time": "2026-02-08T00:43:50.3404357Z",
   "Players": [
+    {
+      "Name": "cry",
+      "Steam": "76561199469915054",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "swag for sale",
       "Steam": "76561199059830928",
-      "Score": 48,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "racks",
       "Steam": "76561198810672099",
-      "Score": 25,
-      "Time": "09:30"
+      "Score": 33,
+      "Time": "11:30"
     },
     {
       "Name": "heatrelax",
       "Steam": "76561199688588921",
-      "Score": 14,
-      "Time": "02:45"
+      "Score": 22,
+      "Time": "04:45"
     },
     {
       "Name": "never stress",
       "Steam": "76561198742023762",
       "Score": 17,
-      "Time": "61:15"
+      "Time": "63:15"
     },
     {
       "Name": "peqh",
       "Steam": "76561198741560516",
-      "Score": 22,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
