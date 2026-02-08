@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-08T22:24:17.1223957Z",
+  "Time": "2026-02-08T22:26:17.1160485Z",
   "Players": [
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "260:50"
+      "Time": "262:50"
+    },
+    {
+      "Name": "z",
+      "Steam": "76561199104286406",
+      "Score": 0,
+      "Time": "01:01"
     },
     {
       "Name": "erick",
       "Steam": "76561199493665678",
-      "Score": 6,
-      "Time": "34:18"
+      "Score": 20,
+      "Time": "36:18"
     },
     {
       "Name": "#bhopper",
@@ -23,49 +29,49 @@
       "Name": "Big J Drippy",
       "Steam": "76561199837815539",
       "Score": 0,
-      "Time": "09:58"
+      "Time": "11:58"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
       "Score": 0,
-      "Time": "72:52"
+      "Time": "74:52"
     },
     {
       "Name": "Matikanetannhauser",
       "Steam": "76561198813003611",
-      "Score": 55,
+      "Score": 56,
       "Time": "??:??"
-    },
-    {
-      "Name": "tymo--",
-      "Steam": "76561199425592793",
-      "Score": 15,
-      "Time": "04:03"
     },
     {
       "Name": "northaboveall",
       "Steam": "76561199813033899",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "egor",
       "Steam": "76561198742767214",
+      "Score": 1,
+      "Time": "32:47"
+    },
+    {
+      "Name": "girls love my swag",
+      "Steam": "76561199557109338",
       "Score": 0,
-      "Time": "30:47"
+      "Time": "69:07"
     },
     {
       "Name": "monday",
       "Steam": "76561199734403622",
-      "Score": 4,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "png",
       "Steam": "76561199753268044",
       "Score": 43,
-      "Time": "46:46"
+      "Time": "48:46"
     }
   ]
 }
