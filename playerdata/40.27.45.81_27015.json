@@ -1,59 +1,41 @@
 {
-  "Time": "2026-02-08T00:42:26.6337326Z",
+  "Time": "2026-02-08T00:44:26.6344988Z",
   "Players": [
-    {
-      "Name": "east",
-      "Steam": "76561198743093823",
-      "Score": 0,
-      "Time": "10:46"
-    },
     {
       "Name": "The Coolest",
       "Steam": "76561198984943721",
-      "Score": 18,
-      "Time": "05:37"
+      "Score": 24,
+      "Time": "07:37"
     },
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 16,
-      "Time": "05:10"
+      "Score": 18,
+      "Time": "07:10"
     },
     {
       "Name": "bill",
       "Steam": "76561199013445293",
-      "Score": 40,
-      "Time": "39:05"
+      "Score": 43,
+      "Time": "41:05"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 37,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 9,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 63,
+      "Score": 84,
       "Time": "??:??"
-    },
-    {
-      "Name": "ᵃᵏᵃʳⁱ",
-      "Steam": "76561198747793635",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "j4fl",
-      "Steam": "76561198792355775",
-      "Score": 0,
-      "Time": "03:37"
     }
   ]
 }
