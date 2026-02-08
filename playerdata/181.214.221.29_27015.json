@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-08T01:27:50.3336947Z",
+  "Time": "2026-02-08T01:29:50.3394992Z",
   "Players": [
     {
       "Name": "che",
@@ -10,20 +10,26 @@
     {
       "Name": "yoru",
       "Steam": "76561199214124273",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "coldzerA",
+      "Steam": "76561199867728043",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "never stress",
       "Steam": "76561198742023762",
-      "Score": 0,
-      "Time": "24:52"
+      "Score": 5,
+      "Time": "26:52"
     },
     {
       "Name": "MACSKI",
       "Steam": "76561198847025237",
-      "Score": 0,
-      "Time": "09:58"
+      "Score": 11,
+      "Time": "11:58"
     }
   ]
 }
