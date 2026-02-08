@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-08T03:01:50.3357284Z",
+  "Time": "2026-02-08T03:03:50.3366436Z",
   "Players": [
+    {
+      "Name": "pocoyo hvh",
+      "Steam": "76561198739575986",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "skop3548",
       "Steam": "76561198741659142",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Vladimir Putin",
       "Steam": "76561198746558243",
-      "Score": 133,
-      "Time": "67:07"
+      "Score": 137,
+      "Time": "69:07"
     },
     {
       "Name": "che",
       "Steam": "76561198190560294",
-      "Score": 86,
-      "Time": "21:37"
+      "Score": 99,
+      "Time": "23:37"
     },
     {
       "Name": "INTEL I5 seco seco",
@@ -29,7 +35,7 @@
       "Name": "\uD835\uDD2F\uD835\uDD26\uD835\uDD20\uD835\uDD28",
       "Steam": "76561199524034050",
       "Score": 24,
-      "Time": "102:03"
+      "Time": "104:03"
     }
   ]
 }
