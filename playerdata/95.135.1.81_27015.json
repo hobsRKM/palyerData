@@ -1,11 +1,11 @@
 {
-  "Time": "2026-02-08T16:43:03.0122224Z",
+  "Time": "2026-02-08T16:45:03.0134541Z",
   "Players": [
     {
       "Name": ">.<",
       "Steam": "76561199042138318",
-      "Score": 19,
-      "Time": "67:44"
+      "Score": 24,
+      "Time": "69:44"
     },
     {
       "Name": "Influent Shadow ⚜",
@@ -16,13 +16,19 @@
     {
       "Name": "Ally",
       "Steam": "76561199757864828",
-      "Score": 64,
-      "Time": "128:11"
+      "Score": 70,
+      "Time": "130:11"
     },
     {
       "Name": "nexus",
       "Steam": "76561199828349572",
-      "Score": 6,
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "yes indeed",
+      "Steam": "76561198422551532",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -34,44 +40,50 @@
     {
       "Name": "hocus pocus",
       "Steam": "76561199888197236",
-      "Score": 47,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 1,
-      "Time": "07:41"
+      "Score": 0,
+      "Time": "09:41"
     },
     {
       "Name": "bored.",
       "Steam": "76561199634244736",
-      "Score": 24,
-      "Time": "27:37"
+      "Score": 0,
+      "Time": "29:37"
     },
     {
       "Name": "MEMESENSE NIGHTLY (◣_◢)",
       "Steam": "76561199629184110",
-      "Score": 134,
-      "Time": "66:25"
+      "Score": 140,
+      "Time": "68:25"
     },
     {
       "Name": "pqp",
       "Steam": "76561199397291582",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
-      "Score": 2,
-      "Time": "44:09"
+      "Score": 6,
+      "Time": "46:09"
     },
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 8,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "总统先生",
+      "Steam": "76561199842369196",
+      "Score": 0,
+      "Time": "01:59"
     }
   ]
 }
