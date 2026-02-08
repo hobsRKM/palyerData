@@ -1,4 +1,41 @@
 {
-  "Time": "2026-02-08T14:56:19.5047332Z",
-  "Players": []
+  "Time": "2026-02-08T14:56:20.8214926Z",
+  "Players": [
+    {
+      "Name": "SRC",
+      "Steam": "76561198241397796",
+      "Score": 0,
+      "Time": "53:38"
+    },
+    {
+      "Name": "StyleN",
+      "Steam": "76561198968211394",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NeverWin",
+      "Steam": "76561199546142324",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 10,
+      "Time": "61:07"
+    },
+    {
+      "Name": "forcelight",
+      "Steam": "76561199832667269",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Diaconescu Lucas",
+      "Steam": "76561199667028575",
+      "Score": 0,
+      "Time": "18:25"
+    }
+  ]
 }
