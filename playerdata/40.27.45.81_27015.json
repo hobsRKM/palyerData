@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-08T02:38:26.6297764Z",
+  "Time": "2026-02-08T02:40:26.6395997Z",
   "Players": [
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 87,
-      "Time": "121:10"
+      "Score": 6,
+      "Time": "123:10"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 76,
+      "Score": 9,
       "Time": "??:??"
+    },
+    {
+      "Name": "loewe",
+      "Steam": "76561198750080629",
+      "Score": 0,
+      "Time": "00:19"
     },
     {
       "Name": "cheeziepooh",
@@ -22,12 +28,18 @@
     {
       "Name": "Erome",
       "Steam": "76561198756011343",
-      "Score": 16,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Leg Locking Made Me",
       "Steam": "76561199785851840",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ging",
+      "Steam": "76561198791541733",
       "Score": 0,
       "Time": "??:??"
     }
