@@ -1,58 +1,58 @@
 {
-  "Time": "2026-02-08T01:18:26.6360194Z",
+  "Time": "2026-02-08T01:20:26.6357628Z",
   "Players": [
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 25,
-      "Time": "41:10"
+      "Score": 41,
+      "Time": "43:10"
+    },
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 3,
+      "Time": "01:23"
     },
     {
       "Name": "rrp",
       "Steam": "76561198751671283",
-      "Score": 33,
-      "Time": "21:36"
+      "Score": 39,
+      "Time": "23:36"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
       "Score": 15,
-      "Time": "21:59"
-    },
-    {
-      "Name": "milk",
-      "Steam": "76561199740544730",
-      "Score": 0,
-      "Time": "01:13"
+      "Time": "23:59"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 36,
-      "Time": "??:??"
-    },
-    {
-      "Name": "kanel",
-      "Steam": "76561198775486469",
-      "Score": 27,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 7,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MistaWhite",
+      "Steam": "76561199410729009",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
