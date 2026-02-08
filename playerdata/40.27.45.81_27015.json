@@ -1,58 +1,64 @@
 {
-  "Time": "2026-02-08T07:42:26.6384077Z",
+  "Time": "2026-02-08T07:44:26.6394164Z",
   "Players": [
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 0,
-      "Time": "07:42"
+      "Score": 4,
+      "Time": "09:42"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 53,
-      "Time": "101:30"
+      "Score": 54,
+      "Time": "103:30"
+    },
+    {
+      "Name": "\u1CBB\u1CBB",
+      "Steam": "76561198010850131",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 23,
-      "Time": "29:28"
+      "Score": 27,
+      "Time": "31:28"
+    },
+    {
+      "Name": "viewuser",
+      "Steam": "76561198779044669",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
-      "Score": 57,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 51,
-      "Time": "32:40"
+      "Score": 55,
+      "Time": "34:40"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 32,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
-      "Score": 13,
-      "Time": "94:57"
+      "Score": 20,
+      "Time": "96:57"
     },
     {
       "Name": "fakemink",
       "Steam": "76561199884635779",
-      "Score": 79,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Suburban Dude",
-      "Steam": "76561198273254067",
-      "Score": 0,
+      "Score": 85,
       "Time": "??:??"
     }
   ]
