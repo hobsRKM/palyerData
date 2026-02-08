@@ -1,29 +1,29 @@
 {
-  "Time": "2026-02-08T12:57:07.419381Z",
+  "Time": "2026-02-08T13:01:07.4217069Z",
   "Players": [
     {
-      "Name": "Dr. Victor Blane",
+      "Name": "Ayla",
+      "Steam": "76561199880055163",
+      "Score": 4,
+      "Time": "02:57"
+    },
+    {
+      "Name": "Ayla",
       "Steam": "76561198221390104",
-      "Score": 2,
-      "Time": "08:04"
+      "Score": 0,
+      "Time": "12:04"
     },
     {
       "Name": "cels ~",
       "Steam": "76561198740943736",
-      "Score": 60,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 27,
-      "Time": "09:06"
-    },
-    {
-      "Name": "AIMWARE",
-      "Steam": "76561199303359682",
-      "Score": 6,
-      "Time": "??:??"
+      "Score": 46,
+      "Time": "13:06"
     }
   ]
 }
