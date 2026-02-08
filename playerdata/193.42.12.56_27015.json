@@ -1,22 +1,22 @@
 {
-  "Time": "2026-02-08T21:36:17.1185816Z",
+  "Time": "2026-02-08T21:38:17.1247206Z",
   "Players": [
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "212:50"
+      "Time": "214:50"
     },
     {
       "Name": "z",
       "Steam": "76561199104286406",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "erick",
       "Steam": "76561199493665678",
-      "Score": 9,
+      "Score": 17,
       "Time": "??:??"
     },
     {
@@ -28,26 +28,32 @@
     {
       "Name": "warte",
       "Steam": "76561199889942947",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "dead resolver",
       "Steam": "76561199488984476",
-      "Score": 6,
-      "Time": "02:49"
+      "Score": 10,
+      "Time": "04:49"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198784581696",
+      "Score": 0,
+      "Time": "02:03"
     },
     {
       "Name": "GESHTALT",
       "Steam": "76561198317554443",
-      "Score": 6,
-      "Time": "51:18"
+      "Score": 2,
+      "Time": "53:18"
     },
     {
       "Name": "Umbral Exalted",
       "Steam": "76561198768077402",
       "Score": 0,
-      "Time": "48:52"
+      "Time": "50:52"
     },
     {
       "Name": "egor",
@@ -58,31 +64,37 @@
     {
       "Name": "littleluckkk",
       "Steam": "76561198741423650",
-      "Score": 1,
-      "Time": "02:26"
+      "Score": 2,
+      "Time": "04:26"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 1,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "valerio",
       "Steam": "76561199090946517",
-      "Score": 3,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "png",
+      "Steam": "76561199753268044",
+      "Score": 0,
+      "Time": "00:46"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
       "Steam": "76561198341012123",
-      "Score": 11,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 10,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
