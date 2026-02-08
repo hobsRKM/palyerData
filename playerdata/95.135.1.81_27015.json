@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-08T15:39:03.020682Z",
+  "Time": "2026-02-08T15:41:03.0261672Z",
   "Players": [
     {
       "Name": "Influent Shadow ⚜",
       "Steam": "76561199682958357",
-      "Score": 42,
+      "Score": 51,
       "Time": "??:??"
+    },
+    {
+      "Name": "GeekedGalaxy",
+      "Steam": "76561198739186561",
+      "Score": 0,
+      "Time": "01:02"
     },
     {
       "Name": "\"'",
@@ -22,25 +28,19 @@
     {
       "Name": "hocus pocus",
       "Steam": "76561199888197236",
-      "Score": 24,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Seoul999",
-      "Steam": "76561198051992092",
-      "Score": 5,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Noah111",
       "Steam": "76561198880699322",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -50,9 +50,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "Goldengalaxy",
+      "Steam": "76561198808103197",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -64,14 +70,14 @@
     {
       "Name": "Trav",
       "Steam": "76561199471217940",
-      "Score": 5,
-      "Time": "20:13"
+      "Score": 0,
+      "Time": "22:13"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
       "Steam": "76561198341012123",
-      "Score": 56,
-      "Time": "57:28"
+      "Score": 61,
+      "Time": "59:28"
     }
   ]
 }
