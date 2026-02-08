@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-08T04:41:50.3412104Z",
+  "Time": "2026-02-08T04:43:50.3309082Z",
   "Players": [
     {
       "Name": "beck",
       "Steam": "76561199052891025",
-      "Score": 12,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "fakemink",
       "Steam": "76561199884635779",
-      "Score": 41,
+      "Score": 51,
       "Time": "??:??"
+    },
+    {
+      "Name": "meno quentao",
+      "Steam": "76561198742012374",
+      "Score": 0,
+      "Time": "00:36"
     },
     {
       "Name": "240kmh/peek mambozs",
@@ -20,16 +26,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "SUEZA",
-      "Steam": "76561198739258912",
-      "Score": 22,
-      "Time": "23:18"
-    },
-    {
       "Name": "INTEL I5 seco seco",
       "Steam": "76561198745319216",
-      "Score": 14,
-      "Time": "27:48"
+      "Score": 18,
+      "Time": "29:48"
     }
   ]
 }
