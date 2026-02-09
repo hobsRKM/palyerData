@@ -1,9 +1,15 @@
 {
-  "Time": "2026-02-09T04:06:56.1075401Z",
+  "Time": "2026-02-09T04:08:56.1050007Z",
   "Players": [
     {
-      "Name": "eternity.lu     ﾒ",
+      "Name": "eternity.l     ﾒ",
       "Steam": "76561199031753721",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
       "Score": 0,
       "Time": "??:??"
     },
@@ -11,19 +17,19 @@
       "Name": "i'm not cheating",
       "Steam": "76561198749014820",
       "Score": 10,
-      "Time": "02:28"
+      "Time": "04:28"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 2,
-      "Time": "01:39"
+      "Score": 6,
+      "Time": "00:24"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
       "Score": 68,
-      "Time": "43:56"
+      "Time": "45:56"
     },
     {
       "Name": "love",
@@ -34,14 +40,14 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 21,
-      "Time": "151:20"
+      "Score": 24,
+      "Time": "153:20"
     },
     {
       "Name": "00",
       "Steam": "76561198759125966",
-      "Score": 14,
-      "Time": "07:17"
+      "Score": 20,
+      "Time": "09:17"
     }
   ]
 }
