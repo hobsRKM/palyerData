@@ -1,6 +1,24 @@
 {
-  "Time": "2026-02-09T07:53:03.0163543Z",
+  "Time": "2026-02-09T07:55:03.0211944Z",
   "Players": [
+    {
+      "Name": "Tw1x",
+      "Steam": "76561199125993587",
+      "Score": 2,
+      "Time": "01:48"
+    },
+    {
+      "Name": "qodex",
+      "Steam": "76561199698937829",
+      "Score": 0,
+      "Time": "844:54"
+    },
+    {
+      "Name": "fl4vv1o",
+      "Steam": "76561198849256320",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
@@ -10,20 +28,26 @@
     {
       "Name": "in 2005 a hurensohn was born",
       "Steam": "76561198806792145",
-      "Score": 25,
-      "Time": "1121:35"
+      "Score": 30,
+      "Time": "1123:35"
+    },
+    {
+      "Name": "taci caine",
+      "Steam": "76561198978980360",
+      "Score": 2,
+      "Time": "312:59"
     },
     {
       "Name": "zeno",
       "Steam": "76561198756630718",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC2C\uD835\uDC21\uD835\uDC1A\uD835\uDC26\uD835\uDC1A\uD835\uDC27",
       "Steam": "76561198780646846",
-      "Score": 7,
-      "Time": "1199:36"
+      "Score": 2,
+      "Time": "1201:36"
     }
   ]
 }
