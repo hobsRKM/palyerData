@@ -1,23 +1,23 @@
 {
-  "Time": "2026-02-09T01:22:56.0972801Z",
+  "Time": "2026-02-09T01:24:56.1042866Z",
   "Players": [
     {
       "Name": "sex",
       "Steam": "76561198748840225",
       "Score": 0,
-      "Time": "00:37"
+      "Time": "02:37"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 0,
-      "Time": "84:18"
+      "Score": 8,
+      "Time": "86:18"
     },
     {
       "Name": "loewe",
       "Steam": "76561198750080629",
-      "Score": 0,
-      "Time": "20:30"
+      "Score": 9,
+      "Time": "22:30"
     },
     {
       "Name": "0x32E9C20",
@@ -28,14 +28,14 @@
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 0,
-      "Time": "20:27"
+      "Score": 6,
+      "Time": "22:27"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 0,
-      "Time": "35:59"
+      "Score": 13,
+      "Time": "37:59"
     },
     {
       "Name": "nichdsww",
@@ -46,20 +46,26 @@
     {
       "Name": "angelo",
       "Steam": "76561199170106607",
+      "Score": 2,
+      "Time": "22:59"
+    },
+    {
+      "Name": "toto",
+      "Steam": "76561199826584816",
       "Score": 0,
-      "Time": "20:59"
+      "Time": "??:??"
     },
     {
       "Name": "sofa.pub",
       "Steam": "76561199531695282",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "milk",
       "Steam": "76561199740544730",
       "Score": 0,
-      "Time": "24:35"
+      "Time": "26:35"
     }
   ]
 }
