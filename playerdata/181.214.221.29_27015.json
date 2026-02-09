@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-09T23:19:59.5365366Z",
+  "Time": "2026-02-09T23:21:59.5365544Z",
   "Players": [
+    {
+      "Name": "heatrelax",
+      "Steam": "76561199688588921",
+      "Score": 0,
+      "Time": "00:59"
+    },
     {
       "Name": "rtx 9060 - MOLHADA",
       "Steam": "76561199191036801",
       "Score": 0,
-      "Time": "91:05"
+      "Time": "93:05"
     },
     {
       "Name": "magrelo",
       "Steam": "76561199529552889",
-      "Score": 65,
-      "Time": "13:34"
+      "Score": 79,
+      "Time": "15:34"
     },
     {
       "Name": "Leno",
       "Steam": "76561198744160778",
-      "Score": 6,
-      "Time": "02:10"
+      "Score": 8,
+      "Time": "04:10"
     },
     {
       "Name": "voltei kkkk",
       "Steam": "76561198740552403",
       "Score": 37,
-      "Time": "20:55"
+      "Time": "22:55"
     },
     {
       "Name": "Nx",
@@ -34,7 +40,7 @@
     {
       "Name": "angelafreefire",
       "Steam": "76561199482354544",
-      "Score": 35,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -46,12 +52,18 @@
     {
       "Name": "i'm not cheating",
       "Steam": "76561198749014820",
-      "Score": 30,
-      "Time": "05:20"
+      "Score": 38,
+      "Time": "07:20"
     },
     {
       "Name": "SK | coldzera",
       "Steam": "76561199081673749",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "testando vaclive",
+      "Steam": "76561198784479657",
       "Score": 0,
       "Time": "??:??"
     }
