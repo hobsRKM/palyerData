@@ -1,4 +1,41 @@
 {
-  "Time": "2026-02-09T14:05:03.2012283Z",
-  "Players": []
+  "Time": "2026-02-09T14:06:22.9619932Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xac.cc",
+      "Steam": "76561198759399529",
+      "Score": 18,
+      "Time": "06:45"
+    },
+    {
+      "Name": "LekaHvH",
+      "Steam": "76561198749234098",
+      "Score": 16,
+      "Time": "10:41"
+    },
+    {
+      "Name": "CheesePufs",
+      "Steam": "76561198740137918",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "propagulum",
+      "Steam": "76561199152040078",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "what do you mean",
+      "Steam": "76561197963183861",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
