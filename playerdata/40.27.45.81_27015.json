@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-09T06:32:56.0978351Z",
+  "Time": "2026-02-09T06:34:56.104751Z",
   "Players": [
     {
-      "Name": "eternity.l     ﾒ",
+      "Name": "eternity.     ﾒ",
       "Steam": "76561199031753721",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bananchiki",
+      "Steam": "76561199619301187",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "femboy ageplayer",
       "Steam": "76561198775486469",
-      "Score": 28,
-      "Time": "13:14"
+      "Score": 30,
+      "Time": "15:14"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 28,
-      "Time": "13:48"
+      "Score": 30,
+      "Time": "15:48"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
       "Score": 2,
-      "Time": "471:00"
+      "Time": "473:00"
     },
     {
       "Name": "jon",
       "Steam": "76561198779927030",
-      "Score": 37,
-      "Time": "17:17"
+      "Score": 41,
+      "Time": "19:17"
     }
   ]
 }
