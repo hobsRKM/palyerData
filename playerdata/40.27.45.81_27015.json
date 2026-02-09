@@ -1,23 +1,17 @@
 {
-  "Time": "2026-02-09T21:31:00.4909696Z",
+  "Time": "2026-02-09T21:33:00.4922884Z",
   "Players": [
     {
       "Name": "one",
       "Steam": "76561199571686760",
       "Score": 46,
-      "Time": "30:55"
-    },
-    {
-      "Name": "00",
-      "Steam": "76561198759125966",
-      "Score": 34,
-      "Time": "26:33"
+      "Time": "32:55"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 65,
-      "Time": "26:23"
+      "Score": 68,
+      "Time": "28:23"
     },
     {
       "Name": "lear",
@@ -28,25 +22,37 @@
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 34,
-      "Time": "25:48"
+      "Score": 38,
+      "Time": "27:48"
     },
     {
       "Name": "Goon King",
       "Steam": "76561198784560984",
-      "Score": 28,
-      "Time": "37:22"
+      "Score": 30,
+      "Time": "39:22"
+    },
+    {
+      "Name": "TurdSkin",
+      "Steam": "76561199828166716",
+      "Score": 0,
+      "Time": "00:23"
+    },
+    {
+      "Name": "#2r2f #targwalkdownwithaswitch",
+      "Steam": "76561199441862047",
+      "Score": 0,
+      "Time": "00:06"
     },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "toto",
       "Steam": "76561199826584816",
-      "Score": 58,
+      "Score": 65,
       "Time": "??:??"
     },
     {
@@ -58,13 +64,13 @@
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
