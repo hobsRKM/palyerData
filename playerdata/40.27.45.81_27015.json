@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-09T02:06:56.1039682Z",
+  "Time": "2026-02-09T02:08:56.1030917Z",
   "Players": [
     {
       "Name": "SmartWater",
       "Steam": "76561198741573354",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "kopf",
+      "Steam": "76561199701080269",
+      "Score": 16,
+      "Time": "01:51"
     },
     {
       "Name": "\uD835\uDCDC\uD835\uDCEA\uD835\uDCF5\uD835\uDCF8\uD835\uDCFE",
@@ -16,44 +22,50 @@
     {
       "Name": "Marquis The Humble One",
       "Steam": "76561198843252544",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 32,
-      "Time": "29:56"
+      "Score": 38,
+      "Time": "31:56"
     },
     {
       "Name": "yoruha1337",
       "Steam": "76561199524954152",
-      "Score": 19,
-      "Time": "15:35"
+      "Score": 21,
+      "Time": "17:35"
     },
     {
       "Name": "angelo",
       "Steam": "76561199170106607",
-      "Score": 48,
-      "Time": "64:59"
+      "Score": 54,
+      "Time": "66:59"
     },
     {
       "Name": "Frank Taylor",
       "Steam": "76561198333292313",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "milk",
       "Steam": "76561199740544730",
-      "Score": 16,
-      "Time": "68:35"
+      "Score": 18,
+      "Time": "70:35"
+    },
+    {
+      "Name": "paradise",
+      "Steam": "76561198380272287",
+      "Score": 1,
+      "Time": "00:26"
     },
     {
       "Name": "a1most",
       "Steam": "76561198759125966",
-      "Score": 14,
-      "Time": "05:25"
+      "Score": 2,
+      "Time": "07:25"
     }
   ]
 }
