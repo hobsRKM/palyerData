@@ -1,34 +1,28 @@
 {
-  "Time": "2026-02-09T20:03:00.4907062Z",
+  "Time": "2026-02-09T20:05:00.4906348Z",
   "Players": [
     {
       "Name": "TOP 1 WW PLAYYER",
       "Steam": "76561199848482186",
-      "Score": 11,
-      "Time": "14:35"
-    },
-    {
-      "Name": "lilwalkemdone23",
-      "Steam": "76561198742184205",
-      "Score": 10,
-      "Time": "??:??"
+      "Score": 12,
+      "Time": "16:35"
     },
     {
       "Name": "percoset",
       "Steam": "76561198293312486",
-      "Score": 0,
-      "Time": "00:41"
+      "Score": 4,
+      "Time": "02:41"
     },
     {
       "Name": "00",
       "Steam": "76561198759125966",
-      "Score": 32,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 41,
+      "Score": 45,
       "Time": "??:??"
     },
     {
@@ -40,14 +34,20 @@
     {
       "Name": "cloxid",
       "Steam": "76561198750080629",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 32,
-      "Time": "08:16"
+      "Score": 34,
+      "Time": "10:16"
+    },
+    {
+      "Name": "FranklinFakesAnInjuryToGetAPerc",
+      "Steam": "76561199170346760",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
