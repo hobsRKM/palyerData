@@ -1,28 +1,34 @@
 {
-  "Time": "2026-02-09T01:00:56.1076716Z",
+  "Time": "2026-02-09T01:02:56.1029926Z",
   "Players": [
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 39,
-      "Time": "62:18"
+      "Score": 43,
+      "Time": "64:18"
     },
     {
-      "Name": "Frunza2",
-      "Steam": "76561198739290785",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "loewe",
+      "Steam": "76561198750080629",
+      "Score": 2,
+      "Time": "00:30"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 14,
+      "Time": "00:27"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 36,
-      "Time": "13:59"
+      "Score": 44,
+      "Time": "15:59"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 56,
+      "Score": 68,
       "Time": "??:??"
     },
     {
@@ -35,19 +41,25 @@
       "Name": "poopy",
       "Steam": "76561199574390938",
       "Score": 2,
-      "Time": "98:51"
+      "Time": "100:51"
+    },
+    {
+      "Name": "angelo",
+      "Steam": "76561199170106607",
+      "Score": 4,
+      "Time": "00:59"
     },
     {
       "Name": "emotional suport bagel",
       "Steam": "76561199548982521",
-      "Score": 35,
-      "Time": "40:26"
+      "Score": 41,
+      "Time": "42:26"
     },
     {
       "Name": "milk",
       "Steam": "76561199740544730",
-      "Score": 0,
-      "Time": "02:35"
+      "Score": 9,
+      "Time": "04:35"
     }
   ]
 }
