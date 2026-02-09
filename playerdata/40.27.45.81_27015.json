@@ -1,47 +1,53 @@
 {
-  "Time": "2026-02-09T08:11:47.6746901Z",
+  "Time": "2026-02-09T08:13:47.6777203Z",
   "Players": [
+    {
+      "Name": "fake Kult",
+      "Steam": "76561199492834313",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 3,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "sw3rl_420",
       "Steam": "76561198782188517",
-      "Score": 38,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 54,
-      "Time": "32:46"
+      "Score": 56,
+      "Time": "34:46"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 97,
-      "Time": "30:17"
+      "Score": 109,
+      "Time": "32:17"
     },
     {
       "Name": "John Travolta",
       "Steam": "76561199067952945",
-      "Score": 14,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "Sheen Estevez",
       "Steam": "76561199878820499",
-      "Score": 40,
-      "Time": "48:00"
+      "Score": 44,
+      "Time": "50:00"
     },
     {
       "Name": "#2r2f #targwalkdownwithaswitch",
       "Steam": "76561199441862047",
-      "Score": 0,
-      "Time": "05:09"
+      "Score": 1,
+      "Time": "07:09"
     }
   ]
 }
