@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-09T23:17:20.9927209Z",
+  "Time": "2026-02-09T23:19:20.9925761Z",
   "Players": [
     {
       "Name": "void",
       "Steam": "76561199503396912",
-      "Score": 3,
-      "Time": "39:43"
+      "Score": 0,
+      "Time": "41:43"
     },
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 49,
-      "Time": "429:18"
+      "Score": 54,
+      "Time": "431:18"
+    },
+    {
+      "Name": "322",
+      "Steam": "76561198426205586",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "\"'",
@@ -22,7 +28,13 @@
     {
       "Name": "ŁORLD",
       "Steam": "76561198769290934",
-      "Score": 92,
+      "Score": 99,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Desoxyribonukleinsäure",
+      "Steam": "76561199081081062",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -34,8 +46,8 @@
     {
       "Name": "nico.",
       "Steam": "76561199180147646",
-      "Score": 5,
-      "Time": "32:23"
+      "Score": 11,
+      "Time": "34:23"
     },
     {
       "Name": "Gertt-01",
@@ -52,8 +64,8 @@
     {
       "Name": "Big J Drippy",
       "Steam": "76561199837815539",
-      "Score": 10,
-      "Time": "21:03"
+      "Score": 18,
+      "Time": "23:03"
     }
   ]
 }
