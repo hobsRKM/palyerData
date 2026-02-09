@@ -1,4 +1,29 @@
 {
-  "Time": "2026-02-09T14:31:03.2011279Z",
-  "Players": []
+  "Time": "2026-02-09T14:32:22.9554435Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xac.cc",
+      "Steam": "76561198759399529",
+      "Score": 6,
+      "Time": "32:45"
+    },
+    {
+      "Name": "CheesePufs",
+      "Steam": "76561198740137918",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "what do you mean",
+      "Steam": "76561197963183861",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
