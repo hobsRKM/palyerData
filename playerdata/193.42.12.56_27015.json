@@ -1,28 +1,46 @@
 {
-  "Time": "2026-02-09T14:29:20.986018Z",
+  "Time": "2026-02-09T14:31:20.9837368Z",
   "Players": [
+    {
+      "Name": "CarlitoMB",
+      "Steam": "76561199697633072",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Seoul999",
       "Steam": "76561198051992092",
-      "Score": 20,
-      "Time": "28:24"
+      "Score": 23,
+      "Time": "30:24"
     },
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
-      "Name": "eternity.lua   sigma_120fps",
+      "Name": "eternity.lua    sigma_120fps",
       "Steam": "76561199104344418",
-      "Score": 39,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "Dinuspp123",
       "Steam": "76561199443385276",
-      "Score": 17,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mjay",
+      "Steam": "76561199237707727",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "matjess__",
+      "Steam": "76561199508024650",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
