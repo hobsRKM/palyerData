@@ -1,64 +1,70 @@
 {
-  "Time": "2026-02-10T14:59:43.0323336Z",
+  "Time": "2026-02-10T15:01:43.0342638Z",
   "Players": [
+    {
+      "Name": "Beata Skrzypowska",
+      "Steam": "76561199140664668",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Noah111",
       "Steam": "76561198880699322",
-      "Score": 47,
-      "Time": "33:06"
+      "Score": 2,
+      "Time": "35:06"
     },
     {
       "Name": "void",
       "Steam": "76561199503396912",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "standing on perc",
       "Steam": "76561198325864747",
-      "Score": 22,
-      "Time": "12:47"
+      "Score": 27,
+      "Time": "14:47"
     },
     {
       "Name": "szybki zawodnik",
       "Steam": "76561199131633124",
-      "Score": 44,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "xspymer837667",
       "Steam": "76561199781811309",
-      "Score": 6,
-      "Time": "80:14"
+      "Score": 12,
+      "Time": "82:14"
     },
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 63,
-      "Time": "39:38"
+      "Score": 67,
+      "Time": "41:38"
     },
     {
       "Name": "GotEm",
       "Steam": "76561198739183119",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "ozxu",
       "Steam": "76561199137466965",
-      "Score": 7,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD30\uD835\uDD2C\uD835\uDD23\uD835\uDD26\uD835\uDD1E",
       "Steam": "76561199822757102",
-      "Score": 7,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 21,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -70,8 +76,8 @@
     {
       "Name": "kona",
       "Steam": "76561199682061013",
-      "Score": 0,
-      "Time": "00:41"
+      "Score": 7,
+      "Time": "02:41"
     },
     {
       "Name": "egor",
@@ -82,19 +88,19 @@
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 12,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Sato #SpreadSquad",
       "Steam": "76561199732115959",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗluvii",
       "Steam": "76561198339966370",
-      "Score": 2,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
