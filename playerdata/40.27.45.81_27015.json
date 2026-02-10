@@ -1,11 +1,23 @@
 {
-  "Time": "2026-02-10T20:28:15.712697Z",
+  "Time": "2026-02-10T20:30:15.707534Z",
   "Players": [
     {
       "Name": "KIKI",
       "Steam": "76561199711986501",
-      "Score": 56,
-      "Time": "02:52"
+      "Score": 59,
+      "Time": "04:52"
+    },
+    {
+      "Name": "Amos Yee",
+      "Steam": "76561199588690188",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Lars",
+      "Steam": "76561199082073582",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "im js 2 rich and 2 famous nga",
@@ -16,37 +28,31 @@
     {
       "Name": "percoset",
       "Steam": "76561198293312486",
-      "Score": 34,
-      "Time": "12:54"
+      "Score": 40,
+      "Time": "14:54"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 41,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 41,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "schrödinger",
       "Steam": "76561199813507603",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "alax",
       "Steam": "76561199855943437",
-      "Score": 27,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Shux",
-      "Steam": "76561199170636130",
-      "Score": 20,
+      "Score": 34,
       "Time": "??:??"
     }
   ]
