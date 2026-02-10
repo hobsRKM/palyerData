@@ -1,59 +1,59 @@
 {
-  "Time": "2026-02-10T03:13:00.4967909Z",
+  "Time": "2026-02-10T03:15:00.5032415Z",
   "Players": [
+    {
+      "Name": "googie",
+      "Steam": "76561199881237918",
+      "Score": 2,
+      "Time": "01:38"
+    },
     {
       "Name": "sex",
       "Steam": "76561198748840225",
       "Score": 2,
-      "Time": "66:02"
-    },
-    {
-      "Name": "Nevo",
-      "Steam": "76561198791368162",
-      "Score": 33,
-      "Time": "04:44"
+      "Time": "68:02"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198750080629",
-      "Score": 120,
-      "Time": "21:01"
+      "Score": 126,
+      "Time": "23:01"
     },
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 70,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "Endernah",
       "Steam": "76561199245175321",
-      "Score": 23,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "ุ",
       "Steam": "76561199574390938",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "bored.",
       "Steam": "76561199425272329",
-      "Score": 96,
+      "Score": 112,
       "Time": "??:??"
     },
     {
       "Name": "Aulawc",
       "Steam": "76561199851699090",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Natalie",
       "Steam": "76561198744527182",
-      "Score": 17,
-      "Time": "03:25"
+      "Score": 23,
+      "Time": "05:25"
     }
   ]
 }
