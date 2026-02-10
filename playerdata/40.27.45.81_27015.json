@@ -1,10 +1,10 @@
 {
-  "Time": "2026-02-10T00:21:00.4970745Z",
+  "Time": "2026-02-10T00:23:00.4997843Z",
   "Players": [
     {
       "Name": "bawlz",
       "Steam": "76561198180564201",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
@@ -16,14 +16,20 @@
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 76,
+      "Score": 85,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Spooky",
+      "Steam": "76561199442396024",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "premier",
       "Steam": "76561198739872706",
       "Score": 20,
-      "Time": "06:56"
+      "Time": "08:56"
     },
     {
       "Name": "niemieckipatryk56",
@@ -35,13 +41,13 @@
       "Name": "James",
       "Steam": "76561199121215178",
       "Score": 59,
-      "Time": "33:54"
+      "Time": "35:54"
     },
     {
       "Name": "#2r2f #targwalkdownwithaswitch",
       "Steam": "76561199441862047",
-      "Score": 1,
-      "Time": "34:56"
+      "Score": 0,
+      "Time": "36:56"
     },
     {
       "Name": "Metalware-dinkbot",
@@ -53,25 +59,25 @@
       "Name": "silly",
       "Steam": "76561198775486469",
       "Score": 17,
-      "Time": "07:29"
+      "Time": "09:29"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 106,
-      "Time": "33:24"
+      "Score": 120,
+      "Time": "35:24"
     },
     {
       "Name": "KIKI",
       "Steam": "76561199711986501",
-      "Score": 83,
+      "Score": 98,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 0,
-      "Time": "01:29"
+      "Score": 4,
+      "Time": "03:29"
     }
   ]
 }
