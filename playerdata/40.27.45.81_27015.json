@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-10T00:47:00.4977514Z",
+  "Time": "2026-02-10T00:49:00.4948776Z",
   "Players": [
+    {
+      "Name": "googie",
+      "Steam": "76561199881237918",
+      "Score": 2,
+      "Time": "01:58"
+    },
     {
       "Name": "bawlz",
       "Steam": "76561198180564201",
@@ -10,32 +16,32 @@
     {
       "Name": "chord",
       "Steam": "76561198984943721",
-      "Score": 3,
-      "Time": "02:11"
+      "Score": 9,
+      "Time": "04:11"
     },
     {
       "Name": "furry femboy twink",
       "Steam": "76561199770317821",
       "Score": 4,
-      "Time": "23:21"
+      "Time": "25:21"
     },
     {
       "Name": "#2r2f #targwalkdownwithaswitch",
       "Steam": "76561199441862047",
-      "Score": 16,
-      "Time": "60:56"
+      "Score": 20,
+      "Time": "62:56"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 40,
-      "Time": "59:24"
+      "Score": 56,
+      "Time": "61:24"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 23,
-      "Time": "27:29"
+      "Score": 37,
+      "Time": "29:29"
     }
   ]
 }
