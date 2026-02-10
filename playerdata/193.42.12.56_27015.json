@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-10T14:23:43.0318719Z",
+  "Time": "2026-02-10T14:25:43.0403591Z",
   "Players": [
+    {
+      "Name": "rp544120",
+      "Steam": "76561198749707993",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 8,
-      "Time": "03:38"
+      "Score": 10,
+      "Time": "05:38"
     },
     {
       "Name": "davei",
       "Steam": "76561198760346143",
-      "Score": 8,
-      "Time": "16:18"
+      "Score": 10,
+      "Time": "18:18"
     },
     {
       "Name": "ᶜʰᵃᵐᵖFantaUser",
       "Steam": "76561199498192347",
-      "Score": 10,
-      "Time": "05:52"
+      "Score": 25,
+      "Time": "07:52"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 10,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "CarlitoMB",
       "Steam": "76561199697633072",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -46,20 +52,14 @@
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 25,
+      "Score": 34,
       "Time": "??:??"
-    },
-    {
-      "Name": "seksi adam",
-      "Steam": "76561199140756809",
-      "Score": 0,
-      "Time": "00:10"
     },
     {
       "Name": "ジ",
       "Steam": "76561199010064468",
       "Score": 23,
-      "Time": "23:56"
+      "Time": "25:56"
     },
     {
       "Name": "Sato #SpreadSquad",
@@ -70,13 +70,13 @@
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗluvii",
       "Steam": "76561198339966370",
-      "Score": 41,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Kardos Cigány",
       "Steam": "76561198800976872",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
