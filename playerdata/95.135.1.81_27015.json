@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-10T06:26:15.2703857Z",
+  "Time": "2026-02-10T06:28:15.2849018Z",
   "Players": [
+    {
+      "Name": "percoset",
+      "Steam": "76561198293312486",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "OwO",
       "Steam": "76561199067113258",
       "Score": 6,
-      "Time": "14:46"
+      "Time": "16:46"
     },
     {
       "Name": "power hack user",
       "Steam": "76561199260960757",
-      "Score": 14,
-      "Time": "21:30"
+      "Score": 20,
+      "Time": "23:30"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 0,
-      "Time": "47:35"
+      "Score": 4,
+      "Time": "49:35"
     },
     {
       "Name": "freaky bob",
       "Steam": "76561199571154189",
-      "Score": 6,
-      "Time": "181:15"
+      "Score": 10,
+      "Time": "183:15"
     }
   ]
 }
