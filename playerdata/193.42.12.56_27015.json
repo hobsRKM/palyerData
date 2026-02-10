@@ -1,35 +1,53 @@
 {
-  "Time": "2026-02-10T22:13:43.0398688Z",
+  "Time": "2026-02-10T22:15:43.0429773Z",
   "Players": [
+    {
+      "Name": "Trollin.",
+      "Steam": "76561198756732356",
+      "Score": 0,
+      "Time": "01:12"
+    },
+    {
+      "Name": "ka$h",
+      "Steam": "76561198769067462",
+      "Score": 0,
+      "Time": "01:42"
+    },
     {
       "Name": "marcus51297",
       "Steam": "76561198753965896",
+      "Score": 4,
+      "Time": "224:02"
+    },
+    {
+      "Name": "Halfiax997",
+      "Steam": "76561198749403994",
       "Score": 0,
-      "Time": "222:02"
+      "Time": "00:29"
     },
     {
       "Name": "Umbral Exalted",
       "Steam": "76561198768077402",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Mike Oxlong",
       "Steam": "76561198749154292",
-      "Score": 0,
-      "Time": "32:00"
+      "Score": 4,
+      "Time": "34:00"
     },
     {
       "Name": "\uD835\uDC25\uD835\uDC22\uD835\uDC1F\uD835\uDC1E \uD835\uDC1E\uD835\uDC27\uD835\uDC23",
       "Steam": "76561199590377764",
-      "Score": 0,
-      "Time": "39:19"
+      "Score": 4,
+      "Time": "41:19"
     },
     {
       "Name": "Aras 7",
       "Steam": "76561199606889275",
-      "Score": 0,
-      "Time": "224:43"
+      "Score": 2,
+      "Time": "226:43"
     },
     {
       "Name": "Pato",
@@ -40,8 +58,8 @@
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 0,
-      "Time": "40:29"
+      "Score": 3,
+      "Time": "42:29"
     }
   ]
 }
