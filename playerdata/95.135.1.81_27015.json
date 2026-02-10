@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-10T00:56:15.2837407Z",
+  "Time": "2026-02-10T00:58:15.2725668Z",
   "Players": [
     {
       "Name": "e3",
@@ -10,26 +10,32 @@
     {
       "Name": "png",
       "Steam": "76561199753268044",
-      "Score": 0,
-      "Time": "30:41"
+      "Score": 10,
+      "Time": "32:41"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 9,
-      "Time": "19:40"
+      "Score": 2,
+      "Time": "21:40"
     },
     {
       "Name": "fiercehare50821",
       "Steam": "76561198787230368",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "effrayant",
+      "Steam": "76561198195247117",
+      "Score": 0,
+      "Time": "00:43"
     },
     {
       "Name": "x",
       "Steam": "76561199088444116",
       "Score": 0,
-      "Time": "02:52"
+      "Time": "04:52"
     },
     {
       "Name": "ZwMapViewOfSection",
@@ -40,14 +46,14 @@
     {
       "Name": "Derkstaware",
       "Steam": "76561199247064145",
-      "Score": 27,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 42,
-      "Time": "16:35"
+      "Score": 54,
+      "Time": "18:35"
     }
   ]
 }
