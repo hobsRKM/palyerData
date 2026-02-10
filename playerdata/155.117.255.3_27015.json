@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-10T23:32:15.1582325Z",
+  "Time": "2026-02-10T23:33:12.1653372Z",
   "Players": [
     {
-      "Name": "sj",
-      "Steam": "76561198756303634",
-      "Score": 0,
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 30,
+      "Time": "11:20"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198750080629",
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "Natalie",
-      "Steam": "76561198744527182",
-      "Score": 2,
+      "Name": "testing nixware beta",
+      "Steam": "76561198748840225",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
