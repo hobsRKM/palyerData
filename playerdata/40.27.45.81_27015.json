@@ -1,10 +1,16 @@
 {
-  "Time": "2026-02-10T01:39:00.497437Z",
+  "Time": "2026-02-10T01:41:00.4907271Z",
   "Players": [
     {
       "Name": "bawlz",
       "Steam": "76561198180564201",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "i do fent",
+      "Steam": "76561198770370123",
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -16,26 +22,32 @@
     {
       "Name": "##2RICH2FAMOUS {woahd}",
       "Steam": "76561199757543292",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "red trust factor",
       "Steam": "76561199878160233",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "clippy",
+      "Steam": "76561197960325455",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "SINGDEPP",
       "Steam": "76561199445399217",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Joe Shmoe",
       "Steam": "76561199848482186",
-      "Score": 0,
-      "Time": "16:14"
+      "Score": 2,
+      "Time": "18:14"
     }
   ]
 }
