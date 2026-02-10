@@ -1,41 +1,53 @@
 {
-  "Time": "2026-02-10T15:51:42.3452252Z",
+  "Time": "2026-02-10T15:53:42.3489872Z",
   "Players": [
+    {
+      "Name": "chrollo.92ez",
+      "Steam": "76561198743020557",
+      "Score": 4,
+      "Time": "01:53"
+    },
     {
       "Name": "uixhc7ha",
       "Steam": "76561198741023527",
-      "Score": 4,
-      "Time": "14:34"
+      "Score": 18,
+      "Time": "16:34"
     },
     {
       "Name": "Diaconescu Lucas",
       "Steam": "76561199667028575",
-      "Score": 20,
-      "Time": "226:26"
+      "Score": 22,
+      "Time": "228:26"
+    },
+    {
+      "Name": "eloquence",
+      "Steam": "76561198312133731",
+      "Score": 0,
+      "Time": "00:37"
     },
     {
       "Name": "kona",
       "Steam": "76561199682061013",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "@444",
       "Steam": "76561199240546680",
-      "Score": 29,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "Aras 7",
       "Steam": "76561199606889275",
-      "Score": 39,
-      "Time": "774:28"
+      "Score": 1,
+      "Time": "776:28"
     },
     {
       "Name": "\"'",
@@ -46,14 +58,8 @@
     {
       "Name": "Trollin.",
       "Steam": "76561198756732356",
-      "Score": 54,
-      "Time": "21:54"
-    },
-    {
-      "Name": "Patrick Star",
-      "Steam": "76561198770013379",
-      "Score": 24,
-      "Time": "??:??"
+      "Score": 56,
+      "Time": "23:54"
     }
   ]
 }
