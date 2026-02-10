@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-10T01:53:00.5005404Z",
+  "Time": "2026-02-10T01:55:00.4989124Z",
   "Players": [
     {
       "Name": "controller btw",
       "Steam": "76561199734183240",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
+    },
+    {
+      "Name": "premier",
+      "Steam": "76561198739872706",
+      "Score": 0,
+      "Time": "00:15"
     },
     {
       "Name": "i do fent",
       "Steam": "76561198770370123",
-      "Score": 66,
+      "Score": 74,
       "Time": "??:??"
     },
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -28,7 +34,7 @@
     {
       "Name": "red trust factor",
       "Steam": "76561199878160233",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
@@ -41,7 +47,13 @@
       "Name": "Joe Shmoe",
       "Steam": "76561199848482186",
       "Score": 30,
-      "Time": "30:14"
+      "Time": "32:14"
+    },
+    {
+      "Name": "Metalware-dinkbot",
+      "Steam": "76561198738286507",
+      "Score": 0,
+      "Time": "00:56"
     }
   ]
 }
