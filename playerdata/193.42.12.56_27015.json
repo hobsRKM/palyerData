@@ -1,64 +1,76 @@
 {
-  "Time": "2026-02-10T13:37:43.038346Z",
+  "Time": "2026-02-10T13:39:43.0407011Z",
   "Players": [
+    {
+      "Name": "Olli",
+      "Steam": "76561199403555707",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 42,
-      "Time": "58:34"
+      "Score": 51,
+      "Time": "60:34"
+    },
+    {
+      "Name": "ᶜʰᵃᵐᵖHerbert",
+      "Steam": "76561199498192347",
+      "Score": 2,
+      "Time": "00:42"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "CarlitoMB",
       "Steam": "76561199697633072",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "CallMeSpoofer",
       "Steam": "76561199026396251",
-      "Score": 65,
+      "Score": 74,
       "Time": "??:??"
     },
     {
       "Name": "DonaldJTrump",
       "Steam": "76561199780478800",
-      "Score": 26,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "MEMESENSE NIGHTLY (◣_◢)",
       "Steam": "76561199629184110",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
-      "Name": "tymo--",
-      "Steam": "76561199425592793",
-      "Score": 24,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "reyveth",
       "Steam": "76561199192436160",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "quatripiolrr2",
       "Steam": "76561198744760375",
-      "Score": 6,
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "egorbigboss",
+      "Steam": "76561198960135097",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
