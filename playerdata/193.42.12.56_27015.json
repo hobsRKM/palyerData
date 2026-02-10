@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-10T22:41:43.0564172Z",
+  "Time": "2026-02-10T22:43:43.0670601Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561198744496932",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Borby",
       "Steam": "76561198215570155",
-      "Score": 4,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 25,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -28,38 +34,38 @@
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 9,
-      "Time": "120:18"
+      "Score": 20,
+      "Time": "122:18"
     },
     {
       "Name": "Big J Drippy",
       "Steam": "76561199837815539",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "⁺ ₊✦Ria₊✦°",
       "Steam": "76561199236818034",
-      "Score": 73,
-      "Time": "22:54"
+      "Score": 74,
+      "Time": "24:54"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 12,
-      "Time": "13:34"
+      "Score": 26,
+      "Time": "15:34"
     },
     {
       "Name": "Umbral Exalted",
       "Steam": "76561198768077402",
-      "Score": 68,
+      "Score": 72,
       "Time": "??:??"
     },
     {
       "Name": "kapiub0b",
       "Steam": "76561198151423700",
-      "Score": 0,
-      "Time": "157:50"
+      "Score": 6,
+      "Time": "159:50"
     },
     {
       "Name": "V",
@@ -68,10 +74,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "zoldyck",
+      "Steam": "76561198745310884",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "\uD835\uDC25\uD835\uDC22\uD835\uDC1F\uD835\uDC1E \uD835\uDC1E\uD835\uDC27\uD835\uDC23",
       "Steam": "76561199590377764",
-      "Score": 19,
-      "Time": "67:19"
+      "Score": 21,
+      "Time": "69:19"
     },
     {
       "Name": "silent",
@@ -80,40 +92,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "sym",
-      "Steam": "76561199216490972",
-      "Score": 11,
-      "Time": "??:??"
-    },
-    {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
       "Score": 2,
-      "Time": "134:42"
+      "Time": "136:42"
     },
     {
       "Name": "nico.",
       "Steam": "76561199180147646",
-      "Score": 55,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Aras 7",
       "Steam": "76561199606889275",
-      "Score": 11,
-      "Time": "252:43"
+      "Score": 15,
+      "Time": "254:43"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗwizu",
       "Steam": "76561198784574810",
-      "Score": 38,
-      "Time": "15:42"
-    },
-    {
-      "Name": "*.*",
-      "Steam": "76561198083960371",
-      "Score": 10,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "17:42"
     },
     {
       "Name": "Pato",
@@ -124,8 +124,8 @@
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 20,
-      "Time": "68:29"
+      "Score": 24,
+      "Time": "70:29"
     }
   ]
 }
