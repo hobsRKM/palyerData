@@ -1,47 +1,53 @@
 {
-  "Time": "2026-02-10T01:29:00.4993617Z",
+  "Time": "2026-02-10T01:31:00.4906172Z",
   "Players": [
-    {
-      "Name": "googie",
-      "Steam": "76561199881237918",
-      "Score": 30,
-      "Time": "41:58"
-    },
     {
       "Name": "bawlz",
       "Steam": "76561198180564201",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "premier",
+      "Steam": "76561198739872706",
+      "Score": 0,
+      "Time": "00:32"
     },
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "furry femboy twink",
       "Steam": "76561199770317821",
-      "Score": 15,
-      "Time": "65:21"
+      "Score": 19,
+      "Time": "67:21"
+    },
+    {
+      "Name": "##2RICH2FAMOUS {woahd}",
+      "Steam": "76561199757543292",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "red trust factor",
       "Steam": "76561199878160233",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "SINGDEPP",
       "Steam": "76561199445399217",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Joe Shmoe",
       "Steam": "76561199848482186",
-      "Score": 14,
-      "Time": "06:14"
+      "Score": 18,
+      "Time": "08:14"
     }
   ]
 }
