@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-10T06:17:59.5615326Z",
+  "Time": "2026-02-10T06:19:59.5618963Z",
   "Players": [
+    {
+      "Name": "Nx",
+      "Steam": "76561198750237829",
+      "Score": 0,
+      "Time": "00:07"
+    },
     {
       "Name": "Dalva Vagabunda",
       "Steam": "76561198740034682",
-      "Score": 49,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "George Floyd",
       "Steam": "76561198739034164",
-      "Score": 27,
+      "Score": 33,
       "Time": "??:??"
     }
   ]
