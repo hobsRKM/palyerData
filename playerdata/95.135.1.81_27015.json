@@ -1,29 +1,41 @@
 {
-  "Time": "2026-02-10T16:47:42.3745714Z",
+  "Time": "2026-02-10T16:49:42.3795593Z",
   "Players": [
     {
       "Name": "Danz Hun",
       "Steam": "76561198160571123",
-      "Score": 82,
+      "Score": 86,
+      "Time": "??:??"
+    },
+    {
+      "Name": "marcus51297",
+      "Steam": "76561198753965896",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bored.",
       "Steam": "76561199634244736",
-      "Score": 21,
-      "Time": "20:16"
+      "Score": 0,
+      "Time": "22:16"
     },
     {
       "Name": "No land penalty abuser",
       "Steam": "76561198162520186",
-      "Score": 68,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": ">_<",
       "Steam": "76561197963183861",
-      "Score": 2,
-      "Time": "911:21"
+      "Score": 6,
+      "Time": "913:21"
+    },
+    {
+      "Name": "CatGrill",
+      "Steam": "76561199437053021",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "\"'",
@@ -34,20 +46,14 @@
     {
       "Name": "SM3RF",
       "Steam": "76561199267532979",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "nagibator3000",
       "Steam": "76561199889583542",
       "Score": 2,
-      "Time": "16:46"
-    },
-    {
-      "Name": "annabellewilda06",
-      "Steam": "76561199703110250",
-      "Score": 18,
-      "Time": "??:??"
+      "Time": "18:46"
     }
   ]
 }
