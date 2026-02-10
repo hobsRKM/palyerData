@@ -1,53 +1,47 @@
 {
-  "Time": "2026-02-10T19:09:42.4291904Z",
+  "Time": "2026-02-10T19:11:42.4371115Z",
   "Players": [
+    {
+      "Name": "Juice Perc",
+      "Steam": "76561198739055719",
+      "Score": 0,
+      "Time": "451:30"
+    },
     {
       "Name": "marcus51297",
       "Steam": "76561198753965896",
-      "Score": 23,
-      "Time": "55:10"
+      "Score": 32,
+      "Time": "57:10"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 24,
-      "Time": "457:37"
+      "Score": 2,
+      "Time": "459:37"
     },
     {
       "Name": "Milosssss67",
       "Steam": "76561198775397789",
-      "Score": 2,
-      "Time": "288:58"
+      "Score": 3,
+      "Time": "290:58"
     },
     {
       "Name": "sigsauer",
       "Steam": "76561199042221496",
-      "Score": 36,
+      "Score": 41,
       "Time": "??:??"
-    },
-    {
-      "Name": "eloquence",
-      "Steam": "76561198312133731",
-      "Score": 8,
-      "Time": "70:49"
     },
     {
       "Name": "propagulum",
       "Steam": "76561199152040078",
       "Score": 8,
-      "Time": "1177:21"
+      "Time": "1179:21"
     },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "14:28"
-    },
-    {
-      "Name": "bosubosu773",
-      "Steam": "76561198740181465",
-      "Score": 1,
-      "Time": "06:29"
+      "Time": "16:28"
     },
     {
       "Name": "\"'",
@@ -58,26 +52,20 @@
     {
       "Name": "Staszek",
       "Steam": "76561199407935025",
-      "Score": 22,
-      "Time": "230:16"
+      "Score": 28,
+      "Time": "232:16"
     },
     {
       "Name": "Gracjan Żęfę",
       "Steam": "76561198738150949",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
-      "Score": 37,
-      "Time": "969:37"
-    },
-    {
-      "Name": "nixwareuser",
-      "Steam": "76561198745332088",
-      "Score": 2,
-      "Time": "12:25"
+      "Score": 48,
+      "Time": "971:37"
     }
   ]
 }
