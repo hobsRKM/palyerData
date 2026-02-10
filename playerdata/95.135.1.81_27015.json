@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-10T01:26:15.2833411Z",
+  "Time": "2026-02-10T01:28:15.2862804Z",
   "Players": [
     {
       "Name": "e3",
@@ -10,26 +10,26 @@
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "png",
       "Steam": "76561199753268044",
-      "Score": 37,
-      "Time": "60:41"
+      "Score": 41,
+      "Time": "62:41"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 22,
-      "Time": "49:40"
+      "Score": 0,
+      "Time": "51:40"
     },
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 21,
-      "Time": "08:51"
+      "Score": 24,
+      "Time": "10:51"
     },
     {
       "Name": "ZwMapViewOfSection",
@@ -40,20 +40,20 @@
     {
       "Name": "Derkstaware",
       "Steam": "76561199247064145",
-      "Score": 33,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 21,
-      "Time": "05:14"
+      "Score": 27,
+      "Time": "07:14"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 6,
-      "Time": "46:35"
+      "Score": 0,
+      "Time": "48:35"
     },
     {
       "Name": "vova",
@@ -64,8 +64,14 @@
     {
       "Name": "☽",
       "Steam": "76561199680474626",
+      "Score": 15,
+      "Time": "09:44"
+    },
+    {
+      "Name": "Zickzacko Flickflacko",
+      "Steam": "76561198768950394",
       "Score": 0,
-      "Time": "07:44"
+      "Time": "00:08"
     }
   ]
 }
