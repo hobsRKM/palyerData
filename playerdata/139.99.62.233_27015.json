@@ -1,32 +1,32 @@
 {
-  "Time": "2026-02-10T12:43:19.8415204Z",
+  "Time": "2026-02-10T12:45:19.8435021Z",
   "Players": [
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
-      "Time": "65:41"
+      "Score": 6,
+      "Time": "67:41"
     },
     {
-      "Name": "eternity.lua   One Shot",
+      "Name": "eternity.lua  One Shot",
       "Steam": "76561198743519060",
-      "Score": 31,
-      "Time": "64:56"
+      "Score": 35,
+      "Time": "66:56"
     },
     {
       "Name": "Я обманщик",
       "Steam": "76561198739531406",
       "Score": 10,
-      "Time": "64:27"
+      "Time": "66:27"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
       "Score": 30,
-      "Time": "59:14"
+      "Time": "61:14"
     },
     {
-      "Name": "Я обманщик",
+      "Name": "MoMo",
       "Steam": "76561198221390104",
       "Score": 0,
       "Time": "??:??"
@@ -34,13 +34,19 @@
     {
       "Name": "1",
       "Steam": "76561199163976232",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "MoMo",
       "Steam": "76561198991432914",
-      "Score": 11,
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vector",
+      "Steam": "76561198740113507",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
