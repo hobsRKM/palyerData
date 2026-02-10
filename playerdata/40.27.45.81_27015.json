@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-10T16:32:15.7027639Z",
+  "Time": "2026-02-10T16:34:15.7061478Z",
   "Players": [
+    {
+      "Name": "raf",
+      "Steam": "76561198398976448",
+      "Score": 4,
+      "Time": "01:02"
+    },
     {
       "Name": "mrgetitdoneJR",
       "Steam": "76561199479457727",
-      "Score": 10,
-      "Time": "21:35"
+      "Score": 12,
+      "Time": "23:35"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 58,
-      "Time": "94:07"
+      "Score": 76,
+      "Time": "96:07"
     },
     {
       "Name": "Joe drugz",
       "Steam": "76561199848482186",
       "Score": 54,
-      "Time": "106:50"
+      "Time": "108:50"
     },
     {
       "Name": "Metalware-dinkbot",
@@ -28,7 +34,13 @@
     {
       "Name": "MastermindOfCheating #iLoveHacks",
       "Steam": "76561198277834696",
-      "Score": 44,
+      "Score": 48,
+      "Time": "??:??"
+    },
+    {
+      "Name": "HÈñ†ÄÌ",
+      "Steam": "76561199821781008",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
