@@ -1,23 +1,35 @@
 {
-  "Time": "2026-02-10T05:33:00.4921797Z",
+  "Time": "2026-02-10T05:35:00.4885689Z",
   "Players": [
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 22,
-      "Time": "78:30"
+      "Score": 32,
+      "Time": "80:30"
+    },
+    {
+      "Name": "mc32gaming",
+      "Steam": "76561198754104756",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Lorenisalone",
       "Steam": "76561199137214616",
-      "Score": 6,
-      "Time": "03:37"
+      "Score": 8,
+      "Time": "05:37"
+    },
+    {
+      "Name": "XXⅠ",
+      "Steam": "76561198762281843",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 6,
-      "Time": "82:18"
+      "Score": 7,
+      "Time": "84:18"
     }
   ]
 }
