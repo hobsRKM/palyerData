@@ -1,4 +1,35 @@
 {
-  "Time": "2026-02-10T23:48:15.1576832Z",
-  "Players": []
+  "Time": "2026-02-10T23:49:12.165805Z",
+  "Players": [
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 16,
+      "Time": "27:20"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198750080629",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "testing nixware beta",
+      "Steam": "76561198748840225",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hage Reborn",
+      "Steam": "76561199754918087",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "raf",
+      "Steam": "76561198398976448",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
