@@ -1,16 +1,28 @@
 {
-  "Time": "2026-02-11T23:30:16.3696729Z",
+  "Time": "2026-02-11T23:32:16.3768837Z",
   "Players": [
+    {
+      "Name": "im just #2rich2famous",
+      "Steam": "76561199757543292",
+      "Score": 0,
+      "Time": "01:46"
+    },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 2,
-      "Time": "01:42"
+      "Score": 8,
+      "Time": "03:42"
     },
     {
       "Name": "Natalie",
       "Steam": "76561198744527182",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 10,
       "Time": "??:??"
     }
   ]
