@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-11T05:18:42.3401287Z",
+  "Time": "2026-02-11T05:20:42.3401935Z",
   "Players": [
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 0,
-      "Time": "00:27"
+      "Score": 4,
+      "Time": "02:27"
     },
     {
-      "Name": "rnity.lua        One Shot",
+      "Name": "One Shot",
       "Steam": "76561198743519060",
-      "Score": 0,
-      "Time": "00:19"
+      "Score": 2,
+      "Time": "02:19"
+    },
+    {
+      "Name": "ec0o",
+      "Steam": "76561199208133080",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
