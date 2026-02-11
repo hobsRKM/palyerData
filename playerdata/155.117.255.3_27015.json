@@ -1,4 +1,29 @@
 {
-  "Time": "2026-02-11T01:54:16.6079249Z",
-  "Players": []
+  "Time": "2026-02-11T01:55:12.1639211Z",
+  "Players": [
+    {
+      "Name": "testing nixware beta",
+      "Steam": "76561198748840225",
+      "Score": 80,
+      "Time": "36:00"
+    },
+    {
+      "Name": "raf",
+      "Steam": "76561198398976448",
+      "Score": 53,
+      "Time": "46:43"
+    },
+    {
+      "Name": "a1most",
+      "Steam": "76561199850792459",
+      "Score": 37,
+      "Time": "28:45"
+    },
+    {
+      "Name": "femboy enjoyer",
+      "Steam": "76561199158419168",
+      "Score": 35,
+      "Time": "??:??"
+    }
+  ]
 }
