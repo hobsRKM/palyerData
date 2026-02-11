@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-11T18:30:52.8541954Z",
+  "Time": "2026-02-11T18:32:52.8538257Z",
   "Players": [
+    {
+      "Name": "K",
+      "Steam": "76561198787397270",
+      "Score": 0,
+      "Time": "00:02"
+    },
     {
       "Name": "Dean",
       "Steam": "76561198333292313",
-      "Score": 26,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "percoset",
       "Steam": "76561198293312486",
-      "Score": 34,
-      "Time": "16:40"
+      "Score": 36,
+      "Time": "18:40"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 34,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "ุ",
       "Steam": "76561198740830909",
-      "Score": 19,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "swag for sale",
       "Steam": "76561199059830928",
-      "Score": 19,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
