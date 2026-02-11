@@ -1,65 +1,41 @@
 {
-  "Time": "2026-02-11T00:43:12.1625775Z",
+  "Time": "2026-02-11T00:44:15.9251136Z",
   "Players": [
+    {
+      "Name": "angelo",
+      "Steam": "76561199170106607",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dean Witherspoon",
+      "Steam": "76561198333292313",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dripler88",
+      "Steam": "76561198901575526",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ozai",
+      "Steam": "76561199156395215",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Goon King",
       "Steam": "76561198784560984",
-      "Score": 6,
-      "Time": "11:18"
-    },
-    {
-      "Name": "testing nixware beta",
-      "Steam": "76561198748840225",
-      "Score": 4,
+      "Score": 3,
       "Time": "??:??"
     },
     {
-      "Name": "a1most",
-      "Steam": "76561199850792459",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "\uD835\uDD78\uD835\uDD86\uD835\uDD8C\uD835\uDD74\uD835\uDD6E~",
-      "Steam": "76561199847040655",
-      "Score": 8,
-      "Time": "17:46"
-    },
-    {
-      "Name": "premier",
-      "Steam": "76561198739872706",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "im just #2rich2famous",
-      "Steam": "76561199757543292",
-      "Score": 23,
-      "Time": "18:20"
-    },
-    {
-      "Name": "bawlz",
-      "Steam": "76561198180564201",
-      "Score": 18,
-      "Time": "??:??"
-    },
-    {
-      "Name": "wren",
-      "Steam": "76561199040150834",
-      "Score": 19,
-      "Time": "??:??"
-    },
-    {
-      "Name": "123",
-      "Steam": "76561199805557263",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "acid",
-      "Steam": "76561198246049132",
+      "Name": "Charlie K",
+      "Steam": "76561198740380712",
       "Score": 0,
-      "Time": "00:10"
+      "Time": "??:??"
     }
   ]
 }
