@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-11T23:09:31.6956133Z",
+  "Time": "2026-02-11T23:11:31.7023058Z",
   "Players": [
+    {
+      "Name": "tookhishead",
+      "Steam": "76561198743017122",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
@@ -10,19 +16,19 @@
     {
       "Name": "bobyfilmer",
       "Steam": "76561198756806602",
-      "Score": 29,
-      "Time": "33:17"
+      "Score": 39,
+      "Time": "35:17"
     },
     {
       "Name": "freaky bob",
       "Steam": "76561199571154189",
-      "Score": 37,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "ching",
       "Steam": "76561198201144728",
-      "Score": 35,
+      "Score": 38,
       "Time": "??:??"
     },
     {
@@ -35,19 +41,19 @@
       "Name": "R1ck",
       "Steam": "76561199050470003",
       "Score": 17,
-      "Time": "08:20"
+      "Time": "10:20"
     },
     {
       "Name": "carol-ferrari",
       "Steam": "76561199888712972",
       "Score": 3,
-      "Time": "40:48"
+      "Time": "42:48"
     },
     {
       "Name": "scommeR\uD83D\uDC51",
       "Steam": "76561199816841149",
       "Score": 2,
-      "Time": "01:20"
+      "Time": "03:20"
     }
   ]
 }
