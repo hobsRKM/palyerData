@@ -1,10 +1,16 @@
 {
-  "Time": "2026-02-11T21:53:31.702774Z",
+  "Time": "2026-02-11T21:55:31.7036968Z",
   "Players": [
+    {
+      "Name": "Mongol",
+      "Steam": "76561198376880879",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "kaktusior1",
       "Steam": "76561199510403300",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -22,26 +28,38 @@
     {
       "Name": "C",
       "Steam": "76561199867367978",
-      "Score": 6,
-      "Time": "01:18"
+      "Score": 12,
+      "Time": "03:18"
     },
     {
       "Name": "wilsonkevinmq8892427",
       "Steam": "76561199573800691",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "сводная сестра",
       "Steam": "76561199443038676",
-      "Score": 1,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "HELLBLADE",
+      "Steam": "76561198748036674",
+      "Score": 2,
+      "Time": "01:34"
+    },
+    {
+      "Name": "scommeR\uD83D\uDC51",
+      "Steam": "76561199816841149",
+      "Score": 0,
+      "Time": "01:33"
     },
     {
       "Name": "void",
       "Steam": "76561199503396912",
-      "Score": 2,
-      "Time": "61:40"
+      "Score": 7,
+      "Time": "63:40"
     }
   ]
 }
