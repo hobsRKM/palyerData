@@ -1,29 +1,41 @@
 {
-  "Time": "2026-02-11T18:33:31.6961707Z",
+  "Time": "2026-02-11T18:35:31.7027265Z",
   "Players": [
+    {
+      "Name": "xorfee",
+      "Steam": "76561198784943291",
+      "Score": 2,
+      "Time": "02:03"
+    },
     {
       "Name": "ROUDYHVH",
       "Steam": "76561198868632842",
-      "Score": 6,
-      "Time": "04:09"
-    },
-    {
-      "Name": "ss413940",
-      "Steam": "76561198746748078",
-      "Score": 0,
-      "Time": "04:36"
+      "Score": 9,
+      "Time": "06:09"
     },
     {
       "Name": "chadderhvh",
       "Steam": "76561198824806305",
-      "Score": 0,
-      "Time": "01:51"
+      "Score": 5,
+      "Time": "03:51"
+    },
+    {
+      "Name": "sigsauer",
+      "Steam": "76561199042221496",
+      "Score": 31,
+      "Time": "01:02"
     },
     {
       "Name": "davei",
       "Steam": "76561198760346143",
+      "Score": 1,
+      "Time": "31:39"
+    },
+    {
+      "Name": "tgnfmtr112087",
+      "Steam": "76561199887973132",
       "Score": 0,
-      "Time": "29:39"
+      "Time": "??:??"
     },
     {
       "Name": "\"'",
@@ -34,25 +46,25 @@
     {
       "Name": "Rick",
       "Steam": "76561199050470003",
-      "Score": 0,
-      "Time": "75:02"
+      "Score": 3,
+      "Time": "77:02"
     },
     {
       "Name": "krex",
       "Steam": "76561199814635907",
-      "Score": 57,
-      "Time": "39:46"
+      "Score": 60,
+      "Time": "41:46"
     },
     {
       "Name": "void",
       "Steam": "76561199503396912",
-      "Score": 14,
-      "Time": "08:50"
+      "Score": 24,
+      "Time": "10:50"
     },
     {
       "Name": "Davidd",
       "Steam": "76561199099674944",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -64,14 +76,14 @@
     {
       "Name": "kristis",
       "Steam": "76561199836464438",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "laxo",
       "Steam": "76561199631116344",
-      "Score": 28,
-      "Time": "09:21"
+      "Score": 41,
+      "Time": "11:21"
     }
   ]
 }
