@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-11T20:19:31.6955829Z",
+  "Time": "2026-02-11T20:21:31.6971565Z",
   "Players": [
     {
       "Name": "Noah111",
       "Steam": "76561198880699322",
-      "Score": 0,
-      "Time": "89:40"
+      "Score": 8,
+      "Time": "91:40"
     },
     {
       "Name": "Martin.",
       "Steam": "76561198216814801",
-      "Score": 30,
-      "Time": "43:24"
+      "Score": 34,
+      "Time": "45:24"
+    },
+    {
+      "Name": "toto",
+      "Steam": "76561199836077836",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "Boldi.",
       "Steam": "76561197984716724",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -28,13 +34,25 @@
     {
       "Name": "bobyfilmer",
       "Steam": "76561198756806602",
-      "Score": 87,
+      "Score": 91,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mail.georg.georg",
+      "Steam": "76561198738420779",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "im smoking crack on daily basis",
+      "Steam": "76561198739055234",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Anonym",
       "Steam": "76561199197182772",
-      "Score": 85,
+      "Score": 87,
       "Time": "??:??"
     },
     {
@@ -58,50 +76,44 @@
     {
       "Name": "Bean_",
       "Steam": "76561199096646407",
-      "Score": 35,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗwizu",
       "Steam": "76561198784574810",
-      "Score": 24,
-      "Time": "43:24"
+      "Score": 26,
+      "Time": "45:24"
     },
     {
       "Name": "hocus pocus",
       "Steam": "76561199888197236",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "kxucht_66",
       "Steam": "76561198790411491",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Umbral Exalted",
       "Steam": "76561198768077402",
-      "Score": 15,
-      "Time": "10:45"
+      "Score": 18,
+      "Time": "12:45"
     },
     {
       "Name": "Goodnight",
       "Steam": "76561199842369196",
-      "Score": 5,
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "carol-ferrari",
-      "Steam": "76561199888712972",
-      "Score": 0,
-      "Time": "10:36"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 52,
-      "Time": "44:18"
+      "Score": 57,
+      "Time": "46:18"
     }
   ]
 }
