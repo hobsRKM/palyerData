@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-11T07:46:23.8941919Z",
+  "Time": "2026-02-11T07:48:23.887405Z",
   "Players": [
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "V99U",
       "Steam": "76561199686908948",
-      "Score": 38,
-      "Time": "66:37"
+      "Score": 44,
+      "Time": "68:37"
     },
     {
       "Name": "one",
       "Steam": "76561199571686760",
-      "Score": 48,
-      "Time": "183:15"
+      "Score": 53,
+      "Time": "185:15"
     },
     {
       "Name": "²",
       "Steam": "76561198780177804",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     },
     {
-      "Name": "aimjunkies.net",
+      "Name": "radiance.lua aimjunkies.net",
       "Steam": "76561199571542085",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "milk",
       "Steam": "76561199740544730",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
