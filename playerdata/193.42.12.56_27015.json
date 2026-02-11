@@ -1,15 +1,27 @@
 {
-  "Time": "2026-02-11T16:51:31.7048792Z",
+  "Time": "2026-02-11T16:53:31.6975778Z",
   "Players": [
+    {
+      "Name": "davei",
+      "Steam": "76561198760346143",
+      "Score": 4,
+      "Time": "02:04"
+    },
     {
       "Name": "N1ger",
       "Steam": "76561198737346258",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "b$",
       "Steam": "76561198746624240",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Denisandrei",
+      "Steam": "76561199883814984",
       "Score": 0,
       "Time": "??:??"
     },
@@ -22,43 +34,37 @@
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗglobal",
       "Steam": "76561197963183861",
-      "Score": 5,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "ozxu",
       "Steam": "76561199137466965",
-      "Score": 66,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "dimethyltryptamine",
       "Steam": "76561199033699844",
-      "Score": 57,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "fentlover123",
       "Steam": "76561199136741331",
-      "Score": 6,
-      "Time": "02:03"
+      "Score": 4,
+      "Time": "04:03"
     },
     {
       "Name": ".",
       "Steam": "76561198770779132",
-      "Score": 64,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "Suzuya Juuzou )0):;3;2",
       "Steam": "76561199653952112",
       "Score": 3,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Charlie Kirk",
-      "Steam": "76561199667815592",
-      "Score": 11,
       "Time": "??:??"
     }
   ]
