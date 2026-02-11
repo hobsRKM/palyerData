@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-11T18:32:52.8538257Z",
+  "Time": "2026-02-11T18:34:52.8576624Z",
   "Players": [
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 0,
-      "Time": "00:02"
+      "Score": 1,
+      "Time": "02:02"
     },
     {
       "Name": "Dean",
       "Steam": "76561198333292313",
-      "Score": 29,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "percoset",
       "Steam": "76561198293312486",
-      "Score": 36,
-      "Time": "18:40"
+      "Score": 47,
+      "Time": "20:40"
+    },
+    {
+      "Name": "Chester Huckingburg",
+      "Steam": "76561199170106607",
+      "Score": 4,
+      "Time": "00:43"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 43,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "ุ",
       "Steam": "76561198740830909",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
@@ -40,7 +46,7 @@
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
