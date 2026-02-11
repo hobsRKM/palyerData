@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-11T19:29:31.6935931Z",
+  "Time": "2026-02-11T19:31:31.7028712Z",
   "Players": [
+    {
+      "Name": "Bruno Silva",
+      "Steam": "76561198739523143",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
       "Steam": "76561198341012123",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
-      "Score": 25,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Anonym",
       "Steam": "76561199197182772",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -28,20 +34,14 @@
     {
       "Name": "Staszek",
       "Steam": "76561199407935025",
-      "Score": 47,
-      "Time": "22:11"
-    },
-    {
-      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗwizu",
-      "Steam": "76561198784574810",
-      "Score": 0,
-      "Time": "14:07"
+      "Score": 55,
+      "Time": "24:11"
     },
     {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
-      "Score": 9,
-      "Time": "41:21"
+      "Score": 0,
+      "Time": "43:21"
     },
     {
       "Name": "Umbral Exalted",
@@ -52,44 +52,44 @@
     {
       "Name": "tymo--",
       "Steam": "76561199425592793",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "nixwareuser",
       "Steam": "76561198745332088",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "spoke4520",
       "Steam": "76561198770122963",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Goodnight",
       "Steam": "76561199842369196",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "ᶜʰᵃᵐᵖ win>acc",
       "Steam": "76561199498192347",
-      "Score": 10,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "laxo",
       "Steam": "76561199631116344",
-      "Score": 31,
-      "Time": "10:00"
+      "Score": 39,
+      "Time": "12:00"
     },
     {
       "Name": "xspymer837667",
       "Steam": "76561199781811309",
-      "Score": 18,
-      "Time": "14:05"
+      "Score": 20,
+      "Time": "16:05"
     }
   ]
 }
