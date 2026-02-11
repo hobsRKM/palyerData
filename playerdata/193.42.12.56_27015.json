@@ -1,10 +1,16 @@
 {
-  "Time": "2026-02-11T16:59:31.6967235Z",
+  "Time": "2026-02-11T17:01:31.7008359Z",
   "Players": [
     {
       "Name": "b$",
       "Steam": "76561198746624240",
-      "Score": 19,
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Кирпич",
+      "Steam": "76561199828406604",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -16,7 +22,7 @@
     {
       "Name": "\uD835\uDC25\uD835\uDC22\uD835\uDC1F\uD835\uDC1E \uD835\uDC1E\uD835\uDC27\uD835\uDC23",
       "Steam": "76561199590377764",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
@@ -34,24 +40,30 @@
     {
       "Name": "Marty",
       "Steam": "76561198824806305",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "молочный зубик",
       "Steam": "76561198750628734",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Noah111",
       "Steam": "76561198880699322",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "AWP/son-ebet",
       "Steam": "76561198776106482",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "CCC",
+      "Steam": "76561198765297932",
       "Score": 0,
       "Time": "??:??"
     },
@@ -64,37 +76,37 @@
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗglobal",
       "Steam": "76561197963183861",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "LIFEHAAACK BITCH (◣_◢)",
+      "Steam": "76561198431997616",
+      "Score": 0,
+      "Time": "01:25"
     },
     {
       "Name": "upogic9",
       "Steam": "76561199064370741",
-      "Score": 15,
-      "Time": "03:53"
+      "Score": 0,
+      "Time": "05:53"
     },
     {
       "Name": "ozxu",
       "Steam": "76561199137466965",
-      "Score": 79,
-      "Time": "??:??"
-    },
-    {
-      "Name": "dimethyltryptamine",
-      "Steam": "76561199033699844",
-      "Score": 61,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "fentlover123",
       "Steam": "76561199136741331",
-      "Score": 2,
-      "Time": "10:03"
+      "Score": 6,
+      "Time": "12:03"
     },
     {
       "Name": ".",
       "Steam": "76561198770779132",
-      "Score": 98,
+      "Score": 103,
       "Time": "??:??"
     },
     {
@@ -102,12 +114,6 @@
       "Steam": "76561199653952112",
       "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "Charlie Kirk",
-      "Steam": "76561199667815592",
-      "Score": 12,
-      "Time": "01:13"
     }
   ]
 }
