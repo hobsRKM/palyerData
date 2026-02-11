@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-11T23:37:57.2290608Z",
+  "Time": "2026-02-11T23:39:57.2248815Z",
   "Players": [
+    {
+      "Name": "mawlek",
+      "Steam": "76561197966745469",
+      "Score": 0,
+      "Time": "00:03"
+    },
     {
       "Name": "yamobaba",
       "Steam": "76561199098313199",
-      "Score": 19,
-      "Time": "78:57"
+      "Score": 25,
+      "Time": "80:57"
     },
     {
       "Name": "eternity.lua     Supreme Gay Warlord",
       "Steam": "76561198076244219",
-      "Score": 27,
-      "Time": "34:21"
+      "Score": 34,
+      "Time": "36:21"
     },
     {
       "Name": "CP",
       "Steam": "76561198738082002",
       "Score": 6,
-      "Time": "07:09"
+      "Time": "09:09"
     }
   ]
 }
