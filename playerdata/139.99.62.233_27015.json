@@ -1,28 +1,34 @@
 {
-  "Time": "2026-02-11T07:12:42.3354472Z",
+  "Time": "2026-02-11T07:14:42.3361329Z",
   "Players": [
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 35,
-      "Time": "32:56"
+      "Score": 37,
+      "Time": "34:56"
     },
     {
       "Name": "Fenrir",
       "Steam": "76561199848325599",
-      "Score": 35,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "DAЯK",
       "Steam": "76561199879290767",
-      "Score": 46,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "YASHMC",
       "Steam": "76561198741332606",
-      "Score": 6,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "simple",
+      "Steam": "76561199864746898",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
