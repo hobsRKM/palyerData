@@ -1,4 +1,35 @@
 {
-  "Time": "2026-02-11T23:56:15.2278557Z",
-  "Players": []
+  "Time": "2026-02-11T23:57:09.5446485Z",
+  "Players": [
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 40,
+      "Time": "12:12"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198750080629",
+      "Score": 77,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cheeziepooh",
+      "Steam": "76561198273566562",
+      "Score": 4,
+      "Time": "04:30"
+    },
+    {
+      "Name": "femboy enjoyer",
+      "Steam": "76561199158419168",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "salahor_demic",
+      "Steam": "76561198744061045",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
