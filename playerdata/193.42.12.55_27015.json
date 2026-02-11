@@ -1,4 +1,59 @@
 {
-  "Time": "2026-02-11T11:59:05.7081846Z",
-  "Players": []
+  "Time": "2026-02-11T12:00:31.305655Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mock",
+      "Steam": "76561198755398524",
+      "Score": 17,
+      "Time": "05:02"
+    },
+    {
+      "Name": "Trollin.",
+      "Steam": "76561198756732356",
+      "Score": 27,
+      "Time": "27:41"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗwizu",
+      "Steam": "76561198784574810",
+      "Score": 2,
+      "Time": "00:38"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
+      "Steam": "76561197963250432",
+      "Score": 24,
+      "Time": "05:13"
+    },
+    {
+      "Name": "C",
+      "Steam": "76561199867367978",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "suleyman magnificul",
+      "Steam": "76561199831121757",
+      "Score": 2,
+      "Time": "00:37"
+    },
+    {
+      "Name": "CallMeSpoofer",
+      "Steam": "76561199026396251",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sato #SpreadSquad",
+      "Steam": "76561199732115959",
+      "Score": 35,
+      "Time": "10:55"
+    }
+  ]
 }
