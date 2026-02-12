@@ -1,4 +1,23 @@
 {
-  "Time": "2026-02-12T00:00:15.2278415Z",
-  "Players": []
+  "Time": "2026-02-12T00:01:09.5432666Z",
+  "Players": [
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 0,
+      "Time": "16:12"
+    },
+    {
+      "Name": "femboy enjoyer",
+      "Steam": "76561199158419168",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "salahor_demic",
+      "Steam": "76561198744061045",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
