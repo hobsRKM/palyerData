@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-12T05:27:35.6221113Z",
+  "Time": "2026-02-12T05:29:35.6192645Z",
   "Players": [
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
       "Score": 0,
-      "Time": "06:32"
+      "Time": "08:32"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198784581696",
+      "Score": 0,
+      "Time": "01:31"
     },
     {
       "Name": "Ali Biçim",
       "Steam": "76561199825716736",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "freaky bob",
       "Steam": "76561199571154189",
-      "Score": 20,
-      "Time": "05:15"
+      "Score": 26,
+      "Time": "07:15"
     },
     {
       "Name": "davei",
@@ -28,20 +34,26 @@
     {
       "Name": "peter09010",
       "Steam": "76561198739635625",
-      "Score": 29,
-      "Time": "134:59"
+      "Score": 31,
+      "Time": "136:59"
     },
     {
       "Name": "nix hvh?",
       "Steam": "76561199792922911",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 22,
-      "Time": "107:12"
+      "Score": 28,
+      "Time": "109:12"
+    },
+    {
+      "Name": "[Mono] ScommerOfc",
+      "Steam": "76561199816841149",
+      "Score": 2,
+      "Time": "01:12"
     }
   ]
 }
