@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-12T03:31:43.034323Z",
+  "Time": "2026-02-12T03:33:43.0372936Z",
   "Players": [
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "aat",
       "Steam": "76561199403849529",
-      "Score": 91,
+      "Score": 93,
       "Time": "??:??"
     },
     {
       "Name": "angelafreefire",
       "Steam": "76561199482354544",
-      "Score": 48,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 69,
+      "Score": 71,
       "Time": "??:??"
+    },
+    {
+      "Name": "bobbyshmurda",
+      "Steam": "76561199080130423",
+      "Score": 0,
+      "Time": "00:30"
     }
   ]
 }
