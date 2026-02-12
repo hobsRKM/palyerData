@@ -1,47 +1,53 @@
 {
-  "Time": "2026-02-12T04:21:43.0427529Z",
+  "Time": "2026-02-12T04:23:43.0387895Z",
   "Players": [
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 36,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 16,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "schrödinger",
       "Steam": "76561199813507603",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Amos Yee",
       "Steam": "76561199588690188",
-      "Score": 12,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jon",
+      "Steam": "76561198779927030",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "bobbyshmurda",
       "Steam": "76561199080130423",
-      "Score": 17,
-      "Time": "11:51"
+      "Score": 21,
+      "Time": "13:51"
     },
     {
       "Name": "luckbot",
       "Steam": "76561198759125966",
-      "Score": 6,
-      "Time": "02:42"
+      "Score": 0,
+      "Time": "04:42"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 52,
-      "Time": "29:29"
+      "Score": 58,
+      "Time": "31:29"
     }
   ]
 }
