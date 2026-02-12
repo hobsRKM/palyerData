@@ -1,9 +1,15 @@
 {
-  "Time": "2026-02-12T16:51:29.7394016Z",
+  "Time": "2026-02-12T16:53:29.7435517Z",
   "Players": [
     {
       "Name": "e3",
       "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗUgy",
+      "Steam": "76561198274193245",
       "Score": 0,
       "Time": "??:??"
     },
@@ -28,8 +34,14 @@
     {
       "Name": "wappam",
       "Steam": "76561198737743632",
-      "Score": 38,
-      "Time": "21:08"
+      "Score": 40,
+      "Time": "23:08"
+    },
+    {
+      "Name": "ᶜʰᵃᵐᵖ win>acc",
+      "Steam": "76561199498192347",
+      "Score": 3,
+      "Time": "01:38"
     },
     {
       "Name": "rug1na",
@@ -40,38 +52,38 @@
     {
       "Name": "standing on perc",
       "Steam": "76561198325864747",
-      "Score": 0,
-      "Time": "47:15"
+      "Score": 9,
+      "Time": "49:15"
     },
     {
       "Name": "hocus pocus",
       "Steam": "76561199888197236",
-      "Score": 65,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "Charlie",
       "Steam": "76561199070756563",
-      "Score": 10,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "zeny",
       "Steam": "76561199225041096",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 61,
-      "Time": "55:18"
+      "Score": 63,
+      "Time": "57:18"
     },
     {
       "Name": "dotted",
       "Steam": "76561199682061013",
       "Score": 0,
-      "Time": "03:24"
+      "Time": "05:24"
     }
   ]
 }
