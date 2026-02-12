@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-12T15:57:29.7432193Z",
+  "Time": "2026-02-12T15:59:29.736517Z",
   "Players": [
     {
       "Name": "e3",
@@ -11,13 +11,13 @@
       "Name": "mock",
       "Steam": "76561198755398524",
       "Score": 2,
-      "Time": "86:27"
+      "Time": "88:27"
     },
     {
       "Name": "Ferox",
       "Steam": "76561199377440484",
       "Score": 0,
-      "Time": "65:12"
+      "Time": "67:12"
     },
     {
       "Name": "vIOLETTE",
@@ -28,13 +28,19 @@
     {
       "Name": "privacy",
       "Steam": "76561199814635907",
-      "Score": 31,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "eTempleWar | TempleWare",
+      "Steam": "76561199345794754",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Noah111",
       "Steam": "76561198880699322",
-      "Score": 6,
+      "Score": 15,
       "Time": "??:??"
     },
     {
@@ -47,37 +53,31 @@
       "Name": "Timee",
       "Steam": "76561199206658984",
       "Score": 0,
-      "Time": "01:18"
+      "Time": "03:18"
     },
     {
       "Name": "suspect",
       "Steam": "76561199469674316",
       "Score": 14,
-      "Time": "23:59"
-    },
-    {
-      "Name": "z",
-      "Steam": "76561199104286406",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "25:59"
     },
     {
       "Name": ">.<",
       "Steam": "76561199042138318",
-      "Score": 38,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "laxo",
       "Steam": "76561199631116344",
-      "Score": 6,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "dolu sigarayı ters tut",
       "Steam": "76561198784574810",
-      "Score": 7,
-      "Time": "11:43"
+      "Score": 6,
+      "Time": "13:43"
     }
   ]
 }
