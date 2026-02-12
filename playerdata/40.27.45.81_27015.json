@@ -1,22 +1,22 @@
 {
-  "Time": "2026-02-12T02:09:43.03781Z",
+  "Time": "2026-02-12T02:11:43.03753Z",
   "Players": [
+    {
+      "Name": "Dean",
+      "Steam": "76561198333292313",
+      "Score": 2,
+      "Time": "01:08"
+    },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 25,
-      "Time": "31:04"
+      "Score": 35,
+      "Time": "33:04"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 54,
-      "Time": "??:??"
-    },
-    {
-      "Name": "vapiehvh132altalt",
-      "Steam": "76561198739600172",
-      "Score": 6,
+      "Score": 60,
       "Time": "??:??"
     }
   ]
