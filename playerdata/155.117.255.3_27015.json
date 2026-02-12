@@ -1,4 +1,53 @@
 {
-  "Time": "2026-02-12T02:28:15.2278325Z",
-  "Players": []
+  "Time": "2026-02-12T02:29:09.5472042Z",
+  "Players": [
+    {
+      "Name": "y",
+      "Steam": "76561198738970330",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mocha",
+      "Steam": "76561199230305577",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hedi slimane",
+      "Steam": "76561198738883971",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kimil",
+      "Steam": "76561199040150834",
+      "Score": 0,
+      "Time": "00:36"
+    },
+    {
+      "Name": "mrgetitdoneJR",
+      "Steam": "76561199479457727",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "icedancer",
+      "Steam": "76561197995675648",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "B3rJlinJless (russian spy)",
+      "Steam": "76561199806232223",
+      "Score": 6,
+      "Time": "12:29"
+    },
+    {
+      "Name": "0x32E9C20",
+      "Steam": "76561199880717233",
+      "Score": 4,
+      "Time": "13:07"
+    }
+  ]
 }
