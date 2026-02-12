@@ -1,22 +1,34 @@
 {
-  "Time": "2026-02-12T01:17:43.0390229Z",
+  "Time": "2026-02-12T01:19:43.0406159Z",
   "Players": [
+    {
+      "Name": "femboy enjoyer",
+      "Steam": "76561199158419168",
+      "Score": 0,
+      "Time": "00:27"
+    },
     {
       "Name": "Natalie",
       "Steam": "76561198744527182",
-      "Score": 2,
-      "Time": "06:00"
+      "Score": 8,
+      "Time": "08:00"
     },
     {
       "Name": "bobbyshmurda",
       "Steam": "76561199080130423",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 3,
+      "Time": "00:18"
     },
     {
       "Name": "Metalware-dinkbot",
       "Steam": "76561198738286507",
-      "Score": 4,
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "luckbot",
+      "Steam": "76561198759125966",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
