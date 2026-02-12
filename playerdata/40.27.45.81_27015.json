@@ -1,69 +1,69 @@
 {
-  "Time": "2026-02-12T04:47:43.0413299Z",
+  "Time": "2026-02-12T04:49:43.047626Z",
   "Players": [
+    {
+      "Name": "icedancer",
+      "Steam": "76561197995675648",
+      "Score": 0,
+      "Time": "06:49"
+    },
     {
       "Name": "a1most",
       "Steam": "76561199086055255",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 82,
+      "Score": 83,
       "Time": "??:??"
     },
     {
       "Name": "John Michael Dingle",
       "Steam": "76561198901575526",
-      "Score": 5,
-      "Time": "08:51"
+      "Score": 0,
+      "Time": "10:51"
     },
     {
       "Name": "percoset",
       "Steam": "76561198293312486",
       "Score": 33,
-      "Time": "15:49"
+      "Time": "17:49"
     },
     {
       "Name": "Chester Huckingburg",
       "Steam": "76561199170106607",
-      "Score": 4,
-      "Time": "08:52"
+      "Score": 5,
+      "Time": "10:52"
     },
     {
       "Name": "Real demon",
       "Steam": "76561199844175645",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
-      "Score": 12,
-      "Time": "06:32"
+      "Score": 15,
+      "Time": "08:32"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 89,
+      "Score": 91,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561198738970330",
       "Score": 9,
-      "Time": "11:33"
+      "Time": "13:33"
     },
     {
       "Name": "yuka",
       "Steam": "76561198994825781",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "sithlordtrump",
-      "Steam": "76561198740457549",
       "Score": 0,
       "Time": "??:??"
     },
@@ -76,32 +76,38 @@
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 41,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Bleh",
       "Steam": "76561199863894026",
-      "Score": 11,
-      "Time": "09:25"
+      "Score": 18,
+      "Time": "11:25"
     },
     {
       "Name": "NATHAN B. ##BSQUAD",
       "Steam": "76561198758437919",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Zys",
+      "Steam": "76561198753938605",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "luckbot",
       "Steam": "76561198759125966",
-      "Score": 77,
-      "Time": "28:42"
+      "Score": 79,
+      "Time": "30:42"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 112,
-      "Time": "55:29"
+      "Score": 120,
+      "Time": "57:29"
     }
   ]
 }
