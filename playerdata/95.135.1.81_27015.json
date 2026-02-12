@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-12T16:09:29.7323106Z",
+  "Time": "2026-02-12T16:11:29.7369132Z",
   "Players": [
     {
       "Name": "e3",
@@ -10,18 +10,24 @@
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 23,
-      "Time": "98:27"
+      "Score": 35,
+      "Time": "100:27"
     },
     {
       "Name": "Ferox",
       "Steam": "76561199377440484",
-      "Score": 0,
-      "Time": "77:12"
+      "Score": 8,
+      "Time": "79:12"
     },
     {
       "Name": "kintura",
       "Steam": "76561198740076805",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Seoul999",
+      "Steam": "76561198051992092",
       "Score": 0,
       "Time": "??:??"
     },
@@ -32,25 +38,19 @@
       "Time": "??:??"
     },
     {
-      "Name": "@airduckexploit",
-      "Steam": "76561199551519434",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "privacy",
       "Steam": "76561199814635907",
-      "Score": 40,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Blank",
       "Steam": "76561198751950264",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "eTempleWar | TempleWare",
+      "Name": "eWareTempl | TempleWare",
       "Steam": "76561199345794754",
       "Score": 2,
       "Time": "??:??"
@@ -58,14 +58,14 @@
     {
       "Name": "gamer jeff",
       "Steam": "76561198820870178",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "standing on perc",
       "Steam": "76561198325864747",
-      "Score": 3,
-      "Time": "05:15"
+      "Score": 2,
+      "Time": "07:15"
     },
     {
       "Name": "hocus pocus",
@@ -76,8 +76,14 @@
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 16,
-      "Time": "13:18"
+      "Score": 20,
+      "Time": "15:18"
+    },
+    {
+      "Name": "laxo",
+      "Steam": "76561199631116344",
+      "Score": 0,
+      "Time": "01:42"
     }
   ]
 }
