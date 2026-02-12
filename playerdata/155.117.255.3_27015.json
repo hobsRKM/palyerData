@@ -1,4 +1,35 @@
 {
-  "Time": "2026-02-12T21:12:12.2267514Z",
-  "Players": []
+  "Time": "2026-02-12T21:13:13.785951Z",
+  "Players": [
+    {
+      "Name": "one",
+      "Steam": "76561199571686760",
+      "Score": 2,
+      "Time": "01:40"
+    },
+    {
+      "Name": "Fallen de Calcinha",
+      "Steam": "76561198740056082",
+      "Score": 59,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Firepoint Cracked",
+      "Steam": "76561199856314303",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nuclear perc",
+      "Steam": "76561199344036105",
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "chord",
+      "Steam": "76561198984943721",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
