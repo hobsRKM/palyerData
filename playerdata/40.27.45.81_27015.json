@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-12T01:15:43.0488574Z",
+  "Time": "2026-02-12T01:17:43.0390229Z",
   "Players": [
     {
       "Name": "Natalie",
       "Steam": "76561198744527182",
       "Score": 2,
-      "Time": "04:00"
+      "Time": "06:00"
     },
     {
       "Name": "bobbyshmurda",
       "Steam": "76561199080130423",
-      "Score": 0,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Metalware-dinkbot",
+      "Steam": "76561198738286507",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
