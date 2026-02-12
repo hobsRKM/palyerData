@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-12T11:34:31.6761695Z",
+  "Time": "2026-02-12T11:36:31.6757262Z",
   "Players": [
+    {
+      "Name": "Albert12",
+      "Steam": "76561199840932753",
+      "Score": 0,
+      "Time": "01:26"
+    },
     {
       "Name": "tq",
       "Steam": "76561198042144871",
-      "Score": 4,
-      "Time": "06:19"
+      "Score": 6,
+      "Time": "08:19"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 9,
-      "Time": "13:41"
+      "Score": 16,
+      "Time": "15:41"
     },
     {
       "Name": "Best Music",
       "Steam": "76561199829905037",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "plushhack",
       "Steam": "76561198844155000",
-      "Score": 12,
-      "Time": "31:18"
+      "Score": 22,
+      "Time": "33:18"
     },
     {
       "Name": "DAЯK",
       "Steam": "76561199879290767",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
