@@ -1,52 +1,58 @@
 {
-  "Time": "2026-02-13T22:59:53.3449591Z",
+  "Time": "2026-02-13T23:01:53.347441Z",
   "Players": [
+    {
+      "Name": "O CARIOCA",
+      "Steam": "76561198738927331",
+      "Score": 4,
+      "Time": "01:43"
+    },
     {
       "Name": "EL NIGRO",
       "Steam": "76561199764138526",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 21,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "craze",
       "Steam": "76561199856382806",
-      "Score": 18,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "one",
       "Steam": "76561199571686760",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 25,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "julius caesar",
       "Steam": "76561199268825034",
-      "Score": 11,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 22,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561198738970330",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -58,19 +64,25 @@
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 2,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Nx",
       "Steam": "76561198750237829",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "sIrca.mp3",
       "Steam": "76561198968374547",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mime",
+      "Steam": "76561199229432620",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
