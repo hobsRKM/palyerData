@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-13T23:13:53.34664Z",
+  "Time": "2026-02-13T23:15:53.3463202Z",
   "Players": [
     {
       "Name": "EL NIGRO",
@@ -10,43 +10,49 @@
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 73,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "craze",
       "Steam": "76561199856382806",
-      "Score": 34,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "one",
       "Steam": "76561199571686760",
-      "Score": 32,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 69,
+      "Score": 83,
       "Time": "??:??"
+    },
+    {
+      "Name": "zeekora",
+      "Steam": "76561198742340149",
+      "Score": 0,
+      "Time": "01:45"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 91,
+      "Score": 105,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561198738970330",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 74,
+      "Score": 76,
       "Time": "??:??"
     },
     {
@@ -58,13 +64,19 @@
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 33,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "iLoveNegev",
       "Steam": "76561198737860918",
       "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "chord",
+      "Steam": "76561198984943721",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
