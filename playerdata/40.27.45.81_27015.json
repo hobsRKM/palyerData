@@ -1,40 +1,40 @@
 {
-  "Time": "2026-02-13T05:15:12.4346999Z",
+  "Time": "2026-02-13T05:17:12.431175Z",
   "Players": [
+    {
+      "Name": "DigitalPilot",
+      "Steam": "76561198747530778",
+      "Score": 2,
+      "Time": "01:13"
+    },
     {
       "Name": "nn",
       "Steam": "76561199072674466",
-      "Score": 20,
-      "Time": "10:20"
+      "Score": 9,
+      "Time": "12:20"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 84,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Ozai",
-      "Steam": "76561199156395215",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 58,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 23,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "schrödinger",
       "Steam": "76561199813507603",
-      "Score": 14,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
