@@ -1,40 +1,40 @@
 {
-  "Time": "2026-02-13T15:44:36.1532907Z",
+  "Time": "2026-02-13T15:46:36.1502806Z",
   "Players": [
+    {
+      "Name": "1",
+      "Steam": "76561199163976232",
+      "Score": 4,
+      "Time": "00:36"
+    },
     {
       "Name": "MoMo",
       "Steam": "76561198991432914",
-      "Score": 15,
-      "Time": "12:16"
+      "Score": 17,
+      "Time": "14:16"
     },
     {
       "Name": "LAM *no muff too tuff*",
       "Steam": "76561199532625292",
-      "Score": 29,
-      "Time": "79:41"
-    },
-    {
-      "Name": "Meowny",
-      "Steam": "76561199015755611",
-      "Score": 74,
-      "Time": "??:??"
+      "Score": 35,
+      "Time": "81:41"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 54,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 10,
-      "Time": "35:08"
+      "Score": 12,
+      "Time": "37:08"
     },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
-      "Score": 10,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
