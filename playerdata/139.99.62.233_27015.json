@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-13T14:14:36.1414921Z",
+  "Time": "2026-02-13T14:16:36.1488228Z",
   "Players": [
     {
       "Name": "MoMo",
       "Steam": "76561198991432914",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "MoMo",
       "Steam": "76561198221390104",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 28,
+      "Score": 36,
       "Time": "??:??"
+    },
+    {
+      "Name": "LAM *no muff too tuff*",
+      "Steam": "76561199532625292",
+      "Score": 4,
+      "Time": "01:01"
     }
   ]
 }
