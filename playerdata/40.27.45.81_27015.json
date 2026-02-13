@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-13T23:21:53.3449289Z",
+  "Time": "2026-02-13T23:23:53.3471389Z",
   "Players": [
     {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 21,
-      "Time": "03:31"
+      "Score": 31,
+      "Time": "05:31"
+    },
+    {
+      "Name": "sad sad",
+      "Steam": "76561199425272329",
+      "Score": 0,
+      "Time": "00:04"
     },
     {
       "Name": "EL NIGRO",
@@ -16,19 +22,19 @@
     {
       "Name": "B3rJlinJless (russian spy)",
       "Steam": "76561199806232223",
-      "Score": 8,
-      "Time": "03:54"
+      "Score": 10,
+      "Time": "05:54"
     },
     {
       "Name": "mocha",
       "Steam": "76561199230305577",
-      "Score": 94,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "craze",
       "Steam": "76561199856382806",
-      "Score": 58,
+      "Score": 59,
       "Time": "??:??"
     },
     {
@@ -40,43 +46,37 @@
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 108,
+      "Score": 126,
       "Time": "??:??"
-    },
-    {
-      "Name": "zeekora",
-      "Steam": "76561198742340149",
-      "Score": 1,
-      "Time": "07:45"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 144,
+      "Score": 160,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561198738970330",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 106,
+      "Score": 112,
       "Time": "??:??"
     },
     {
       "Name": "Nx",
       "Steam": "76561198750237829",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 59,
+      "Score": 64,
       "Time": "??:??"
     },
     {
@@ -88,7 +88,7 @@
     {
       "Name": "chord",
       "Steam": "76561198984943721",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     }
   ]
