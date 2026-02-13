@@ -1,16 +1,28 @@
 {
-  "Time": "2026-02-13T15:37:12.4086128Z",
+  "Time": "2026-02-13T15:39:12.4159443Z",
   "Players": [
+    {
+      "Name": "russian raper",
+      "Steam": "76561198779780757",
+      "Score": 0,
+      "Time": "00:55"
+    },
     {
       "Name": "RIG.tester-",
       "Steam": "76561199692222758",
-      "Score": 56,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Pasza Bajceps",
       "Steam": "76561199877267573",
-      "Score": 8,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Supernatural",
+      "Steam": "76561198749149649",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
