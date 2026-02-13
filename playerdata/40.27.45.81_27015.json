@@ -1,40 +1,40 @@
 {
-  "Time": "2026-02-13T05:25:12.4274723Z",
+  "Time": "2026-02-13T05:27:12.432559Z",
   "Players": [
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 0,
-      "Time": "00:31"
+      "Score": 2,
+      "Time": "02:31"
     },
     {
       "Name": "DigitalPilot",
       "Steam": "76561198747530778",
-      "Score": 6,
-      "Time": "09:13"
+      "Score": 4,
+      "Time": "11:13"
     },
     {
       "Name": "y",
       "Steam": "76561198737135513",
-      "Score": 0,
-      "Time": "01:03"
+      "Score": 2,
+      "Time": "03:03"
     },
     {
       "Name": "Ra'Kesh",
       "Steam": "76561199325903111",
-      "Score": 36,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 22,
-      "Time": "06:23"
+      "Score": 28,
+      "Time": "08:23"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
@@ -52,14 +52,20 @@
     {
       "Name": "gaminggenius2012",
       "Steam": "76561198170202181",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "percoset",
       "Steam": "76561198293312486",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "courtzone",
+      "Steam": "76561199668018375",
+      "Score": 0,
+      "Time": "00:18"
     }
   ]
 }
