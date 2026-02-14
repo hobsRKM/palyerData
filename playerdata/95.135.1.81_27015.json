@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-14T15:37:22.9140222Z",
+  "Time": "2026-02-14T15:39:22.9129969Z",
   "Players": [
     {
       "Name": "Grajchłopiec Kasti",
       "Steam": "76561199833286399",
+      "Score": 12,
+      "Time": "03:39"
+    },
+    {
+      "Name": "yo yo it's hump day",
+      "Steam": "76561198118464538",
       "Score": 0,
-      "Time": "01:39"
+      "Time": "00:52"
     },
     {
       "Name": "Supnygaaa",
       "Steam": "76561198740663502",
-      "Score": 0,
-      "Time": "00:08"
+      "Score": 1,
+      "Time": "02:08"
     },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
@@ -28,13 +34,25 @@
     {
       "Name": "enigmav2.boost ХохолВiта",
       "Steam": "76561198889008057",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Bean_",
       "Steam": "76561199096646407",
-      "Score": 26,
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xentrevox",
+      "Steam": "76561198743058941",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Charlie",
+      "Steam": "76561199070756563",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
