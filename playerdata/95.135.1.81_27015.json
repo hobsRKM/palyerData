@@ -1,34 +1,46 @@
 {
-  "Time": "2026-02-14T00:31:12.4043674Z",
+  "Time": "2026-02-14T00:33:12.4076478Z",
   "Players": [
+    {
+      "Name": "DL2",
+      "Steam": "76561199150108293",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "AHAHAHHA",
       "Steam": "76561198735854805",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "C",
       "Steam": "76561199867367978",
       "Score": 0,
-      "Time": "21:23"
+      "Time": "23:23"
+    },
+    {
+      "Name": "sir sir",
+      "Steam": "76561198777780663",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mačka zasvojena z xanax",
+      "Steam": "76561198811910956",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ROBOTAIM",
-      "Steam": "76561199127852374",
-      "Score": 2,
       "Time": "??:??"
     }
   ]
