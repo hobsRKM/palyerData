@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-14T05:26:22.3893986Z",
+  "Time": "2026-02-14T05:28:22.3925763Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -8,10 +8,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "demirol73",
+      "Steam": "76561199805962339",
+      "Score": 0,
+      "Time": "01:26"
+    },
+    {
       "Name": "peter09010",
       "Steam": "76561198739635625",
-      "Score": 3,
-      "Time": "75:49"
+      "Score": 7,
+      "Time": "77:49"
     },
     {
       "Name": "liyunck",
@@ -22,32 +28,32 @@
     {
       "Name": "Lord",
       "Steam": "76561199555019337",
-      "Score": 4,
-      "Time": "213:03"
+      "Score": 6,
+      "Time": "215:03"
     },
     {
       "Name": "Let's Be Good Goys",
       "Steam": "76561198736178001",
-      "Score": 24,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "\uD83D\uDD95",
       "Steam": "76561198369417169",
-      "Score": 36,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 87,
-      "Time": "51:24"
+      "Score": 89,
+      "Time": "53:24"
     },
     {
       "Name": "HardTry",
       "Steam": "76561198774309786",
-      "Score": 10,
-      "Time": "18:51"
+      "Score": 15,
+      "Time": "20:51"
     }
   ]
 }
