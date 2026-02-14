@@ -1,4 +1,35 @@
 {
-  "Time": "2026-02-14T01:30:14.3456464Z",
-  "Players": []
+  "Time": "2026-02-14T01:31:09.5446487Z",
+  "Players": [
+    {
+      "Name": "Bullet",
+      "Steam": "76561198781702164",
+      "Score": 42,
+      "Time": "12:30"
+    },
+    {
+      "Name": "\uDB40\uDC73⁧⁧lovesick",
+      "Steam": "76561199258689499",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wyattandkatie",
+      "Steam": "76561198833219379",
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sofa.pub",
+      "Steam": "76561199531695282",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
