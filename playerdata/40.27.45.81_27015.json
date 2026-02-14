@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-14T04:51:53.3520372Z",
+  "Time": "2026-02-14T04:53:53.3441095Z",
   "Players": [
+    {
+      "Name": "Mime",
+      "Steam": "76561199229432620",
+      "Score": 13,
+      "Time": "45:00"
+    },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 56,
-      "Time": "12:51"
+      "Score": 67,
+      "Time": "14:50"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
       "Score": 26,
-      "Time": "09:58"
+      "Time": "11:58"
     },
     {
       "Name": "EL NIGRO",
@@ -22,25 +28,19 @@
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 16,
-      "Time": "05:20"
-    },
-    {
-      "Name": "im a immigrant",
-      "Steam": "76561199410751476",
-      "Score": 50,
-      "Time": "45:07"
+      "Score": 21,
+      "Time": "07:20"
     },
     {
       "Name": "Chrome",
       "Steam": "76561198741086889",
-      "Score": 6,
-      "Time": "01:41"
+      "Score": 8,
+      "Time": "03:41"
     },
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
-      "Score": 88,
+      "Score": 95,
       "Time": "??:??"
     }
   ]
