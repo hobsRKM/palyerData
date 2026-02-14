@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-14T02:57:53.3503573Z",
+  "Time": "2026-02-14T02:59:53.3497273Z",
   "Players": [
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 41,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 52,
-      "Time": "40:57"
+      "Score": 60,
+      "Time": "42:57"
     },
     {
       "Name": "navarro",
       "Steam": "76561199651483946",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Varsity or sum",
       "Steam": "76561198737123270",
+      "Score": 2,
+      "Time": "05:05"
+    },
+    {
+      "Name": "Ozai",
+      "Steam": "76561199156395215",
       "Score": 0,
-      "Time": "03:05"
+      "Time": "01:06"
     },
     {
       "Name": "EL NIGRO",
@@ -34,32 +40,26 @@
     {
       "Name": "Nixware Kid",
       "Steam": "76561198736652438",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "nevo. | nevo",
-      "Steam": "76561198791368162",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
       "Score": 66,
-      "Time": "45:03"
+      "Time": "47:03"
     },
     {
       "Name": "Chrome",
       "Steam": "76561198741086889",
-      "Score": 4,
-      "Time": "19:51"
+      "Score": 6,
+      "Time": "21:51"
     },
     {
       "Name": "Morpheus",
       "Steam": "76561198737701610",
-      "Score": 8,
-      "Time": "02:29"
+      "Score": 22,
+      "Time": "04:29"
     }
   ]
 }
