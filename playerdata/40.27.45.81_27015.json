@@ -1,47 +1,53 @@
 {
-  "Time": "2026-02-14T01:57:53.3425244Z",
+  "Time": "2026-02-14T01:59:53.3545141Z",
   "Players": [
+    {
+      "Name": "cmso",
+      "Steam": "76561198739357431",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Amos Yee",
       "Steam": "76561199588690188",
-      "Score": 24,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Ohnepixelanda13yearoldgirl",
       "Steam": "76561198769941215",
-      "Score": 35,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 101,
+      "Score": 108,
       "Time": "??:??"
     },
     {
       "Name": "Kuroken",
       "Steam": "76561199479790668",
-      "Score": 96,
-      "Time": "22:24"
+      "Score": 97,
+      "Time": "24:24"
     },
     {
       "Name": "navarro",
       "Steam": "76561199651483946",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Dequavious Pork",
       "Steam": "76561199545531094",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 105,
-      "Time": "32:07"
+      "Score": 117,
+      "Time": "34:07"
     },
     {
       "Name": "EL NIGRO",
@@ -52,26 +58,32 @@
     {
       "Name": "schrödinger",
       "Steam": "76561199813507603",
-      "Score": 86,
-      "Time": "29:40"
+      "Score": 98,
+      "Time": "31:40"
+    },
+    {
+      "Name": "ruinhvh",
+      "Steam": "76561198742119595",
+      "Score": 42,
+      "Time": "01:03"
     },
     {
       "Name": "xmpp",
       "Steam": "76561198431997616",
-      "Score": 102,
-      "Time": "18:43"
+      "Score": 114,
+      "Time": "20:43"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 4,
-      "Time": "02:43"
+      "Score": 13,
+      "Time": "04:43"
     },
     {
       "Name": "MTR_\uD83D\uDC95",
       "Steam": "76561199562118252",
       "Score": 0,
-      "Time": "00:37"
+      "Time": "02:37"
     }
   ]
 }
