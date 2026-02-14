@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-14T12:52:33.6635055Z",
+  "Time": "2026-02-14T12:54:33.6604622Z",
   "Players": [
+    {
+      "Name": "hacker",
+      "Steam": "76561198739388566",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 53,
-      "Time": "75:30"
+      "Score": 65,
+      "Time": "77:30"
     },
     {
       "Name": "MoMo",
       "Steam": "76561198991432914",
-      "Score": 27,
-      "Time": "13:20"
+      "Score": 34,
+      "Time": "15:20"
     },
     {
-      "Name": "memesen mila",
+      "Name": "memesense mila",
       "Steam": "76561199016633012",
-      "Score": 20,
-      "Time": "51:25"
+      "Score": 26,
+      "Time": "53:25"
     },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 17,
-      "Time": "108:47"
+      "Score": 31,
+      "Time": "110:47"
     },
     {
       "Name": "くそanti",
       "Steam": "76561198170426931",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "DAЯK",
       "Steam": "76561199879290767",
-      "Score": 52,
+      "Score": 59,
       "Time": "??:??"
     },
     {
@@ -46,7 +52,7 @@
     {
       "Name": "外挂卡网：88.2a2a.top 群",
       "Steam": "76561199517915550",
-      "Score": 10,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
