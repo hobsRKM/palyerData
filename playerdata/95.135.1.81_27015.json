@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-14T12:07:50.7517485Z",
+  "Time": "2026-02-14T12:09:50.7513638Z",
   "Players": [
     {
       "Name": "Never Stress",
       "Steam": "76561197984716724",
-      "Score": 8,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "loki",
       "Steam": "76561198739245483",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nolosemepro",
+      "Steam": "76561198752654955",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "fentanyl",
       "Steam": "76561199469674316",
-      "Score": 43,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "Seoul999",
       "Steam": "76561198051992092",
-      "Score": 49,
-      "Time": "15:00"
+      "Score": 55,
+      "Time": "17:00"
     },
     {
       "Name": "Reldan",
       "Steam": "76561198059050690",
-      "Score": 0,
-      "Time": "30:48"
+      "Score": 6,
+      "Time": "32:48"
     },
     {
       "Name": "SchluchtenScheißer",
       "Steam": "76561198930127692",
-      "Score": 10,
-      "Time": "03:03"
+      "Score": 11,
+      "Time": "05:03"
     }
   ]
 }
