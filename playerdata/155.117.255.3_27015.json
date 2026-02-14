@@ -1,4 +1,41 @@
 {
-  "Time": "2026-02-14T21:08:14.1272672Z",
-  "Players": []
+  "Time": "2026-02-14T21:09:09.3621048Z",
+  "Players": [
+    {
+      "Name": "mocha",
+      "Steam": "76561199230305577",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Chrome",
+      "Steam": "76561198741086889",
+      "Score": 17,
+      "Time": "08:17"
+    },
+    {
+      "Name": "Ashtar Sheran",
+      "Steam": "76561198865913239",
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Xorace",
+      "Steam": "76561198351031049",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Alien Frog Princess",
+      "Steam": "76561199666441170",
+      "Score": 1,
+      "Time": "04:15"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 96,
+      "Time": "??:??"
+    }
+  ]
 }
