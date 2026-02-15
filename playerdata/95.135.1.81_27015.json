@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-15T18:09:10.0827872Z",
+  "Time": "2026-02-15T18:11:10.0961253Z",
   "Players": [
     {
       "Name": "Cheater(not true)",
       "Steam": "76561198737967470",
+      "Score": 4,
+      "Time": "105:57"
+    },
+    {
+      "Name": "Pietrucha w Bidonie",
+      "Steam": "76561199447391054",
+      "Score": 2,
+      "Time": "195:24"
+    },
+    {
+      "Name": "yamatoro",
+      "Steam": "76561199812037558",
       "Score": 0,
-      "Time": "103:57"
+      "Time": "00:42"
     },
     {
       "Name": "crvshmind",
       "Steam": "76561198828824200",
-      "Score": 7,
-      "Time": "295:32"
+      "Score": 15,
+      "Time": "297:32"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 21,
-      "Time": "36:39"
-    },
-    {
-      "Name": "Kasti",
-      "Steam": "76561199833286399",
-      "Score": 11,
-      "Time": "868:17"
+      "Score": 6,
+      "Time": "38:39"
     },
     {
       "Name": "e3",
@@ -34,26 +40,26 @@
     {
       "Name": "Bean_",
       "Steam": "76561199096646407",
-      "Score": 26,
-      "Time": "23:25"
+      "Score": 41,
+      "Time": "25:25"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 1,
-      "Time": "40:00"
+      "Score": 4,
+      "Time": "42:00"
     },
     {
       "Name": "Ally",
       "Steam": "76561199757864828",
-      "Score": 9,
-      "Time": "123:41"
+      "Score": 0,
+      "Time": "125:41"
     },
     {
       "Name": "ᶠᵗecstacy",
       "Steam": "76561199151609154",
-      "Score": 18,
-      "Time": "24:23"
+      "Score": 24,
+      "Time": "26:23"
     }
   ]
 }
