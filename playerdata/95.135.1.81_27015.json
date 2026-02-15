@@ -1,59 +1,59 @@
 {
-  "Time": "2026-02-15T16:11:24.4245663Z",
+  "Time": "2026-02-15T16:13:24.4145065Z",
   "Players": [
+    {
+      "Name": "C",
+      "Steam": "76561199867367978",
+      "Score": 5,
+      "Time": "??:??"
+    },
     {
       "Name": "nexura",
       "Steam": "76561198788829986",
-      "Score": 4,
-      "Time": "26:54"
+      "Score": 7,
+      "Time": "28:54"
     },
     {
       "Name": "fentlover123",
       "Steam": "76561199136741331",
-      "Score": 37,
-      "Time": "38:40"
+      "Score": 42,
+      "Time": "40:40"
     },
     {
       "Name": "GESHTALT",
       "Steam": "76561198317554443",
-      "Score": 6,
-      "Time": "30:43"
+      "Score": 20,
+      "Time": "32:43"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 58,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Dequavious Pork",
       "Steam": "76561199545531094",
-      "Score": 7,
-      "Time": "09:05"
+      "Score": 9,
+      "Time": "11:05"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 50,
-      "Time": "51:14"
+      "Score": 55,
+      "Time": "53:14"
     },
     {
       "Name": "Envyy..",
       "Steam": "76561198750044238",
-      "Score": 0,
-      "Time": "40:29"
+      "Score": 2,
+      "Time": "42:29"
     },
     {
       "Name": "Savinyon (Deagle)",
       "Steam": "76561199543225005",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "ROBOTAIM",
-      "Steam": "76561199127852374",
-      "Score": 16,
-      "Time": "05:34"
     }
   ]
 }
