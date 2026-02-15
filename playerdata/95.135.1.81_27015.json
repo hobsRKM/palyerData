@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-15T06:39:22.9114159Z",
+  "Time": "2026-02-15T06:41:22.9190227Z",
   "Players": [
+    {
+      "Name": "R1ck",
+      "Steam": "76561199050470003",
+      "Score": 1,
+      "Time": "01:04"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -10,44 +16,44 @@
     {
       "Name": "*_*",
       "Steam": "76561198083960371",
-      "Score": 6,
-      "Time": "00:37"
+      "Score": 10,
+      "Time": "02:37"
     },
     {
       "Name": "peter09010",
       "Steam": "76561198739635625",
-      "Score": 26,
-      "Time": "46:19"
+      "Score": 28,
+      "Time": "48:19"
     },
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 24,
-      "Time": "06:58"
+      "Score": 30,
+      "Time": "08:58"
     },
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 11,
-      "Time": "23:51"
+      "Score": 13,
+      "Time": "25:51"
     },
     {
       "Name": "anhopa",
       "Steam": "76561199810448463",
-      "Score": 20,
-      "Time": "09:41"
+      "Score": 26,
+      "Time": "11:41"
     },
     {
       "Name": "marsfromelsewhere",
       "Steam": "76561199186278510",
-      "Score": 18,
-      "Time": "19:03"
+      "Score": 20,
+      "Time": "21:03"
     }
   ]
 }
