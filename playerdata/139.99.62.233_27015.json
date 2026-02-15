@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-15T08:02:35.8297431Z",
+  "Time": "2026-02-15T08:04:35.8433017Z",
   "Players": [
+    {
+      "Name": "小镇说唱青年",
+      "Steam": "76561199490532037",
+      "Score": 0,
+      "Time": "01:03"
+    },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 12,
-      "Time": "13:41"
+      "Score": 0,
+      "Time": "15:41"
     },
     {
       "Name": "peksta",
       "Steam": "76561198755840381",
-      "Score": 8,
-      "Time": "18:54"
+      "Score": 25,
+      "Time": "20:54"
     },
     {
-      "Name": ".luaradiance Goatis / Sv3rige",
+      "Name": "radiance.lua Goatis / Sv3rige",
       "Steam": "76561198901969684",
-      "Score": 10,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "DAЯK",
       "Steam": "76561199879290767",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Nihao Niqqer",
       "Steam": "76561198743519060",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
