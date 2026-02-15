@@ -1,77 +1,71 @@
 {
-  "Time": "2026-02-15T05:23:09.3744943Z",
+  "Time": "2026-02-15T05:25:09.3708398Z",
   "Players": [
-    {
-      "Name": "John Michael Dingle",
-      "Steam": "76561198901575526",
-      "Score": 100,
-      "Time": "50:55"
-    },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 74,
+      "Score": 78,
       "Time": "??:??"
     },
     {
       "Name": "roo",
       "Steam": "76561199757543292",
-      "Score": 46,
-      "Time": "174:06"
+      "Score": 58,
+      "Time": "176:06"
     },
     {
       "Name": "cookies",
       "Steam": "76561199740544730",
       "Score": 36,
-      "Time": "29:01"
+      "Time": "31:01"
+    },
+    {
+      "Name": "25qev",
+      "Steam": "76561198768190058",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "TRUMP ICE 2026",
       "Steam": "76561198774846180",
-      "Score": 13,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 122,
-      "Time": "90:00"
-    },
-    {
-      "Name": "im not mocha",
-      "Steam": "76561199619999443",
-      "Score": 0,
-      "Time": "01:42"
+      "Score": 128,
+      "Time": "92:00"
     },
     {
       "Name": "dreamchas3r",
       "Steam": "76561199867994369",
-      "Score": 12,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 0,
-      "Time": "87:27"
+      "Score": 1,
+      "Time": "89:27"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 13,
-      "Time": "95:24"
+      "Score": 19,
+      "Time": "97:24"
     },
     {
       "Name": "y",
       "Steam": "76561198738970330",
       "Score": 40,
-      "Time": "35:22"
+      "Time": "37:22"
     },
     {
       "Name": "fat",
       "Steam": "76561199072674466",
-      "Score": 97,
-      "Time": "89:43"
+      "Score": 103,
+      "Time": "91:43"
     }
   ]
 }
