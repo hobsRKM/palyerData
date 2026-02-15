@@ -1,34 +1,52 @@
 {
-  "Time": "2026-02-15T12:57:05.8944664Z",
+  "Time": "2026-02-15T12:59:05.8990825Z",
   "Players": [
+    {
+      "Name": "russian raper",
+      "Steam": "76561198779780757",
+      "Score": 0,
+      "Time": "02:03"
+    },
+    {
+      "Name": "bmw enjoyer",
+      "Steam": "76561198845537009",
+      "Score": 12,
+      "Time": "01:57"
+    },
     {
       "Name": "72zzz22",
       "Steam": "76561199500399092",
-      "Score": 84,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗxgrc",
       "Steam": "76561198791116856",
-      "Score": 70,
+      "Score": 84,
       "Time": "??:??"
+    },
+    {
+      "Name": "AKARI-12314",
+      "Steam": "76561199880783602",
+      "Score": 20,
+      "Time": "00:40"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21   koshka\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199239744651",
-      "Score": 4,
-      "Time": "19:16"
+      "Score": 7,
+      "Time": "21:16"
     },
     {
       "Name": "friesforsure",
       "Steam": "76561198783285372",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Kasti",
       "Steam": "76561199833286399",
-      "Score": 41,
+      "Score": 51,
       "Time": "??:??"
     },
     {
@@ -41,7 +59,7 @@
       "Name": "Seoul999",
       "Steam": "76561198051992092",
       "Score": 0,
-      "Time": "18:46"
+      "Time": "20:46"
     }
   ]
 }
