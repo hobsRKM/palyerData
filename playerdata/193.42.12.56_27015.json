@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-15T15:54:08.8830115Z",
+  "Time": "2026-02-15T15:56:08.891743Z",
   "Players": [
+    {
+      "Name": "mihaitembel",
+      "Steam": "76561198737276668",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "N3verMiss",
       "Steam": "76561198737539475",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Saira",
       "Steam": "76561198754189591",
-      "Score": 14,
-      "Time": "10:55"
+      "Score": 0,
+      "Time": "12:55"
     },
     {
       "Name": "PEAKKISA",
       "Steam": "76561198744973345",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -28,14 +34,26 @@
     {
       "Name": "Brambora hdf du nn",
       "Steam": "76561198751205221",
-      "Score": 31,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "memesense user",
       "Steam": "76561199610019614",
-      "Score": 3,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "mystyle",
+      "Steam": "76561199687818354",
+      "Score": 0,
+      "Time": "00:49"
+    },
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 0,
+      "Time": "08:46"
     }
   ]
 }
