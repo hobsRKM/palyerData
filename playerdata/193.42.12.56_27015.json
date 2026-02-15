@@ -1,4 +1,23 @@
 {
-  "Time": "2026-02-15T14:00:28.2657822Z",
-  "Players": []
+  "Time": "2026-02-15T14:01:05.883994Z",
+  "Players": [
+    {
+      "Name": "Saira",
+      "Steam": "76561198754189591",
+      "Score": 12,
+      "Time": "05:11"
+    },
+    {
+      "Name": "Al-Qaeda Al-Shabaab",
+      "Steam": "76561198738883297",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SzeliPies",
+      "Steam": "76561199825851902",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
