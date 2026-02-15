@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-15T23:07:51.7112143Z",
+  "Time": "2026-02-15T23:09:51.7231145Z",
   "Players": [
+    {
+      "Name": "Retarded crackhead johnathan",
+      "Steam": "76561199702447084",
+      "Score": 0,
+      "Time": "00:27"
+    },
     {
       "Name": "imnotdoggo",
       "Steam": "76561198787397270",
-      "Score": 11,
-      "Time": "16:39"
+      "Score": 13,
+      "Time": "18:39"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 76,
-      "Time": "28:39"
+      "Score": 80,
+      "Time": "30:39"
     }
   ]
 }
