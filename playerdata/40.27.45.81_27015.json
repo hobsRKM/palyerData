@@ -1,59 +1,59 @@
 {
-  "Time": "2026-02-15T10:05:51.3649133Z",
+  "Time": "2026-02-15T10:07:51.3782689Z",
   "Players": [
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 42,
+      "Score": 50,
       "Time": "??:??"
+    },
+    {
+      "Name": "DigitalPilot",
+      "Steam": "76561198747530778",
+      "Score": 0,
+      "Time": "01:08"
     },
     {
       "Name": "larp",
       "Steam": "76561198737311969",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "costa",
       "Steam": "76561198739357431",
-      "Score": 16,
-      "Time": "42:26"
+      "Score": 20,
+      "Time": "44:26"
     },
     {
       "Name": "diddyblud",
       "Steam": "76561198757630759",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "6z6ifsg5wt4sfxn2m00",
-      "Steam": "76561199482451988",
-      "Score": 9,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "plimpus",
       "Steam": "76561198001746934",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "idk",
       "Steam": "76561198738953534",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "cookies",
       "Steam": "76561199740544730",
-      "Score": 11,
-      "Time": "17:15"
+      "Score": 13,
+      "Time": "19:15"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 38,
-      "Time": "84:10"
+      "Score": 50,
+      "Time": "86:10"
     }
   ]
 }
