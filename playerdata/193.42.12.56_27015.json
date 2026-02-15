@@ -1,29 +1,41 @@
 {
-  "Time": "2026-02-15T16:00:08.8932315Z",
+  "Time": "2026-02-15T16:02:08.8882897Z",
   "Players": [
+    {
+      "Name": "You",
+      "Steam": "76561198748763826",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bean_",
+      "Steam": "76561199096646407",
+      "Score": 0,
+      "Time": "139:04"
+    },
     {
       "Name": "N3verMiss",
       "Steam": "76561198737539475",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Saira",
       "Steam": "76561198754189591",
-      "Score": 0,
-      "Time": "16:55"
+      "Score": 6,
+      "Time": "18:55"
     },
     {
       "Name": "PEAKKISA",
       "Steam": "76561198744973345",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "AKARI-12314",
       "Steam": "76561199880783602",
-      "Score": 2,
-      "Time": "03:20"
+      "Score": 7,
+      "Time": "05:20"
     },
     {
       "Name": "FREE ROBUX",
@@ -32,9 +44,15 @@
       "Time": "??:??"
     },
     {
+      "Name": ".",
+      "Steam": "76561198739561545",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "Brambora hdf du nn",
       "Steam": "76561198751205221",
-      "Score": 49,
+      "Score": 57,
       "Time": "??:??"
     },
     {
@@ -46,8 +64,8 @@
     {
       "Name": "mystyle",
       "Steam": "76561199687818354",
-      "Score": 10,
-      "Time": "04:49"
+      "Score": 14,
+      "Time": "06:49"
     }
   ]
 }
