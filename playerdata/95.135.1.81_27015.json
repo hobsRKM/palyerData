@@ -1,35 +1,47 @@
 {
-  "Time": "2026-02-15T16:41:24.454369Z",
+  "Time": "2026-02-15T16:43:24.4489376Z",
   "Players": [
     {
       "Name": "C",
       "Steam": "76561199867367978",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "nexura",
+      "Steam": "76561198788829986",
+      "Score": 0,
+      "Time": "00:21"
     },
     {
       "Name": "gymolimpic",
       "Steam": "76561199036536422",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 30,
+      "Score": 38,
       "Time": "??:??"
+    },
+    {
+      "Name": "Dequavious Pork",
+      "Steam": "76561199545531094",
+      "Score": 0,
+      "Time": "00:19"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 16,
-      "Time": "81:14"
+      "Score": 21,
+      "Time": "83:14"
     },
     {
       "Name": "ᶠᵗecstacy",
       "Steam": "76561199151609154",
-      "Score": 17,
-      "Time": "230:46"
+      "Score": 27,
+      "Time": "232:46"
     }
   ]
 }
