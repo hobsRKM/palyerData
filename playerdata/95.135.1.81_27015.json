@@ -1,59 +1,71 @@
 {
-  "Time": "2026-02-15T16:21:24.4339442Z",
+  "Time": "2026-02-15T16:23:24.4355271Z",
   "Players": [
+    {
+      "Name": "L&",
+      "Steam": "76561198757013172",
+      "Score": 0,
+      "Time": "161:03"
+    },
     {
       "Name": "C",
       "Steam": "76561199867367978",
-      "Score": 32,
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "daddypedo420",
+      "Steam": "76561199527359713",
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "nexura",
       "Steam": "76561198788829986",
       "Score": 17,
-      "Time": "36:54"
+      "Time": "38:54"
     },
     {
       "Name": "fentlover123",
       "Steam": "76561199136741331",
-      "Score": 59,
-      "Time": "48:40"
+      "Score": 66,
+      "Time": "50:40"
     },
     {
       "Name": "GESHTALT",
       "Steam": "76561198317554443",
-      "Score": 54,
-      "Time": "40:43"
+      "Score": 60,
+      "Time": "42:43"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 101,
+      "Score": 104,
       "Time": "??:??"
     },
     {
       "Name": "Dequavious Pork",
       "Steam": "76561199545531094",
-      "Score": 17,
-      "Time": "19:05"
+      "Score": 21,
+      "Time": "21:05"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 81,
-      "Time": "61:14"
+      "Score": 91,
+      "Time": "63:14"
     },
     {
       "Name": "M1RtiN4oo",
       "Steam": "76561198794087367",
-      "Score": 9,
-      "Time": "70:17"
+      "Score": 20,
+      "Time": "72:17"
     },
     {
       "Name": "felix",
       "Steam": "76561198765165744",
       "Score": 6,
-      "Time": "235:05"
+      "Time": "237:05"
     }
   ]
 }
