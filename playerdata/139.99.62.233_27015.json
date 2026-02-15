@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-15T07:42:35.829665Z",
+  "Time": "2026-02-15T07:44:35.837471Z",
   "Players": [
+    {
+      "Name": "peksta",
+      "Steam": "76561198755840381",
+      "Score": 4,
+      "Time": "00:54"
+    },
     {
       "Name": "Goatis / Sv3rige",
       "Steam": "76561198901969684",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "DAЯK",
       "Steam": "76561199879290767",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Nihao Niqqer",
       "Steam": "76561198743519060",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
