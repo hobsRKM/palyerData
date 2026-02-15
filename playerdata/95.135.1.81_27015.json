@@ -1,10 +1,22 @@
 {
-  "Time": "2026-02-15T06:53:22.9147391Z",
+  "Time": "2026-02-15T06:55:22.9178012Z",
   "Players": [
+    {
+      "Name": "minimal",
+      "Steam": "76561199874064615",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "R1ck",
+      "Steam": "76561199050470003",
+      "Score": 29,
+      "Time": "00:57"
+    },
     {
       "Name": "31AA1",
       "Steam": "76561198757889393",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -16,56 +28,62 @@
     {
       "Name": "*_*",
       "Steam": "76561198083960371",
-      "Score": 16,
-      "Time": "14:37"
+      "Score": 18,
+      "Time": "16:37"
     },
     {
       "Name": "peter09010",
       "Steam": "76561198739635625",
-      "Score": 60,
-      "Time": "60:19"
+      "Score": 65,
+      "Time": "62:19"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198784581696",
+      "Score": 0,
+      "Time": "00:54"
     },
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
-      "Score": 19,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Gertt-01",
       "Steam": "76561198756919457",
-      "Score": 51,
-      "Time": "01:56"
+      "Score": 65,
+      "Time": "03:56"
     },
     {
       "Name": "kzoid",
       "Steam": "76561198138563445",
-      "Score": 35,
-      "Time": "08:45"
+      "Score": 42,
+      "Time": "10:45"
     },
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 41,
-      "Time": "37:51"
+      "Score": 43,
+      "Time": "39:51"
     },
     {
       "Name": "anhopa",
       "Steam": "76561199810448463",
       "Score": 0,
-      "Time": "23:41"
+      "Time": "25:41"
     },
     {
       "Name": "marsfromelsewhere",
       "Steam": "76561199186278510",
       "Score": 24,
-      "Time": "33:03"
+      "Time": "35:03"
     },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
-      "Score": 2,
-      "Time": "608:05"
+      "Score": 4,
+      "Time": "610:05"
     }
   ]
 }
