@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-15T08:23:51.3643656Z",
+  "Time": "2026-02-15T08:25:51.3747219Z",
   "Players": [
+    {
+      "Name": "sofa.pub",
+      "Steam": "76561199531695282",
+      "Score": 4,
+      "Time": "01:11"
+    },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 4,
-      "Time": "02:55"
+      "Score": 20,
+      "Time": "04:55"
     },
     {
       "Name": "Nx",
       "Steam": "76561198750237829",
-      "Score": 2,
-      "Time": "01:27"
+      "Score": 4,
+      "Time": "03:27"
     },
     {
       "Name": "Убийца ржавчины",
       "Steam": "76561199863005020",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "shestakova.nastya.2018",
       "Steam": "76561199678837848",
-      "Score": 20,
-      "Time": "08:12"
+      "Score": 21,
+      "Time": "10:12"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 28,
+      "Score": 33,
       "Time": "??:??"
     }
   ]
