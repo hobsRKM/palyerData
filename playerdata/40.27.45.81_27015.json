@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-15T09:13:51.3686381Z",
+  "Time": "2026-02-15T09:15:51.376628Z",
   "Players": [
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 58,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "larp",
       "Steam": "76561198737311969",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 0,
+      "Time": "01:46"
     },
     {
       "Name": "shestakova.nastya.2018",
       "Steam": "76561199678837848",
-      "Score": 10,
-      "Time": "09:23"
+      "Score": 13,
+      "Time": "11:23"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 18,
-      "Time": "32:10"
+      "Score": 24,
+      "Time": "34:10"
     }
   ]
 }
