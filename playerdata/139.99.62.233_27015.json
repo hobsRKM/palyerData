@@ -1,15 +1,27 @@
 {
-  "Time": "2026-02-15T06:58:35.8044291Z",
+  "Time": "2026-02-15T07:00:35.8053151Z",
   "Players": [
+    {
+      "Name": "NoHyper(Memesense)",
+      "Steam": "76561199841170448",
+      "Score": 4,
+      "Time": "00:55"
+    },
     {
       "Name": "burger",
       "Steam": "76561199038035346",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "cool mint zyn",
       "Steam": "76561199231028663",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nates Tacos",
+      "Steam": "76561199251859151",
       "Score": 0,
       "Time": "??:??"
     }
