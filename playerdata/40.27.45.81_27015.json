@@ -1,33 +1,39 @@
 {
-  "Time": "2026-02-15T08:45:51.3806353Z",
+  "Time": "2026-02-15T08:47:51.3769076Z",
   "Players": [
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "xxangryhoovie -_-",
       "Steam": "76561199194778406",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "tehk",
       "Steam": "76561198753203481",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "DigitalPilot",
       "Steam": "76561198747530778",
-      "Score": 6,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "larp",
       "Steam": "76561198737311969",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mightymig",
+      "Steam": "76561198776040891",
       "Score": 0,
       "Time": "??:??"
     },
@@ -40,20 +46,14 @@
     {
       "Name": "sofa.pub",
       "Steam": "76561199531695282",
-      "Score": 0,
-      "Time": "21:11"
-    },
-    {
-      "Name": "supremacy",
-      "Steam": "76561198763517260",
-      "Score": 0,
-      "Time": "24:55"
+      "Score": 4,
+      "Time": "23:11"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 0,
-      "Time": "00:25"
+      "Score": 4,
+      "Time": "02:25"
     },
     {
       "Name": "Убийца ржавчины",
@@ -65,7 +65,7 @@
       "Name": "Kamap",
       "Steam": "76561199084789524",
       "Score": 0,
-      "Time": "04:10"
+      "Time": "06:10"
     }
   ]
 }
