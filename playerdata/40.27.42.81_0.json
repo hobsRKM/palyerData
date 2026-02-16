@@ -1,23 +1,35 @@
 {
-  "Time": "2026-02-16T03:29:51.7144489Z",
+  "Time": "2026-02-16T03:31:51.7163322Z",
   "Players": [
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 12,
+      "Time": "01:47"
+    },
     {
       "Name": "DONK",
       "Steam": "76561199371057177",
       "Score": 12,
-      "Time": "236:17"
+      "Time": "238:17"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 0,
+      "Time": "01:46"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 29,
-      "Time": "22:31"
+      "Score": 31,
+      "Time": "24:31"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
       "Score": 9,
-      "Time": "14:53"
+      "Time": "16:53"
     },
     {
       "Name": "swag peek",
@@ -28,20 +40,14 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 77,
-      "Time": "64:34"
-    },
-    {
-      "Name": "kiro",
-      "Steam": "76561199173413043",
-      "Score": 24,
-      "Time": "36:08"
+      "Score": 79,
+      "Time": "66:34"
     },
     {
       "Name": "\uD835\uDD3E\uD835\uDD6B \uD835\uDD4Eℝ\uD835\uDD43\uD835\uDD3B",
       "Steam": "76561198782009269",
-      "Score": 23,
-      "Time": "108:43"
+      "Score": 28,
+      "Time": "110:43"
     }
   ]
 }
