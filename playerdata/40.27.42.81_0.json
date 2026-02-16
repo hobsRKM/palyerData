@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-16T04:15:49.3518267Z",
+  "Time": "2026-02-16T04:17:49.3488553Z",
   "Players": [
     {
       "Name": "julius caesar",
       "Steam": "76561199268825034",
+      "Score": 6,
+      "Time": "03:51"
+    },
+    {
+      "Name": "testing nixware beta",
+      "Steam": "76561198748840225",
       "Score": 0,
-      "Time": "01:51"
+      "Time": "01:22"
     },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "08:18"
+      "Time": "10:18"
     }
   ]
 }
