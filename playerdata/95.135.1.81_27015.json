@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-16T13:04:23.2420936Z",
+  "Time": "2026-02-16T13:06:23.2473554Z",
   "Players": [
+    {
+      "Name": "ruletik",
+      "Steam": "76561199816759374",
+      "Score": 4,
+      "Time": "01:14"
+    },
     {
       "Name": "R1ck",
       "Steam": "76561199050470003",
-      "Score": 0,
-      "Time": "01:23"
+      "Score": 10,
+      "Time": "03:23"
     },
     {
       "Name": "matjess__",
       "Steam": "76561199508024650",
-      "Score": 12,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "russian raper",
       "Steam": "76561198779780757",
-      "Score": 0,
-      "Time": "00:15"
+      "Score": 4,
+      "Time": "02:15"
     },
     {
       "Name": "⁹⁹⁹drp1y",
       "Steam": "76561199885893585",
-      "Score": 16,
-      "Time": "29:20"
+      "Score": 22,
+      "Time": "31:20"
     },
     {
       "Name": "Envyy..",
@@ -34,14 +40,14 @@
     {
       "Name": "CarlitoMB",
       "Steam": "76561199697633072",
-      "Score": 2,
-      "Time": "02:33"
+      "Score": 8,
+      "Time": "04:33"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 8,
-      "Time": "02:33"
+      "Score": 10,
+      "Time": "04:33"
     }
   ]
 }
