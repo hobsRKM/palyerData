@@ -1,46 +1,52 @@
 {
-  "Time": "2026-02-16T05:29:49.3530069Z",
+  "Time": "2026-02-16T05:31:49.3546497Z",
   "Players": [
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "googie",
       "Steam": "76561199881237918",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 2,
+      "Time": "08:30"
     },
     {
       "Name": "y",
       "Steam": "76561198738970330",
-      "Score": 6,
-      "Time": "06:11"
-    },
-    {
-      "Name": "DXVXD",
-      "Steam": "76561199442363655",
-      "Score": 0,
-      "Time": "00:37"
+      "Score": 10,
+      "Time": "08:11"
     },
     {
       "Name": "RIM REAPER",
       "Steam": "76561199764138526",
-      "Score": 10,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "82:18"
+      "Time": "84:18"
     },
     {
       "Name": "moneybagchaser12@compkiller.net",
       "Steam": "76561199868125682",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "oops",
       "Steam": "76561199784575034",
-      "Score": 27,
+      "Score": 35,
       "Time": "??:??"
     }
   ]
