@@ -1,4 +1,29 @@
 {
-  "Time": "2026-02-16T23:06:11.8979843Z",
-  "Players": []
+  "Time": "2026-02-16T23:07:11.841791Z",
+  "Players": [
+    {
+      "Name": "cookies",
+      "Steam": "76561199740544730",
+      "Score": 25,
+      "Time": "17:27"
+    },
+    {
+      "Name": "gingerbreadman102",
+      "Steam": "76561198791541733",
+      "Score": 0,
+      "Time": "59:52"
+    },
+    {
+      "Name": "y",
+      "Steam": "76561198738970330",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vlad the Impaler",
+      "Steam": "76561198741118293",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
