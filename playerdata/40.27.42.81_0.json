@@ -1,17 +1,29 @@
 {
-  "Time": "2026-02-16T03:07:51.724605Z",
+  "Time": "2026-02-16T03:09:51.7174745Z",
   "Players": [
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 2,
+      "Time": "02:00"
+    },
     {
       "Name": "imnotdoggo",
       "Steam": "76561198787397270",
-      "Score": 10,
-      "Time": "67:39"
+      "Score": 14,
+      "Time": "69:39"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 0,
-      "Time": "00:31"
+      "Score": 6,
+      "Time": "02:31"
+    },
+    {
+      "Name": "testing nixware beta",
+      "Steam": "76561198748840225",
+      "Score": 2,
+      "Time": "190:02"
     },
     {
       "Name": "nixware beta",
@@ -22,20 +34,20 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 4,
-      "Time": "42:34"
+      "Score": 7,
+      "Time": "44:34"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
       "Score": 1,
-      "Time": "14:08"
+      "Time": "16:08"
     },
     {
       "Name": "\uD835\uDD3E\uD835\uDD6B \uD835\uDD4Eℝ\uD835\uDD43\uD835\uDD3B",
       "Steam": "76561198782009269",
-      "Score": 0,
-      "Time": "86:43"
+      "Score": 2,
+      "Time": "88:43"
     }
   ]
 }
