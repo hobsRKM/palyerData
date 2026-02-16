@@ -1,4 +1,53 @@
 {
-  "Time": "2026-02-16T22:14:11.8980262Z",
-  "Players": []
+  "Time": "2026-02-16T22:15:11.8410149Z",
+  "Players": [
+    {
+      "Name": "one",
+      "Steam": "76561199571686760",
+      "Score": 12,
+      "Time": "05:30"
+    },
+    {
+      "Name": "missed due ******",
+      "Steam": "76561199863303946",
+      "Score": 4,
+      "Time": "10:45"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 35,
+      "Time": "09:00"
+    },
+    {
+      "Name": "gingerbreadman102",
+      "Steam": "76561198791541733",
+      "Score": 16,
+      "Time": "07:52"
+    },
+    {
+      "Name": "femboy enjoyer",
+      "Steam": "76561199158419168",
+      "Score": 54,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kyouki",
+      "Steam": "76561198738058926",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 45,
+      "Time": "??:??"
+    },
+    {
+      "Name": "@imm0rtalsoulz",
+      "Steam": "76561198737106605",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
