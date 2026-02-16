@@ -1,65 +1,71 @@
 {
-  "Time": "2026-02-16T01:50:10.1933361Z",
+  "Time": "2026-02-16T01:52:10.2183678Z",
   "Players": [
     {
       "Name": "Zup",
       "Steam": "76561198988388002",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "euro",
       "Steam": "76561198735329178",
-      "Score": 1,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "27",
+      "Steam": "76561199040929223",
+      "Score": 0,
+      "Time": "172:37"
     },
     {
       "Name": "Robin_Hood",
       "Steam": "76561198314353524",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "rolik",
       "Steam": "76561198999548268",
-      "Score": 0,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Walter White",
+      "Steam": "76561199105839449",
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 12,
-      "Time": "04:42"
+      "Score": 2,
+      "Time": "06:42"
     },
     {
       "Name": "Adameczek",
       "Steam": "76561198762187365",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "⁹⁹⁹marosko",
       "Steam": "76561199499013499",
-      "Score": 44,
-      "Time": "390:46"
+      "Score": 58,
+      "Time": "392:46"
     },
     {
       "Name": "i fw whores",
       "Steam": "76561199436615642",
-      "Score": 6,
-      "Time": "11:33"
-    },
-    {
-      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗwizu",
-      "Steam": "76561198784574810",
-      "Score": 0,
-      "Time": "92:01"
+      "Score": 8,
+      "Time": "13:33"
     },
     {
       "Name": "xxc",
       "Steam": "76561198098746452",
-      "Score": 36,
-      "Time": "72:45"
+      "Score": 45,
+      "Time": "74:45"
     },
     {
       "Name": "ju$jay",
@@ -71,7 +77,7 @@
       "Name": "Bobby",
       "Steam": "76561199004353922",
       "Score": 4,
-      "Time": "66:36"
+      "Time": "68:36"
     }
   ]
 }
