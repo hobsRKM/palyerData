@@ -1,64 +1,70 @@
 {
-  "Time": "2026-02-16T06:05:49.3593505Z",
+  "Time": "2026-02-16T06:07:49.3533882Z",
   "Players": [
+    {
+      "Name": "proudhunter122",
+      "Steam": "76561198747429448",
+      "Score": 10,
+      "Time": "467:39"
+    },
     {
       "Name": "yuka",
       "Steam": "76561198994825781",
-      "Score": 52,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "googie",
       "Steam": "76561199881237918",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 96,
-      "Time": "42:30"
+      "Score": 110,
+      "Time": "44:30"
+    },
+    {
+      "Name": "asdghjsafkasd",
+      "Steam": "76561198740970378",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "☣",
       "Steam": "76561199499655946",
       "Score": 5,
-      "Time": "07:27"
+      "Time": "09:27"
     },
     {
       "Name": "hello world",
       "Steam": "76561198900087958",
-      "Score": 64,
-      "Time": "??:??"
-    },
-    {
-      "Name": "SpErTMing",
-      "Steam": "76561199069295120",
-      "Score": 0,
+      "Score": 78,
       "Time": "??:??"
     },
     {
       "Name": "icedancer",
       "Steam": "76561197995675648",
-      "Score": 2,
-      "Time": "00:55"
+      "Score": 4,
+      "Time": "00:03"
     },
     {
       "Name": "y",
       "Steam": "76561198738970330",
-      "Score": 26,
-      "Time": "42:11"
+      "Score": 31,
+      "Time": "44:11"
     },
     {
       "Name": "e3",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "118:18"
+      "Time": "120:18"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
-      "Score": 44,
+      "Score": 48,
       "Time": "??:??"
     }
   ]
