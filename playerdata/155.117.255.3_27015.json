@@ -1,4 +1,29 @@
 {
-  "Time": "2026-02-16T20:54:11.8980425Z",
-  "Players": []
+  "Time": "2026-02-16T20:55:11.8372384Z",
+  "Players": [
+    {
+      "Name": "RIM REAPER",
+      "Steam": "76561199764138526",
+      "Score": 0,
+      "Time": "36:45"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 14,
+      "Time": "02:27"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 1,
+      "Time": "13:12"
+    },
+    {
+      "Name": "nity.lua         pf0x1",
+      "Steam": "76561199660143840",
+      "Score": 10,
+      "Time": "08:37"
+    }
+  ]
 }
