@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-16T03:50:12.4701685Z",
+  "Time": "2026-02-16T03:52:12.500782Z",
   "Players": [
     {
       "Name": "amanda young",
       "Steam": "76561198771953364",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "sym",
       "Steam": "76561199216490972",
-      "Score": 10,
-      "Time": "130:26"
+      "Score": 21,
+      "Time": "132:26"
     },
     {
       "Name": "iLoveNegev",
       "Steam": "76561198737860918",
-      "Score": 8,
-      "Time": "119:46"
+      "Score": 10,
+      "Time": "121:46"
     },
     {
       "Name": "prostygracz02010",
       "Steam": "76561199813719808",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "Bottas",
+      "Steam": "76561199548005757",
+      "Score": 2,
+      "Time": "01:03"
     },
     {
       "Name": "Adameczek",
@@ -34,20 +40,20 @@
     {
       "Name": "999KAZ | 02",
       "Steam": "76561198747884214",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "o LLREZZZ",
+      "Name": "onetap LLREZZZ",
       "Steam": "76561198033476377",
-      "Score": 18,
-      "Time": "12:20"
+      "Score": 28,
+      "Time": "14:20"
     },
     {
       "Name": "peter09010",
       "Steam": "76561198739635625",
-      "Score": 26,
-      "Time": "53:33"
+      "Score": 36,
+      "Time": "55:33"
     }
   ]
 }
