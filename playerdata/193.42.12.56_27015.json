@@ -1,47 +1,53 @@
 {
-  "Time": "2026-02-16T04:08:12.8780429Z",
+  "Time": "2026-02-16T04:10:12.9256908Z",
   "Players": [
     {
       "Name": "sym",
       "Steam": "76561199216490972",
-      "Score": 99,
-      "Time": "148:26"
+      "Score": 110,
+      "Time": "150:26"
     },
     {
       "Name": "iLoveNegev",
       "Steam": "76561198737860918",
-      "Score": 42,
-      "Time": "137:46"
+      "Score": 49,
+      "Time": "139:46"
     },
     {
       "Name": "Bottas",
       "Steam": "76561199548005757",
-      "Score": 60,
-      "Time": "17:03"
+      "Score": 62,
+      "Time": "19:03"
+    },
+    {
+      "Name": "DIZAKS",
+      "Steam": "76561198284416669",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "tappedbynix",
       "Steam": "76561198737971204",
-      "Score": 10,
-      "Time": "04:48"
+      "Score": 18,
+      "Time": "06:48"
     },
     {
-      "Name": "onetap.c LLREZZZ",
+      "Name": "one LLREZZZ",
       "Steam": "76561198033476377",
-      "Score": 62,
-      "Time": "30:21"
+      "Score": 64,
+      "Time": "32:21"
     },
     {
       "Name": "peter09010",
       "Steam": "76561198739635625",
-      "Score": 74,
-      "Time": "71:34"
+      "Score": 78,
+      "Time": "73:34"
     },
     {
       "Name": "gamergirl42069",
       "Steam": "76561198737983959",
-      "Score": 25,
-      "Time": "12:22"
+      "Score": 29,
+      "Time": "14:22"
     }
   ]
 }
