@@ -1,23 +1,35 @@
 {
-  "Time": "2026-02-16T17:08:23.2464943Z",
+  "Time": "2026-02-16T17:10:23.2471646Z",
   "Players": [
+    {
+      "Name": "\"'",
+      "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "putthefiresdsa",
+      "Steam": "76561198736816257",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "yo yo it's hump day",
       "Steam": "76561198118464538",
-      "Score": 40,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "iLoveNegev",
       "Steam": "76561198737860918",
-      "Score": 20,
-      "Time": "158:05"
+      "Score": 23,
+      "Time": "160:05"
     },
     {
       "Name": "Jonny 88",
       "Steam": "76561198753890382",
-      "Score": 13,
-      "Time": "39:23"
+      "Score": 17,
+      "Time": "41:23"
     }
   ]
 }
