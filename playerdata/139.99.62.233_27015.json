@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-16T11:34:34.6763413Z",
+  "Time": "2026-02-16T11:36:34.6761531Z",
   "Players": [
     {
       "Name": "dont cry men",
       "Steam": "76561199200344519",
-      "Score": 23,
-      "Time": "72:14"
+      "Score": 32,
+      "Time": "74:14"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 35,
-      "Time": "21:03"
+      "Score": 39,
+      "Time": "23:03"
+    },
+    {
+      "Name": "ef350844",
+      "Steam": "76561198752780368",
+      "Score": 0,
+      "Time": "01:54"
     },
     {
       "Name": "okio",
       "Steam": "76561199724403388",
-      "Score": 34,
-      "Time": "59:44"
+      "Score": 40,
+      "Time": "61:44"
     },
     {
       "Name": "Shimadon",
@@ -28,14 +34,14 @@
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 23,
-      "Time": "32:30"
+      "Score": 31,
+      "Time": "34:30"
     },
     {
       "Name": "blackbootytyrone",
       "Steam": "76561198740337495",
-      "Score": 7,
-      "Time": "05:46"
+      "Score": 13,
+      "Time": "07:46"
     }
   ]
 }
