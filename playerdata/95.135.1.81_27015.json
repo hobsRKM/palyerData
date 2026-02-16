@@ -1,52 +1,46 @@
 {
-  "Time": "2026-02-16T15:20:23.2383107Z",
+  "Time": "2026-02-16T15:22:23.245258Z",
   "Players": [
+    {
+      "Name": "IDKlegit",
+      "Steam": "76561199037222147",
+      "Score": 6,
+      "Time": "01:03"
+    },
     {
       "Name": "Danz Hun",
       "Steam": "76561198160571123",
-      "Score": 100,
+      "Score": 118,
       "Time": "??:??"
-    },
-    {
-      "Name": "XyroN",
-      "Steam": "76561199493991967",
-      "Score": 0,
-      "Time": "16:22"
     },
     {
       "Name": "ᵐᵉᶦ",
       "Steam": "76561198163931082",
-      "Score": 11,
-      "Time": "??:??"
-    },
-    {
-      "Name": "NN",
-      "Steam": "76561198787244864",
-      "Score": 11,
-      "Time": "??:??"
-    },
-    {
-      "Name": "M1RtiN4oo",
-      "Steam": "76561198794087367",
-      "Score": 46,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "otc enjoyer",
       "Steam": "76561198751548921",
       "Score": 0,
-      "Time": "08:59"
+      "Time": "10:59"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗwizu",
+      "Steam": "76561198784574810",
+      "Score": 0,
+      "Time": "00:57"
     },
     {
       "Name": "Caetix2",
       "Steam": "76561199791986410",
-      "Score": 3,
-      "Time": "187:50"
+      "Score": 6,
+      "Time": "189:50"
     },
     {
       "Name": "⁹⁹⁹marosko",
       "Steam": "76561199499013499",
-      "Score": 21,
+      "Score": 29,
       "Time": "??:??"
     },
     {
@@ -56,22 +50,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "memesense.gg bo$$",
-      "Steam": "76561198753614096",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "yes",
       "Steam": "76561199841638799",
-      "Score": 23,
-      "Time": "11:53"
+      "Score": 26,
+      "Time": "13:53"
     },
     {
       "Name": "iLoveNegev",
       "Steam": "76561198737860918",
-      "Score": 54,
-      "Time": "50:05"
+      "Score": 56,
+      "Time": "52:05"
     },
     {
       "Name": "Adameczek",
@@ -82,13 +70,13 @@
     {
       "Name": "szachta",
       "Steam": "76561198744997854",
-      "Score": 19,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Johnny",
       "Steam": "76561199028582444",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
