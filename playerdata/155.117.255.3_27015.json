@@ -1,4 +1,29 @@
 {
-  "Time": "2026-02-16T22:52:11.8979756Z",
-  "Players": []
+  "Time": "2026-02-16T22:53:11.830252Z",
+  "Players": [
+    {
+      "Name": "cookies",
+      "Steam": "76561199740544730",
+      "Score": 6,
+      "Time": "03:27"
+    },
+    {
+      "Name": "gingerbreadman102",
+      "Steam": "76561198791541733",
+      "Score": 0,
+      "Time": "45:52"
+    },
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 12,
+      "Time": "35:45"
+    },
+    {
+      "Name": "@imm0rtalsoulz",
+      "Steam": "76561198737106605",
+      "Score": 2,
+      "Time": "01:10"
+    }
+  ]
 }
