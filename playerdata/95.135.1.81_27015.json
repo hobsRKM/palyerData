@@ -1,71 +1,77 @@
 {
-  "Time": "2026-02-16T21:30:23.2440778Z",
+  "Time": "2026-02-16T21:32:23.2426206Z",
   "Players": [
+    {
+      "Name": "void",
+      "Steam": "76561199503396912",
+      "Score": 13,
+      "Time": "01:20"
+    },
     {
       "Name": "Dexter Morgan",
       "Steam": "76561199696258960",
-      "Score": 19,
-      "Time": "332:57"
-    },
-    {
-      "Name": "tappedbynix",
-      "Steam": "76561198737971204",
-      "Score": 11,
-      "Time": "375:02"
-    },
-    {
-      "Name": "s e n s e",
-      "Steam": "76561198817058279",
-      "Score": 0,
-      "Time": "00:23"
+      "Score": 31,
+      "Time": "334:57"
     },
     {
       "Name": "xxc",
       "Steam": "76561198098746452",
-      "Score": 49,
-      "Time": "26:14"
+      "Score": 56,
+      "Time": "28:14"
     },
     {
       "Name": "nico.",
       "Steam": "76561199180147646",
-      "Score": 40,
-      "Time": "25:10"
+      "Score": 42,
+      "Time": "27:10"
+    },
+    {
+      "Name": "Umbral Exalted",
+      "Steam": "76561198768077402",
+      "Score": 0,
+      "Time": "01:22"
     },
     {
       "Name": "Jonny 88",
       "Steam": "76561198753890382",
-      "Score": 33,
-      "Time": "18:27"
+      "Score": 41,
+      "Time": "20:27"
     },
     {
-      "Name": "C",
-      "Steam": "76561199867367978",
-      "Score": 44,
-      "Time": "20:01"
+      "Name": "@kwquexy",
+      "Steam": "76561198858701949",
+      "Score": 0,
+      "Time": "00:26"
     },
     {
       "Name": "No land penalty abuser",
       "Steam": "76561198162520186",
-      "Score": 21,
-      "Time": "25:00"
+      "Score": 29,
+      "Time": "27:00"
     },
     {
       "Name": "kapiub0b",
       "Steam": "76561198151423700",
-      "Score": 45,
-      "Time": "25:07"
+      "Score": 47,
+      "Time": "27:07"
     },
     {
       "Name": "felix",
       "Steam": "76561198765165744",
       "Score": 33,
-      "Time": "484:31"
+      "Time": "486:31"
+    },
+    {
+      "Name": "s1mple",
+      "Steam": "76561198759156023",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Noah111 //",
       "Steam": "76561198880699322",
-      "Score": 0,
-      "Time": "71:19"
+      "Score": 4,
+      "Time": "73:19"
     }
   ]
 }
