@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-17T23:11:22.2426701Z",
+  "Time": "2026-02-17T23:13:22.2493047Z",
   "Players": [
     {
       "Name": "Kronos",
       "Steam": "76561198058308132",
-      "Score": 22,
+      "Score": 30,
       "Time": "??:??"
+    },
+    {
+      "Name": "CAP",
+      "Steam": "76561198756732356",
+      "Score": 2,
+      "Time": "339:02"
     },
     {
       "Name": "quatripiolrr2",
       "Steam": "76561198744760375",
-      "Score": 13,
-      "Time": "38:50"
+      "Score": 16,
+      "Time": "40:50"
     },
     {
       "Name": "Pietrucha w Bidonie",
       "Steam": "76561199447391054",
-      "Score": 22,
-      "Time": "06:34"
+      "Score": 26,
+      "Time": "08:34"
     }
   ]
 }
