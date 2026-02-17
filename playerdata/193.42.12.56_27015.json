@@ -1,59 +1,65 @@
 {
-  "Time": "2026-02-17T11:59:43.6343636Z",
+  "Time": "2026-02-17T12:01:43.6396108Z",
   "Players": [
+    {
+      "Name": "ᴷᵒᵖᶠᵗʀᴇᴠ",
+      "Steam": "76561199868471969",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Nex11",
       "Steam": "76561199102406785",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Rs",
       "Steam": "76561199836203666",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Envyy..",
       "Steam": "76561198750044238",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 62,
-      "Time": "03:55"
+      "Score": 64,
+      "Time": "05:55"
+    },
+    {
+      "Name": "i miss her",
+      "Steam": "76561198737008069",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗMjay",
       "Steam": "76561199237707727",
-      "Score": 38,
-      "Time": "34:12"
+      "Score": 44,
+      "Time": "36:12"
     },
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 22,
-      "Time": "63:26"
+      "Score": 26,
+      "Time": "65:26"
     },
     {
       "Name": "R1ck",
       "Steam": "76561199050470003",
-      "Score": 37,
-      "Time": "21:59"
+      "Score": 45,
+      "Time": "23:59"
     },
     {
       "Name": "ᵃˢᶜʸⁿ RetroSpective",
       "Steam": "76561199504650285",
-      "Score": 33,
-      "Time": "09:18"
-    },
-    {
-      "Name": "memesense.gg bo$$",
-      "Steam": "76561198753614096",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 45,
+      "Time": "11:18"
     },
     {
       "Name": "das",
@@ -64,14 +70,8 @@
     {
       "Name": "Sato #mhrt",
       "Steam": "76561199732115959",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗwizu",
-      "Steam": "76561198784574810",
-      "Score": 0,
-      "Time": "00:51"
     }
   ]
 }
