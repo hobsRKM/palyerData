@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-17T23:17:22.2415626Z",
+  "Time": "2026-02-17T23:19:22.2419784Z",
   "Players": [
     {
       "Name": "Kronos",
       "Steam": "76561198058308132",
-      "Score": 35,
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SM3RF",
+      "Steam": "76561199267532979",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "quatripiolrr2",
       "Steam": "76561198744760375",
-      "Score": 10,
-      "Time": "44:50"
+      "Score": 20,
+      "Time": "46:50"
     },
     {
-      "Name": "TempleW~re | Templecheats.xyz | Beta Tester",
+      "Name": "Temple~are | Templecheats.xyz | Beta Tester",
       "Steam": "76561198735639738",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Pietrucha w Bidonie",
       "Steam": "76561199447391054",
-      "Score": 40,
-      "Time": "12:34"
+      "Score": 48,
+      "Time": "14:34"
     }
   ]
 }
