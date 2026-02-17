@@ -1,10 +1,16 @@
 {
-  "Time": "2026-02-17T12:45:17.1374243Z",
+  "Time": "2026-02-17T12:47:17.136285Z",
   "Players": [
+    {
+      "Name": "R1ck",
+      "Steam": "76561199050470003",
+      "Score": 0,
+      "Time": "00:08"
+    },
     {
       "Name": "I LOVE SCAR!",
       "Steam": "76561198778758389",
-      "Score": 28,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -16,13 +22,13 @@
     {
       "Name": "marsfromelsewhere",
       "Steam": "76561199186278510",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Burning HOT",
       "Steam": "76561199833674548",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
