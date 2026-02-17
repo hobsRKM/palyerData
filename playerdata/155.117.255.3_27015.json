@@ -1,4 +1,35 @@
 {
-  "Time": "2026-02-17T17:19:14.2146306Z",
-  "Players": []
+  "Time": "2026-02-17T17:20:16.9716398Z",
+  "Players": [
+    {
+      "Name": "one",
+      "Steam": "76561199571686760",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tHeMuRIN",
+      "Steam": "76561199568404934",
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDD3E\uD835\uDD6B \uD835\uDD4Eℝ\uD835\uDD43\uD835\uDD3B",
+      "Steam": "76561198782009269",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "proudhunter122",
+      "Steam": "76561198747429448",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "percoset",
+      "Steam": "76561198293312486",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
