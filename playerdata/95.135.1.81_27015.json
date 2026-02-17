@@ -1,59 +1,71 @@
 {
-  "Time": "2026-02-17T18:07:17.1352679Z",
+  "Time": "2026-02-17T18:09:17.1453626Z",
   "Players": [
+    {
+      "Name": "fentanyl",
+      "Steam": "76561199469674316",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Eminem",
       "Steam": "76561199183131013",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Nex11",
       "Steam": "76561199102406785",
-      "Score": 6,
-      "Time": "130:18"
+      "Score": 8,
+      "Time": "132:18"
     },
     {
       "Name": "Big J Drippy",
       "Steam": "76561199837815539",
       "Score": 0,
-      "Time": "23:40"
+      "Time": "25:40"
     },
     {
       "Name": "pxnch",
       "Steam": "76561198827507307",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Bean_",
       "Steam": "76561199096646407",
-      "Score": 9,
-      "Time": "72:36"
+      "Score": 15,
+      "Time": "74:36"
     },
     {
       "Name": "zwierzu",
       "Steam": "76561199052232969",
-      "Score": 8,
-      "Time": "30:31"
+      "Score": 11,
+      "Time": "32:31"
+    },
+    {
+      "Name": "muhammad live channel",
+      "Steam": "76561199516834404",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "GAME - SENSE NIGHTLY (◣_◢)",
       "Steam": "76561199629184110",
-      "Score": 32,
-      "Time": "00:53"
+      "Score": 44,
+      "Time": "02:53"
     },
     {
-      "Name": "2005",
-      "Steam": "76561198806792145",
-      "Score": 19,
-      "Time": "41:46"
+      "Name": "B0Busss",
+      "Steam": "76561199773403358",
+      "Score": 0,
+      "Time": "01:59"
     },
     {
       "Name": "erick",
       "Steam": "76561199493665678",
-      "Score": 7,
-      "Time": "12:24"
+      "Score": 8,
+      "Time": "14:24"
     }
   ]
 }
