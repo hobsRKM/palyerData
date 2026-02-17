@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-17T02:30:52.4061662Z",
+  "Time": "2026-02-17T02:32:52.3967922Z",
   "Players": [
     {
       "Name": "HardTry",
       "Steam": "76561198774309786",
-      "Score": 0,
-      "Time": "51:06"
+      "Score": 5,
+      "Time": "53:06"
+    },
+    {
+      "Name": "silent",
+      "Steam": "76561199002053532",
+      "Score": 2,
+      "Time": "01:13"
     },
     {
       "Name": "Unknown Player",
       "Steam": "76561198742671806",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -22,19 +28,25 @@
     {
       "Name": "Jack",
       "Steam": "76561199855782571",
-      "Score": 43,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "paf",
       "Steam": "76561198757045910",
       "Score": 10,
-      "Time": "03:19"
+      "Time": "05:19"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 4,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fire",
+      "Steam": "76561199475377318",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
