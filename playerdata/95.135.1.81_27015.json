@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-17T17:19:17.144801Z",
+  "Time": "2026-02-17T17:21:17.1384262Z",
   "Players": [
+    {
+      "Name": "void",
+      "Steam": "76561199503396912",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "\uD835\uDD30\uD835\uDD2C\uD835\uDD23\uD835\uDD26\uD835\uDD1E",
       "Steam": "76561199822757102",
-      "Score": 21,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "SebastianHLG97",
       "Steam": "76561199522745959",
-      "Score": 4,
-      "Time": "06:26"
+      "Score": 7,
+      "Time": "08:26"
     },
     {
       "Name": "Sato #mhrt",
       "Steam": "76561199732115959",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 96,
+      "Score": 104,
       "Time": "??:??"
     },
     {
       "Name": "Big J Drippy",
       "Steam": "76561199837815539",
-      "Score": 20,
-      "Time": "34:25"
+      "Score": 24,
+      "Time": "36:25"
     },
     {
       "Name": "Umbral Exalted",
@@ -38,45 +44,39 @@
       "Time": "??:??"
     },
     {
-      "Name": "Tofuu",
-      "Steam": "76561199094388949",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "mokryqq",
+      "Steam": "76561198735412074",
+      "Score": 2,
+      "Time": "01:40"
     },
     {
       "Name": "⁹⁹⁹marosko",
       "Steam": "76561199499013499",
-      "Score": 12,
-      "Time": "21:01"
+      "Score": 14,
+      "Time": "23:01"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 0,
-      "Time": "01:17"
-    },
-    {
-      "Name": "b51572889",
-      "Steam": "76561199068164035",
-      "Score": 116,
-      "Time": "??:??"
+      "Score": 11,
+      "Time": "03:17"
     },
     {
       "Name": "nixwareuser",
       "Steam": "76561198745332088",
-      "Score": 19,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": ":)",
       "Steam": "76561198737985534",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "aqua",
       "Steam": "76561198762545123",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
