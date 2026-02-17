@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-17T14:15:17.1416713Z",
+  "Time": "2026-02-17T14:17:17.1445109Z",
   "Players": [
     {
       "Name": "I LOVE SCAR!",
       "Steam": "76561198778758389",
+      "Score": 11,
+      "Time": "27:37"
+    },
+    {
+      "Name": "Kasti",
+      "Steam": "76561199833286399",
       "Score": 0,
-      "Time": "25:37"
+      "Time": "00:40"
     },
     {
       "Name": "Seoul999",
@@ -23,30 +29,36 @@
       "Name": "iLoveNegev",
       "Steam": "76561198737860918",
       "Score": 10,
-      "Time": "08:19"
+      "Time": "10:19"
     },
     {
       "Name": "hackerboyrobloxsigma",
       "Steam": "76561199837364437",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "neaxy",
-      "Steam": "76561199048207385",
-      "Score": 30,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "z17942x",
       "Steam": "76561198737743632",
-      "Score": 27,
+      "Score": 32,
       "Time": "??:??"
+    },
+    {
+      "Name": "M1RtiN4oo",
+      "Steam": "76561198794087367",
+      "Score": 4,
+      "Time": "00:48"
     },
     {
       "Name": "!RS",
       "Steam": "76561199836203666",
-      "Score": 6,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nex11",
+      "Steam": "76561199102406785",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
