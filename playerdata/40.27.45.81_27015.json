@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-17T03:01:11.9737315Z",
+  "Time": "2026-02-17T03:03:11.9767891Z",
   "Players": [
     {
       "Name": "one",
       "Steam": "76561199571686760",
-      "Score": 9,
-      "Time": "59:16"
+      "Score": 12,
+      "Time": "61:16"
     },
     {
       "Name": "gingerbreadman102",
       "Steam": "76561198791541733",
-      "Score": 8,
-      "Time": "03:25"
+      "Score": 19,
+      "Time": "05:25"
+    },
+    {
+      "Name": "moneybagchaser12@compkiller.net",
+      "Steam": "76561199868125682",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "missed due ******",
       "Steam": "76561199863303946",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "kazi :3",
       "Steam": "76561198742613323",
-      "Score": 2,
-      "Time": "03:47"
+      "Score": 4,
+      "Time": "05:47"
     }
   ]
 }
