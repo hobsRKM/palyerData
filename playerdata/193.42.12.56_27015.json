@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-18T17:05:59.6092583Z",
+  "Time": "2026-02-18T17:07:59.6153046Z",
   "Players": [
+    {
+      "Name": "Dolph",
+      "Steam": "76561199054726584",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "bottega",
       "Steam": "76561199816063339",
@@ -16,62 +22,80 @@
     {
       "Name": "silent",
       "Steam": "76561199002053532",
-      "Score": 7,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "bmw enjoyer",
-      "Steam": "76561198845537009",
-      "Score": 13,
+      "Name": ".",
+      "Steam": "76561198739229638",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "DeadCodeine",
+      "Steam": "76561199378283811",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "pyrazolam",
       "Steam": "76561198277895770",
-      "Score": 66,
-      "Time": "52:12"
+      "Score": 76,
+      "Time": "54:12"
     },
     {
       "Name": "Noah111 //",
       "Steam": "76561198880699322",
-      "Score": 15,
-      "Time": "75:17"
+      "Score": 4,
+      "Time": "77:17"
     },
     {
       "Name": "z",
       "Steam": "76561199104286406",
       "Score": 0,
-      "Time": "15:51"
+      "Time": "17:51"
     },
     {
       "Name": "erick",
       "Steam": "76561199493665678",
-      "Score": 10,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "миссаю в локти",
+      "Steam": "76561199184756890",
       "Score": 0,
       "Time": "??:??"
     },
     {
+      "Name": "cairo",
+      "Steam": "76561198755398524",
+      "Score": 14,
+      "Time": "01:23"
+    },
+    {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 7,
-      "Time": "10:30"
+      "Score": 11,
+      "Time": "12:30"
     },
     {
       "Name": "hocus pocus",
       "Steam": "76561199888197236",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "fat HardTry",
       "Steam": "76561198774309786",
-      "Score": 0,
-      "Time": "30:42"
+      "Score": 3,
+      "Time": "32:42"
     }
   ]
 }
