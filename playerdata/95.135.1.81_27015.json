@@ -1,29 +1,41 @@
 {
-  "Time": "2026-02-18T12:41:39.2907769Z",
+  "Time": "2026-02-18T12:43:39.2910536Z",
   "Players": [
     {
       "Name": "Envyy...",
       "Steam": "76561198750044238",
-      "Score": 2,
-      "Time": "1190:20"
+      "Score": 6,
+      "Time": "1192:20"
     },
     {
       "Name": "LastHope",
       "Steam": "76561199345907245",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "SebastianHLG97",
+      "Steam": "76561199522745959",
+      "Score": 0,
+      "Time": "1100:05"
     },
     {
       "Name": "peter09010",
       "Steam": "76561198739635625",
-      "Score": 4,
-      "Time": "93:39"
+      "Score": 2,
+      "Time": "95:39"
+    },
+    {
+      "Name": "MagyarPéter_falva",
+      "Steam": "76561198744094849",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "kzoid",
       "Steam": "76561198138563445",
-      "Score": 6,
-      "Time": "04:18"
+      "Score": 10,
+      "Time": "06:18"
     }
   ]
 }
