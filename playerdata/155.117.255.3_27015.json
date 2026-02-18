@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-18T22:22:52.5833638Z",
+  "Time": "2026-02-18T22:24:52.5842438Z",
   "Players": [
     {
-      "Name": "cheeziepooh",
+      "Name": "ageneote",
+      "Steam": "76561198849284665",
+      "Score": 46,
+      "Time": "00:15"
+    },
+    {
+      "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 90,
+      "Score": 96,
       "Time": "??:??"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 0,
-      "Time": "06:36"
+      "Score": 6,
+      "Time": "08:36"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561199617596511",
-      "Score": 99,
+      "Score": 107,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 57,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "cheeziepooh",
       "Steam": "76561198273566562",
-      "Score": 23,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 5,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
