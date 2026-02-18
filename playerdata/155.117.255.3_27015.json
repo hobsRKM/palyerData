@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-18T21:52:52.5748733Z",
+  "Time": "2026-02-18T21:54:52.5795748Z",
   "Players": [
+    {
+      "Name": "netanyahu",
+      "Steam": "76561198741118293",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "BuyMeSubPLS",
       "Steam": "76561199371057177",
@@ -10,7 +16,7 @@
     {
       "Name": "Level 4",
       "Steam": "76561198736848908",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
@@ -22,36 +28,48 @@
     {
       "Name": "ageneote",
       "Steam": "76561198849284665",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "eternity.lua  bill",
       "Steam": "76561199013445293",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "magrelo",
       "Steam": "76561199529552889",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "n1",
       "Steam": "76561198451801636",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:33"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "el perro",
+      "Steam": "76561199617596511",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sukia",
+      "Steam": "76561198779549924",
       "Score": 0,
       "Time": "??:??"
     }
