@@ -1,47 +1,53 @@
 {
-  "Time": "2026-02-18T13:22:35.3636594Z",
+  "Time": "2026-02-18T13:24:35.3522624Z",
   "Players": [
     {
       "Name": "GJEES",
       "Steam": "76561198734556469",
-      "Score": 56,
-      "Time": "24:02"
+      "Score": 0,
+      "Time": "26:02"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 67,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 66,
-      "Time": "35:32"
+      "Score": 0,
+      "Time": "37:32"
     },
     {
       "Name": "Best Music",
       "Steam": "76561199829905037",
-      "Score": 82,
-      "Time": "105:50"
+      "Score": 2,
+      "Time": "107:50"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 66,
-      "Time": "44:17"
+      "Score": 2,
+      "Time": "46:17"
     },
     {
       "Name": "yen7",
       "Steam": "76561199693252775",
-      "Score": 44,
-      "Time": "40:30"
+      "Score": 0,
+      "Time": "42:30"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 96,
-      "Time": "75:54"
+      "Score": 0,
+      "Time": "77:54"
+    },
+    {
+      "Name": "Jeff",
+      "Steam": "76561199275508437",
+      "Score": 2,
+      "Time": "00:46"
     }
   ]
 }
