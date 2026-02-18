@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-18T18:30:02.5783978Z",
+  "Time": "2026-02-18T18:32:02.5828359Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,19 +10,25 @@
     {
       "Name": "Vlad the Impaler",
       "Steam": "76561198741118293",
-      "Score": 38,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 16,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "amish",
+      "Steam": "76561199571686760",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
