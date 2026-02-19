@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-19T11:40:33.1137805Z",
+  "Time": "2026-02-19T11:42:33.1195295Z",
   "Players": [
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 9,
-      "Time": "63:36"
+      "Score": 16,
+      "Time": "65:36"
+    },
+    {
+      "Name": "headshot machine #1",
+      "Steam": "76561198733878659",
+      "Score": 3,
+      "Time": "??:??"
     },
     {
       "Name": "Dior⁧⁧hedi",
       "Steam": "76561197994977537",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 16,
-      "Time": "01:22"
+      "Score": 22,
+      "Time": "03:22"
     }
   ]
 }
