@@ -1,65 +1,77 @@
 {
-  "Time": "2026-02-19T18:26:02.715503Z",
+  "Time": "2026-02-19T18:28:02.7163435Z",
   "Players": [
     {
       "Name": "otc enjoyer",
       "Steam": "76561198751548921",
+      "Score": 2,
+      "Time": "133:49"
+    },
+    {
+      "Name": "keaten.noahh",
+      "Steam": "76561198767470641",
       "Score": 0,
-      "Time": "131:49"
+      "Time": "??:??"
     },
     {
       "Name": "Lern Kidda",
       "Steam": "76561199512205574",
       "Score": 10,
-      "Time": "69:33"
+      "Time": "71:33"
     },
     {
       "Name": "\uD835\uDD87\uD835\uDD94\uD835\uDD8C\uD835\uDD89\uD835\uDD8E\uD835\uDD91\uD835\uDD8E\uD835\uDD88",
       "Steam": "76561198987900607",
-      "Score": 6,
-      "Time": "07:54"
+      "Score": 10,
+      "Time": "09:54"
     },
     {
       "Name": "p",
       "Steam": "76561199435840322",
-      "Score": 0,
-      "Time": "135:52"
+      "Score": 8,
+      "Time": "137:52"
     },
     {
       "Name": "aimware pro",
       "Steam": "76561199696258960",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
       "Score": 0,
-      "Time": "472:33"
+      "Time": "474:33"
     },
     {
       "Name": "17 cm de plaisir",
       "Steam": "76561199187115705",
-      "Score": 17,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
+      "Steam": "76561198341012123",
+      "Score": 1,
+      "Time": "1199:58"
     },
     {
       "Name": "zwierzu",
       "Steam": "76561199052232969",
-      "Score": 22,
-      "Time": "33:41"
+      "Score": 25,
+      "Time": "35:41"
     },
     {
       "Name": "Sadman009",
       "Steam": "76561199851471634",
-      "Score": 32,
-      "Time": "1217:23"
+      "Score": 43,
+      "Time": "1219:23"
     },
     {
       "Name": "Ferox",
       "Steam": "76561199377440484",
-      "Score": 11,
-      "Time": "18:15"
+      "Score": 2,
+      "Time": "20:15"
     },
     {
       "Name": "osiris beta tester",
@@ -76,8 +88,8 @@
     {
       "Name": "LIFEHAAACK BITCH (◣_◢)",
       "Steam": "76561198431997616",
-      "Score": 7,
-      "Time": "07:03"
+      "Score": 15,
+      "Time": "09:03"
     }
   ]
 }
