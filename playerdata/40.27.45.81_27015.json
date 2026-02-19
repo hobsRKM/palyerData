@@ -1,28 +1,34 @@
 {
-  "Time": "2026-02-19T19:55:12.5311958Z",
+  "Time": "2026-02-19T19:57:12.5377573Z",
   "Players": [
+    {
+      "Name": "ุ",
+      "Steam": "76561198737980842",
+      "Score": 7,
+      "Time": "00:51"
+    },
     {
       "Name": "proudhunter122",
       "Steam": "76561198747429448",
-      "Score": 43,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "KIKI",
       "Steam": "76561199711544927",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 20,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -34,7 +40,13 @@
     {
       "Name": "Piotrek0407(PL)",
       "Steam": "76561198809896283",
-      "Score": 0,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "enigma hvh user",
+      "Steam": "76561198780590190",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
