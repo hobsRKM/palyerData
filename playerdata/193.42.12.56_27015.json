@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-19T09:52:00.7043947Z",
+  "Time": "2026-02-19T09:54:00.7056315Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,38 +10,44 @@
     {
       "Name": "syntrix",
       "Steam": "76561199230497763",
-      "Score": 0,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561199614586205",
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Casablanca",
       "Steam": "76561198160571123",
-      "Score": 15,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": ".Luna_x.,",
       "Steam": "76561199731660059",
-      "Score": 9,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "⁹⁹⁹marosko",
       "Steam": "76561199499013499",
-      "Score": 19,
-      "Time": "41:23"
+      "Score": 0,
+      "Time": "43:23"
     },
     {
       "Name": "peter09010",
       "Steam": "76561198739635625",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "ᵐᵉᶦ",
       "Steam": "76561198163931082",
-      "Score": 6,
-      "Time": "09:33"
+      "Score": 0,
+      "Time": "11:33"
     },
     {
       "Name": "webster",
@@ -52,20 +58,20 @@
     {
       "Name": "?okt",
       "Steam": "76561199837364437",
-      "Score": 4,
-      "Time": "00:34"
+      "Score": 13,
+      "Time": "02:34"
     },
     {
       "Name": "privacy",
       "Steam": "76561199814635907",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "fentlover123",
       "Steam": "76561199136741331",
-      "Score": 22,
-      "Time": "12:04"
+      "Score": 36,
+      "Time": "14:04"
     }
   ]
 }
