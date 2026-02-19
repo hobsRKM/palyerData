@@ -1,59 +1,65 @@
 {
-  "Time": "2026-02-19T23:00:05.8344406Z",
+  "Time": "2026-02-19T23:02:05.873143Z",
   "Players": [
+    {
+      "Name": "krex",
+      "Steam": "76561199814635907",
+      "Score": 0,
+      "Time": "696:10"
+    },
     {
       "Name": "Медия Nexus Project",
       "Steam": "76561199849671551",
       "Score": 0,
-      "Time": "693:32"
+      "Time": "695:32"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 46,
-      "Time": "49:41"
+      "Score": 51,
+      "Time": "51:41"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 4,
-      "Time": "309:19"
+      "Score": 0,
+      "Time": "311:19"
     },
     {
       "Name": "GAME - SENSE NIGHTLY (◣_◢)",
       "Steam": "76561199629184110",
-      "Score": 76,
-      "Time": "14:08"
+      "Score": 79,
+      "Time": "16:08"
     },
     {
       "Name": "cutie",
       "Steam": "76561199002053532",
       "Score": 0,
-      "Time": "164:15"
+      "Time": "166:15"
     },
     {
       "Name": "Big J Drippy",
       "Steam": "76561199837815539",
       "Score": 0,
-      "Time": "43:48"
+      "Time": "45:48"
     },
     {
       "Name": "Phon Trevin",
       "Steam": "76561199842244548",
-      "Score": 15,
-      "Time": "19:12"
+      "Score": 17,
+      "Time": "21:12"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 51,
-      "Time": "214:43"
+      "Score": 53,
+      "Time": "216:43"
     },
     {
       "Name": "Johnny",
       "Steam": "76561199028582444",
-      "Score": 0,
-      "Time": "40:32"
+      "Score": 4,
+      "Time": "42:32"
     },
     {
       "Name": "\"'",
@@ -64,32 +70,32 @@
     {
       "Name": "Borby",
       "Steam": "76561198215570155",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "pxnch",
       "Steam": "76561198827507307",
-      "Score": 3,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "z",
       "Steam": "76561199104286406",
-      "Score": 32,
-      "Time": "16:07"
+      "Score": 6,
+      "Time": "18:08"
     },
     {
       "Name": "cairo",
       "Steam": "76561198755398524",
-      "Score": 13,
-      "Time": "34:53"
+      "Score": 16,
+      "Time": "36:53"
     },
     {
       "Name": "☽",
       "Steam": "76561199680474626",
-      "Score": 14,
-      "Time": "172:04"
+      "Score": 23,
+      "Time": "174:04"
     }
   ]
 }
