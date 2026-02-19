@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-19T07:37:15.0547916Z",
+  "Time": "2026-02-19T07:39:15.0554028Z",
   "Players": [
+    {
+      "Name": "ohcarter",
+      "Steam": "76561198772153840",
+      "Score": 12,
+      "Time": "01:59"
+    },
     {
       "Name": "VAC",
       "Steam": "76561198734466441",
@@ -10,8 +16,8 @@
     {
       "Name": "ageplay larper",
       "Steam": "76561198752975948",
-      "Score": 0,
-      "Time": "09:54"
+      "Score": 4,
+      "Time": "11:54"
     },
     {
       "Name": "Vac ban speedrun",
@@ -22,7 +28,7 @@
     {
       "Name": "\uDB40\uDC73⁧⁧lovesick",
       "Steam": "76561199258689499",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
