@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-19T22:02:31.3365479Z",
+  "Time": "2026-02-19T22:04:31.3293102Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -11,37 +11,37 @@
       "Name": "ุ",
       "Steam": "76561198737980842",
       "Score": 16,
-      "Time": "59:29"
+      "Time": "61:29"
     },
     {
       "Name": "AI",
       "Steam": "76561199887978871",
       "Score": 10,
-      "Time": "12:00"
+      "Time": "14:00"
     },
     {
       "Name": "22",
       "Steam": "76561199873250660",
-      "Score": 55,
-      "Time": "39:21"
+      "Score": 66,
+      "Time": "41:21"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 51,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "percoset",
       "Steam": "76561198293312486",
-      "Score": 61,
-      "Time": "31:32"
+      "Score": 67,
+      "Time": "33:32"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 56,
-      "Time": "37:51"
+      "Score": 62,
+      "Time": "39:51"
     },
     {
       "Name": "julius caesar",
@@ -64,14 +64,20 @@
     {
       "Name": "BERLINLESS LC MASTER",
       "Steam": "76561199883512832",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "amish",
+      "Steam": "76561199571686760",
+      "Score": 0,
+      "Time": "00:35"
     }
   ]
 }
