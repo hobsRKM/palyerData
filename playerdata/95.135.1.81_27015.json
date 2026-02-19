@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-19T00:40:02.2516658Z",
+  "Time": "2026-02-19T00:42:02.2399822Z",
   "Players": [
     {
       "Name": "G>A",
@@ -8,10 +8,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "hocus pocus",
+      "Steam": "76561199888197236",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
       "Name": "Медия Nexus Project",
       "Steam": "76561199849671551",
-      "Score": 41,
-      "Time": "27:48"
+      "Score": 50,
+      "Time": "29:48"
     },
     {
       "Name": "Envyy...",
@@ -22,38 +28,26 @@
     {
       "Name": "snipemaster",
       "Steam": "76561199881092959",
-      "Score": 0,
-      "Time": "01:57"
+      "Score": 5,
+      "Time": "03:57"
     },
     {
       "Name": "☽",
       "Steam": "76561199680474626",
-      "Score": 38,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
-      "Score": 4,
-      "Time": "04:45"
+      "Score": 9,
+      "Time": "06:45"
     },
     {
       "Name": "cairo",
       "Steam": "76561198755398524",
-      "Score": 13,
-      "Time": "47:59"
-    },
-    {
-      "Name": "⁹⁹⁹marosko",
-      "Steam": "76561199499013499",
-      "Score": 14,
-      "Time": "32:26"
-    },
-    {
-      "Name": "privacy",
-      "Steam": "76561199814635907",
-      "Score": 81,
-      "Time": "31:27"
+      "Score": 3,
+      "Time": "49:59"
     }
   ]
 }
