@@ -1,28 +1,40 @@
 {
-  "Time": "2026-02-19T13:32:02.2398864Z",
+  "Time": "2026-02-19T13:34:02.2483578Z",
   "Players": [
+    {
+      "Name": "Monkey D. Luffy",
+      "Steam": "76561198428357329",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "kex",
       "Steam": "76561198743206979",
-      "Score": 40,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "russian raper",
+      "Steam": "76561198779780757",
+      "Score": 0,
+      "Time": "01:37"
     },
     {
       "Name": "Maslanka",
       "Steam": "76561199866941128",
-      "Score": 83,
-      "Time": "24:00"
+      "Score": 4,
+      "Time": "26:00"
     },
     {
       "Name": "thefthvh",
       "Steam": "76561199819945110",
-      "Score": 4,
-      "Time": "09:12"
+      "Score": 0,
+      "Time": "11:12"
     },
     {
       "Name": "wl666",
       "Steam": "76561199848975108",
-      "Score": 44,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
