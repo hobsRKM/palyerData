@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-19T07:40:02.5700906Z",
+  "Time": "2026-02-19T07:42:02.5806816Z",
   "Players": [
+    {
+      "Name": "ihavesmollpp",
+      "Steam": "76561199209588405",
+      "Score": 0,
+      "Time": "01:52"
+    },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
       "Score": 0,
-      "Time": "316:31"
+      "Time": "318:31"
     },
     {
       "Name": "\uDB40\uDC73⁧⁧lovesick",
       "Steam": "76561199258689499",
-      "Score": 0,
-      "Time": "00:16"
+      "Score": 5,
+      "Time": "02:16"
     },
     {
       "Name": "Alien Frog Princess",
@@ -22,13 +28,19 @@
     {
       "Name": "BuyMeSubPLS",
       "Steam": "76561199371057177",
-      "Score": 19,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "percoset",
+      "Steam": "76561198293312486",
+      "Score": 4,
+      "Time": "01:41"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 70,
+      "Score": 86,
       "Time": "??:??"
     }
   ]
