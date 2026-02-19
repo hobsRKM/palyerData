@@ -1,6 +1,18 @@
 {
-  "Time": "2026-02-19T22:42:31.3308099Z",
+  "Time": "2026-02-19T22:44:31.3345838Z",
   "Players": [
+    {
+      "Name": "RIM REAPER",
+      "Steam": "76561199764138526",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "RADICAL RACIST",
+      "Steam": "76561199870945474",
+      "Score": 2,
+      "Time": "01:38"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -10,25 +22,19 @@
     {
       "Name": "AI",
       "Steam": "76561199887978871",
-      "Score": 10,
-      "Time": "17:00"
-    },
-    {
-      "Name": "percoset",
-      "Steam": "76561198293312486",
-      "Score": 80,
-      "Time": "71:32"
+      "Score": 16,
+      "Time": "19:00"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 67,
-      "Time": "31:47"
+      "Score": 69,
+      "Time": "33:47"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
