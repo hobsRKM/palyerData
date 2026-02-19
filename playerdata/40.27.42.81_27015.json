@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-19T06:18:02.5772094Z",
+  "Time": "2026-02-19T06:20:02.5846096Z",
   "Players": [
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 0,
+      "Time": "236:31"
+    },
     {
       "Name": "ageplay larper",
       "Steam": "76561198752975948",
-      "Score": 4,
-      "Time": "14:17"
+      "Score": 3,
+      "Time": "16:17"
     },
     {
       "Name": "VAC",
@@ -14,22 +20,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "laao",
-      "Steam": "76561198735526955",
-      "Score": 2,
-      "Time": "??:??"
+      "Name": "roo",
+      "Steam": "76561199757543292",
+      "Score": 0,
+      "Time": "00:30"
     },
     {
       "Name": "percoset",
       "Steam": "76561198293312486",
-      "Score": 27,
-      "Time": "18:06"
+      "Score": 37,
+      "Time": "20:06"
     },
     {
       "Name": "ohcarter",
       "Steam": "76561198772153840",
-      "Score": 27,
-      "Time": "34:43"
+      "Score": 35,
+      "Time": "36:43"
     }
   ]
 }
