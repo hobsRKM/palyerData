@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-19T19:38:36.0539101Z",
+  "Time": "2026-02-19T19:40:36.0560486Z",
   "Players": [
+    {
+      "Name": "rug1na",
+      "Steam": "76561199007185984",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Jonny 88",
       "Steam": "76561198753890382",
-      "Score": 17,
-      "Time": "06:26"
+      "Score": 19,
+      "Time": "08:26"
     },
     {
       "Name": "Kasti",
       "Steam": "76561199833286399",
-      "Score": 33,
-      "Time": "08:54"
+      "Score": 41,
+      "Time": "10:54"
     },
     {
-      "Name": "lity.win HardTry",
+      "Name": "fatality.w HardTry",
       "Steam": "76561198774309786",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
