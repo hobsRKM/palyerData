@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-20T18:39:10.6974211Z",
+  "Time": "2026-02-20T18:41:10.7049434Z",
   "Players": [
+    {
+      "Name": "russian raper",
+      "Steam": "76561198779780757",
+      "Score": 0,
+      "Time": "234:11"
+    },
     {
       "Name": "M1RtiN4oo",
       "Steam": "76561198794087367",
-      "Score": 0,
-      "Time": "106:01"
+      "Score": 4,
+      "Time": "108:01"
     },
     {
       "Name": "67 tasty crousty",
       "Steam": "76561197973028048",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Kasti",
       "Steam": "76561199833286399",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -29,19 +35,25 @@
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "122:19"
+      "Time": "124:19"
     },
     {
       "Name": "~/root",
       "Steam": "76561198737607518",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Respect",
       "Steam": "76561199118168815",
-      "Score": 2,
-      "Time": "00:23"
+      "Score": 10,
+      "Time": "02:23"
+    },
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 4,
+      "Time": "00:35"
     }
   ]
 }
