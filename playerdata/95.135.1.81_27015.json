@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-20T17:39:10.7026322Z",
+  "Time": "2026-02-20T17:41:10.7036463Z",
   "Players": [
+    {
+      "Name": "samme531",
+      "Steam": "76561198736336720",
+      "Score": 0,
+      "Time": "03:24"
+    },
+    {
+      "Name": "Jonny 88",
+      "Steam": "76561198753890382",
+      "Score": 2,
+      "Time": "00:50"
+    },
     {
       "Name": "z17942x",
       "Steam": "76561198737743632",
-      "Score": 14,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "62:19"
-    },
-    {
-      "Name": "ᵃˢᶜʸⁿ RetroSpective",
-      "Steam": "76561199504650285",
-      "Score": 5,
-      "Time": "??:??"
+      "Time": "64:19"
     },
     {
       "Name": "AlibabaShopper",
       "Steam": "76561199737804492",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Respect",
       "Steam": "76561199118168815",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -46,7 +52,7 @@
     {
       "Name": "piedini sporchi",
       "Steam": "76561199730101934",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
