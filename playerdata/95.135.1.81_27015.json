@@ -1,35 +1,47 @@
 {
-  "Time": "2026-02-20T13:13:10.695481Z",
+  "Time": "2026-02-20T13:15:10.7036651Z",
   "Players": [
+    {
+      "Name": "BRUH",
+      "Steam": "76561199864878533",
+      "Score": 2,
+      "Time": "01:11"
+    },
     {
       "Name": "israel.cc",
       "Steam": "76561198739566682",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "lumineax",
-      "Steam": "76561199682863141",
-      "Score": 5,
+      "Name": "Maslanka",
+      "Steam": "76561199866941128",
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Blanco 73",
+      "Steam": "76561198255877566",
+      "Score": 14,
+      "Time": "01:28"
     },
     {
       "Name": "๋",
       "Steam": "76561198743707575",
-      "Score": 7,
-      "Time": "147:26"
+      "Score": 2,
+      "Time": "149:26"
     },
     {
-      "Name": "ernity.lua       damianopetardo",
+      "Name": "ternity.lua      damianopetardo",
       "Steam": "76561198737041054",
-      "Score": 6,
-      "Time": "41:13"
+      "Score": 8,
+      "Time": "43:13"
     },
     {
       "Name": "IDKlegit",
       "Steam": "76561199037222147",
-      "Score": 23,
-      "Time": "15:00"
+      "Score": 25,
+      "Time": "17:00"
     }
   ]
 }
