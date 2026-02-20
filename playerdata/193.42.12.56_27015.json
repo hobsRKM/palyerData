@@ -1,17 +1,29 @@
 {
-  "Time": "2026-02-20T21:10:40.2778603Z",
+  "Time": "2026-02-20T21:12:40.2797544Z",
   "Players": [
+    {
+      "Name": "Frekk",
+      "Steam": "76561198744884126",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "cutiepie",
       "Steam": "76561199840124262",
-      "Score": 22,
-      "Time": "242:29"
+      "Score": 26,
+      "Time": "244:29"
     },
     {
       "Name": "FIX FOX",
       "Steam": "76561198734492403",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "effortmaxxing",
+      "Steam": "76561198735786113",
+      "Score": 0,
+      "Time": "00:37"
     }
   ]
 }
