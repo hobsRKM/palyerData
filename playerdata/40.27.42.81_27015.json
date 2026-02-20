@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-20T01:40:31.3378317Z",
+  "Time": "2026-02-20T01:42:31.3416037Z",
   "Players": [
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 73,
+      "Score": 85,
       "Time": "??:??"
+    },
+    {
+      "Name": "Flickzy",
+      "Steam": "76561199754749774",
+      "Score": 20,
+      "Time": "01:55"
     },
     {
       "Name": "Ashtar Sheran",
       "Steam": "76561198865913239",
-      "Score": 35,
+      "Score": 41,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "z",
       "Steam": "76561199104286406",
-      "Score": 18,
-      "Time": "03:36"
+      "Score": 28,
+      "Time": "05:36"
     },
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
-      "Score": 19,
+      "Score": 27,
       "Time": "??:??"
     },
     {
@@ -40,32 +46,32 @@
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
-      "Score": 25,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Plug Walk Drew",
       "Steam": "76561199560641528",
-      "Score": 44,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 31,
-      "Time": "01:12"
+      "Score": 2,
+      "Time": "03:13"
+    },
+    {
+      "Name": "peniscumr34",
+      "Steam": "76561198782859737",
+      "Score": 2,
+      "Time": "01:03"
     },
     {
       "Name": "Mr Creamy Peanut #1 goof ball",
       "Steam": "76561199229233111",
-      "Score": 39,
-      "Time": "16:27"
-    },
-    {
-      "Name": "Alien Frog Princess",
-      "Steam": "76561199666441170",
-      "Score": 18,
-      "Time": "26:30"
+      "Score": 45,
+      "Time": "18:27"
     }
   ]
 }
