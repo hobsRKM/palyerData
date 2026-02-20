@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-20T07:00:31.3325583Z",
+  "Time": "2026-02-20T07:02:31.3305004Z",
   "Players": [
+    {
+      "Name": "racks",
+      "Steam": "76561198810672099",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "lilwalkemdone23",
       "Steam": "76561198742184205",
-      "Score": 25,
-      "Time": "18:04"
+      "Score": 26,
+      "Time": "20:04"
     },
     {
       "Name": "Unicorn",
@@ -14,34 +20,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "ben",
-      "Steam": "76561199548061679",
-      "Score": 11,
-      "Time": "15:34"
-    },
-    {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
       "Score": 0,
-      "Time": "430:29"
-    },
-    {
-      "Name": "< blank >",
-      "Steam": "76561199880717233",
-      "Score": 8,
-      "Time": "153:07"
+      "Time": "432:29"
     },
     {
       "Name": "We will come",
       "Steam": "76561198794273194",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "mossad agent in training",
       "Steam": "76561199846060185",
-      "Score": 6,
-      "Time": "02:34"
+      "Score": 10,
+      "Time": "04:34"
     }
   ]
 }
