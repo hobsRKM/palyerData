@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-20T18:38:11.2758285Z",
+  "Time": "2026-02-20T18:40:11.2762954Z",
   "Players": [
+    {
+      "Name": "AI",
+      "Steam": "76561199887978871",
+      "Score": 0,
+      "Time": "01:26"
+    },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 32,
-      "Time": "06:43"
+      "Score": 49,
+      "Time": "08:43"
     },
     {
       "Name": "s1mple",
@@ -14,8 +20,14 @@
       "Time": "??:??"
     },
     {
-      "Name": "GZ WRLD",
-      "Steam": "76561198782009269",
+      "Name": "emotional suport bagel",
+      "Steam": "76561199548982521",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Aime-moi la peau beige",
+      "Steam": "76561198398976448",
       "Score": 0,
       "Time": "??:??"
     }
