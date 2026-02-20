@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-20T19:10:11.2851463Z",
+  "Time": "2026-02-20T19:12:11.2850607Z",
   "Players": [
     {
       "Name": "AI",
       "Steam": "76561199887978871",
+      "Score": 4,
+      "Time": "33:26"
+    },
+    {
+      "Name": "O HACK",
+      "Steam": "76561198735712393",
       "Score": 0,
-      "Time": "31:26"
+      "Time": "01:00"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
       "Score": 0,
-      "Time": "16:54"
+      "Time": "18:54"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 0,
-      "Time": "02:55"
+      "Score": 4,
+      "Time": "04:55"
     },
     {
       "Name": "emotional suport bagel",
       "Steam": "76561199548982521",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Aime-moi la peau beige",
       "Steam": "76561198398976448",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
       "Score": 0,
-      "Time": "16:39"
+      "Time": "18:39"
     },
     {
       "Name": "jimpeterson0",
@@ -46,7 +52,7 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
