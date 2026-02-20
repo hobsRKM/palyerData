@@ -1,59 +1,65 @@
 {
-  "Time": "2026-02-20T08:44:31.3402984Z",
+  "Time": "2026-02-20T08:46:31.3381958Z",
   "Players": [
+    {
+      "Name": "EAZY-E",
+      "Steam": "76561199570458957",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "милана стар",
       "Steam": "76561199778070124",
+      "Score": 1,
+      "Time": "475:02"
+    },
+    {
+      "Name": "Ryn",
+      "Steam": "76561199755599976",
       "Score": 0,
-      "Time": "473:02"
+      "Time": "373:55"
     },
     {
       "Name": "B3rJlinJless (russian spy)",
       "Steam": "76561199806232223",
-      "Score": 8,
-      "Time": "27:54"
+      "Score": 16,
+      "Time": "29:54"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 8,
-      "Time": "17:22"
+      "Score": 18,
+      "Time": "19:22"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 9,
-      "Time": "70:02"
-    },
-    {
-      "Name": "rnity.lua        silk",
-      "Steam": "76561199635272425",
-      "Score": 0,
-      "Time": "27:10"
+      "Score": 20,
+      "Time": "72:02"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
-      "Score": 6,
-      "Time": "25:47"
+      "Score": 11,
+      "Time": "27:47"
     },
     {
       "Name": "✞",
       "Steam": "76561198772153840",
-      "Score": 8,
-      "Time": "81:31"
+      "Score": 14,
+      "Time": "83:31"
     },
     {
       "Name": "! dm me for invites",
       "Steam": "76561199880717233",
-      "Score": 4,
-      "Time": "50:22"
+      "Score": 6,
+      "Time": "52:22"
     }
   ]
 }
