@@ -1,46 +1,52 @@
 {
-  "Time": "2026-02-20T21:36:40.2796793Z",
+  "Time": "2026-02-20T21:38:40.2692829Z",
   "Players": [
+    {
+      "Name": "CallMeSpoofer",
+      "Steam": "76561199026396251",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "arisen",
       "Steam": "76561199460374443",
-      "Score": 0,
-      "Time": "00:47"
+      "Score": 5,
+      "Time": "02:47"
     },
     {
       "Name": "Mjay",
       "Steam": "76561199237707727",
-      "Score": 1,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "cutiepie",
       "Steam": "76561199840124262",
-      "Score": 58,
-      "Time": "268:29"
+      "Score": 60,
+      "Time": "270:29"
     },
     {
       "Name": "FIX FOX",
       "Steam": "76561198734492403",
-      "Score": 26,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "ᶠᵗecstacy",
       "Steam": "76561199151609154",
-      "Score": 4,
-      "Time": "205:00"
+      "Score": 0,
+      "Time": "207:00"
     },
     {
       "Name": "nixwareuser",
       "Steam": "76561198745332088",
-      "Score": 0,
-      "Time": "01:08"
+      "Score": 4,
+      "Time": "03:08"
     },
     {
-      "Name": "6e",
-      "Steam": "76561199543202791",
-      "Score": 22,
+      "Name": "Mr.floyd",
+      "Steam": "76561198738336224",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
