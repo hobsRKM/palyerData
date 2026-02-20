@@ -1,10 +1,16 @@
 {
-  "Time": "2026-02-20T05:50:31.3422885Z",
+  "Time": "2026-02-20T05:52:31.337566Z",
   "Players": [
+    {
+      "Name": "low",
+      "Steam": "76561199615710985",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "s1mple",
       "Steam": "76561198737678932",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -17,67 +23,67 @@
       "Name": "ben",
       "Steam": "76561199548061679",
       "Score": 40,
-      "Time": "18:54"
+      "Time": "20:54"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 90,
-      "Time": "25:19"
+      "Score": 92,
+      "Time": "27:19"
     },
     {
       "Name": "fredrickduffy8129",
       "Steam": "76561198770370123",
-      "Score": 99,
-      "Time": "42:42"
+      "Score": 105,
+      "Time": "44:42"
     },
     {
       "Name": "22",
       "Steam": "76561199873250660",
-      "Score": 40,
-      "Time": "38:11"
+      "Score": 42,
+      "Time": "40:11"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 78,
-      "Time": "??:??"
+      "Score": 81,
+      "Time": "00:38"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 97,
-      "Time": "42:46"
+      "Score": 105,
+      "Time": "44:46"
     },
     {
       "Name": "9710 clark st greenville demon",
       "Steam": "76561199568150325",
-      "Score": 14,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Plug Walk Drew",
       "Steam": "76561199560641528",
-      "Score": 34,
-      "Time": "00:38"
+      "Score": 37,
+      "Time": "02:38"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 21,
-      "Time": "375:04"
+      "Score": 25,
+      "Time": "377:04"
     },
     {
       "Name": "< blank >",
       "Steam": "76561199880717233",
-      "Score": 47,
-      "Time": "83:07"
+      "Score": 60,
+      "Time": "85:07"
     },
     {
       "Name": "ihavesmollpp",
       "Steam": "76561199209588405",
-      "Score": 56,
-      "Time": "46:28"
+      "Score": 58,
+      "Time": "48:28"
     }
   ]
 }
