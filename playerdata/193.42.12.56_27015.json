@@ -1,28 +1,28 @@
 {
-  "Time": "2026-02-20T22:24:40.2798701Z",
+  "Time": "2026-02-20T22:26:40.2704117Z",
   "Players": [
+    {
+      "Name": "beledirke",
+      "Steam": "76561198734127582",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "CallMeSpoofer",
       "Steam": "76561199026396251",
-      "Score": 35,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "Retro",
       "Steam": "76561198992148678",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Collin",
-      "Steam": "76561199121905108",
-      "Score": 7,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Mjay",
       "Steam": "76561199237707727",
-      "Score": 109,
+      "Score": 117,
       "Time": "??:??"
     },
     {
@@ -32,16 +32,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "CarlitoMB",
-      "Steam": "76561199697633072",
-      "Score": 31,
-      "Time": "31:34"
-    },
-    {
       "Name": "ᶠᵗecstacy",
       "Steam": "76561199151609154",
-      "Score": 0,
-      "Time": "10:24"
+      "Score": 2,
+      "Time": "12:24"
     }
   ]
 }
