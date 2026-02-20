@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-20T20:22:40.2746614Z",
+  "Time": "2026-02-20T20:24:40.2755534Z",
   "Players": [
+    {
+      "Name": "m Lars",
+      "Steam": "76561199082073582",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "ka$h",
       "Steam": "76561198769067462",
-      "Score": 0,
-      "Time": "120:18"
+      "Score": 2,
+      "Time": "122:18"
     },
     {
       "Name": "braxtonryan90",
       "Steam": "76561199870244055",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "FIX FOX",
       "Steam": "76561198734492403",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "nixwareuser",
       "Steam": "76561198745332088",
-      "Score": 4,
-      "Time": "01:04"
+      "Score": 8,
+      "Time": "03:04"
     },
     {
       "Name": "cdgbby",
@@ -35,7 +41,7 @@
       "Name": "Respect",
       "Steam": "76561199118168815",
       "Score": 0,
-      "Time": "01:02"
+      "Time": "03:02"
     }
   ]
 }
