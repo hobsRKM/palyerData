@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-20T20:34:11.2834989Z",
+  "Time": "2026-02-20T20:36:11.2811096Z",
   "Players": [
     {
       "Name": "jackemehoff2000",
@@ -10,14 +10,20 @@
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 10,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cummer",
+      "Steam": "76561199446263993",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Plug Walk Drew",
       "Steam": "76561199560641528",
-      "Score": 2,
-      "Time": "01:30"
+      "Score": 6,
+      "Time": "03:30"
     }
   ]
 }
