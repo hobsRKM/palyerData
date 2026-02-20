@@ -1,71 +1,77 @@
 {
-  "Time": "2026-02-20T08:36:31.3339445Z",
+  "Time": "2026-02-20T08:38:31.3339848Z",
   "Players": [
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 2,
+      "Time": "00:26"
+    },
     {
       "Name": "B3rJlinJless (russian spy)",
       "Steam": "76561199806232223",
-      "Score": 65,
-      "Time": "19:54"
+      "Score": 71,
+      "Time": "21:54"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 36,
-      "Time": "09:22"
+      "Score": 44,
+      "Time": "11:22"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 8,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 147,
-      "Time": "62:02"
+      "Score": 155,
+      "Time": "64:02"
     },
     {
-      "Name": ".lua           silk",
+      "Name": "ty.lua           silk",
       "Steam": "76561199635272425",
-      "Score": 8,
-      "Time": "19:10"
+      "Score": 0,
+      "Time": "21:10"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
-      "Score": 63,
-      "Time": "17:47"
+      "Score": 64,
+      "Time": "19:47"
     },
     {
       "Name": "✞",
       "Steam": "76561198772153840",
-      "Score": 147,
-      "Time": "73:31"
+      "Score": 159,
+      "Time": "75:31"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 5,
-      "Time": "15:05"
+      "Score": 7,
+      "Time": "17:05"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 85,
-      "Time": "83:02"
+      "Score": 88,
+      "Time": "85:02"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 92,
-      "Time": "53:32"
+      "Score": 2,
+      "Time": "55:32"
     },
     {
       "Name": "! dm me for invites",
       "Steam": "76561199880717233",
-      "Score": 7,
-      "Time": "42:22"
+      "Score": 8,
+      "Time": "44:22"
     }
   ]
 }
