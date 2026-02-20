@@ -1,34 +1,46 @@
 {
-  "Time": "2026-02-20T16:44:11.2880281Z",
+  "Time": "2026-02-20T16:46:11.2737444Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 2,
+      "Time": "01:37"
+    },
     {
       "Name": "fredrickduffy8129",
       "Steam": "76561198770370123",
-      "Score": 4,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Chester Huckingburg",
       "Steam": "76561199170106607",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "John Michael",
       "Steam": "76561199375992791",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "§€× Mr Creamy Peanut",
       "Steam": "76561199229233111",
-      "Score": 11,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "VetteGuy1998",
       "Steam": "76561198052417332",
-      "Score": 6,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AI",
+      "Steam": "76561199887978871",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
