@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-20T19:34:11.2777268Z",
+  "Time": "2026-02-20T19:36:11.275149Z",
   "Players": [
+    {
+      "Name": "fredrickduffy8129",
+      "Steam": "76561198770370123",
+      "Score": 8,
+      "Time": "01:33"
+    },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 59,
-      "Time": "12:20"
+      "Score": 67,
+      "Time": "14:20"
     },
     {
       "Name": "Aime-moi la peau beige",
       "Steam": "76561198398976448",
-      "Score": 10,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
       "Score": 0,
-      "Time": "40:39"
+      "Time": "42:39"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 89,
+      "Score": 94,
       "Time": "??:??"
     },
     {
-      "Name": "eternity.lua    Blueeyeddaddy69",
+      "Name": "eternity.lu     Blueeyeddaddy69",
       "Steam": "76561199660143840",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "rеturп",
       "Steam": "76561199321025751",
-      "Score": 3,
+      "Score": 9,
       "Time": "??:??"
     },
     {
@@ -42,6 +48,12 @@
       "Steam": "76561198772153840",
       "Score": 13,
       "Time": "??:??"
+    },
+    {
+      "Name": "frozen frogs",
+      "Steam": "76561199479457727",
+      "Score": 0,
+      "Time": "01:42"
     }
   ]
 }
