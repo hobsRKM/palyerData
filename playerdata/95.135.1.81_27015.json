@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-20T14:13:10.6933823Z",
+  "Time": "2026-02-20T14:15:10.6914787Z",
   "Players": [
     {
       "Name": "C",
       "Steam": "76561199867367978",
-      "Score": 98,
+      "Score": 102,
       "Time": "??:??"
     },
     {
       "Name": "j",
       "Steam": "76561199043030226",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 2,
+      "Time": "00:55"
     },
     {
       "Name": "Mike Oxlong",
       "Steam": "76561198749154292",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "eternity.lua   damianopetardo",
+      "Name": "eternity.lua    damianopetardo",
       "Steam": "76561198737041054",
-      "Score": 58,
-      "Time": "101:13"
+      "Score": 62,
+      "Time": "103:13"
     },
     {
       "Name": "Dizzel",
       "Steam": "76561199711150979",
-      "Score": 89,
+      "Score": 95,
       "Time": "??:??"
     }
   ]
