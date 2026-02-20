@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-20T21:16:40.2714555Z",
+  "Time": "2026-02-20T21:18:40.2685367Z",
   "Players": [
+    {
+      "Name": "love melatonin",
+      "Steam": "76561198764733323",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Frekk",
       "Steam": "76561198744884126",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "cutiepie",
       "Steam": "76561199840124262",
-      "Score": 54,
-      "Time": "248:29"
+      "Score": 58,
+      "Time": "250:29"
     },
     {
       "Name": "fakemink",
@@ -22,7 +28,7 @@
     {
       "Name": "FIX FOX",
       "Steam": "76561198734492403",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
     }
   ]
