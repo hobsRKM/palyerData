@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-20T21:22:24.6033439Z",
+  "Time": "2026-02-20T21:24:24.6010709Z",
   "Players": [
+    {
+      "Name": "proudhunter122",
+      "Steam": "76561198747429448",
+      "Score": 2,
+      "Time": "01:43"
+    },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 24,
-      "Time": "19:34"
+      "Score": 32,
+      "Time": "21:34"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 55,
-      "Time": "03:45"
+      "Score": 58,
+      "Time": "05:45"
     },
     {
       "Name": "✞",
       "Steam": "76561198772153840",
-      "Score": 90,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "JS-070",
       "Steam": "76561199828563808",
-      "Score": 25,
-      "Time": "61:38"
+      "Score": 27,
+      "Time": "63:38"
     },
     {
       "Name": "RIM REAPER",
@@ -34,13 +40,13 @@
     {
       "Name": "Ashtar Sheran",
       "Steam": "76561198865913239",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
-      "Name": ".lua           Blueeyeddaddy69",
+      "Name": "y.lua           Blueeyeddaddy69",
       "Steam": "76561199660143840",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
