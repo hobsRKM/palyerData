@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-20T02:18:31.3293614Z",
+  "Time": "2026-02-20T02:20:31.3337305Z",
   "Players": [
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 52,
+      "Score": 57,
       "Time": "??:??"
+    },
+    {
+      "Name": "zzz",
+      "Steam": "76561198781419668",
+      "Score": 0,
+      "Time": "00:28"
     },
     {
       "Name": "lilwalkemdone23",
       "Steam": "76561198742184205",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
-      "Score": 35,
-      "Time": "11:25"
+      "Score": 45,
+      "Time": "13:25"
     },
     {
       "Name": "Unicorn",
@@ -28,26 +34,20 @@
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 4,
-      "Time": "07:30"
+      "Score": 10,
+      "Time": "09:30"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 53,
-      "Time": "39:12"
-    },
-    {
-      "Name": "< blank >",
-      "Steam": "76561199880717233",
-      "Score": 15,
-      "Time": "00:24"
+      "Score": 58,
+      "Time": "41:12"
     }
   ]
 }
