@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-20T04:38:31.3356955Z",
+  "Time": "2026-02-20T04:40:31.3349738Z",
   "Players": [
     {
       "Name": "GZ WRLD",
       "Steam": "76561198782009269",
-      "Score": 25,
-      "Time": "322:15"
+      "Score": 26,
+      "Time": "324:15"
+    },
+    {
+      "Name": "K",
+      "Steam": "76561198739731044",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "lilwalkemdone23",
       "Steam": "76561198742184205",
-      "Score": 87,
-      "Time": "81:18"
+      "Score": 89,
+      "Time": "83:18"
     },
     {
       "Name": "RIM REAPER",
       "Steam": "76561199764138526",
-      "Score": 34,
-      "Time": "193:22"
+      "Score": 36,
+      "Time": "195:22"
     },
     {
       "Name": "Chester Huckingburg",
       "Steam": "76561199170106607",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198737678932",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -40,50 +46,56 @@
     {
       "Name": "22",
       "Steam": "76561199873250660",
-      "Score": 26,
-      "Time": "03:09"
+      "Score": 30,
+      "Time": "05:09"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 116,
-      "Time": "08:45"
+      "Score": 123,
+      "Time": "10:45"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 80,
-      "Time": "17:33"
+      "Score": 92,
+      "Time": "19:33"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
-      "Score": 49,
-      "Time": "122:45"
+      "Score": 51,
+      "Time": "124:45"
     },
     {
       "Name": "✞",
       "Steam": "76561198772153840",
-      "Score": 87,
-      "Time": "220:01"
+      "Score": 91,
+      "Time": "222:01"
     },
     {
       "Name": "Plug Walk Drew",
       "Steam": "76561199560641528",
-      "Score": 62,
-      "Time": "67:27"
+      "Score": 64,
+      "Time": "69:27"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "< blank >",
       "Steam": "76561199880717233",
-      "Score": 36,
-      "Time": "11:07"
+      "Score": 37,
+      "Time": "13:07"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 14,
-      "Time": "06:36"
+      "Score": 29,
+      "Time": "08:36"
     }
   ]
 }
