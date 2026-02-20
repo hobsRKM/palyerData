@@ -1,29 +1,29 @@
 {
-  "Time": "2026-02-20T04:26:31.3311434Z",
+  "Time": "2026-02-20T04:28:31.3355585Z",
   "Players": [
+    {
+      "Name": "GZ WRLD",
+      "Steam": "76561198782009269",
+      "Score": 0,
+      "Time": "312:15"
+    },
     {
       "Name": "lilwalkemdone23",
       "Steam": "76561198742184205",
-      "Score": 53,
-      "Time": "69:18"
+      "Score": 61,
+      "Time": "71:18"
     },
     {
       "Name": "RIM REAPER",
       "Steam": "76561199764138526",
-      "Score": 14,
-      "Time": "181:22"
-    },
-    {
-      "Name": "XXⅠ",
-      "Steam": "76561198762281843",
-      "Score": 56,
-      "Time": "74:52"
+      "Score": 24,
+      "Time": "183:22"
     },
     {
       "Name": "BuyMeSubPLS",
       "Steam": "76561199371057177",
-      "Score": 14,
-      "Time": "71:46"
+      "Score": 22,
+      "Time": "73:46"
     },
     {
       "Name": "s1mple",
@@ -40,50 +40,62 @@
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 87,
-      "Time": "16:05"
+      "Score": 90,
+      "Time": "18:05"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 31,
-      "Time": "05:33"
+      "Score": 35,
+      "Time": "07:33"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
       "Score": 35,
-      "Time": "110:45"
-    },
-    {
-      "Name": "slipperyshark | discord.gg/cshvh",
-      "Steam": "76561199770317821",
-      "Score": 33,
-      "Time": "??:??"
+      "Time": "112:45"
     },
     {
       "Name": "el perro",
       "Steam": "76561199617596511",
       "Score": 32,
-      "Time": "10:36"
+      "Time": "12:36"
     },
     {
       "Name": "✞",
       "Steam": "76561198772153840",
-      "Score": 62,
-      "Time": "208:01"
+      "Score": 64,
+      "Time": "210:01"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 13,
-      "Time": "05:10"
+      "Score": 14,
+      "Time": "07:10"
     },
     {
       "Name": "Plug Walk Drew",
       "Steam": "76561199560641528",
-      "Score": 44,
-      "Time": "55:27"
+      "Score": 46,
+      "Time": "57:27"
+    },
+    {
+      "Name": "paradise",
+      "Steam": "76561198380272287",
+      "Score": 2,
+      "Time": "01:10"
+    },
+    {
+      "Name": "< blank >",
+      "Steam": "76561199880717233",
+      "Score": 4,
+      "Time": "01:07"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "01:06"
     }
   ]
 }
