@@ -1,34 +1,46 @@
 {
-  "Time": "2026-02-20T21:34:40.2746792Z",
+  "Time": "2026-02-20T21:36:40.2796793Z",
   "Players": [
+    {
+      "Name": "arisen",
+      "Steam": "76561199460374443",
+      "Score": 0,
+      "Time": "00:47"
+    },
+    {
+      "Name": "Mjay",
+      "Steam": "76561199237707727",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "cutiepie",
       "Steam": "76561199840124262",
-      "Score": 44,
-      "Time": "266:29"
-    },
-    {
-      "Name": "fakemink",
-      "Steam": "76561199043387202",
-      "Score": 0,
-      "Time": "00:31"
-    },
-    {
-      "Name": "Rixz",
-      "Steam": "76561198324774956",
-      "Score": 22,
-      "Time": "??:??"
+      "Score": 58,
+      "Time": "268:29"
     },
     {
       "Name": "FIX FOX",
       "Steam": "76561198734492403",
-      "Score": 21,
+      "Score": 26,
       "Time": "??:??"
+    },
+    {
+      "Name": "ᶠᵗecstacy",
+      "Steam": "76561199151609154",
+      "Score": 4,
+      "Time": "205:00"
+    },
+    {
+      "Name": "nixwareuser",
+      "Steam": "76561198745332088",
+      "Score": 0,
+      "Time": "01:08"
     },
     {
       "Name": "6e",
       "Steam": "76561199543202791",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
