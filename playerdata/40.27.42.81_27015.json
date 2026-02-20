@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-20T06:42:31.3439204Z",
+  "Time": "2026-02-20T06:44:31.3377541Z",
   "Players": [
+    {
+      "Name": "lilwalkemdone23",
+      "Steam": "76561198742184205",
+      "Score": 3,
+      "Time": "02:04"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -10,44 +16,44 @@
     {
       "Name": "fredrickduffy8129",
       "Steam": "76561198770370123",
-      "Score": 17,
-      "Time": "94:42"
+      "Score": 26,
+      "Time": "96:42"
     },
     {
       "Name": "22",
       "Steam": "76561199873250660",
-      "Score": 52,
-      "Time": "90:11"
+      "Score": 62,
+      "Time": "92:11"
     },
     {
       "Name": "【Adam】",
       "Steam": "76561199871890936",
-      "Score": 29,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "✞",
       "Steam": "76561198772153840",
-      "Score": 33,
-      "Time": "48:31"
+      "Score": 35,
+      "Time": "50:31"
     },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
       "Score": 0,
-      "Time": "412:29"
-    },
-    {
-      "Name": "Ansi",
-      "Steam": "76561199568150325",
-      "Score": 22,
-      "Time": "??:??"
+      "Time": "414:29"
     },
     {
       "Name": "< blank >",
       "Steam": "76561199880717233",
-      "Score": 24,
-      "Time": "135:07"
+      "Score": 26,
+      "Time": "137:07"
+    },
+    {
+      "Name": "mossad agent in training",
+      "Steam": "76561199846060185",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
