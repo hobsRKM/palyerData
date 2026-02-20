@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-20T21:06:40.2664634Z",
+  "Time": "2026-02-20T21:08:40.2708075Z",
   "Players": [
+    {
+      "Name": "MagyarPéter_falva",
+      "Steam": "76561198744094849",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "cutiepie",
       "Steam": "76561199840124262",
-      "Score": 8,
-      "Time": "238:29"
+      "Score": 14,
+      "Time": "240:29"
     },
     {
       "Name": "FIX FOX",
       "Steam": "76561198734492403",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
