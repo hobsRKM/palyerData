@@ -1,58 +1,64 @@
 {
-  "Time": "2026-02-20T13:23:03.4554745Z",
+  "Time": "2026-02-20T13:25:03.4532614Z",
   "Players": [
     {
       "Name": "ye",
       "Steam": "76561198736373371",
-      "Score": 99,
-      "Time": "200:33"
+      "Score": 102,
+      "Time": "202:33"
     },
     {
       "Name": "Meowny",
       "Steam": "76561199015755611",
-      "Score": 81,
-      "Time": "20:32"
+      "Score": 83,
+      "Time": "22:32"
     },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 16,
-      "Time": "15:46"
+      "Time": "17:46"
     },
     {
       "Name": "vltz",
       "Steam": "76561198288488016",
-      "Score": 13,
-      "Time": "19:35"
+      "Score": 19,
+      "Time": "21:35"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 51,
-      "Time": "28:31"
+      "Score": 57,
+      "Time": "30:31"
     },
     {
       "Name": "e",
       "Steam": "76561199564752768",
-      "Score": 81,
-      "Time": "36:40"
-    },
-    {
-      "Name": "ghostY",
-      "Steam": "76561199591486018",
-      "Score": 46,
-      "Time": "??:??"
+      "Score": 91,
+      "Time": "38:40"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 11,
-      "Time": "13:17"
+      "Score": 15,
+      "Time": "15:17"
     },
     {
       "Name": "Kunai",
       "Steam": "76561198793058468",
-      "Score": 26,
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FakeDuck",
+      "Steam": "76561199851026989",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "seminiga",
+      "Steam": "76561199883772600",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
