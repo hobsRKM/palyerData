@@ -1,40 +1,52 @@
 {
-  "Time": "2026-02-20T22:12:24.6082216Z",
+  "Time": "2026-02-20T22:14:24.5984127Z",
   "Players": [
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "proudhunter122",
       "Steam": "76561198747429448",
-      "Score": 80,
-      "Time": "24:55"
+      "Score": 86,
+      "Time": "26:55"
     },
     {
       "Name": "0x6a6179",
       "Steam": "76561199711887613",
-      "Score": 6,
-      "Time": "53:45"
+      "Score": 8,
+      "Time": "55:45"
     },
     {
       "Name": "JS-070",
       "Steam": "76561199828563808",
-      "Score": 19,
-      "Time": "111:38"
+      "Score": 25,
+      "Time": "113:38"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 61,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 12,
-      "Time": "04:41"
+      "Score": 7,
+      "Time": "06:41"
     },
     {
       "Name": "SlipperyShark | discord.gg/cshvh",
       "Steam": "76561199841936184",
-      "Score": 6,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vieras",
+      "Steam": "76561199546484250",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
