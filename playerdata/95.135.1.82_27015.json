@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-21T18:38:25.1832437Z",
+  "Time": "2026-02-21T18:44:25.1827749Z",
   "Players": [
+    {
+      "Name": "osama",
+      "Steam": "76561199057461984",
+      "Score": 7,
+      "Time": "317:39"
+    },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
@@ -10,38 +16,32 @@
     {
       "Name": "Kasti",
       "Steam": "76561199833286399",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Sadzeniak",
       "Steam": "76561198737259513",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "!",
       "Steam": "76561197963183861",
-      "Score": 6,
+      "Score": 22,
       "Time": "??:??"
     },
     {
-      "Name": "RickRickRickRickRickRickRickRick",
+      "Name": "2.4m Global Elite",
       "Steam": "76561198784581696",
-      "Score": 68,
-      "Time": "33:31"
+      "Score": 88,
+      "Time": "39:31"
     },
     {
       "Name": "R1ck",
       "Steam": "76561199050470003",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
-    },
-    {
-      "Name": "CAP",
-      "Steam": "76561198756732356",
-      "Score": 45,
-      "Time": "69:17"
     }
   ]
 }
