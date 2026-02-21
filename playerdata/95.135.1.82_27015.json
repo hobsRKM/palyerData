@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-21T13:15:14.3701254Z",
+  "Time": "2026-02-21T13:17:14.3745219Z",
   "Players": [
+    {
+      "Name": "Respect",
+      "Steam": "76561199118168815",
+      "Score": 0,
+      "Time": "01:18"
+    },
     {
       "Name": "LuvBytes",
       "Steam": "76561199612402880",
@@ -10,8 +16,8 @@
     {
       "Name": "otc enjoyer",
       "Steam": "76561198751548921",
-      "Score": 5,
-      "Time": "02:44"
+      "Score": 2,
+      "Time": "04:44"
     },
     {
       "Name": "archi",
@@ -28,8 +34,8 @@
     {
       "Name": "nixwareuser",
       "Steam": "76561198745332088",
-      "Score": 66,
-      "Time": "19:29"
+      "Score": 82,
+      "Time": "21:29"
     }
   ]
 }
