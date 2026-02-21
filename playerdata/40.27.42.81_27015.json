@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-21T04:18:24.5968026Z",
+  "Time": "2026-02-21T04:20:24.610029Z",
   "Players": [
     {
-      "Name": "eternit      bill",
+      "Name": "natsumi",
+      "Steam": "76561198860768426",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "eterni      bill",
       "Steam": "76561199013445293",
-      "Score": 86,
-      "Time": "87:37"
+      "Score": 91,
+      "Time": "89:38"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 38,
-      "Time": "110:23"
+      "Score": 40,
+      "Time": "112:23"
     },
     {
       "Name": "kolpins9903",
       "Steam": "76561198736952884",
-      "Score": 42,
-      "Time": "24:30"
+      "Score": 44,
+      "Time": "26:30"
     },
     {
       "Name": "JS-070",
       "Steam": "76561199828563808",
-      "Score": 29,
-      "Time": "23:22"
+      "Score": 33,
+      "Time": "25:22"
     },
     {
       "Name": "sj",
@@ -34,20 +40,20 @@
     {
       "Name": "SophieR.DMA",
       "Steam": "76561199668249747",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "fat",
       "Steam": "76561199072674466",
-      "Score": 106,
+      "Score": 115,
       "Time": "??:??"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
-      "Score": 67,
-      "Time": "42:05"
+      "Score": 69,
+      "Time": "44:05"
     }
   ]
 }
