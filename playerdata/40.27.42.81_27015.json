@@ -1,59 +1,71 @@
 {
-  "Time": "2026-02-21T07:18:24.6090421Z",
+  "Time": "2026-02-21T07:20:24.6104906Z",
   "Players": [
+    {
+      "Name": "eternity.lua  bill",
+      "Steam": "76561199013445293",
+      "Score": 1,
+      "Time": "01:57"
+    },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 25,
-      "Time": "19:27"
+      "Score": 29,
+      "Time": "21:27"
     },
     {
       "Name": "wren",
       "Steam": "76561199040150834",
-      "Score": 3,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "么",
       "Steam": "76561199880717233",
-      "Score": 10,
-      "Time": "00:49"
+      "Score": 18,
+      "Time": "02:49"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 51,
-      "Time": "14:50"
+      "Score": 56,
+      "Time": "16:50"
+    },
+    {
+      "Name": "paradise",
+      "Steam": "76561198380272287",
+      "Score": 0,
+      "Time": "143:00"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 14,
-      "Time": "01:22"
-    },
-    {
-      "Name": "netanyahu",
-      "Steam": "76561197975681697",
-      "Score": 11,
-      "Time": "??:??"
+      "Score": 17,
+      "Time": "03:22"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
       "Score": 4,
-      "Time": "09:47"
+      "Time": "11:47"
     },
     {
-      "Name": "picun f6",
-      "Steam": "76561198733619475",
+      "Name": "cheeziepooh",
+      "Steam": "76561198273566562",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "00:41"
     }
   ]
 }
