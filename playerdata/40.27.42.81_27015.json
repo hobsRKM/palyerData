@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-21T07:54:24.6041584Z",
+  "Time": "2026-02-21T07:56:24.6099675Z",
   "Players": [
     {
-      "Name": "nity.lua         bill",
+      "Name": "rnity.lua        bill",
       "Steam": "76561199013445293",
       "Score": 52,
-      "Time": "35:57"
+      "Time": "37:57"
+    },
+    {
+      "Name": "Clavgotframemogbyanasufratleader",
+      "Steam": "76561198737631142",
+      "Score": 4,
+      "Time": "01:23"
     },
     {
       "Name": "proudhunter122",
       "Steam": "76561198747429448",
-      "Score": 94,
-      "Time": "19:54"
+      "Score": 103,
+      "Time": "21:54"
     },
     {
       "Name": "miley ashley ..",
@@ -22,38 +28,32 @@
     {
       "Name": "么",
       "Steam": "76561199880717233",
-      "Score": 77,
-      "Time": "10:46"
+      "Score": 81,
+      "Time": "12:46"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 30,
-      "Time": "33:36"
+      "Score": 40,
+      "Time": "35:36"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 4,
-      "Time": "15:05"
-    },
-    {
-      "Name": "BS_Official",
-      "Steam": "76561198748012660",
-      "Score": 17,
-      "Time": "13:56"
+      "Score": 9,
+      "Time": "17:05"
     },
     {
       "Name": "fat",
       "Steam": "76561199072674466",
-      "Score": 4,
-      "Time": "01:42"
+      "Score": 0,
+      "Time": "03:42"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
-      "Score": 11,
-      "Time": "45:47"
+      "Score": 15,
+      "Time": "47:47"
     },
     {
       "Name": "cheeziepooh",
@@ -62,10 +62,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "Real",
+      "Steam": "76561199804822287",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 47,
-      "Time": "34:41"
+      "Score": 51,
+      "Time": "36:41"
     }
   ]
 }
