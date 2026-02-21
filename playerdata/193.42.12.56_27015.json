@@ -1,16 +1,10 @@
 {
-  "Time": "2026-02-21T01:14:40.2666239Z",
+  "Time": "2026-02-21T01:16:40.2711078Z",
   "Players": [
-    {
-      "Name": "DREAMER",
-      "Steam": "76561199094340985",
-      "Score": 8,
-      "Time": "??:??"
-    },
     {
       "Name": "standa",
       "Steam": "76561199394201561",
-      "Score": 63,
+      "Score": 68,
       "Time": "??:??"
     },
     {
@@ -22,8 +16,8 @@
     {
       "Name": "z",
       "Steam": "76561199104286406",
-      "Score": 0,
-      "Time": "412:33"
+      "Score": 7,
+      "Time": "414:33"
     },
     {
       "Name": "Cake",
@@ -34,7 +28,13 @@
     {
       "Name": "Trav",
       "Steam": "76561199471217940",
-      "Score": 69,
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wtf men",
+      "Steam": "76561198739127220",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -46,8 +46,8 @@
     {
       "Name": "B0Busss",
       "Steam": "76561199773403358",
-      "Score": 11,
-      "Time": "02:18"
+      "Score": 19,
+      "Time": "04:18"
     },
     {
       "Name": "Snax",
@@ -64,8 +64,14 @@
     {
       "Name": "Johnny",
       "Steam": "76561199028582444",
-      "Score": 9,
-      "Time": "03:56"
+      "Score": 17,
+      "Time": "05:56"
+    },
+    {
+      "Name": "☽",
+      "Steam": "76561199680474626",
+      "Score": 4,
+      "Time": "01:37"
     },
     {
       "Name": "moose",
@@ -74,16 +80,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "SM3RF",
-      "Steam": "76561199267532979",
-      "Score": 73,
+      "Name": "Gordon Freeman",
+      "Steam": "76561199571677660",
+      "Score": 49,
       "Time": "??:??"
     },
     {
-      "Name": "Gordon Freeman",
-      "Steam": "76561199571677660",
-      "Score": 42,
-      "Time": "??:??"
+      "Name": "quatripiolrr2",
+      "Steam": "76561198744760375",
+      "Score": 0,
+      "Time": "00:21"
     }
   ]
 }
