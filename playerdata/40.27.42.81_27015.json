@@ -1,41 +1,59 @@
 {
-  "Time": "2026-02-21T18:10:19.9350327Z",
+  "Time": "2026-02-21T18:12:19.9452828Z",
   "Players": [
+    {
+      "Name": "BIX",
+      "Steam": "76561199711034226",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "nevo",
       "Steam": "76561198791368162",
-      "Score": 50,
-      "Time": "19:29"
+      "Score": 52,
+      "Time": "01:26"
     },
     {
       "Name": "amish",
       "Steam": "76561199571686760",
       "Score": 5,
-      "Time": "21:14"
+      "Time": "23:14"
+    },
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 0,
+      "Time": "00:20"
     },
     {
       "Name": "Hellen Wong",
       "Steam": "76561199863627211",
-      "Score": 25,
-      "Time": "20:48"
+      "Score": 27,
+      "Time": "22:48"
     },
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 102,
+      "Score": 114,
       "Time": "??:??"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 16,
-      "Time": "05:18"
+      "Score": 0,
+      "Time": "07:18"
+    },
+    {
+      "Name": "alechujh12",
+      "Steam": "76561198734287448",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
