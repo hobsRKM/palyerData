@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-21T12:07:14.3805023Z",
+  "Time": "2026-02-21T12:09:14.3808503Z",
   "Players": [
+    {
+      "Name": "vayn",
+      "Steam": "76561198846937625",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Big Dick",
       "Steam": "76561199666510484",
@@ -11,36 +17,36 @@
       "Name": "piedini sporchi",
       "Steam": "76561199730101934",
       "Score": 49,
-      "Time": "22:07"
+      "Time": "24:07"
     },
     {
       "Name": "Kanaa",
       "Steam": "76561199365905587",
-      "Score": 105,
+      "Score": 109,
       "Time": "??:??"
     },
     {
       "Name": "Respect",
       "Steam": "76561199118168815",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "russian raper",
       "Steam": "76561198779780757",
-      "Score": 36,
-      "Time": "07:07"
+      "Score": 38,
+      "Time": "09:07"
     },
     {
       "Name": "Esoterik",
       "Steam": "76561198734760628",
-      "Score": 78,
-      "Time": "20:00"
+      "Score": 86,
+      "Time": "22:00"
     },
     {
       "Name": "gamergirl42069",
       "Steam": "76561198737983959",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
@@ -50,22 +56,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "$$$$$$$$$$ | ★⁧⁧★Ricco",
+      "Name": "TempleWare | ★⁧⁧★Ricco",
       "Steam": "76561199011806780",
       "Score": 3,
       "Time": "??:??"
     },
     {
-      "Name": "$$$$$$$$$$ | monarchie",
+      "Name": "TempleWare | monarchie",
       "Steam": "76561199712229477",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
-      "Name": "$$$$$$$$$$ | TempleWare",
+      "Name": "TempleWare | TempleWare",
       "Steam": "76561199345794754",
       "Score": 0,
-      "Time": "07:22"
+      "Time": "09:22"
     }
   ]
 }
