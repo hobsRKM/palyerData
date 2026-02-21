@@ -1,11 +1,11 @@
 {
-  "Time": "2026-02-21T02:03:10.7716963Z",
+  "Time": "2026-02-21T02:05:10.7616028Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "566:19"
+      "Time": "568:19"
     },
     {
       "Name": "FIX FOX",
@@ -16,26 +16,32 @@
     {
       "Name": "meow",
       "Steam": "76561198785976863",
-      "Score": 24,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
+      "Score": 6,
+      "Time": "514:47"
+    },
+    {
+      "Name": "Sadzeniak",
+      "Steam": "76561198737259513",
       "Score": 0,
-      "Time": "512:47"
+      "Time": "329:24"
     },
     {
       "Name": "Kasti",
       "Steam": "76561199833286399",
-      "Score": 0,
-      "Time": "339:45"
+      "Score": 4,
+      "Time": "341:45"
     },
     {
       "Name": "Insible",
       "Steam": "76561199126762712",
-      "Score": 8,
-      "Time": "14:32"
+      "Score": 0,
+      "Time": "16:32"
     }
   ]
 }
