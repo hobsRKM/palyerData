@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-21T02:42:24.6027156Z",
+  "Time": "2026-02-21T02:44:24.5988418Z",
   "Players": [
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 34,
-      "Time": "02:21"
+      "Score": 47,
+      "Time": "04:21"
     },
     {
       "Name": "ghislane",
       "Steam": "76561199891078125",
-      "Score": 13,
-      "Time": "10:14"
+      "Score": 18,
+      "Time": "12:14"
     },
     {
       "Name": "kolpins9903",
       "Steam": "76561198736952884",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "0x6a6179",
       "Steam": "76561198758593147",
-      "Score": 2,
-      "Time": "29:40"
+      "Score": 6,
+      "Time": "31:40"
     },
     {
       "Name": "motherland",
       "Steam": "76561199873250660",
-      "Score": 5,
-      "Time": "23:53"
+      "Score": 10,
+      "Time": "25:53"
+    },
+    {
+      "Name": "mocha",
+      "Steam": "76561199230305577",
+      "Score": 8,
+      "Time": "??:??"
     },
     {
       "Name": "1NCEND1ARY",
@@ -40,14 +46,20 @@
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 11,
-      "Time": "82:35"
+      "Score": 16,
+      "Time": "84:35"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
-      "Score": 8,
-      "Time": "06:06"
+      "Score": 6,
+      "Time": "08:06"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "121:16"
     }
   ]
 }
