@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-21T09:27:03.2682181Z",
+  "Time": "2026-02-21T09:29:03.2658783Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,31 +10,25 @@
     {
       "Name": "nixware enjoyer",
       "Steam": "76561198734550441",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "M1ke",
       "Steam": "76561199070756563",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Ferox",
-      "Steam": "76561199377440484",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Podvodník",
       "Steam": "76561198868632842",
-      "Score": 28,
-      "Time": "10:55"
+      "Score": 36,
+      "Time": "12:55"
     },
     {
       "Name": "JACK SPEDAISY",
       "Steam": "76561198269379199",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
@@ -46,7 +40,7 @@
     {
       "Name": "ᵉᵗᵉʳⁿᶦᵗʸsigsauer",
       "Steam": "76561199042221496",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -56,10 +50,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "SnowFall",
+      "Steam": "76561199409832164",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "LuvBytes",
       "Steam": "76561199612402880",
       "Score": 0,
-      "Time": "59:34"
+      "Time": "61:34"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗ Seidr",
@@ -70,7 +70,7 @@
     {
       "Name": "nixware beta tester",
       "Steam": "76561198738361142",
-      "Score": 25,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -82,13 +82,13 @@
     {
       "Name": "felix",
       "Steam": "76561198765165744",
-      "Score": 19,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "blurp",
       "Steam": "76561198849685336",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     }
   ]
