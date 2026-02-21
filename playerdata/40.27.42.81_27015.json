@@ -1,47 +1,53 @@
 {
-  "Time": "2026-02-21T04:08:24.6102189Z",
+  "Time": "2026-02-21T04:10:24.6071321Z",
   "Players": [
     {
-      "Name": "eternity.lua  bill",
+      "Name": "eternity.lua   bill",
       "Steam": "76561199013445293",
-      "Score": 55,
-      "Time": "77:38"
+      "Score": 62,
+      "Time": "79:38"
+    },
+    {
+      "Name": "Bullet",
+      "Steam": "76561198781702164",
+      "Score": 0,
+      "Time": "102:23"
     },
     {
       "Name": "ghislane",
       "Steam": "76561199891078125",
-      "Score": 31,
-      "Time": "15:10"
+      "Score": 33,
+      "Time": "17:10"
     },
     {
       "Name": "kolpins9903",
       "Steam": "76561198736952884",
-      "Score": 36,
-      "Time": "14:30"
+      "Score": 38,
+      "Time": "16:30"
     },
     {
       "Name": "JS-070",
       "Steam": "76561199828563808",
-      "Score": 23,
-      "Time": "13:22"
+      "Score": 25,
+      "Time": "15:22"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "fat",
       "Steam": "76561199072674466",
-      "Score": 74,
+      "Score": 78,
       "Time": "??:??"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
       "Score": 57,
-      "Time": "32:05"
+      "Time": "34:05"
     }
   ]
 }
