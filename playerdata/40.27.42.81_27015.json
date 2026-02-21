@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-21T06:58:24.6091376Z",
+  "Time": "2026-02-21T07:00:24.6097328Z",
   "Players": [
     {
       "Name": "EAZY-E",
       "Steam": "76561199570458957",
-      "Score": 4,
-      "Time": "04:16"
+      "Score": 13,
+      "Time": "06:16"
     },
     {
       "Name": "abovecash",
       "Steam": "76561199556676277",
-      "Score": 13,
-      "Time": "04:06"
+      "Score": 14,
+      "Time": "06:06"
+    },
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 0,
+      "Time": "01:27"
     },
     {
       "Name": "1NCEND1ARY",
       "Steam": "76561198782009269",
-      "Score": 9,
-      "Time": "03:49"
+      "Score": 15,
+      "Time": "05:49"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 0,
-      "Time": "237:05"
+      "Score": 5,
+      "Time": "239:05"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 4,
-      "Time": "277:59"
+      "Score": 10,
+      "Time": "279:59"
     }
   ]
 }
