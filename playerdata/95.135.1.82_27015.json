@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-21T19:32:25.1811604Z",
+  "Time": "2026-02-21T19:42:25.1795778Z",
   "Players": [
+    {
+      "Name": "\uD83C\uDF3F \uD835\uDC06\uD835\uDC07\uD835\uDC0E\uD835\uDFD3\uD835\uDC13 \uD83C\uDF3F",
+      "Steam": "76561198739241476",
+      "Score": 10,
+      "Time": "??:??"
+    },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
@@ -10,25 +16,31 @@
     {
       "Name": "!",
       "Steam": "76561197963183861",
-      "Score": 0,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "piedini sporchi",
       "Steam": "76561199730101934",
-      "Score": 10,
-      "Time": "293:01"
+      "Score": 37,
+      "Time": "303:01"
     },
     {
       "Name": "nixwareuser",
       "Steam": "76561198745332088",
-      "Score": 9,
-      "Time": "77:17"
+      "Score": 40,
+      "Time": "87:17"
     },
     {
       "Name": "Get kill by your DAD",
       "Steam": "76561199797496363",
-      "Score": 5,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Yahu",
+      "Steam": "76561198906632466",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
