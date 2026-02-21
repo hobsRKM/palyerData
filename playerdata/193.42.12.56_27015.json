@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-21T15:21:03.2796533Z",
+  "Time": "2026-02-21T15:23:03.2748445Z",
   "Players": [
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "34:42"
+      "Time": "36:42"
+    },
+    {
+      "Name": "Kardos Cigány",
+      "Steam": "76561198800976872",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "chawo",
       "Steam": "76561199874249467",
-      "Score": 31,
+      "Score": 33,
       "Time": "??:??"
     },
     {
@@ -22,7 +28,7 @@
     {
       "Name": "cairo",
       "Steam": "76561198755398524",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
@@ -34,55 +40,61 @@
     {
       "Name": "nixwareuser",
       "Steam": "76561198745332088",
-      "Score": 0,
-      "Time": "18:50"
+      "Score": 2,
+      "Time": "20:50"
     },
     {
       "Name": "FIX FOX",
       "Steam": "76561198734492403",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Esoterik",
       "Steam": "76561198734760628",
-      "Score": 6,
-      "Time": "148:57"
+      "Score": 16,
+      "Time": "150:57"
     },
     {
       "Name": "igorvichochek",
       "Steam": "76561199208096307",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "testing nixware",
       "Steam": "76561199682061013",
-      "Score": 44,
-      "Time": "??:??"
-    },
-    {
-      "Name": "bombardiro",
-      "Steam": "76561199628771161",
-      "Score": 0,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "Johnny",
       "Steam": "76561199028582444",
-      "Score": 12,
-      "Time": "07:41"
+      "Score": 18,
+      "Time": "09:41"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 0,
-      "Time": "47:26"
+      "Score": 6,
+      "Time": "49:26"
     },
     {
       "Name": "fnqyhvh!",
       "Steam": "76561199886624598",
-      "Score": 57,
+      "Score": 67,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Данил Колбасенко",
+      "Steam": "76561198735731410",
+      "Score": 0,
+      "Time": "00:20"
+    },
+    {
+      "Name": "NOP1E",
+      "Steam": "76561198739672914",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
