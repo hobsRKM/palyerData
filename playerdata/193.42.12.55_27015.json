@@ -1,4 +1,35 @@
 {
-  "Time": "2026-02-22T17:00:24.9156411Z",
-  "Players": []
+  "Time": "2026-02-22T17:00:36.0815248Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TempleWare | Aether1337",
+      "Steam": "76561198785089302",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "__nixwarecc__",
+      "Steam": "76561198737159962",
+      "Score": 9,
+      "Time": "12:18"
+    },
+    {
+      "Name": "R1ck",
+      "Steam": "76561197963183861",
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "I LOVE SCAR!",
+      "Steam": "76561198778758389",
+      "Score": 21,
+      "Time": "??:??"
+    }
+  ]
 }
