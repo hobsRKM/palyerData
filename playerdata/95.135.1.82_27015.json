@@ -1,40 +1,40 @@
 {
-  "Time": "2026-02-22T22:08:42.2166107Z",
+  "Time": "2026-02-22T22:10:42.2050679Z",
   "Players": [
+    {
+      "Name": "luc",
+      "Steam": "76561199131900979",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "AlibabaShopper",
       "Steam": "76561199737804492",
-      "Score": 25,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "cuck",
       "Steam": "76561198744625137",
-      "Score": 4,
-      "Time": "01:56"
+      "Score": 1,
+      "Time": "03:56"
     },
     {
       "Name": "Kasti",
       "Steam": "76561199833286399",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "822:00"
+      "Time": "824:00"
     },
     {
       "Name": "aerobic",
       "Steam": "76561198990196515",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "CAP",
-      "Steam": "76561198756732356",
-      "Score": 5,
+      "Score": 11,
       "Time": "??:??"
     }
   ]
