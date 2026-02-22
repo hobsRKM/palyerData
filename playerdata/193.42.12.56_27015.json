@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-22T04:09:27.9795083Z",
+  "Time": "2026-02-22T04:11:28.1447239Z",
   "Players": [
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "803:06"
+      "Time": "805:07"
+    },
+    {
+      "Name": "ms",
+      "Steam": "76561198735696585",
+      "Score": 2,
+      "Time": "51:10"
     },
     {
       "Name": "Szalony Fistaszek",
       "Steam": "76561199813719808",
-      "Score": 1,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "⁹⁹⁹marosko",
       "Steam": "76561199499013499",
-      "Score": 11,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Jonny 88",
       "Steam": "76561199042221496",
-      "Score": 2,
-      "Time": "40:17"
+      "Score": 9,
+      "Time": "42:17"
     },
     {
       "Name": "void",
       "Steam": "76561199503396912",
-      "Score": 6,
-      "Time": "26:51"
+      "Score": 0,
+      "Time": "28:51"
     },
     {
       "Name": "Jonny 88",
       "Steam": "76561198753890382",
-      "Score": 0,
-      "Time": "47:52"
+      "Score": 8,
+      "Time": "49:52"
     }
   ]
 }
