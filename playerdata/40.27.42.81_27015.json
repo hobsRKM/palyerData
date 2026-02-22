@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-22T03:28:19.9480003Z",
+  "Time": "2026-02-22T03:30:19.9567304Z",
   "Players": [
+    {
+      "Name": "s1mple",
+      "Steam": "76561198737678932",
+      "Score": 0,
+      "Time": "137:37"
+    },
     {
       "Name": "D1 Yapper Ansi",
       "Steam": "76561199568150325",
-      "Score": 5,
-      "Time": "33:27"
+      "Score": 10,
+      "Time": "35:27"
     },
     {
-      "Name": "$ Jhon",
+      "Name": "Otcv3 Jhon",
       "Steam": "76561199877513208",
-      "Score": 7,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 27,
-      "Time": "28:26"
+      "Score": 33,
+      "Time": "30:26"
     },
     {
-      "Name": "eternity.     Blueeyeddaddy69",
+      "Name": "eternit      Blueeyeddaddy69",
       "Steam": "76561199660143840",
-      "Score": 14,
-      "Time": "08:54"
+      "Score": 15,
+      "Time": "10:54"
     }
   ]
 }
