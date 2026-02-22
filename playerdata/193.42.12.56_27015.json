@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-22T03:19:25.0182879Z",
+  "Time": "2026-02-22T03:21:25.089336Z",
   "Players": [
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "753:03"
+      "Time": "755:04"
     },
     {
       "Name": "Szalony Fistaszek",
       "Steam": "76561199813719808",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
-      "Name": "HardTry",
+      "Name": "pashaforearm",
+      "Steam": "76561198793042293",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lua           HardTry",
       "Steam": "76561198774309786",
-      "Score": 59,
-      "Time": "47:36"
+      "Score": 67,
+      "Time": "49:36"
     },
     {
       "Name": "2005",
       "Steam": "76561198806792145",
-      "Score": 83,
-      "Time": "51:18"
+      "Score": 91,
+      "Time": "53:18"
     },
     {
       "Name": "p",
       "Steam": "76561199435840322",
       "Score": 48,
-      "Time": "52:32"
+      "Time": "54:33"
     },
     {
       "Name": "ZwMapViewOfSection",
       "Steam": "76561199884966036",
       "Score": 0,
-      "Time": "78:25"
+      "Time": "80:25"
     }
   ]
 }
