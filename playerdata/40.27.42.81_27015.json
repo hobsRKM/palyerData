@@ -1,34 +1,40 @@
 {
-  "Time": "2026-02-22T15:18:20.4334426Z",
+  "Time": "2026-02-22T15:20:20.4391172Z",
   "Players": [
     {
       "Name": "nevo",
       "Steam": "76561198791368162",
-      "Score": 22,
-      "Time": "20:20"
+      "Score": 24,
+      "Time": "22:20"
+    },
+    {
+      "Name": "amish",
+      "Steam": "76561199571686760",
+      "Score": 61,
+      "Time": "01:20"
     },
     {
       "Name": "ICE Paper",
       "Steam": "76561199695140567",
-      "Score": 48,
-      "Time": "10:49"
+      "Score": 51,
+      "Time": "12:49"
     },
     {
       "Name": "dog",
       "Steam": "76561199040769247",
-      "Score": 22,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "fat",
       "Steam": "76561199072674466",
-      "Score": 20,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "my ass is genuinely fat",
       "Steam": "76561198774045949",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
