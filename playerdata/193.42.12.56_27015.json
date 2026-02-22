@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-22T06:43:39.7123529Z",
+  "Time": "2026-02-22T06:45:39.8317177Z",
   "Players": [
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "957:18"
+      "Time": "959:18"
     },
     {
       "Name": "nemtudni",
       "Steam": "76561198772001377",
       "Score": 0,
-      "Time": "875:47"
+      "Time": "877:47"
     },
     {
       "Name": "ruletik",
       "Steam": "76561199816759374",
-      "Score": 4,
-      "Time": "25:13"
+      "Score": 6,
+      "Time": "27:13"
     },
     {
       "Name": "Holocaust denier",
       "Steam": "76561199772489774",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "rohit",
       "Steam": "76561199160093857",
-      "Score": 3,
-      "Time": "85:53"
+      "Score": 11,
+      "Time": "87:53"
+    },
+    {
+      "Name": "LuvBytes",
+      "Steam": "76561199612402880",
+      "Score": 2,
+      "Time": "72:44"
     },
     {
       "Name": "x_x",
       "Steam": "76561198746400035",
-      "Score": 0,
-      "Time": "80:25"
+      "Score": 1,
+      "Time": "82:25"
     }
   ]
 }
