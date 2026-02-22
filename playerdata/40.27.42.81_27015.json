@@ -1,29 +1,41 @@
 {
-  "Time": "2026-02-22T03:50:19.952002Z",
+  "Time": "2026-02-22T03:52:19.9504814Z",
   "Players": [
     {
       "Name": "s1mple",
       "Steam": "76561198737678932",
       "Score": 2,
-      "Time": "157:37"
+      "Time": "159:37"
+    },
+    {
+      "Name": "Jonathan Porkinson",
+      "Steam": "76561198795054934",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "D1 Yapper Ansi",
       "Steam": "76561199568150325",
-      "Score": 7,
-      "Time": "55:27"
+      "Score": 9,
+      "Time": "57:27"
+    },
+    {
+      "Name": "AI",
+      "Steam": "76561199887978871",
+      "Score": 2,
+      "Time": "00:38"
     },
     {
       "Name": "jack",
       "Steam": "76561199651870382",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 20,
-      "Time": "50:26"
+      "Score": 30,
+      "Time": "52:26"
     }
   ]
 }
