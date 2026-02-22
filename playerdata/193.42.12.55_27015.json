@@ -1,4 +1,35 @@
 {
-  "Time": "2026-02-22T22:02:24.9058292Z",
-  "Players": []
+  "Time": "2026-02-22T22:02:36.0840565Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Holocaust denier",
+      "Steam": "76561199772489774",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aerobic",
+      "Steam": "76561198990196515",
+      "Score": 82,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AimWare enjoyer",
+      "Steam": "76561199865117760",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pxnch",
+      "Steam": "76561198827507307",
+      "Score": 70,
+      "Time": "??:??"
+    }
+  ]
 }
