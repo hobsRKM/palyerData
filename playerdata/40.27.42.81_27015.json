@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-22T16:36:20.4444232Z",
+  "Time": "2026-02-22T16:38:20.4416274Z",
   "Players": [
+    {
+      "Name": "7",
+      "Steam": "76561199571686760",
+      "Score": 0,
+      "Time": "00:49"
+    },
     {
       "Name": "nixware king",
       "Steam": "76561199382498532",
       "Score": 32,
-      "Time": "22:32"
+      "Time": "24:32"
     },
     {
       "Name": "ุMichael Brian Vanbibber",
       "Steam": "76561198737980842",
-      "Score": 81,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "melic343 on yt",
       "Steam": "76561199320924135",
-      "Score": 48,
+      "Score": 50,
       "Time": "??:??"
     },
     {
@@ -28,7 +34,13 @@
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 103,
+      "Score": 111,
+      "Time": "??:??"
+    },
+    {
+      "Name": "femboy enjoyer",
+      "Steam": "76561199158419168",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
