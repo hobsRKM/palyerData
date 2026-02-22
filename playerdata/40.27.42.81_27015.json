@@ -1,29 +1,41 @@
 {
-  "Time": "2026-02-22T03:06:19.956554Z",
+  "Time": "2026-02-22T03:08:19.9575077Z",
   "Players": [
+    {
+      "Name": "RIM REAPER",
+      "Steam": "76561199764138526",
+      "Score": 0,
+      "Time": "00:34"
+    },
     {
       "Name": "D1 Yapper Ansi",
       "Steam": "76561199568150325",
-      "Score": 18,
-      "Time": "11:27"
+      "Score": 24,
+      "Time": "13:27"
+    },
+    {
+      "Name": "deef",
+      "Steam": "76561198153609709",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jhon",
+      "Steam": "76561199877513208",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 22,
-      "Time": "06:26"
+      "Score": 32,
+      "Time": "08:26"
     },
     {
       "Name": "ANONYMUSPHONK67",
       "Steam": "76561199880635070",
-      "Score": 6,
-      "Time": "16:32"
-    },
-    {
-      "Name": "thww",
-      "Steam": "76561198776045731",
-      "Score": 10,
-      "Time": "??:??"
+      "Score": 8,
+      "Time": "18:32"
     }
   ]
 }
