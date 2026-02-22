@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-22T18:04:20.4398253Z",
+  "Time": "2026-02-22T18:06:20.440214Z",
   "Players": [
+    {
+      "Name": "7",
+      "Steam": "76561199571686760",
+      "Score": 0,
+      "Time": "00:39"
+    },
     {
       "Name": "dog",
       "Steam": "76561199040769247",
-      "Score": 21,
-      "Time": "43:54"
+      "Score": 29,
+      "Time": "45:54"
     },
     {
       "Name": "fat",
       "Steam": "76561199072674466",
-      "Score": 19,
-      "Time": "14:08"
+      "Score": 25,
+      "Time": "16:08"
     },
     {
       "Name": "ุMichael Brian Vanbibber",
       "Steam": "76561198737980842",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "jack",
       "Steam": "76561199651870382",
       "Score": 2,
-      "Time": "10:54"
+      "Time": "12:54"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 26,
-      "Time": "15:53"
+      "Score": 36,
+      "Time": "17:53"
     },
     {
       "Name": "chink",
       "Steam": "76561198758593147",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
@@ -44,14 +50,26 @@
       "Time": "??:??"
     },
     {
-      "Name": "fake Kult",
-      "Steam": "76561199492834313",
-      "Score": 27,
+      "Name": "hype",
+      "Steam": "76561198227018504",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "hype",
-      "Steam": "76561198227018504",
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bullet",
+      "Steam": "76561198781702164",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rr",
+      "Steam": "76561198737225370",
       "Score": 0,
       "Time": "??:??"
     }
