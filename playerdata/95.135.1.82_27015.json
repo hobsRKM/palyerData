@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-22T11:30:42.2206038Z",
+  "Time": "2026-02-22T11:32:42.2203464Z",
   "Players": [
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "hmdwaa00125",
       "Steam": "76561198749075331",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Aeluis",
       "Steam": "76561199842369196",
-      "Score": 32,
-      "Time": "06:18"
+      "Score": 35,
+      "Time": "08:18"
     },
     {
       "Name": "jdjdjddjdqkl;daja",
       "Steam": "76561199015504105",
-      "Score": 81,
-      "Time": "22:11"
+      "Score": 83,
+      "Time": "24:11"
     },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 3,
-      "Time": "184:00"
+      "Time": "186:00"
     },
     {
       "Name": "felix",
       "Steam": "76561198765165744",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
-      "Name": "esense",
+      "Name": "ga",
       "Steam": "76561199682863141",
-      "Score": 81,
+      "Score": 85,
       "Time": "??:??"
     },
     {
@@ -46,37 +52,37 @@
     {
       "Name": "ファゼン",
       "Steam": "76561199847392950",
-      "Score": 101,
+      "Score": 106,
       "Time": "??:??"
     },
     {
       "Name": "capacitynmw",
       "Steam": "76561198733501667",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "W",
       "Steam": "76561199745566179",
-      "Score": 16,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "chubrichi",
       "Steam": "76561198734935608",
       "Score": 4,
-      "Time": "02:14"
+      "Time": "04:14"
     },
     {
       "Name": "prfp1286",
       "Steam": "76561198737457795",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "nixwareuser",
       "Steam": "76561198745332088",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
