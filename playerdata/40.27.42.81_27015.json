@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-22T03:44:19.9495312Z",
+  "Time": "2026-02-22T03:46:19.9543302Z",
   "Players": [
     {
       "Name": "s1mple",
       "Steam": "76561198737678932",
-      "Score": 3,
-      "Time": "151:37"
+      "Score": 7,
+      "Time": "153:37"
+    },
+    {
+      "Name": "\uD835\uDD09\uD835\uDD26\uD835\uDD29\uD835\uDD26\uD835\uDD2D",
+      "Steam": "76561198449372051",
+      "Score": 6,
+      "Time": "??:??"
     },
     {
       "Name": "D1 Yapper Ansi",
       "Steam": "76561199568150325",
-      "Score": 30,
-      "Time": "49:27"
+      "Score": 35,
+      "Time": "51:27"
     },
     {
       "Name": "jack",
@@ -22,20 +28,14 @@
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 113,
-      "Time": "44:26"
+      "Score": 137,
+      "Time": "46:26"
     },
     {
       "Name": "Blueeyeddaddy69",
       "Steam": "76561199660143840",
       "Score": 26,
-      "Time": "24:54"
-    },
-    {
-      "Name": "kamidere beta",
-      "Steam": "76561198741179960",
-      "Score": 3,
-      "Time": "??:??"
+      "Time": "26:54"
     }
   ]
 }
