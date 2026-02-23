@@ -1,35 +1,47 @@
 {
-  "Time": "2026-02-23T04:42:20.4394162Z",
+  "Time": "2026-02-23T04:44:20.4436306Z",
   "Players": [
+    {
+      "Name": "rnity.lua        Yapper Ansi",
+      "Steam": "76561199568150325",
+      "Score": 0,
+      "Time": "132:27"
+    },
     {
       "Name": "perhks",
       "Steam": "76561198293312486",
-      "Score": 14,
-      "Time": "30:28"
+      "Score": 26,
+      "Time": "32:28"
     },
     {
       "Name": "jackemehoff2000",
       "Steam": "76561198764806957",
-      "Score": 33,
-      "Time": "52:22"
+      "Score": 35,
+      "Time": "54:22"
+    },
+    {
+      "Name": "gd595992",
+      "Steam": "76561198753883702",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 82,
-      "Time": "23:55"
+      "Score": 84,
+      "Time": "25:55"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199132588915",
       "Score": 0,
-      "Time": "280:15"
+      "Time": "282:15"
     },
     {
       "Name": "3958",
       "Steam": "76561198993649229",
-      "Score": 53,
-      "Time": "52:13"
+      "Score": 55,
+      "Time": "54:13"
     }
   ]
 }
