@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-23T11:04:23.4029668Z",
+  "Time": "2026-02-23T11:06:23.4056319Z",
   "Players": [
+    {
+      "Name": "cnc lover >_<",
+      "Steam": "76561199452451594",
+      "Score": 0,
+      "Time": "00:06"
+    },
     {
       "Name": "Aime-moi la peau beige",
       "Steam": "76561198398976448",
-      "Score": 48,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
       "Score": 14,
-      "Time": "53:13"
+      "Time": "55:13"
     }
   ]
 }
