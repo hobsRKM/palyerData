@@ -1,40 +1,46 @@
 {
-  "Time": "2026-02-23T08:54:30.4582448Z",
+  "Time": "2026-02-23T08:56:30.4558519Z",
   "Players": [
+    {
+      "Name": "GJEES",
+      "Steam": "76561198734556469",
+      "Score": 10,
+      "Time": "02:17"
+    },
     {
       "Name": "rf094676",
       "Steam": "76561198750853058",
-      "Score": 6,
-      "Time": "08:14"
+      "Score": 11,
+      "Time": "10:14"
     },
     {
       "Name": "Washed'O'Unc",
       "Steam": "76561199808928969",
-      "Score": 4,
-      "Time": "03:23"
+      "Score": 10,
+      "Time": "05:23"
     },
     {
       "Name": "hacker",
       "Steam": "76561198739388566",
-      "Score": 26,
+      "Score": 29,
       "Time": "??:??"
     },
     {
-      "Name": "nixw wk421500",
+      "Name": "nixware beta ! wk421500",
       "Steam": "76561199319646786",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "11",
       "Steam": "76561199790093289",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
