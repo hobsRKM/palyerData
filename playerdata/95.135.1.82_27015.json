@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-23T01:26:42.218322Z",
+  "Time": "2026-02-23T01:28:42.2177866Z",
   "Players": [
+    {
+      "Name": "☽",
+      "Steam": "76561199680474626",
+      "Score": 19,
+      "Time": "01:10"
+    },
     {
       "Name": "bindakin113",
       "Steam": "76561198734933594",
@@ -10,13 +16,7 @@
     {
       "Name": "Szalony Fistaszek",
       "Steam": "76561199813719808",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Pliki",
-      "Steam": "76561199874050636",
-      "Score": 48,
+      "Score": 20,
       "Time": "??:??"
     },
     {
@@ -28,38 +28,32 @@
     {
       "Name": "tytek to pedał",
       "Steam": "76561199500996826",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "TRPLBABY",
       "Steam": "76561199543202791",
-      "Score": 45,
-      "Time": "08:56"
+      "Score": 51,
+      "Time": "10:56"
     },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "1020:00"
+      "Time": "1022:00"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 12,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "ᶠᴼᵀGertt",
       "Steam": "76561198756919457",
-      "Score": 86,
-      "Time": "03:06"
-    },
-    {
-      "Name": "Johnny",
-      "Steam": "76561199028582444",
-      "Score": 36,
-      "Time": "06:56"
+      "Score": 94,
+      "Time": "05:06"
     }
   ]
 }
