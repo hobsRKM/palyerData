@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-23T03:12:20.4387312Z",
+  "Time": "2026-02-23T03:14:20.4412104Z",
   "Players": [
+    {
+      "Name": "perhks",
+      "Steam": "76561198293312486",
+      "Score": 4,
+      "Time": "01:41"
+    },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199132588915",
       "Score": 0,
-      "Time": "190:15"
+      "Time": "192:15"
     },
     {
       "Name": "opsecharmfuldox",
@@ -16,14 +22,14 @@
     {
       "Name": "bill",
       "Steam": "76561199013445293",
-      "Score": 26,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "John Travolta",
       "Steam": "76561199067952945",
       "Score": 0,
-      "Time": "159:48"
+      "Time": "161:48"
     }
   ]
 }
