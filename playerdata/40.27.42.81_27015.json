@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-23T20:46:23.4082011Z",
+  "Time": "2026-02-23T20:48:23.4079801Z",
   "Players": [
+    {
+      "Name": "moryak",
+      "Steam": "76561198777671183",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 49,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "jackemehoff2000",
       "Steam": "76561198764806957",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "perhks",
       "Steam": "76561198293312486",
-      "Score": 27,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "goma",
       "Steam": "76561199148908407",
-      "Score": 6,
-      "Time": "16:18"
+      "Score": 15,
+      "Time": "18:18"
     }
   ]
 }
