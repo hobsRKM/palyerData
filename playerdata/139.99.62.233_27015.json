@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-23T17:12:30.7946813Z",
+  "Time": "2026-02-23T17:14:30.7972348Z",
   "Players": [
+    {
+      "Name": "lylaa",
+      "Steam": "76561199783489133",
+      "Score": 2,
+      "Time": "01:31"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 60,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "Viet nam top 2",
       "Steam": "76561199557016632",
-      "Score": 30,
+      "Score": 35,
       "Time": "??:??"
     },
     {
-      "Name": "memesense mila",
+      "Name": "memese mila",
       "Steam": "76561199016633012",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
