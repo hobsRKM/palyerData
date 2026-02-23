@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-23T16:13:38.4606332Z",
+  "Time": "2026-02-23T16:15:38.4704002Z",
   "Players": [
+    {
+      "Name": "D <3",
+      "Steam": "76561199828663467",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "axure",
       "Steam": "76561199136389558",
@@ -10,7 +16,7 @@
     {
       "Name": "AlibabaShopper",
       "Steam": "76561199737804492",
-      "Score": 46,
+      "Score": 52,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "bonglodesh",
       "Steam": "76561198740749532",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Simpanfyrkant",
       "Steam": "76561198854285250",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
