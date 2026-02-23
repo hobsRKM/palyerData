@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-23T12:09:25.8356365Z",
+  "Time": "2026-02-23T12:11:25.8336511Z",
   "Players": [
     {
       "Name": "G>A",
@@ -8,16 +8,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "TempleWare | Aether1337",
+      "Name": "$          | Aether1337",
       "Steam": "76561198785089302",
       "Score": 0,
-      "Time": "00:41"
+      "Time": "02:41"
+    },
+    {
+      "Name": "cutiepie",
+      "Steam": "76561199840124262",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Bob_Builder",
       "Steam": "76561198751794053",
-      "Score": 0,
-      "Time": "01:56"
+      "Score": 10,
+      "Time": "03:56"
     }
   ]
 }
