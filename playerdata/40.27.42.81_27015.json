@@ -1,64 +1,70 @@
 {
-  "Time": "2026-02-23T08:40:20.4660496Z",
+  "Time": "2026-02-23T08:42:20.4630692Z",
   "Players": [
+    {
+      "Name": "gerbert",
+      "Steam": "76561198737140752",
+      "Score": 24,
+      "Time": "01:00"
+    },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199132588915",
       "Score": 0,
-      "Time": "518:15"
+      "Time": "520:15"
     },
     {
-      "Name": "ity.lua          bill",
+      "Name": "nity.lua         bill",
       "Steam": "76561199013445293",
-      "Score": 18,
-      "Time": "04:35"
+      "Score": 24,
+      "Time": "06:35"
     },
     {
       "Name": "Xup",
       "Steam": "76561199011203109",
       "Score": 38,
-      "Time": "167:25"
+      "Time": "169:25"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
       "Score": 31,
-      "Time": "20:50"
+      "Time": "22:50"
     },
     {
       "Name": "*I*I*I*I*",
       "Steam": "76561199088220054",
-      "Score": 19,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 59,
-      "Time": "27:07"
+      "Score": 63,
+      "Time": "29:07"
     },
     {
       "Name": "✞OC✞",
       "Steam": "76561198772153840",
-      "Score": 96,
-      "Time": "100:23"
+      "Score": 102,
+      "Time": "102:23"
     },
     {
       "Name": "eternity.lua    JS-070",
       "Steam": "76561199828563808",
       "Score": 8,
-      "Time": "14:34"
+      "Time": "16:34"
     },
     {
       "Name": "EAZY-E",
       "Steam": "76561199570458957",
-      "Score": 18,
-      "Time": "831:58"
+      "Score": 20,
+      "Time": "833:58"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 48,
+      "Score": 62,
       "Time": "??:??"
     }
   ]
