@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-23T15:18:30.4782611Z",
+  "Time": "2026-02-23T15:20:30.4767455Z",
   "Players": [
     {
       "Name": "Best Music",
       "Steam": "76561199829905037",
-      "Score": 59,
-      "Time": "23:47"
+      "Score": 61,
+      "Time": "25:47"
     },
     {
       "Name": "\uD835\uDC06\uD835\uDC2B\uD835\uDC22\uD835\uDC26",
       "Steam": "76561198387292807",
-      "Score": 55,
-      "Time": "36:35"
+      "Score": 57,
+      "Time": "38:35"
+    },
+    {
+      "Name": "fatality. no name",
+      "Steam": "76561198192899758",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "memesense",
       "Steam": "76561198744742371",
       "Score": 20,
-      "Time": "26:02"
+      "Time": "28:02"
     },
     {
       "Name": "vz923701",
       "Steam": "76561198751552206",
-      "Score": 50,
-      "Time": "87:30"
+      "Score": 59,
+      "Time": "89:30"
     },
     {
       "Name": "TheT1anJlxTa",
@@ -40,14 +46,8 @@
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
-    },
-    {
-      "Name": "Ghosthamster1337",
-      "Steam": "76561198761755601",
-      "Score": 54,
-      "Time": "27:11"
     }
   ]
 }
