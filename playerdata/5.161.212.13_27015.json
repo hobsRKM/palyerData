@@ -1,4 +1,23 @@
 {
-  "Time": "2026-02-23T20:22:20.4971162Z",
-  "Players": []
+  "Time": "2026-02-23T20:22:31.9498813Z",
+  "Players": [
+    {
+      "Name": "Unknown Player",
+      "Steam": "76561199112365148",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "trapgangswag@portal.net",
+      "Steam": "76561198743226462",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 16,
+      "Time": "??:??"
+    }
+  ]
 }
