@@ -1,35 +1,47 @@
 {
-  "Time": "2026-02-23T02:32:20.4404664Z",
+  "Time": "2026-02-23T02:34:20.4521476Z",
   "Players": [
+    {
+      "Name": "perhks",
+      "Steam": "76561198293312486",
+      "Score": 89,
+      "Time": "02:01"
+    },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 92,
-      "Time": "69:49"
+      "Score": 99,
+      "Time": "71:49"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199132588915",
       "Score": 0,
-      "Time": "150:15"
+      "Time": "152:15"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 53,
-      "Time": "247:30"
+      "Score": 57,
+      "Time": "249:30"
+    },
+    {
+      "Name": "eternity.lua    Blueeyeddaddy69",
+      "Steam": "76561199660143840",
+      "Score": 0,
+      "Time": "02:09"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
-      "Score": 57,
-      "Time": "101:04"
+      "Score": 59,
+      "Time": "103:04"
     },
     {
       "Name": "nevo",
       "Steam": "76561198791368162",
-      "Score": 23,
-      "Time": "299:11"
+      "Score": 27,
+      "Time": "301:11"
     },
     {
       "Name": "Ghosthamster1337",
@@ -40,31 +52,31 @@
     {
       "Name": "munks",
       "Steam": "76561199872673612",
-      "Score": 62,
-      "Time": "51:49"
+      "Score": 66,
+      "Time": "53:49"
     },
     {
       "Name": "JS-070",
       "Steam": "76561199828563808",
       "Score": 23,
-      "Time": "07:47"
+      "Time": "09:47"
     },
     {
       "Name": "John Travolta",
       "Steam": "76561199067952945",
       "Score": 0,
-      "Time": "119:48"
+      "Time": "121:48"
     },
     {
       "Name": "fidelio",
       "Steam": "76561198749839644",
-      "Score": 6,
-      "Time": "98:05"
+      "Score": 7,
+      "Time": "100:05"
     },
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
