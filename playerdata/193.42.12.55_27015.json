@@ -1,4 +1,23 @@
 {
-  "Time": "2026-02-23T23:44:24.9191907Z",
-  "Players": []
+  "Time": "2026-02-23T23:45:05.9646445Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Unknown Player",
+      "Steam": "76561199823476896",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Unknown Player",
+      "Steam": "76561199823970103",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
