@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-24T07:58:40.5677476Z",
+  "Time": "2026-02-24T08:00:40.5671681Z",
   "Players": [
+    {
+      "Name": "Jew-guy",
+      "Steam": "76561199886562863",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 37,
-      "Time": "11:03"
+      "Score": 42,
+      "Time": "13:03"
     },
     {
       "Name": "Sukia",
@@ -16,32 +22,26 @@
     {
       "Name": "whore",
       "Steam": "76561199803883011",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 47,
+      "Score": 55,
       "Time": "??:??"
-    },
-    {
-      "Name": "Ansi",
-      "Steam": "76561199568150325",
-      "Score": 7,
-      "Time": "94:28"
     },
     {
       "Name": "Moon",
       "Steam": "76561198780587626",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "frog",
       "Steam": "76561199471107546",
-      "Score": 14,
-      "Time": "18:50"
+      "Score": 24,
+      "Time": "20:50"
     },
     {
       "Name": "matarinu",
@@ -52,20 +52,20 @@
     {
       "Name": "*I*I*I*I*",
       "Steam": "76561199088220054",
-      "Score": 4,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "damndaniel25 #whitevans #daniel",
       "Steam": "76561198844542771",
-      "Score": 31,
-      "Time": "10:05"
+      "Score": 38,
+      "Time": "12:05"
     },
     {
-      "Name": "rnity.lua        bill",
+      "Name": "ernity.lua       bill",
       "Steam": "76561199013445293",
-      "Score": 9,
-      "Time": "84:26"
+      "Score": 15,
+      "Time": "86:26"
     }
   ]
 }
