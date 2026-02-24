@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-24T12:55:05.9353701Z",
+  "Time": "2026-02-24T12:57:05.9405809Z",
   "Players": [
+    {
+      "Name": "ka$h",
+      "Steam": "76561198769067462",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Fake",
       "Steam": "76561199729334552",
-      "Score": 30,
-      "Time": "18:11"
+      "Score": 34,
+      "Time": "20:11"
     },
     {
       "Name": "wrahit<3\u1CBC",
@@ -34,37 +40,43 @@
     {
       "Name": "Bogdanuq",
       "Steam": "76561199550122482",
-      "Score": 86,
+      "Score": 99,
       "Time": "??:??"
     },
     {
       "Name": "Blank",
       "Steam": "76561198751950264",
-      "Score": 36,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 28,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "67G",
       "Steam": "76561199388843433",
-      "Score": 32,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "void",
       "Steam": "76561199503396912",
-      "Score": 8,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "LastHope",
       "Steam": "76561199345907245",
-      "Score": 2,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198784581696",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
