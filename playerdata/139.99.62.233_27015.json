@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-24T17:43:01.7705072Z",
+  "Time": "2026-02-24T17:45:01.767878Z",
   "Players": [
     {
       "Name": "Best Music",
       "Steam": "76561199829905037",
-      "Score": 49,
-      "Time": "06:32"
+      "Score": 50,
+      "Time": "08:32"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 62,
-      "Time": "188:30"
+      "Score": 70,
+      "Time": "190:30"
+    },
+    {
+      "Name": "In jenem Winter verlor ich dich",
+      "Steam": "76561199060922164",
+      "Score": 10,
+      "Time": "00:58"
     }
   ]
 }
