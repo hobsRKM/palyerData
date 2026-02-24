@@ -1,40 +1,52 @@
 {
-  "Time": "2026-02-24T08:37:01.020576Z",
+  "Time": "2026-02-24T08:39:01.013043Z",
   "Players": [
+    {
+      "Name": "Unknown Player",
+      "Steam": "76561199823617563",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "jezv1bl3v5n0v5a",
       "Steam": "76561198734838871",
-      "Score": 6,
-      "Time": "26:22"
+      "Score": 12,
+      "Time": "28:22"
     },
     {
       "Name": "1",
       "Steam": "76561199163976232",
-      "Score": 9,
-      "Time": "41:01"
+      "Score": 12,
+      "Time": "43:01"
     },
     {
       "Name": "TheT1anJlxTa",
       "Steam": "76561199545705485",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 10,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Tranny.sense",
       "Steam": "76561199800514043",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nicotine",
+      "Steam": "76561198758171459",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
