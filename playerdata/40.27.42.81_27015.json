@@ -1,23 +1,35 @@
 {
-  "Time": "2026-02-24T23:04:25.8759343Z",
+  "Time": "2026-02-24T23:06:25.8729454Z",
   "Players": [
     {
       "Name": "cunnykopf",
       "Steam": "76561198740368974",
-      "Score": 94,
-      "Time": "16:29"
+      "Score": 104,
+      "Time": "18:29"
     },
     {
       "Name": "drunkenbeggar",
       "Steam": "76561199678608838",
-      "Score": 72,
-      "Time": "20:58"
+      "Score": 76,
+      "Time": "22:58"
     },
     {
       "Name": "76561198993649229",
       "Steam": "76561198993649229",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
+    },
+    {
+      "Name": "Fish",
+      "Steam": "76561199755599976",
+      "Score": 9,
+      "Time": "184:30"
+    },
+    {
+      "Name": "nox",
+      "Steam": "76561199471107546",
+      "Score": 0,
+      "Time": "00:29"
     },
     {
       "Name": "opsecharmfuldox",
@@ -28,26 +40,26 @@
     {
       "Name": "0_0",
       "Steam": "76561198770370123",
-      "Score": 36,
-      "Time": "19:16"
+      "Score": 45,
+      "Time": "21:16"
     },
     {
-      "Name": "ity.lua          BS_Official",
+      "Name": "nity.lua         BS_Official",
       "Steam": "76561198748012660",
-      "Score": 63,
-      "Time": "50:55"
+      "Score": 65,
+      "Time": "52:55"
     },
     {
       "Name": "definitely not serv",
       "Steam": "76561199622182648",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 4,
-      "Time": "03:30"
+      "Score": 10,
+      "Time": "05:30"
     },
     {
       "Name": "0123",
@@ -58,14 +70,14 @@
     {
       "Name": "Sukia",
       "Steam": "76561198780018069",
-      "Score": 6,
-      "Time": "02:24"
+      "Score": 9,
+      "Time": "04:24"
     },
     {
       "Name": "27",
       "Steam": "76561199040929223",
       "Score": 0,
-      "Time": "01:09"
+      "Time": "03:09"
     },
     {
       "Name": "trevvy",
@@ -74,22 +86,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "paradise",
+      "Steam": "76561198380272287",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "Casper TNG",
       "Steam": "76561199100356254",
-      "Score": 39,
-      "Time": "07:41"
+      "Score": 43,
+      "Time": "09:41"
     },
     {
       "Name": "skussazz",
       "Steam": "76561199348304991",
-      "Score": 9,
-      "Time": "04:23"
+      "Score": 13,
+      "Time": "06:23"
     },
     {
       "Name": "tsundere girl UwU",
       "Steam": "76561199382498532",
-      "Score": 0,
-      "Time": "127:46"
+      "Score": 1,
+      "Time": "129:46"
     }
   ]
 }
