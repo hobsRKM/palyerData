@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-24T09:04:40.5716562Z",
+  "Time": "2026-02-24T09:06:40.5768036Z",
   "Players": [
+    {
+      "Name": "BIG JIM",
+      "Steam": "76561198739842316",
+      "Score": 2,
+      "Time": "00:28"
+    },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
       "Score": 42,
-      "Time": "03:01"
+      "Time": "05:01"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗ Seidr",
       "Steam": "76561198333235279",
-      "Score": 36,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE67",
       "Steam": "76561198791701298",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Fish",
       "Steam": "76561199755599976",
-      "Score": 24,
-      "Time": "57:57"
+      "Score": 38,
+      "Time": "59:57"
     },
     {
       "Name": "未来はすぐそこで待っ",
@@ -35,7 +41,7 @@
       "Name": "LIL MONKEY 3",
       "Steam": "76561198739856407",
       "Score": 7,
-      "Time": "12:36"
+      "Time": "14:36"
     },
     {
       "Name": "Sukia",
@@ -44,52 +50,46 @@
       "Time": "??:??"
     },
     {
-      "Name": "1vna5.d6.9",
-      "Steam": "76561198736582977",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "whore",
       "Steam": "76561199803883011",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Luang",
       "Steam": "76561198271354793",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "RAPIST ™",
       "Steam": "76561198993649229",
       "Score": 8,
-      "Time": "46:12"
+      "Time": "48:12"
     },
     {
-      "Name": "[f Ansi",
+      "Name": "[fut Ansi",
       "Steam": "76561199568150325",
-      "Score": 22,
-      "Time": "16:42"
+      "Score": 26,
+      "Time": "18:42"
     },
     {
       "Name": "Moon",
       "Steam": "76561198780587626",
-      "Score": 10,
-      "Time": "09:07"
+      "Score": 12,
+      "Time": "11:07"
     },
     {
       "Name": "frog",
       "Steam": "76561199471107546",
       "Score": 26,
-      "Time": "25:00"
+      "Time": "27:00"
     },
     {
-      "Name": "eternity.lu     bill",
+      "Name": "eternity.l     bill",
       "Steam": "76561199013445293",
       "Score": 34,
-      "Time": "150:26"
+      "Time": "152:26"
     }
   ]
 }
