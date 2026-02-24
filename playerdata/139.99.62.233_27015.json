@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-24T18:55:02.1065933Z",
+  "Time": "2026-02-24T18:57:02.1249872Z",
   "Players": [
     {
       "Name": "Best Music",
       "Steam": "76561199829905037",
-      "Score": 80,
-      "Time": "57:49"
+      "Score": 84,
+      "Time": "59:49"
     },
     {
       "Name": "LAM",
       "Steam": "76561198735478851",
-      "Score": 30,
-      "Time": "19:16"
+      "Score": 32,
+      "Time": "21:16"
+    },
+    {
+      "Name": "\uD835\uDDF6\uD835\uDDF9\uD835\uDDF9\uD835\uDE02\uD835\uDE00\uD835\uDDF6\uD835\uDDFC\uD835\uDDFB",
+      "Steam": "76561198285997263",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 85,
-      "Time": "59:04"
+      "Score": 91,
+      "Time": "61:04"
     }
   ]
 }
