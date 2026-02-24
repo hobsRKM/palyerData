@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-24T18:31:01.8053085Z",
+  "Time": "2026-02-24T18:33:01.8126489Z",
   "Players": [
     {
       "Name": "Best Music",
       "Steam": "76561199829905037",
-      "Score": 6,
-      "Time": "33:49"
+      "Score": 16,
+      "Time": "35:49"
+    },
+    {
+      "Name": "LAM",
+      "Steam": "76561198735478851",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "BypassVAC",
       "Steam": "76561199889205929",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 10,
-      "Time": "35:03"
+      "Score": 12,
+      "Time": "37:03"
     }
   ]
 }
