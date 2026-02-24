@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-24T14:13:07.6295389Z",
+  "Time": "2026-02-24T14:15:07.6161553Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,31 +10,25 @@
     {
       "Name": "Ferox",
       "Steam": "76561199377440484",
-      "Score": 41,
-      "Time": "39:02"
+      "Score": 0,
+      "Time": "41:02"
     },
     {
       "Name": "FairGames",
       "Steam": "76561199033694913",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Cairo",
       "Steam": "76561198755398524",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 101,
-      "Time": "??:??"
-    },
-    {
-      "Name": "nop",
-      "Steam": "76561199682061013",
-      "Score": 71,
+      "Score": 109,
       "Time": "??:??"
     },
     {
@@ -46,37 +40,31 @@
     {
       "Name": "ПАРЛАМЕНТ НАЙТ БЛЮ",
       "Steam": "76561198780154406",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "<3",
-      "Steam": "76561198750795360",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ᵇᵃˢᵉᵐᵉⁿᵗbored.",
       "Steam": "76561199634244736",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Big J Drippy",
       "Steam": "76561199837815539",
-      "Score": 7,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "what if you fly",
       "Steam": "76561198192899758",
-      "Score": 48,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Fake",
       "Steam": "76561199729334552",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
@@ -88,19 +76,25 @@
     {
       "Name": "ozempeek",
       "Steam": "76561199241125970",
-      "Score": 15,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Grizly",
       "Steam": "76561198188465877",
-      "Score": 16,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Tabi",
       "Steam": "76561199438262321",
-      "Score": 9,
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Winxx",
+      "Steam": "76561199472686469",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
