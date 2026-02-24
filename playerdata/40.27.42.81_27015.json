@@ -1,34 +1,46 @@
 {
-  "Time": "2026-02-24T22:16:25.8710127Z",
+  "Time": "2026-02-24T22:18:25.8720386Z",
   "Players": [
     {
       "Name": "76561198993649229",
       "Steam": "76561198993649229",
-      "Score": 10,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "nox",
       "Steam": "76561199471107546",
-      "Score": 17,
-      "Time": "14:22"
+      "Score": 21,
+      "Time": "16:22"
+    },
+    {
+      "Name": "VeroFT",
+      "Steam": "76561199857122507",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 9,
-      "Time": "02:55"
+      "Score": 13,
+      "Time": "04:55"
     },
     {
       "Name": "Plutonium",
       "Steam": "76561199622058563",
-      "Score": 6,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nity.lua         Jshawk",
+      "Steam": "76561198448647218",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "trevvy",
       "Steam": "76561199874044368",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     }
   ]
