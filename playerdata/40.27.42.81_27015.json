@@ -1,29 +1,29 @@
 {
-  "Time": "2026-02-24T06:22:40.5686261Z",
+  "Time": "2026-02-24T06:24:40.580819Z",
   "Players": [
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 0,
-      "Time": "00:23"
+      "Score": 6,
+      "Time": "01:42"
     },
     {
       "Name": "perc",
       "Steam": "76561198293312486",
-      "Score": 2,
-      "Time": "48:18"
+      "Score": 15,
+      "Time": "50:18"
     },
     {
       "Name": "cookies",
       "Steam": "76561199740544730",
-      "Score": 4,
-      "Time": "19:05"
+      "Score": 6,
+      "Time": "21:05"
     },
     {
       "Name": "MR.Boogie",
       "Steam": "76561198052520015",
-      "Score": 19,
-      "Time": "46:17"
+      "Score": 36,
+      "Time": "48:17"
     },
     {
       "Name": "Thomas",
@@ -34,8 +34,8 @@
     {
       "Name": "Nikolay Lev",
       "Steam": "76561198111005971",
-      "Score": 4,
-      "Time": "12:39"
+      "Score": 6,
+      "Time": "14:39"
     },
     {
       "Name": "mikasa",
@@ -46,26 +46,38 @@
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 7,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Dumpper",
       "Steam": "76561198835879529",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "iinov8",
+      "Steam": "76561198005849139",
       "Score": 0,
       "Time": "??:??"
     },
     {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 0,
+      "Time": "00:28"
+    },
+    {
       "Name": "icedancer",
       "Steam": "76561197995675648",
-      "Score": 9,
-      "Time": "09:32"
+      "Score": 2,
+      "Time": "11:32"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
       "Score": 0,
-      "Time": "48:27"
+      "Time": "50:27"
     },
     {
       "Name": "y",
@@ -76,25 +88,19 @@
     {
       "Name": "sadisticyuhh",
       "Steam": "76561198735846911",
-      "Score": 7,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "vlad",
       "Steam": "76561199177332746",
-      "Score": 14,
-      "Time": "11:26"
+      "Score": 19,
+      "Time": "13:26"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
-      "Score": 3,
-      "Time": "??:??"
-    },
-    {
-      "Name": "damndaniel25 #whitevans #daniel",
-      "Steam": "76561198844542771",
-      "Score": 10,
+      "Score": 11,
       "Time": "??:??"
     }
   ]
