@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-24T20:12:25.8700611Z",
+  "Time": "2026-02-24T20:14:25.870909Z",
   "Players": [
     {
       "Name": "No Thoughts",
       "Steam": "76561198752949729",
-      "Score": 68,
+      "Score": 76,
       "Time": "??:??"
+    },
+    {
+      "Name": "static",
+      "Steam": "76561198180564201",
+      "Score": 4,
+      "Time": "00:16"
     },
     {
       "Name": "sandorvargas",
@@ -17,13 +23,7 @@
       "Name": "nox",
       "Steam": "76561199471107546",
       "Score": 26,
-      "Time": "93:47"
-    },
-    {
-      "Name": "41",
-      "Steam": "76561198742119595",
-      "Score": 6,
-      "Time": "03:04"
+      "Time": "95:47"
     },
     {
       "Name": "munks",
@@ -34,38 +34,38 @@
     {
       "Name": "a1most",
       "Steam": "76561198759125966",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 31,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "7",
       "Steam": "76561199571686760",
-      "Score": 4,
-      "Time": "07:33"
+      "Score": 12,
+      "Time": "09:33"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 22,
-      "Time": "07:54"
+      "Score": 24,
+      "Time": "09:54"
     },
     {
       "Name": "Sukia",
       "Steam": "76561198780018069",
       "Score": 5,
-      "Time": "00:28"
+      "Time": "02:28"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 68,
-      "Time": "26:43"
+      "Score": 75,
+      "Time": "28:43"
     }
   ]
 }
