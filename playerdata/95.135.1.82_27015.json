@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-24T18:35:39.761304Z",
+  "Time": "2026-02-24T18:37:39.7584678Z",
   "Players": [
     {
       "Name": "awd",
       "Steam": "76561198790995419",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "ShArWa",
+      "Steam": "76561199838409889",
+      "Score": 0,
+      "Time": "145:55"
     },
     {
       "Name": "/market/item?id=lYEGuQ",
@@ -16,7 +22,13 @@
     {
       "Name": "AlibabaShopper",
       "Steam": "76561199737804492",
-      "Score": 46,
+      "Score": 52,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Aimware.net",
+      "Steam": "76561199258651524",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
