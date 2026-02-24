@@ -1,53 +1,35 @@
 {
-  "Time": "2026-02-24T18:24:25.8691289Z",
+  "Time": "2026-02-24T18:26:25.8762708Z",
   "Players": [
     {
       "Name": "PI",
       "Steam": "76561199148908407",
-      "Score": 2,
-      "Time": "04:24"
+      "Score": 0,
+      "Time": "06:24"
     },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
-      "Score": 105,
-      "Time": "49:18"
+      "Score": 6,
+      "Time": "51:18"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 99,
-      "Time": "37:07"
-    },
-    {
-      "Name": "eternity.lua     JS-070",
-      "Steam": "76561199828563808",
-      "Score": 49,
-      "Time": "02:29"
-    },
-    {
-      "Name": "wzcpylhiupdw",
-      "Steam": "76561199711463723",
-      "Score": 90,
-      "Time": "24:14"
-    },
-    {
-      "Name": "sj",
-      "Steam": "76561198756303634",
-      "Score": 11,
-      "Time": "02:20"
-    },
-    {
-      "Name": "Shux",
-      "Steam": "76561199170636130",
-      "Score": 28,
-      "Time": "??:??"
-    },
-    {
-      "Name": "James",
-      "Steam": "76561199121215178",
       "Score": 4,
-      "Time": "??:??"
+      "Time": "39:07"
+    },
+    {
+      "Name": "eternity.lua    JS-070",
+      "Steam": "76561199828563808",
+      "Score": 0,
+      "Time": "04:29"
+    },
+    {
+      "Name": "Moon",
+      "Steam": "76561199711463723",
+      "Score": 0,
+      "Time": "26:14"
     }
   ]
 }
