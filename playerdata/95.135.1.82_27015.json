@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-24T17:19:39.7662258Z",
+  "Time": "2026-02-24T17:21:39.7624055Z",
   "Players": [
     {
       "Name": "SKIBIDIMELESIGMA",
       "Steam": "76561199845621879",
-      "Score": 7,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Supernatural",
+      "Steam": "76561198749149649",
+      "Score": 0,
+      "Time": "01:25"
     },
     {
       "Name": "/market/item?id=lYEGuQ",
       "Steam": "76561198778958301",
-      "Score": 59,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "✈︎ 9/11peek ✈",
       "Steam": "76561199275384358",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "ka$h",
       "Steam": "76561198769067462",
-      "Score": 22,
-      "Time": "81:34"
+      "Score": 28,
+      "Time": "83:34"
     }
   ]
 }
