@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-24T17:07:01.7153577Z",
+  "Time": "2026-02-24T17:09:01.7300929Z",
   "Players": [
+    {
+      "Name": "Best Music",
+      "Steam": "76561199829905037",
+      "Score": 2,
+      "Time": "00:40"
+    },
     {
       "Name": "ミ★ʙᴀʙʏʙoo★彡",
       "Steam": "76561198124032291",
-      "Score": 49,
-      "Time": "30:37"
+      "Score": 57,
+      "Time": "32:37"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 13,
-      "Time": "152:30"
+      "Score": 0,
+      "Time": "154:30"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
-      "Score": 35,
-      "Time": "09:18"
+      "Score": 41,
+      "Time": "11:18"
     },
     {
       "Name": "Nixware",
       "Steam": "76561198733392789",
-      "Score": 25,
-      "Time": "97:22"
+      "Score": 28,
+      "Time": "99:22"
     }
   ]
 }
