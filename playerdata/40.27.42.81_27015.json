@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-24T07:46:40.5749293Z",
+  "Time": "2026-02-24T07:48:40.5707404Z",
   "Players": [
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 2,
+      "Time": "01:03"
+    },
     {
       "Name": "Sukia",
       "Steam": "76561198780018069",
@@ -10,62 +16,50 @@
     {
       "Name": "whore",
       "Steam": "76561199803883011",
-      "Score": 34,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "BS_Official",
+      "Name": "lua           BS_Official",
       "Steam": "76561198748012660",
-      "Score": 12,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 33,
-      "Time": "82:28"
+      "Score": 2,
+      "Time": "84:28"
     },
     {
       "Name": "Moon",
       "Steam": "76561198780587626",
-      "Score": 53,
+      "Score": 5,
       "Time": "??:??"
-    },
-    {
-      "Name": "K",
-      "Steam": "76561198787397270",
-      "Score": 79,
-      "Time": "113:13"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198737678932",
-      "Score": 10,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "frog",
       "Steam": "76561199471107546",
-      "Score": 4,
-      "Time": "06:50"
+      "Score": 2,
+      "Time": "08:50"
     },
     {
-      "Name": "sadisticyuhh",
-      "Steam": "76561198735846911",
-      "Score": 27,
-      "Time": "33:07"
-    },
-    {
-      "Name": "miley ashley ..",
-      "Steam": "76561199588698108",
-      "Score": 96,
+      "Name": "matarinu",
+      "Steam": "76561199826270661",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "damndaniel25 #whitevans #daniel",
       "Steam": "76561198844542771",
-      "Score": 110,
-      "Time": "64:04"
+      "Score": 0,
+      "Time": "00:05"
     }
   ]
 }
