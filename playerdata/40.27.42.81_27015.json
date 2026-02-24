@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-24T17:30:25.8725729Z",
+  "Time": "2026-02-24T17:32:25.8694839Z",
   "Players": [
+    {
+      "Name": "Sir General Sergeant Fuck You",
+      "Steam": "76561199678608838",
+      "Score": 4,
+      "Time": "01:54"
+    },
     {
       "Name": "PI",
       "Steam": "76561199148908407",
-      "Score": 0,
-      "Time": "23:50"
+      "Score": 5,
+      "Time": "25:50"
     },
     {
-      "Name": "rnity.lua        JS-070",
+      "Name": "ernity.lua       JS-070",
       "Steam": "76561199828563808",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
