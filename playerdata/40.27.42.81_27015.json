@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-24T08:10:40.5744835Z",
+  "Time": "2026-02-24T08:12:40.5720972Z",
   "Players": [
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 44,
+      "Time": "01:09"
+    },
     {
       "Name": "Fish",
       "Steam": "76561199755599976",
-      "Score": 10,
-      "Time": "03:57"
+      "Score": 16,
+      "Time": "05:57"
     },
     {
       "Name": "Sukia",
@@ -16,20 +22,20 @@
     {
       "Name": "whore",
       "Steam": "76561199803883011",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
       "Score": 22,
-      "Time": "06:44"
+      "Time": "08:44"
     },
     {
       "Name": "frog",
       "Steam": "76561199471107546",
-      "Score": 53,
-      "Time": "30:50"
+      "Score": 54,
+      "Time": "32:50"
     },
     {
       "Name": "matarinu",
@@ -38,10 +44,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "eternity.lua  bill",
+      "Name": "eternity.lua   bill",
       "Steam": "76561199013445293",
-      "Score": 41,
-      "Time": "96:26"
+      "Score": 43,
+      "Time": "98:26"
     }
   ]
 }
