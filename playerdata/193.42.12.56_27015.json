@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-25T04:03:31.2329408Z",
+  "Time": "2026-02-25T04:05:31.2288025Z",
   "Players": [
     {
       "Name": "succ",
       "Steam": "76561199002053532",
-      "Score": 0,
-      "Time": "19:53"
+      "Score": 2,
+      "Time": "21:53"
+    },
+    {
+      "Name": "demon",
+      "Steam": "76561198303438254",
+      "Score": 2,
+      "Time": "01:07"
     },
     {
       "Name": "Fake",
       "Steam": "76561199729334552",
-      "Score": 0,
-      "Time": "41:13"
+      "Score": 2,
+      "Time": "43:13"
     },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "569:00"
+      "Time": "571:00"
     },
     {
       "Name": "LuluMoon",
@@ -26,10 +32,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "gamesens waire",
+      "Name": "nse.pub waire",
       "Steam": "76561199848975108",
-      "Score": 4,
-      "Time": "22:45"
+      "Score": 12,
+      "Time": "24:45"
     }
   ]
 }
