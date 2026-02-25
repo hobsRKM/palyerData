@@ -1,28 +1,34 @@
 {
-  "Time": "2026-02-25T13:12:22.7466785Z",
+  "Time": "2026-02-25T13:14:22.7579708Z",
   "Players": [
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 12,
-      "Time": "46:35"
+      "Score": 17,
+      "Time": "48:35"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 32,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "Kuba GGGG",
       "Steam": "76561198243395746",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Fire Truck",
       "Steam": "76561199806489052",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bug",
+      "Steam": "76561198446025292",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
