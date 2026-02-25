@@ -1,77 +1,95 @@
 {
-  "Time": "2026-02-25T02:03:31.2305087Z",
+  "Time": "2026-02-25T02:05:31.2278871Z",
   "Players": [
+    {
+      "Name": "air",
+      "Steam": "76561199499013499",
+      "Score": 4,
+      "Time": "01:08"
+    },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 40,
-      "Time": "148:16"
+      "Score": 48,
+      "Time": "150:16"
     },
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 66,
-      "Time": "26:27"
+      "Score": 68,
+      "Time": "28:27"
     },
     {
       "Name": "ᶠᴼᵀGertt",
       "Steam": "76561198756919457",
-      "Score": 0,
-      "Time": "21:58"
+      "Score": 2,
+      "Time": "23:58"
     },
     {
-      "Name": "Allah. SchweineHunde",
+      "Name": "Allah SchweineHunde",
       "Steam": "76561199747567192",
-      "Score": 90,
+      "Score": 92,
       "Time": "??:??"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 4,
-      "Time": "41:34"
+      "Score": 12,
+      "Time": "43:34"
     },
     {
       "Name": "Mjay",
       "Steam": "76561199237707727",
-      "Score": 6,
-      "Time": "10:32"
+      "Score": 0,
+      "Time": "12:32"
+    },
+    {
+      "Name": "pierdolić",
+      "Steam": "76561199817858120",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "700 Pferde",
       "Steam": "76561199889942947",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 70,
+      "Score": 79,
+      "Time": "??:??"
+    },
+    {
+      "Name": "canttakeitwithyouwhenyoudie",
+      "Steam": "76561199757543292",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bakom big",
       "Steam": "76561198806792145",
-      "Score": 117,
-      "Time": "417:04"
+      "Score": 123,
+      "Time": "419:04"
     },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "449:00"
+      "Time": "451:00"
     },
     {
-      "Name": "1 waire",
+      "Name": "12 waire",
       "Steam": "76561199848975108",
-      "Score": 15,
-      "Time": "569:32"
+      "Score": 17,
+      "Time": "571:32"
     },
     {
       "Name": "cdgbby",
       "Steam": "76561199405626268",
       "Score": 2,
-      "Time": "00:27"
+      "Time": "02:27"
     }
   ]
 }
