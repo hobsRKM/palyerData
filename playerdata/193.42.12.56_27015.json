@@ -1,35 +1,53 @@
 {
-  "Time": "2026-02-25T04:09:31.2212875Z",
+  "Time": "2026-02-25T04:11:31.2266644Z",
   "Players": [
+    {
+      "Name": "aminvarsayasarsin",
+      "Steam": "76561198734762007",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 12,
-      "Time": "05:07"
+      "Score": 20,
+      "Time": "07:07"
     },
     {
       "Name": "Fake",
       "Steam": "76561199729334552",
-      "Score": 9,
-      "Time": "47:13"
+      "Score": 11,
+      "Time": "49:13"
+    },
+    {
+      "Name": "моюсь(редко)",
+      "Steam": "76561199355871735",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "БОСС-МОЛОКОСОС",
+      "Steam": "76561198737414509",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "575:00"
+      "Time": "577:00"
     },
     {
       "Name": "LuluMoon",
       "Steam": "76561198758491278",
-      "Score": 8,
+      "Score": 11,
       "Time": "??:??"
     },
     {
-      "Name": "mesense.pub waire",
+      "Name": "waire",
       "Steam": "76561199848975108",
-      "Score": 22,
-      "Time": "28:45"
+      "Score": 28,
+      "Time": "30:45"
     }
   ]
 }
