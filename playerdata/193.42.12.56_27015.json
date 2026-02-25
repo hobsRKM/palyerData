@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-25T06:17:31.2333383Z",
+  "Time": "2026-02-25T06:19:31.2259361Z",
   "Players": [
     {
       "Name": "radiance.lua Fake",
       "Steam": "76561199729334552",
-      "Score": 33,
-      "Time": "28:00"
+      "Score": 43,
+      "Time": "30:00"
+    },
+    {
+      "Name": "Feet",
+      "Steam": "76561198253680975",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "703:00"
+      "Time": "705:00"
     },
     {
       "Name": "LuluMoon",
       "Steam": "76561198758491278",
-      "Score": 35,
-      "Time": "54:24"
+      "Score": 37,
+      "Time": "56:24"
     }
   ]
 }
