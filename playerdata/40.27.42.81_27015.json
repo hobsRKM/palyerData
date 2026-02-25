@@ -1,47 +1,53 @@
 {
-  "Time": "2026-02-25T22:48:22.7513841Z",
+  "Time": "2026-02-25T22:50:22.7563244Z",
   "Players": [
+    {
+      "Name": "zzz",
+      "Steam": "76561198737225370",
+      "Score": 0,
+      "Time": "01:02"
+    },
     {
       "Name": "jackemehoff2000",
       "Steam": "76561198764806957",
-      "Score": 59,
-      "Time": "23:44"
+      "Score": 61,
+      "Time": "25:44"
     },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "266:53"
+      "Time": "268:53"
     },
     {
       "Name": "\uD835\uDD78\uD835\uDD86\uD835\uDD8C\uD835\uDD74\uD835\uDD6E~",
       "Steam": "76561199847040655",
-      "Score": 51,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 38,
-      "Time": "75:14"
+      "Score": 44,
+      "Time": "77:14"
     },
     {
       "Name": "Hasbulla Magomedovich Magomedov",
       "Steam": "76561198747337828",
-      "Score": 58,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 11,
+      "Score": 27,
       "Time": "??:??"
     },
     {
-      "Name": "wock",
-      "Steam": "76561198864793756",
-      "Score": 18,
-      "Time": "10:46"
+      "Name": "Xers_Xers",
+      "Steam": "76561198780870694",
+      "Score": 0,
+      "Time": "00:05"
     }
   ]
 }
