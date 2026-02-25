@@ -1,4 +1,65 @@
 {
-  "Time": "2026-02-25T06:18:22.4713239Z",
-  "Players": []
+  "Time": "2026-02-25T06:18:43.0232899Z",
+  "Players": [
+    {
+      "Name": "r3match",
+      "Steam": "76561199482638926",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bmp",
+      "Steam": "76561198976831326",
+      "Score": 42,
+      "Time": "41:52"
+    },
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 26,
+      "Time": "24:45"
+    },
+    {
+      "Name": "static",
+      "Steam": "76561198180564201",
+      "Score": 12,
+      "Time": "391:21"
+    },
+    {
+      "Name": "Jenard",
+      "Steam": "76561199848672724",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Casper TNG",
+      "Steam": "76561199100356254",
+      "Score": 4,
+      "Time": "151:37"
+    },
+    {
+      "Name": "eureka",
+      "Steam": "76561199349868250",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "washedbobby80",
+      "Steam": "76561198733972385",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "canttakeitwithyouwhenyoudie",
+      "Steam": "76561199757543292",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 44,
+      "Time": "26:45"
+    }
+  ]
 }
