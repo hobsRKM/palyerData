@@ -1,28 +1,28 @@
 {
-  "Time": "2026-02-25T18:42:22.7505651Z",
+  "Time": "2026-02-25T18:44:22.7543264Z",
   "Players": [
+    {
+      "Name": "Michael Brian Vanbibber",
+      "Steam": "76561199755327417",
+      "Score": 8,
+      "Time": "01:10"
+    },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "20:53"
+      "Time": "22:53"
     },
     {
-      "Name": "eterni      JS-070",
+      "Name": "etern      JS-070",
       "Steam": "76561199828563808",
-      "Score": 36,
-      "Time": "13:12"
+      "Score": 48,
+      "Time": "15:12"
     },
     {
       "Name": "Ashtar Sheran",
       "Steam": "76561198865913239",
-      "Score": 38,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Nx",
-      "Steam": "76561198750237829",
-      "Score": 19,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
