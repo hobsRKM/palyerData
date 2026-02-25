@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-25T06:03:31.2198442Z",
+  "Time": "2026-02-25T06:05:31.2335274Z",
   "Players": [
     {
-      "Name": "Fake",
+      "Name": "rad14nc3.lua Fake",
       "Steam": "76561199729334552",
-      "Score": 34,
-      "Time": "14:00"
+      "Score": 44,
+      "Time": "16:00"
+    },
+    {
+      "Name": "NARTOX",
+      "Steam": "76561199100664188",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "689:00"
+      "Time": "691:00"
     },
     {
       "Name": "♿ Alya",
       "Steam": "76561199735987576",
       "Score": 14,
-      "Time": "07:38"
+      "Time": "09:38"
     },
     {
       "Name": "LuluMoon",
       "Steam": "76561198758491278",
-      "Score": 25,
-      "Time": "40:24"
+      "Score": 29,
+      "Time": "42:24"
     }
   ]
 }
