@@ -1,17 +1,11 @@
 {
-  "Time": "2026-02-25T05:29:31.2199574Z",
+  "Time": "2026-02-25T05:31:31.2309419Z",
   "Players": [
-    {
-      "Name": "Ape",
-      "Steam": "76561198737742529",
-      "Score": 0,
-      "Time": "04:29"
-    },
     {
       "Name": "jagharenhagelbössaiminkällare",
       "Steam": "76561198791202815",
-      "Score": 33,
-      "Time": "701:50"
+      "Score": 39,
+      "Time": "703:50"
     },
     {
       "Name": "I Just Came In A Blender",
@@ -23,25 +17,31 @@
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "655:00"
+      "Time": "657:00"
     },
     {
       "Name": "marsfromelsewhere",
       "Steam": "76561199186278510",
-      "Score": 10,
+      "Score": 19,
       "Time": "??:??"
     },
     {
-      "Name": ".luaradiance ♿ Alya",
+      "Name": "radiance.lua ♿ Alya",
       "Steam": "76561199735987576",
-      "Score": 46,
+      "Score": 48,
       "Time": "??:??"
+    },
+    {
+      "Name": "Jeffrey Epstein",
+      "Steam": "76561198743707575",
+      "Score": 0,
+      "Time": "00:43"
     },
     {
       "Name": "LuluMoon",
       "Steam": "76561198758491278",
-      "Score": 20,
-      "Time": "06:24"
+      "Score": 24,
+      "Time": "08:24"
     }
   ]
 }
