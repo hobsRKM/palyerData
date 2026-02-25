@@ -1,4 +1,59 @@
 {
-  "Time": "2026-02-25T06:14:22.4724623Z",
-  "Players": []
+  "Time": "2026-02-25T06:14:43.0231888Z",
+  "Players": [
+    {
+      "Name": "cookies",
+      "Steam": "76561199740544730",
+      "Score": 9,
+      "Time": "23:57"
+    },
+    {
+      "Name": "r3match",
+      "Steam": "76561199482638926",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bmp",
+      "Steam": "76561198976831326",
+      "Score": 38,
+      "Time": "37:52"
+    },
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 18,
+      "Time": "20:45"
+    },
+    {
+      "Name": "static",
+      "Steam": "76561198180564201",
+      "Score": 2,
+      "Time": "387:21"
+    },
+    {
+      "Name": "Jenard",
+      "Steam": "76561199848672724",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "eureka",
+      "Steam": "76561199349868250",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "canttakeitwithyouwhenyoudie",
+      "Steam": "76561199757543292",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 32,
+      "Time": "22:45"
+    }
+  ]
 }
