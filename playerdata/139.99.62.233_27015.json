@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-26T12:46:29.5916791Z",
+  "Time": "2026-02-26T12:50:29.5864947Z",
   "Players": [
     {
       "Name": "Borton",
       "Steam": "76561198750727409",
-      "Score": 0,
+      "Score": 13,
       "Time": "??:??"
+    },
+    {
+      "Name": "Washed'O'Unc",
+      "Steam": "76561199808928969",
+      "Score": 0,
+      "Time": "00:47"
     },
     {
       "Name": "BabyBoo",
       "Steam": "76561198124032291",
-      "Score": 18,
-      "Time": "33:21"
+      "Score": 24,
+      "Time": "37:21"
     },
     {
       "Name": "KLUVAS",
       "Steam": "76561199388209424",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
-      "Score": 0,
-      "Time": "00:34"
+      "Score": 11,
+      "Time": "04:34"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 4,
-      "Time": "11:12"
+      "Score": 0,
+      "Time": "15:12"
     }
   ]
 }
