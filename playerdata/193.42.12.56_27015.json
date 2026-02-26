@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-26T22:29:18.3102497Z",
+  "Time": "2026-02-26T22:31:18.3024133Z",
   "Players": [
+    {
+      "Name": "suleyman magnificul",
+      "Steam": "76561199831121757",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Aras 7",
       "Steam": "76561199606889275",
-      "Score": 3,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "leave me all alone",
       "Steam": "76561198740165586",
-      "Score": 4,
-      "Time": "04:17"
+      "Score": 2,
+      "Time": "06:17"
     },
     {
       "Name": "< blank >",
       "Steam": "76561199836423725",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "nop",
       "Steam": "76561199682061013",
-      "Score": 108,
-      "Time": "03:58"
+      "Score": 110,
+      "Time": "05:58"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗSeiðr",
       "Steam": "76561198333235279",
-      "Score": 55,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "ᶠᴼᵀGertt",
       "Steam": "76561198756919457",
-      "Score": 22,
-      "Time": "06:23"
+      "Score": 24,
+      "Time": "08:23"
     },
     {
       "Name": "sonyaa ;3",
@@ -46,8 +52,8 @@
     {
       "Name": "p!nk",
       "Steam": "76561198745349230",
-      "Score": 22,
-      "Time": "27:55"
+      "Score": 26,
+      "Time": "29:55"
     },
     {
       "Name": "Unicorn",
@@ -64,8 +70,14 @@
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 64,
-      "Time": "25:30"
+      "Score": 72,
+      "Time": "27:30"
+    },
+    {
+      "Name": "Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
