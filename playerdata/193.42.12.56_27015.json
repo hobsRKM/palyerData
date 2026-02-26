@@ -1,47 +1,59 @@
 {
-  "Time": "2026-02-26T23:53:18.3169514Z",
+  "Time": "2026-02-26T23:55:18.3160845Z",
   "Players": [
+    {
+      "Name": "yaris",
+      "Steam": "76561198740194361",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "700 Pferde",
       "Steam": "76561199889942947",
-      "Score": 39,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "JACK SPEDAISY",
       "Steam": "76561198269379199",
-      "Score": 21,
-      "Time": "169:01"
+      "Score": 27,
+      "Time": "171:01"
     },
     {
       "Name": "Kasti",
       "Steam": "76561199833286399",
-      "Score": 63,
-      "Time": "284:10"
+      "Score": 69,
+      "Time": "286:10"
     },
     {
       "Name": "SchweineHunde",
       "Steam": "76561199747567192",
-      "Score": 41,
-      "Time": "42:28"
+      "Score": 46,
+      "Time": "44:28"
+    },
+    {
+      "Name": "Snizu",
+      "Steam": "76561198354487566",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "watfak",
       "Steam": "76561199552379767",
-      "Score": 22,
-      "Time": "08:53"
+      "Score": 26,
+      "Time": "10:53"
     },
     {
       "Name": "esoterik",
       "Steam": "76561199184279522",
-      "Score": 16,
-      "Time": "42:46"
+      "Score": 22,
+      "Time": "44:46"
     },
     {
       "Name": "TRENDSETTER",
       "Steam": "76561198784574810",
-      "Score": 22,
-      "Time": "17:33"
+      "Score": 28,
+      "Time": "19:33"
     },
     {
       "Name": "Unicorn",
@@ -52,32 +64,32 @@
     {
       "Name": "fdsfds",
       "Steam": "76561199839310753",
-      "Score": 13,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "ji156079",
       "Steam": "76561198786082504",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "override",
       "Steam": "76561199042221496",
-      "Score": 46,
-      "Time": "10:02"
+      "Score": 48,
+      "Time": "12:02"
     },
     {
-      "Name": ".lua           Jonny 88",
+      "Name": "y.lua           Jonny 88",
       "Steam": "76561198753890382",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗtoozy",
       "Steam": "76561197963250432",
-      "Score": 3,
-      "Time": "16:47"
+      "Score": 9,
+      "Time": "18:47"
     }
   ]
 }
