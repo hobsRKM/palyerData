@@ -1,70 +1,76 @@
 {
-  "Time": "2026-02-26T19:58:36.5834755Z",
+  "Time": "2026-02-26T20:00:36.5766522Z",
   "Players": [
+    {
+      "Name": "Techno",
+      "Steam": "76561198170327163",
+      "Score": 2,
+      "Time": "00:49"
+    },
     {
       "Name": "clarity",
       "Steam": "76561199828166716",
-      "Score": 9,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 0,
-      "Time": "00:23"
+      "Score": 4,
+      "Time": "02:23"
+    },
+    {
+      "Name": "gn",
+      "Steam": "76561199757543292",
+      "Score": 6,
+      "Time": "??:??"
     },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "130:29"
+      "Time": "132:29"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 7,
-      "Time": "13:18"
+      "Score": 9,
+      "Time": "15:18"
     },
     {
       "Name": "simply",
       "Steam": "76561199889163804",
-      "Score": 27,
-      "Time": "19:47"
+      "Score": 39,
+      "Time": "21:47"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 24,
-      "Time": "10:55"
+      "Score": 31,
+      "Time": "12:55"
     },
     {
       "Name": "Sukia",
       "Steam": "76561198777851206",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "DEKO",
+      "Steam": "76561198753433906",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "01:14"
     },
     {
-      "Name": "Pluto's Knot Home",
-      "Steam": "76561198118346969",
-      "Score": 11,
-      "Time": "44:48"
-    },
-    {
-      "Name": "ternity.lua      Blueeyeddaddy69",
-      "Steam": "76561199660143840",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ternity.lua      JS-070",
+      "Name": "eternity.lua     JS-070",
       "Steam": "76561199828563808",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "cunnykopf",
       "Steam": "76561198740368974",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
