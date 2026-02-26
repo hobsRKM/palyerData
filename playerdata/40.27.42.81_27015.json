@@ -1,59 +1,65 @@
 {
-  "Time": "2026-02-26T23:00:36.5819806Z",
+  "Time": "2026-02-26T23:02:36.5736453Z",
   "Players": [
+    {
+      "Name": "Techno",
+      "Steam": "76561198170327163",
+      "Score": 5,
+      "Time": "01:01"
+    },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "312:29"
+      "Time": "314:29"
     },
     {
       "Name": "†BlackWitch†",
       "Steam": "76561199638756646",
-      "Score": 19,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDCD3\uD835\uDD94\uD835\uDD93✞",
       "Steam": "76561199471107546",
-      "Score": 7,
-      "Time": "39:19"
+      "Score": 12,
+      "Time": "41:19"
     },
     {
       "Name": "cookies",
       "Steam": "76561199740544730",
-      "Score": 12,
-      "Time": "05:45"
+      "Score": 16,
+      "Time": "07:45"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 25,
-      "Time": "43:52"
+      "Score": 35,
+      "Time": "45:52"
     },
     {
       "Name": "zuuuuntyx",
       "Steam": "76561198738467051",
-      "Score": 11,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Paper",
       "Steam": "76561199755599976",
-      "Score": 10,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "chase",
       "Steam": "76561198273566562",
-      "Score": 34,
-      "Time": "40:23"
+      "Score": 39,
+      "Time": "42:23"
     },
     {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 44,
-      "Time": "70:35"
+      "Score": 6,
+      "Time": "72:35"
     }
   ]
 }
