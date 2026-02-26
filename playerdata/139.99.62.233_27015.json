@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-26T13:28:29.5914434Z",
+  "Time": "2026-02-26T13:30:29.5953433Z",
   "Players": [
     {
       "Name": "Borton",
@@ -10,26 +10,32 @@
     {
       "Name": "big g",
       "Steam": "76561198734338299",
-      "Score": 55,
-      "Time": "13:33"
+      "Score": 57,
+      "Time": "15:33"
+    },
+    {
+      "Name": "wsipek",
+      "Steam": "76561198750381169",
+      "Score": 0,
+      "Time": "00:31"
     },
     {
       "Name": "KLUVAS",
       "Steam": "76561199388209424",
-      "Score": 59,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
-      "Score": 71,
-      "Time": "42:34"
+      "Score": 72,
+      "Time": "44:34"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 14,
-      "Time": "23:37"
+      "Score": 22,
+      "Time": "25:37"
     }
   ]
 }
