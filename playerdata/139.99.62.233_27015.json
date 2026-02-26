@@ -1,10 +1,16 @@
 {
-  "Time": "2026-02-26T14:22:29.5834908Z",
+  "Time": "2026-02-26T14:24:29.5837384Z",
   "Players": [
     {
       "Name": "definitelynothacker",
       "Steam": "76561198735247084",
-      "Score": 0,
+      "Score": 3,
+      "Time": "01:22"
+    },
+    {
+      "Name": "500ms delay >>",
+      "Steam": "76561199701825538",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
