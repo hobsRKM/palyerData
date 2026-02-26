@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-26T06:36:00.7433889Z",
+  "Time": "2026-02-26T06:38:00.7396156Z",
   "Players": [
+    {
+      "Name": "Shux",
+      "Steam": "76561199170636130",
+      "Score": 0,
+      "Time": "00:47"
+    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 0,
-      "Time": "51:08"
+      "Score": 6,
+      "Time": "53:08"
     },
     {
       "Name": "akira",
@@ -16,26 +22,26 @@
     {
       "Name": "chase",
       "Steam": "76561198273566562",
-      "Score": 3,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "adssaddsds",
       "Steam": "76561198052520015",
-      "Score": 6,
-      "Time": "15:36"
+      "Score": 14,
+      "Time": "17:36"
     },
     {
       "Name": "perc",
       "Steam": "76561198293312486",
-      "Score": 0,
-      "Time": "17:28"
+      "Score": 7,
+      "Time": "19:28"
     },
     {
       "Name": "ICE Paper",
       "Steam": "76561199695140567",
-      "Score": 4,
-      "Time": "01:36"
+      "Score": 6,
+      "Time": "03:36"
     }
   ]
 }
