@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-27T20:23:21.0078649Z",
+  "Time": "2026-02-27T20:25:21.0151658Z",
   "Players": [
     {
       "Name": "bass",
       "Steam": "76561199529029496",
-      "Score": 30,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Snuslover88",
       "Steam": "76561198734072501",
-      "Score": 2,
-      "Time": "03:18"
+      "Score": 4,
+      "Time": "05:18"
     },
     {
       "Name": "nigga",
       "Steam": "76561198763014517",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "draxy",
+      "Steam": "76561199823330532",
+      "Score": 0,
+      "Time": "01:31"
     },
     {
       "Name": "/market/item?id=lYEGuQ",
       "Steam": "76561198279491509",
-      "Score": 20,
-      "Time": "26:19"
+      "Score": 26,
+      "Time": "28:19"
     }
   ]
 }
