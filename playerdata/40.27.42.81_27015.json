@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-27T23:51:59.3351311Z",
+  "Time": "2026-02-27T23:53:59.3205848Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -11,43 +11,49 @@
       "Name": "nes",
       "Steam": "76561199867566993",
       "Score": 19,
-      "Time": "07:08"
+      "Time": "09:08"
     },
     {
       "Name": "nade",
       "Steam": "76561199312322988",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "faZe Sphincter",
       "Steam": "76561198993649229",
       "Score": 40,
-      "Time": "15:07"
+      "Time": "17:07"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 14,
-      "Time": "75:31"
+      "Score": 26,
+      "Time": "77:31"
     },
     {
       "Name": "zipped",
       "Steam": "76561198734827935",
-      "Score": 20,
-      "Time": "37:41"
+      "Score": 30,
+      "Time": "39:41"
     },
     {
       "Name": "愛",
       "Steam": "76561199506962308",
-      "Score": 14,
-      "Time": "25:58"
+      "Score": 16,
+      "Time": "27:58"
     },
     {
       "Name": "Paper",
       "Steam": "76561199755599976",
-      "Score": 109,
+      "Score": 115,
       "Time": "??:??"
+    },
+    {
+      "Name": "kopf",
+      "Steam": "76561198737889087",
+      "Score": 10,
+      "Time": "01:30"
     }
   ]
 }
