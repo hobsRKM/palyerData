@@ -1,5 +1,5 @@
 {
-  "Time": "2026-02-27T22:41:59.3325878Z",
+  "Time": "2026-02-27T22:43:59.3224706Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -8,9 +8,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "D1AgarthianMogger",
+      "Steam": "76561198747337828",
+      "Score": 10,
+      "Time": "00:12"
+    },
+    {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 53,
+      "Score": 61,
       "Time": "??:??"
     },
     {
@@ -22,25 +28,25 @@
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Whats a Isis?",
       "Steam": "76561199482511279",
-      "Score": 44,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "#WalkedEmDown #North America",
       "Steam": "76561198336975870",
       "Score": 70,
-      "Time": "97:08"
+      "Time": "99:08"
     },
     {
       "Name": "chase",
       "Steam": "76561198273566562",
-      "Score": 75,
+      "Score": 81,
       "Time": "??:??"
     },
     {
@@ -50,40 +56,52 @@
       "Time": "??:??"
     },
     {
+      "Name": "mr. spakly",
+      "Steam": "76561199267670170",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 85,
+      "Score": 103,
       "Time": "??:??"
     },
     {
       "Name": "WhaT?!",
       "Steam": "76561198741458634",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 50,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "Ashtar Sheran",
       "Steam": "76561198865913239",
-      "Score": 30,
-      "Time": "12:13"
+      "Score": 34,
+      "Time": "14:13"
+    },
+    {
+      "Name": "Преступник",
+      "Steam": "76561199561841040",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Johnny Gynekolog",
       "Steam": "76561198449372051",
-      "Score": 52,
-      "Time": "32:42"
+      "Score": 54,
+      "Time": "34:42"
     },
     {
       "Name": "Michael Brian Vanbibber",
       "Steam": "76561199755327417",
-      "Score": 47,
-      "Time": "14:29"
+      "Score": 54,
+      "Time": "16:29"
     }
   ]
 }
