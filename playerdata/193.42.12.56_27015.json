@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-27T02:19:18.3606841Z",
+  "Time": "2026-02-27T02:21:18.3667808Z",
   "Players": [
+    {
+      "Name": "s2x.",
+      "Steam": "76561199783094280",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "SchweineHunde",
       "Steam": "76561199747567192",
-      "Score": 10,
-      "Time": "15:19"
+      "Score": 18,
+      "Time": "17:19"
     },
     {
-      "Name": "radianc$.lua ♿ Alya",
+      "Name": "♿ Alya",
       "Steam": "76561199735987576",
-      "Score": 4,
-      "Time": "674:51"
+      "Score": 6,
+      "Time": "676:51"
     },
     {
       "Name": "day 5 of learning how to hvh",
       "Steam": "76561198733895776",
-      "Score": 0,
-      "Time": "06:20"
+      "Score": 2,
+      "Time": "08:20"
     },
     {
       "Name": "Unicorn",
@@ -26,40 +32,34 @@
       "Time": "??:??"
     },
     {
-      "Name": "radianc$.lua ozxu",
+      "Name": "ce.luaradian ozxu",
       "Steam": "76561199137466965",
       "Score": 10,
-      "Time": "23:20"
+      "Time": "25:20"
     },
     {
       "Name": "76561198751216667",
       "Steam": "76561198751216667",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "LIFEHAAACK BITCH (◣_◢)",
       "Steam": "76561198431997616",
-      "Score": 41,
-      "Time": "??:??"
-    },
-    {
-      "Name": "vetsku",
-      "Steam": "76561199121684392",
-      "Score": 0,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
       "Steam": "76561198341012123",
-      "Score": 14,
-      "Time": "329:32"
+      "Score": 16,
+      "Time": "331:32"
     },
     {
       "Name": "Naalazsa",
       "Steam": "76561199050139228",
-      "Score": 17,
-      "Time": "362:39"
+      "Score": 19,
+      "Time": "364:39"
     }
   ]
 }
