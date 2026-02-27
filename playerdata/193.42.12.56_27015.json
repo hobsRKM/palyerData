@@ -1,46 +1,46 @@
 {
-  "Time": "2026-02-27T07:41:19.4491821Z",
+  "Time": "2026-02-27T07:43:19.5206049Z",
   "Players": [
+    {
+      "Name": "ST4R",
+      "Steam": "76561198754243688",
+      "Score": 0,
+      "Time": "00:26"
+    },
     {
       "Name": "FAZE Misiek",
       "Steam": "76561199432946902",
-      "Score": 0,
-      "Time": "07:56"
+      "Score": 3,
+      "Time": "09:56"
     },
     {
       "Name": "LIFEHAACK BITCH (◣ _ ◢)",
       "Steam": "76561199660705672",
-      "Score": 24,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Albert Einstein",
       "Steam": "76561199493991967",
-      "Score": 1,
-      "Time": "484:50"
+      "Score": 2,
+      "Time": "486:50"
     },
     {
       "Name": "reml",
       "Steam": "76561199767002831",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "jebab996",
-      "Steam": "76561198731708156",
-      "Score": 0,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "sebby >.<",
       "Steam": "76561198874356385",
-      "Score": 10,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "an1malu",
       "Steam": "76561199889827901",
-      "Score": 4,
+      "Score": 22,
       "Time": "??:??"
     },
     {
@@ -52,14 +52,20 @@
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 8,
-      "Time": "96:42"
+      "Score": 10,
+      "Time": "98:42"
+    },
+    {
+      "Name": "aimware",
+      "Steam": "76561198733842354",
+      "Score": 7,
+      "Time": "02:00"
     },
     {
       "Name": "succ",
       "Steam": "76561199002053532",
       "Score": 0,
-      "Time": "67:34"
+      "Time": "69:34"
     },
     {
       "Name": "355",
@@ -70,14 +76,14 @@
     {
       "Name": "hip3r.777",
       "Steam": "76561198747522558",
-      "Score": 2,
-      "Time": "16:24"
+      "Score": 4,
+      "Time": "18:24"
     },
     {
       "Name": "ŁORLD",
       "Steam": "76561198769290934",
-      "Score": 9,
-      "Time": "23:08"
+      "Score": 14,
+      "Time": "25:08"
     }
   ]
 }
