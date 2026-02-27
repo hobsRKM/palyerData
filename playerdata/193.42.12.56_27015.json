@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-27T05:51:18.4012323Z",
+  "Time": "2026-02-27T05:53:18.4051315Z",
   "Players": [
+    {
+      "Name": "Taliban Hilfigther",
+      "Steam": "76561199886673626",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Dode",
       "Steam": "76561199767388857",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "FAZE Misiek",
       "Steam": "76561199432946902",
-      "Score": 13,
-      "Time": "11:20"
+      "Score": 17,
+      "Time": "13:20"
     },
     {
       "Name": "AbduLLaHH",
       "Steam": "76561198764375260",
-      "Score": 63,
+      "Score": 76,
       "Time": "??:??"
     },
     {
@@ -26,15 +32,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "Happy",
-      "Steam": "76561198737706699",
-      "Score": 20,
-      "Time": "15:44"
-    },
-    {
       "Name": "ESTEBANTZ",
       "Steam": "76561198957980174",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     }
   ]
