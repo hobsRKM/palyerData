@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-27T07:33:19.2727151Z",
+  "Time": "2026-02-27T07:35:19.2948232Z",
   "Players": [
     {
       "Name": "3232",
       "Steam": "76561198733771236",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "FAZE Misiek",
+      "Steam": "76561199432946902",
+      "Score": 0,
+      "Time": "01:56"
     },
     {
       "Name": "LIFEHAACK BITCH (◣ _ ◢)",
       "Steam": "76561199660705672",
-      "Score": 116,
+      "Score": 121,
       "Time": "??:??"
     },
     {
       "Name": "Albert Einstein",
       "Steam": "76561199493991967",
-      "Score": 2,
-      "Time": "476:50"
+      "Score": 0,
+      "Time": "478:50"
     },
     {
       "Name": "jebab996",
@@ -28,19 +34,13 @@
     {
       "Name": "sebby >.<",
       "Steam": "76561198874356385",
-      "Score": 43,
+      "Score": 45,
       "Time": "??:??"
-    },
-    {
-      "Name": "Mjay",
-      "Steam": "76561199237707727",
-      "Score": 52,
-      "Time": "15:06"
     },
     {
       "Name": "an1malu",
       "Steam": "76561199889827901",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
@@ -52,26 +52,26 @@
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 50,
-      "Time": "88:41"
+      "Score": 62,
+      "Time": "90:41"
     },
     {
       "Name": "succ",
       "Steam": "76561199002053532",
-      "Score": 0,
-      "Time": "59:34"
+      "Score": 2,
+      "Time": "61:34"
     },
     {
       "Name": "hip3r.777",
       "Steam": "76561198747522558",
-      "Score": 12,
-      "Time": "08:24"
+      "Score": 15,
+      "Time": "10:24"
     },
     {
       "Name": "ŁORLD",
       "Steam": "76561198769290934",
-      "Score": 75,
-      "Time": "15:08"
+      "Score": 85,
+      "Time": "17:08"
     }
   ]
 }
