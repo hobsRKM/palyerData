@@ -1,35 +1,41 @@
 {
-  "Time": "2026-02-27T07:03:06.6225711Z",
+  "Time": "2026-02-27T07:05:06.6243973Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "186:46"
+      "Time": "188:46"
+    },
+    {
+      "Name": "Ratcheto",
+      "Steam": "76561199112226462",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ahmad11.husei",
       "Steam": "76561198752446409",
-      "Score": 0,
-      "Time": "06:04"
+      "Score": 2,
+      "Time": "08:04"
     },
     {
       "Name": "zzzzzzzzzzzzzzzzzzzzzzzzzz",
       "Steam": "76561198735322424",
-      "Score": 68,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "IlIlIlIlIlIlIlIlIlIlIlIlIlIlIlI",
       "Steam": "76561198733326566",
-      "Score": 42,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "premium",
       "Steam": "76561198872538136",
-      "Score": 21,
-      "Time": "14:01"
+      "Score": 25,
+      "Time": "16:01"
     }
   ]
 }
