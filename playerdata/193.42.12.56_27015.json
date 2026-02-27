@@ -1,17 +1,17 @@
 {
-  "Time": "2026-02-27T10:01:24.5960478Z",
+  "Time": "2026-02-27T10:03:24.7218853Z",
   "Players": [
     {
       "Name": "Mjay",
       "Steam": "76561199237707727",
-      "Score": 0,
-      "Time": "00:08"
+      "Score": 19,
+      "Time": "02:08"
     },
     {
       "Name": "Zlman",
       "Steam": "76561199602803157",
-      "Score": 34,
-      "Time": "16:04"
+      "Score": 40,
+      "Time": "18:04"
     },
     {
       "Name": "Unicorn",
@@ -22,14 +22,20 @@
     {
       "Name": "matsäs",
       "Steam": "76561199842002650",
-      "Score": 10,
-      "Time": "06:21"
+      "Score": 7,
+      "Time": "08:22"
     },
     {
-      "Name": "radiance.lua ♿ Alya",
+      "Name": "♿ Alya",
       "Steam": "76561199735987576",
       "Score": 36,
-      "Time": "91:46"
+      "Time": "93:46"
+    },
+    {
+      "Name": "Delox",
+      "Steam": "76561198994462256",
+      "Score": 0,
+      "Time": "01:26"
     }
   ]
 }
