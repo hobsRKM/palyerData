@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-27T23:35:59.3256166Z",
+  "Time": "2026-02-27T23:37:59.3338601Z",
   "Players": [
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "faZe Sphincter",
+      "Steam": "76561198993649229",
+      "Score": 10,
+      "Time": "01:07"
     },
     {
       "Name": "guy",
@@ -16,25 +22,25 @@
     {
       "Name": "zipped",
       "Steam": "76561198734827935",
-      "Score": 44,
-      "Time": "21:41"
+      "Score": 56,
+      "Time": "23:41"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 3,
-      "Time": "37:23"
+      "Score": 7,
+      "Time": "39:23"
     },
     {
       "Name": "nox",
       "Steam": "76561199471107546",
-      "Score": 25,
-      "Time": "39:53"
+      "Score": 29,
+      "Time": "41:54"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 34,
+      "Score": 44,
       "Time": "??:??"
     },
     {
@@ -46,7 +52,7 @@
     {
       "Name": "Paper",
       "Steam": "76561199755599976",
-      "Score": 44,
+      "Score": 56,
       "Time": "??:??"
     }
   ]
