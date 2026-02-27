@@ -1,12 +1,6 @@
 {
-  "Time": "2026-02-27T03:55:18.3632535Z",
+  "Time": "2026-02-27T03:57:18.3720456Z",
   "Players": [
-    {
-      "Name": "danio_santalolo",
-      "Steam": "76561199240914988",
-      "Score": 2,
-      "Time": "??:??"
-    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -16,20 +10,26 @@
     {
       "Name": "76561198751216667",
       "Steam": "76561198751216667",
-      "Score": 54,
-      "Time": "26:38"
+      "Score": 64,
+      "Time": "28:38"
     },
     {
-      "Name": "nce.luaradia xsu",
+      "Name": "radiance.lua xsu",
       "Steam": "76561199495621872",
-      "Score": 33,
-      "Time": "98:11"
+      "Score": 37,
+      "Time": "100:11"
+    },
+    {
+      "Name": "gordão",
+      "Steam": "76561199197849377",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Naalazsa",
       "Steam": "76561199050139228",
-      "Score": 11,
-      "Time": "62:51"
+      "Score": 15,
+      "Time": "64:51"
     }
   ]
 }
