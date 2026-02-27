@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-27T03:33:18.3703983Z",
+  "Time": "2026-02-27T03:35:18.3616286Z",
   "Players": [
+    {
+      "Name": "AbduLLaHH",
+      "Steam": "76561198764375260",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -8,46 +14,40 @@
       "Time": "??:??"
     },
     {
-      "Name": "ozxu",
-      "Steam": "76561199137466965",
-      "Score": 11,
-      "Time": "97:20"
-    },
-    {
       "Name": "76561198751216667",
       "Steam": "76561198751216667",
-      "Score": 23,
-      "Time": "04:38"
+      "Score": 32,
+      "Time": "06:38"
     },
     {
-      "Name": "rad|ance.lua xsu",
+      "Name": "iance.luarad xsu",
       "Steam": "76561199495621872",
-      "Score": 63,
-      "Time": "76:11"
+      "Score": 70,
+      "Time": "78:11"
     },
     {
       "Name": "._.",
       "Steam": "76561199435840322",
-      "Score": 77,
-      "Time": "50:29"
+      "Score": 85,
+      "Time": "52:29"
     },
     {
       "Name": "succ",
       "Steam": "76561199002053532",
-      "Score": 7,
-      "Time": "04:14"
+      "Score": 2,
+      "Time": "06:14"
     },
     {
       "Name": "Naalazsa",
       "Steam": "76561199050139228",
-      "Score": 14,
-      "Time": "40:51"
+      "Score": 18,
+      "Time": "42:51"
     },
     {
       "Name": "Eminem",
       "Steam": "76561199183131013",
-      "Score": 0,
-      "Time": "18:54"
+      "Score": 4,
+      "Time": "20:54"
     }
   ]
 }
