@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-27T03:07:18.3620456Z",
+  "Time": "2026-02-27T03:09:18.3757991Z",
   "Players": [
+    {
+      "Name": "ReportMoi",
+      "Steam": "76561198746992838",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "♿ Alya",
       "Steam": "76561199735987576",
       "Score": 2,
-      "Time": "722:51"
+      "Time": "724:51"
     },
     {
       "Name": "Lol",
       "Steam": "76561199064999131",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "aw12gfaw",
       "Steam": "76561199189651649",
-      "Score": 11,
-      "Time": "693:28"
+      "Score": 19,
+      "Time": "695:28"
     },
     {
       "Name": "Unicorn",
@@ -26,22 +32,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "r@d14nc3.lu@ ozxu",
+      "Name": "radiance.lua ozxu",
       "Steam": "76561199137466965",
-      "Score": 7,
-      "Time": "71:20"
+      "Score": 9,
+      "Time": "73:20"
     },
     {
       "Name": "._.",
       "Steam": "76561199435840322",
-      "Score": 16,
-      "Time": "24:29"
+      "Score": 20,
+      "Time": "26:29"
     },
     {
       "Name": "Naalazsa",
       "Steam": "76561199050139228",
-      "Score": 8,
-      "Time": "14:51"
+      "Score": 12,
+      "Time": "16:51"
+    },
+    {
+      "Name": "Eminem",
+      "Steam": "76561199183131013",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
