@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-27T02:37:18.3757399Z",
+  "Time": "2026-02-27T02:39:18.3647338Z",
   "Players": [
+    {
+      "Name": "miuuzwes",
+      "Steam": "76561199841711672",
+      "Score": 2,
+      "Time": "00:50"
+    },
     {
       "Name": "♿ Alya",
       "Steam": "76561199735987576",
-      "Score": 5,
-      "Time": "692:51"
+      "Score": 2,
+      "Time": "694:51"
     },
     {
       "Name": "Unicorn",
@@ -14,40 +20,34 @@
       "Time": "??:??"
     },
     {
-      "Name": "r@d1ance.lua ozxu",
+      "Name": "radiance.|_ua ozxu",
       "Steam": "76561199137466965",
-      "Score": 47,
-      "Time": "41:20"
+      "Score": 10,
+      "Time": "43:20"
     },
     {
       "Name": "._.",
       "Steam": "76561199435840322",
-      "Score": 19,
-      "Time": "06:07"
+      "Score": 1,
+      "Time": "08:07"
     },
     {
       "Name": "Eler",
       "Steam": "76561199160093857",
-      "Score": 6,
-      "Time": "15:32"
+      "Score": 4,
+      "Time": "17:32"
     },
     {
       "Name": "LIFEHAAACK BITCH (◣_◢)",
       "Steam": "76561198431997616",
-      "Score": 131,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗqueue",
-      "Steam": "76561198341012123",
-      "Score": 58,
-      "Time": "347:32"
     },
     {
       "Name": "Naalazsa",
       "Steam": "76561199050139228",
-      "Score": 11,
-      "Time": "380:39"
+      "Score": 6,
+      "Time": "382:39"
     }
   ]
 }
