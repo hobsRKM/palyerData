@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-27T09:45:23.9569241Z",
+  "Time": "2026-02-27T09:47:24.0452595Z",
   "Players": [
+    {
+      "Name": "Zlman",
+      "Steam": "76561199602803157",
+      "Score": 4,
+      "Time": "02:03"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -8,10 +14,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "radiance,lua ♿ Alya",
+      "Name": "e.luaradianc ♿ Alya",
       "Steam": "76561199735987576",
-      "Score": 0,
-      "Time": "75:46"
+      "Score": 4,
+      "Time": "77:46"
     }
   ]
 }
