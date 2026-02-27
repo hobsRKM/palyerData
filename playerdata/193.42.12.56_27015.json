@@ -1,11 +1,17 @@
 {
-  "Time": "2026-02-27T06:25:18.4680237Z",
+  "Time": "2026-02-27T06:27:18.4777928Z",
   "Players": [
+    {
+      "Name": "DODU GORDO TE AMO",
+      "Steam": "76561199874728287",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "FAZE Misiek",
       "Steam": "76561199432946902",
-      "Score": 57,
-      "Time": "45:20"
+      "Score": 59,
+      "Time": "47:20"
     },
     {
       "Name": "Unicorn",
@@ -16,13 +22,13 @@
     {
       "Name": "demon",
       "Steam": "76561198303438254",
-      "Score": 35,
-      "Time": "20:41"
+      "Score": 43,
+      "Time": "22:41"
     },
     {
       "Name": "#skt",
       "Steam": "76561198739414668",
-      "Score": 49,
+      "Score": 53,
       "Time": "??:??"
     }
   ]
