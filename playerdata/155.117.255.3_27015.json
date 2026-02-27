@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-27T05:23:06.624488Z",
+  "Time": "2026-02-27T05:25:06.6242056Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "86:46"
+      "Time": "88:46"
+    },
+    {
+      "Name": "PandaTheAce",
+      "Steam": "76561199823859290",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "✞OC✞",
       "Steam": "76561198772153840",
       "Score": 10,
-      "Time": "13:53"
+      "Time": "15:53"
     },
     {
-      "Name": "eternity.l     bill",
+      "Name": "eternity.     bill",
       "Steam": "76561199013445293",
-      "Score": 15,
-      "Time": "45:23"
+      "Score": 23,
+      "Time": "47:23"
     },
     {
       "Name": "Leroy.",
@@ -29,12 +35,18 @@
       "Name": "ahmad11.husei",
       "Steam": "76561198752446409",
       "Score": 2,
-      "Time": "04:37"
+      "Time": "06:37"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ether",
+      "Steam": "76561199724403388",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
