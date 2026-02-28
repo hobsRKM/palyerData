@@ -1,11 +1,41 @@
 {
-  "Time": "2026-02-28T13:34:26.2543641Z",
+  "Time": "2026-02-28T13:36:26.2689611Z",
   "Players": [
+    {
+      "Name": "FAT boy never slim",
+      "Steam": "76561199319646786",
+      "Score": 0,
+      "Time": "01:09"
+    },
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 4,
+      "Time": "01:35"
+    },
+    {
+      "Name": "ether",
+      "Steam": "76561199724403388",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lylaa",
+      "Steam": "76561199783489133",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "DAЯK",
       "Steam": "76561199879290767",
+      "Score": 6,
+      "Time": "02:55"
+    },
+    {
+      "Name": "what if you fly",
+      "Steam": "76561198192899758",
       "Score": 0,
-      "Time": "00:55"
+      "Time": "00:50"
     }
   ]
 }
