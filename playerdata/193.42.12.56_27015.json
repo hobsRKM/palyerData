@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-28T19:45:38.2666135Z",
+  "Time": "2026-02-28T19:47:38.2684347Z",
   "Players": [
+    {
+      "Name": "spezi",
+      "Steam": "76561198849840994",
+      "Score": 9,
+      "Time": "??:??"
+    },
     {
       "Name": "kutas jebany",
       "Steam": "76561198750914244",
-      "Score": 45,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "| Fnqy |",
       "Steam": "76561199886624598",
-      "Score": 87,
-      "Time": "67:37"
+      "Score": 92,
+      "Time": "69:37"
     },
     {
       "Name": "hip3r.777",
       "Steam": "76561198747522558",
-      "Score": 26,
-      "Time": "05:43"
+      "Score": 31,
+      "Time": "07:43"
     },
     {
       "Name": "lumineax",
       "Steam": "76561199682863141",
       "Score": 11,
-      "Time": "248:23"
+      "Time": "250:23"
     },
     {
       "Name": "Unicorn",
@@ -34,19 +40,13 @@
     {
       "Name": "kocham cycki消失ツ",
       "Steam": "76561199090541780",
-      "Score": 25,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "aimware",
       "Steam": "76561197963183861",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Aksel",
-      "Steam": "76561198740316969",
-      "Score": 23,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
