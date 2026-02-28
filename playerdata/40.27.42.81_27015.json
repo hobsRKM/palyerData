@@ -1,29 +1,35 @@
 {
-  "Time": "2026-02-28T09:45:59.3271233Z",
+  "Time": "2026-02-28T09:47:59.3251251Z",
   "Players": [
     {
       "Name": "THISISAPFPNAME",
       "Steam": "76561198744128868",
-      "Score": 3,
-      "Time": "61:27"
+      "Score": 5,
+      "Time": "63:27"
     },
     {
       "Name": "chase",
       "Steam": "76561198273566562",
-      "Score": 32,
-      "Time": "43:01"
+      "Score": 36,
+      "Time": "45:01"
     },
     {
       "Name": "albert",
       "Steam": "76561199007818126",
-      "Score": 37,
-      "Time": "40:06"
+      "Score": 0,
+      "Time": "42:06"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 22,
-      "Time": "42:49"
+      "Score": 25,
+      "Time": "44:49"
+    },
+    {
+      "Name": "tyler74",
+      "Steam": "76561199877829213",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Accelerationist",
@@ -34,32 +40,32 @@
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 3,
-      "Time": "00:58"
+      "Score": 1,
+      "Time": "02:58"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 4,
-      "Time": "40:02"
+      "Score": 10,
+      "Time": "42:02"
     },
     {
       "Name": "язаБудду",
       "Steam": "76561198274325509",
-      "Score": 42,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "kvelx",
       "Steam": "76561199880717233",
-      "Score": 13,
-      "Time": "10:15"
+      "Score": 14,
+      "Time": "12:15"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 33,
-      "Time": "15:35"
+      "Score": 39,
+      "Time": "17:35"
     }
   ]
 }
