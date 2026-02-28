@@ -1,28 +1,40 @@
 {
-  "Time": "2026-02-28T22:18:33.4339406Z",
+  "Time": "2026-02-28T22:20:33.4270271Z",
   "Players": [
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 2,
+      "Time": "00:23"
+    },
     {
       "Name": "nes",
       "Steam": "76561199867566993",
-      "Score": 82,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "gn",
       "Steam": "76561199757543292",
-      "Score": 65,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "Malicious",
       "Steam": "76561199873250660",
-      "Score": 23,
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hellen Wong",
+      "Steam": "76561199841399528",
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Simply #skeetless",
       "Steam": "76561199889163804",
-      "Score": 9,
+      "Score": 19,
       "Time": "??:??"
     },
     {
@@ -32,21 +44,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "perc",
-      "Steam": "76561198293312486",
-      "Score": 113,
-      "Time": "26:23"
-    },
-    {
       "Name": "I love amphetamines",
       "Steam": "76561198752372796",
       "Score": 2,
-      "Time": "04:39"
+      "Time": "06:39"
     },
     {
-      "Name": "nity.lua         bill",
+      "Name": "ernity.lua       bill",
       "Steam": "76561199013445293",
-      "Score": 56,
+      "Score": 64,
       "Time": "??:??"
     }
   ]
