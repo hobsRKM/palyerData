@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-28T03:36:08.5385819Z",
+  "Time": "2026-02-28T03:38:08.551854Z",
   "Players": [
     {
       "Name": "DAЯK",
       "Steam": "76561199879290767",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 39,
+      "Score": 45,
       "Time": "??:??"
     },
     {
-      "Name": "Noppharat",
-      "Steam": "76561199319646786",
+      "Name": "memesense",
+      "Steam": "76561198744742371",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "thatguy",
+      "Steam": "76561199319646786",
+      "Score": 0,
+      "Time": "00:15"
     }
   ]
 }
