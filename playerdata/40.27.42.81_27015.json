@@ -1,28 +1,34 @@
 {
-  "Time": "2026-02-28T05:55:59.3228562Z",
+  "Time": "2026-02-28T05:57:59.3233458Z",
   "Players": [
     {
       "Name": "THISISAPFPNAME",
       "Steam": "76561198744128868",
-      "Score": 1,
-      "Time": "93:43"
+      "Score": 2,
+      "Time": "95:43"
+    },
+    {
+      "Name": "Shux",
+      "Steam": "76561199170636130",
+      "Score": 4,
+      "Time": "01:16"
     },
     {
       "Name": "Demi :)",
       "Steam": "76561199072674466",
-      "Score": 18,
-      "Time": "32:07"
+      "Score": 28,
+      "Time": "34:07"
     },
     {
       "Name": "sphinxc",
       "Steam": "76561199663548717",
       "Score": 1,
-      "Time": "09:26"
+      "Time": "11:26"
     },
     {
       "Name": "perc",
       "Steam": "76561198293312486",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
