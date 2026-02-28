@@ -1,16 +1,22 @@
 {
-  "Time": "2026-02-28T22:49:40.2880539Z",
+  "Time": "2026-02-28T22:51:40.3244031Z",
   "Players": [
     {
       "Name": "Meow",
       "Steam": "76561198794087367",
-      "Score": 48,
-      "Time": "40:53"
+      "Score": 50,
+      "Time": "42:53"
+    },
+    {
+      "Name": "Jesteś warta tyle ile dam",
+      "Steam": "76561199143088438",
+      "Score": 0,
+      "Time": "818:25"
     },
     {
       "Name": "syntrix",
       "Steam": "76561199230497763",
-      "Score": 16,
+      "Score": 17,
       "Time": "??:??"
     },
     {
@@ -22,44 +28,32 @@
     {
       "Name": "guava ice 200000 puffs",
       "Steam": "76561198750914244",
-      "Score": 4,
-      "Time": "04:42"
+      "Score": 10,
+      "Time": "06:42"
     },
     {
       "Name": "asfasfa",
       "Steam": "76561198992433734",
-      "Score": 2,
-      "Time": "811:07"
+      "Score": 8,
+      "Time": "813:07"
     },
     {
       "Name": "Iqless",
       "Steam": "76561198751548921",
-      "Score": 0,
-      "Time": "148:46"
-    },
-    {
-      "Name": "robfev",
-      "Steam": "76561199064999131",
-      "Score": 60,
-      "Time": "??:??"
+      "Score": 3,
+      "Time": "150:46"
     },
     {
       "Name": "Aras 7",
       "Steam": "76561199606889275",
-      "Score": 12,
-      "Time": "03:08"
-    },
-    {
-      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
-      "Steam": "76561198784581696",
-      "Score": 4,
-      "Time": "05:19"
+      "Score": 26,
+      "Time": "05:08"
     },
     {
       "Name": "Aksel",
       "Steam": "76561198740316969",
-      "Score": 8,
-      "Time": "04:38"
+      "Score": 10,
+      "Time": "06:38"
     }
   ]
 }
