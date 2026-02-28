@@ -1,28 +1,34 @@
 {
-  "Time": "2026-02-28T18:07:38.1077555Z",
+  "Time": "2026-02-28T18:09:38.1107379Z",
   "Players": [
     {
       "Name": "Waynee",
       "Steam": "76561199139273459",
-      "Score": 26,
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "axure",
+      "Steam": "76561199136389558",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "/market/item?id=lYEGuQ",
       "Steam": "76561198279491509",
-      "Score": 21,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "gymolimpic",
       "Steam": "76561199036536422",
-      "Score": 2,
-      "Time": "00:40"
+      "Score": 6,
+      "Time": "02:40"
     },
     {
       "Name": "labaer",
       "Steam": "76561198794411072",
-      "Score": 53,
+      "Score": 61,
       "Time": "??:??"
     }
   ]
