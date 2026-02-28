@@ -1,29 +1,23 @@
 {
-  "Time": "2026-02-28T08:44:35.3445896Z",
+  "Time": "2026-02-28T08:46:35.3302221Z",
   "Players": [
+    {
+      "Name": "BabyBoo",
+      "Steam": "76561198124032291",
+      "Score": 0,
+      "Time": "00:59"
+    },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 47,
-      "Time": "21:11"
+      "Score": 53,
+      "Time": "23:11"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 61,
-      "Time": "12:54"
-    },
-    {
-      "Name": "Washed'O'Unc",
-      "Steam": "76561199808928969",
-      "Score": 14,
-      "Time": "04:22"
-    },
-    {
-      "Name": "Memesense.gg(BEST)",
-      "Steam": "76561199841537621",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 63,
+      "Time": "14:54"
     }
   ]
 }
