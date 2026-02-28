@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-28T05:32:08.7410018Z",
+  "Time": "2026-02-28T05:34:08.7358659Z",
   "Players": [
+    {
+      "Name": "Neron OLD ACC",
+      "Steam": "76561199823188289",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 77,
-      "Time": "42:19"
+      "Score": 87,
+      "Time": "44:19"
     },
     {
       "Name": "memesense",
       "Steam": "76561198744742371",
-      "Score": 34,
-      "Time": "92:43"
+      "Score": 36,
+      "Time": "94:43"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 34,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
