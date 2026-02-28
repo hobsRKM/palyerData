@@ -1,17 +1,11 @@
 {
-  "Time": "2026-02-28T13:52:35.5348317Z",
+  "Time": "2026-02-28T13:54:35.5178169Z",
   "Players": [
-    {
-      "Name": "Ayla",
-      "Steam": "76561199880055163",
-      "Score": 68,
-      "Time": "65:27"
-    },
     {
       "Name": "1",
       "Steam": "76561199163976232",
-      "Score": 52,
-      "Time": "13:07"
+      "Score": 58,
+      "Time": "15:07"
     },
     {
       "Name": "G>A",
@@ -20,28 +14,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "memesense",
+      "Steam": "76561198744742371",
+      "Score": 0,
+      "Time": "02:30"
+    },
+    {
       "Name": "\uDB40\uDC21\uDB40\uDC21 \uDB40\uDC21\uDB40\uDC21 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561197961939418",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Raiden",
-      "Steam": "76561199180035085",
-      "Score": 12,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "lita",
       "Steam": "76561199067677413",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "01:06"
     }
   ]
 }
