@@ -1,58 +1,64 @@
 {
-  "Time": "2026-02-28T15:50:59.634425Z",
+  "Time": "2026-02-28T15:52:59.6365475Z",
   "Players": [
     {
       "Name": "gamer jeff",
       "Steam": "76561198820870178",
-      "Score": 36,
-      "Time": "310:44"
+      "Score": 40,
+      "Time": "312:44"
+    },
+    {
+      "Name": "Jules",
+      "Steam": "76561198733187157",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "benjamin",
       "Steam": "76561198738859138",
-      "Score": 0,
-      "Time": "01:42"
+      "Score": 2,
+      "Time": "03:42"
     },
     {
       "Name": "ycfwrj",
       "Steam": "76561199408967599",
       "Score": 4,
-      "Time": "34:26"
+      "Time": "36:26"
     },
     {
       "Name": "Orca",
       "Steam": "76561198752077069",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "erick",
       "Steam": "76561199493665678",
       "Score": 0,
-      "Time": "125:39"
+      "Time": "127:39"
     },
     {
       "Name": "GESHTALT >.<",
       "Steam": "76561198317554443",
-      "Score": 48,
-      "Time": "08:59"
-    },
-    {
-      "Name": "<>",
-      "Steam": "76561199562410643",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 56,
+      "Time": "10:59"
     },
     {
       "Name": "GG1",
       "Steam": "76561198751916286",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "kapiub0b",
       "Steam": "76561198151423700",
-      "Score": 105,
+      "Score": 113,
+      "Time": "??:??"
+    },
+    {
+      "Name": "31 cekiyom",
+      "Steam": "76561198757889393",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -64,31 +70,31 @@
     {
       "Name": "flashy",
       "Steam": "76561199164375637",
-      "Score": 42,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Big J Drippy",
       "Steam": "76561199837815539",
-      "Score": 55,
-      "Time": "03:10"
+      "Score": 63,
+      "Time": "05:10"
     },
     {
       "Name": "mightcheating",
       "Steam": "76561199234295146",
       "Score": 21,
-      "Time": "16:46"
+      "Time": "18:46"
     },
     {
       "Name": "aimware",
       "Steam": "76561198733842354",
-      "Score": 119,
+      "Score": 121,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
