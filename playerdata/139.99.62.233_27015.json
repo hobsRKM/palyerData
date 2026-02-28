@@ -1,41 +1,41 @@
 {
-  "Time": "2026-02-28T16:32:35.7260897Z",
+  "Time": "2026-02-28T16:34:35.7307499Z",
   "Players": [
+    {
+      "Name": "BabyBoo",
+      "Steam": "76561198124032291",
+      "Score": 3,
+      "Time": "00:55"
+    },
     {
       "Name": "Absolute Cinema",
       "Steam": "76561199380031986",
-      "Score": 31,
-      "Time": "39:11"
-    },
-    {
-      "Name": "$$$$$$$",
-      "Steam": "76561199229682369",
-      "Score": 38,
-      "Time": "78:58"
+      "Score": 39,
+      "Time": "41:11"
     },
     {
       "Name": "slim boy not fat lylaa",
       "Steam": "76561199783489133",
-      "Score": 24,
-      "Time": "62:35"
+      "Score": 34,
+      "Time": "64:35"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
-      "Score": 14,
-      "Time": "44:03"
+      "Score": 25,
+      "Time": "46:03"
     },
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 20,
-      "Time": "10:56"
+      "Score": 22,
+      "Time": "12:56"
     },
     {
       "Name": "Raiden",
       "Steam": "76561199180035085",
-      "Score": 10,
-      "Time": "42:10"
+      "Score": 2,
+      "Time": "44:10"
     }
   ]
 }
