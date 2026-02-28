@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-28T16:42:59.6373405Z",
+  "Time": "2026-02-28T16:44:59.6470353Z",
   "Players": [
     {
       "Name": "visual",
       "Steam": "76561199021144806",
-      "Score": 9,
-      "Time": "262:13"
+      "Score": 14,
+      "Time": "264:13"
     },
     {
       "Name": "Seoul999",
       "Steam": "76561198051992092",
-      "Score": 22,
-      "Time": "74:48"
+      "Score": 0,
+      "Time": "76:48"
+    },
+    {
+      "Name": "gymolimpic",
+      "Steam": "76561199036536422",
+      "Score": 0,
+      "Time": "238:49"
     },
     {
       "Name": "31 cekiyom",
       "Steam": "76561198757889393",
-      "Score": 62,
+      "Score": 72,
       "Time": "??:??"
     },
     {
@@ -26,16 +32,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "Blanco 73",
+      "Steam": "76561198255877566",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "Iqless",
       "Steam": "76561198751548921",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "mightcheating",
       "Steam": "76561199234295146",
-      "Score": 11,
-      "Time": "05:50"
+      "Score": 19,
+      "Time": "07:50"
+    },
+    {
+      "Name": "Art1st",
+      "Steam": "76561199139901588",
+      "Score": 0,
+      "Time": "00:39"
     }
   ]
 }
