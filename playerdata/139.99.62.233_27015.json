@@ -1,6 +1,12 @@
 {
-  "Time": "2026-02-28T11:36:35.3548139Z",
+  "Time": "2026-02-28T11:38:35.3462535Z",
   "Players": [
+    {
+      "Name": "Ayla",
+      "Steam": "76561199880055163",
+      "Score": 0,
+      "Time": "00:07"
+    },
     {
       "Name": "Legendware.pw Nihao Niqqer",
       "Steam": "76561198743519060",
@@ -10,7 +16,7 @@
     {
       "Name": "1",
       "Steam": "76561199163976232",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     },
     {
@@ -22,14 +28,14 @@
     {
       "Name": "Yyeclax",
       "Steam": "76561199804415761",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
-      "Score": 10,
-      "Time": "04:37"
+      "Score": 16,
+      "Time": "06:37"
     }
   ]
 }
