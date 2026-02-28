@@ -1,29 +1,41 @@
 {
-  "Time": "2026-02-28T21:38:33.4258297Z",
+  "Time": "2026-02-28T21:40:33.4348818Z",
   "Players": [
+    {
+      "Name": "nade",
+      "Steam": "76561199312322988",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "halfred",
       "Steam": "76561199872011824",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "MȆÍlÍNG",
       "Steam": "76561198781140237",
-      "Score": 4,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 16,
-      "Time": "07:33"
+      "Score": 22,
+      "Time": "09:33"
+    },
+    {
+      "Name": "sinclair",
+      "Steam": "76561199866446233",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
       "Score": 34,
-      "Time": "21:03"
+      "Time": "23:03"
     },
     {
       "Name": "\"'",
@@ -34,8 +46,8 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 86,
-      "Time": "106:24"
+      "Score": 92,
+      "Time": "108:24"
     },
     {
       "Name": "jackemehoff2000",
@@ -46,19 +58,19 @@
     {
       "Name": "hdf dog",
       "Steam": "76561198052520015",
-      "Score": 52,
-      "Time": "15:30"
+      "Score": 58,
+      "Time": "17:30"
     },
     {
       "Name": "I love amphetamines",
       "Steam": "76561198752372796",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "bill",
       "Steam": "76561199013445293",
-      "Score": 57,
+      "Score": 66,
       "Time": "??:??"
     }
   ]
