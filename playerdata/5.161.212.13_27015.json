@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-28T01:34:21.8870848Z",
+  "Time": "2026-02-28T01:36:21.8895048Z",
   "Players": [
+    {
+      "Name": "愛",
+      "Steam": "76561199506962308",
+      "Score": 2,
+      "Time": "01:51"
+    },
     {
       "Name": "Johan Voldtekt",
       "Steam": "76561198993649229",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "jackemehoff2000",
       "Steam": "76561198764806957",
-      "Score": 29,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
-      "Score": 37,
+      "Score": 46,
       "Time": "??:??"
     }
   ]
