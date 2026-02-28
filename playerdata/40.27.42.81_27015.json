@@ -1,47 +1,59 @@
 {
-  "Time": "2026-02-28T21:56:33.4292261Z",
+  "Time": "2026-02-28T21:58:33.4304002Z",
   "Players": [
+    {
+      "Name": "zzzzzzzzzzzzzzzzzzzzz",
+      "Steam": "76561198731145118",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "halfred",
       "Steam": "76561199872011824",
-      "Score": 16,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "MȆÍlÍNG",
       "Steam": "76561198781140237",
-      "Score": 4,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Legende",
+      "Steam": "76561198742530560",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 0,
-      "Time": "25:33"
+      "Score": 10,
+      "Time": "27:33"
     },
     {
       "Name": "nes",
       "Steam": "76561199867566993",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "sinclair",
       "Steam": "76561199866446233",
       "Score": 2,
-      "Time": "02:53"
+      "Time": "04:53"
     },
     {
       "Name": "gn",
       "Steam": "76561199757543292",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
       "Score": 24,
-      "Time": "39:03"
+      "Time": "41:03"
     },
     {
       "Name": "\"'",
@@ -52,19 +64,13 @@
     {
       "Name": "perc",
       "Steam": "76561198293312486",
-      "Score": 25,
-      "Time": "04:23"
+      "Score": 29,
+      "Time": "06:23"
     },
     {
-      "Name": "hdf dog",
-      "Steam": "76561198052520015",
-      "Score": 18,
-      "Time": "33:30"
-    },
-    {
-      "Name": "etern      bill",
+      "Name": "eter      bill",
       "Steam": "76561199013445293",
-      "Score": 18,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
