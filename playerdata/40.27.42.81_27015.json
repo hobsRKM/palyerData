@@ -1,22 +1,28 @@
 {
-  "Time": "2026-02-28T22:32:33.4340447Z",
+  "Time": "2026-02-28T22:48:33.4287687Z",
   "Players": [
+    {
+      "Name": "0123",
+      "Steam": "76561198750080629",
+      "Score": 37,
+      "Time": "??:??"
+    },
     {
       "Name": "nes",
       "Steam": "76561199867566993",
-      "Score": 4,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "gn",
       "Steam": "76561199757543292",
-      "Score": 0,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Malicious",
       "Steam": "76561199873250660",
-      "Score": 11,
+      "Score": 45,
       "Time": "??:??"
     },
     {
@@ -28,38 +34,38 @@
     {
       "Name": "Simply #skeetless",
       "Steam": "76561199889163804",
-      "Score": 30,
+      "Score": 99,
       "Time": "??:??"
     },
     {
-      "Name": "sphinxcxz",
-      "Steam": "76561198743425620",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
-      "Name": "sharkbait",
-      "Steam": "76561199199297162",
-      "Score": 3,
-      "Time": "??:??"
-    },
-    {
-      "Name": "*$(#&%(",
-      "Steam": "76561198731981612",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "interlude",
+      "Steam": "76561198838638893",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "02:00"
+    },
+    {
+      "Name": "gerbert",
+      "Steam": "76561199803883011",
+      "Score": 0,
+      "Time": "82:53"
+    },
+    {
+      "Name": "Aru",
+      "Steam": "76561199706248567",
+      "Score": 12,
+      "Time": "07:22"
+    },
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 23,
+      "Time": "07:58"
     },
     {
       "Name": "I love amphetamines",
       "Steam": "76561198752372796",
-      "Score": 10,
-      "Time": "18:39"
+      "Score": 30,
+      "Time": "34:39"
     }
   ]
 }
