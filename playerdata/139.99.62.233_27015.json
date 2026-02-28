@@ -1,23 +1,29 @@
 {
-  "Time": "2026-02-28T09:10:35.3352715Z",
+  "Time": "2026-02-28T09:12:35.3453926Z",
   "Players": [
     {
       "Name": "BabyBoo",
       "Steam": "76561198124032291",
-      "Score": 0,
-      "Time": "24:59"
+      "Score": 4,
+      "Time": "26:59"
     },
     {
       "Name": "DEAD ACC",
       "Steam": "76561198448751308",
-      "Score": 6,
-      "Time": "12:22"
+      "Score": 8,
+      "Time": "14:22"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 72,
-      "Time": "38:54"
+      "Score": 82,
+      "Time": "40:54"
+    },
+    {
+      "Name": "Washed'O'Unc",
+      "Steam": "76561199808928969",
+      "Score": 2,
+      "Time": "01:24"
     }
   ]
 }
