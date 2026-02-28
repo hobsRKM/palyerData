@@ -1,17 +1,23 @@
 {
-  "Time": "2026-02-28T06:37:59.3218621Z",
+  "Time": "2026-02-28T06:39:59.3230874Z",
   "Players": [
+    {
+      "Name": "Mime",
+      "Steam": "76561199229432620",
+      "Score": 7,
+      "Time": "01:01"
+    },
     {
       "Name": "THISISAPFPNAME",
       "Steam": "76561198744128868",
       "Score": 10,
-      "Time": "135:43"
+      "Time": "137:43"
     },
     {
       "Name": "Lora >_<",
       "Steam": "76561198759125966",
       "Score": 83,
-      "Time": "145:54"
+      "Time": "147:54"
     },
     {
       "Name": "counterstrikebomb45",
@@ -22,14 +28,26 @@
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 25,
-      "Time": "08:37"
+      "Score": 32,
+      "Time": "10:37"
+    },
+    {
+      "Name": "Shux",
+      "Steam": "76561199170636130",
+      "Score": 2,
+      "Time": "01:26"
+    },
+    {
+      "Name": "Aru",
+      "Steam": "76561199706248567",
+      "Score": 0,
+      "Time": "00:38"
     },
     {
       "Name": "|lllllllllllllI||IIlll",
       "Steam": "76561199156395215",
-      "Score": 28,
-      "Time": "485:14"
+      "Score": 39,
+      "Time": "487:14"
     }
   ]
 }
