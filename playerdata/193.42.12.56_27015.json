@@ -1,41 +1,47 @@
 {
-  "Time": "2026-02-28T23:15:40.8165229Z",
+  "Time": "2026-02-28T23:17:40.8497364Z",
   "Players": [
+    {
+      "Name": "suleyman magnificul",
+      "Steam": "76561199831121757",
+      "Score": 0,
+      "Time": "59:54"
+    },
     {
       "Name": "visual",
       "Steam": "76561199021144806",
-      "Score": 43,
-      "Time": "20:09"
+      "Score": 45,
+      "Time": "22:09"
     },
     {
       "Name": "Aras 7",
       "Steam": "76561199606889275",
-      "Score": 45,
-      "Time": "29:09"
+      "Score": 51,
+      "Time": "31:09"
     },
     {
       "Name": "valerio",
       "Steam": "76561199090946517",
-      "Score": 10,
-      "Time": "486:14"
+      "Score": 14,
+      "Time": "488:14"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 38,
-      "Time": "10:09"
+      "Score": 0,
+      "Time": "12:09"
     },
     {
       "Name": "succ",
       "Steam": "76561199002053532",
-      "Score": 0,
-      "Time": "07:47"
+      "Score": 12,
+      "Time": "09:47"
     },
     {
       "Name": "Aksel",
       "Steam": "76561198740316969",
-      "Score": 10,
-      "Time": "30:38"
+      "Score": 0,
+      "Time": "32:38"
     }
   ]
 }
