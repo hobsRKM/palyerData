@@ -1,10 +1,16 @@
 {
-  "Time": "2026-02-28T13:12:34.565312Z",
+  "Time": "2026-02-28T13:14:34.5732115Z",
   "Players": [
     {
       "Name": "deutschland",
       "Steam": "76561198746642045",
-      "Score": 0,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Supernatural",
+      "Steam": "76561198749149649",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
