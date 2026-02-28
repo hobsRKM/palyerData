@@ -1,23 +1,41 @@
 {
-  "Time": "2026-02-28T21:43:39.2306598Z",
+  "Time": "2026-02-28T21:45:39.2438001Z",
   "Players": [
+    {
+      "Name": "zwwr77",
+      "Steam": "76561199711624837",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "axure",
       "Steam": "76561199136389558",
-      "Score": 2,
-      "Time": "27:34"
+      "Score": 0,
+      "Time": "29:35"
     },
     {
-      "Name": ".lua           srtghetyu",
+      "Name": "y.lua           srtghetyu",
       "Steam": "76561198737041054",
-      "Score": 2,
-      "Time": "03:25"
+      "Score": 10,
+      "Time": "05:25"
     },
     {
       "Name": "Bestiaxx67",
       "Steam": "76561198733328714",
-      "Score": 6,
+      "Score": 19,
       "Time": "??:??"
+    },
+    {
+      "Name": "COO",
+      "Steam": "76561199724924856",
+      "Score": 0,
+      "Time": "01:26"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561199682863141",
+      "Score": 0,
+      "Time": "00:06"
     },
     {
       "Name": "Unicorn",
@@ -28,8 +46,8 @@
     {
       "Name": "Aksel",
       "Steam": "76561198740316969",
-      "Score": 0,
-      "Time": "62:44"
+      "Score": 4,
+      "Time": "64:44"
     }
   ]
 }
