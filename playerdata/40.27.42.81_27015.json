@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-01T21:12:17.2037947Z",
+  "Time": "2026-03-01T21:14:17.1992775Z",
   "Players": [
+    {
+      "Name": "drunkenbeggar",
+      "Steam": "76561199678608838",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "bobpeterson082",
       "Steam": "76561198736016766",
@@ -17,43 +23,43 @@
       "Name": "kelsh**",
       "Steam": "76561197977197995",
       "Score": 32,
-      "Time": "30:32"
+      "Time": "32:32"
     },
     {
       "Name": "Lora >_<",
       "Steam": "76561198759125966",
-      "Score": 104,
+      "Score": 113,
       "Time": "??:??"
     },
     {
       "Name": "gn",
       "Steam": "76561199757543292",
-      "Score": 16,
-      "Time": "218:35"
+      "Score": 0,
+      "Time": "220:35"
     },
     {
       "Name": "Nipple Deceiver",
       "Steam": "76561198741458634",
-      "Score": 37,
-      "Time": "10:21"
+      "Score": 51,
+      "Time": "12:21"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 125,
-      "Time": "65:00"
+      "Score": 133,
+      "Time": "67:00"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 52,
-      "Time": "06:06"
+      "Score": 60,
+      "Time": "08:06"
     },
     {
       "Name": "YYN1",
       "Steam": "76561198742439921",
-      "Score": 3,
-      "Time": "02:04"
+      "Score": 5,
+      "Time": "04:04"
     }
   ]
 }
