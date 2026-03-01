@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-01T00:05:41.6413115Z",
+  "Time": "2026-03-01T00:07:41.6742505Z",
   "Players": [
+    {
+      "Name": "Enigma",
+      "Steam": "76561198731304163",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Lukas",
       "Steam": "76561199517374169",
       "Score": 6,
-      "Time": "00:59"
+      "Time": "02:59"
     },
     {
       "Name": "Aras 7",
       "Steam": "76561199606889275",
-      "Score": 32,
-      "Time": "79:10"
+      "Score": 38,
+      "Time": "81:10"
     },
     {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
-      "Score": 6,
-      "Time": "546:23"
+      "Score": 7,
+      "Time": "548:23"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 0,
-      "Time": "60:10"
+      "Score": 2,
+      "Time": "62:10"
     },
     {
       "Name": "succ",
       "Steam": "76561199002053532",
-      "Score": 0,
-      "Time": "57:48"
+      "Score": 3,
+      "Time": "59:48"
     }
   ]
 }
