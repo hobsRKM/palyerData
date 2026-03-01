@@ -1,41 +1,53 @@
 {
-  "Time": "2026-03-01T13:14:33.4635981Z",
+  "Time": "2026-03-01T13:16:33.4802209Z",
   "Players": [
+    {
+      "Name": "ether",
+      "Steam": "76561199724403388",
+      "Score": 4,
+      "Time": "00:53"
+    },
+    {
+      "Name": "Memesense.gg(BEST)",
+      "Steam": "76561199841537621",
+      "Score": 0,
+      "Time": "01:52"
+    },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 67,
-      "Time": "18:05"
+      "Score": 75,
+      "Time": "20:05"
     },
     {
       "Name": "ประยุธ Prayut",
       "Steam": "76561198769624311",
       "Score": 8,
-      "Time": "12:47"
+      "Time": "14:47"
     },
     {
       "Name": "Pacman1849",
       "Steam": "76561199057673883",
-      "Score": 24,
-      "Time": "16:32"
+      "Score": 25,
+      "Time": "18:32"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 7,
-      "Time": "186:17"
+      "Score": 15,
+      "Time": "188:17"
     },
     {
       "Name": "\uD835\uDC06\uD835\uDC2B\uD835\uDC22\uD835\uDC26",
       "Steam": "76561198387292807",
-      "Score": 31,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "mila",
       "Steam": "76561199016633012",
-      "Score": 15,
-      "Time": "11:56"
+      "Score": 21,
+      "Time": "13:56"
     }
   ]
 }
