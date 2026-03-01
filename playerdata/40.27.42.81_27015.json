@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-01T05:28:31.6229304Z",
+  "Time": "2026-03-01T05:30:31.6216187Z",
   "Players": [
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Hahahahaha.",
       "Steam": "76561198336975870",
-      "Score": 41,
-      "Time": "110:45"
+      "Score": 52,
+      "Time": "112:45"
     },
     {
       "Name": "odin",
       "Steam": "76561199880717233",
-      "Score": 24,
-      "Time": "07:41"
+      "Score": 28,
+      "Time": "09:41"
     },
     {
       "Name": "gn",
@@ -22,26 +28,20 @@
     {
       "Name": "✞OC✞",
       "Steam": "76561198772153840",
-      "Score": 26,
-      "Time": "92:19"
+      "Score": 32,
+      "Time": "94:19"
     },
     {
       "Name": "not serv",
       "Steam": "76561199826858318",
-      "Score": 31,
-      "Time": "25:31"
+      "Score": 39,
+      "Time": "27:31"
     },
     {
       "Name": "Hestia",
       "Steam": "76561199886715086",
-      "Score": 18,
-      "Time": "14:38"
-    },
-    {
-      "Name": "chase",
-      "Steam": "76561198273566562",
-      "Score": 21,
-      "Time": "??:??"
+      "Score": 20,
+      "Time": "16:38"
     },
     {
       "Name": "hicham_avara",
@@ -50,40 +50,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "projecttz",
-      "Steam": "76561198828505825",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "57:44"
+      "Time": "59:44"
     },
     {
       "Name": "Jshawk",
       "Steam": "76561198448647218",
       "Score": 0,
-      "Time": "58:10"
+      "Time": "60:10"
     },
     {
       "Name": "Demi :)",
       "Steam": "76561199072674466",
-      "Score": 26,
-      "Time": "57:51"
+      "Score": 27,
+      "Time": "59:51"
     },
     {
       "Name": "Femboy Dominance",
       "Steam": "76561198782336938",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "Aru",
-      "Steam": "76561199706248567",
-      "Score": 57,
-      "Time": "12:39"
     }
   ]
 }
