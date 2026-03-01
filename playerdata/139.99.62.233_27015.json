@@ -1,53 +1,65 @@
 {
-  "Time": "2026-03-01T10:28:32.5111075Z",
+  "Time": "2026-03-01T10:30:32.5150939Z",
   "Players": [
     {
       "Name": "1",
       "Steam": "76561199163976232",
-      "Score": 93,
+      "Score": 100,
       "Time": "??:??"
     },
     {
       "Name": "memesense",
       "Steam": "76561198744742371",
-      "Score": 15,
-      "Time": "12:49"
+      "Score": 17,
+      "Time": "14:49"
     },
     {
       "Name": "BabyBoo",
       "Steam": "76561198124032291",
-      "Score": 4,
-      "Time": "56:44"
+      "Score": 10,
+      "Time": "58:44"
     },
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 16,
-      "Time": "00:14"
+      "Score": 24,
+      "Time": "02:14"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
-      "Score": 95,
-      "Time": "32:54"
+      "Score": 97,
+      "Time": "34:54"
+    },
+    {
+      "Name": "AIMWARE",
+      "Steam": "76561199303359682",
+      "Score": 39,
+      "Time": "01:14"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 93,
-      "Time": "137:56"
+      "Score": 0,
+      "Time": "139:56"
+    },
+    {
+      "Name": "cola",
+      "Steam": "76561198742439921",
+      "Score": 0,
+      "Time": "00:27"
     },
     {
       "Name": "Pacman1849",
       "Steam": "76561199057673883",
       "Score": 15,
-      "Time": "05:00"
+      "Time": "00:46"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 24,
-      "Time": "20:16"
+      "Score": 26,
+      "Time": "22:16"
     }
   ]
 }
