@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-01T20:52:17.21056Z",
+  "Time": "2026-03-01T20:54:17.2143376Z",
   "Players": [
+    {
+      "Name": "interlude",
+      "Steam": "76561198838638893",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -10,38 +16,38 @@
     {
       "Name": "kelsh**",
       "Steam": "76561197977197995",
-      "Score": 4,
-      "Time": "10:32"
+      "Score": 6,
+      "Time": "12:32"
     },
     {
       "Name": "☆･ﾟ. *✧･ﾟ*",
       "Steam": "76561199867566993",
-      "Score": 19,
-      "Time": "24:57"
+      "Score": 20,
+      "Time": "26:57"
     },
     {
       "Name": "Lora >_<",
       "Steam": "76561198759125966",
-      "Score": 28,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "gn",
       "Steam": "76561199757543292",
-      "Score": 7,
-      "Time": "198:35"
+      "Score": 10,
+      "Time": "200:35"
     },
     {
       "Name": "ur prolly skeetless",
       "Steam": "76561198741458634",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 21,
-      "Time": "01:29"
+      "Score": 39,
+      "Time": "03:29"
     },
     {
       "Name": "phoober",
@@ -52,19 +58,25 @@
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 30,
-      "Time": "45:00"
+      "Score": 40,
+      "Time": "47:00"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 4,
+      "Time": "01:38"
     },
     {
       "Name": "gucci mane in 2006",
       "Steam": "76561198052520015",
-      "Score": 26,
-      "Time": "62:29"
+      "Score": 6,
+      "Time": "64:29"
     },
     {
       "Name": "itxx funny lol",
       "Steam": "76561198111005971",
-      "Score": 14,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
