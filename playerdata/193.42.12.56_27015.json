@@ -1,41 +1,59 @@
 {
-  "Time": "2026-03-01T00:21:42.0325118Z",
+  "Time": "2026-03-01T00:23:42.071Z",
   "Players": [
+    {
+      "Name": "zwwr77",
+      "Steam": "76561198735986080",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Berichte23",
+      "Steam": "76561198731076413",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LEon",
+      "Steam": "76561199445330773",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Lukas",
       "Steam": "76561199517374169",
       "Score": 3,
-      "Time": "17:00"
+      "Time": "19:00"
     },
     {
       "Name": "kawazaki1332",
       "Steam": "76561198315948842",
-      "Score": 24,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Aras 7",
       "Steam": "76561199606889275",
-      "Score": 0,
-      "Time": "95:10"
+      "Score": 6,
+      "Time": "97:10"
     },
     {
       "Name": "catsssssss",
       "Steam": "76561198794467793",
-      "Score": 30,
-      "Time": "562:23"
+      "Score": 32,
+      "Time": "564:23"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
       "Score": 0,
-      "Time": "76:10"
+      "Time": "78:11"
     },
     {
       "Name": "succ",
       "Steam": "76561199002053532",
       "Score": 0,
-      "Time": "73:48"
+      "Time": "75:48"
     }
   ]
 }
