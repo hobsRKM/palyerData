@@ -1,47 +1,53 @@
 {
-  "Time": "2026-03-01T11:58:32.5855828Z",
+  "Time": "2026-03-01T12:00:32.5912651Z",
   "Players": [
+    {
+      "Name": "1",
+      "Steam": "76561199163976232",
+      "Score": 0,
+      "Time": "01:52"
+    },
     {
       "Name": "gaten",
       "Steam": "76561198748935679",
-      "Score": 105,
-      "Time": "62:26"
+      "Score": 0,
+      "Time": "64:26"
     },
     {
       "Name": "BabyBoo",
       "Steam": "76561198124032291",
       "Score": 0,
-      "Time": "146:44"
+      "Time": "148:44"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 81,
-      "Time": "227:56"
+      "Score": 0,
+      "Time": "229:56"
     },
     {
       "Name": "ประยุธ Prayut",
       "Steam": "76561198769624311",
-      "Score": 38,
-      "Time": "00:42"
+      "Score": 0,
+      "Time": "02:42"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 106,
-      "Time": "110:16"
+      "Score": 2,
+      "Time": "112:16"
     },
     {
       "Name": "\uD835\uDC06\uD835\uDC2B\uD835\uDC22\uD835\uDC26",
       "Steam": "76561198387292807",
-      "Score": 91,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "mila",
       "Steam": "76561199016633012",
-      "Score": 51,
-      "Time": "??:??"
+      "Score": 4,
+      "Time": "00:48"
     }
   ]
 }
