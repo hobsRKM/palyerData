@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-01T07:56:32.5036964Z",
+  "Time": "2026-03-01T07:58:32.5140732Z",
   "Players": [
+    {
+      "Name": "1",
+      "Steam": "76561199163976232",
+      "Score": 0,
+      "Time": "00:09"
+    },
     {
       "Name": "GJEES",
       "Steam": "76561198734556469",
-      "Score": 54,
-      "Time": "32:54"
+      "Score": 61,
+      "Time": "34:54"
     },
     {
       "Name": "K03",
       "Steam": "76561199788609972",
       "Score": 14,
-      "Time": "10:30"
+      "Time": "12:30"
     },
     {
       "Name": "Klu_Not_Vas",
@@ -22,19 +28,19 @@
     {
       "Name": "Memesense.gg(BEST)",
       "Steam": "76561199841537621",
-      "Score": 6,
-      "Time": "04:49"
+      "Score": 15,
+      "Time": "06:49"
     },
     {
       "Name": "Yyeclax",
       "Steam": "76561199804415761",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Beanut Putter",
       "Steam": "76561198824389673",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
