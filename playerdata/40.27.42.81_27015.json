@@ -1,40 +1,34 @@
 {
-  "Time": "2026-03-01T14:34:18.6580078Z",
+  "Time": "2026-03-01T14:36:18.6608717Z",
   "Players": [
+    {
+      "Name": "chase",
+      "Steam": "76561198273566562",
+      "Score": 4,
+      "Time": "01:28"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
-      "Name": "123",
-      "Steam": "76561199805557263",
-      "Score": 64,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "save v2",
       "Steam": "76561198738934862",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "☆･ﾟ. *✧･ﾟ*",
       "Steam": "76561199867566993",
-      "Score": 37,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "GhostTM",
       "Steam": "76561198766489601",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "TwojaMamuskazDupy",
-      "Steam": "76561198740947557",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -46,8 +40,8 @@
     {
       "Name": "joe biden",
       "Steam": "76561198791701298",
-      "Score": 3,
-      "Time": "01:12"
+      "Score": 1,
+      "Time": "03:12"
     }
   ]
 }
