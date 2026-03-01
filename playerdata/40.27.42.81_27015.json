@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-01T10:56:21.4707434Z",
+  "Time": "2026-03-01T10:58:21.471034Z",
   "Players": [
     {
       "Name": "ivy",
       "Steam": "76561199885229596",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "kelshjcampe72i",
       "Steam": "76561197977197995",
-      "Score": 0,
-      "Time": "09:24"
+      "Score": 6,
+      "Time": "11:24"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "lelouch",
       "Steam": "76561198792415004",
+      "Score": 4,
+      "Time": "23:41"
+    },
+    {
+      "Name": "Mr_0pti",
+      "Steam": "76561198735491860",
       "Score": 0,
-      "Time": "21:41"
+      "Time": "??:??"
     }
   ]
 }
