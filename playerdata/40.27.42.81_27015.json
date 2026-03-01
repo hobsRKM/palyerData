@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-01T07:58:31.6306793Z",
+  "Time": "2026-03-01T08:00:31.6289282Z",
   "Players": [
+    {
+      "Name": "gerbert",
+      "Steam": "76561199803883011",
+      "Score": 20,
+      "Time": "01:30"
+    },
     {
       "Name": ".",
       "Steam": "76561199849153218",
-      "Score": 8,
-      "Time": "19:23"
+      "Score": 9,
+      "Time": "21:23"
     },
     {
-      "Name": "ernity.lua       static",
+      "Name": "eternity.lua     static",
       "Steam": "76561198180564201",
       "Score": 54,
-      "Time": "53:58"
+      "Time": "55:58"
     },
     {
       "Name": "Accelerationist",
       "Steam": "76561198996981941",
-      "Score": 48,
-      "Time": "30:40"
+      "Score": 54,
+      "Time": "32:40"
     },
     {
       "Name": "gn",
@@ -28,44 +34,44 @@
     {
       "Name": "perc",
       "Steam": "76561198293312486",
-      "Score": 9,
-      "Time": "350:19"
+      "Score": 20,
+      "Time": "352:19"
     },
     {
       "Name": "packs",
       "Steam": "76561198736591842",
       "Score": 6,
-      "Time": "02:06"
+      "Time": "04:06"
     },
     {
       "Name": "Paper Plane",
       "Steam": "76561199755599976",
-      "Score": 103,
-      "Time": "74:13"
+      "Score": 113,
+      "Time": "76:13"
     },
     {
       "Name": "Devi",
       "Steam": "76561199471107546",
-      "Score": 15,
-      "Time": "131:15"
+      "Score": 17,
+      "Time": "133:15"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "207:44"
+      "Time": "209:44"
     },
     {
       "Name": "BLEOOOD.CC .LUA .TAP",
       "Steam": "76561198744128868",
-      "Score": 0,
-      "Time": "09:32"
+      "Score": 7,
+      "Time": "11:32"
     },
     {
       "Name": "night lovell",
       "Steam": "76561198052520015",
-      "Score": 96,
-      "Time": "20:25"
+      "Score": 102,
+      "Time": "22:25"
     }
   ]
 }
