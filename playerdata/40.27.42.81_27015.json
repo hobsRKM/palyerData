@@ -1,16 +1,16 @@
 {
-  "Time": "2026-03-01T21:56:17.2065064Z",
+  "Time": "2026-03-01T21:58:17.2057558Z",
   "Players": [
+    {
+      "Name": "Ra'Kesh",
+      "Steam": "76561199325903111",
+      "Score": 7,
+      "Time": "01:51"
+    },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "rxmofdc",
-      "Steam": "76561199714595340",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
@@ -22,32 +22,38 @@
     {
       "Name": "gn",
       "Steam": "76561199757543292",
+      "Score": 4,
+      "Time": "264:35"
+    },
+    {
+      "Name": "The Duke",
+      "Steam": "76561198735525582",
       "Score": 0,
-      "Time": "262:35"
+      "Time": "05:52"
     },
     {
       "Name": "itote556's",
       "Steam": "76561198732126825",
-      "Score": 2,
-      "Time": "22:18"
+      "Score": 4,
+      "Time": "24:18"
     },
     {
       "Name": "Accelerationist",
       "Steam": "76561198996981941",
-      "Score": 0,
-      "Time": "06:12"
+      "Score": 2,
+      "Time": "08:12"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 0,
-      "Time": "33:58"
+      "Score": 9,
+      "Time": "35:58"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 0,
-      "Time": "00:03"
+      "Score": 10,
+      "Time": "02:03"
     }
   ]
 }
