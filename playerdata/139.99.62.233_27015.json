@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-01T16:54:34.3365719Z",
+  "Time": "2026-03-01T16:56:34.4064635Z",
   "Players": [
     {
       "Name": "BabyBoo",
       "Steam": "76561198124032291",
-      "Score": 32,
-      "Time": "18:32"
+      "Score": 0,
+      "Time": "20:32"
+    },
+    {
+      "Name": "In jenem Winter verlor ich dich",
+      "Steam": "76561199060922164",
+      "Score": 8,
+      "Time": "01:50"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 83,
-      "Time": "55:36"
+      "Score": 97,
+      "Time": "57:36"
     },
     {
       "Name": "Memesense.gg(BEST)",
       "Steam": "76561199841537621",
       "Score": 4,
-      "Time": "01:11"
+      "Time": "03:11"
     },
     {
       "Name": "ประยุธ Prayut",
       "Steam": "76561198769624311",
       "Score": 21,
-      "Time": "232:48"
+      "Time": "234:48"
     },
     {
       "Name": "mila",
       "Steam": "76561199016633012",
       "Score": 24,
-      "Time": "41:57"
+      "Time": "43:57"
     }
   ]
 }
