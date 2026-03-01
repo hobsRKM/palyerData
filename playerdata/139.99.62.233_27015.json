@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-01T06:38:32.5057538Z",
+  "Time": "2026-03-01T06:40:32.5029881Z",
   "Players": [
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 27,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Absolute Cinema",
       "Steam": "76561199380031986",
-      "Score": 4,
-      "Time": "08:33"
+      "Score": 10,
+      "Time": "10:33"
     },
     {
       "Name": "BabyBoo",
       "Steam": "76561198124032291",
-      "Score": 10,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
-      "Score": 1,
+      "Score": 7,
       "Time": "??:??"
+    },
+    {
+      "Name": "Tell Me Why???",
+      "Steam": "76561199557856957",
+      "Score": 0,
+      "Time": "01:39"
     }
   ]
 }
