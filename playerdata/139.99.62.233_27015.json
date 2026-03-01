@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-01T13:56:33.6188009Z",
+  "Time": "2026-03-01T13:58:33.631088Z",
   "Players": [
     {
       "Name": "rEturn2sEnda",
       "Steam": "76561198730694453",
-      "Score": 41,
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vlocno",
+      "Steam": "76561198734737273",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 51,
-      "Time": "60:05"
+      "Score": 57,
+      "Time": "62:05"
     },
     {
       "Name": "ประยุธ Prayut",
       "Steam": "76561198769624311",
       "Score": 0,
-      "Time": "54:48"
+      "Time": "56:48"
     },
     {
       "Name": "\uD835\uDC06\uD835\uDC2B\uD835\uDC22\uD835\uDC26",
       "Steam": "76561198387292807",
-      "Score": 72,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "mila",
       "Steam": "76561199016633012",
-      "Score": 37,
-      "Time": "53:57"
+      "Score": 40,
+      "Time": "55:57"
     }
   ]
 }
