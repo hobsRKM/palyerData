@@ -1,35 +1,29 @@
 {
-  "Time": "2026-03-01T08:24:32.5206414Z",
+  "Time": "2026-03-01T08:26:32.518211Z",
   "Players": [
-    {
-      "Name": "1",
-      "Steam": "76561199163976232",
-      "Score": 0,
-      "Time": "08:04"
-    },
     {
       "Name": "not a NN",
       "Steam": "76561199319646786",
-      "Score": 18,
-      "Time": "07:48"
+      "Score": 20,
+      "Time": "09:48"
     },
     {
       "Name": "GJEES",
       "Steam": "76561198734556469",
-      "Score": 77,
-      "Time": "60:54"
+      "Score": 85,
+      "Time": "62:54"
     },
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 42,
-      "Time": "38:30"
+      "Score": 48,
+      "Time": "40:30"
     },
     {
       "Name": "ÖZİ93",
       "Steam": "76561198416987576",
-      "Score": 16,
-      "Time": "11:23"
+      "Score": 24,
+      "Time": "13:23"
     },
     {
       "Name": "Yyeclax",
@@ -40,20 +34,20 @@
     {
       "Name": "Beanut Putter",
       "Steam": "76561198824389673",
-      "Score": 36,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 34,
-      "Time": "10:09"
+      "Score": 39,
+      "Time": "12:09"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 46,
-      "Time": "13:56"
+      "Score": 50,
+      "Time": "15:56"
     }
   ]
 }
