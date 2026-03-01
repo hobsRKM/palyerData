@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-01T11:02:32.5523559Z",
+  "Time": "2026-03-01T11:04:32.5411202Z",
   "Players": [
     {
       "Name": "not a NN",
       "Steam": "76561199319646786",
       "Score": 0,
-      "Time": "00:21"
+      "Time": "02:21"
     },
     {
       "Name": "gaten",
       "Steam": "76561198748935679",
-      "Score": 17,
-      "Time": "06:26"
+      "Score": 25,
+      "Time": "08:26"
+    },
+    {
+      "Name": "ether",
+      "Steam": "76561199724403388",
+      "Score": 0,
+      "Time": "00:54"
     },
     {
       "Name": "BabyBoo",
       "Steam": "76561198124032291",
       "Score": 9,
-      "Time": "90:44"
+      "Time": "92:44"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 46,
-      "Time": "171:56"
+      "Score": 56,
+      "Time": "173:56"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
       "Score": 67,
-      "Time": "54:16"
+      "Time": "56:16"
     }
   ]
 }
