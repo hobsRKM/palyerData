@@ -1,22 +1,22 @@
 {
-  "Time": "2026-03-02T00:10:16.674076Z",
+  "Time": "2026-03-02T00:12:16.6722044Z",
   "Players": [
+    {
+      "Name": "Johan Voldtekt",
+      "Steam": "76561198993649229",
+      "Score": 0,
+      "Time": "00:38"
+    },
     {
       "Name": "Paper Plane",
       "Steam": "76561199755599976",
-      "Score": 10,
-      "Time": "04:45"
+      "Score": 16,
+      "Time": "06:45"
     },
     {
       "Name": "Hestia",
       "Steam": "76561199886715086",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "★(™®↯блясъчко м",
-      "Steam": "76561197989919096",
-      "Score": 0,
+      "Score": 12,
       "Time": "??:??"
     },
     {
@@ -26,52 +26,52 @@
       "Time": "??:??"
     },
     {
-      "Name": "furryware f Ansi",
+      "Name": "urryware fu Ansi",
       "Steam": "76561199568150325",
-      "Score": 12,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 29,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 6,
-      "Time": "81:28"
+      "Score": 10,
+      "Time": "83:28"
     },
     {
       "Name": "ven",
       "Steam": "76561199471107546",
-      "Score": 17,
-      "Time": "13:58"
+      "Score": 21,
+      "Time": "15:58"
     },
     {
       "Name": "yam2kk",
       "Steam": "76561198735277432",
       "Score": 14,
-      "Time": "31:46"
+      "Time": "33:46"
     },
     {
-      "Name": "eternity.lua   static",
+      "Name": "eternity.lu     static",
       "Steam": "76561198180564201",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "ethanolamines",
       "Steam": "76561198733643286",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "00:04"
     },
     {
       "Name": "wizu too tuff",
       "Steam": "76561198748099682",
-      "Score": 11,
-      "Time": "09:40"
+      "Score": 19,
+      "Time": "11:40"
     }
   ]
 }
