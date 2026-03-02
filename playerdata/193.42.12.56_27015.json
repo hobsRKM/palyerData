@@ -1,28 +1,28 @@
 {
-  "Time": "2026-03-02T01:55:02.6414693Z",
+  "Time": "2026-03-02T01:57:02.6558403Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "611:43"
+      "Time": "613:43"
     },
     {
       "Name": "vrotdavalkin",
       "Steam": "76561199130010911",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 33,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Hevi",
       "Steam": "76561198880220431",
-      "Score": 73,
+      "Score": 89,
       "Time": "??:??"
     },
     {
@@ -34,20 +34,26 @@
     {
       "Name": "flipped",
       "Steam": "76561199107173735",
-      "Score": 6,
-      "Time": "09:06"
+      "Score": 8,
+      "Time": "11:06"
     },
     {
       "Name": "HardTry",
       "Steam": "76561198774309786",
       "Score": 17,
-      "Time": "49:42"
+      "Time": "51:42"
+    },
+    {
+      "Name": "rozpierdalacz",
+      "Steam": "76561198732151970",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ykema",
       "Steam": "76561198742032890",
-      "Score": 22,
-      "Time": "03:23"
+      "Score": 42,
+      "Time": "05:23"
     },
     {
       "Name": "Eminem",
@@ -71,12 +77,6 @@
       "Name": "bakom dig",
       "Steam": "76561198806792145",
       "Score": 38,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ShellHost.exe",
-      "Steam": "76561199815049914",
-      "Score": 8,
       "Time": "??:??"
     }
   ]
