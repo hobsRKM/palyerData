@@ -1,35 +1,35 @@
 {
-  "Time": "2026-03-02T22:38:24.0641406Z",
+  "Time": "2026-03-02T22:40:24.0625348Z",
   "Players": [
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 38,
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Huf",
+      "Steam": "76561199401608979",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
       "Score": 16,
-      "Time": "08:43"
+      "Time": "10:43"
     },
     {
       "Name": "Craze",
       "Steam": "76561199102401061",
-      "Score": 41,
-      "Time": "57:08"
+      "Score": 45,
+      "Time": "59:08"
     },
     {
       "Name": "iris",
       "Steam": "76561198732673066",
-      "Score": 70,
+      "Score": 76,
       "Time": "??:??"
-    },
-    {
-      "Name": "Michael Brian Vanbibber",
-      "Steam": "76561199755327417",
-      "Score": 45,
-      "Time": "16:47"
     },
     {
       "Name": "James",
@@ -46,14 +46,14 @@
     {
       "Name": "scumbag",
       "Steam": "76561199509070274",
-      "Score": 0,
-      "Time": "07:24"
+      "Score": 2,
+      "Time": "09:24"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 18,
-      "Time": "02:15"
+      "Time": "04:15"
     }
   ]
 }
