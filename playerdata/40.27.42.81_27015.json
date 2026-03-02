@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-02T06:42:16.8414338Z",
+  "Time": "2026-03-02T06:44:16.8408101Z",
   "Players": [
     {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 70,
-      "Time": "17:45"
+      "Score": 83,
+      "Time": "19:45"
+    },
+    {
+      "Name": "Mandrakke",
+      "Steam": "76561197999048538",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ethanolamines",
       "Steam": "76561198733643286",
-      "Score": 30,
-      "Time": "06:49"
+      "Score": 38,
+      "Time": "08:49"
     },
     {
       "Name": "Unicorn",
@@ -22,62 +28,74 @@
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 72,
-      "Time": "39:20"
+      "Score": 76,
+      "Time": "41:20"
     },
     {
-      "Name": "TSU .",
+      "Name": "TSUBJ .",
       "Steam": "76561199849153218",
-      "Score": 24,
-      "Time": "09:09"
+      "Score": 29,
+      "Time": "11:09"
     },
     {
       "Name": "(TacoStreet) Torta",
       "Steam": "76561198373259020",
-      "Score": 6,
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "eternit      bill",
+      "Name": "eterni      bill",
       "Steam": "76561199013445293",
-      "Score": 45,
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cyanto",
+      "Steam": "76561199226338815",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "336:44"
+    },
+    {
+      "Name": "rryware fur Ansi",
+      "Steam": "76561199568150325",
       "Score": 2,
-      "Time": "334:44"
+      "Time": "02:02"
     },
     {
       "Name": "albert",
       "Steam": "76561199007818126",
+      "Score": 2,
+      "Time": "23:26"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
       "Score": 0,
-      "Time": "21:26"
+      "Time": "571:28"
     },
     {
       "Name": "odin",
       "Steam": "76561199880717233",
-      "Score": 13,
-      "Time": "00:42"
+      "Score": 5,
+      "Time": "02:42"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 62,
-      "Time": "20:24"
+      "Score": 66,
+      "Time": "22:24"
     },
     {
       "Name": "gucci mane in 2006",
       "Steam": "76561198052520015",
-      "Score": 0,
-      "Time": "07:02"
-    },
-    {
-      "Name": "}V{utante",
-      "Steam": "76561198035687319",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 14,
+      "Time": "09:02"
     }
   ]
 }
