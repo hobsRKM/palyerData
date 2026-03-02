@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-02T21:40:24.0711911Z",
+  "Time": "2026-03-02T21:42:24.0711424Z",
   "Players": [
+    {
+      "Name": "Craze",
+      "Steam": "76561199102401061",
+      "Score": 0,
+      "Time": "01:08"
+    },
     {
       "Name": "zzzzzzzzzzzzzzzzzzzzzzzzzz",
       "Steam": "76561198730858878",
-      "Score": 2,
-      "Time": "13:23"
+      "Score": 14,
+      "Time": "15:23"
     },
     {
-      "Name": "i hate nigge ay idk man",
+      "Name": "i h ay idk man",
       "Steam": "76561198733172522",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "01:44"
     }
   ]
 }
