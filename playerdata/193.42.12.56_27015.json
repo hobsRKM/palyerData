@@ -1,5 +1,5 @@
 {
-  "Time": "2026-03-02T14:16:42.3768114Z",
+  "Time": "2026-03-02T14:18:42.3771046Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,13 +10,19 @@
     {
       "Name": "deutschland",
       "Steam": "76561198746642045",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Fake",
       "Steam": "76561199729334552",
-      "Score": 4,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BLYAT_GAMING",
+      "Steam": "76561199654903617",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
