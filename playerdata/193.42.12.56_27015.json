@@ -1,22 +1,22 @@
 {
-  "Time": "2026-03-02T01:23:02.6532627Z",
+  "Time": "2026-03-02T01:25:02.6516868Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "579:43"
+      "Time": "581:43"
     },
     {
-      "Name": "radiance,lua xsu",
+      "Name": "xsu",
       "Steam": "76561199495621872",
-      "Score": 10,
-      "Time": "13:57"
+      "Score": 12,
+      "Time": "15:57"
     },
     {
       "Name": "Hevi",
       "Steam": "76561198880220431",
-      "Score": 73,
+      "Score": 87,
       "Time": "??:??"
     },
     {
@@ -28,25 +28,31 @@
     {
       "Name": "flipped",
       "Steam": "76561199107173735",
-      "Score": 7,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "HardTry",
       "Steam": "76561198774309786",
-      "Score": 39,
-      "Time": "17:42"
+      "Score": 47,
+      "Time": "19:42"
+    },
+    {
+      "Name": "hey",
+      "Steam": "76561199163676600",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Aksel",
       "Steam": "76561198740316969",
-      "Score": 4,
-      "Time": "381:25"
+      "Score": 6,
+      "Time": "383:25"
     },
     {
       "Name": "flame",
       "Steam": "76561199366614408",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
