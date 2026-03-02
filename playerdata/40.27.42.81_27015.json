@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-02T23:52:24.0615904Z",
+  "Time": "2026-03-02T23:54:24.0615008Z",
   "Players": [
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "nes",
       "Steam": "76561199701920906",
       "Score": 22,
-      "Time": "03:27"
+      "Time": "05:27"
     },
     {
       "Name": "TEL AVIV!!",
       "Steam": "76561198743125506",
-      "Score": 11,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cookies",
+      "Steam": "76561199740544730",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -28,8 +34,8 @@
     {
       "Name": "Michael Brian Vanbibber",
       "Steam": "76561199755327417",
-      "Score": 26,
-      "Time": "14:51"
+      "Score": 36,
+      "Time": "16:51"
     }
   ]
 }
