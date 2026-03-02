@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-02T16:06:35.3716104Z",
+  "Time": "2026-03-02T16:08:35.3704169Z",
   "Players": [
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 0,
+      "Time": "24:34"
+    },
     {
       "Name": "BabyBoo",
       "Steam": "76561198124032291",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Opportunity | God",
       "Steam": "76561199805283992",
-      "Score": 46,
-      "Time": "13:32"
+      "Score": 56,
+      "Time": "15:32"
     },
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 29,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
