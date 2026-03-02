@@ -1,59 +1,83 @@
 {
-  "Time": "2026-03-02T22:46:24.0735663Z",
+  "Time": "2026-03-02T22:48:24.0754736Z",
   "Players": [
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 73,
+      "Score": 77,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 0,
+      "Time": "00:48"
+    },
+    {
+      "Name": "taTuch",
+      "Steam": "76561198190190965",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Yīn Sǐ",
+      "Steam": "76561198742950925",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
       "Score": 23,
-      "Time": "16:43"
+      "Time": "18:43"
     },
     {
-      "Name": "femboyware f Ansi",
+      "Name": "boyware femb Ansi",
       "Steam": "76561199568150325",
-      "Score": 0,
-      "Time": "49:12"
+      "Score": 3,
+      "Time": "51:12"
     },
     {
       "Name": "Craze",
       "Steam": "76561199102401061",
       "Score": 57,
-      "Time": "65:08"
+      "Time": "67:08"
     },
     {
       "Name": "iris",
       "Steam": "76561198732673066",
-      "Score": 106,
+      "Score": 114,
       "Time": "??:??"
+    },
+    {
+      "Name": "rape nig's",
+      "Steam": "76561198742546351",
+      "Score": 0,
+      "Time": "00:34"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 80,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 56,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "scumbag",
       "Steam": "76561199509070274",
-      "Score": 4,
-      "Time": "15:24"
+      "Score": 16,
+      "Time": "17:24"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 29,
-      "Time": "10:15"
+      "Time": "12:15"
     }
   ]
 }
