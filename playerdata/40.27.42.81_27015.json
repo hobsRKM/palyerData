@@ -1,11 +1,23 @@
 {
-  "Time": "2026-03-02T23:42:24.0693881Z",
+  "Time": "2026-03-02T23:44:24.0605575Z",
   "Players": [
+    {
+      "Name": "nes",
+      "Steam": "76561199701920906",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TEL AVIV!!",
+      "Steam": "76561198743125506",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Michael Brian Vanbibber",
       "Steam": "76561199755327417",
-      "Score": 0,
-      "Time": "04:51"
+      "Score": 2,
+      "Time": "06:51"
     }
   ]
 }
