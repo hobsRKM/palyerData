@@ -1,47 +1,59 @@
 {
-  "Time": "2026-03-02T23:56:24.0626997Z",
+  "Time": "2026-03-02T23:58:24.0745735Z",
   "Players": [
     {
       "Name": "kopf",
       "Steam": "76561198737889087",
-      "Score": 0,
-      "Time": "00:36"
+      "Score": 5,
+      "Time": "02:36"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 14,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "KIKI",
+      "Steam": "76561199711986501",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "nes",
       "Steam": "76561199701920906",
       "Score": 27,
-      "Time": "07:27"
+      "Time": "09:27"
+    },
+    {
+      "Name": "miley ashley ..",
+      "Steam": "76561199588698108",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "TEL AVIV!!",
       "Steam": "76561198743125506",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Michael Brian Vanbibber",
       "Steam": "76561199755327417",
-      "Score": 46,
-      "Time": "18:51"
+      "Score": 56,
+      "Time": "20:51"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 2,
-      "Time": "01:58"
+      "Score": 9,
+      "Time": "03:58"
     }
   ]
 }
