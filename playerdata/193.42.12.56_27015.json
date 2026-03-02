@@ -1,28 +1,34 @@
 {
-  "Time": "2026-03-02T01:11:02.6422833Z",
+  "Time": "2026-03-02T01:13:02.6427764Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "567:43"
+      "Time": "569:43"
     },
     {
-      "Name": "xsu",
+      "Name": "radiance,lua xsu",
       "Steam": "76561199495621872",
-      "Score": 0,
-      "Time": "01:57"
+      "Score": 2,
+      "Time": "03:57"
     },
     {
       "Name": "zeny",
       "Steam": "76561199225041096",
-      "Score": 14,
-      "Time": "336:45"
+      "Score": 24,
+      "Time": "338:45"
     },
     {
       "Name": "Hevi",
       "Steam": "76561198880220431",
-      "Score": 18,
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Quantum Entropy Candle Enjoyer",
+      "Steam": "76561198733728582",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -35,13 +41,13 @@
       "Name": "HardTry",
       "Steam": "76561198774309786",
       "Score": 11,
-      "Time": "05:42"
+      "Time": "07:42"
     },
     {
       "Name": "Case",
       "Steam": "76561199387369654",
-      "Score": 3,
-      "Time": "07:11"
+      "Score": 5,
+      "Time": "09:11"
     }
   ]
 }
