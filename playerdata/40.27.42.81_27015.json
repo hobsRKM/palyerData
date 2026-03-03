@@ -1,46 +1,46 @@
 {
-  "Time": "2026-03-03T02:32:24.0737098Z",
+  "Time": "2026-03-03T02:34:24.0695778Z",
   "Players": [
     {
       "Name": "rivers",
       "Steam": "76561199862792351",
-      "Score": 67,
+      "Score": 73,
       "Time": "??:??"
+    },
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 0,
+      "Time": "00:31"
     },
     {
       "Name": "nes",
       "Steam": "76561199701920906",
-      "Score": 0,
-      "Time": "137:17"
-    },
-    {
-      "Name": "demetria",
-      "Steam": "76561198068213872",
-      "Score": 17,
-      "Time": "62:17"
+      "Score": 4,
+      "Time": "139:17"
     },
     {
       "Name": "BLEOOOD.CC .LUA .TAP",
       "Steam": "76561198744128868",
       "Score": 31,
-      "Time": "31:12"
+      "Time": "33:12"
     },
     {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 70,
-      "Time": "19:14"
+      "Score": 82,
+      "Time": "21:14"
     },
     {
       "Name": "Muha medz",
       "Steam": "76561198293312486",
-      "Score": 28,
-      "Time": "228:01"
+      "Score": 32,
+      "Time": "230:01"
     },
     {
       "Name": "BMW Enjoyer",
       "Steam": "76561198777588344",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
@@ -52,7 +52,13 @@
     {
       "Name": "gamesense triple o",
       "Steam": "76561198737126245",
-      "Score": 20,
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "360-842-2828",
+      "Steam": "76561199668123164",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
