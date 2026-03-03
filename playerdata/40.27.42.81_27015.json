@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-03T04:56:24.077412Z",
+  "Time": "2026-03-03T04:58:24.0653058Z",
   "Players": [
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199860025730",
+      "Score": 0,
+      "Time": "01:47"
+    },
     {
       "Name": "Lil Nakur",
       "Steam": "76561198052520015",
-      "Score": 31,
-      "Time": "298:27"
+      "Score": 36,
+      "Time": "300:27"
     },
     {
       "Name": "KIKI",
       "Steam": "76561199711986501",
-      "Score": 45,
-      "Time": "06:38"
+      "Score": 50,
+      "Time": "08:38"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
       "Score": 0,
-      "Time": "14:02"
+      "Time": "16:02"
     },
     {
       "Name": "Oreo",
@@ -26,52 +32,46 @@
       "Time": "??:??"
     },
     {
-      "Name": "NO CHEAT I USE SKIL BRUH !",
-      "Steam": "76561198732135692",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "✞OC✞",
       "Steam": "76561198772153840",
-      "Score": 83,
-      "Time": "49:55"
+      "Score": 98,
+      "Time": "51:55"
     },
     {
       "Name": "BLEOOOD.CC .LUA .TAP",
       "Steam": "76561198744128868",
       "Score": 4,
-      "Time": "23:51"
-    },
-    {
-      "Name": "naus",
-      "Steam": "76561198735686784",
-      "Score": 10,
-      "Time": "07:12"
+      "Time": "25:51"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 88,
-      "Time": "28:11"
+      "Score": 101,
+      "Time": "30:11"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 112,
-      "Time": "63:08"
+      "Score": 126,
+      "Time": "65:08"
+    },
+    {
+      "Name": "nade",
+      "Steam": "76561199312322988",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "MT☻",
       "Steam": "76561199055014920",
-      "Score": 16,
-      "Time": "07:48"
+      "Score": 21,
+      "Time": "09:48"
     },
     {
       "Name": "skussazz",
       "Steam": "76561199348304991",
-      "Score": 31,
-      "Time": "07:45"
+      "Score": 36,
+      "Time": "09:45"
     }
   ]
 }
