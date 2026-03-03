@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-03T08:22:24.060552Z",
+  "Time": "2026-03-03T08:24:24.0720672Z",
   "Players": [
     {
       "Name": "wock",
       "Steam": "76561198864793756",
-      "Score": 2,
-      "Time": "04:26"
+      "Score": 6,
+      "Time": "06:26"
     },
     {
       "Name": "nes",
       "Steam": "76561198731893892",
-      "Score": 13,
-      "Time": "39:59"
+      "Score": 19,
+      "Time": "41:59"
     },
     {
       "Name": "gamesense triple o",
       "Steam": "76561198737126245",
       "Score": 5,
-      "Time": "128:40"
+      "Time": "130:40"
+    },
+    {
+      "Name": "albert",
+      "Steam": "76561199007818126",
+      "Score": 1,
+      "Time": "01:39"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "skussazz",
       "Steam": "76561199348304991",
-      "Score": 29,
-      "Time": "48:35"
+      "Score": 33,
+      "Time": "50:35"
     }
   ]
 }
