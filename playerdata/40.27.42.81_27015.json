@@ -1,41 +1,53 @@
 {
-  "Time": "2026-03-03T20:02:26.6522987Z",
+  "Time": "2026-03-03T20:04:26.6536115Z",
   "Players": [
     {
       "Name": "Bot kiki",
       "Steam": "76561199711925738",
-      "Score": 53,
-      "Time": "16:19"
+      "Score": 55,
+      "Time": "18:19"
+    },
+    {
+      "Name": "albert",
+      "Steam": "76561199007818126",
+      "Score": 7,
+      "Time": "01:42"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 69,
-      "Time": "39:17"
+      "Score": 71,
+      "Time": "41:17"
     },
     {
       "Name": "odin",
       "Steam": "76561199880717233",
-      "Score": 48,
-      "Time": "18:17"
+      "Score": 50,
+      "Time": "20:17"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 9,
-      "Time": "14:50"
+      "Score": 15,
+      "Time": "16:50"
     },
     {
       "Name": "ethanolamines",
       "Steam": "76561198733643286",
-      "Score": 0,
-      "Time": "08:45"
+      "Score": 4,
+      "Time": "10:45"
     },
     {
       "Name": "wock",
       "Steam": "76561198864793756",
       "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "Perhks",
+      "Steam": "76561198293312486",
+      "Score": 0,
+      "Time": "00:51"
     }
   ]
 }
