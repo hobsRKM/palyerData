@@ -1,65 +1,71 @@
 {
-  "Time": "2026-03-03T05:30:24.0684615Z",
+  "Time": "2026-03-03T05:32:24.0770039Z",
   "Players": [
     {
       "Name": "Watch dis drive",
       "Steam": "76561199471107546",
-      "Score": 2,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rot",
+      "Steam": "76561199755599976",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Lil Nakur",
       "Steam": "76561198052520015",
-      "Score": 61,
-      "Time": "332:27"
+      "Score": 63,
+      "Time": "334:27"
     },
     {
       "Name": "KIKI",
       "Steam": "76561199711986501",
-      "Score": 56,
-      "Time": "40:38"
+      "Score": 58,
+      "Time": "42:38"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 40,
-      "Time": "48:02"
+      "Score": 44,
+      "Time": "50:02"
     },
     {
       "Name": "✞OC✞",
       "Steam": "76561198772153840",
-      "Score": 69,
-      "Time": "83:55"
+      "Score": 79,
+      "Time": "85:55"
     },
     {
       "Name": "joe biden",
       "Steam": "76561198791701298",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 90,
-      "Time": "27:19"
+      "Score": 94,
+      "Time": "29:19"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
       "Score": 28,
-      "Time": "97:08"
+      "Time": "99:08"
     },
     {
       "Name": "Khamenei",
       "Steam": "76561198792408890",
-      "Score": 3,
-      "Time": "338:12"
+      "Score": 10,
+      "Time": "340:12"
     },
     {
       "Name": "ethanolamines",
       "Steam": "76561198733643286",
-      "Score": 28,
-      "Time": "08:07"
+      "Score": 40,
+      "Time": "10:07"
     }
   ]
 }
