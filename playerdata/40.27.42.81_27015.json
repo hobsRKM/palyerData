@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-03T03:02:24.0679818Z",
+  "Time": "2026-03-03T03:04:24.0653165Z",
   "Players": [
+    {
+      "Name": "KIKI",
+      "Steam": "76561199711986501",
+      "Score": 0,
+      "Time": "00:42"
+    },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 2,
-      "Time": "17:26"
+      "Score": 6,
+      "Time": "19:26"
     },
     {
       "Name": "nes",
       "Steam": "76561199701920906",
       "Score": 2,
-      "Time": "16:55"
+      "Time": "18:55"
     },
     {
       "Name": "BLEOOOD.CC .LUA .TAP",
       "Steam": "76561198744128868",
       "Score": 2,
-      "Time": "61:12"
+      "Time": "63:12"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 2,
-      "Time": "01:33"
+      "Score": 4,
+      "Time": "03:33"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198293312486",
-      "Score": 0,
-      "Time": "258:01"
+      "Score": 8,
+      "Time": "260:01"
     },
     {
       "Name": "BMW Enjoyer",
@@ -40,38 +46,38 @@
     {
       "Name": ".",
       "Steam": "76561199849153218",
-      "Score": 0,
-      "Time": "00:38"
+      "Score": 10,
+      "Time": "02:38"
     },
     {
       "Name": "Snoop Dogg",
       "Steam": "76561198891658588",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "trapgangmoney@hotmail.com",
       "Steam": "76561198750303444",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "gamesense triple o",
       "Steam": "76561198737126245",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "DoogWar     Doog",
+      "Name": "DoogWare.cc Doog",
       "Steam": "76561198760350627",
-      "Score": 0,
-      "Time": "262:10"
+      "Score": 2,
+      "Time": "264:10"
     }
   ]
 }
