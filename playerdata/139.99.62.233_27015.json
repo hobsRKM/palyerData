@@ -1,34 +1,40 @@
 {
-  "Time": "2026-03-04T14:18:34.1366557Z",
+  "Time": "2026-03-04T14:20:34.1280158Z",
   "Players": [
     {
-      "Name": "AURA   | gaten",
+      "Name": "AURA       | gaten",
       "Steam": "76561198791732336",
-      "Score": 67,
-      "Time": "72:42"
+      "Score": 72,
+      "Time": "74:42"
+    },
+    {
+      "Name": "героический",
+      "Steam": "76561199582103015",
+      "Score": 19,
+      "Time": "00:18"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 53,
-      "Time": "75:21"
+      "Score": 59,
+      "Time": "77:21"
     },
     {
       "Name": "xyy",
       "Steam": "76561198742439921",
-      "Score": 19,
-      "Time": "04:25"
+      "Score": 21,
+      "Time": "06:25"
     },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 122,
+      "Score": 126,
       "Time": "??:??"
     },
     {
-      "Name": "AURA  | nikk1337",
+      "Name": "AURA    | nikk1337",
       "Steam": "76561198749907280",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
