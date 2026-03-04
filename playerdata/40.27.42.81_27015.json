@@ -1,16 +1,22 @@
 {
-  "Time": "2026-03-04T01:18:26.6543742Z",
+  "Time": "2026-03-04T01:20:26.6557138Z",
   "Players": [
+    {
+      "Name": "axrotalus",
+      "Steam": "76561198742950925",
+      "Score": 2,
+      "Time": "01:41"
+    },
     {
       "Name": "nade",
       "Steam": "76561199312322988",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "gamesense triple o",
       "Steam": "76561198737126245",
-      "Score": 30,
+      "Score": 40,
       "Time": "??:??"
     },
     {
@@ -22,26 +28,26 @@
     {
       "Name": "Boogie Wit Da Hoodie",
       "Steam": "76561199834410706",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "fetty l♡ver",
       "Steam": "76561198741596891",
-      "Score": 38,
-      "Time": "21:15"
+      "Score": 43,
+      "Time": "23:15"
+    },
+    {
+      "Name": "✞OC✞",
+      "Steam": "76561198772153840",
+      "Score": 22,
+      "Time": "02:01"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 14,
-      "Time": "09:35"
-    },
-    {
-      "Name": "pure",
-      "Steam": "76561197963623389",
-      "Score": 20,
-      "Time": "??:??"
+      "Score": 16,
+      "Time": "11:35"
     }
   ]
 }
