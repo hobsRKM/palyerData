@@ -1,4 +1,35 @@
 {
-  "Time": "2026-03-04T13:59:01.2117242Z",
-  "Players": []
+  "Time": "2026-03-04T14:00:22.0062953Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lucky",
+      "Steam": "76561199660705672",
+      "Score": 15,
+      "Time": "20:18"
+    },
+    {
+      "Name": "luck boosted",
+      "Steam": "76561197990765138",
+      "Score": 86,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Shin",
+      "Steam": "76561198737010914",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "designerjunkie",
+      "Steam": "76561199674049637",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
