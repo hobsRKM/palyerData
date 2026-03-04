@@ -1,5 +1,5 @@
 {
-  "Time": "2026-03-04T00:34:26.6636501Z",
+  "Time": "2026-03-04T00:36:26.662301Z",
   "Players": [
     {
       "Name": "Doog",
@@ -10,25 +10,31 @@
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Gamebot2",
       "Steam": "76561198874611168",
-      "Score": 15,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "albert",
+      "Steam": "76561199007818126",
+      "Score": 0,
+      "Time": "00:43"
     },
     {
       "Name": "gamesense triple o",
       "Steam": "76561198737126245",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -38,28 +44,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "wock",
-      "Steam": "76561198864793756",
-      "Score": 0,
-      "Time": "02:10"
-    },
-    {
       "Name": "Michael Brian Vanbibber",
       "Steam": "76561199755327417",
-      "Score": 1,
-      "Time": "04:26"
+      "Score": 13,
+      "Time": "06:26"
     },
     {
       "Name": ">.<",
       "Steam": "76561199841252574",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "more",
       "Steam": "76561199757543292",
-      "Score": 2,
-      "Time": "10:05"
+      "Score": 0,
+      "Time": "12:05"
     }
   ]
 }
