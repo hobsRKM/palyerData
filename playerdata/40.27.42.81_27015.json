@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-04T04:00:26.6521167Z",
+  "Time": "2026-03-04T04:02:26.6556534Z",
   "Players": [
+    {
+      "Name": "ʕ ◕ᴥ◕ ʔ",
+      "Steam": "76561198216212373",
+      "Score": 13,
+      "Time": "??:??"
+    },
     {
       "Name": "hi",
       "Steam": "76561199277473853",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "chase",
       "Steam": "76561198273566562",
-      "Score": 29,
-      "Time": "09:25"
+      "Score": 33,
+      "Time": "11:25"
     },
     {
       "Name": "Boogie Wit Da Hoodie",
       "Steam": "76561199834410706",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Hotmilfs.com",
       "Steam": "76561199109134220",
-      "Score": 30,
-      "Time": "140:34"
+      "Score": 34,
+      "Time": "142:34"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 14,
-      "Time": "00:39"
+      "Score": 15,
+      "Time": "02:39"
     },
     {
       "Name": "itxx funny lol",
       "Steam": "76561198111005971",
-      "Score": 8,
-      "Time": "08:29"
+      "Score": 10,
+      "Time": "10:29"
     }
   ]
 }
