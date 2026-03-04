@@ -1,29 +1,41 @@
 {
-  "Time": "2026-03-04T15:34:34.1357643Z",
+  "Time": "2026-03-04T15:40:34.139368Z",
   "Players": [
     {
-      "Name": "URA        | gaten",
+      "Name": "AURA     | gaten",
       "Steam": "76561198791732336",
-      "Score": 0,
-      "Time": "29:25"
+      "Score": 7,
+      "Time": "35:25"
     },
     {
       "Name": "kонгьянзизи",
       "Steam": "76561198768734014",
-      "Score": 0,
-      "Time": "26:32"
+      "Score": 10,
+      "Time": "32:32"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 2,
-      "Time": "09:23"
+      "Score": 20,
+      "Time": "15:23"
+    },
+    {
+      "Name": "XONE internal user",
+      "Steam": "76561198736439926",
+      "Score": 0,
+      "Time": "00:28"
     },
     {
       "Name": "yiris31981",
       "Steam": "76561198767548277",
       "Score": 0,
-      "Time": "00:31"
+      "Time": "06:31"
+    },
+    {
+      "Name": "Mason Foxworth",
+      "Steam": "76561199693252775",
+      "Score": 4,
+      "Time": "??:??"
     }
   ]
 }
