@@ -1,17 +1,17 @@
 {
-  "Time": "2026-03-04T03:58:26.6556878Z",
+  "Time": "2026-03-04T04:00:26.6521167Z",
   "Players": [
     {
       "Name": "hi",
       "Steam": "76561199277473853",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "chase",
       "Steam": "76561198273566562",
-      "Score": 25,
-      "Time": "07:25"
+      "Score": 29,
+      "Time": "09:25"
     },
     {
       "Name": "Boogie Wit Da Hoodie",
@@ -22,14 +22,20 @@
     {
       "Name": "Hotmilfs.com",
       "Steam": "76561199109134220",
-      "Score": 28,
-      "Time": "138:34"
+      "Score": 30,
+      "Time": "140:34"
+    },
+    {
+      "Name": "gerbert",
+      "Steam": "76561199803883011",
+      "Score": 14,
+      "Time": "00:39"
     },
     {
       "Name": "itxx funny lol",
       "Steam": "76561198111005971",
-      "Score": 4,
-      "Time": "06:29"
+      "Score": 8,
+      "Time": "08:29"
     }
   ]
 }
