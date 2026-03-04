@@ -1,59 +1,71 @@
 {
-  "Time": "2026-03-04T00:30:26.6603676Z",
+  "Time": "2026-03-04T00:32:26.6545344Z",
   "Players": [
     {
-      "Name": "Doog",
+      "Name": "p.cx Doog",
       "Steam": "76561198760350627",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 100,
+      "Score": 110,
       "Time": "??:??"
     },
     {
       "Name": "Gamebot2",
       "Steam": "76561198874611168",
-      "Score": 86,
+      "Score": 98,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gamesense triple o",
+      "Steam": "76561198737126245",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "0123",
       "Steam": "76561198750080629",
-      "Score": 88,
+      "Score": 96,
       "Time": "??:??"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 75,
+      "Score": 79,
       "Time": "??:??"
+    },
+    {
+      "Name": "wock",
+      "Steam": "76561198864793756",
+      "Score": 32,
+      "Time": "00:10"
     },
     {
       "Name": "Michael Brian Vanbibber",
       "Steam": "76561199755327417",
-      "Score": 0,
-      "Time": "00:26"
+      "Score": 5,
+      "Time": "02:26"
     },
     {
       "Name": ">.<",
       "Steam": "76561199841252574",
-      "Score": 54,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "more",
       "Steam": "76561199757543292",
-      "Score": 6,
-      "Time": "06:05"
+      "Score": 10,
+      "Time": "08:05"
     },
     {
       "Name": "itxx funny lol",
       "Steam": "76561198111005971",
-      "Score": 45,
-      "Time": "07:21"
+      "Score": 47,
+      "Time": "09:21"
     }
   ]
 }
