@@ -1,59 +1,65 @@
 {
-  "Time": "2026-03-05T08:06:49.6938358Z",
+  "Time": "2026-03-05T08:08:49.6950181Z",
   "Players": [
+    {
+      "Name": "Krissy The Gnome",
+      "Steam": "76561198757942651",
+      "Score": 4,
+      "Time": "01:28"
+    },
     {
       "Name": "more",
       "Steam": "76561199757543292",
-      "Score": 32,
-      "Time": "70:29"
-    },
-    {
-      "Name": "OOTD",
-      "Steam": "76561199711747339",
-      "Score": 108,
-      "Time": "171:44"
+      "Score": 0,
+      "Time": "72:29"
     },
     {
       "Name": "✞OC✞",
       "Steam": "76561198772153840",
-      "Score": 83,
-      "Time": "54:25"
+      "Score": 2,
+      "Time": "56:26"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
       "Score": 0,
-      "Time": "00:43"
-    },
-    {
-      "Name": "Torta /5dular",
-      "Steam": "76561198373259020",
-      "Score": 28,
-      "Time": "??:??"
+      "Time": "01:12"
     },
     {
       "Name": "albert",
       "Steam": "76561199007818126",
-      "Score": 45,
-      "Time": "17:17"
+      "Score": 2,
+      "Time": "19:17"
+    },
+    {
+      "Name": "AaaaaaaaaaaaaaaaaaA",
+      "Steam": "76561199720584395",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kennethmusic19",
+      "Steam": "76561198729269532",
+      "Score": 1,
+      "Time": "01:56"
     },
     {
       "Name": "2B",
       "Steam": "76561198111005971",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 20,
-      "Time": "06:44"
+      "Score": 0,
+      "Time": "08:44"
     },
     {
       "Name": "Akira",
       "Steam": "76561199889163804",
-      "Score": 129,
-      "Time": "82:23"
+      "Score": 0,
+      "Time": "84:23"
     }
   ]
 }
