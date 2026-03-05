@@ -1,29 +1,41 @@
 {
-  "Time": "2026-03-05T14:02:02.3307185Z",
+  "Time": "2026-03-05T14:04:02.3345067Z",
   "Players": [
+    {
+      "Name": "USDT",
+      "Steam": "76561199836864292",
+      "Score": 2,
+      "Time": "01:46"
+    },
     {
       "Name": "\uD835\uDC06\uD835\uDC2B\uD835\uDC22\uD835\uDC26",
       "Steam": "76561199806910486",
-      "Score": 8,
-      "Time": "05:31"
+      "Score": 11,
+      "Time": "07:31"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 32,
-      "Time": "01:36"
+      "Score": 4,
+      "Time": "03:36"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 9,
-      "Time": "24:09"
+      "Score": 15,
+      "Time": "26:09"
     },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 85,
-      "Time": "30:30"
+      "Score": 87,
+      "Time": "32:30"
+    },
+    {
+      "Name": "minecraft.0seven",
+      "Steam": "76561199833809635",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
