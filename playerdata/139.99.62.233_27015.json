@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-05T07:42:02.296914Z",
+  "Time": "2026-03-05T07:44:02.3058123Z",
   "Players": [
     {
       "Name": "USDT",
       "Steam": "76561199836864292",
-      "Score": 86,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 3,
-      "Time": "02:29"
+      "Score": 5,
+      "Time": "04:29"
     },
     {
       "Name": "user",
       "Steam": "76561198124032291",
-      "Score": 3,
-      "Time": "09:27"
+      "Score": 4,
+      "Time": "11:27"
+    },
+    {
+      "Name": "Ayla",
+      "Steam": "76561199880055163",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
