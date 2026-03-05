@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-05T05:26:49.7034724Z",
+  "Time": "2026-03-05T05:28:49.7024787Z",
   "Players": [
+    {
+      "Name": "ParaguayoPEEK",
+      "Steam": "76561199106861057",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "y",
       "Steam": "76561199837114653",
@@ -10,32 +16,32 @@
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "more",
       "Steam": "76561199757543292",
-      "Score": 23,
-      "Time": "08:59"
+      "Score": 27,
+      "Time": "10:59"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 37,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "hahahaha",
       "Steam": "76561198731597287",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "koneko",
       "Steam": "76561198734736041",
-      "Score": 0,
-      "Time": "63:08"
+      "Score": 9,
+      "Time": "65:08"
     },
     {
       "Name": "Bean",
@@ -47,13 +53,13 @@
       "Name": "Ansi",
       "Steam": "76561199568150325",
       "Score": 8,
-      "Time": "04:03"
+      "Time": "06:03"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
       "Score": 38,
-      "Time": "90:23"
+      "Time": "92:23"
     }
   ]
 }
