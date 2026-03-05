@@ -1,59 +1,65 @@
 {
-  "Time": "2026-03-05T08:24:49.6901628Z",
+  "Time": "2026-03-05T08:26:49.7047264Z",
   "Players": [
     {
       "Name": "Krissy The Gnome",
       "Steam": "76561198757942651",
-      "Score": 62,
-      "Time": "17:28"
+      "Score": 65,
+      "Time": "19:28"
+    },
+    {
+      "Name": "Perhks",
+      "Steam": "76561198293312486",
+      "Score": 2,
+      "Time": "00:58"
     },
     {
       "Name": "more",
       "Steam": "76561199757543292",
       "Score": 18,
-      "Time": "88:29"
+      "Time": "90:29"
     },
     {
       "Name": "demetria",
       "Steam": "76561198068213872",
-      "Score": 26,
-      "Time": "09:17"
+      "Score": 30,
+      "Time": "11:17"
     },
     {
       "Name": "l",
       "Steam": "76561199841252574",
-      "Score": 36,
-      "Time": "180:21"
+      "Score": 42,
+      "Time": "182:21"
     },
     {
       "Name": "Kamap",
       "Steam": "76561199084789524",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "2B",
       "Steam": "76561198111005971",
-      "Score": 45,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 44,
-      "Time": "24:44"
+      "Score": 49,
+      "Time": "26:44"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 0,
-      "Time": "243:38"
+      "Score": 2,
+      "Time": "245:38"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 0,
-      "Time": "01:29"
+      "Score": 4,
+      "Time": "03:29"
     }
   ]
 }
