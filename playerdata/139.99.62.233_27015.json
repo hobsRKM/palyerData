@@ -1,28 +1,34 @@
 {
-  "Time": "2026-03-05T09:48:02.3091441Z",
+  "Time": "2026-03-05T09:50:02.3077567Z",
   "Players": [
     {
-      "Name": "AURA       | unfriendly gaten",
+      "Name": "silvermaia61016",
+      "Steam": "76561199711751918",
+      "Score": 3,
+      "Time": "00:51"
+    },
+    {
+      "Name": "| unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 62,
-      "Time": "38:56"
+      "Score": 70,
+      "Time": "40:56"
     },
     {
       "Name": "Nixware",
       "Steam": "76561198733392789",
-      "Score": 1,
-      "Time": "03:46"
+      "Score": 6,
+      "Time": "05:46"
     },
     {
       "Name": "user",
       "Steam": "76561198124032291",
-      "Score": 55,
-      "Time": "71:16"
+      "Score": 63,
+      "Time": "73:16"
     },
     {
       "Name": "ประยุธ Prayut",
       "Steam": "76561198769624311",
-      "Score": 31,
+      "Score": 36,
       "Time": "??:??"
     },
     {
@@ -34,8 +40,8 @@
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 26,
-      "Time": "00:07"
+      "Score": 2,
+      "Time": "01:37"
     }
   ]
 }
