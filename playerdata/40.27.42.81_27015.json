@@ -1,83 +1,89 @@
 {
-  "Time": "2026-03-05T04:10:49.6984856Z",
+  "Time": "2026-03-05T04:12:49.6987592Z",
   "Players": [
     {
       "Name": "Krissy The Gnome",
       "Steam": "76561198757942651",
-      "Score": 25,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 6,
-      "Time": "58:01"
+      "Score": 14,
+      "Time": "60:01"
     },
     {
       "Name": "Rot",
       "Steam": "76561199755599976",
-      "Score": 32,
-      "Time": "88:20"
+      "Score": 34,
+      "Time": "90:20"
     },
     {
       "Name": "more",
       "Steam": "76561199757543292",
-      "Score": 13,
-      "Time": "49:51"
+      "Score": 14,
+      "Time": "51:51"
     },
     {
       "Name": "OOTD",
       "Steam": "76561199711747339",
-      "Score": 33,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": ">.<",
       "Steam": "76561199841252574",
-      "Score": 29,
-      "Time": "16:10"
+      "Score": 31,
+      "Time": "18:10"
     },
     {
       "Name": "nox",
       "Steam": "76561199471107546",
-      "Score": 55,
-      "Time": "40:33"
+      "Score": 58,
+      "Time": "42:33"
     },
     {
       "Name": "MrBoof",
       "Steam": "76561198409784254",
-      "Score": 36,
-      "Time": "56:26"
-    },
-    {
-      "Name": "✞OC✞",
-      "Steam": "76561198772153840",
-      "Score": 28,
-      "Time": "??:??"
+      "Score": 47,
+      "Time": "58:26"
     },
     {
       "Name": "Pluto's Knot Home",
       "Steam": "76561198118346969",
-      "Score": 27,
-      "Time": "18:01"
+      "Score": 29,
+      "Time": "20:01"
     },
     {
       "Name": "cookies",
       "Steam": "76561199740544730",
-      "Score": 35,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Hellen Wong",
       "Steam": "76561199841399528",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Kalle",
       "Steam": "76561199028582444",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "55:21"
+    },
+    {
+      "Name": "nade",
+      "Steam": "76561199312322988",
+      "Score": 0,
+      "Time": "00:06"
     }
   ]
 }
