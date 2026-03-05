@@ -1,34 +1,52 @@
 {
-  "Time": "2026-03-05T11:00:02.3159142Z",
+  "Time": "2026-03-05T11:02:02.3232083Z",
   "Players": [
     {
-      "Name": "AURA      | unfriendly gaten",
+      "Name": "USDT",
+      "Steam": "76561199836864292",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "skateboard cow",
+      "Steam": "76561199582103015",
+      "Score": 2,
+      "Time": "01:15"
+    },
+    {
+      "Name": "AURA  | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 16,
-      "Time": "110:56"
+      "Score": 23,
+      "Time": "112:56"
     },
     {
       "Name": "user",
       "Steam": "76561198124032291",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 26,
-      "Time": "71:37"
+      "Score": 30,
+      "Time": "73:37"
     },
     {
       "Name": "Perdition",
       "Steam": "76561199022017965",
-      "Score": 14,
-      "Time": "05:13"
+      "Score": 16,
+      "Time": "07:13"
     },
     {
       "Name": "NO IQ PLAY HVH",
       "Steam": "76561199107271518",
-      "Score": 10,
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xyy",
+      "Steam": "76561198742439921",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
