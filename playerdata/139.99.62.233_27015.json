@@ -1,58 +1,40 @@
 {
-  "Time": "2026-03-06T17:06:43.1799503Z",
+  "Time": "2026-03-06T17:08:43.1697009Z",
   "Players": [
     {
       "Name": "user",
       "Steam": "76561198124032291",
-      "Score": 46,
-      "Time": "78:33"
+      "Score": 50,
+      "Time": "80:33"
     },
     {
-      "Name": "AURA  | nikk 1337",
+      "Name": "AURA | nikk 1337",
       "Steam": "76561199545705485",
-      "Score": 0,
-      "Time": "195:37"
+      "Score": 2,
+      "Time": "197:37"
     },
     {
       "Name": "xyy",
       "Steam": "76561198742439921",
-      "Score": 14,
-      "Time": "03:20"
-    },
-    {
-      "Name": "baby boss",
-      "Steam": "76561199122053851",
-      "Score": 19,
-      "Time": "??:??"
+      "Score": 28,
+      "Time": "05:20"
     },
     {
       "Name": "tehran prime",
       "Steam": "76561198745538324",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "erm",
       "Steam": "76561198254759705",
-      "Score": 24,
-      "Time": "09:00"
+      "Score": 35,
+      "Time": "11:00"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
       "Score": 59,
-      "Time": "??:??"
-    },
-    {
-      "Name": "abm",
-      "Steam": "76561198759704397",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "edc cwh",
-      "Steam": "76561199234451986",
-      "Score": 0,
       "Time": "??:??"
     }
   ]
