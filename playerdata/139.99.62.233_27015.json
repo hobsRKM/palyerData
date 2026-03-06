@@ -1,28 +1,28 @@
 {
-  "Time": "2026-03-06T09:56:43.1081098Z",
+  "Time": "2026-03-06T09:58:43.1082604Z",
   "Players": [
     {
       "Name": "user",
       "Steam": "76561198124032291",
-      "Score": 0,
-      "Time": "54:17"
+      "Score": 4,
+      "Time": "56:17"
     },
     {
       "Name": "Kaidou",
       "Steam": "76561198732216653",
-      "Score": 62,
-      "Time": "23:19"
+      "Score": 66,
+      "Time": "25:19"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 37,
-      "Time": "63:25"
+      "Score": 39,
+      "Time": "65:25"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 65,
+      "Score": 71,
       "Time": "??:??"
     },
     {
@@ -41,7 +41,7 @@
       "Name": "Uncle Ben",
       "Steam": "76561199790093289",
       "Score": 9,
-      "Time": "04:46"
+      "Time": "06:46"
     }
   ]
 }
