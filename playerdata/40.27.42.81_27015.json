@@ -1,59 +1,59 @@
 {
-  "Time": "2026-03-06T07:50:21.8918676Z",
+  "Time": "2026-03-06T07:52:21.8858795Z",
   "Players": [
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "Constantinople",
       "Steam": "76561198792408890",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 97,
-      "Time": "34:49"
-    },
-    {
-      "Name": "raindoh",
-      "Steam": "76561198734668878",
-      "Score": 2,
-      "Time": "64:08"
+      "Score": 4,
+      "Time": "36:49"
     },
     {
       "Name": "rich sinners",
       "Steam": "76561198052520015",
-      "Score": 96,
-      "Time": "46:26"
+      "Score": 0,
+      "Time": "48:26"
     },
     {
       "Name": "Hahahahaha.",
       "Steam": "76561198336975870",
-      "Score": 23,
-      "Time": "218:00"
+      "Score": 2,
+      "Time": "220:00"
     },
     {
       "Name": "Zys",
       "Steam": "76561198753938605",
-      "Score": 2,
-      "Time": "166:33"
+      "Score": 0,
+      "Time": "168:33"
     },
     {
       "Name": "SU.",
       "Steam": "76561199711747339",
-      "Score": 57,
-      "Time": "93:08"
+      "Score": 0,
+      "Time": "95:08"
     },
     {
       "Name": "rolandajames94519",
       "Steam": "76561198729842636",
-      "Score": 33,
-      "Time": "08:18"
+      "Score": 2,
+      "Time": "10:18"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 15,
-      "Time": "43:47"
+      "Score": 0,
+      "Time": "45:47"
     }
   ]
 }
