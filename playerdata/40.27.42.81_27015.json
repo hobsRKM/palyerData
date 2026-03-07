@@ -1,5 +1,5 @@
 {
-  "Time": "2026-03-07T21:12:20.9406974Z",
+  "Time": "2026-03-07T21:14:20.9308308Z",
   "Players": [
     {
       "Name": "cats",
@@ -10,14 +10,20 @@
     {
       "Name": "Ion_Smiec",
       "Steam": "76561199184564452",
-      "Score": 7,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "carlos",
+      "Steam": "76561198779377144",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198750080629",
-      "Score": 8,
-      "Time": "28:18"
+      "Score": 12,
+      "Time": "30:18"
     },
     {
       "Name": "Hage Reborn",
@@ -26,28 +32,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "yoldaslenin",
-      "Steam": "76561198751144192",
+      "Name": "y",
+      "Steam": "76561199837114653",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "01:11"
     },
     {
       "Name": "zoe",
       "Steam": "76561199040769247",
-      "Score": 3,
-      "Time": "20:22"
+      "Score": 9,
+      "Time": "22:22"
     },
     {
       "Name": "predicted nigga",
       "Steam": "76561199847868570",
-      "Score": 0,
-      "Time": "29:39"
+      "Score": 10,
+      "Time": "31:39"
     },
     {
       "Name": "hood pharmacist",
       "Steam": "76561198864793756",
-      "Score": 8,
-      "Time": "02:40"
+      "Score": 4,
+      "Time": "04:40"
     }
   ]
 }
