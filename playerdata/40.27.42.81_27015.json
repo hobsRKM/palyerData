@@ -1,47 +1,59 @@
 {
-  "Time": "2026-03-07T08:38:31.9741851Z",
+  "Time": "2026-03-07T08:40:31.9743554Z",
   "Players": [
     {
       "Name": "chase",
       "Steam": "76561198273566562",
-      "Score": 0,
-      "Time": "09:55"
+      "Score": 7,
+      "Time": "11:55"
     },
     {
       "Name": "ewa",
       "Steam": "76561199558957296",
-      "Score": 0,
-      "Time": "24:44"
+      "Score": 2,
+      "Time": "26:44"
     },
     {
       "Name": "Pluto's Knot Home",
       "Steam": "76561198118346969",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tehk",
+      "Steam": "76561198753203481",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 0,
-      "Time": "50:02"
+      "Score": 2,
+      "Time": "52:02"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 0,
-      "Time": "92:30"
+      "Score": 3,
+      "Time": "94:30"
     },
     {
       "Name": "\uD835\uDE37\uD835\uDE14",
       "Steam": "76561199491603608",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
       "Score": 0,
-      "Time": "06:34"
+      "Time": "08:34"
+    },
+    {
+      "Name": "Zdanio",
+      "Steam": "76561198748697700",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
