@@ -1,65 +1,83 @@
 {
-  "Time": "2026-03-07T05:16:31.9829585Z",
+  "Time": "2026-03-07T05:18:31.9867439Z",
   "Players": [
+    {
+      "Name": "=",
+      "Steam": "76561199755599976",
+      "Score": 0,
+      "Time": "01:50"
+    },
+    {
+      "Name": "demetria",
+      "Steam": "76561198068213872",
+      "Score": 4,
+      "Time": "209:27"
+    },
+    {
+      "Name": "NEGR",
+      "Steam": "76561198734183185",
+      "Score": 7,
+      "Time": "01:08"
+    },
     {
       "Name": "hi",
       "Steam": "76561199277473853",
-      "Score": 107,
-      "Time": "51:12"
+      "Score": 119,
+      "Time": "53:12"
     },
     {
       "Name": "Nipple Deceiver",
       "Steam": "76561198741458634",
-      "Score": 12,
-      "Time": "04:57"
+      "Score": 15,
+      "Time": "06:57"
     },
     {
       "Name": "Krissy The Gnome",
       "Steam": "76561198757942651",
       "Score": 13,
-      "Time": "12:32"
+      "Time": "14:32"
     },
     {
       "Name": "legion",
       "Steam": "76561198794327337",
-      "Score": 0,
-      "Time": "129:09"
+      "Score": 5,
+      "Time": "131:09"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 40,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 56,
-      "Time": "63:14"
+      "Score": 60,
+      "Time": "65:14"
     },
     {
       "Name": "BLEOOOD.CC .LUA .TAP",
       "Steam": "76561198744128868",
-      "Score": 24,
-      "Time": "166:01"
+      "Score": 26,
+      "Time": "168:01"
     },
     {
       "Name": "req",
       "Steam": "76561199471107546",
-      "Score": 51,
-      "Time": "03:22"
+      "Score": 53,
+      "Time": "05:22"
     },
     {
       "Name": "CopenhagenGutter88",
       "Steam": "76561199850906867",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "big$",
       "Steam": "76561199757543292",
-      "Score": 10,
-      "Time": "08:25"
+      "Score": 16,
+      "Time": "10:25"
     }
   ]
 }
