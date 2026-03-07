@@ -1,12 +1,6 @@
 {
-  "Time": "2026-03-07T20:38:20.9380338Z",
+  "Time": "2026-03-07T20:40:20.9298983Z",
   "Players": [
-    {
-      "Name": "<>",
-      "Steam": "76561199476958974",
-      "Score": 11,
-      "Time": "??:??"
-    },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
@@ -16,38 +10,44 @@
     {
       "Name": "Crimson",
       "Steam": "76561198189711870",
-      "Score": 5,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 26,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "mikasa",
+      "Steam": "76561198782084625",
+      "Score": 0,
+      "Time": "00:17"
     },
     {
       "Name": "cats",
       "Steam": "76561198074792700",
-      "Score": 18,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "demetria",
       "Steam": "76561198068213872",
-      "Score": 6,
-      "Time": "21:07"
+      "Score": 10,
+      "Time": "23:07"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198750080629",
-      "Score": 42,
-      "Time": "12:28"
+      "Score": 50,
+      "Time": "14:28"
     },
     {
       "Name": "Hage Reborn",
@@ -58,20 +58,20 @@
     {
       "Name": "predicted nigga",
       "Steam": "76561199847868570",
-      "Score": 0,
-      "Time": "20:47"
+      "Score": 6,
+      "Time": "22:47"
     },
     {
       "Name": "gaming thug #THUGLIFE #BLM",
       "Steam": "76561198729269532",
-      "Score": 7,
-      "Time": "09:47"
+      "Score": 2,
+      "Time": "11:47"
     },
     {
-      "Name": "gaming thug #THUGLIFE #BLM",
+      "Name": "predicted nigga",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "00:52"
+      "Time": "02:52"
     }
   ]
 }
