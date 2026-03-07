@@ -1,11 +1,23 @@
 {
-  "Time": "2026-03-07T22:06:20.9344504Z",
+  "Time": "2026-03-07T22:08:20.9247006Z",
   "Players": [
+    {
+      "Name": "<>",
+      "Steam": "76561199476958974",
+      "Score": 0,
+      "Time": "00:38"
+    },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 20,
-      "Time": "16:59"
+      "Score": 24,
+      "Time": "18:59"
+    },
+    {
+      "Name": "nevvorlds",
+      "Steam": "76561198864975937",
+      "Score": 4,
+      "Time": "01:28"
     },
     {
       "Name": "Hage Reborn",
@@ -16,19 +28,19 @@
     {
       "Name": "Demi :)",
       "Steam": "76561199072674466",
-      "Score": 29,
-      "Time": "09:44"
+      "Score": 36,
+      "Time": "11:44"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 17,
-      "Time": "01:38"
+      "Score": 22,
+      "Time": "03:38"
     },
     {
       "Name": "gingerbreadman102",
       "Steam": "76561198791541733",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     },
     {
@@ -40,14 +52,14 @@
     {
       "Name": "crassus",
       "Steam": "76561198742802355",
-      "Score": 51,
-      "Time": "22:51"
+      "Score": 62,
+      "Time": "24:51"
     },
     {
       "Name": "hood pharmacist",
       "Steam": "76561198864793756",
-      "Score": 43,
-      "Time": "07:02"
+      "Score": 46,
+      "Time": "09:02"
     }
   ]
 }
