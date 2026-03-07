@@ -1,11 +1,17 @@
 {
-  "Time": "2026-03-07T13:16:30.8977504Z",
+  "Time": "2026-03-07T13:18:30.9007836Z",
   "Players": [
     {
       "Name": "\uD835\uDC0C\uD835\uDFCF\uD835\uDC11\uD835\uDC2D\uD835\uDC22\uD835\uDC0D\uD835\uDFD2\uD835\uDC28",
       "Steam": "76561198794087367",
       "Score": 0,
-      "Time": "21:56"
+      "Time": "23:56"
+    },
+    {
+      "Name": "invalid argument",
+      "Steam": "76561197988528256",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
