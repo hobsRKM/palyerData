@@ -1,52 +1,58 @@
 {
-  "Time": "2026-03-07T20:04:20.9322294Z",
+  "Time": "2026-03-07T20:06:20.9286518Z",
   "Players": [
+    {
+      "Name": "<>",
+      "Steam": "76561199476958974",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 27,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 53,
-      "Time": "46:12"
+      "Score": 56,
+      "Time": "48:12"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 59,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "predicted nigga",
       "Steam": "76561199847868570",
-      "Score": 0,
-      "Time": "00:33"
+      "Score": 4,
+      "Time": "02:33"
     },
     {
       "Name": "свинья yooma.su",
       "Steam": "76561198736494099",
-      "Score": 11,
-      "Time": "06:03"
+      "Score": 15,
+      "Time": "08:03"
     },
     {
       "Name": "crassus",
       "Steam": "76561198742802355",
-      "Score": 21,
+      "Score": 24,
       "Time": "??:??"
     },
     {
-      "Name": "imnotdoggo",
+      "Name": "predicted nigga",
       "Steam": "76561198772659643",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "wock",
       "Steam": "76561198864793756",
-      "Score": 10,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
