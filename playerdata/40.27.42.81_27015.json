@@ -1,47 +1,53 @@
 {
-  "Time": "2026-03-07T07:42:31.9785694Z",
+  "Time": "2026-03-07T07:44:31.9719267Z",
   "Players": [
     {
-      "Name": "raindoh",
+      "Name": "Ozai",
       "Steam": "76561198772659643",
+      "Score": 2,
+      "Time": "02:38"
+    },
+    {
+      "Name": "Ozai",
+      "Steam": "76561199156395215",
       "Score": 0,
-      "Time": "00:38"
+      "Time": "00:05"
     },
     {
       "Name": "我杀死黑鬼",
       "Steam": "76561198117980694",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 67,
-      "Time": "293:08"
+      "Score": 83,
+      "Time": "295:08"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 0,
-      "Time": "515:05"
+      "Score": 4,
+      "Time": "517:05"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 0,
-      "Time": "03:42"
+      "Score": 4,
+      "Time": "05:42"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 38,
-      "Time": "36:30"
+      "Score": 41,
+      "Time": "38:30"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 29,
-      "Time": "12:32"
+      "Score": 37,
+      "Time": "14:32"
     }
   ]
 }
