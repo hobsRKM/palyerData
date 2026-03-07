@@ -1,4 +1,41 @@
 {
-  "Time": "2026-03-07T15:19:18.7582887Z",
-  "Players": []
+  "Time": "2026-03-07T15:19:51.4275133Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Smechie09",
+      "Steam": "76561199227181230",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "invalid argument",
+      "Steam": "76561197988528256",
+      "Score": 31,
+      "Time": "12:39"
+    },
+    {
+      "Name": "yunhe",
+      "Steam": "76561198272501454",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Big Chungus",
+      "Steam": "76561199124382484",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Frida",
+      "Steam": "76561199104673702",
+      "Score": 51,
+      "Time": "??:??"
+    }
+  ]
 }
