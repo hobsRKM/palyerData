@@ -1,16 +1,22 @@
 {
-  "Time": "2026-03-08T15:30:25.8193809Z",
+  "Time": "2026-03-08T15:32:25.8241119Z",
   "Players": [
+    {
+      "Name": "koneko",
+      "Steam": "76561198734736041",
+      "Score": 0,
+      "Time": "01:01"
+    },
     {
       "Name": "deutschland",
       "Steam": "76561198746642045",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "best nixware user",
       "Steam": "76561199506962308",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
