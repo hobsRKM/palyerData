@@ -1,65 +1,59 @@
 {
-  "Time": "2026-03-07T23:58:20.9288895Z",
+  "Time": "2026-03-08T00:00:20.9378344Z",
   "Players": [
+    {
+      "Name": "gerbert",
+      "Steam": "76561199803883011",
+      "Score": 0,
+      "Time": "01:59"
+    },
     {
       "Name": "kopf",
       "Steam": "76561198731791667",
-      "Score": 66,
-      "Time": "58:53"
+      "Score": 70,
+      "Time": "60:53"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198750080629",
-      "Score": 67,
-      "Time": "15:11"
+      "Score": 77,
+      "Time": "17:11"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 19,
-      "Time": "32:41"
-    },
-    {
-      "Name": "ter Just Bett Cookie",
-      "Steam": "76561199652410817",
-      "Score": 16,
-      "Time": "48:41"
+      "Score": 23,
+      "Time": "34:41"
     },
     {
       "Name": "chase",
       "Steam": "76561198273566562",
-      "Score": 48,
-      "Time": "69:59"
+      "Score": 56,
+      "Time": "71:59"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 15,
-      "Time": "22:27"
+      "Score": 19,
+      "Time": "24:27"
     },
     {
       "Name": "hi",
       "Steam": "76561199277473853",
       "Score": 14,
-      "Time": "08:13"
+      "Time": "10:13"
     },
     {
       "Name": "extriple.alt",
       "Steam": "76561199686021663",
-      "Score": 12,
-      "Time": "32:08"
+      "Score": 16,
+      "Time": "34:08"
     },
     {
       "Name": "l",
       "Steam": "76561199841252574",
-      "Score": 40,
-      "Time": "13:08"
-    },
-    {
-      "Name": "hood pharmacist",
-      "Steam": "76561198864793756",
-      "Score": 0,
-      "Time": "12:01"
+      "Score": 50,
+      "Time": "15:08"
     }
   ]
 }
