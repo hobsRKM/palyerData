@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-08T06:20:21.0070266Z",
+  "Time": "2026-03-08T06:22:21.0165326Z",
   "Players": [
     {
       "Name": "Crimson",
       "Steam": "76561198189711870",
-      "Score": 2,
-      "Time": "416:31"
+      "Score": 6,
+      "Time": "418:31"
+    },
+    {
+      "Name": "RYUK",
+      "Steam": "76561198775248649",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 15,
-      "Time": "06:15"
+      "Score": 17,
+      "Time": "08:15"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 91,
-      "Time": "47:41"
+      "Score": 107,
+      "Time": "49:41"
     },
     {
       "Name": "vektus femgirl",
@@ -28,44 +34,50 @@
     {
       "Name": "req",
       "Steam": "76561199471107546",
-      "Score": 0,
-      "Time": "00:47"
+      "Score": 3,
+      "Time": "02:47"
     },
     {
       "Name": "Demi :)",
       "Steam": "76561199072674466",
-      "Score": 62,
-      "Time": "317:32"
+      "Score": 64,
+      "Time": "319:32"
     },
     {
       "Name": "nevvorlds",
       "Steam": "76561198864975937",
-      "Score": 19,
-      "Time": "124:25"
+      "Score": 21,
+      "Time": "126:25"
     },
     {
       "Name": "familyhook... IN CS2???",
       "Steam": "76561198793169323",
-      "Score": 32,
-      "Time": "21:23"
+      "Score": 34,
+      "Time": "23:23"
+    },
+    {
+      "Name": "DeagleGod",
+      "Steam": "76561198754731881",
+      "Score": 0,
+      "Time": "01:00"
     },
     {
       "Name": "Loading…",
       "Steam": "76561199833487665",
-      "Score": 53,
-      "Time": "64:46"
+      "Score": 59,
+      "Time": "66:46"
     },
     {
       "Name": "l",
       "Steam": "76561199841252574",
-      "Score": 36,
-      "Time": "01:21"
+      "Score": 44,
+      "Time": "03:21"
     },
     {
       "Name": "hood pharmacist",
       "Steam": "76561198864793756",
-      "Score": 91,
-      "Time": "29:32"
+      "Score": 102,
+      "Time": "31:32"
     }
   ]
 }
