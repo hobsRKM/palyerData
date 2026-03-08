@@ -1,4 +1,47 @@
 {
-  "Time": "2026-03-08T14:08:26.7839812Z",
-  "Players": []
+  "Time": "2026-03-08T14:08:37.8336723Z",
+  "Players": [
+    {
+      "Name": "G>A",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "56:41"
+    },
+    {
+      "Name": "\uD835\uDD6F\uD835\uDD86\uD835\uDD97\uD835\uDD90 \uD835\uDD6C",
+      "Steam": "76561198741790703",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "elijah",
+      "Steam": "76561198201927715",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gtavg2100",
+      "Steam": "76561199872813560",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kero",
+      "Steam": "76561198808142250",
+      "Score": 14,
+      "Time": "60:58"
+    },
+    {
+      "Name": "☆ Missed due to hitbox error",
+      "Steam": "76561199849665654",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Maslanka",
+      "Steam": "76561199866941128",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
