@@ -1,40 +1,58 @@
 {
-  "Time": "2026-03-08T19:06:25.822173Z",
+  "Time": "2026-03-08T19:08:25.8321447Z",
   "Players": [
+    {
+      "Name": "[NONAGON] Chef",
+      "Steam": "76561198784585985",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "crassus",
+      "Steam": "76561198742802355",
+      "Score": 0,
+      "Time": "00:03"
+    },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 20,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 8,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NL l EGO",
+      "Steam": "76561199692222758",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 3,
-      "Time": "06:47"
+      "Score": 4,
+      "Time": "00:56"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 8,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "five eyes",
       "Steam": "76561199799318717",
-      "Score": 4,
-      "Time": "13:14"
+      "Score": 0,
+      "Time": "15:14"
     },
     {
       "Name": "opsecharmfuldox",
       "Steam": "76561198734675804",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
