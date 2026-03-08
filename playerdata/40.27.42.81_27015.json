@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-08T22:06:25.8293737Z",
+  "Time": "2026-03-08T22:08:25.8283078Z",
   "Players": [
+    {
+      "Name": "<>",
+      "Steam": "76561199476958974",
+      "Score": 0,
+      "Time": "01:05"
+    },
     {
       "Name": "Juicyleg",
       "Steam": "76561198837413192",
@@ -10,42 +16,54 @@
     {
       "Name": "Aly",
       "Steam": "76561198735226987",
-      "Score": 17,
-      "Time": "07:52"
+      "Score": 19,
+      "Time": "09:52"
     },
     {
       "Name": "cookies",
       "Steam": "76561199740544730",
       "Score": 0,
-      "Time": "15:53"
+      "Time": "00:16"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "00:23"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 17,
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "metro",
+      "Steam": "76561199007818126",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "kopf",
-      "Steam": "76561198731791667",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "dihfuh",
       "Steam": "76561198729383858",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Low Volume Fapper",
+      "Steam": "76561198278457185",
       "Score": 0,
       "Time": "??:??"
     }
