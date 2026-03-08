@@ -1,59 +1,65 @@
 {
-  "Time": "2026-03-08T09:54:18.0854409Z",
+  "Time": "2026-03-08T09:56:18.0839573Z",
   "Players": [
     {
       "Name": "aat",
       "Steam": "76561199403849529",
-      "Score": 23,
-      "Time": "464:45"
+      "Score": 25,
+      "Time": "466:45"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198750080629",
+      "Score": 8,
+      "Time": "529:10"
     },
     {
       "Name": "РЕвил",
       "Steam": "76561199879278982",
-      "Score": 10,
+      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "Ansi",
-      "Steam": "76561199568150325",
-      "Score": 22,
-      "Time": "74:25"
+      "Name": "frown",
+      "Steam": "76561198753982993",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "req",
       "Steam": "76561199471107546",
-      "Score": 25,
-      "Time": "37:01"
+      "Score": 2,
+      "Time": "39:01"
     },
     {
       "Name": "koneko",
       "Steam": "76561198734736041",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Pmc",
       "Steam": "76561199755599976",
-      "Score": 2,
-      "Time": "104:13"
+      "Score": 4,
+      "Time": "106:13"
     },
     {
       "Name": "joe biden",
       "Steam": "76561198791701298",
-      "Score": 20,
-      "Time": "10:26"
+      "Score": 30,
+      "Time": "12:26"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 15,
-      "Time": "19:04"
+      "Time": "21:04"
     },
     {
       "Name": "Loading…",
       "Steam": "76561199833487665",
-      "Score": 25,
-      "Time": "69:27"
+      "Score": 31,
+      "Time": "71:27"
     }
   ]
 }
