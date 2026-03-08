@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-08T14:10:34.897769Z",
+  "Time": "2026-03-08T14:12:34.9012185Z",
   "Players": [
     {
       "Name": "mila",
       "Steam": "76561199016633012",
-      "Score": 21,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "kongyan",
       "Steam": "76561198124032291",
-      "Score": 14,
-      "Time": "42:50"
+      "Score": 18,
+      "Time": "44:50"
     },
     {
       "Name": "Kaidou",
       "Steam": "76561198744018928",
-      "Score": 29,
-      "Time": "48:09"
+      "Score": 39,
+      "Time": "50:09"
     },
     {
       "Name": "Onmyoji",
       "Steam": "76561198807142771",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "roll",
+      "Steam": "76561198732309387",
+      "Score": 7,
+      "Time": "01:06"
     }
   ]
 }
