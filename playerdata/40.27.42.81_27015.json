@@ -1,11 +1,17 @@
 {
-  "Time": "2026-03-08T06:32:21.0180714Z",
+  "Time": "2026-03-08T06:34:21.0123503Z",
   "Players": [
     {
       "Name": "Crimson",
       "Steam": "76561198189711870",
-      "Score": 21,
-      "Time": "428:31"
+      "Score": 23,
+      "Time": "430:31"
+    },
+    {
+      "Name": "Z47",
+      "Steam": "76561198076553749",
+      "Score": 0,
+      "Time": "628:45"
     },
     {
       "Name": "FRANE",
@@ -16,32 +22,38 @@
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 1,
-      "Time": "184:08"
+      "Score": 17,
+      "Time": "186:08"
     },
     {
       "Name": "x4w4y",
       "Steam": "76561198748130568",
       "Score": 0,
-      "Time": "03:51"
+      "Time": "05:51"
     },
     {
       "Name": "7",
       "Steam": "76561199571686760",
+      "Score": 2,
+      "Time": "325:23"
+    },
+    {
+      "Name": "y",
+      "Steam": "76561199837114653",
       "Score": 0,
-      "Time": "323:23"
+      "Time": "58:15"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 34,
-      "Time": "18:15"
+      "Score": 38,
+      "Time": "20:15"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 143,
-      "Time": "59:41"
+      "Score": 159,
+      "Time": "61:41"
     },
     {
       "Name": "vektus femgirl",
@@ -52,8 +64,8 @@
     {
       "Name": "req",
       "Steam": "76561199471107546",
-      "Score": 24,
-      "Time": "12:47"
+      "Score": 26,
+      "Time": "14:47"
     },
     {
       "Name": "dOORZICHITEE;",
@@ -62,46 +74,46 @@
       "Time": "??:??"
     },
     {
+      "Name": "Pmc",
+      "Steam": "76561199755599976",
+      "Score": 0,
+      "Time": "14:35"
+    },
+    {
       "Name": "Demi :)",
       "Steam": "76561199072674466",
-      "Score": 87,
-      "Time": "329:32"
+      "Score": 97,
+      "Time": "331:32"
     },
     {
       "Name": "nevvorlds",
       "Steam": "76561198864975937",
-      "Score": 12,
-      "Time": "136:25"
-    },
-    {
-      "Name": "familyhook... IN CS2???",
-      "Steam": "76561198793169323",
-      "Score": 74,
-      "Time": "33:23"
+      "Score": 13,
+      "Time": "138:25"
     },
     {
       "Name": "Loading…",
       "Steam": "76561199833487665",
-      "Score": 99,
-      "Time": "76:46"
+      "Score": 105,
+      "Time": "78:46"
     },
     {
       "Name": "l",
       "Steam": "76561199841252574",
-      "Score": 73,
-      "Time": "13:21"
+      "Score": 72,
+      "Time": "00:48"
     },
     {
       "Name": "WhyYouCheating™",
       "Steam": "76561199750075849",
-      "Score": 22,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "hood pharmacist",
       "Steam": "76561198864793756",
-      "Score": 131,
-      "Time": "41:32"
+      "Score": 137,
+      "Time": "43:32"
     }
   ]
 }
