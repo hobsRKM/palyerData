@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-08T18:54:25.8260406Z",
+  "Time": "2026-03-08T18:56:25.8205683Z",
   "Players": [
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
@@ -10,37 +16,37 @@
     {
       "Name": "dissapointment",
       "Steam": "76561199873250660",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 31,
-      "Time": "57:00"
+      "Score": 33,
+      "Time": "59:00"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 86,
+      "Score": 98,
       "Time": "??:??"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 55,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "five eyes",
       "Steam": "76561199799318717",
-      "Score": 6,
-      "Time": "01:14"
+      "Score": 10,
+      "Time": "03:14"
     },
     {
       "Name": "opsecharmfuldox",
       "Steam": "76561198734675804",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
