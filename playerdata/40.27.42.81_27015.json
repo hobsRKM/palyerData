@@ -1,52 +1,64 @@
 {
-  "Time": "2026-03-08T23:20:25.8228689Z",
+  "Time": "2026-03-08T23:22:25.8290351Z",
   "Players": [
+    {
+      "Name": "westfield",
+      "Steam": "76561198299500096",
+      "Score": 1,
+      "Time": "17:18"
+    },
     {
       "Name": "w",
       "Steam": "76561198864793756",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 56,
-      "Time": "12:07"
+      "Score": 68,
+      "Time": "14:07"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 50,
-      "Time": "15:31"
+      "Score": 52,
+      "Time": "17:31"
     },
     {
       "Name": "Blades",
       "Steam": "76561199021687902",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "y",
+      "Steam": "76561199837114653",
+      "Score": 3,
+      "Time": "01:11"
     },
     {
       "Name": "nes",
       "Steam": "76561199701080269",
-      "Score": 15,
-      "Time": "08:14"
+      "Score": 17,
+      "Time": "10:14"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 5,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 21,
-      "Time": "16:12"
+      "Score": 24,
+      "Time": "18:12"
     },
     {
       "Name": "nevvorlds",
       "Steam": "76561198864975937",
-      "Score": 40,
+      "Score": 46,
       "Time": "??:??"
     }
   ]
