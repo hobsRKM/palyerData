@@ -1,47 +1,59 @@
 {
-  "Time": "2026-03-08T11:54:34.8937718Z",
+  "Time": "2026-03-08T11:56:34.8969014Z",
   "Players": [
+    {
+      "Name": "ether",
+      "Steam": "76561199724403388",
+      "Score": 0,
+      "Time": "00:10"
+    },
     {
       "Name": "ٴ",
       "Steam": "76561198011549867",
-      "Score": 2,
-      "Time": "23:30"
+      "Score": 8,
+      "Time": "25:30"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 6,
-      "Time": "96:49"
+      "Score": 16,
+      "Time": "98:49"
     },
     {
-      "Name": "A          | unfriendly gaten",
+      "Name": "URA        | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 8,
-      "Time": "56:03"
+      "Score": 13,
+      "Time": "58:03"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 2,
-      "Time": "05:58"
+      "Score": 4,
+      "Time": "07:58"
     },
     {
       "Name": "kryozzz",
       "Steam": "76561199485394741",
-      "Score": 11,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Kaidou",
       "Steam": "76561198744018928",
-      "Score": 8,
-      "Time": "03:12"
+      "Score": 17,
+      "Time": "05:12"
     },
     {
       "Name": "DAЯK",
       "Steam": "76561199879290767",
-      "Score": 10,
-      "Time": "09:28"
+      "Score": 11,
+      "Time": "11:28"
+    },
+    {
+      "Name": "yg831885",
+      "Steam": "76561198751989665",
+      "Score": 5,
+      "Time": "??:??"
     }
   ]
 }
