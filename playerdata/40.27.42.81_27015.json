@@ -1,35 +1,35 @@
 {
-  "Time": "2026-03-08T11:54:25.824131Z",
+  "Time": "2026-03-08T11:56:25.8285952Z",
   "Players": [
     {
       "Name": "joe biden",
       "Steam": "76561198791701298",
-      "Score": 11,
-      "Time": "09:37"
+      "Score": 13,
+      "Time": "11:37"
     },
     {
       "Name": "Z47",
       "Steam": "76561198076553749",
-      "Score": 14,
-      "Time": "33:33"
+      "Score": 18,
+      "Time": "35:33"
+    },
+    {
+      "Name": "UNCAC Minnesota",
+      "Steam": "76561199773478697",
+      "Score": 12,
+      "Time": "01:52"
     },
     {
       "Name": "Yam-ka",
       "Steam": "76561199036513571",
-      "Score": 27,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Krissy The Gnome",
       "Steam": "76561198757942651",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
-    },
-    {
-      "Name": "kiro",
-      "Steam": "76561199173413043",
-      "Score": 48,
-      "Time": "33:44"
     }
   ]
 }
