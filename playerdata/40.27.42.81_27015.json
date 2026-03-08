@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-08T21:08:25.8285554Z",
+  "Time": "2026-03-08T21:10:25.8192423Z",
   "Players": [
+    {
+      "Name": "so much more than perfect",
+      "Steam": "76561199847868570",
+      "Score": 0,
+      "Time": "00:17"
+    },
     {
       "Name": "Si Es, Two",
       "Steam": "76561198776303423",
@@ -10,50 +16,38 @@
     {
       "Name": "hi",
       "Steam": "76561199277473853",
-      "Score": 6,
-      "Time": "02:51"
+      "Score": 2,
+      "Time": "04:51"
     },
     {
       "Name": "14ways",
       "Steam": "76561199803595505",
-      "Score": 11,
-      "Time": "21:36"
+      "Score": 0,
+      "Time": "23:36"
     },
     {
       "Name": "koneko",
       "Steam": "76561198734736041",
-      "Score": 19,
-      "Time": "36:05"
+      "Score": 21,
+      "Time": "38:05"
     },
     {
       "Name": "kopf",
       "Steam": "76561198731791667",
-      "Score": 36,
+      "Score": 56,
       "Time": "??:??"
-    },
-    {
-      "Name": "cats",
-      "Steam": "76561198741480204",
-      "Score": 19,
-      "Time": "24:56"
     },
     {
       "Name": "Doog",
       "Steam": "76561198760350627",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Demi :)",
       "Steam": "76561199072674466",
-      "Score": 24,
-      "Time": "28:29"
-    },
-    {
-      "Name": "femboy enjoyer",
-      "Steam": "76561199158419168",
-      "Score": 4,
-      "Time": "04:14"
+      "Score": 35,
+      "Time": "30:29"
     }
   ]
 }
