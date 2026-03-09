@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-09T14:02:34.3156042Z",
+  "Time": "2026-03-09T14:04:34.3221593Z",
   "Players": [
     {
       "Name": "Jeff",
       "Steam": "76561198011549867",
-      "Score": 0,
-      "Time": "00:49"
+      "Score": 6,
+      "Time": "02:49"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 25,
-      "Time": "08:00"
+      "Score": 29,
+      "Time": "10:00"
     },
     {
       "Name": "Alfredo",
       "Steam": "76561198769596176",
-      "Score": 49,
-      "Time": "72:22"
+      "Score": 57,
+      "Time": "74:22"
+    },
+    {
+      "Name": "diorhedi",
+      "Steam": "76561197994977537",
+      "Score": 0,
+      "Time": "00:31"
     }
   ]
 }
