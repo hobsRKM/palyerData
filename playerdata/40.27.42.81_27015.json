@@ -1,71 +1,83 @@
 {
-  "Time": "2026-03-09T23:44:16.7786415Z",
+  "Time": "2026-03-09T23:46:16.7840291Z",
   "Players": [
+    {
+      "Name": "Akira",
+      "Steam": "76561199889163804",
+      "Score": 0,
+      "Time": "00:04"
+    },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
       "Score": 46,
-      "Time": "28:07"
+      "Time": "30:07"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
+    },
+    {
+      "Name": "XXⅠ",
+      "Steam": "76561198762281843",
+      "Score": 0,
+      "Time": "00:40"
     },
     {
       "Name": "Alone",
       "Steam": "76561199875779355",
-      "Score": 32,
-      "Time": "17:19"
+      "Score": 36,
+      "Time": "19:19"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 18,
-      "Time": "19:15"
+      "Score": 23,
+      "Time": "21:15"
     },
     {
       "Name": "РЕвил",
       "Steam": "76561199879278982",
-      "Score": 25,
-      "Time": "32:48"
+      "Score": 26,
+      "Time": "34:48"
     },
     {
       "Name": "Pmc",
       "Steam": "76561199755599976",
-      "Score": 43,
-      "Time": "21:01"
+      "Score": 45,
+      "Time": "23:01"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 49,
-      "Time": "??:??"
-    },
-    {
-      "Name": "demetria",
-      "Steam": "76561198068213872",
-      "Score": 12,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "e36",
       "Steam": "76561199471107546",
-      "Score": 7,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 44,
-      "Time": "21:42"
+      "Score": 47,
+      "Time": "23:42"
     },
     {
       "Name": "koneko",
       "Steam": "76561198734736041",
-      "Score": 23,
-      "Time": "15:52"
+      "Score": 26,
+      "Time": "17:52"
+    },
+    {
+      "Name": "NL worker",
+      "Steam": "76561199778070124",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
