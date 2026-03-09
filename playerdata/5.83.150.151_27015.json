@@ -1,53 +1,65 @@
 {
-  "Time": "2026-03-09T16:33:23.4560395Z",
+  "Time": "2026-03-09T16:35:23.460638Z",
   "Players": [
     {
       "Name": "Ondrej Pastierik",
       "Steam": "76561198729982847",
-      "Score": 40,
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "arisen",
+      "Steam": "76561199460374443",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "♱ᵇᵃˢᵉᵐᵉⁿᵗslayer",
       "Steam": "76561199378110522",
-      "Score": 40,
-      "Time": "16:22"
+      "Score": 48,
+      "Time": "18:22"
     },
     {
       "Name": "desync daddy",
       "Steam": "76561198376802362",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "malwa",
       "Steam": "76561199866887764",
-      "Score": 46,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "Foxevu",
       "Steam": "76561199754980447",
-      "Score": 43,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "⁺ ₊✦Ria₊✦°",
       "Steam": "76561199236818034",
-      "Score": 68,
-      "Time": "61:27"
-    },
-    {
-      "Name": "[DEPRE??ED] K1RO",
-      "Steam": "76561197963342370",
-      "Score": 19,
-      "Time": "??:??"
+      "Score": 72,
+      "Time": "63:27"
     },
     {
       "Name": "Юля тимошенко",
       "Steam": "76561199640983776",
-      "Score": 12,
-      "Time": "233:10"
+      "Score": 14,
+      "Time": "235:10"
+    },
+    {
+      "Name": "$$$$$$$$$$ | TempleWare",
+      "Steam": "76561199345794754",
+      "Score": 6,
+      "Time": "04:54"
+    },
+    {
+      "Name": "JestemNapalonyNaHuberta67",
+      "Steam": "76561198729591116",
+      "Score": 1,
+      "Time": "??:??"
     }
   ]
 }
