@@ -1,40 +1,52 @@
 {
-  "Time": "2026-03-09T18:44:30.4130959Z",
+  "Time": "2026-03-09T18:46:30.4069514Z",
   "Players": [
+    {
+      "Name": "acog",
+      "Steam": "76561198728163349",
+      "Score": 0,
+      "Time": "00:27"
+    },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 110,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 52,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC73\uDB40\uDC73⁧⁧\u1CBC\uDB40\uDC73\uDB40\uDC7342amps",
       "Steam": "76561198143893089",
-      "Score": 3,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ageneote",
       "Steam": "76561198849284665",
-      "Score": 77,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Ozai",
       "Steam": "76561199156395215",
-      "Score": 22,
-      "Time": "06:44"
+      "Score": 0,
+      "Time": "08:44"
     },
     {
-      "Name": "l Jshawk",
+      "Name": "silentium Jshawk",
       "Steam": "76561198448647218",
-      "Score": 20,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tade",
+      "Steam": "76561198755491518",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
