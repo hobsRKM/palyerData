@@ -1,52 +1,46 @@
 {
-  "Time": "2026-03-09T19:54:30.418744Z",
+  "Time": "2026-03-09T19:56:30.4154697Z",
   "Players": [
+    {
+      "Name": "skeet refined shooter",
+      "Steam": "76561198299500096",
+      "Score": 2,
+      "Time": "00:53"
+    },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 126,
-      "Time": "18:31"
+      "Score": 133,
+      "Time": "20:31"
     },
     {
       "Name": "gamesense triple o",
       "Steam": "76561198737126245",
-      "Score": 18,
-      "Time": "25:00"
+      "Score": 20,
+      "Time": "27:00"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 85,
-      "Time": "20:32"
-    },
-    {
-      "Name": "gerbert",
-      "Steam": "76561199803883011",
-      "Score": 48,
-      "Time": "??:??"
-    },
-    {
-      "Name": "smook",
-      "Steam": "76561198173622871",
-      "Score": 15,
-      "Time": "08:15"
+      "Score": 93,
+      "Time": "22:32"
     },
     {
       "Name": "xarei",
       "Steam": "76561198737175167",
-      "Score": 57,
-      "Time": "08:31"
+      "Score": 59,
+      "Time": "10:31"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 61,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "bhop zuhn",
       "Steam": "76561198758289195",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
