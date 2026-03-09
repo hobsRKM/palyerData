@@ -1,11 +1,17 @@
 {
-  "Time": "2026-03-09T16:05:23.4623428Z",
+  "Time": "2026-03-09T16:07:23.462547Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "23:17"
+      "Time": "25:17"
+    },
+    {
+      "Name": "Tilly",
+      "Steam": "76561199446138604",
+      "Score": 0,
+      "Time": "01:20"
     },
     {
       "Name": "Ondrej Pastierik",
@@ -16,26 +22,20 @@
     {
       "Name": "Blank1",
       "Steam": "76561198751950264",
-      "Score": 36,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "malwa",
       "Steam": "76561199866887764",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "⁺ ₊✦Ria₊✦°",
       "Steam": "76561199236818034",
-      "Score": 4,
-      "Time": "33:27"
-    },
-    {
-      "Name": "Bestiaxx67:LORDL DODAJ",
-      "Steam": "76561199868471969",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 6,
+      "Time": "35:27"
     },
     {
       "Name": "batek777",
@@ -46,20 +46,20 @@
     {
       "Name": "Timee",
       "Steam": "76561199206658984",
-      "Score": 37,
-      "Time": "29:37"
+      "Score": 40,
+      "Time": "31:37"
     },
     {
       "Name": "FENOMEN",
       "Steam": "76561198160571123",
-      "Score": 33,
-      "Time": "10:31"
+      "Score": 35,
+      "Time": "12:31"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 84,
-      "Time": "28:21"
+      "Score": 86,
+      "Time": "30:21"
     }
   ]
 }
