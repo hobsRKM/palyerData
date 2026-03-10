@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-10T15:49:00.3544817Z",
+  "Time": "2026-03-10T15:51:00.3591915Z",
   "Players": [
     {
-      "Name": "AURA      | unfriendly gaten",
+      "Name": "A          | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 93,
-      "Time": "42:33"
+      "Score": 105,
+      "Time": "44:33"
     },
     {
-      "Name": "AUR | nikk 1337",
+      "Name": "ประยุธ Prayut",
+      "Steam": "76561198769624311",
+      "Score": 1,
+      "Time": "00:52"
+    },
+    {
+      "Name": "AURA | nikk 1337",
       "Steam": "76561199545705485",
-      "Score": 63,
-      "Time": "29:23"
+      "Score": 66,
+      "Time": "31:23"
     },
     {
       "Name": "kongyan",
       "Steam": "76561198124032291",
-      "Score": 63,
-      "Time": "90:19"
+      "Score": 65,
+      "Time": "92:19"
     }
   ]
 }
