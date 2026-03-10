@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-10T00:08:16.7766079Z",
+  "Time": "2026-03-10T00:10:16.7714317Z",
   "Players": [
+    {
+      "Name": "La mafia original",
+      "Steam": "76561198733571896",
+      "Score": 0,
+      "Time": "00:47"
+    },
     {
       "Name": "Akira",
       "Steam": "76561199889163804",
-      "Score": 11,
-      "Time": "22:04"
+      "Score": 5,
+      "Time": "24:04"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Pmc",
       "Steam": "76561199755599976",
-      "Score": 19,
-      "Time": "45:01"
+      "Score": 31,
+      "Time": "47:01"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 24,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "e36",
       "Steam": "76561199471107546",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "koneko",
       "Steam": "76561198734736041",
       "Score": 0,
-      "Time": "39:52"
+      "Time": "41:52"
     }
   ]
 }
