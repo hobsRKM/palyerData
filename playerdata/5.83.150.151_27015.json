@@ -1,4 +1,35 @@
 {
-  "Time": "2026-03-10T19:15:02.7618932Z",
-  "Players": []
+  "Time": "2026-03-10T19:15:16.5298212Z",
+  "Players": [
+    {
+      "Name": "G>A",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "93:47"
+    },
+    {
+      "Name": "AlibabaShopper",
+      "Steam": "76561199737804492",
+      "Score": 10,
+      "Time": "06:46"
+    },
+    {
+      "Name": "Zenox #NLCrack",
+      "Steam": "76561199846375753",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fentanyl",
+      "Steam": "76561199469674316",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] Dispnser",
+      "Steam": "76561198734425366",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
