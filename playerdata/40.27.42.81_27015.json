@@ -1,23 +1,35 @@
 {
-  "Time": "2026-03-10T03:20:16.7852123Z",
+  "Time": "2026-03-10T03:22:16.7852338Z",
   "Players": [
+    {
+      "Name": "trip",
+      "Steam": "76561198731196479",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 64,
-      "Time": "106:24"
+      "Score": 65,
+      "Time": "108:24"
     },
     {
-      "Name": "metro",
-      "Steam": "76561199007818126",
+      "Name": "CAN'T SEE SH*T IN THE CLUB",
+      "Steam": "76561198305928174",
       "Score": 0,
-      "Time": "04:20"
+      "Time": "??:??"
     },
     {
       "Name": "gangtrapmoney@hotmail.com",
       "Steam": "76561198743189723",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 0,
+      "Time": "19:19"
     },
     {
       "Name": "kolpins",
@@ -35,31 +47,31 @@
       "Name": "Pmc",
       "Steam": "76561199755599976",
       "Score": 98,
-      "Time": "237:01"
+      "Time": "239:01"
     },
     {
       "Name": "ﾒ",
       "Steam": "76561199031753721",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 53,
-      "Time": "11:28"
+      "Score": 61,
+      "Time": "13:28"
     },
     {
       "Name": "smurfy",
       "Steam": "76561199868125682",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 51,
-      "Time": "11:41"
+      "Score": 61,
+      "Time": "13:41"
     }
   ]
 }
