@@ -1,53 +1,53 @@
 {
-  "Time": "2026-03-10T05:38:16.7836765Z",
+  "Time": "2026-03-10T05:40:16.7892647Z",
   "Players": [
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 28,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 22,
-      "Time": "537:14"
+      "Score": 28,
+      "Time": "539:14"
     },
     {
       "Name": "Sukia",
       "Steam": "76561198780018069",
-      "Score": 6,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 12,
-      "Time": "351:46"
+      "Score": 14,
+      "Time": "353:46"
     },
     {
       "Name": "l",
       "Steam": "76561199841252574",
-      "Score": 19,
-      "Time": "173:10"
+      "Score": 35,
+      "Time": "175:10"
     },
     {
       "Name": "1,413",
       "Steam": "76561199847868570",
-      "Score": 1,
-      "Time": "03:51"
+      "Score": 0,
+      "Time": "05:51"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 67,
-      "Time": "141:06"
+      "Score": 80,
+      "Time": "143:06"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 4,
-      "Time": "19:41"
+      "Score": 2,
+      "Time": "21:41"
     },
     {
       "Name": "Ascend",
@@ -58,14 +58,14 @@
     {
       "Name": "Cheezie",
       "Steam": "76561199156395215",
-      "Score": 20,
-      "Time": "06:28"
+      "Score": 24,
+      "Time": "08:28"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 12,
-      "Time": "05:41"
+      "Score": 16,
+      "Time": "07:41"
     }
   ]
 }
