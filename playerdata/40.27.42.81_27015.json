@@ -1,59 +1,65 @@
 {
-  "Time": "2026-03-10T01:32:16.7747351Z",
+  "Time": "2026-03-10T01:34:16.7811774Z",
   "Players": [
+    {
+      "Name": "y",
+      "Steam": "76561199837114653",
+      "Score": 0,
+      "Time": "00:24"
+    },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 64,
-      "Time": "06:43"
+      "Score": 0,
+      "Time": "08:43"
     },
     {
       "Name": "Ulfik szponciciel_skins.army",
       "Steam": "76561199237323357",
       "Score": 2,
-      "Time": "18:38"
-    },
-    {
-      "Name": "gingerbreadman102",
-      "Steam": "76561198791541733",
-      "Score": 18,
-      "Time": "??:??"
+      "Time": "20:38"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 74,
-      "Time": "08:56"
+      "Score": 81,
+      "Time": "10:56"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 1,
-      "Time": "03:25"
+      "Score": 5,
+      "Time": "05:25"
     },
     {
       "Name": "ahiru sleaning",
       "Steam": "76561198729845681",
-      "Score": 4,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Pmc",
       "Steam": "76561199755599976",
-      "Score": 98,
-      "Time": "129:01"
+      "Score": 114,
+      "Time": "131:01"
     },
     {
       "Name": "e36",
       "Steam": "76561199471107546",
-      "Score": 38,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 16,
-      "Time": "47:33"
+      "Score": 18,
+      "Time": "49:33"
     }
   ]
 }
