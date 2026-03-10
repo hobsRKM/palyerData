@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-10T22:17:02.7694659Z",
+  "Time": "2026-03-10T22:17:19.9133336Z",
   "Players": [
     {
-      "Name": "a",
-      "Steam": "76561199571154189",
-      "Score": 30,
+      "Name": "G>A",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "275:50"
+    },
+    {
+      "Name": "KKKasti",
+      "Steam": "76561199833286399",
+      "Score": 18,
+      "Time": "236:39"
+    },
+    {
+      "Name": "axure",
+      "Steam": "76561199136389558",
+      "Score": 6,
+      "Time": "03:14"
+    },
+    {
+      "Name": "rms",
+      "Steam": "76561199027350323",
+      "Score": 38,
       "Time": "??:??"
     },
     {
-      "Name": "Ražvydas",
-      "Steam": "76561198740891134",
-      "Score": 20,
+      "Name": "Bogdanuq",
+      "Steam": "76561199550122482",
+      "Score": 3,
       "Time": "??:??"
     },
     {
-      "Name": "testing weed rn",
-      "Steam": "76561199580556447",
-      "Score": 86,
+      "Name": "Melio",
+      "Steam": "76561198410461059",
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "Ialwayswin",
-      "Steam": "76561198728840802",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "♥'' kitty",
-      "Steam": "76561198758533060",
-      "Score": 20,
-      "Time": "02:24"
     }
   ]
 }
