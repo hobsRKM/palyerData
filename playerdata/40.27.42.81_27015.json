@@ -1,35 +1,47 @@
 {
-  "Time": "2026-03-10T04:02:16.7736699Z",
+  "Time": "2026-03-10T04:04:16.7831068Z",
   "Players": [
+    {
+      "Name": "kc006770",
+      "Steam": "76561198735838131",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "humpty got a dumpy",
       "Steam": "76561199847868570",
-      "Score": 69,
+      "Score": 82,
       "Time": "??:??"
+    },
+    {
+      "Name": "acog",
+      "Steam": "76561198728163349",
+      "Score": 0,
+      "Time": "314:29"
     },
     {
       "Name": "Demi :)",
       "Steam": "76561199072674466",
-      "Score": 94,
+      "Score": 98,
       "Time": "??:??"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 46,
-      "Time": "45:06"
+      "Score": 60,
+      "Time": "47:06"
     },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
-      "Score": 13,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "76561198791368162",
       "Steam": "76561198791368162",
-      "Score": 48,
-      "Time": "26:48"
+      "Score": 54,
+      "Time": "28:48"
     },
     {
       "Name": "kolpins",
@@ -41,7 +53,7 @@
       "Name": "Ozai",
       "Steam": "76561199156395215",
       "Score": 8,
-      "Time": "307:39"
+      "Time": "309:39"
     },
     {
       "Name": "gamesense triple o",
@@ -50,21 +62,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "ﾒ",
-      "Steam": "76561199031753721",
-      "Score": 63,
-      "Time": "33:34"
-    },
-    {
       "Name": "Hahahahaha.",
       "Steam": "76561198336975870",
-      "Score": 151,
-      "Time": "35:43"
+      "Score": 153,
+      "Time": "37:43"
     },
     {
       "Name": "smurfy",
       "Steam": "76561199868125682",
-      "Score": 48,
+      "Score": 54,
       "Time": "??:??"
     }
   ]
