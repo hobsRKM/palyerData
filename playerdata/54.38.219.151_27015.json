@@ -1,28 +1,34 @@
 {
-  "Time": "2026-03-11T20:54:06.5623268Z",
+  "Time": "2026-03-11T20:56:06.5696795Z",
   "Players": [
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "110:24"
+      "Time": "112:24"
+    },
+    {
+      "Name": "s1lent kyousuke",
+      "Steam": "76561198732936968",
+      "Score": 0,
+      "Time": "01:31"
     },
     {
       "Name": "Hoax Maker",
       "Steam": "76561199616972217",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "effrayant",
       "Steam": "76561198195247117",
-      "Score": 37,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "SliskoL",
       "Steam": "76561198745723178",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -34,8 +40,8 @@
     {
       "Name": ".win",
       "Steam": "76561198746046142",
-      "Score": 13,
-      "Time": "03:56"
+      "Score": 21,
+      "Time": "05:56"
     }
   ]
 }
