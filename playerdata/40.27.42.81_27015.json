@@ -1,52 +1,70 @@
 {
-  "Time": "2026-03-11T08:02:50.5900057Z",
+  "Time": "2026-03-11T08:04:50.5867117Z",
   "Players": [
+    {
+      "Name": "0x",
+      "Steam": "76561198731668532",
+      "Score": 2,
+      "Time": "345:32"
+    },
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 2,
+      "Time": "618:36"
+    },
     {
       "Name": "fatality.lose",
       "Steam": "76561198727072895",
-      "Score": 14,
-      "Time": "37:42"
+      "Score": 24,
+      "Time": "39:42"
     },
     {
       "Name": "sqwat",
       "Steam": "76561199519396101",
-      "Score": 81,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "Doog",
       "Steam": "76561198760350627",
-      "Score": 55,
-      "Time": "47:26"
+      "Score": 57,
+      "Time": "49:26"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 28,
-      "Time": "102:40"
+      "Score": 32,
+      "Time": "104:40"
     },
     {
       "Name": "big$",
       "Steam": "76561199757543292",
-      "Score": 14,
-      "Time": "103:53"
+      "Score": 0,
+      "Time": "105:53"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 67,
+      "Score": 69,
+      "Time": "??:??"
+    },
+    {
+      "Name": "yannini",
+      "Steam": "76561198879114635",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ahahahaha",
       "Steam": "76561198728940041",
-      "Score": 45,
-      "Time": "08:22"
+      "Score": 48,
+      "Time": "10:22"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 65,
+      "Score": 66,
       "Time": "??:??"
     }
   ]
