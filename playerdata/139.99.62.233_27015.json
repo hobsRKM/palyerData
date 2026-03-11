@@ -1,41 +1,35 @@
 {
-  "Time": "2026-03-11T09:11:14.5988556Z",
+  "Time": "2026-03-11T09:13:14.5833676Z",
   "Players": [
     {
       "Name": "kongyan",
       "Steam": "76561198124032291",
-      "Score": 0,
-      "Time": "36:19"
+      "Score": 2,
+      "Time": "38:19"
     },
     {
       "Name": "waguri",
       "Steam": "76561198793024178",
-      "Score": 11,
-      "Time": "82:07"
+      "Score": 9,
+      "Time": "84:07"
+    },
+    {
+      "Name": "skateboard cow",
+      "Steam": "76561199582103015",
+      "Score": 3,
+      "Time": "00:54"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Kaidou",
       "Steam": "76561198744018928",
-      "Score": 10,
-      "Time": "41:36"
-    },
-    {
-      "Name": "i74ui",
-      "Steam": "76561198737786610",
-      "Score": 0,
-      "Time": "00:21"
-    },
-    {
-      "Name": "Tito Caldern",
-      "Steam": "76561198302755005",
-      "Score": 0,
-      "Time": "03:53"
+      "Score": 20,
+      "Time": "43:36"
     }
   ]
 }
