@@ -1,46 +1,52 @@
 {
-  "Time": "2026-03-11T13:39:14.7999159Z",
+  "Time": "2026-03-11T13:41:14.7967779Z",
   "Players": [
+    {
+      "Name": "kongyan",
+      "Steam": "76561198124032291",
+      "Score": 2,
+      "Time": "01:39"
+    },
     {
       "Name": "noname",
       "Steam": "76561198800250172",
-      "Score": 109,
-      "Time": "00:37"
+      "Score": 3,
+      "Time": "02:37"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 70,
-      "Time": "20:59"
-    },
-    {
-      "Name": "4UR4 | unfriendly gaten",
-      "Steam": "76561198791732336",
-      "Score": 118,
-      "Time": "64:14"
+      "Score": 4,
+      "Time": "22:59"
     },
     {
       "Name": "lolita",
       "Steam": "76561199579674989",
-      "Score": 60,
-      "Time": "28:48"
+      "Score": 0,
+      "Time": "30:48"
     },
     {
       "Name": "ประยุธ Prayut",
       "Steam": "76561198769624311",
-      "Score": 43,
-      "Time": "33:24"
+      "Score": 0,
+      "Time": "35:24"
     },
     {
       "Name": "pXW5bR3EtgB6PByB33QMHLzX7e5bQ6i4",
       "Steam": "76561198751914470",
-      "Score": 17,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "콜롬비❤",
+      "Name": "콜롬❤나",
       "Steam": "76561198790860703",
-      "Score": 77,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rinLOL",
+      "Steam": "76561198780066427",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
