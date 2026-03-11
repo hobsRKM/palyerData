@@ -1,4 +1,35 @@
 {
-  "Time": "2026-03-11T19:49:51.4990682Z",
-  "Players": []
+  "Time": "2026-03-11T19:50:23.6324935Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Adams J",
+      "Steam": "76561199543202791",
+      "Score": 57,
+      "Time": "24:19"
+    },
+    {
+      "Name": "Hoax Maker",
+      "Steam": "76561199616972217",
+      "Score": 62,
+      "Time": "??:??"
+    },
+    {
+      "Name": "skrapkastus",
+      "Steam": "76561198728537852",
+      "Score": 5,
+      "Time": "19:12"
+    },
+    {
+      "Name": "KKKasti",
+      "Steam": "76561199833286399",
+      "Score": 0,
+      "Time": "81:52"
+    }
+  ]
 }
