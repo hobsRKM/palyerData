@@ -1,34 +1,40 @@
 {
-  "Time": "2026-03-11T18:10:54.4429579Z",
+  "Time": "2026-03-11T18:12:54.4419611Z",
   "Players": [
     {
       "Name": "trip",
       "Steam": "76561198428564314",
-      "Score": 19,
-      "Time": "47:00"
+      "Score": 27,
+      "Time": "49:00"
     },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 51,
-      "Time": "46:45"
+      "Score": 53,
+      "Time": "48:45"
     },
     {
       "Name": "Oreo",
       "Steam": "76561199651870382",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Bullet",
       "Steam": "76561198781702164",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Misterio",
+      "Steam": "76561199475028677",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
