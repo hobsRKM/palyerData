@@ -1,34 +1,40 @@
 {
-  "Time": "2026-03-11T07:23:14.5853661Z",
+  "Time": "2026-03-11T07:25:14.592507Z",
   "Players": [
     {
       "Name": "kongyan",
       "Steam": "76561198124032291",
-      "Score": 0,
-      "Time": "75:25"
+      "Score": 8,
+      "Time": "77:25"
     },
     {
       "Name": "noname",
       "Steam": "76561198800250172",
-      "Score": 46,
-      "Time": "63:37"
+      "Score": 47,
+      "Time": "65:37"
     },
     {
       "Name": "MicroHard",
       "Steam": "76561199748240601",
-      "Score": 0,
-      "Time": "04:18"
+      "Score": 4,
+      "Time": "06:18"
     },
     {
       "Name": "emmi1",
       "Steam": "76561199781090383",
-      "Score": 37,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "Lol+EZ",
       "Steam": "76561198899741020",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dev",
+      "Steam": "76561199022017965",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
