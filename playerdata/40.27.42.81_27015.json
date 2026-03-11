@@ -1,34 +1,46 @@
 {
-  "Time": "2026-03-11T08:18:50.5915132Z",
+  "Time": "2026-03-11T08:20:50.5934762Z",
   "Players": [
+    {
+      "Name": "supremacy",
+      "Steam": "76561198763517260",
+      "Score": 6,
+      "Time": "01:19"
+    },
+    {
+      "Name": "netanyahu",
+      "Steam": "76561197975681697",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "sqwat",
       "Steam": "76561199519396101",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 0,
-      "Time": "118:40"
+      "Score": 2,
+      "Time": "120:40"
     },
     {
       "Name": "big$",
       "Steam": "76561199757543292",
-      "Score": 5,
-      "Time": "119:53"
+      "Score": 7,
+      "Time": "121:53"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 23,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 26,
+      "Score": 40,
       "Time": "??:??"
     }
   ]
