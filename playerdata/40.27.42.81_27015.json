@@ -1,40 +1,46 @@
 {
-  "Time": "2026-03-11T09:00:50.6117082Z",
+  "Time": "2026-03-11T09:02:50.6149307Z",
   "Players": [
+    {
+      "Name": "koneko",
+      "Steam": "76561198734736041",
+      "Score": 0,
+      "Time": "140:58"
+    },
     {
       "Name": "supremacy",
       "Steam": "76561198763517260",
-      "Score": 0,
-      "Time": "00:20"
+      "Score": 6,
+      "Time": "02:20"
     },
     {
       "Name": "fatality.lose",
       "Steam": "76561198727072895",
       "Score": 2,
-      "Time": "22:43"
+      "Time": "24:43"
     },
     {
       "Name": "sqwat",
       "Steam": "76561199519396101",
-      "Score": 41,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "☣",
       "Steam": "76561199499655946",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ahahahaha",
       "Steam": "76561198728940041",
-      "Score": 78,
-      "Time": "29:18"
+      "Score": 86,
+      "Time": "31:18"
     },
     {
       "Name": ";;;;",
       "Steam": "76561198745487779",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     }
   ]
