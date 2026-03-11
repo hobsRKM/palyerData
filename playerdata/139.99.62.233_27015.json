@@ -1,58 +1,64 @@
 {
-  "Time": "2026-03-11T11:29:14.6104349Z",
+  "Time": "2026-03-11T11:31:14.612994Z",
   "Players": [
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 49,
-      "Time": "09:55"
+      "Score": 50,
+      "Time": "11:55"
     },
     {
       "Name": "Kaidou",
       "Steam": "76561198744018928",
-      "Score": 81,
-      "Time": "49:21"
+      "Score": 89,
+      "Time": "51:21"
     },
     {
       "Name": "Jeff",
       "Steam": "76561198011549867",
       "Score": 0,
-      "Time": "42:39"
+      "Time": "44:39"
     },
     {
       "Name": "lolita",
       "Steam": "76561199579674989",
-      "Score": 55,
-      "Time": "75:40"
+      "Score": 58,
+      "Time": "77:40"
     },
     {
       "Name": "Black",
       "Steam": "76561199159788976",
-      "Score": 23,
-      "Time": "10:22"
+      "Score": 27,
+      "Time": "12:22"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 59,
+      "Score": 72,
       "Time": "??:??"
     },
     {
       "Name": "kryozzz",
       "Steam": "76561199485394741",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 15,
-      "Time": "01:21"
+      "Score": 17,
+      "Time": "03:21"
     },
     {
-      "Name": "AU | pXW5bR3EtgB6PByB33QMHLzX7e5bQ6i4",
+      "Name": "A | pXW5bR3EtgB6PByB33QMHLzX7e5bQ6i4",
       "Steam": "76561198751914470",
       "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "am",
+      "Steam": "76561198732229465",
+      "Score": 7,
       "Time": "??:??"
     }
   ]
