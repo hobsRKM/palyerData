@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-12T17:29:08.4271078Z",
+  "Time": "2026-03-12T17:31:08.6220692Z",
   "Players": [
+    {
+      "Name": "Respect",
+      "Steam": "76561199118168815",
+      "Score": 9,
+      "Time": "??:??"
+    },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "159:29"
+      "Time": "161:29"
     },
     {
       "Name": "Phon Jackson",
       "Steam": "76561198737087188",
-      "Score": 33,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "c⁧⁧watrox",
       "Steam": "76561198161184894",
-      "Score": 38,
-      "Time": "14:36"
+      "Score": 46,
+      "Time": "16:36"
     },
     {
       "Name": "ZeroPhantom",
@@ -28,25 +34,19 @@
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 0,
-      "Time": "40:16"
+      "Score": 10,
+      "Time": "42:16"
     },
     {
       "Name": "felix",
       "Steam": "76561198765165744",
-      "Score": 16,
-      "Time": "18:58"
-    },
-    {
-      "Name": "vales",
-      "Steam": "76561199579979493",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 22,
+      "Time": "20:58"
     },
     {
       "Name": "OTC V3 user",
       "Steam": "76561198733842354",
-      "Score": 33,
+      "Score": 39,
       "Time": "??:??"
     }
   ]
