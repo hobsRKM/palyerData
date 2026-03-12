@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-12T18:13:15.2655262Z",
+  "Time": "2026-03-12T18:15:15.3660755Z",
   "Players": [
+    {
+      "Name": "Respect",
+      "Steam": "76561199118168815",
+      "Score": 6,
+      "Time": "01:27"
+    },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 2,
-      "Time": "203:35"
+      "Time": "205:36"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 3,
-      "Time": "21:34"
+      "Score": 8,
+      "Time": "23:34"
     },
     {
       "Name": "your black pipul",
@@ -22,80 +28,68 @@
     {
       "Name": "B0Busss",
       "Steam": "76561199773403358",
-      "Score": 9,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "sin",
       "Steam": "76561199225335280",
-      "Score": 10,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "ROBOTAIM",
       "Steam": "76561199127852374",
-      "Score": 33,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "ÇAYIR BİÇİYOM ÇAYIR",
       "Steam": "76561198431997616",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "V12 1500HP",
       "Steam": "76561199867937863",
-      "Score": 4,
-      "Time": "15:28"
+      "Score": 16,
+      "Time": "17:28"
     },
     {
       "Name": "troubled",
       "Steam": "76561199629184110",
-      "Score": 76,
-      "Time": "18:14"
+      "Score": 82,
+      "Time": "20:14"
     },
     {
       "Name": "succ",
       "Steam": "76561199002053532",
-      "Score": 0,
-      "Time": "154:16"
+      "Score": 1,
+      "Time": "156:16"
     },
     {
       "Name": "Phon Jackson",
       "Steam": "76561198737087188",
-      "Score": 12,
-      "Time": "21:06"
-    },
-    {
-      "Name": "Timee",
-      "Steam": "76561199206658984",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 14,
+      "Time": "23:06"
     },
     {
       "Name": "Fruko",
       "Steam": "76561199197182772",
-      "Score": 32,
-      "Time": "09:21"
+      "Score": 0,
+      "Time": "11:21"
     },
     {
       "Name": "felix",
       "Steam": "76561198765165744",
       "Score": 0,
-      "Time": "63:04"
+      "Time": "65:04"
     },
     {
       "Name": "♱ᵇᵃˢᵉᵐᵉⁿᵗslayer",
       "Steam": "76561199378110522",
-      "Score": 0,
-      "Time": "10:11"
-    },
-    {
-      "Name": "I want things to be beautiful",
-      "Steam": "76561199880065297",
-      "Score": 5,
-      "Time": "??:??"
+      "Score": 8,
+      "Time": "12:11"
     }
   ]
 }
