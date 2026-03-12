@@ -1,4 +1,47 @@
 {
-  "Time": "2026-03-12T23:36:16.7956096Z",
-  "Players": []
+  "Time": "2026-03-12T23:36:19.0129353Z",
+  "Players": [
+    {
+      "Name": "hecker",
+      "Steam": "76561198726604111",
+      "Score": 2,
+      "Time": "31:42"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Trionxs",
+      "Steam": "76561199040781865",
+      "Score": 8,
+      "Time": "98:42"
+    },
+    {
+      "Name": "[Monolith] Cirlex",
+      "Steam": "76561199820201403",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Uarebad1",
+      "Steam": "76561198737190518",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ribrik",
+      "Steam": "76561199501679623",
+      "Score": 4,
+      "Time": "294:40"
+    },
+    {
+      "Name": "GRAY",
+      "Steam": "76561198770560029",
+      "Score": 7,
+      "Time": "242:39"
+    }
+  ]
 }
