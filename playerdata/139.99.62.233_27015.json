@@ -1,17 +1,29 @@
 {
-  "Time": "2026-03-12T13:57:26.3820426Z",
+  "Time": "2026-03-12T13:59:26.3851939Z",
   "Players": [
     {
       "Name": "Arterra",
       "Steam": "76561198011549867",
-      "Score": 0,
-      "Time": "00:44"
+      "Score": 2,
+      "Time": "02:44"
+    },
+    {
+      "Name": "@UR4 | unfriendly gaten",
+      "Steam": "76561198791732336",
+      "Score": 4,
+      "Time": "00:42"
     },
     {
       "Name": "kifal54961",
       "Steam": "76561198768795315",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "kongyan",
+      "Steam": "76561198124032291",
+      "Score": 0,
+      "Time": "01:51"
     }
   ]
 }
