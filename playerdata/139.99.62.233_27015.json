@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-12T08:55:26.3882563Z",
+  "Time": "2026-03-12T08:57:26.3843035Z",
   "Players": [
     {
       "Name": "lolita",
       "Steam": "76561199579674989",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "xyy",
       "Steam": "76561198742439921",
-      "Score": 88,
-      "Time": "44:27"
+      "Score": 90,
+      "Time": "46:27"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 15,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Kaidou",
       "Steam": "76561198744018928",
-      "Score": 68,
-      "Time": "91:31"
+      "Score": 75,
+      "Time": "93:31"
     },
     {
       "Name": "AURA | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 81,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "\uE810",
       "Steam": "76561199704074879",
       "Score": 26,
-      "Time": "11:43"
+      "Time": "13:43"
+    },
+    {
+      "Name": "i74ui",
+      "Steam": "76561198737786610",
+      "Score": 1,
+      "Time": "00:36"
     }
   ]
 }
