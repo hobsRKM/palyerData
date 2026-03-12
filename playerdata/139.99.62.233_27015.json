@@ -1,29 +1,29 @@
 {
-  "Time": "2026-03-12T10:15:26.388601Z",
+  "Time": "2026-03-12T10:17:26.3812589Z",
   "Players": [
     {
       "Name": "Jeff",
       "Steam": "76561198011549867",
-      "Score": 0,
-      "Time": "14:00"
+      "Score": 6,
+      "Time": "16:00"
     },
     {
       "Name": "silvermaia61016",
       "Steam": "76561199711751918",
-      "Score": 15,
-      "Time": "48:00"
+      "Score": 17,
+      "Time": "50:00"
     },
     {
       "Name": "Halotestin",
       "Steam": "76561198899741020",
-      "Score": 27,
-      "Time": "25:59"
+      "Score": 28,
+      "Time": "27:59"
     },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 125,
-      "Time": "54:58"
+      "Score": 131,
+      "Time": "56:58"
     },
     {
       "Name": "Bob Ross",
@@ -35,13 +35,13 @@
       "Name": "Yyeclax",
       "Steam": "76561199804415761",
       "Score": 33,
-      "Time": "03:46"
+      "Time": "05:46"
     },
     {
       "Name": "kongyan",
       "Steam": "76561198124032291",
-      "Score": 32,
-      "Time": "61:07"
+      "Score": 46,
+      "Time": "63:07"
     }
   ]
 }
