@@ -1,41 +1,53 @@
 {
-  "Time": "2026-03-12T08:27:26.3850264Z",
+  "Time": "2026-03-12T08:29:26.389947Z",
   "Players": [
     {
       "Name": "lolita",
       "Steam": "76561199579674989",
-      "Score": 0,
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "无名洺",
+      "Steam": "76561198759328770",
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "xyy",
       "Steam": "76561198742439921",
-      "Score": 0,
-      "Time": "16:27"
+      "Score": 8,
+      "Time": "18:27"
     },
     {
       "Name": "silvermaia61016",
       "Steam": "76561199711751918",
-      "Score": 0,
-      "Time": "78:39"
+      "Score": 2,
+      "Time": "80:39"
     },
     {
       "Name": "waguri",
       "Steam": "76561198793024178",
-      "Score": 0,
-      "Time": "65:25"
+      "Score": 4,
+      "Time": "67:25"
     },
     {
       "Name": "Kaidou",
       "Steam": "76561198744018928",
       "Score": 0,
-      "Time": "63:31"
+      "Time": "65:31"
     },
     {
-      "Name": "[AURA] | unfriendly gaten",
+      "Name": "A#RA | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "s6a39s9xxx",
+      "Steam": "76561198727260207",
+      "Score": 0,
+      "Time": "01:29"
     }
   ]
 }
