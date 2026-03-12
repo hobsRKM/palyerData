@@ -1,9 +1,15 @@
 {
-  "Time": "2026-03-12T12:50:55.2137379Z",
+  "Time": "2026-03-12T12:52:55.2210786Z",
   "Players": [
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NAVI | Qserqx",
+      "Steam": "76561199610501257",
       "Score": 0,
       "Time": "??:??"
     },
@@ -17,42 +23,30 @@
       "Name": "desync daddy",
       "Steam": "76561198376802362",
       "Score": 0,
-      "Time": "01:40"
+      "Time": "03:40"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 14,
-      "Time": "40:49"
+      "Score": 4,
+      "Time": "42:49"
     },
     {
       "Name": "Azad",
       "Steam": "76561197963250432",
-      "Score": 74,
-      "Time": "15:54"
-    },
-    {
-      "Name": "lolololol96",
-      "Steam": "76561199030703057",
-      "Score": 27,
-      "Time": "??:??"
+      "Score": 10,
+      "Time": "17:54"
     },
     {
       "Name": "broskiboss",
       "Steam": "76561199588965100",
       "Score": 0,
-      "Time": "00:41"
+      "Time": "02:41"
     },
     {
       "Name": "luvii",
       "Steam": "76561198339966370",
-      "Score": 42,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Ciro",
-      "Steam": "76561198829311482",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -64,7 +58,7 @@
     {
       "Name": "JABRA",
       "Steam": "76561199016162367",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
