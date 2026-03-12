@@ -1,58 +1,64 @@
 {
-  "Time": "2026-03-12T08:23:26.3825516Z",
+  "Time": "2026-03-12T08:25:26.3921154Z",
   "Players": [
     {
       "Name": "lolita",
       "Steam": "76561199579674989",
-      "Score": 6,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zhouzhou",
+      "Steam": "76561198759328770",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "xyy",
       "Steam": "76561198742439921",
-      "Score": 32,
-      "Time": "12:27"
+      "Score": 41,
+      "Time": "14:27"
     },
     {
       "Name": "silvermaia61016",
       "Steam": "76561199711751918",
-      "Score": 88,
-      "Time": "74:39"
+      "Score": 98,
+      "Time": "76:39"
     },
     {
       "Name": "Halotestin",
       "Steam": "76561198899741020",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "waguri",
       "Steam": "76561198793024178",
-      "Score": 35,
-      "Time": "61:25"
+      "Score": 37,
+      "Time": "63:25"
     },
     {
       "Name": "Kaidou",
       "Steam": "76561198744018928",
-      "Score": 84,
-      "Time": "59:31"
+      "Score": 92,
+      "Time": "61:31"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 23,
-      "Time": "12:13"
+      "Score": 30,
+      "Time": "14:13"
     },
     {
       "Name": "AURA | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 56,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "s6a39s9xxx",
       "Steam": "76561198727260207",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
