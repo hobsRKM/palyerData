@@ -1,40 +1,52 @@
 {
-  "Time": "2026-03-12T14:48:58.1602655Z",
+  "Time": "2026-03-12T14:50:58.2589Z",
   "Players": [
+    {
+      "Name": "G>A",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "01:18"
+    },
     {
       "Name": "~Makufka~",
       "Steam": "76561199807586167",
       "Score": 0,
-      "Time": "76:28"
+      "Time": "78:28"
     },
     {
       "Name": "SliskoL",
       "Steam": "76561198745723178",
       "Score": 20,
-      "Time": "78:48"
+      "Time": "80:48"
     },
     {
       "Name": "Mrizya",
       "Steam": "76561198727722246",
-      "Score": 4,
-      "Time": "100:04"
+      "Score": 8,
+      "Time": "102:04"
+    },
+    {
+      "Name": "fanta",
+      "Steam": "76561198728121492",
+      "Score": 0,
+      "Time": "00:05"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 49,
-      "Time": "12:14"
+      "Score": 53,
+      "Time": "14:14"
     },
     {
       "Name": "Снежок залупный",
       "Steam": "76561199558524448",
-      "Score": 15,
-      "Time": "32:46"
+      "Score": 25,
+      "Time": "34:46"
     },
     {
       "Name": "KFC TESTER",
       "Steam": "76561198734030275",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
@@ -46,14 +58,14 @@
     {
       "Name": "\uD835\uDC0C\uD835\uDFCF\uD835\uDC11\uD835\uDC2D\uD835\uDC22\uD835\uDC0D\uD835\uDFD2\uD835\uDC28",
       "Steam": "76561198794087367",
-      "Score": 16,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Flaming_Yeti",
       "Steam": "76561198010596227",
-      "Score": 16,
-      "Time": "27:12"
+      "Score": 29,
+      "Time": "29:12"
     }
   ]
 }
