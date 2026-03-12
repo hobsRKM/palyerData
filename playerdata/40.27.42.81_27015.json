@@ -1,34 +1,40 @@
 {
-  "Time": "2026-03-12T11:08:43.5692816Z",
+  "Time": "2026-03-12T11:10:43.5657925Z",
   "Players": [
+    {
+      "Name": "talk 2 me nice 2016",
+      "Steam": "76561198213922667",
+      "Score": 0,
+      "Time": "01:34"
+    },
     {
       "Name": "catboy?",
       "Steam": "76561199142849496",
-      "Score": 37,
-      "Time": "07:20"
+      "Score": 43,
+      "Time": "09:20"
     },
     {
       "Name": "lost",
       "Steam": "76561198727927897",
-      "Score": 3,
-      "Time": "31:55"
+      "Score": 7,
+      "Time": "33:55"
     },
     {
       "Name": "Jynxzi (real) SKINS",
       "Steam": "76561198754022665",
-      "Score": 20,
-      "Time": "24:23"
+      "Score": 22,
+      "Time": "26:23"
     },
     {
       "Name": "BeTa tester",
       "Steam": "76561198727335656",
-      "Score": 17,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Rainbow Lizard",
       "Steam": "76561198047396856",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
