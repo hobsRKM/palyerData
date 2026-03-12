@@ -1,40 +1,52 @@
 {
-  "Time": "2026-03-12T12:55:26.3815723Z",
+  "Time": "2026-03-12T12:57:26.3875594Z",
   "Players": [
+    {
+      "Name": "Arterra",
+      "Steam": "76561198011549867",
+      "Score": 0,
+      "Time": "01:16"
+    },
     {
       "Name": "qwerty",
       "Steam": "76561199579674989",
-      "Score": 28,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
       "Score": 49,
-      "Time": "17:56"
+      "Time": "19:56"
     },
     {
       "Name": "kifal54961",
       "Steam": "76561198768795315",
       "Score": 0,
-      "Time": "71:48"
+      "Time": "73:48"
     },
     {
       "Name": "kongyan",
       "Steam": "76561198124032291",
-      "Score": 39,
-      "Time": "53:08"
+      "Score": 47,
+      "Time": "55:08"
+    },
+    {
+      "Name": "Remember",
+      "Steam": "76561199107271518",
+      "Score": 0,
+      "Time": "00:46"
     },
     {
       "Name": "test67",
       "Steam": "76561198732309387",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "te25630031COD16",
       "Steam": "76561199697041285",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
