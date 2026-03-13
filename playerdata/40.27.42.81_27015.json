@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-13T03:42:49.8257217Z",
+  "Time": "2026-03-13T03:44:49.8161401Z",
   "Players": [
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 14,
-      "Time": "02:23"
+      "Score": 18,
+      "Time": "04:23"
+    },
+    {
+      "Name": "angel",
+      "Steam": "76561199798812373",
+      "Score": 0,
+      "Time": "00:56"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 48,
-      "Time": "314:15"
+      "Score": 56,
+      "Time": "316:15"
     },
     {
       "Name": "I know",
       "Steam": "76561198743276299",
-      "Score": 0,
-      "Time": "88:14"
+      "Score": 6,
+      "Time": "90:14"
     },
     {
       "Name": "u_u",
       "Steam": "76561199792464561",
-      "Score": 18,
-      "Time": "08:46"
+      "Score": 31,
+      "Time": "10:46"
     },
     {
       "Name": "Nipple Deceiver",
       "Steam": "76561198741458634",
-      "Score": 101,
-      "Time": "88:56"
+      "Score": 109,
+      "Time": "90:56"
     },
     {
       "Name": "merkish (refined shooter)",
@@ -40,14 +46,14 @@
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 63,
-      "Time": "10:36"
+      "Score": 67,
+      "Time": "12:36"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 51,
-      "Time": "18:58"
+      "Score": 58,
+      "Time": "20:58"
     },
     {
       "Name": "lookclean",
@@ -58,14 +64,8 @@
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 29,
+      "Score": 37,
       "Time": "??:??"
-    },
-    {
-      "Name": "Yakub",
-      "Steam": "76561199594039131",
-      "Score": 77,
-      "Time": "96:54"
     }
   ]
 }
