@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-13T17:42:55.4501723Z",
+  "Time": "2026-03-13T17:44:55.4751038Z",
   "Players": [
+    {
+      "Name": "AURA | ประยุธ Prayut",
+      "Steam": "76561198769624311",
+      "Score": 2,
+      "Time": "00:45"
+    },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 0,
-      "Time": "09:48"
+      "Score": 10,
+      "Time": "11:49"
     },
     {
       "Name": "L",
       "Steam": "76561199816299279",
-      "Score": 10,
-      "Time": "28:46"
+      "Score": 3,
+      "Time": "30:46"
     },
     {
       "Name": "\uD835\uDC77\uD835\uDC79\uD835\uDC76\uD835\uDC74\uD835\uDC6C\uD835\uDC70\uD835\uDC68",
       "Steam": "76561198285997263",
-      "Score": 22,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "AURA | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 34,
-      "Time": "53:03"
+      "Score": 37,
+      "Time": "55:03"
     },
     {
       "Name": "Remember",
       "Steam": "76561199107271518",
-      "Score": 4,
-      "Time": "03:40"
+      "Score": 9,
+      "Time": "05:40"
     }
   ]
 }
