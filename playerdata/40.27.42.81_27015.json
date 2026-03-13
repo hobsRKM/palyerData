@@ -1,65 +1,71 @@
 {
-  "Time": "2026-03-13T04:02:49.8210562Z",
+  "Time": "2026-03-13T04:04:49.8126897Z",
   "Players": [
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 0,
+      "Time": "01:45"
+    },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
       "Score": 24,
-      "Time": "09:42"
+      "Time": "11:42"
     },
     {
       "Name": "dvck ♡",
       "Steam": "76561198394016055",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "I know",
       "Steam": "76561198743276299",
-      "Score": 29,
-      "Time": "10:13"
+      "Score": 33,
+      "Time": "12:13"
     },
     {
       "Name": "u_u",
       "Steam": "76561199792464561",
-      "Score": 58,
-      "Time": "28:46"
+      "Score": 69,
+      "Time": "30:46"
     },
     {
       "Name": "koneko",
       "Steam": "76561198734736041",
-      "Score": 48,
-      "Time": "12:48"
+      "Score": 58,
+      "Time": "14:48"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
       "Score": 0,
-      "Time": "38:58"
+      "Time": "40:58"
     },
     {
       "Name": "lookclean",
       "Steam": "76561199830518638",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "big$",
       "Steam": "76561199757543292",
-      "Score": 16,
-      "Time": "14:14"
+      "Score": 18,
+      "Time": "16:14"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "РЕвил",
       "Steam": "76561199879278982",
-      "Score": 29,
-      "Time": "15:59"
+      "Score": 31,
+      "Time": "17:59"
     }
   ]
 }
