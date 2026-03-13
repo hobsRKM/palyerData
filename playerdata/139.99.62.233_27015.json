@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-13T08:28:54.4727209Z",
+  "Time": "2026-03-13T08:30:54.4754536Z",
   "Players": [
+    {
+      "Name": "test67",
+      "Steam": "76561198732309387",
+      "Score": 0,
+      "Time": "00:49"
+    },
     {
       "Name": "AURA | unfriendly gaten",
       "Steam": "76561198791732336",
@@ -10,7 +16,7 @@
     {
       "Name": "undetek.com free hack top 1",
       "Steam": "76561199615133670",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
