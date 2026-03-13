@@ -1,11 +1,17 @@
 {
-  "Time": "2026-03-13T17:32:55.343833Z",
+  "Time": "2026-03-13T17:34:55.3713513Z",
   "Players": [
+    {
+      "Name": "skateboard cow",
+      "Steam": "76561199582103015",
+      "Score": 0,
+      "Time": "01:48"
+    },
     {
       "Name": "L",
       "Steam": "76561199816299279",
-      "Score": 20,
-      "Time": "18:46"
+      "Score": 0,
+      "Time": "20:46"
     },
     {
       "Name": "翻斗花园牛爷爷",
@@ -16,26 +22,20 @@
     {
       "Name": "\uD835\uDC77\uD835\uDC79\uD835\uDC76\uD835\uDC74\uD835\uDC6C\uD835\uDC70\uD835\uDC68",
       "Steam": "76561198285997263",
-      "Score": 14,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "AURA | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 109,
-      "Time": "43:03"
+      "Score": 0,
+      "Time": "45:03"
     },
     {
       "Name": "Remember",
       "Steam": "76561199107271518",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "Uncle Ben",
-      "Steam": "76561199790093289",
-      "Score": 2,
-      "Time": "05:14"
     }
   ]
 }
