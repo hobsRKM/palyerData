@@ -1,58 +1,64 @@
 {
-  "Time": "2026-03-13T04:22:49.8208167Z",
+  "Time": "2026-03-13T04:24:49.8193549Z",
   "Players": [
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 3,
+      "Time": "02:03"
+    },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "wock",
       "Steam": "76561198864793756",
       "Score": 34,
-      "Time": "11:41"
+      "Time": "13:41"
     },
     {
       "Name": "I know",
       "Steam": "76561198743276299",
-      "Score": 15,
-      "Time": "30:13"
+      "Score": 19,
+      "Time": "32:13"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
       "Score": 2,
-      "Time": "05:17"
+      "Time": "07:17"
     },
     {
       "Name": "Hahahahaha.",
       "Steam": "76561198336975870",
-      "Score": 5,
-      "Time": "171:09"
+      "Score": 13,
+      "Time": "173:09"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 22,
-      "Time": "58:58"
+      "Score": 23,
+      "Time": "60:58"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 4,
-      "Time": "12:04"
+      "Score": 8,
+      "Time": "14:04"
     },
     {
       "Name": "Thickgga",
       "Steam": "76561199868423916",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "lookclean",
       "Steam": "76561199830518638",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -64,26 +70,26 @@
     {
       "Name": "cats",
       "Steam": "76561198074792700",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "big$",
       "Steam": "76561199757543292",
-      "Score": 0,
-      "Time": "34:14"
+      "Score": 8,
+      "Time": "36:14"
+    },
+    {
+      "Name": "ahahahaha",
+      "Steam": "76561198728940041",
+      "Score": 6,
+      "Time": "508:46"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 24,
-      "Time": "117:04"
-    },
-    {
-      "Name": "vgk horse",
-      "Steam": "76561199826900738",
-      "Score": 31,
-      "Time": "200:23"
+      "Score": 28,
+      "Time": "119:04"
     },
     {
       "Name": "static",
@@ -94,8 +100,8 @@
     {
       "Name": "РЕвил",
       "Steam": "76561199879278982",
-      "Score": 16,
-      "Time": "35:59"
+      "Score": 22,
+      "Time": "37:59"
     }
   ]
 }
