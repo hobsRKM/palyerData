@@ -1,9 +1,15 @@
 {
-  "Time": "2026-03-13T11:04:42.4752918Z",
+  "Time": "2026-03-13T11:06:42.4785358Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Brian Moser",
+      "Steam": "76561198753644032",
       "Score": 0,
       "Time": "??:??"
     },
@@ -16,43 +22,31 @@
     {
       "Name": "aziz",
       "Steam": "76561199183131013",
-      "Score": 0,
-      "Time": "54:26"
+      "Score": 2,
+      "Time": "56:26"
     },
     {
       "Name": "a",
       "Steam": "76561199571154189",
-      "Score": 83,
+      "Score": 103,
       "Time": "??:??"
     },
     {
       "Name": "luger",
       "Steam": "76561198728727173",
-      "Score": 14,
-      "Time": "05:43"
+      "Score": 28,
+      "Time": "07:43"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 30,
-      "Time": "40:36"
-    },
-    {
-      "Name": "Jugga™",
-      "Steam": "76561198757197656",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 1,
+      "Time": "42:36"
     },
     {
       "Name": "desync daddy",
       "Steam": "76561198376802362",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "WizzHost",
-      "Steam": "76561198755620009",
-      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -62,8 +56,8 @@
       "Time": "??:??"
     },
     {
-      "Name": "Jugga is gay",
-      "Steam": "76561199868757852",
+      "Name": "@discord.gg/parkercantt",
+      "Steam": "76561198737187778",
       "Score": 0,
       "Time": "??:??"
     }
