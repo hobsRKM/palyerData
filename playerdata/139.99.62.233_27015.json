@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-13T11:54:54.6753873Z",
+  "Time": "2026-03-13T11:56:54.6953962Z",
   "Players": [
+    {
+      "Name": "kifal54961",
+      "Steam": "76561198768795315",
+      "Score": 0,
+      "Time": "01:25"
+    },
     {
       "Name": "esther luv tea",
       "Steam": "76561198124032291",
-      "Score": 13,
-      "Time": "117:56"
+      "Score": 6,
+      "Time": "119:56"
     },
     {
       "Name": "ประยุธ Prayut",
       "Steam": "76561198769624311",
       "Score": 0,
-      "Time": "181:02"
+      "Time": "183:02"
     },
     {
       "Name": "noname",
       "Steam": "76561198800250172",
-      "Score": 62,
-      "Time": "44:30"
+      "Score": 65,
+      "Time": "46:30"
     },
     {
       "Name": "nikk 1337",
       "Steam": "76561199545705485",
-      "Score": 9,
-      "Time": "34:55"
+      "Score": 15,
+      "Time": "36:55"
     },
     {
       "Name": "Cappuccino",
@@ -34,14 +40,20 @@
     {
       "Name": "Remember",
       "Steam": "76561199107271518",
-      "Score": 7,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "[Monolith] yen",
+      "Name": "[343] yen",
       "Steam": "76561199693252775",
-      "Score": 20,
-      "Time": "02:21"
+      "Score": 18,
+      "Time": "01:20"
+    },
+    {
+      "Name": "xyy",
+      "Steam": "76561198742439921",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
