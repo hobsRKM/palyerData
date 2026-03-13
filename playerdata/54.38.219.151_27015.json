@@ -1,9 +1,15 @@
 {
-  "Time": "2026-03-13T12:10:42.4753651Z",
+  "Time": "2026-03-13T12:12:42.4748934Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Headshot",
+      "Steam": "76561199822726468",
       "Score": 0,
       "Time": "??:??"
     },
@@ -16,14 +22,14 @@
     {
       "Name": "76561199864981033",
       "Steam": "76561199864981033",
-      "Score": 58,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "aziz",
       "Steam": "76561199183131013",
-      "Score": 84,
-      "Time": "120:26"
+      "Score": 88,
+      "Time": "122:26"
     },
     {
       "Name": "nessie",
@@ -34,13 +40,19 @@
     {
       "Name": "amk",
       "Steam": "76561198894387375",
-      "Score": 12,
-      "Time": "02:37"
+      "Score": 30,
+      "Time": "04:37"
     },
     {
       "Name": "~Makufka~",
       "Steam": "76561199807586167",
-      "Score": 40,
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "broskiboss",
+      "Steam": "76561199588965100",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -52,26 +64,26 @@
     {
       "Name": "King",
       "Steam": "76561199145129763",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "vance",
       "Steam": "76561199889697498",
-      "Score": 5,
-      "Time": "03:08"
+      "Score": 9,
+      "Time": "05:08"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 64,
-      "Time": "06:09"
+      "Score": 2,
+      "Time": "08:09"
     },
     {
       "Name": "@discord.gg/parkercantt",
       "Steam": "76561198737187778",
       "Score": 2,
-      "Time": "06:13"
+      "Time": "08:13"
     }
   ]
 }
