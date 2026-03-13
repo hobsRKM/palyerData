@@ -1,22 +1,34 @@
 {
-  "Time": "2026-03-13T10:18:41.8134786Z",
+  "Time": "2026-03-13T10:20:41.8178776Z",
   "Players": [
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199856878709",
-      "Score": 54,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "koneko",
       "Steam": "76561198734736041",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
+    },
+    {
+      "Name": "2022",
+      "Steam": "76561198213922667",
+      "Score": 0,
+      "Time": "00:43"
     },
     {
       "Name": "NoName",
       "Steam": "76561199791845977",
-      "Score": 2,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Projecki",
+      "Steam": "76561198044491949",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
