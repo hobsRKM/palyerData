@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-14T14:26:53.0414824Z",
+  "Time": "2026-03-14T14:28:53.0742639Z",
   "Players": [
+    {
+      "Name": "skateboard cow",
+      "Steam": "76561199582103015",
+      "Score": 2,
+      "Time": "00:05"
+    },
     {
       "Name": "kifal54961",
       "Steam": "76561198768795315",
-      "Score": 12,
-      "Time": "53:11"
+      "Score": 13,
+      "Time": "55:11"
     },
     {
       "Name": "76561199192685032",
       "Steam": "76561199192685032",
-      "Score": 1,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "drama llama",
       "Steam": "76561199579674989",
-      "Score": 63,
-      "Time": "29:59"
+      "Score": 66,
+      "Time": "31:59"
     },
     {
       "Name": "noname",
       "Steam": "76561198800250172",
-      "Score": 99,
-      "Time": "74:52"
+      "Score": 105,
+      "Time": "76:52"
     },
     {
       "Name": "esther luv tea",
       "Steam": "76561198124032291",
-      "Score": 60,
-      "Time": "51:12"
+      "Score": 65,
+      "Time": "53:12"
     },
     {
       "Name": "ประยุธ Prayut",
       "Steam": "76561198769624311",
-      "Score": 10,
-      "Time": "45:10"
+      "Score": 14,
+      "Time": "47:10"
     }
   ]
 }
