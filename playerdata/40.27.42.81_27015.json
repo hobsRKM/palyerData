@@ -1,47 +1,53 @@
 {
-  "Time": "2026-03-14T08:44:53.3855529Z",
+  "Time": "2026-03-14T08:46:54.6005579Z",
   "Players": [
     {
       "Name": "【Adam】",
       "Steam": "76561198261709145",
-      "Score": 10,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "golem",
+      "Steam": "76561197963966623",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC73\uDB40\uDC73⁧⁧\u1CBC\uDB40\uDC73\uDB40\uDC7342amps",
       "Steam": "76561198143893089",
       "Score": 2,
-      "Time": "33:37"
+      "Time": "35:38"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 51,
-      "Time": "46:54"
+      "Score": 55,
+      "Time": "48:55"
     },
     {
       "Name": "Jmyxx1",
       "Steam": "76561199516447094",
-      "Score": 32,
-      "Time": "77:10"
+      "Score": 34,
+      "Time": "79:12"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 26,
-      "Time": "60:12"
+      "Score": 30,
+      "Time": "62:13"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 16,
-      "Time": "203:46"
+      "Score": 18,
+      "Time": "205:48"
     },
     {
       "Name": "rain | NL",
       "Steam": "76561199847868570",
       "Score": 2,
-      "Time": "215:41"
+      "Time": "217:42"
     }
   ]
 }
