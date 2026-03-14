@@ -1,35 +1,71 @@
 {
-  "Time": "2026-03-14T08:02:53.2981132Z",
+  "Time": "2026-03-14T08:04:53.3009674Z",
   "Players": [
     {
       "Name": "ahahahaha",
       "Steam": "76561198728940041",
+      "Score": 1,
+      "Time": "00:54"
+    },
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199031753721",
       "Score": 0,
-      "Time": "01:02"
+      "Time": "00:33"
+    },
+    {
+      "Name": "Cookie",
+      "Steam": "76561199652410817",
+      "Score": 0,
+      "Time": "00:57"
+    },
+    {
+      "Name": "creamcheese835",
+      "Steam": "76561199856027303",
+      "Score": 0,
+      "Time": "179:17"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 27,
-      "Time": "04:53"
+      "Score": 29,
+      "Time": "06:53"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 0,
+      "Time": "01:14"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 8,
+      "Time": "01:36"
     },
     {
       "Name": "Jmyxx1",
       "Steam": "76561199516447094",
-      "Score": 18,
-      "Time": "35:10"
+      "Score": 0,
+      "Time": "37:10"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 26,
-      "Time": "18:12"
+      "Score": 28,
+      "Time": "20:12"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 26,
-      "Time": "161:46"
+      "Score": 34,
+      "Time": "163:46"
+    },
+    {
+      "Name": "rain | NL",
+      "Steam": "76561199847868570",
+      "Score": 0,
+      "Time": "175:41"
     }
   ]
 }
