@@ -1,46 +1,52 @@
 {
-  "Time": "2026-03-14T06:44:53.294936Z",
+  "Time": "2026-03-14T06:46:53.294623Z",
   "Players": [
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "metro",
+      "Steam": "76561199007818126",
+      "Score": 2,
+      "Time": "01:35"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 19,
-      "Time": "03:00"
+      "Score": 27,
+      "Time": "05:00"
     },
     {
-      "Name": "樱岛麻衣",
-      "Steam": "76561198772659643",
-      "Score": 14,
-      "Time": "15:10"
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 1,
+      "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199031753721",
-      "Score": 66,
-      "Time": "15:44"
+      "Score": 74,
+      "Time": "17:44"
     },
     {
       "Name": "gingerbreadman102",
       "Steam": "76561198791541733",
-      "Score": 0,
-      "Time": "43:46"
+      "Score": 14,
+      "Time": "45:46"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 61,
-      "Time": "306:51"
+      "Score": 65,
+      "Time": "308:51"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199132588915",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     }
   ]
