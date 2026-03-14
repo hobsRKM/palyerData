@@ -1,40 +1,52 @@
 {
-  "Time": "2026-03-14T19:24:40.323368Z",
+  "Time": "2026-03-14T19:25:05.1275786Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Shin",
+      "Steam": "76561198078599607",
+      "Score": 22,
+      "Time": "14:19"
+    },
+    {
+      "Name": "Waze",
+      "Steam": "76561198218118791",
+      "Score": 49,
+      "Time": "19:19"
+    },
+    {
+      "Name": "G>A",
+      "Steam": "76561199647822907",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Supernatural",
-      "Steam": "76561198749149649",
-      "Score": 8,
+      "Name": "AJ",
+      "Steam": "76561199543202791",
+      "Score": 33,
+      "Time": "07:53"
+    },
+    {
+      "Name": "CXClez",
+      "Steam": "76561198728486362",
+      "Score": 12,
+      "Time": "14:47"
+    },
+    {
+      "Name": "angel",
+      "Steam": "76561199798812373",
+      "Score": 11,
       "Time": "??:??"
     },
     {
-      "Name": "\uD835\uDCDF\uD835\uDCED\uD835\uDCFB\uD835\uDCF2\uD835\uDCF5\uD835\uDCF5\uD835\uDCEA\uD835\uDCFC",
-      "Steam": "76561198729800346",
-      "Score": 5,
-      "Time": "??:??"
-    },
-    {
-      "Name": "shorup",
-      "Steam": "76561198731258766",
+      "Name": "Гипер мега лох",
+      "Steam": "76561198315401281",
       "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "myaii",
-      "Steam": "76561198780522773",
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "carried by luck umad",
-      "Steam": "76561199846338954",
-      "Score": 27,
       "Time": "??:??"
     }
   ]
