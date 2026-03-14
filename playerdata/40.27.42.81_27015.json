@@ -1,40 +1,46 @@
 {
-  "Time": "2026-03-14T17:24:49.6473389Z",
+  "Time": "2026-03-14T17:26:49.6609384Z",
   "Players": [
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 0,
+      "Time": "00:30"
+    },
     {
       "Name": "aly's kitten",
       "Steam": "76561198748298375",
-      "Score": 11,
-      "Time": "16:23"
-    },
-    {
-      "Name": "supremacy",
-      "Steam": "76561198763517260",
-      "Score": 29,
-      "Time": "39:34"
+      "Score": 15,
+      "Time": "18:23"
     },
     {
       "Name": "1",
       "Steam": "76561198735464663",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "@_@",
       "Steam": "76561199792464561",
-      "Score": 35,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "larp # .gg/cshvh",
       "Steam": "76561198735416267",
-      "Score": 1,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "decode1337",
       "Steam": "76561199803595505",
-      "Score": 31,
+      "Score": 41,
+      "Time": "??:??"
+    },
+    {
+      "Name": "shxrng",
+      "Steam": "76561199158419168",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
