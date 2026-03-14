@@ -1,35 +1,47 @@
 {
-  "Time": "2026-03-14T13:35:00.7501722Z",
+  "Time": "2026-03-14T13:37:00.7639637Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "220:48"
+      "Time": "222:48"
+    },
+    {
+      "Name": "☆ Missed due to hitbox error",
+      "Steam": "76561199849665654",
+      "Score": 0,
+      "Time": "00:46"
     },
     {
       "Name": "Trionxs",
       "Steam": "76561199040781865",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ᵏᵒᵖᶠᵗʳᶦᵗᵗClean",
       "Steam": "76561198794411072",
-      "Score": 96,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "BunnyHVH",
       "Steam": "76561199541887306",
-      "Score": 43,
-      "Time": "96:58"
+      "Score": 0,
+      "Time": "98:58"
     },
     {
       "Name": "orospu çocuğu",
       "Steam": "76561199492563531",
-      "Score": 81,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "z1R0",
+      "Steam": "76561199874363237",
+      "Score": 0,
+      "Time": "00:06"
     }
   ]
 }
