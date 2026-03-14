@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-14T13:55:00.7626785Z",
+  "Time": "2026-03-14T13:57:00.7526478Z",
   "Players": [
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "240:48"
+      "Time": "242:48"
+    },
+    {
+      "Name": "Trionxs",
+      "Steam": "76561199040781865",
+      "Score": 49,
+      "Time": "00:59"
     },
     {
       "Name": "orospu çocuğu",
       "Steam": "76561199492563531",
-      "Score": 70,
+      "Score": 80,
       "Time": "??:??"
     },
     {
-      "Name": "fatality.w z 1337",
+      "Name": "fata z 1337",
       "Steam": "76561199103153074",
-      "Score": 20,
-      "Time": "14:08"
+      "Score": 22,
+      "Time": "16:08"
     },
     {
       "Name": "Goatis",
       "Steam": "76561199888214382",
-      "Score": 30,
-      "Time": "10:10"
+      "Score": 34,
+      "Time": "12:10"
     }
   ]
 }
