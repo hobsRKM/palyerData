@@ -1,4 +1,29 @@
 {
-  "Time": "2026-03-14T17:06:40.3246572Z",
-  "Players": []
+  "Time": "2026-03-14T17:07:05.1221798Z",
+  "Players": [
+    {
+      "Name": "G>A",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "06:30"
+    },
+    {
+      "Name": "Supernatural",
+      "Steam": "76561198749149649",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "terrormachine",
+      "Steam": "76561198748418878",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jealousy",
+      "Steam": "76561197990765138",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
