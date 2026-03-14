@@ -1,35 +1,35 @@
 {
-  "Time": "2026-03-14T09:40:54.6734732Z",
+  "Time": "2026-03-14T09:42:54.6907305Z",
   "Players": [
+    {
+      "Name": "Michael Brian Vanbibber",
+      "Steam": "76561199755327417",
+      "Score": 0,
+      "Time": "00:41"
+    },
     {
       "Name": "GS",
       "Steam": "76561198741458634",
-      "Score": 21,
-      "Time": "31:01"
+      "Score": 0,
+      "Time": "33:01"
     },
     {
       "Name": "golem",
       "Steam": "76561197963966623",
-      "Score": 5,
-      "Time": "43:12"
-    },
-    {
-      "Name": "?okt",
-      "Steam": "76561199837364437",
-      "Score": 114,
-      "Time": "??:??"
+      "Score": 7,
+      "Time": "45:12"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 25,
-      "Time": "259:48"
+      "Time": "261:48"
     },
     {
       "Name": "ava <3",
       "Steam": "76561198727072895",
-      "Score": 58,
-      "Time": "25:04"
+      "Score": 62,
+      "Time": "27:04"
     }
   ]
 }
