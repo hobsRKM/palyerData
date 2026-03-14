@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-14T21:56:49.6590665Z",
+  "Time": "2026-03-14T21:58:49.6524522Z",
   "Players": [
+    {
+      "Name": "S1mple",
+      "Steam": "76561198734909005",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "MyNameIsAimmyAI",
       "Steam": "76561199371057177",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "nonagon user",
       "Steam": "76561198737175167",
-      "Score": 10,
-      "Time": "10:06"
+      "Score": 18,
+      "Time": "12:06"
     },
     {
       "Name": "Accelerationist",
       "Steam": "76561198996981941",
-      "Score": 42,
-      "Time": "10:21"
+      "Score": 44,
+      "Time": "12:21"
     },
     {
       "Name": "rain | NL",
@@ -28,32 +34,32 @@
     {
       "Name": "why bully me",
       "Steam": "76561199711727600",
-      "Score": 50,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 36,
-      "Time": "30:49"
+      "Score": 38,
+      "Time": "32:49"
     },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 29,
-      "Time": "07:05"
+      "Score": 35,
+      "Time": "09:05"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 66,
-      "Time": "53:12"
+      "Score": 68,
+      "Time": "55:12"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 19,
-      "Time": "114:14"
+      "Score": 29,
+      "Time": "116:14"
     }
   ]
 }
