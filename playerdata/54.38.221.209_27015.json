@@ -1,39 +1,57 @@
 {
-  "Time": "2026-03-14T15:07:00.7503891Z",
+  "Time": "2026-03-14T15:09:00.7577537Z",
   "Players": [
+    {
+      "Name": "SM3RF",
+      "Steam": "76561199267532979",
+      "Score": 10,
+      "Time": "01:18"
+    },
     {
       "Name": "G>A",
       "Steam": "76561199647822907",
       "Score": 0,
-      "Time": "312:48"
+      "Time": "314:48"
     },
     {
       "Name": "413",
       "Steam": "76561199131900979",
-      "Score": 4,
-      "Time": "26:46"
+      "Score": 16,
+      "Time": "28:46"
     },
     {
       "Name": "Miku-Lover",
       "Steam": "76561199820396045",
-      "Score": 0,
-      "Time": "00:30"
+      "Score": 5,
+      "Time": "02:31"
     },
     {
       "Name": "Bean_",
       "Steam": "76561199096646407",
-      "Score": 8,
-      "Time": "197:15"
+      "Score": 16,
+      "Time": "199:15"
     },
     {
       "Name": "nem11k..?",
       "Steam": "76561199199032242",
       "Score": 0,
-      "Time": "00:11"
+      "Time": "02:11"
     },
     {
       "Name": "DragonDog",
       "Steam": "76561199132941531",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Candle",
+      "Steam": "76561199124382484",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDC7A\uD835\uDC8D\uD835\uDC86\uD835\uDC86\uD835\uDC91\uD835\uDC9A",
+      "Steam": "76561198117494404",
       "Score": 0,
       "Time": "??:??"
     }
