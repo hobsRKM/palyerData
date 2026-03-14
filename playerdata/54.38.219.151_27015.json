@@ -1,4 +1,35 @@
 {
-  "Time": "2026-03-14T07:38:40.3184295Z",
-  "Players": []
+  "Time": "2026-03-14T07:38:49.410072Z",
+  "Players": [
+    {
+      "Name": "G>A",
+      "Steam": "76561199647822907",
+      "Score": 2,
+      "Time": "65:17"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "palashjr | zewpepolar",
+      "Steam": "76561199830259691",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "OTC V3 user",
+      "Steam": "76561198733842354",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TempleWare | TempleWare",
+      "Steam": "76561199345794754",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
