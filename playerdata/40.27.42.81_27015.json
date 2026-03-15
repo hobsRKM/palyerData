@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-15T06:40:53.1779571Z",
+  "Time": "2026-03-15T06:42:53.1814622Z",
   "Players": [
+    {
+      "Name": "y",
+      "Steam": "76561199837114653",
+      "Score": 42,
+      "Time": "01:30"
+    },
     {
       "Name": "w1kcxx",
       "Steam": "76561199835126349",
       "Score": 0,
-      "Time": "02:05"
+      "Time": "04:05"
     },
     {
       "Name": "nul1ex",
       "Steam": "76561198728274003",
-      "Score": 5,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "anja",
       "Steam": "76561199559570720",
-      "Score": 26,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "Thug :D",
       "Steam": "76561198734668878",
-      "Score": 44,
-      "Time": "49:45"
+      "Score": 58,
+      "Time": "51:45"
     },
     {
       "Name": "Its always them",
       "Steam": "76561198761523544",
-      "Score": 4,
-      "Time": "01:31"
+      "Score": 6,
+      "Time": "03:31"
     },
     {
       "Name": "Sukia",
@@ -40,32 +46,26 @@
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "sphinxc!",
       "Steam": "76561198746258068",
-      "Score": 19,
-      "Time": "15:31"
+      "Score": 23,
+      "Time": "17:31"
     },
     {
       "Name": "\uD83D\uDDA4",
       "Steam": "76561198756442086",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Piggy",
-      "Steam": "76561198017435461",
-      "Score": 0,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "https://discord.gg/sofaleague",
       "Steam": "76561198791541733",
-      "Score": 80,
-      "Time": "42:28"
+      "Score": 89,
+      "Time": "44:28"
     }
   ]
 }
