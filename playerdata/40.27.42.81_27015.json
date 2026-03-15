@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-15T16:12:34.6223702Z",
+  "Time": "2026-03-15T16:14:34.6312116Z",
   "Players": [
     {
       "Name": "jake",
       "Steam": "76561198343112799",
-      "Score": 25,
-      "Time": "84:24"
+      "Score": 39,
+      "Time": "86:24"
+    },
+    {
+      "Name": "Igor Petuxov",
+      "Steam": "76561199833822026",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 41,
-      "Time": "75:28"
+      "Score": 44,
+      "Time": "77:28"
     },
     {
       "Name": "Jew Boy",
@@ -23,18 +29,24 @@
       "Name": "DXVXD",
       "Steam": "76561199442363655",
       "Score": 0,
-      "Time": "22:06"
+      "Time": "24:06"
     },
     {
       "Name": "Entertainment",
       "Steam": "76561199379573845",
-      "Score": 2,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "klsdjhfdjklgbnddfgrvbwergb",
       "Steam": "76561199826900738",
-      "Score": 29,
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "*sL | ven",
+      "Steam": "76561198041862999",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
