@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-15T05:54:49.9312797Z",
+  "Time": "2026-03-15T05:56:49.939894Z",
   "Players": [
+    {
+      "Name": "y",
+      "Steam": "76561199837114653",
+      "Score": 0,
+      "Time": "304:54"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 2,
+      "Time": "00:39"
+    },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 41,
-      "Time": "01:08"
-    },
-    {
-      "Name": "why bully me",
-      "Steam": "76561199711727600",
-      "Score": 2,
-      "Time": "280:24"
+      "Score": 46,
+      "Time": "03:08"
     },
     {
       "Name": "MACUMBINHA.COM",
       "Steam": "76561198733571896",
-      "Score": 21,
-      "Time": "09:07"
+      "Score": 26,
+      "Time": "11:07"
     },
     {
       "Name": "garry",
       "Steam": "76561199471107546",
-      "Score": 87,
-      "Time": "176:37"
+      "Score": 92,
+      "Time": "178:37"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 98,
-      "Time": "107:08"
+      "Score": 102,
+      "Time": "109:08"
     },
     {
       "Name": "Thug :D",
       "Steam": "76561198734668878",
-      "Score": 6,
-      "Time": "03:42"
+      "Score": 0,
+      "Time": "05:42"
     },
     {
       "Name": "Its always them",
@@ -44,22 +50,40 @@
       "Time": "??:??"
     },
     {
+      "Name": "cheezie",
+      "Steam": "76561198273566562",
+      "Score": 2,
+      "Time": "54:54"
+    },
+    {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 15,
-      "Time": "06:14"
+      "Score": 23,
+      "Time": "08:15"
     },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 12,
-      "Time": "09:35"
+      "Score": 20,
+      "Time": "11:35"
+    },
+    {
+      "Name": "styxisfat",
+      "Steam": "76561198725706575",
+      "Score": 8,
+      "Time": "02:03"
     },
     {
       "Name": "Mwpx",
       "Steam": "76561198774150685",
-      "Score": 23,
+      "Score": 26,
       "Time": "??:??"
+    },
+    {
+      "Name": "gangstalicious HvH KINGDOM COME",
+      "Steam": "76561198380702399",
+      "Score": 4,
+      "Time": "00:47"
     }
   ]
 }
