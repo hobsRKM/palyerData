@@ -1,41 +1,53 @@
 {
-  "Time": "2026-03-15T22:06:34.7215541Z",
+  "Time": "2026-03-15T22:08:34.710306Z",
   "Players": [
     {
       "Name": "@me",
       "Steam": "76561198728748699",
-      "Score": 21,
-      "Time": "06:03"
+      "Score": 27,
+      "Time": "08:03"
+    },
+    {
+      "Name": "樱岛麻衣",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 5,
-      "Time": "01:22"
+      "Score": 9,
+      "Time": "03:22"
+    },
+    {
+      "Name": "nonagon user",
+      "Steam": "76561198737175167",
+      "Score": 0,
+      "Time": "01:33"
     },
     {
       "Name": "No Thoughts",
       "Steam": "76561198752949729",
-      "Score": 72,
+      "Score": 78,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 10,
-      "Time": "03:25"
+      "Score": 26,
+      "Time": "05:25"
     },
     {
       "Name": "demetria",
       "Steam": "76561198068213872",
       "Score": 20,
-      "Time": "232:33"
+      "Time": "234:33"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 25,
-      "Time": "15:11"
+      "Score": 33,
+      "Time": "17:11"
     }
   ]
 }
