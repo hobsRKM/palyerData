@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-15T23:16:34.7146568Z",
+  "Time": "2026-03-15T23:18:34.7213295Z",
   "Players": [
     {
       "Name": "\uD835\uDC77\uD835\uDC79\uD835\uDC76\uD835\uDC74\uD835\uDC6C\uD835\uDC70\uD835\uDC68",
       "Steam": "76561198285997263",
       "Score": 11,
-      "Time": "62:09"
+      "Time": "64:09"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "@_@",
       "Steam": "76561199792464561",
-      "Score": 23,
-      "Time": "18:01"
+      "Score": 31,
+      "Time": "20:01"
     },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 19,
-      "Time": "11:29"
+      "Score": 21,
+      "Time": "13:29"
     },
     {
       "Name": "nonagon user",
       "Steam": "76561198737175167",
-      "Score": 4,
-      "Time": "69:33"
+      "Score": 6,
+      "Time": "71:33"
     },
     {
-      "Name": "[Mon] hypnotic",
+      "Name": "[Monolith] hypnotic",
       "Steam": "76561198350786553",
-      "Score": 2,
-      "Time": "02:52"
+      "Score": 4,
+      "Time": "04:52"
+    },
+    {
+      "Name": "[Monolith] acog",
+      "Steam": "76561198728163349",
+      "Score": 0,
+      "Time": "01:25"
     }
   ]
 }
