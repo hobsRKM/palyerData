@@ -1,53 +1,71 @@
 {
-  "Time": "2026-03-15T03:18:49.6765248Z",
+  "Time": "2026-03-15T03:20:49.6806501Z",
   "Players": [
     {
       "Name": "ᵇᵃˢᵉᵐᵉⁿᵗFelix",
       "Steam": "76561198193603937",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
+      "Time": "00:29"
+    },
+    {
+      "Name": "WE LOOKING OPPS!",
+      "Steam": "76561199863729287",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "nz",
       "Steam": "76561199097228717",
-      "Score": 10,
-      "Time": "495:16"
+      "Score": 13,
+      "Time": "497:16"
     },
     {
       "Name": "gamesense triple o",
       "Steam": "76561198737126245",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 10,
-      "Time": "185:22"
+      "Score": 19,
+      "Time": "187:22"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 21,
-      "Time": "28:33"
+      "Score": 0,
+      "Time": "30:33"
     },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 20,
-      "Time": "02:29"
+      "Score": 22,
+      "Time": "04:29"
     },
     {
       "Name": "larp # .gg/cshvh",
       "Steam": "76561198735416267",
-      "Score": 13,
-      "Time": "07:22"
+      "Score": 15,
+      "Time": "09:22"
+    },
+    {
+      "Name": "sphinxc!",
+      "Steam": "76561198746258068",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "вил",
       "Steam": "76561199879278982",
-      "Score": 21,
-      "Time": "44:06"
+      "Score": 27,
+      "Time": "46:06"
     }
   ]
 }
