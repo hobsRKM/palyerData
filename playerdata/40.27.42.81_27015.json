@@ -1,77 +1,83 @@
 {
-  "Time": "2026-03-15T06:06:53.0049002Z",
+  "Time": "2026-03-15T06:08:53.0175173Z",
   "Players": [
     {
       "Name": "y",
       "Steam": "76561199837114653",
+      "Score": 0,
+      "Time": "04:50"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
       "Score": 2,
-      "Time": "02:50"
+      "Time": "01:12"
     },
     {
       "Name": "Hotmilfs.com",
       "Steam": "76561199109134220",
-      "Score": 0,
-      "Time": "01:51"
+      "Score": 4,
+      "Time": "03:51"
     },
     {
       "Name": "why bully me",
       "Steam": "76561199711727600",
-      "Score": 21,
-      "Time": "04:20"
+      "Score": 3,
+      "Time": "06:20"
     },
     {
       "Name": "MACUMBINHA.COM",
       "Steam": "76561198733571896",
       "Score": 0,
-      "Time": "21:10"
+      "Time": "23:10"
     },
     {
       "Name": "garry",
       "Steam": "76561199471107546",
-      "Score": 129,
-      "Time": "188:40"
+      "Score": 0,
+      "Time": "190:40"
     },
     {
       "Name": "Ryn",
       "Steam": "76561199755599976",
-      "Score": 138,
-      "Time": "119:11"
+      "Score": 2,
+      "Time": "121:11"
     },
     {
       "Name": "Thug :D",
       "Steam": "76561198734668878",
-      "Score": 38,
-      "Time": "15:45"
+      "Score": 0,
+      "Time": "17:45"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 45,
-      "Time": "64:58"
+      "Score": 4,
+      "Time": "66:58"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 43,
-      "Time": "18:18"
+      "Score": 0,
+      "Time": "20:18"
     },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 34,
-      "Time": "21:38"
+      "Score": 0,
+      "Time": "23:38"
     },
     {
       "Name": "Mwpx",
       "Steam": "76561198774150685",
-      "Score": 35,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "https://discord.gg/sofaleague",
       "Steam": "76561198791541733",
-      "Score": 15,
-      "Time": "08:27"
+      "Score": 0,
+      "Time": "10:27"
     }
   ]
 }
