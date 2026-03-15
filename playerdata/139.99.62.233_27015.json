@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-15T11:25:11.0061131Z",
+  "Time": "2026-03-15T11:27:11.0212928Z",
   "Players": [
+    {
+      "Name": "fatality   | kifal54961",
+      "Steam": "76561198768795315",
+      "Score": 0,
+      "Time": "01:36"
+    },
     {
       "Name": "noname",
       "Steam": "76561198800250172",
-      "Score": 106,
-      "Time": "51:49"
+      "Score": 110,
+      "Time": "53:49"
     },
     {
       "Name": "ประยุธ Prayut",
       "Steam": "76561198769624311",
-      "Score": 79,
-      "Time": "29:39"
+      "Score": 87,
+      "Time": "31:39"
     },
     {
       "Name": "AIMWARE",
       "Steam": "76561199303359682",
-      "Score": 47,
-      "Time": "20:13"
+      "Score": 48,
+      "Time": "22:13"
     },
     {
       "Name": "migg_jeff",
       "Steam": "76561199862793132",
-      "Score": 9,
-      "Time": "17:31"
+      "Score": 11,
+      "Time": "19:31"
     }
   ]
 }
