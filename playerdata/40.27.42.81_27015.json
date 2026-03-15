@@ -1,56 +1,68 @@
 {
-  "Time": "2026-03-15T16:34:34.6255884Z",
+  "Time": "2026-03-15T16:36:34.6321222Z",
   "Players": [
+    {
+      "Name": "emu",
+      "Steam": "76561198147102077",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "jake",
       "Steam": "76561198343112799",
-      "Score": 103,
-      "Time": "106:24"
+      "Score": 107,
+      "Time": "108:24"
     },
     {
       "Name": "Igor Petuxov",
       "Steam": "76561199833822026",
-      "Score": 12,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "nl ~ vape",
       "Steam": "76561199828812573",
-      "Score": 13,
-      "Time": "07:15"
+      "Score": 16,
+      "Time": "09:15"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 99,
-      "Time": "97:28"
+      "Score": 107,
+      "Time": "99:28"
+    },
+    {
+      "Name": "im a immigrant",
+      "Steam": "76561199410751476",
+      "Score": 2,
+      "Time": "01:38"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 4,
-      "Time": "44:06"
+      "Score": 13,
+      "Time": "46:06"
     },
     {
       "Name": "Entertainment",
       "Steam": "76561199379573845",
-      "Score": 26,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "aly's kitten",
       "Steam": "76561198748298375",
-      "Score": 30,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Khalieos",
       "Steam": "76561199428486366",
-      "Score": 0,
-      "Time": "02:51"
+      "Score": 4,
+      "Time": "04:51"
     },
     {
-      "Name": "PND.lua ㅤ larp # .gg/cshvh",
+      "Name": "PND.luaㅤ larp # .gg/cshvh",
       "Steam": "76561198735416267",
       "Score": 8,
       "Time": "??:??"
@@ -58,7 +70,13 @@
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 6,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ahahahaha",
+      "Steam": "76561198728940041",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
