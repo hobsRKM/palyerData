@@ -1,64 +1,70 @@
 {
-  "Time": "2026-03-15T17:04:34.6307897Z",
+  "Time": "2026-03-15T17:06:34.6384747Z",
   "Players": [
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] promethyzx",
+      "Steam": "76561199891078125",
+      "Score": 4,
+      "Time": "06:31"
+    },
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "[Mon] promethyzx",
-      "Steam": "76561199891078125",
-      "Score": 0,
-      "Time": "04:31"
-    },
-    {
       "Name": "jake",
       "Steam": "76561198343112799",
-      "Score": 63,
-      "Time": "136:24"
+      "Score": 67,
+      "Time": "138:24"
     },
     {
       "Name": "//",
       "Steam": "76561198745487779",
-      "Score": 9,
-      "Time": "22:34"
+      "Score": 13,
+      "Time": "24:34"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "nl ~ vape",
       "Steam": "76561199828812573",
-      "Score": 27,
-      "Time": "37:15"
+      "Score": 30,
+      "Time": "39:15"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 2,
-      "Time": "127:28"
+      "Score": 7,
+      "Time": "129:28"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 51,
-      "Time": "74:06"
+      "Score": 57,
+      "Time": "76:06"
     },
     {
       "Name": "nagi",
       "Steam": "76561199097243449",
-      "Score": 9,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ahahahaha",
       "Steam": "76561198728940041",
-      "Score": 90,
+      "Score": 110,
       "Time": "??:??"
     }
   ]
