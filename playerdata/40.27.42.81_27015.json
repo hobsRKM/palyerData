@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-16T06:10:32.8913027Z",
+  "Time": "2026-03-16T06:12:32.9007317Z",
   "Players": [
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
       "Score": 11,
-      "Time": "18:37"
+      "Time": "20:37"
     },
     {
       "Name": "hrmny",
       "Steam": "76561199841075039",
-      "Score": 24,
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Raul Menendez",
+      "Steam": "76561198731803297",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ego.",
       "Steam": "76561198734668878",
-      "Score": 106,
-      "Time": "390:45"
+      "Score": 116,
+      "Time": "392:45"
     },
     {
       "Name": "I larp skeet",
       "Steam": "76561199322842580",
-      "Score": 20,
-      "Time": "09:04"
+      "Score": 30,
+      "Time": "11:04"
     },
     {
       "Name": "ProfessionalSpectator",
@@ -34,14 +40,20 @@
     {
       "Name": "xX.D1TortaHater.Xx",
       "Steam": "76561198373259020",
-      "Score": 75,
-      "Time": "22:11"
+      "Score": 83,
+      "Time": "24:11"
+    },
+    {
+      "Name": "performative male",
+      "Steam": "76561198111645882",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "вил",
       "Steam": "76561199879278982",
-      "Score": 33,
-      "Time": "33:07"
+      "Score": 35,
+      "Time": "35:07"
     }
   ]
 }
