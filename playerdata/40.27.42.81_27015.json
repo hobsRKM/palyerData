@@ -1,17 +1,29 @@
 {
-  "Time": "2026-03-16T03:58:33.0246872Z",
+  "Time": "2026-03-16T04:00:33.026187Z",
   "Players": [
     {
       "Name": "COMMANDERBEEF",
       "Steam": "76561198727375948",
-      "Score": 23,
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BubuKisyaPisya",
+      "Steam": "76561198272373475",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hrmny",
+      "Steam": "76561199841075039",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "wren",
       "Steam": "76561199040150834",
-      "Score": 10,
-      "Time": "06:05"
+      "Score": 22,
+      "Time": "08:05"
     }
   ]
 }
