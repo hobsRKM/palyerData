@@ -1,11 +1,23 @@
 {
-  "Time": "2026-03-16T06:28:32.9121901Z",
+  "Time": "2026-03-16T06:30:32.9112984Z",
   "Players": [
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "88:44"
+    },
+    {
+      "Name": "樱岛麻衣",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 7,
-      "Time": "59:26"
+      "Score": 13,
+      "Time": "61:26"
     },
     {
       "Name": "hrmny",
@@ -16,14 +28,14 @@
     {
       "Name": "ego.",
       "Steam": "76561198734668878",
-      "Score": 36,
-      "Time": "408:45"
+      "Score": 46,
+      "Time": "410:45"
     },
     {
       "Name": "I larp skeet",
       "Steam": "76561199322842580",
-      "Score": 60,
-      "Time": "27:04"
+      "Score": 62,
+      "Time": "29:04"
     },
     {
       "Name": "ProfessionalSpectator",
@@ -34,14 +46,14 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199031753721",
-      "Score": 2,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "вил",
       "Steam": "76561199879278982",
-      "Score": 52,
-      "Time": "51:07"
+      "Score": 57,
+      "Time": "53:07"
     }
   ]
 }
