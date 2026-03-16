@@ -1,35 +1,53 @@
 {
-  "Time": "2026-03-16T21:22:48.5010163Z",
+  "Time": "2026-03-16T21:24:48.507253Z",
   "Players": [
     {
       "Name": "xanthe",
       "Steam": "76561198737175167",
+      "Score": 8,
+      "Time": "04:17"
+    },
+    {
+      "Name": "eclipse.",
+      "Steam": "76561198197230391",
       "Score": 4,
-      "Time": "02:17"
+      "Time": "01:58"
+    },
+    {
+      "Name": "REAL CHAD NEVER BAN",
+      "Steam": "76561199633308391",
+      "Score": 2,
+      "Time": "00:30"
     },
     {
       "Name": "kaiju764",
       "Steam": "76561199375775741",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": ".he2",
+      "Steam": "76561198758842509",
+      "Score": 0,
+      "Time": "147:24"
+    },
+    {
+      "Name": "My Wife my Life",
+      "Steam": "76561198828308965",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "vac has flagged your gameplay as irregular",
-      "Steam": "76561198760814292",
-      "Score": 7,
-      "Time": "01:57"
-    },
-    {
       "Name": "4lenaSoS",
       "Steam": "76561199544241992",
-      "Score": 2,
-      "Time": "32:21"
+      "Score": 7,
+      "Time": "34:21"
     },
     {
       "Name": "get back to the business",
       "Steam": "76561199847868570",
-      "Score": 6,
-      "Time": "03:24"
+      "Score": 0,
+      "Time": "05:24"
     }
   ]
 }
