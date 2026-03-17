@@ -1,6 +1,18 @@
 {
-  "Time": "2026-03-17T05:00:46.2945703Z",
+  "Time": "2026-03-17T05:02:46.2950765Z",
   "Players": [
+    {
+      "Name": "#1",
+      "Steam": "76561199864759446",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 0,
+      "Time": "00:20"
+    },
     {
       "Name": "nix hvh?   Сhimera",
       "Steam": "76561199792922911",
@@ -10,14 +22,14 @@
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 60,
-      "Time": "54:06"
+      "Score": 64,
+      "Time": "56:06"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 71,
-      "Time": "250:32"
+      "Score": 77,
+      "Time": "252:32"
     },
     {
       "Name": "Bam (83) Adebayo",
@@ -28,56 +40,68 @@
     {
       "Name": "Blueeyeddaddy69",
       "Steam": "76561199660143840",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "271:49"
+      "Time": "273:49"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 74,
-      "Time": "32:47"
+      "Score": 78,
+      "Time": "34:47"
     },
     {
       "Name": "COMMANDERBEEF",
       "Steam": "76561198727375948",
-      "Score": 26,
-      "Time": "31:44"
+      "Score": 28,
+      "Time": "33:44"
     },
     {
       "Name": "MyNameIsAimmyAI",
       "Steam": "76561198727641243",
-      "Score": 24,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "my ego says nah",
       "Steam": "76561199847868570",
-      "Score": 0,
-      "Time": "00:50"
+      "Score": 13,
+      "Time": "02:50"
     },
     {
       "Name": "impish",
       "Steam": "76561198966966919",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 4,
+      "Time": "01:09"
     },
     {
       "Name": "cnc lover >_<",
       "Steam": "76561199452451594",
-      "Score": 35,
-      "Time": "53:39"
+      "Score": 37,
+      "Time": "55:39"
+    },
+    {
+      "Name": "brains",
+      "Steam": "76561198767994900",
+      "Score": 3,
+      "Time": "00:51"
     },
     {
       "Name": "Miloman_pl",
       "Steam": "76561199403238332",
-      "Score": 0,
-      "Time": "18:12"
+      "Score": 1,
+      "Time": "20:12"
     }
   ]
 }
