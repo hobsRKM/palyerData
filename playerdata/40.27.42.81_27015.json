@@ -1,83 +1,89 @@
 {
-  "Time": "2026-03-17T02:42:46.28302Z",
+  "Time": "2026-03-17T02:44:46.2952991Z",
   "Players": [
+    {
+      "Name": "acog",
+      "Steam": "76561198728163349",
+      "Score": 2,
+      "Time": "01:53"
+    },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 31,
-      "Time": "18:41"
-    },
-    {
-      "Name": "paradise",
-      "Steam": "76561198380272287",
-      "Score": 0,
-      "Time": "05:22"
+      "Score": 37,
+      "Time": "20:41"
     },
     {
       "Name": "| trip | .gg/cshvh |",
       "Steam": "76561198428564314",
-      "Score": 25,
-      "Time": "33:16"
+      "Score": 27,
+      "Time": "35:16"
     },
     {
       "Name": "Fatality.win  chi",
       "Steam": "76561199613658034",
-      "Score": 19,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "133:49"
+      "Time": "135:49"
+    },
+    {
+      "Name": "styxisfat",
+      "Steam": "76561198725706575",
+      "Score": 0,
+      "Time": "01:13"
     },
     {
       "Name": "COMMANDERBEEF",
       "Steam": "76561198727375948",
       "Score": 11,
-      "Time": "16:53"
+      "Time": "18:53"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 11,
-      "Time": "346:17"
+      "Score": 20,
+      "Time": "348:17"
     },
     {
       "Name": "crime 696 ap",
       "Steam": "76561199847868570",
-      "Score": 12,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 44,
-      "Time": "41:21"
+      "Score": 56,
+      "Time": "43:21"
     },
     {
       "Name": "eclipse.",
       "Steam": "76561198197230391",
-      "Score": 16,
-      "Time": "18:46"
+      "Score": 22,
+      "Time": "20:46"
     },
     {
       "Name": "merkish (refined shooter)",
       "Steam": "76561198299500096",
-      "Score": 20,
-      "Time": "21:44"
+      "Score": 22,
+      "Time": "23:44"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 34,
-      "Time": "44:12"
+      "Score": 0,
+      "Time": "46:12"
     },
     {
       "Name": "kaiju764",
       "Steam": "76561199375775741",
       "Score": 4,
-      "Time": "06:34"
+      "Time": "08:34"
     }
   ]
 }
