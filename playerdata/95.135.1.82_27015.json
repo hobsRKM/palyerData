@@ -1,16 +1,16 @@
 {
-  "Time": "2026-03-17T15:15:21.464976Z",
+  "Time": "2026-03-17T15:17:21.4689878Z",
   "Players": [
-    {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "AlibabaShopper",
       "Steam": "76561199737804492",
-      "Score": 10,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nightly",
+      "Steam": "76561199510561767",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
