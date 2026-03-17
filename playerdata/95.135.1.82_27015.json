@@ -1,11 +1,41 @@
 {
-  "Time": "2026-03-17T01:35:22.688252Z",
+  "Time": "2026-03-17T01:36:24.1052569Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Swayzy",
+      "Steam": "76561199566896718",
+      "Score": 23,
+      "Time": "58:19"
+    },
+    {
+      "Name": "GHOST",
+      "Steam": "76561199880609185",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jugga™ #CommBoss",
+      "Steam": "76561199538446621",
+      "Score": 12,
+      "Time": "575:53"
+    },
+    {
+      "Name": "Conquistador",
+      "Steam": "76561198793481663",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "ZeMa",
+      "Steam": "76561198971532096",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 45,
+      "Time": "17:37"
     }
   ]
 }
