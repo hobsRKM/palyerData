@@ -1,59 +1,65 @@
 {
-  "Time": "2026-03-17T00:14:48.5153942Z",
+  "Time": "2026-03-17T00:16:48.5102009Z",
   "Players": [
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "acog",
       "Steam": "76561198728163349",
-      "Score": 50,
-      "Time": "11:08"
+      "Score": 60,
+      "Time": "13:08"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 71,
-      "Time": "48:27"
+      "Score": 73,
+      "Time": "50:27"
     },
     {
       "Name": "trip",
       "Steam": "76561198428564314",
       "Score": 25,
-      "Time": "15:20"
+      "Time": "17:20"
     },
     {
       "Name": "Kxny",
       "Steam": "76561199755599976",
-      "Score": 52,
+      "Score": 56,
       "Time": "??:??"
     },
     {
-      "Name": "trevvy",
-      "Steam": "76561199874044368",
-      "Score": 28,
-      "Time": "??:??"
+      "Name": "cookies",
+      "Steam": "76561199740544730",
+      "Score": 0,
+      "Time": "01:29"
     },
     {
       "Name": "skid",
       "Steam": "76561198750661317",
       "Score": 55,
-      "Time": "49:19"
+      "Time": "51:19"
     },
     {
       "Name": "traceless beta #testingzzz",
       "Steam": "76561198793169323",
-      "Score": 8,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Z",
       "Steam": "76561198793024263",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "crime",
       "Steam": "76561199847868570",
-      "Score": 4,
-      "Time": "41:54"
+      "Score": 0,
+      "Time": "43:54"
     },
     {
       "Name": "coinbase supprt",
@@ -64,20 +70,20 @@
     {
       "Name": "gaminggenius2012",
       "Steam": "76561198170202181",
-      "Score": 8,
-      "Time": "132:15"
+      "Score": 15,
+      "Time": "134:15"
     },
     {
       "Name": "kaiju764",
       "Steam": "76561199375775741",
       "Score": 5,
-      "Time": "32:05"
+      "Time": "34:05"
     },
     {
       "Name": "dezi",
       "Steam": "76561199471107546",
-      "Score": 26,
-      "Time": "10:33"
+      "Score": 28,
+      "Time": "12:33"
     }
   ]
 }
