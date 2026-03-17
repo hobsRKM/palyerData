@@ -1,29 +1,41 @@
 {
-  "Time": "2026-03-17T11:26:29.2373657Z",
+  "Time": "2026-03-17T11:26:56.1350884Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Mike Oxlong",
+      "Steam": "76561198749154292",
+      "Score": 6,
+      "Time": "440:31"
+    },
+    {
+      "Name": "Fr0nk",
+      "Steam": "76561199648268849",
+      "Score": 10,
+      "Time": "20:55"
+    },
+    {
+      "Name": "\"'",
+      "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "25:30"
-    },
-    {
-      "Name": "Respect",
-      "Steam": "76561199118168815",
-      "Score": 52,
-      "Time": "08:04"
-    },
-    {
-      "Name": "NL · Missed shot due to death",
-      "Steam": "76561199090541780",
-      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "skutydzony",
-      "Steam": "76561199612034873",
-      "Score": 20,
+      "Name": "rwij/koper",
+      "Steam": "76561199497167933",
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "Sexy Trucker",
+      "Steam": "76561198730291568",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AbduLLaHH",
+      "Steam": "76561198764375260",
+      "Score": 0,
+      "Time": "06:41"
     }
   ]
 }
