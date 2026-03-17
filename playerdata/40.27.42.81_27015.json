@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-17T00:56:48.5196165Z",
+  "Time": "2026-03-17T00:58:48.5163061Z",
   "Players": [
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 5,
+      "Time": "91:32"
+    },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "trip",
       "Steam": "76561198428564314",
       "Score": 0,
-      "Time": "57:20"
+      "Time": "59:20"
     },
     {
       "Name": "ProfessionalSpectator",
       "Steam": "76561198090203276",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -28,44 +34,56 @@
     {
       "Name": "cookies",
       "Steam": "76561199740544730",
-      "Score": 0,
-      "Time": "01:37"
+      "Score": 3,
+      "Time": "03:37"
     },
     {
       "Name": "uh",
       "Steam": "76561198791541733",
-      "Score": 2,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Jew Boy",
       "Steam": "76561198727278257",
+      "Score": 1,
+      "Time": "38:35"
+    },
+    {
+      "Name": "LeaLea",
+      "Steam": "76561199319414622",
       "Score": 0,
-      "Time": "36:35"
+      "Time": "??:??"
+    },
+    {
+      "Name": "Guapos Cousin",
+      "Steam": "76561198854627912",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "crime",
       "Steam": "76561199847868570",
       "Score": 0,
-      "Time": "83:54"
+      "Time": "85:54"
     },
     {
       "Name": "kaiju764",
       "Steam": "76561199375775741",
-      "Score": 2,
-      "Time": "74:05"
+      "Score": 6,
+      "Time": "76:05"
     },
     {
       "Name": "N0THING",
       "Steam": "76561198760814292",
-      "Score": 0,
-      "Time": "36:56"
+      "Score": 17,
+      "Time": "38:56"
     },
     {
       "Name": "dezi",
       "Steam": "76561199471107546",
-      "Score": 0,
-      "Time": "52:33"
+      "Score": 6,
+      "Time": "54:33"
     }
   ]
 }
