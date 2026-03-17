@@ -1,53 +1,59 @@
 {
-  "Time": "2026-03-17T23:18:31.6201962Z",
+  "Time": "2026-03-17T23:20:31.6184942Z",
   "Players": [
+    {
+      "Name": "christian cortez",
+      "Steam": "76561198756303634",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "nevvorlds BUT GAY",
       "Steam": "76561199826900738",
-      "Score": 7,
-      "Time": "21:43"
+      "Score": 11,
+      "Time": "23:43"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
       "Score": 35,
-      "Time": "13:39"
+      "Time": "15:39"
+    },
+    {
+      "Name": "vape",
+      "Steam": "76561199828812573",
+      "Score": 0,
+      "Time": "149:01"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
       "Score": 20,
-      "Time": "60:41"
-    },
-    {
-      "Name": "ProfessionalSpectator",
-      "Steam": "76561198090203276",
-      "Score": 8,
-      "Time": "??:??"
+      "Time": "62:41"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 33,
-      "Time": "08:37"
+      "Score": 36,
+      "Time": "10:37"
     },
     {
       "Name": "xanthe",
       "Steam": "76561198737175167",
-      "Score": 3,
-      "Time": "07:06"
+      "Score": 7,
+      "Time": "09:06"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "65:25"
+      "Time": "67:25"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 82,
-      "Time": "43:06"
+      "Score": 88,
+      "Time": "45:06"
     }
   ]
 }
