@@ -1,47 +1,53 @@
 {
-  "Time": "2026-03-17T09:32:56.12722Z",
+  "Time": "2026-03-17T09:34:56.1293281Z",
   "Players": [
+    {
+      "Name": "NaninouSharieHvH",
+      "Steam": "76561198748765033",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Robin_Hood",
       "Steam": "76561198314353524",
-      "Score": 9,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "eto",
+      "Steam": "76561197961763923",
+      "Score": 0,
+      "Time": "179:02"
     },
     {
       "Name": "\"'",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "629:41"
+      "Time": "631:41"
     },
     {
       "Name": "Arima",
       "Steam": "76561199822726468",
-      "Score": 8,
-      "Time": "767:02"
+      "Score": 0,
+      "Time": "769:02"
     },
     {
       "Name": "ŁORLD",
       "Steam": "76561198769290934",
-      "Score": 23,
+      "Score": 33,
       "Time": "??:??"
     },
     {
-      "Name": "nixware.cc Cruel",
+      "Name": "cc Cruel",
       "Steam": "76561199209394989",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Lawrens",
-      "Steam": "76561198733810400",
-      "Score": 3,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "iceage",
       "Steam": "76561199171856397",
       "Score": 11,
-      "Time": "28:41"
+      "Time": "30:41"
     }
   ]
 }
