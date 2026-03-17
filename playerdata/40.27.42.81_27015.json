@@ -1,53 +1,59 @@
 {
-  "Time": "2026-03-17T04:12:46.2876785Z",
+  "Time": "2026-03-17T04:18:46.2919799Z",
   "Players": [
     {
-      "Name": "FUC PeP",
+      "Name": "trip",
+      "Steam": "76561198428564314",
+      "Score": 0,
+      "Time": "01:04"
+    },
+    {
+      "Name": "F PeP",
       "Steam": "76561199672428087",
-      "Score": 2,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 4,
-      "Time": "06:06"
+      "Score": 25,
+      "Time": "12:06"
+    },
+    {
+      "Name": "ray",
+      "Steam": "76561198116234030",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "223:49"
+      "Time": "229:49"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199031753721",
-      "Score": 2,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "MyNameIsAimmyAI",
       "Steam": "76561198727641243",
-      "Score": 10,
+      "Score": 15,
       "Time": "??:??"
-    },
-    {
-      "Name": "my ego says nah",
-      "Steam": "76561199847868570",
-      "Score": 2,
-      "Time": "07:02"
     },
     {
       "Name": "kaiju764",
       "Steam": "76561199375775741",
-      "Score": 4,
-      "Time": "96:34"
+      "Score": 18,
+      "Time": "102:34"
     },
     {
       "Name": "cnc lover >_<",
       "Steam": "76561199452451594",
-      "Score": 7,
-      "Time": "05:39"
+      "Score": 32,
+      "Time": "11:39"
     }
   ]
 }
