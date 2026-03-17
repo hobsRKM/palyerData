@@ -1,4 +1,41 @@
 {
-  "Time": "2026-03-17T15:26:41.7052145Z",
-  "Players": []
+  "Time": "2026-03-17T15:27:21.4631189Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "01:24"
+    },
+    {
+      "Name": "Cluster0",
+      "Steam": "76561198366841146",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AlibabaShopper",
+      "Steam": "76561199737804492",
+      "Score": 54,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDC6F\uD835\uDC86\uD835\uDC82\uD835\uDC85",
+      "Steam": "76561198740663502",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nightly",
+      "Steam": "76561199510561767",
+      "Score": 12,
+      "Time": "07:07"
+    },
+    {
+      "Name": "Maslanka",
+      "Steam": "76561199866941128",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
