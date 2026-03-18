@@ -1,35 +1,47 @@
 {
-  "Time": "2026-03-18T09:10:43.0985799Z",
+  "Time": "2026-03-18T09:12:43.101643Z",
   "Players": [
+    {
+      "Name": "ٴ",
+      "Steam": "76561198011549867",
+      "Score": 23,
+      "Time": "00:09"
+    },
     {
       "Name": "USDT",
       "Steam": "76561199836864292",
-      "Score": 125,
-      "Time": "46:36"
+      "Score": 135,
+      "Time": "48:36"
+    },
+    {
+      "Name": "neithen nehen",
+      "Steam": "76561198724483931",
+      "Score": 0,
+      "Time": "01:11"
     },
     {
       "Name": "jr2n7vi2m",
       "Steam": "76561198726266597",
-      "Score": 91,
-      "Time": "15:25"
+      "Score": 103,
+      "Time": "17:25"
     },
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 48,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "migg_jeff",
       "Steam": "76561199862793132",
       "Score": 5,
-      "Time": "27:36"
+      "Time": "29:36"
     },
     {
       "Name": "Mojtaba Khamenei",
       "Steam": "76561199574054751",
       "Score": 2,
-      "Time": "02:33"
+      "Time": "04:33"
     }
   ]
 }
