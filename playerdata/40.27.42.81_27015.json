@@ -1,28 +1,28 @@
 {
-  "Time": "2026-03-18T04:02:26.8508614Z",
+  "Time": "2026-03-18T04:04:26.8478927Z",
   "Players": [
+    {
+      "Name": "woah",
+      "Steam": "76561199826900738",
+      "Score": 2,
+      "Time": "66:23"
+    },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 22,
-      "Time": "06:50"
+      "Score": 26,
+      "Time": "08:50"
     },
     {
       "Name": "\uDB40\uDC73\uDB40\uDC73⁧⁧\u1CBC\uDB40\uDC73\uDB40\uDC7342amps",
       "Steam": "76561198143893089",
       "Score": 0,
-      "Time": "00:59"
+      "Time": "02:59"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "smth",
-      "Steam": "76561198729052106",
-      "Score": 4,
       "Time": "??:??"
     }
   ]
