@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-18T21:44:34.5862906Z",
+  "Time": "2026-03-18T21:46:34.5883377Z",
   "Players": [
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 0,
+      "Time": "01:57"
+    },
     {
       "Name": "skid",
       "Steam": "76561198750661317",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "ozai",
       "Steam": "76561199156395215",
-      "Score": 1,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Saadster391",
       "Steam": "76561198305853005",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "lil o",
       "Steam": "76561199792464561",
-      "Score": 20,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "my ego says no",
       "Steam": "76561199847868570",
-      "Score": 6,
-      "Time": "46:31"
+      "Score": 5,
+      "Time": "48:31"
     },
     {
       "Name": "gerbert",
@@ -41,7 +47,7 @@
       "Name": "xanthe",
       "Steam": "76561198737175167",
       "Score": 2,
-      "Time": "18:03"
+      "Time": "20:03"
     }
   ]
 }
