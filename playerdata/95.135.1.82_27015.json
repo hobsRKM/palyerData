@@ -1,83 +1,35 @@
 {
-  "Time": "2026-03-18T16:08:14.5413732Z",
+  "Time": "2026-03-18T16:08:28.4355887Z",
   "Players": [
     {
-      "Name": "mock",
-      "Steam": "76561198755398524",
-      "Score": 2,
-      "Time": "00:28"
-    },
-    {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "\"'",
+      "Steam": "76561199028888055",
       "Score": 0,
+      "Time": "305:40"
+    },
+    {
+      "Name": "Billy Badass",
+      "Steam": "76561199685733063",
+      "Score": 115,
+      "Time": "26:21"
+    },
+    {
+      "Name": "JACK SPEDAISY",
+      "Steam": "76561198269379199",
+      "Score": 76,
+      "Time": "65:52"
+    },
+    {
+      "Name": "☆\uD835\uDE41\uD835\uDE63\uD835\uDE66\uD835\uDE6E☆",
+      "Steam": "76561199886624598",
+      "Score": 58,
       "Time": "??:??"
     },
     {
-      "Name": "anorexic twink",
-      "Steam": "76561198780475574",
-      "Score": 2,
+      "Name": "ZwMapViewOfSection",
+      "Steam": "76561199884966036",
+      "Score": 9,
       "Time": "??:??"
-    },
-    {
-      "Name": "angel",
-      "Steam": "76561199798812373",
-      "Score": 16,
-      "Time": "27:15"
-    },
-    {
-      "Name": "queue",
-      "Steam": "76561198341012123",
-      "Score": 28,
-      "Time": "??:??"
-    },
-    {
-      "Name": "After-Dehner",
-      "Steam": "76561199873977896",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "bee88",
-      "Steam": "76561199018074444",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fentlover123",
-      "Steam": "76561199136741331",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Kad.",
-      "Steam": "76561199590377764",
-      "Score": 13,
-      "Time": "07:53"
-    },
-    {
-      "Name": "death4two",
-      "Steam": "76561198138563445",
-      "Score": 37,
-      "Time": "??:??"
-    },
-    {
-      "Name": "tyler",
-      "Steam": "76561198838348825",
-      "Score": 136,
-      "Time": "??:??"
-    },
-    {
-      "Name": "R1ck",
-      "Steam": "76561199050470003",
-      "Score": 10,
-      "Time": "107:07"
-    },
-    {
-      "Name": "Seiðr",
-      "Steam": "76561198333235279",
-      "Score": 7,
-      "Time": "15:41"
     }
   ]
 }
