@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-19T21:47:03.6522977Z",
+  "Time": "2026-03-19T21:49:03.6486722Z",
   "Players": [
+    {
+      "Name": "hitler prime",
+      "Steam": "76561199416408078",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "winner",
       "Steam": "76561198213922667",
-      "Score": 27,
-      "Time": "34:16"
+      "Score": 33,
+      "Time": "36:16"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 0,
-      "Time": "00:22"
+      "Score": 8,
+      "Time": "02:22"
     },
     {
       "Name": "Hahahahaha.",
       "Steam": "76561198336975870",
-      "Score": 31,
-      "Time": "92:11"
+      "Score": 40,
+      "Time": "94:11"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 10,
-      "Time": "53:25"
+      "Score": 14,
+      "Time": "55:25"
     }
   ]
 }
