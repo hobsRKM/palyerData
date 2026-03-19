@@ -1,46 +1,46 @@
 {
-  "Time": "2026-03-19T20:03:03.6463879Z",
+  "Time": "2026-03-19T20:05:03.6465867Z",
   "Players": [
+    {
+      "Name": "Perhks",
+      "Steam": "76561198293312486",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 34,
-      "Time": "28:26"
+      "Score": 38,
+      "Time": "30:26"
     },
     {
       "Name": "ozai",
       "Steam": "76561199156395215",
-      "Score": 12,
-      "Time": "28:45"
+      "Score": 21,
+      "Time": "30:45"
     },
     {
       "Name": "cout << \"Geekerball\" << endl;",
       "Steam": "76561198979204236",
-      "Score": 4,
-      "Time": "42:40"
+      "Score": 6,
+      "Time": "44:40"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 33,
-      "Time": "27:49"
-    },
-    {
-      "Name": "ᵒᵘᵗᵈᵃᵗᵉᵈ odin",
-      "Steam": "76561199880717233",
-      "Score": 10,
-      "Time": "23:05"
+      "Score": 39,
+      "Time": "29:49"
     },
     {
       "Name": "Pill§",
       "Steam": "76561198952561283",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "xanthe",
       "Steam": "76561198737175167",
-      "Score": 23,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
