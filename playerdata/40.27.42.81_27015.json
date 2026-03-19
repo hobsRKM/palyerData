@@ -1,47 +1,47 @@
 {
-  "Time": "2026-03-19T07:36:06.0743255Z",
+  "Time": "2026-03-19T07:38:06.0776524Z",
   "Players": [
+    {
+      "Name": "WindyBee",
+      "Steam": "76561198727876948",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "evolution",
       "Steam": "76561198731233826",
-      "Score": 56,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "nikaaa",
       "Steam": "76561198724782892",
       "Score": 51,
-      "Time": "65:10"
+      "Time": "67:10"
     },
     {
       "Name": "damndaniel25 #whitevans #daniel",
       "Steam": "76561198844542771",
-      "Score": 67,
-      "Time": "51:23"
+      "Score": 74,
+      "Time": "53:23"
     },
     {
       "Name": "cout << \"Geekerball\" << endl;",
       "Steam": "76561198979204236",
-      "Score": 2,
-      "Time": "94:12"
+      "Score": 4,
+      "Time": "96:12"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 74,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
-    },
-    {
-      "Name": "Capitan kirk",
-      "Steam": "76561198201144728",
-      "Score": 57,
-      "Time": "57:11"
     }
   ]
 }
