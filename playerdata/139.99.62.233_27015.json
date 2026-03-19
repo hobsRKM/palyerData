@@ -1,34 +1,40 @@
 {
-  "Time": "2026-03-19T12:55:11.8127083Z",
+  "Time": "2026-03-19T12:57:11.8195606Z",
   "Players": [
+    {
+      "Name": "Свиня爱",
+      "Steam": "76561199410471185",
+      "Score": 0,
+      "Time": "00:58"
+    },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
       "Score": 0,
-      "Time": "00:36"
+      "Time": "02:36"
     },
     {
       "Name": "tw1stie",
       "Steam": "76561198011549867",
-      "Score": 0,
-      "Time": "36:09"
+      "Score": 4,
+      "Time": "38:09"
     },
     {
       "Name": "jr2n7vi2m",
       "Steam": "76561198726266597",
-      "Score": 8,
-      "Time": "72:12"
+      "Score": 15,
+      "Time": "74:12"
     },
     {
       "Name": "kifal54961",
       "Steam": "76561198768795315",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Kizaru",
       "Steam": "76561198742439921",
-      "Score": 3,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -40,13 +46,13 @@
     {
       "Name": "esther luv tea",
       "Steam": "76561198124032291",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC06\uD835\uDC2B\uD835\uDC22\uD835\uDC26",
       "Steam": "76561199806910486",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
