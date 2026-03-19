@@ -1,17 +1,29 @@
 {
-  "Time": "2026-03-19T22:03:03.6496759Z",
+  "Time": "2026-03-19T22:05:03.6492356Z",
   "Players": [
+    {
+      "Name": "haveha",
+      "Steam": "76561198791541733",
+      "Score": 0,
+      "Time": "00:26"
+    },
     {
       "Name": "hitler prime",
       "Steam": "76561199416408078",
-      "Score": 27,
+      "Score": 31,
       "Time": "??:??"
+    },
+    {
+      "Name": "NL worker",
+      "Steam": "76561199778070124",
+      "Score": 0,
+      "Time": "01:10"
     },
     {
       "Name": "nz",
       "Steam": "76561199097228717",
-      "Score": 37,
-      "Time": "13:08"
+      "Score": 49,
+      "Time": "15:08"
     },
     {
       "Name": "big thrower",
@@ -22,8 +34,14 @@
     {
       "Name": "Hahahahaha.",
       "Steam": "76561198336975870",
-      "Score": 29,
-      "Time": "108:11"
+      "Score": 16,
+      "Time": "110:11"
+    },
+    {
+      "Name": "lil o",
+      "Steam": "76561199792464561",
+      "Score": 0,
+      "Time": "00:17"
     }
   ]
 }
