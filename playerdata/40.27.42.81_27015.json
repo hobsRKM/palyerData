@@ -1,27 +1,33 @@
 {
-  "Time": "2026-03-20T01:23:03.6618489Z",
+  "Time": "2026-03-20T01:25:03.6582562Z",
   "Players": [
     {
       "Name": "umbrella",
       "Steam": "76561198737889087",
-      "Score": 35,
-      "Time": "09:14"
+      "Score": 39,
+      "Time": "11:14"
     },
     {
       "Name": "вил",
       "Steam": "76561199879278982",
-      "Score": 23,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 36,
-      "Time": "41:55"
+      "Score": 50,
+      "Time": "43:55"
     },
     {
       "Name": "Demi :)",
       "Steam": "76561199072674466",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Accelerationist",
+      "Steam": "76561198996981941",
       "Score": 0,
       "Time": "??:??"
     },
@@ -29,25 +35,19 @@
       "Name": "ANAKIN SKYWALKER",
       "Steam": "76561198338975423",
       "Score": 4,
-      "Time": "128:41"
+      "Time": "130:41"
     },
     {
       "Name": "*sL | ven",
       "Steam": "76561198041862999",
-      "Score": 18,
-      "Time": "??:??"
-    },
-    {
-      "Name": "MicroCACK",
-      "Steam": "76561198374165285",
-      "Score": 0,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "nikaaa",
       "Steam": "76561198724782892",
-      "Score": 8,
-      "Time": "02:53"
+      "Score": 16,
+      "Time": "04:53"
     }
   ]
 }
