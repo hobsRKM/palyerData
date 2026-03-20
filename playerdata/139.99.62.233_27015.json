@@ -1,17 +1,29 @@
 {
-  "Time": "2026-03-20T04:28:53.1987268Z",
+  "Time": "2026-03-20T04:30:53.2019437Z",
   "Players": [
     {
-      "Name": "> AU_ | unfriendly gaten",
+      "Name": "tw1stie",
+      "Steam": "76561198011549867",
+      "Score": 19,
+      "Time": "02:03"
+    },
+    {
+      "Name": "> AURA | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 56,
-      "Time": "20:11"
+      "Score": 57,
+      "Time": "22:11"
     },
     {
       "Name": "kirk",
       "Steam": "76561198221390104",
-      "Score": 2,
-      "Time": "04:26"
+      "Score": 0,
+      "Time": "06:26"
+    },
+    {
+      "Name": "zyro",
+      "Steam": "76561198740186999",
+      "Score": 4,
+      "Time": "??:??"
     }
   ]
 }
