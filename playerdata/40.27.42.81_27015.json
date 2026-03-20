@@ -1,53 +1,65 @@
 {
-  "Time": "2026-03-20T06:07:02.2283709Z",
+  "Time": "2026-03-20T06:09:02.2265519Z",
   "Players": [
+    {
+      "Name": "Saadster391",
+      "Steam": "76561198305853005",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 6,
-      "Time": "36:41"
+      "Score": 2,
+      "Time": "38:41"
     },
     {
       "Name": "nox",
       "Steam": "76561199471107546",
-      "Score": 92,
-      "Time": "115:38"
+      "Score": 100,
+      "Time": "117:38"
     },
     {
       "Name": "yunglean",
       "Steam": "76561199160093857",
-      "Score": 25,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "✞OC✞",
       "Steam": "76561198772153840",
-      "Score": 10,
-      "Time": "04:18"
+      "Score": 14,
+      "Time": "06:18"
     },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
-      "Score": 27,
-      "Time": "86:45"
+      "Score": 31,
+      "Time": "88:45"
     },
     {
       "Name": "Kxny",
       "Steam": "76561199755599976",
-      "Score": 126,
-      "Time": "118:22"
+      "Score": 130,
+      "Time": "120:22"
     },
     {
       "Name": "dulzi",
       "Steam": "76561199154499086",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 78,
-      "Time": "55:11"
+      "Score": 86,
+      "Time": "57:11"
+    },
+    {
+      "Name": "Reyngers",
+      "Steam": "76561198274124771",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
