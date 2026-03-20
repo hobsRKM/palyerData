@@ -1,40 +1,46 @@
 {
-  "Time": "2026-03-20T07:04:53.1969045Z",
+  "Time": "2026-03-20T07:06:53.2074585Z",
   "Players": [
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 24,
-      "Time": "63:44"
+      "Score": 32,
+      "Time": "65:44"
     },
     {
       "Name": "tw1stie",
       "Steam": "76561198011549867",
-      "Score": 0,
-      "Time": "19:04"
+      "Score": 4,
+      "Time": "21:05"
     },
     {
       "Name": "zyro",
       "Steam": "76561198740186999",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Kizaru",
       "Steam": "76561198742439921",
-      "Score": 48,
-      "Time": "28:29"
+      "Score": 57,
+      "Time": "30:29"
     },
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 24,
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "smth",
+      "Steam": "76561198729052106",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
