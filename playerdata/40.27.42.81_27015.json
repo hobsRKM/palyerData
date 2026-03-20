@@ -1,53 +1,47 @@
 {
-  "Time": "2026-03-20T19:49:38.6064842Z",
+  "Time": "2026-03-20T19:51:38.6027056Z",
   "Players": [
+    {
+      "Name": "puk_neckhurts",
+      "Steam": "76561198725435223",
+      "Score": 0,
+      "Time": "00:44"
+    },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 21,
-      "Time": "10:07"
+      "Score": 24,
+      "Time": "12:07"
     },
     {
       "Name": "イ",
       "Steam": "76561198729581981",
-      "Score": 31,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "KenLeary@gmail.com",
       "Steam": "76561198180065165",
       "Score": 0,
-      "Time": "25:43"
+      "Time": "27:43"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 14,
-      "Time": "25:21"
+      "Score": 27,
+      "Time": "27:21"
     },
     {
       "Name": "boys are just placeholders",
       "Steam": "76561199876077209",
-      "Score": 6,
-      "Time": "15:49"
+      "Score": 4,
+      "Time": "17:49"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 8,
-      "Time": "12:18"
-    },
-    {
-      "Name": "xkqplmrvdzNtwsh",
-      "Steam": "76561198724409450",
-      "Score": 22,
-      "Time": "03:50"
-    },
-    {
-      "Name": "sen git büyüyün gelsin amk",
-      "Steam": "76561198727176451",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 10,
+      "Time": "14:18"
     }
   ]
 }
