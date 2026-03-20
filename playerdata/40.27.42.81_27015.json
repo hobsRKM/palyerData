@@ -1,47 +1,59 @@
 {
-  "Time": "2026-03-20T22:51:38.6172027Z",
+  "Time": "2026-03-20T22:53:38.6092267Z",
   "Players": [
     {
       "Name": "silkroad",
       "Steam": "76561199571686760",
-      "Score": 0,
-      "Time": "87:58"
+      "Score": 2,
+      "Time": "89:58"
     },
     {
       "Name": "3894879662",
       "Steam": "76561199832781255",
-      "Score": 3,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "umbrella",
       "Steam": "76561198737889087",
-      "Score": 4,
-      "Time": "16:33"
+      "Score": 13,
+      "Time": "18:33"
     },
     {
       "Name": "...",
       "Steam": "76561199818202251",
-      "Score": 1,
-      "Time": "84:46"
+      "Score": 5,
+      "Time": "86:46"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
+    },
+    {
+      "Name": "hitler prime",
+      "Steam": "76561199416408078",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "skid",
+      "Steam": "76561198750661317",
+      "Score": 0,
+      "Time": "159:18"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 14,
-      "Time": "40:55"
+      "Score": 27,
+      "Time": "42:55"
     },
     {
       "Name": "osama",
       "Steam": "76561199116112114",
-      "Score": 0,
-      "Time": "19:41"
+      "Score": 12,
+      "Time": "21:41"
     }
   ]
 }
