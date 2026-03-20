@@ -1,58 +1,64 @@
 {
-  "Time": "2026-03-20T00:29:03.6419589Z",
+  "Time": "2026-03-20T00:31:03.6478287Z",
   "Players": [
+    {
+      "Name": "disrespect",
+      "Steam": "76561199867202544",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 2,
-      "Time": "00:58"
+      "Score": 17,
+      "Time": "02:58"
     },
     {
-      "Name": "[Mon] hypnotic",
+      "Name": "[Monolith] hypnotic",
       "Steam": "76561198350786553",
       "Score": 0,
-      "Time": "00:44"
+      "Time": "02:44"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 14,
-      "Time": "02:06"
+      "Score": 18,
+      "Time": "04:06"
     },
     {
       "Name": "xrnix",
       "Steam": "76561199659805721",
-      "Score": 2,
-      "Time": "26:30"
+      "Score": 6,
+      "Time": "28:30"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 57,
-      "Time": "23:51"
+      "Score": 65,
+      "Time": "25:51"
     },
     {
       "Name": "xrnix",
       "Steam": "76561199229699609",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
-      "Score": 62,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "g",
       "Steam": "76561198743370424",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     }
   ]
