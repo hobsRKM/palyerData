@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-20T04:17:03.7070169Z",
+  "Time": "2026-03-20T04:19:03.7198656Z",
   "Players": [
+    {
+      "Name": "No Thoughts",
+      "Steam": "76561198752949729",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 47,
-      "Time": "48:19"
+      "Score": 57,
+      "Time": "50:19"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 25,
-      "Time": "85:38"
+      "Score": 30,
+      "Time": "87:38"
     },
     {
       "Name": "evil santa on doxbin",
@@ -22,19 +28,19 @@
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 64,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 46,
-      "Time": "63:42"
+      "Score": 49,
+      "Time": "65:42"
     },
     {
       "Name": "gamesense triple o",
       "Steam": "76561198737126245",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
