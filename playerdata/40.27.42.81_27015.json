@@ -1,22 +1,16 @@
 {
-  "Time": "2026-03-20T23:51:38.6155459Z",
+  "Time": "2026-03-20T23:53:38.6082887Z",
   "Players": [
-    {
-      "Name": "ANAKIN SKYWALKER",
-      "Steam": "76561198338975423",
-      "Score": 2,
-      "Time": "01:19"
-    },
     {
       "Name": "Kxny",
       "Steam": "76561199755599976",
-      "Score": 58,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 39,
+      "Score": 45,
       "Time": "??:??"
     },
     {
@@ -28,14 +22,20 @@
     {
       "Name": "eclipse.",
       "Steam": "76561198197230391",
-      "Score": 8,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LastHope",
+      "Steam": "76561199345907245",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "osama",
       "Steam": "76561199116112114",
-      "Score": 12,
-      "Time": "79:41"
+      "Score": 16,
+      "Time": "81:41"
     }
   ]
 }
