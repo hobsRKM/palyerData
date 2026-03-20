@@ -1,11 +1,17 @@
 {
-  "Time": "2026-03-20T21:07:38.6119785Z",
+  "Time": "2026-03-20T21:09:38.613151Z",
   "Players": [
+    {
+      "Name": "craze",
+      "Steam": "76561199856382806",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 0,
-      "Time": "00:31"
+      "Score": 13,
+      "Time": "02:31"
     },
     {
       "Name": "LALACIBAB",
@@ -14,22 +20,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "ANAKIN SKYWALKER",
+      "Steam": "76561198338975423",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 22,
-      "Time": "06:35"
+      "Score": 30,
+      "Time": "08:35"
     },
     {
       "Name": "wzcpylhiupdw",
       "Steam": "76561199711463723",
-      "Score": 24,
-      "Time": "06:28"
+      "Score": 36,
+      "Time": "08:28"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "02:42"
+      "Time": "04:42"
     }
   ]
 }
