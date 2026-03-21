@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-21T17:36:36.8807515Z",
+  "Time": "2026-03-21T17:38:36.8805063Z",
   "Players": [
     {
       "Name": "HCMPresidentONTOP",
       "Steam": "76561198768795315",
-      "Score": 34,
-      "Time": "19:00"
+      "Score": 40,
+      "Time": "21:00"
     },
     {
       "Name": "noname",
       "Steam": "76561198800250172",
-      "Score": 77,
-      "Time": "93:28"
+      "Score": 87,
+      "Time": "95:28"
+    },
+    {
+      "Name": "cabbit",
+      "Steam": "76561199864960643",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
