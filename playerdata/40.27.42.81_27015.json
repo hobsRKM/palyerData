@@ -1,47 +1,41 @@
 {
-  "Time": "2026-03-21T02:45:38.617648Z",
+  "Time": "2026-03-21T02:47:38.6087115Z",
   "Players": [
+    {
+      "Name": "src",
+      "Steam": "76561198241397796",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 6,
-      "Time": "01:23"
+      "Score": 4,
+      "Time": "03:23"
     },
     {
       "Name": "s1mple",
       "Steam": "76561199183809016",
-      "Score": 28,
-      "Time": "17:30"
+      "Score": 0,
+      "Time": "19:30"
     },
     {
       "Name": "Pill§",
       "Steam": "76561198952561283",
-      "Score": 22,
-      "Time": "19:40"
+      "Score": 0,
+      "Time": "21:40"
     },
     {
       "Name": "☆\uD835\uDE41\uD835\uDE63\uD835\uDE66\uD835\uDE6E☆",
       "Steam": "76561199886624598",
-      "Score": 11,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "christian cortez",
       "Steam": "76561198756303634",
-      "Score": 32,
-      "Time": "117:21"
-    },
-    {
-      "Name": "im a immigrant",
-      "Steam": "76561199410751476",
-      "Score": 109,
-      "Time": "110:00"
-    },
-    {
-      "Name": "UrDead",
-      "Steam": "76561199784428952",
-      "Score": 40,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "119:21"
     },
     {
       "Name": "[OG]Teek",
@@ -53,18 +47,18 @@
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
       "Score": 4,
-      "Time": "01:43"
+      "Time": "03:42"
     },
     {
       "Name": "...",
       "Steam": "76561199818202251",
-      "Score": 27,
-      "Time": "15:34"
+      "Score": 3,
+      "Time": "17:34"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 118,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
