@@ -1,41 +1,59 @@
 {
-  "Time": "2026-03-21T05:09:38.6341824Z",
+  "Time": "2026-03-21T05:11:38.6441741Z",
   "Players": [
+    {
+      "Name": "Cxrbon.dev",
+      "Steam": "76561198779519837",
+      "Score": 0,
+      "Time": "00:14"
+    },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 10,
-      "Time": "19:21"
+      "Score": 16,
+      "Time": "21:21"
     },
     {
       "Name": "No Thoughts",
       "Steam": "76561198752949729",
-      "Score": 32,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199031753721",
-      "Score": 3,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "XXⅠ",
+      "Steam": "76561198762281843",
+      "Score": 8,
+      "Time": "01:29"
+    },
+    {
+      "Name": "LoveDontStop",
+      "Steam": "76561198230741068",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "✞OC✞",
       "Steam": "76561198772153840",
-      "Score": 4,
-      "Time": "01:10"
+      "Score": 6,
+      "Time": "03:10"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 32,
-      "Time": "48:57"
+      "Score": 45,
+      "Time": "50:57"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 30,
-      "Time": "37:25"
+      "Score": 36,
+      "Time": "39:25"
     }
   ]
 }
