@@ -1,64 +1,70 @@
 {
-  "Time": "2026-03-21T01:27:38.615495Z",
+  "Time": "2026-03-21T01:29:38.6070307Z",
   "Players": [
     {
       "Name": "Moms fav toe",
       "Steam": "76561198779519837",
-      "Score": 6,
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "HexMar",
+      "Steam": "76561199438236911",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 60,
-      "Time": "17:28"
+      "Score": 66,
+      "Time": "19:28"
     },
     {
       "Name": "s1mple",
       "Steam": "76561199183809016",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 83,
-      "Time": "32:00"
+      "Score": 93,
+      "Time": "34:00"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 82,
-      "Time": "25:30"
+      "Score": 92,
+      "Time": "27:30"
     },
     {
       "Name": "Xoc",
       "Steam": "76561199471107546",
       "Score": 36,
-      "Time": "31:13"
+      "Time": "33:13"
     },
     {
       "Name": "The Big Sponge",
       "Steam": "76561198774229668",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "little death",
       "Steam": "76561198350786553",
-      "Score": 9,
-      "Time": "02:15"
+      "Score": 12,
+      "Time": "04:15"
     },
     {
       "Name": "Tomas",
       "Steam": "76561198795577774",
       "Score": 0,
-      "Time": "21:52"
+      "Time": "23:52"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 61,
+      "Score": 69,
       "Time": "??:??"
     }
   ]
