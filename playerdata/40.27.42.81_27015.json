@@ -1,34 +1,40 @@
 {
-  "Time": "2026-03-21T16:50:40.5361586Z",
+  "Time": "2026-03-21T16:52:40.5336823Z",
   "Players": [
+    {
+      "Name": "jordy",
+      "Steam": "76561198213922667",
+      "Score": 0,
+      "Time": "00:39"
+    },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
-      "Score": 19,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "DarkNot",
       "Steam": "76561198727329990",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Mr.Zincon",
       "Steam": "76561198727641243",
-      "Score": 14,
-      "Time": "23:22"
+      "Score": 16,
+      "Time": "25:22"
     },
     {
-      "Name": "recoil. fetty l♡ver",
+      "Name": "recoil.l fetty l♡ver",
       "Steam": "76561198756807294",
-      "Score": 27,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "I troll people I troll people",
       "Steam": "76561198746659468",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
