@@ -1,34 +1,40 @@
 {
-  "Time": "2026-03-21T17:04:40.5346191Z",
+  "Time": "2026-03-21T17:06:40.5268882Z",
   "Players": [
+    {
+      "Name": "skid",
+      "Steam": "76561198750661317",
+      "Score": 2,
+      "Time": "00:29"
+    },
     {
       "Name": "LoveDontStop",
       "Steam": "76561198230741068",
-      "Score": 71,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "DarkNot",
       "Steam": "76561198727329990",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Mr.Zincon",
       "Steam": "76561198727641243",
-      "Score": 39,
-      "Time": "37:22"
+      "Score": 46,
+      "Time": "39:22"
     },
     {
       "Name": "ozai",
       "Steam": "76561199156395215",
-      "Score": 24,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
