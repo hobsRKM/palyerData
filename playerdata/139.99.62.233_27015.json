@@ -1,11 +1,17 @@
 {
-  "Time": "2026-03-21T11:08:36.4170456Z",
+  "Time": "2026-03-21T11:10:36.4226Z",
   "Players": [
+    {
+      "Name": "unfriendly gaten",
+      "Steam": "76561198791732336",
+      "Score": 0,
+      "Time": "00:41"
+    },
     {
       "Name": "kirk",
       "Steam": "76561198221390104",
-      "Score": 2,
-      "Time": "51:03"
+      "Score": 12,
+      "Time": "53:03"
     },
     {
       "Name": "ME MADERCHOD HU",
@@ -16,13 +22,7 @@
     {
       "Name": "Tatto Ka mael",
       "Steam": "76561198735112381",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "MayBach",
-      "Steam": "76561198735222302",
-      "Score": 0,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
