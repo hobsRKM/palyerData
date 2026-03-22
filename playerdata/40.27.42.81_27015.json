@@ -1,53 +1,59 @@
 {
-  "Time": "2026-03-22T20:14:38.6466183Z",
+  "Time": "2026-03-22T20:16:38.6502239Z",
   "Players": [
     {
       "Name": "123",
       "Steam": "76561199805557263",
+      "Score": 4,
+      "Time": "09:18"
+    },
+    {
+      "Name": "fetty l♡ver",
+      "Steam": "76561198756807294",
       "Score": 0,
-      "Time": "07:18"
+      "Time": "01:00"
     },
     {
       "Name": "winer",
       "Steam": "76561199711568220",
-      "Score": 72,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "♥ мєω ♥",
       "Steam": "76561199098795956",
       "Score": 0,
-      "Time": "03:41"
+      "Time": "05:41"
     },
     {
       "Name": "jay",
       "Steam": "76561199626903344",
-      "Score": 40,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 12,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "William simmons",
       "Steam": "76561199229233111",
-      "Score": 23,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "imaginehacking",
       "Steam": "76561198762061000",
       "Score": 2,
-      "Time": "01:14"
+      "Time": "03:14"
     }
   ]
 }
