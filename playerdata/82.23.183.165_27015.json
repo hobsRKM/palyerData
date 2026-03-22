@@ -1,4 +1,23 @@
 {
-  "Time": "2026-03-22T14:48:15.5037969Z",
-  "Players": []
+  "Time": "2026-03-22T14:48:57.1344767Z",
+  "Players": [
+    {
+      "Name": "Sebastian De Staldo",
+      "Steam": "76561199698557744",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gc153257",
+      "Steam": "76561198787507875",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] calloc",
+      "Steam": "76561199132696317",
+      "Score": 28,
+      "Time": "??:??"
+    }
+  ]
 }
