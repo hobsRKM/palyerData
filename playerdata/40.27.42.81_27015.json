@@ -1,53 +1,59 @@
 {
-  "Time": "2026-03-22T01:42:40.5337443Z",
+  "Time": "2026-03-22T01:44:40.5383548Z",
   "Players": [
     {
       "Name": "123kay",
       "Steam": "76561198738467051",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 90,
-      "Time": "68:34"
+      "Score": 98,
+      "Time": "70:34"
+    },
+    {
+      "Name": "Esoterik",
+      "Steam": "76561198281663381",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
-      "Score": 34,
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "silkroad",
+      "Steam": "76561199571686760",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 0,
-      "Time": "00:16"
-    },
-    {
-      "Name": "cheezie",
-      "Steam": "76561198273566562",
-      "Score": 34,
-      "Time": "30:53"
+      "Score": 3,
+      "Time": "02:16"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 11,
-      "Time": "43:03"
+      "Score": 13,
+      "Time": "45:03"
     },
     {
       "Name": "next to me",
       "Steam": "76561198745166022",
-      "Score": 2,
-      "Time": "03:27"
+      "Score": 5,
+      "Time": "05:27"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 41,
-      "Time": "16:31"
+      "Score": 43,
+      "Time": "18:31"
     },
     {
       "Name": "mish@nya",
@@ -58,14 +64,8 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 69,
+      "Score": 83,
       "Time": "??:??"
-    },
-    {
-      "Name": "ᵒᵘᵗᵈᵃᵗᵉᵈ odin",
-      "Steam": "76561199880717233",
-      "Score": 0,
-      "Time": "05:46"
     }
   ]
 }
