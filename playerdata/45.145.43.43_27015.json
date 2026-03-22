@@ -1,5 +1,5 @@
 {
-  "Time": "2026-03-22T19:17:54.4923491Z",
+  "Time": "2026-03-22T19:19:54.4973587Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,8 +10,14 @@
     {
       "Name": "vance",
       "Steam": "76561199889697498",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
+    },
+    {
+      "Name": "gamesense",
+      "Steam": "76561198784132499",
+      "Score": 2,
+      "Time": "01:01"
     },
     {
       "Name": "COCO",
@@ -22,14 +28,14 @@
     {
       "Name": "anorexic twink",
       "Steam": "76561198780475574",
-      "Score": 0,
-      "Time": "00:33"
+      "Score": 2,
+      "Time": "02:33"
     },
     {
       "Name": "Candle",
       "Steam": "76561199124382484",
-      "Score": 50,
-      "Time": "01:26"
+      "Score": 52,
+      "Time": "03:26"
     },
     {
       "Name": "enigmahvh",
@@ -40,8 +46,8 @@
     {
       "Name": "hvh",
       "Steam": "76561199071241689",
-      "Score": 57,
-      "Time": "37:03"
+      "Score": 69,
+      "Time": "39:03"
     }
   ]
 }
