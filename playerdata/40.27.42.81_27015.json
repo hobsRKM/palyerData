@@ -1,47 +1,41 @@
 {
-  "Time": "2026-03-22T02:22:40.5266107Z",
+  "Time": "2026-03-22T02:24:40.5265432Z",
   "Players": [
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 3,
-      "Time": "25:50"
+      "Score": 9,
+      "Time": "27:50"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 146,
-      "Time": "108:34"
+      "Score": 152,
+      "Time": "110:34"
     },
     {
       "Name": "Esoterik",
       "Steam": "76561198281663381",
-      "Score": 60,
-      "Time": "??:??"
-    },
-    {
-      "Name": "LeaLea",
-      "Steam": "76561199319414622",
-      "Score": 52,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "nagi",
       "Steam": "76561199097243449",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 55,
-      "Time": "83:03"
+      "Time": "85:03"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
       "Score": 20,
-      "Time": "56:31"
+      "Time": "58:31"
     }
   ]
 }
