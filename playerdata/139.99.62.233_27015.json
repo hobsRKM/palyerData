@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-22T09:18:31.0898035Z",
+  "Time": "2026-03-22T09:20:31.0925476Z",
   "Players": [
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "esther luv tea",
       "Steam": "76561198124032291",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "Unknown Player",
+      "Steam": "76561199501380694",
+      "Score": 0,
+      "Time": "01:01"
     }
   ]
 }
