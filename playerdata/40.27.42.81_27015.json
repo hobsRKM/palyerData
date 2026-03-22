@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-22T02:56:40.5272893Z",
+  "Time": "2026-03-22T02:58:40.5321862Z",
   "Players": [
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 59,
-      "Time": "142:34"
+      "Score": 69,
+      "Time": "144:34"
     },
     {
       "Name": "Peanut Butter Jar",
       "Steam": "76561198746886226",
-      "Score": 0,
-      "Time": "72:49"
+      "Score": 4,
+      "Time": "74:49"
     },
     {
       "Name": "Nightly",
       "Steam": "76561199510561767",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "i care too much",
       "Steam": "76561199847868570",
-      "Score": 29,
-      "Time": "05:00"
+      "Score": 31,
+      "Time": "07:00"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 37,
-      "Time": "110:50"
+      "Score": 38,
+      "Time": "112:50"
+    },
+    {
+      "Name": "pharma",
+      "Steam": "76561198742003073",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "_wingz_",
@@ -40,14 +46,14 @@
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 29,
-      "Time": "117:03"
+      "Score": 35,
+      "Time": "119:03"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
       "Score": 6,
-      "Time": "90:31"
+      "Time": "92:31"
     }
   ]
 }
