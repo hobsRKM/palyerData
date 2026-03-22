@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-22T05:08:40.5219939Z",
+  "Time": "2026-03-22T05:10:40.522707Z",
   "Players": [
+    {
+      "Name": "little death",
+      "Steam": "76561198350786553",
+      "Score": 4,
+      "Time": "138:23"
+    },
     {
       "Name": "Granddaddy Purple Kush",
       "Steam": "76561198726736835",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "air",
       "Steam": "76561198747820272",
-      "Score": 36,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "mom i luv u",
       "Steam": "76561198779519837",
-      "Score": 6,
-      "Time": "08:12"
+      "Score": 8,
+      "Time": "10:12"
     }
   ]
 }
