@@ -1,59 +1,65 @@
 {
-  "Time": "2026-03-22T07:18:42.025747Z",
+  "Time": "2026-03-22T07:20:42.0372617Z",
   "Players": [
     {
       "Name": "Kxny",
       "Steam": "76561199755599976",
-      "Score": 78,
-      "Time": "35:29"
+      "Score": 80,
+      "Time": "37:29"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
       "Score": 47,
-      "Time": "21:25"
+      "Time": "23:25"
+    },
+    {
+      "Name": "NoorJean",
+      "Steam": "76561199047359940",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "rip SHIVERSOFT!",
       "Steam": "76561198979204236",
-      "Score": 39,
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[ am ]",
+      "Steam": "76561199187190389",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
       "Score": 0,
-      "Time": "787:27"
+      "Time": "789:27"
     },
     {
       "Name": "winer",
       "Steam": "76561199711568220",
-      "Score": 51,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 38,
-      "Time": "24:59"
+      "Score": 45,
+      "Time": "26:59"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 6,
-      "Time": "104:22"
+      "Score": 10,
+      "Time": "106:22"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 29,
+      "Score": 30,
       "Time": "??:??"
-    },
-    {
-      "Name": "ᵒᵘᵗᵈᵃᵗᵉᵈ odin",
-      "Steam": "76561199880717233",
-      "Score": 9,
-      "Time": "05:32"
     }
   ]
 }
