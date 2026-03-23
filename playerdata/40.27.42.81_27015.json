@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-23T02:30:38.0680995Z",
+  "Time": "2026-03-23T02:32:38.0791738Z",
   "Players": [
+    {
+      "Name": "rip SHIVERSOFT!",
+      "Steam": "76561198979204236",
+      "Score": 0,
+      "Time": "01:00"
+    },
     {
       "Name": "eclipse.",
       "Steam": "76561198197230391",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "recoil.lua fetty l♡ver",
       "Steam": "76561198756807294",
-      "Score": 16,
-      "Time": "06:04"
+      "Score": 2,
+      "Time": "08:04"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
-      "Score": 29,
-      "Time": "20:25"
+      "Score": 40,
+      "Time": "22:25"
     },
     {
-      "Name": "[Monolith] promethyzx",
+      "Name": "[173] promethyzx",
       "Steam": "76561199308591917",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "#freetaps",
       "Steam": "76561198273566562",
-      "Score": 24,
-      "Time": "04:33"
+      "Score": 35,
+      "Time": "06:33"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
       "Score": 0,
-      "Time": "21:57"
+      "Time": "23:57"
     }
   ]
 }
