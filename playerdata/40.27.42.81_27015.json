@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-23T19:55:01.7293205Z",
+  "Time": "2026-03-23T19:57:01.7301696Z",
   "Players": [
     {
       "Name": "airlagger",
       "Steam": "76561199714249946",
       "Score": 0,
-      "Time": "200:20"
+      "Time": "202:20"
+    },
+    {
+      "Name": "@@@@@@@",
+      "Steam": "76561198745487779",
+      "Score": 2,
+      "Time": "00:55"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 16,
-      "Time": "61:52"
+      "Score": 22,
+      "Time": "63:52"
     },
     {
       "Name": "gerbert",
@@ -22,14 +28,14 @@
     {
       "Name": "\uD835\uDC52\uD835\uDCB8\uD835\uDCC8\uD835\uDCC9\uD835\uDCB6\uD835\uDCB8\uD835\uDCCE⛧",
       "Steam": "76561198899226310",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "CYP",
       "Steam": "76561198419800314",
-      "Score": 54,
-      "Time": "29:32"
+      "Score": 62,
+      "Time": "31:32"
     },
     {
       "Name": "Mercury",
@@ -40,8 +46,8 @@
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 20,
-      "Time": "11:16"
+      "Score": 28,
+      "Time": "13:16"
     }
   ]
 }
