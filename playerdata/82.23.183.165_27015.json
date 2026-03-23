@@ -1,4 +1,41 @@
 {
-  "Time": "2026-03-23T19:36:16.7408299Z",
-  "Players": []
+  "Time": "2026-03-23T19:36:54.0606697Z",
+  "Players": [
+    {
+      "Name": "Microsoft Edge",
+      "Steam": "76561199182164561",
+      "Score": 50,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ebetti1805",
+      "Steam": "76561199390203782",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "satan",
+      "Steam": "76561199571154189",
+      "Score": 111,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fragile",
+      "Steam": "76561198727293392",
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "akira",
+      "Steam": "76561199097243449",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mickey Mousseux",
+      "Steam": "76561199558652172",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
