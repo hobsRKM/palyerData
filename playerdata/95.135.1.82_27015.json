@@ -1,47 +1,53 @@
 {
-  "Time": "2026-03-23T00:04:28.4398145Z",
+  "Time": "2026-03-23T00:04:43.8191965Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "jAMAL",
+      "Steam": "76561198963830393",
+      "Score": 15,
+      "Time": "287:42"
+    },
+    {
+      "Name": "FatBanker",
+      "Steam": "76561198737190518",
+      "Score": 5,
+      "Time": "21:18"
+    },
+    {
+      "Name": "KKKasti",
+      "Steam": "76561199833286399",
+      "Score": 6,
+      "Time": "270:51"
+    },
+    {
+      "Name": "☆\uD835\uDE4F\uD835\uDE5E\uD835\uDE62\uD835\uDE5A\uD835\uDE5A☆",
+      "Steam": "76561199206658984",
+      "Score": 14,
+      "Time": "304:37"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198784581696",
+      "Score": 24,
+      "Time": "290:14"
+    },
+    {
+      "Name": "Seiðr",
+      "Steam": "76561198333235279",
+      "Score": 20,
+      "Time": "264:56"
+    },
+    {
+      "Name": "ROBOTAIM",
+      "Steam": "76561199127852374",
+      "Score": 6,
+      "Time": "07:01"
+    },
+    {
+      "Name": "catsssssss",
+      "Steam": "76561198262743256",
       "Score": 0,
-      "Time": "294:31"
-    },
-    {
-      "Name": "LastHope",
-      "Steam": "76561199345907245",
-      "Score": 8,
-      "Time": "202:34"
-    },
-    {
-      "Name": "CumCatching",
-      "Steam": "76561198724188430",
-      "Score": 1,
       "Time": "??:??"
-    },
-    {
-      "Name": "Николай Раевский",
-      "Steam": "76561199551821399",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "</>",
-      "Steam": "76561199221165898",
-      "Score": 2,
-      "Time": "07:34"
-    },
-    {
-      "Name": "GustVoltage",
-      "Steam": "76561198726677723",
-      "Score": 0,
-      "Time": "81:26"
-    },
-    {
-      "Name": "Peugeot206GTI",
-      "Steam": "76561199512232777",
-      "Score": 0,
-      "Time": "00:26"
     }
   ]
 }
