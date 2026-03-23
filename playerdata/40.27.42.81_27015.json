@@ -1,22 +1,40 @@
 {
-  "Time": "2026-03-23T01:56:38.661181Z",
+  "Time": "2026-03-23T01:58:38.6608779Z",
   "Players": [
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 2,
+      "Time": "00:57"
+    },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 27,
-      "Time": "65:33"
+      "Score": 33,
+      "Time": "67:33"
     },
     {
       "Name": "Kxny",
       "Steam": "76561199755599976",
-      "Score": 48,
+      "Score": 56,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Mon] promethyzx",
+      "Steam": "76561199308591917",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "disrespect",
+      "Steam": "76561199867202544",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 14,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
