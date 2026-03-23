@@ -1,4 +1,23 @@
 {
-  "Time": "2026-03-23T06:58:54.7008033Z",
-  "Players": []
+  "Time": "2026-03-23T06:58:59.2281195Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "19:54"
+    },
+    {
+      "Name": "[Monolith] neverland",
+      "Steam": "76561197961763923",
+      "Score": 64,
+      "Time": "06:04"
+    },
+    {
+      "Name": "udartapkom",
+      "Steam": "76561199235138315",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
