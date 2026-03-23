@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-23T04:52:32.4137988Z",
+  "Time": "2026-03-23T04:54:32.4181069Z",
   "Players": [
     {
       "Name": "noname",
       "Steam": "76561198800250172",
-      "Score": 0,
-      "Time": "02:36"
+      "Score": 10,
+      "Time": "04:36"
     },
     {
       "Name": "Tell Me Why???",
       "Steam": "76561199557856957",
       "Score": 0,
-      "Time": "02:44"
+      "Time": "04:44"
     },
     {
       "Name": "corras",
       "Steam": "76561198761584403",
-      "Score": 2,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "My name is hungry",
+      "Steam": "76561198736174675",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
