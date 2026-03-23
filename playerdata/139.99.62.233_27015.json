@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-23T11:52:32.4247247Z",
+  "Time": "2026-03-23T11:54:32.4263458Z",
   "Players": [
+    {
+      "Name": "Дьяваленок",
+      "Steam": "76561199187046998",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Ayla",
       "Steam": "76561199880055163",
-      "Score": 12,
-      "Time": "03:16"
+      "Score": 20,
+      "Time": "05:16"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
       "Score": 4,
-      "Time": "46:29"
+      "Time": "48:29"
     },
     {
       "Name": "ᶻᶻᶻ rayquaza",
       "Steam": "76561199565774770",
-      "Score": 66,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 26,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "n1cknz?",
       "Steam": "76561198760723734",
-      "Score": 14,
-      "Time": "03:50"
+      "Score": 16,
+      "Time": "05:50"
     },
     {
-      "Name": "[Mon] yen",
+      "Name": "[Monolith] yen",
       "Steam": "76561199693252775",
-      "Score": 10,
-      "Time": "11:03"
+      "Score": 13,
+      "Time": "13:03"
     }
   ]
 }
