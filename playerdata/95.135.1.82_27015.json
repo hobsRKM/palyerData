@@ -1,5 +1,5 @@
 {
-  "Time": "2026-03-24T20:17:09.8030898Z",
+  "Time": "2026-03-24T20:19:09.7942925Z",
   "Players": [
     {
       "Name": "Nim",
@@ -10,6 +10,12 @@
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nixware User",
+      "Steam": "76561198722949333",
       "Score": 0,
       "Time": "??:??"
     },
@@ -35,7 +41,7 @@
       "Name": "Blank",
       "Steam": "76561199396651185",
       "Score": 2,
-      "Time": "29:17"
+      "Time": "31:17"
     },
     {
       "Name": "goaim beta user",
@@ -46,19 +52,19 @@
     {
       "Name": "void",
       "Steam": "76561199503396912",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "bestcfgformeme",
       "Steam": "76561198771683907",
-      "Score": 20,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "emanuelguilhermessilveirrarocha",
       "Steam": "76561199042138318",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
