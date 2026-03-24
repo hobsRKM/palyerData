@@ -1,46 +1,58 @@
 {
-  "Time": "2026-03-24T18:52:24.8063403Z",
+  "Time": "2026-03-24T18:54:24.8030669Z",
   "Players": [
+    {
+      "Name": "Japonezu",
+      "Steam": "76561198856410557",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": ":3",
       "Steam": "76561198757630537",
-      "Score": 39,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kfc sokeg ᵐᵒᵐᵐʸˢ ᵍᵒᵒᵈ ᵇᵒʸ",
+      "Steam": "76561199114850775",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Norfi",
+      "Steam": "76561199415020458",
+      "Score": 1,
+      "Time": "01:24"
+    },
+    {
+      "Name": "Anonymous",
+      "Steam": "76561199845560638",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "aimware.net",
       "Steam": "76561198751298450",
-      "Score": 0,
-      "Time": "16:09"
-    },
-    {
-      "Name": "Вася ДПС",
-      "Steam": "76561198754730570",
       "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Bean_",
-      "Steam": "76561199096646407",
-      "Score": 29,
-      "Time": "??:??"
+      "Time": "18:09"
     },
     {
       "Name": "Nixware User",
       "Steam": "76561199699181728",
-      "Score": 52,
-      "Time": "19:08"
+      "Score": 6,
+      "Time": "21:08"
     },
     {
-      "Name": "[Mon] veylon",
+      "Name": "[Monolith] veylon",
       "Steam": "76561199690185461",
-      "Score": 8,
-      "Time": "11:21"
+      "Score": 4,
+      "Time": "13:21"
     },
     {
       "Name": "⁺ ₊✦Ria₊✦°",
       "Steam": "76561199236818034",
-      "Score": 69,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
