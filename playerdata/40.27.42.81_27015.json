@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-24T18:56:56.6323136Z",
+  "Time": "2026-03-24T18:58:56.6424704Z",
   "Players": [
     {
       "Name": "gamesense triple o",
       "Steam": "76561198737126245",
-      "Score": 22,
-      "Time": "12:00"
+      "Score": 36,
+      "Time": "14:00"
     },
     {
       "Name": "Mr Creamy Peanut",
       "Steam": "76561199229233111",
-      "Score": 16,
-      "Time": "19:08"
+      "Score": 18,
+      "Time": "21:08"
+    },
+    {
+      "Name": "JS",
+      "Steam": "76561199828563808",
+      "Score": 50,
+      "Time": "01:08"
     },
     {
       "Name": "steph0nii",
@@ -22,8 +28,14 @@
     {
       "Name": "[ am ]",
       "Steam": "76561199187190389",
-      "Score": 63,
-      "Time": "19:30"
+      "Score": 70,
+      "Time": "21:30"
+    },
+    {
+      "Name": "superior avos",
+      "Steam": "76561198731443856",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
