@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-24T21:10:56.6336072Z",
+  "Time": "2026-03-24T21:14:56.6326688Z",
   "Players": [
+    {
+      "Name": "bot kiki",
+      "Steam": "76561199711636978",
+      "Score": 9,
+      "Time": "02:57"
+    },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199856878709",
@@ -16,44 +22,38 @@
     {
       "Name": "Mr Creamy Peanut",
       "Steam": "76561199229233111",
-      "Score": 7,
-      "Time": "35:17"
+      "Score": 17,
+      "Time": "39:17"
     },
     {
       "Name": "imnotpig",
       "Steam": "76561199158419168",
-      "Score": 7,
+      "Score": 21,
       "Time": "??:??"
+    },
+    {
+      "Name": "mmmmmmmmmm",
+      "Steam": "76561198745487779",
+      "Score": 9,
+      "Time": "03:16"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 4,
-      "Time": "22:06"
-    },
-    {
-      "Name": "new to hvh | how to play?",
-      "Steam": "76561198733352082",
-      "Score": 35,
-      "Time": "04:52"
+      "Score": 0,
+      "Time": "26:06"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 18,
-      "Time": "61:59"
-    },
-    {
-      "Name": "if u hack i inject",
-      "Steam": "76561198723890204",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 34,
+      "Time": "65:59"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
-      "Score": 21,
-      "Time": "13:07"
+      "Score": 26,
+      "Time": "17:07"
     }
   ]
 }
