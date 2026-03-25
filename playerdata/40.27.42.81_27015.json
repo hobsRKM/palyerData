@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-25T18:30:41.7266524Z",
+  "Time": "2026-03-25T18:32:41.728301Z",
   "Players": [
+    {
+      "Name": "An Foid",
+      "Steam": "76561199466948855",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
       "Score": 0,
-      "Time": "06:17"
+      "Time": "08:17"
     },
     {
       "Name": "Pill§",
       "Steam": "76561198952561283",
       "Score": 0,
-      "Time": "62:45"
+      "Time": "64:45"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 41,
+      "Score": 49,
       "Time": "??:??"
     },
     {
@@ -28,19 +34,19 @@
     {
       "Name": "creamcheese835",
       "Steam": "76561199856027303",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
-      "Name": "[Monolith] promethyzx",
+      "Name": "[173] promethyzx",
       "Steam": "76561197960922514",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     }
   ]
