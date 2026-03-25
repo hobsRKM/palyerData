@@ -1,40 +1,52 @@
 {
-  "Time": "2026-03-25T20:04:41.7331128Z",
+  "Time": "2026-03-25T20:06:41.7342764Z",
   "Players": [
+    {
+      "Name": "67",
+      "Steam": "76561198733399387",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
       "Score": 0,
-      "Time": "42:19"
+      "Time": "44:19"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 0,
-      "Time": "54:02"
+      "Score": 5,
+      "Time": "56:02"
     },
     {
       "Name": "The villain in glasses",
       "Steam": "76561198441215545",
-      "Score": 0,
-      "Time": "25:52"
+      "Score": 10,
+      "Time": "27:52"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 0,
-      "Time": "13:21"
+      "Score": 6,
+      "Time": "15:21"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 0,
-      "Time": "33:21"
+      "Score": 4,
+      "Time": "35:21"
     },
     {
       "Name": "kst",
       "Steam": "76561199812396222",
-      "Score": 0,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ADL",
+      "Steam": "76561198723445690",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
