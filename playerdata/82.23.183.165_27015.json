@@ -1,4 +1,41 @@
 {
-  "Time": "2026-03-25T20:02:57.7160465Z",
-  "Players": []
+  "Time": "2026-03-25T20:03:24.4095507Z",
+  "Players": [
+    {
+      "Name": "kgaard",
+      "Steam": "76561198997246062",
+      "Score": 16,
+      "Time": "179:35"
+    },
+    {
+      "Name": "fallen angel",
+      "Steam": "76561199171127041",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cizdo",
+      "Steam": "76561199435596325",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] emil_toge",
+      "Steam": "76561198740443976",
+      "Score": 18,
+      "Time": "08:43"
+    },
+    {
+      "Name": "$67$ Storm $67$",
+      "Steam": "76561199013172589",
+      "Score": 42,
+      "Time": "12:56"
+    },
+    {
+      "Name": "HardTry",
+      "Steam": "76561198774309786",
+      "Score": 2,
+      "Time": "10:04"
+    }
+  ]
 }
