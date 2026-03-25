@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-25T20:48:24.6086635Z",
+  "Time": "2026-03-25T20:50:24.60958Z",
   "Players": [
+    {
+      "Name": "Luno_x",
+      "Steam": "76561198731979717",
+      "Score": 0,
+      "Time": "00:15"
+    },
     {
       "Name": "GustVoltage",
       "Steam": "76561198726677723",
@@ -22,31 +28,37 @@
     {
       "Name": "0x000000",
       "Steam": "76561199797886237",
-      "Score": 50,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "Adrian Domado",
       "Steam": "76561199617269887",
-      "Score": 26,
+      "Score": 40,
       "Time": "??:??"
     },
     {
-      "Name": "Tem | \uD835\uDDE2\uD835\uDDE1\uD835\uDDDC\uD835\uDDEB",
+      "Name": "Temp | \uD835\uDDE2\uD835\uDDE1\uD835\uDDDC\uD835\uDDEB",
       "Steam": "76561199731571737",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "nfa loader",
       "Steam": "76561198775804836",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
-      "Name": "P. Diddy",
-      "Steam": "76561199850088115",
-      "Score": 6,
+      "Name": "Bean_",
+      "Steam": "76561199096646407",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ᴰᴱᵀᴼᵁᴿ syntrix",
+      "Steam": "76561199230497763",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
