@@ -1,4 +1,41 @@
 {
-  "Time": "2026-03-25T17:24:57.7118941Z",
-  "Players": []
+  "Time": "2026-03-25T17:25:22.5655177Z",
+  "Players": [
+    {
+      "Name": "Bread",
+      "Steam": "76561199068154041",
+      "Score": 21,
+      "Time": "18:59"
+    },
+    {
+      "Name": "9137720130",
+      "Steam": "76561198746046142",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "goaim beta user",
+      "Steam": "76561198788475992",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "effrayant",
+      "Steam": "76561198195247117",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GustVoltage",
+      "Steam": "76561198726677723",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LoyalSyntax",
+      "Steam": "76561199010064468",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
