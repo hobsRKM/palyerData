@@ -1,53 +1,59 @@
 {
-  "Time": "2026-03-25T11:34:32.4191977Z",
+  "Time": "2026-03-25T11:36:32.4187707Z",
   "Players": [
     {
       "Name": "juliet.faith",
       "Steam": "76561198725974962",
-      "Score": 20,
-      "Time": "66:04"
+      "Score": 24,
+      "Time": "68:04"
     },
     {
       "Name": "rose_are_rosie",
       "Steam": "76561198918950603",
       "Score": 0,
-      "Time": "28:25"
+      "Time": "30:25"
     },
     {
       "Name": "noname",
       "Steam": "76561198800250172",
-      "Score": 53,
-      "Time": "22:15"
+      "Score": 61,
+      "Time": "24:15"
     },
     {
       "Name": "Xeil",
       "Steam": "76561199834620426",
       "Score": 0,
-      "Time": "05:16"
+      "Time": "07:16"
+    },
+    {
+      "Name": "skateboard cow",
+      "Steam": "76561199582103015",
+      "Score": 8,
+      "Time": "00:24"
     },
     {
       "Name": "ether",
       "Steam": "76561199724403388",
-      "Score": 72,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "zyro",
       "Steam": "76561198740186999",
-      "Score": 85,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "viper",
       "Steam": "76561199174565023",
-      "Score": 43,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "Lin Biao",
       "Steam": "76561198731496983",
-      "Score": 22,
-      "Time": "06:12"
+      "Score": 23,
+      "Time": "01:14"
     }
   ]
 }
