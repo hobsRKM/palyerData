@@ -1,34 +1,40 @@
 {
-  "Time": "2026-03-25T15:50:41.7207609Z",
+  "Time": "2026-03-25T15:52:41.7209346Z",
   "Players": [
+    {
+      "Name": "[ am ]",
+      "Steam": "76561199187190389",
+      "Score": 13,
+      "Time": "01:24"
+    },
     {
       "Name": "mmmmmmmmmm",
       "Steam": "76561198745487779",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "jordy",
       "Steam": "76561198213922667",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "D gets no hos",
       "Steam": "76561199868419880",
       "Score": 0,
-      "Time": "00:15"
+      "Time": "02:15"
     },
     {
       "Name": "torta",
       "Steam": "76561199855281759",
-      "Score": 8,
-      "Time": "27:50"
+      "Score": 21,
+      "Time": "29:50"
     },
     {
       "Name": "Reckless",
       "Steam": "76561198725486285",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
