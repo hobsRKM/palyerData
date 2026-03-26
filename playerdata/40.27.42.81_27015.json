@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-26T08:08:30.1846138Z",
+  "Time": "2026-03-26T08:10:30.180419Z",
   "Players": [
+    {
+      "Name": "ADL",
+      "Steam": "76561198723445690",
+      "Score": 0,
+      "Time": "361:52"
+    },
     {
       "Name": "shotslikeHARDAWAY",
       "Steam": "76561198756127189",
-      "Score": 2,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "ecstacy",
       "Steam": "76561199151609154",
-      "Score": 24,
+      "Score": 34,
       "Time": "??:??"
     },
     {
-      "Name": "[499] Fipre",
+      "Name": "[Mon] Fipre",
       "Steam": "76561199594039131",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     }
   ]
