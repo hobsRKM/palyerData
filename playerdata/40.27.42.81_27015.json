@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-26T22:52:45.2184296Z",
+  "Time": "2026-03-26T22:54:45.2214146Z",
   "Players": [
     {
       "Name": "interlude",
       "Steam": "76561198838638893",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 6,
+      "Time": "00:57"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
       "Score": 2,
-      "Time": "03:03"
+      "Time": "05:03"
     },
     {
       "Name": "\uD835\uDC52\uD835\uDCB8\uD835\uDCC8\uD835\uDCC9\uD835\uDCB6\uD835\uDCB8\uD835\uDCCE⛧",
       "Steam": "76561198899226310",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
@@ -24,6 +30,12 @@
       "Steam": "76561197977263027",
       "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "gerbert",
+      "Steam": "76561199803883011",
+      "Score": 0,
+      "Time": "00:20"
     }
   ]
 }
