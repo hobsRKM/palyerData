@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-26T05:08:30.1920255Z",
+  "Time": "2026-03-26T05:10:30.1845909Z",
   "Players": [
     {
       "Name": "ava",
       "Steam": "76561199881101735",
-      "Score": 2,
-      "Time": "41:33"
+      "Score": 4,
+      "Time": "43:33"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 43,
+      "Score": 54,
       "Time": "??:??"
+    },
+    {
+      "Name": "Sunshine",
+      "Steam": "76561198779602872",
+      "Score": 0,
+      "Time": "01:18"
     },
     {
       "Name": "woldsq057",
       "Steam": "76561198725132372",
       "Score": 2,
-      "Time": "03:12"
+      "Time": "05:12"
     },
     {
-      "Name": "Perhks",
-      "Steam": "76561198293312486",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "S",
+      "Steam": "76561199889163804",
+      "Score": 4,
+      "Time": "263:52"
     },
     {
       "Name": "Lead singer in Heavy Metal Band",
@@ -34,8 +40,8 @@
     {
       "Name": "idk",
       "Steam": "76561198741685170",
-      "Score": 22,
-      "Time": "15:41"
+      "Score": 30,
+      "Time": "17:40"
     }
   ]
 }
