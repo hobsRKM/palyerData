@@ -1,53 +1,59 @@
 {
-  "Time": "2026-03-26T01:06:30.1805734Z",
+  "Time": "2026-03-26T01:08:30.1704501Z",
   "Players": [
     {
       "Name": "starlight",
       "Steam": "76561199885859923",
-      "Score": 52,
+      "Score": 62,
       "Time": "??:??"
+    },
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "20:43"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 32,
-      "Time": "09:41"
+      "Score": 42,
+      "Time": "11:41"
     },
     {
       "Name": "Smashy",
       "Steam": "76561198114074466",
-      "Score": 0,
-      "Time": "02:18"
+      "Score": 9,
+      "Time": "04:18"
     },
     {
       "Name": "Sunshine",
       "Steam": "76561198779602872",
       "Score": 32,
-      "Time": "21:17"
+      "Time": "23:17"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 45,
-      "Time": "163:48"
+      "Time": "165:48"
     },
     {
       "Name": "\uD83C\uDF4E",
       "Steam": "76561199711953395",
-      "Score": 48,
-      "Time": "06:50"
+      "Score": 54,
+      "Time": "08:50"
     },
     {
       "Name": "XXⅠ",
       "Steam": "76561198762281843",
-      "Score": 56,
-      "Time": "25:15"
+      "Score": 62,
+      "Time": "27:15"
     },
     {
       "Name": "akira",
       "Steam": "76561199097243449",
-      "Score": 0,
-      "Time": "00:05"
+      "Score": 8,
+      "Time": "02:05"
     }
   ]
 }
