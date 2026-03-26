@@ -1,10 +1,16 @@
 {
-  "Time": "2026-03-26T04:00:30.1723477Z",
+  "Time": "2026-03-26T04:02:30.1695725Z",
   "Players": [
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
-      "Score": 10,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ascend",
+      "Steam": "76561198729855319",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -16,8 +22,14 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 28,
+      "Score": 40,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDC52\uD835\uDCB8\uD835\uDCC8\uD835\uDCC9\uD835\uDCB6\uD835\uDCB8\uD835\uDCCE⛧",
+      "Steam": "76561198899226310",
+      "Score": 0,
+      "Time": "96:59"
     },
     {
       "Name": "Nim",
@@ -34,14 +46,14 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 31,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "TrickosDolos",
       "Steam": "76561199869172370",
       "Score": 0,
-      "Time": "02:05"
+      "Time": "04:05"
     }
   ]
 }
