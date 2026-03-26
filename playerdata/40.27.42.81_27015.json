@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-26T08:38:30.1942066Z",
+  "Time": "2026-03-26T08:40:30.1946195Z",
   "Players": [
     {
       "Name": "ADL",
       "Steam": "76561198723445690",
-      "Score": 46,
-      "Time": "15:56"
+      "Score": 54,
+      "Time": "17:56"
+    },
+    {
+      "Name": "shotslikeHARDAWAY",
+      "Steam": "76561198756127189",
+      "Score": 0,
+      "Time": "00:44"
     },
     {
       "Name": "Sunshine",
       "Steam": "76561198779602872",
-      "Score": 61,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Joc",
       "Steam": "76561199880717233",
-      "Score": 4,
-      "Time": "196:56"
+      "Score": 7,
+      "Time": "198:56"
     }
   ]
 }
