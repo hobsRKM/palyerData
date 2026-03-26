@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-26T22:58:45.2189063Z",
+  "Time": "2026-03-26T23:00:45.2287964Z",
   "Players": [
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 34,
-      "Time": "04:57"
+      "Score": 37,
+      "Time": "06:57"
     },
     {
       "Name": "\uD835\uDC52\uD835\uDCB8\uD835\uDCC8\uD835\uDCC9\uD835\uDCB6\uD835\uDCB8\uD835\uDCCE⛧",
       "Steam": "76561198899226310",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
+    },
+    {
+      "Name": "ghost",
+      "Steam": "76561199832897078",
+      "Score": 0,
+      "Time": "00:50"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 3,
-      "Time": "04:20"
+      "Score": 7,
+      "Time": "06:20"
     }
   ]
 }
