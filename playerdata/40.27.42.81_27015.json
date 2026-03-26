@@ -1,11 +1,17 @@
 {
-  "Time": "2026-03-26T17:50:45.1378042Z",
+  "Time": "2026-03-26T17:52:45.1419361Z",
   "Players": [
     {
       "Name": "googie@bandit",
       "Steam": "76561199812995857",
-      "Score": 32,
-      "Time": "26:50"
+      "Score": 33,
+      "Time": "28:50"
+    },
+    {
+      "Name": "JS",
+      "Steam": "76561199828563808",
+      "Score": 0,
+      "Time": "01:04"
     },
     {
       "Name": "Mickey",
@@ -16,25 +22,31 @@
     {
       "Name": "[ am ]",
       "Steam": "76561199187190389",
-      "Score": 97,
+      "Score": 99,
       "Time": "??:??"
     },
     {
       "Name": "S",
       "Steam": "76561199889163804",
-      "Score": 53,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "idk",
       "Steam": "76561198738953534",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Tom Cruise",
       "Steam": "76561198041181851",
-      "Score": 39,
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mmmmmmmmmm",
+      "Steam": "76561198745487779",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
