@@ -1,46 +1,52 @@
 {
-  "Time": "2026-03-26T17:10:45.1411962Z",
+  "Time": "2026-03-26T17:12:45.1428793Z",
   "Players": [
+    {
+      "Name": "rain",
+      "Steam": "76561199876077209",
+      "Score": 0,
+      "Time": "00:23"
+    },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 34,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Way 2 Sexy",
       "Steam": "76561199156395215",
-      "Score": 21,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Sunshine",
       "Steam": "76561198779602872",
-      "Score": 5,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Mickey",
       "Steam": "76561197996259379",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "[ am ]",
       "Steam": "76561199187190389",
-      "Score": 25,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "S",
       "Steam": "76561199889163804",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "idk",
       "Steam": "76561198738953534",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
