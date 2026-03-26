@@ -1,34 +1,40 @@
 {
-  "Time": "2026-03-26T19:27:07.0315262Z",
+  "Time": "2026-03-26T19:29:07.0297014Z",
   "Players": [
     {
       "Name": ".::.",
       "Steam": "76561199785510703",
-      "Score": 2,
-      "Time": "18:01"
+      "Score": 6,
+      "Time": "20:01"
     },
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Cappuccino",
       "Steam": "76561198772970208",
       "Score": 3,
-      "Time": "59:03"
+      "Time": "61:03"
     },
     {
       "Name": "rose_are_rosie",
       "Steam": "76561198918950603",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "USDT",
       "Steam": "76561199509736460",
-      "Score": 4,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Connecting...",
+      "Steam": "76561198166676448",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
