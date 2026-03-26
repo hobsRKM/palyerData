@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-26T11:54:42.4774924Z",
+  "Time": "2026-03-26T11:56:42.4787816Z",
   "Players": [
     {
-      "Name": "_ | unfriendly gaten",
+      "Name": "merijn54",
+      "Steam": "76561198723298381",
+      "Score": 0,
+      "Time": "00:15"
+    },
+    {
+      "Name": "> AU_ | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 19,
-      "Time": "16:38"
+      "Score": 23,
+      "Time": "18:38"
     },
     {
       "Name": "Nine vicious",
       "Steam": "76561199816782431",
-      "Score": 16,
-      "Time": "10:04"
+      "Score": 18,
+      "Time": "12:04"
     },
     {
       "Name": "K03",
       "Steam": "76561199788609972",
       "Score": 2,
-      "Time": "19:59"
+      "Time": "21:59"
     },
     {
       "Name": "noname",
       "Steam": "76561198800250172",
-      "Score": 32,
-      "Time": "12:28"
+      "Score": 34,
+      "Time": "14:28"
     },
     {
       "Name": "\uD835\uDC9F-\uD835\uDC9C",
       "Steam": "76561199878202316",
-      "Score": 8,
-      "Time": "30:18"
+      "Score": 16,
+      "Time": "32:18"
     }
   ]
 }
