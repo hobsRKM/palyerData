@@ -1,17 +1,11 @@
 {
-  "Time": "2026-03-26T15:10:45.1399834Z",
+  "Time": "2026-03-26T15:12:45.1428213Z",
   "Players": [
-    {
-      "Name": "///////////////////////////",
-      "Steam": "76561199655883528",
-      "Score": 92,
-      "Time": "35:18"
-    },
     {
       "Name": "the talking wall",
       "Steam": "76561199229233111",
-      "Score": 70,
-      "Time": "27:07"
+      "Score": 74,
+      "Time": "29:07"
     },
     {
       "Name": "googie@bandit",
@@ -22,13 +16,19 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 58,
+      "Score": 62,
       "Time": "??:??"
     },
     {
-      "Name": "awesomesauce999",
-      "Steam": "76561199479457727",
-      "Score": 4,
+      "Name": "rain",
+      "Steam": "76561199876077209",
+      "Score": 0,
+      "Time": "00:35"
+    },
+    {
+      "Name": "icedancer",
+      "Steam": "76561197995675648",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
