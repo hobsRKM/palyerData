@@ -1,53 +1,59 @@
 {
-  "Time": "2026-03-27T14:16:40.7693635Z",
+  "Time": "2026-03-27T14:18:40.7713984Z",
   "Players": [
+    {
+      "Name": "Charlie Kirk",
+      "Steam": "76561198752260864",
+      "Score": 0,
+      "Time": "00:45"
+    },
     {
       "Name": "ᶻᶻᶻ rayquaza",
       "Steam": "76561199565774770",
-      "Score": 75,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561198723855280",
       "Score": 0,
-      "Time": "108:22"
+      "Time": "110:22"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 4,
-      "Time": "65:23"
+      "Score": 7,
+      "Time": "67:23"
     },
     {
       "Name": "n1cknz?",
       "Steam": "76561198760723734",
-      "Score": 31,
-      "Time": "131:54"
+      "Score": 38,
+      "Time": "133:54"
     },
     {
       "Name": "Edward",
       "Steam": "76561199724619328",
-      "Score": 35,
-      "Time": "20:26"
+      "Score": 37,
+      "Time": "22:26"
     },
     {
       "Name": ".::.",
       "Steam": "76561199785510703",
-      "Score": 6,
-      "Time": "03:17"
+      "Score": 2,
+      "Time": "05:17"
     },
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 28,
-      "Time": "14:09"
+      "Score": 31,
+      "Time": "16:09"
     },
     {
       "Name": "81aioy4un8qa",
       "Steam": "76561198724413343",
-      "Score": 19,
-      "Time": "11:00"
+      "Score": 23,
+      "Time": "13:00"
     }
   ]
 }
