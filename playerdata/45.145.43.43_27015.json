@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-27T21:00:26.5619464Z",
+  "Time": "2026-03-27T21:02:26.5576675Z",
   "Players": [
     {
       "Name": "JETT",
       "Steam": "76561199826841169",
-      "Score": 62,
-      "Time": "14:06"
+      "Score": 72,
+      "Time": "16:06"
+    },
+    {
+      "Name": "namespace Autowall",
+      "Steam": "76561198726977481",
+      "Score": 0,
+      "Time": "00:58"
     },
     {
       "Name": "Enokz",
       "Steam": "76561199180038097",
-      "Score": 24,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "MeowSwing",
       "Steam": "76561199312263865",
-      "Score": 9,
+      "Score": 19,
       "Time": "??:??"
     },
     {
@@ -28,7 +34,7 @@
     {
       "Name": "k_k",
       "Steam": "76561199193652409",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
