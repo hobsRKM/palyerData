@@ -1,23 +1,35 @@
 {
-  "Time": "2026-03-27T07:21:51.7601116Z",
+  "Time": "2026-03-27T07:23:51.7633015Z",
   "Players": [
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 21,
-      "Time": "37:33"
+      "Score": 33,
+      "Time": "39:33"
+    },
+    {
+      "Name": "Crimson",
+      "Steam": "76561198189711870",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 21,
-      "Time": "06:38"
+      "Score": 30,
+      "Time": "08:38"
+    },
+    {
+      "Name": "alexander07friberg",
+      "Steam": "76561198723109941",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ChadLite \uDB40\uDC73\uDB40\uDC73⁧⁧Blackpill",
       "Steam": "76561198143893089",
-      "Score": 3,
-      "Time": "37:20"
+      "Score": 4,
+      "Time": "39:20"
     },
     {
       "Name": "Flovvinq",
@@ -28,44 +40,26 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 51,
-      "Time": "55:07"
+      "Score": 58,
+      "Time": "57:07"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 49,
-      "Time": "276:25"
-    },
-    {
-      "Name": "kerios",
-      "Steam": "76561198727794243",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "pagan",
-      "Steam": "76561198731791667",
-      "Score": 4,
-      "Time": "95:46"
+      "Score": 51,
+      "Time": "278:25"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 72,
-      "Time": "34:56"
-    },
-    {
-      "Name": "☣",
-      "Steam": "76561199499655946",
-      "Score": 14,
-      "Time": "??:??"
+      "Score": 77,
+      "Time": "36:56"
     },
     {
       "Name": "❤",
       "Steam": "76561198727072895",
-      "Score": 20,
-      "Time": "104:03"
+      "Score": 24,
+      "Time": "106:03"
     }
   ]
 }
