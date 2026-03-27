@@ -1,59 +1,65 @@
 {
-  "Time": "2026-03-27T00:26:45.2205539Z",
+  "Time": "2026-03-27T00:28:45.2183772Z",
   "Players": [
+    {
+      "Name": "Aru",
+      "Steam": "76561199706248567",
+      "Score": 15,
+      "Time": "01:34"
+    },
     {
       "Name": "mrcomguy255",
       "Steam": "76561198793169323",
-      "Score": 22,
-      "Time": "09:25"
+      "Score": 28,
+      "Time": "11:25"
     },
     {
       "Name": "UnknownDog",
       "Steam": "76561199589849200",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Ally",
       "Steam": "76561198202346031",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "umbrella",
       "Steam": "76561198737889087",
-      "Score": 33,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Eros",
       "Steam": "76561198316126206",
-      "Score": 31,
-      "Time": "10:23"
+      "Score": 36,
+      "Time": "12:23"
     },
     {
       "Name": "superstar >:3 #Team7",
       "Steam": "76561198768490015",
-      "Score": 2,
-      "Time": "36:02"
+      "Score": 4,
+      "Time": "38:02"
     },
     {
       "Name": "apollo",
       "Steam": "76561199097243449",
-      "Score": 41,
-      "Time": "25:22"
+      "Score": 48,
+      "Time": "27:22"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 57,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "fetty l♡ver",
       "Steam": "76561198756807294",
-      "Score": 0,
-      "Time": "04:36"
+      "Score": 10,
+      "Time": "06:36"
     }
   ]
 }
