@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-27T02:46:45.2307734Z",
+  "Time": "2026-03-27T02:48:45.2362412Z",
   "Players": [
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "Aru",
+      "Steam": "76561199706248567",
+      "Score": 7,
+      "Time": "00:48"
     },
     {
       "Name": "interlude",
       "Steam": "76561198838638893",
-      "Score": 103,
-      "Time": "41:51"
+      "Score": 113,
+      "Time": "43:51"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 96,
-      "Time": "28:30"
+      "Score": 112,
+      "Time": "30:30"
     },
     {
       "Name": "luckycze3",
@@ -28,14 +34,20 @@
     {
       "Name": "Pill§",
       "Steam": "76561198952561283",
-      "Score": 1,
-      "Time": "137:26"
+      "Score": 9,
+      "Time": "139:26"
+    },
+    {
+      "Name": "paradise",
+      "Steam": "76561198380272287",
+      "Score": 0,
+      "Time": "00:29"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 60,
-      "Time": "15:20"
+      "Score": 64,
+      "Time": "17:20"
     },
     {
       "Name": "VinAlousizeD",
@@ -44,22 +56,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "\uDB40\uDC73⁧⁧ .scar",
+      "Steam": "76561199831225022",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "umbrella",
       "Steam": "76561198737889087",
-      "Score": 107,
-      "Time": "45:52"
+      "Score": 109,
+      "Time": "47:52"
     },
     {
       "Name": "123",
       "Steam": "76561199803595505",
-      "Score": 0,
-      "Time": "323:06"
+      "Score": 3,
+      "Time": "325:06"
     },
     {
       "Name": "GloriousKingM82",
       "Steam": "76561199229699609",
       "Score": 1,
       "Time": "??:??"
+    },
+    {
+      "Name": "Cuddlng",
+      "Steam": "76561199453505494",
+      "Score": 0,
+      "Time": "01:16"
     }
   ]
 }
