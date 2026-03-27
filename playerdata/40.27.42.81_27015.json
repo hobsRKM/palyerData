@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-27T01:54:45.2185219Z",
+  "Time": "2026-03-27T01:56:45.2268031Z",
   "Players": [
     {
       "Name": "googie the googster",
       "Steam": "76561198272795906",
-      "Score": 6,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 10,
-      "Time": "05:04"
+      "Score": 16,
+      "Time": "07:04"
     }
   ]
 }
