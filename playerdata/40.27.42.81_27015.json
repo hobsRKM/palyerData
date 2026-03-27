@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-27T02:16:45.231197Z",
+  "Time": "2026-03-27T02:18:45.2222428Z",
   "Players": [
     {
       "Name": "interlude",
       "Steam": "76561198838638893",
-      "Score": 5,
-      "Time": "11:51"
+      "Score": 9,
+      "Time": "13:51"
     },
     {
       "Name": "googie the googster",
       "Steam": "76561198272795906",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 0,
+      "Time": "00:30"
     },
     {
       "Name": "SypherXz",
@@ -22,26 +28,26 @@
     {
       "Name": "Pill§",
       "Steam": "76561198952561283",
-      "Score": 4,
-      "Time": "107:26"
+      "Score": 8,
+      "Time": "109:26"
+    },
+    {
+      "Name": "\uD835\uDC52\uD835\uDCB8\uD835\uDCC8\uD835\uDCC9\uD835\uDCB6\uD835\uDCB8\uD835\uDCCE⛧",
+      "Steam": "76561198899226310",
+      "Score": 0,
+      "Time": "01:18"
     },
     {
       "Name": "umbrella",
       "Steam": "76561198737889087",
-      "Score": 0,
-      "Time": "15:52"
-    },
-    {
-      "Name": "D gets no hos",
-      "Steam": "76561199868419880",
-      "Score": 6,
-      "Time": "356:42"
+      "Score": 8,
+      "Time": "17:52"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 4,
-      "Time": "27:04"
+      "Score": 11,
+      "Time": "29:04"
     }
   ]
 }
