@@ -1,16 +1,22 @@
 {
-  "Time": "2026-03-27T07:10:40.7598089Z",
+  "Time": "2026-03-27T07:12:40.7595441Z",
   "Players": [
+    {
+      "Name": "Charlie Kirk",
+      "Steam": "76561198752260864",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ᶻᶻᶻ rayquaza",
       "Steam": "76561199565774770",
-      "Score": 86,
-      "Time": "44:05"
+      "Score": 92,
+      "Time": "46:05"
     },
     {
       "Name": "Jerry",
       "Steam": "76561198793024178",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
@@ -23,6 +29,12 @@
       "Name": "lres ulrick",
       "Steam": "76561198727754176",
       "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "help me please",
+      "Steam": "76561198408430880",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
