@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-27T01:58:45.2316949Z",
+  "Time": "2026-03-27T02:00:45.2158078Z",
   "Players": [
     {
       "Name": "googie the googster",
       "Steam": "76561198272795906",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "D gets no hos",
+      "Steam": "76561199868419880",
+      "Score": 0,
+      "Time": "340:42"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 26,
-      "Time": "09:04"
+      "Score": 30,
+      "Time": "11:04"
     }
   ]
 }
