@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-27T02:02:45.2321525Z",
+  "Time": "2026-03-27T02:04:45.2325443Z",
   "Players": [
     {
       "Name": "googie the googster",
       "Steam": "76561198272795906",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "diabloh",
+      "Steam": "76561198723006165",
+      "Score": 0,
+      "Time": "00:34"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 25,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "umbrella",
       "Steam": "76561198737889087",
-      "Score": 3,
-      "Time": "01:52"
+      "Score": 9,
+      "Time": "03:52"
     },
     {
       "Name": "D gets no hos",
       "Steam": "76561199868419880",
-      "Score": 4,
-      "Time": "342:42"
+      "Score": 6,
+      "Time": "344:42"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 34,
-      "Time": "13:04"
+      "Score": 38,
+      "Time": "15:04"
     }
   ]
 }
