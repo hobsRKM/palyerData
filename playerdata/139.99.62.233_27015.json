@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-27T10:06:40.749136Z",
+  "Time": "2026-03-27T10:08:40.7514727Z",
   "Players": [
+    {
+      "Name": "Nine vicious",
+      "Steam": "76561199816782431",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ᶻᶻᶻ rayquaza",
       "Steam": "76561199565774770",
-      "Score": 47,
-      "Time": "09:00"
+      "Score": 57,
+      "Time": "11:00"
     },
     {
       "Name": ".",
       "Steam": "76561198723855280",
       "Score": 0,
-      "Time": "12:39"
+      "Time": "14:39"
     },
     {
-      "Name": "> AURA | unfriendly gaten",
+      "Name": ">_ | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 31,
-      "Time": "61:27"
+      "Score": 36,
+      "Time": "63:27"
     }
   ]
 }
