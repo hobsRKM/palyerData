@@ -1,28 +1,34 @@
 {
-  "Time": "2026-03-27T11:04:40.7555324Z",
+  "Time": "2026-03-27T11:06:40.759496Z",
   "Players": [
     {
       "Name": ".",
       "Steam": "76561198723855280",
       "Score": 0,
-      "Time": "40:29"
+      "Time": "42:29"
     },
     {
       "Name": "SS",
       "Steam": "76561198735101707",
-      "Score": 10,
-      "Time": "02:38"
+      "Score": 20,
+      "Time": "04:38"
     },
     {
       "Name": "Kanglu HvH",
       "Steam": "76561198723416903",
       "Score": 0,
-      "Time": "06:35"
+      "Time": "08:35"
     },
     {
       "Name": "Edward",
       "Steam": "76561199724619328",
-      "Score": 2,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sonagachi Ka Malik",
+      "Steam": "76561198728826736",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
