@@ -1,28 +1,34 @@
 {
-  "Time": "2026-03-28T12:28:41.5043003Z",
+  "Time": "2026-03-28T12:30:41.5098819Z",
   "Players": [
+    {
+      "Name": "arterra",
+      "Steam": "76561198011549867",
+      "Score": 0,
+      "Time": "00:45"
+    },
     {
       "Name": "tahinyito",
       "Steam": "76561198723298381",
-      "Score": 0,
-      "Time": "18:07"
+      "Score": 2,
+      "Time": "20:07"
     },
     {
       "Name": "ᶻᶻᶻ rayquaza",
       "Steam": "76561199565774770",
-      "Score": 78,
-      "Time": "12:52"
+      "Score": 88,
+      "Time": "14:52"
     },
     {
       "Name": "l",
       "Steam": "76561198723855280",
       "Score": 0,
-      "Time": "14:26"
+      "Time": "16:26"
     },
     {
       "Name": "血脉Frworks",
       "Steam": "76561198817810744",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
