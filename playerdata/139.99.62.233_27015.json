@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-28T05:04:41.4651081Z",
+  "Time": "2026-03-28T05:08:41.4627478Z",
   "Players": [
     {
       "Name": "Servol",
       "Steam": "76561199509679413",
-      "Score": 42,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Edward",
       "Steam": "76561199724619328",
-      "Score": 9,
-      "Time": "15:29"
+      "Score": 19,
+      "Time": "19:29"
     },
     {
       "Name": "arterra",
       "Steam": "76561198011549867",
-      "Score": 14,
-      "Time": "20:48"
+      "Score": 19,
+      "Time": "24:48"
+    },
+    {
+      "Name": "tahinyito",
+      "Steam": "76561198723298381",
+      "Score": 0,
+      "Time": "00:20"
     }
   ]
 }
