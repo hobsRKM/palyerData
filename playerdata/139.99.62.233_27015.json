@@ -1,29 +1,35 @@
 {
-  "Time": "2026-03-28T09:04:41.5140673Z",
+  "Time": "2026-03-28T09:06:41.5161112Z",
   "Players": [
+    {
+      "Name": "Xeil",
+      "Steam": "76561199834620426",
+      "Score": 0,
+      "Time": "01:39"
+    },
     {
       "Name": "Edward",
       "Steam": "76561199724619328",
-      "Score": 31,
-      "Time": "11:23"
+      "Score": 41,
+      "Time": "13:23"
     },
     {
       "Name": "l",
       "Steam": "76561198723855280",
       "Score": 0,
-      "Time": "07:19"
+      "Time": "09:19"
     },
     {
       "Name": "zyro",
       "Steam": "76561198740186999",
-      "Score": 123,
+      "Score": 128,
       "Time": "??:??"
     },
     {
       "Name": "unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 53,
-      "Time": "29:08"
+      "Score": 58,
+      "Time": "31:08"
     },
     {
       "Name": "Mr.Pancake",
@@ -32,15 +38,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "USDT",
-      "Steam": "76561199509736460",
-      "Score": 87,
-      "Time": "03:17"
-    },
-    {
       "Name": "Antonio",
       "Steam": "76561199223636589",
-      "Score": 15,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
