@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-28T12:20:29.9825558Z",
+  "Time": "2026-03-28T12:21:43.8169142Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
+      "Time": "307:13"
+    },
+    {
+      "Name": "matsäs",
+      "Steam": "76561199842002650",
+      "Score": 18,
       "Time": "??:??"
     },
     {
-      "Name": "rerokieklsdv",
-      "Steam": "76561198720512100",
-      "Score": 0,
+      "Name": "Vira",
+      "Steam": "76561198755398524",
+      "Score": 40,
+      "Time": "16:36"
+    },
+    {
+      "Name": "aether",
+      "Steam": "76561198281402969",
+      "Score": 7,
+      "Time": "30:20"
+    },
+    {
+      "Name": "Melody",
+      "Steam": "76561197964253121",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "donald trampolin☔",
-      "Steam": "76561199089756801",
-      "Score": 14,
+      "Name": "16 apples",
+      "Steam": "76561198752015722",
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "Hippiehonder",
-      "Steam": "76561199494960691",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "purrpea ♡",
-      "Steam": "76561199849665654",
-      "Score": 29,
-      "Time": "61:26"
     }
   ]
 }
