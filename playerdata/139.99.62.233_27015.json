@@ -1,17 +1,23 @@
 {
-  "Time": "2026-03-28T17:44:41.7027986Z",
+  "Time": "2026-03-28T17:46:41.7061364Z",
   "Players": [
     {
-      "Name": "> A_ | unfriendly gaten",
+      "Name": "> AURA | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 56,
+      "Score": 58,
       "Time": "??:??"
+    },
+    {
+      "Name": "Nyx",
+      "Steam": "76561199433570526",
+      "Score": 26,
+      "Time": "01:57"
     },
     {
       "Name": "ZEKKE",
       "Steam": "76561198986314727",
-      "Score": 36,
-      "Time": "21:48"
+      "Score": 46,
+      "Time": "23:48"
     }
   ]
 }
