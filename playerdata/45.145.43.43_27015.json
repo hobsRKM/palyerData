@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-29T21:04:28.710308Z",
+  "Time": "2026-03-29T21:06:28.7152281Z",
   "Players": [
     {
       "Name": "Wizz",
       "Steam": "76561198721456391",
-      "Score": 9,
-      "Time": "07:04"
+      "Score": 11,
+      "Time": "09:04"
     },
     {
       "Name": "JordeN",
       "Steam": "76561198818249175",
-      "Score": 17,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "Slarq",
       "Steam": "76561198729700281",
-      "Score": 26,
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Plauge Beta user",
+      "Steam": "76561198740743419",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
