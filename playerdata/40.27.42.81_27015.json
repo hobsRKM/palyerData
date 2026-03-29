@@ -1,29 +1,23 @@
 {
-  "Time": "2026-03-29T17:50:26.0257386Z",
+  "Time": "2026-03-29T17:52:26.0291971Z",
   "Players": [
-    {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
-      "Score": 0,
-      "Time": "83:19"
-    },
     {
       "Name": "Goon King",
       "Steam": "76561198784560984",
-      "Score": 34,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Eros",
       "Steam": "76561198316126206",
-      "Score": 80,
-      "Time": "28:24"
+      "Score": 86,
+      "Time": "30:24"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 51,
-      "Time": "20:19"
+      "Score": 55,
+      "Time": "22:19"
     },
     {
       "Name": "Apologize",
@@ -34,13 +28,19 @@
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 9,
-      "Time": "01:12"
+      "Score": 23,
+      "Time": "03:12"
     },
     {
       "Name": "std::pmr::polymorphic_allocator",
       "Steam": "76561198979204236",
-      "Score": 7,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "oerungu676",
+      "Steam": "76561198721856830",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
