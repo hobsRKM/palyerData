@@ -1,11 +1,17 @@
 {
-  "Time": "2026-03-29T20:46:26.0396978Z",
+  "Time": "2026-03-29T20:48:26.0367062Z",
   "Players": [
+    {
+      "Name": "Eros",
+      "Steam": "76561198316126206",
+      "Score": 0,
+      "Time": "00:38"
+    },
     {
       "Name": "ru",
       "Steam": "76561198743881943",
       "Score": 0,
-      "Time": "00:08"
+      "Time": "02:08"
     },
     {
       "Name": "gerbert",
@@ -17,24 +23,18 @@
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
       "Score": 0,
-      "Time": "37:15"
-    },
-    {
-      "Name": "ooga booga",
-      "Steam": "76561198733465704",
-      "Score": 6,
-      "Time": "??:??"
+      "Time": "39:15"
     },
     {
       "Name": "magehack better",
       "Steam": "76561198999235985",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "【Adam】",
       "Steam": "76561198261709145",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
