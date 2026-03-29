@@ -1,23 +1,29 @@
 {
-  "Time": "2026-03-29T12:58:37.0419699Z",
+  "Time": "2026-03-29T13:00:37.0333957Z",
   "Players": [
     {
       "Name": "Nine vicious",
       "Steam": "76561199816782431",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "FATALITY.WIN",
       "Steam": "76561199099722473",
-      "Score": 81,
-      "Time": "40:19"
+      "Score": 85,
+      "Time": "42:19"
     },
     {
       "Name": "ZEKKE",
       "Steam": "76561198986314727",
       "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "zyro",
+      "Steam": "76561198740186999",
+      "Score": 15,
+      "Time": "01:58"
     }
   ]
 }
