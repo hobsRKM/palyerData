@@ -1,32 +1,38 @@
 {
-  "Time": "2026-03-29T23:08:26.0471096Z",
+  "Time": "2026-03-29T23:10:26.0446385Z",
   "Players": [
     {
       "Name": "Goon King",
       "Steam": "76561198784560984",
-      "Score": 5,
-      "Time": "08:52"
+      "Score": 7,
+      "Time": "10:52"
+    },
+    {
+      "Name": "sinclair",
+      "Steam": "76561199866446233",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "tgirl",
       "Steam": "76561198725920441",
-      "Score": 56,
-      "Time": "66:05"
+      "Score": 72,
+      "Time": "68:05"
     },
     {
       "Name": "noxy",
       "Steam": "76561199466539771",
       "Score": 5,
-      "Time": "31:28"
+      "Time": "33:28"
     },
     {
       "Name": "Luna <3",
       "Steam": "76561198779519837",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
-      "Name": "[Monolith] BRIS",
+      "Name": "[54] BRIS",
       "Steam": "76561198739592780",
       "Score": 0,
       "Time": "??:??"
@@ -34,25 +40,19 @@
     {
       "Name": "Miss Priss",
       "Steam": "76561199214852139",
-      "Score": 108,
+      "Score": 114,
       "Time": "??:??"
     },
     {
       "Name": "Clavicular",
       "Steam": "76561199410314024",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "zenek",
-      "Steam": "76561198725484701",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "emu",
       "Steam": "76561198147102077",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
@@ -64,7 +64,7 @@
     {
       "Name": "magehack better",
       "Steam": "76561198999235985",
-      "Score": 63,
+      "Score": 68,
       "Time": "??:??"
     }
   ]
