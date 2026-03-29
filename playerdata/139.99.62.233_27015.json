@@ -1,22 +1,28 @@
 {
-  "Time": "2026-03-29T08:26:37.0481756Z",
+  "Time": "2026-03-29T08:28:37.0387516Z",
   "Players": [
+    {
+      "Name": "l",
+      "Steam": "76561198723855280",
+      "Score": 0,
+      "Time": "00:11"
+    },
     {
       "Name": "FATALITY.WIN",
       "Steam": "76561199099722473",
-      "Score": 18,
-      "Time": "03:36"
+      "Score": 22,
+      "Time": "05:36"
     },
     {
       "Name": "arterra",
       "Steam": "76561198011549867",
-      "Score": 8,
-      "Time": "04:25"
+      "Score": 14,
+      "Time": "06:25"
     },
     {
-      "Name": "> AURA | unfriendly gaten",
+      "Name": "> AUR_ | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 31,
+      "Score": 39,
       "Time": "??:??"
     },
     {
@@ -28,7 +34,7 @@
     {
       "Name": "lostfeelings",
       "Steam": "76561198831323664",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
