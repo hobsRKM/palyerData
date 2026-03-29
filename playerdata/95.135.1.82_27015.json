@@ -1,53 +1,71 @@
 {
-  "Time": "2026-03-29T02:16:29.9923637Z",
+  "Time": "2026-03-29T02:17:43.8295896Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "1143:13"
+    },
+    {
+      "Name": "el alfa",
+      "Steam": "76561199042221496",
+      "Score": 61,
+      "Time": "409:07"
+    },
+    {
+      "Name": "ace",
+      "Steam": "76561199855759795",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "murphy",
-      "Steam": "76561199521149106",
+      "Name": "Seiðr",
+      "Steam": "76561198333235279",
+      "Score": 0,
+      "Time": "722:25"
+    },
+    {
+      "Name": "FÜR DIE GANG",
+      "Steam": "76561199558546837",
+      "Score": 25,
+      "Time": "605:22"
+    },
+    {
+      "Name": "uwu",
+      "Steam": "76561198723982266",
+      "Score": 4,
+      "Time": "41:30"
+    },
+    {
+      "Name": "nse             ้",
+      "Steam": "76561199020074584",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gerard",
+      "Steam": "76561198727952946",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "peter09010",
+      "Steam": "76561198739635625",
+      "Score": 25,
+      "Time": "64:39"
+    },
+    {
+      "Name": "eshqzu",
+      "Steam": "76561199876918900",
+      "Score": 11,
+      "Time": "09:19"
+    },
+    {
+      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
+      "Steam": "76561199547514723",
       "Score": 28,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Bread",
-      "Steam": "76561199068154041",
-      "Score": 2,
-      "Time": "85:49"
-    },
-    {
-      "Name": "HardTry",
-      "Steam": "76561198774309786",
-      "Score": 10,
-      "Time": "06:34"
-    },
-    {
-      "Name": "JordeN",
-      "Steam": "76561198818249175",
-      "Score": 64,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ohgeesy69",
-      "Steam": "76561198737520220",
-      "Score": 2,
-      "Time": "272:03"
-    },
-    {
-      "Name": "anorexic twink",
-      "Steam": "76561198780475574",
-      "Score": 83,
-      "Time": "139:43"
-    },
-    {
-      "Name": "Dez",
-      "Steam": "76561199181342269",
-      "Score": 23,
-      "Time": "09:34"
+      "Time": "68:01"
     }
   ]
 }
