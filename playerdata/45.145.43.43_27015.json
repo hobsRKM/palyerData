@@ -1,27 +1,45 @@
 {
-  "Time": "2026-03-29T15:44:28.722323Z",
+  "Time": "2026-03-29T15:46:28.7218814Z",
   "Players": [
+    {
+      "Name": "anarchia",
+      "Steam": "76561198358870963",
+      "Score": 4,
+      "Time": "01:12"
+    },
     {
       "Name": "dream",
       "Steam": "76561199890998180",
-      "Score": 6,
-      "Time": "07:28"
+      "Score": 10,
+      "Time": "09:28"
     },
     {
       "Name": "Szybki i Wcięty",
       "Steam": "76561198859474722",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "SuperDoG (SAVE) v2.555",
       "Steam": "76561198780246863",
-      "Score": 22,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Frida",
       "Steam": "76561199104673702",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ax + By + C = 0",
+      "Steam": "76561199080657481",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Дамскийугодник",
+      "Steam": "76561199042157791",
       "Score": 0,
       "Time": "??:??"
     }
