@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-29T14:26:37.0389134Z",
+  "Time": "2026-03-29T14:28:37.0484251Z",
   "Players": [
+    {
+      "Name": "skateboard cow",
+      "Steam": "76561199582103015",
+      "Score": 0,
+      "Time": "00:27"
+    },
     {
       "Name": "FATALITY.WIN",
       "Steam": "76561199099722473",
-      "Score": 23,
-      "Time": "09:50"
+      "Score": 36,
+      "Time": "11:50"
     },
     {
       "Name": "rng sahur",
       "Steam": "76561198779308691",
-      "Score": 37,
-      "Time": "09:38"
+      "Score": 39,
+      "Time": "11:38"
     },
     {
       "Name": "ZEKKE",
       "Steam": "76561198986314727",
       "Score": 19,
-      "Time": "09:37"
+      "Time": "11:37"
     },
     {
       "Name": "Vax",
       "Steam": "76561199350577848",
-      "Score": 10,
-      "Time": "07:27"
+      "Score": 14,
+      "Time": "09:27"
     },
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 33,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "91",
       "Steam": "76561199303359682",
-      "Score": 10,
-      "Time": "00:48"
+      "Score": 20,
+      "Time": "02:48"
     }
   ]
 }
