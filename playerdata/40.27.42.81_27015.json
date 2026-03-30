@@ -1,47 +1,47 @@
 {
-  "Time": "2026-03-30T06:20:26.8354953Z",
+  "Time": "2026-03-30T06:22:26.8402409Z",
   "Players": [
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 2,
+      "Time": "00:57"
+    },
     {
       "Name": "[ff0000](TS) VICTOR",
       "Steam": "76561199404979962",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Luna <3",
       "Steam": "76561198779519837",
-      "Score": 6,
-      "Time": "08:17"
+      "Score": 16,
+      "Time": "10:17"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "243:46"
+      "Time": "245:46"
     },
     {
       "Name": "kurumi<3",
       "Steam": "76561198772549779",
-      "Score": 2,
-      "Time": "47:35"
+      "Score": 6,
+      "Time": "49:35"
     },
     {
       "Name": "magehack better",
       "Steam": "76561198999235985",
-      "Score": 6,
-      "Time": "402:45"
-    },
-    {
-      "Name": "Kirby",
-      "Steam": "76561199886002588",
-      "Score": 1,
-      "Time": "??:??"
+      "Score": 14,
+      "Time": "404:45"
     }
   ]
 }
