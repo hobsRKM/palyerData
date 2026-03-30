@@ -1,16 +1,28 @@
 {
-  "Time": "2026-03-30T19:27:31.55182Z",
+  "Time": "2026-03-30T19:29:31.5505951Z",
   "Players": [
+    {
+      "Name": "Goon King",
+      "Steam": "76561198784560984",
+      "Score": 0,
+      "Time": "01:32"
+    },
     {
       "Name": "⊹ indigo ⊹",
       "Steam": "76561198019270984",
-      "Score": 24,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "terminal mortism",
       "Steam": "76561199113896693",
       "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Henry <3 // Testing cheese",
+      "Steam": "76561198725920441",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
