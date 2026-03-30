@@ -1,40 +1,46 @@
 {
-  "Time": "2026-03-30T02:18:26.1453667Z",
+  "Time": "2026-03-30T02:20:26.136108Z",
   "Players": [
+    {
+      "Name": "discord.gg/lumiancexyz",
+      "Steam": "76561199880717233",
+      "Score": 4,
+      "Time": "00:33"
+    },
     {
       "Name": "[ am ]",
       "Steam": "76561199187190389",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "very cool and awesome",
       "Steam": "76561199877382185",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "SypherXz",
-      "Steam": "76561198724996032",
-      "Score": 0,
-      "Time": "258:42"
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 4,
+      "Time": "105:35"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
-      "Score": 6,
-      "Time": "03:31"
+      "Score": 10,
+      "Time": "05:31"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 52,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "Q",
       "Steam": "76561199433300151",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
@@ -46,26 +52,32 @@
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 41,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "very cool and awesome",
       "Steam": "76561197974940379",
-      "Score": 15,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "01:45"
+      "Time": "03:45"
+    },
+    {
+      "Name": "miley ashley ..",
+      "Steam": "76561199588698108",
+      "Score": 0,
+      "Time": "55:59"
     },
     {
       "Name": "magehack better",
       "Steam": "76561198999235985",
-      "Score": 51,
-      "Time": "160:44"
+      "Score": 52,
+      "Time": "162:44"
     }
   ]
 }
