@@ -1,16 +1,22 @@
 {
-  "Time": "2026-03-30T22:42:27.842192Z",
+  "Time": "2026-03-30T22:44:27.8477561Z",
   "Players": [
+    {
+      "Name": "BAM",
+      "Steam": "76561198729805474",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "S2G | Yağmur",
       "Steam": "76561198746374298",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ornitorenkperrry",
       "Steam": "76561198723760638",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
