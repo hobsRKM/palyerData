@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-30T02:14:26.1325576Z",
+  "Time": "2026-03-30T02:16:26.1434267Z",
   "Players": [
+    {
+      "Name": "Goon King",
+      "Steam": "76561198784560984",
+      "Score": 0,
+      "Time": "00:45"
+    },
     {
       "Name": "very cool and awesome",
       "Steam": "76561199877382185",
@@ -10,19 +16,19 @@
     {
       "Name": "SypherXz",
       "Steam": "76561198724996032",
-      "Score": 4,
-      "Time": "254:42"
+      "Score": 0,
+      "Time": "256:42"
     },
     {
-      "Name": "ru",
-      "Steam": "76561198743881943",
-      "Score": 6,
-      "Time": "129:45"
+      "Name": "樱岛麻衣",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "01:31"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 38,
+      "Score": 46,
       "Time": "??:??"
     },
     {
@@ -40,20 +46,20 @@
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 28,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "very cool and awesome",
       "Steam": "76561197974940379",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "magehack better",
       "Steam": "76561198999235985",
-      "Score": 28,
-      "Time": "156:44"
+      "Score": 41,
+      "Time": "158:44"
     }
   ]
 }
