@@ -1,53 +1,59 @@
 {
-  "Time": "2026-03-30T23:03:31.5499079Z",
+  "Time": "2026-03-30T23:05:31.5604008Z",
   "Players": [
     {
       "Name": "Miss Priss",
       "Steam": "76561199214852139",
-      "Score": 107,
+      "Score": 116,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 15,
-      "Time": "12:24"
+      "Score": 0,
+      "Time": "14:24"
     },
     {
       "Name": "kurumi<3",
       "Steam": "76561198772549779",
       "Score": 16,
-      "Time": "65:35"
+      "Time": "67:35"
     },
     {
       "Name": "nixware golden",
       "Steam": "76561198999235985",
       "Score": 21,
-      "Time": "18:34"
+      "Time": "20:34"
     },
     {
       "Name": "KIKI",
       "Steam": "76561199712859474",
-      "Score": 53,
-      "Time": "26:39"
+      "Score": 55,
+      "Time": "28:39"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 4,
-      "Time": "00:55"
+      "Score": 21,
+      "Time": "02:55"
     },
     {
       "Name": "yonilo",
       "Steam": "76561199876077209",
-      "Score": 50,
-      "Time": "17:18"
+      "Score": 56,
+      "Time": "19:18"
+    },
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 0,
+      "Time": "00:43"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
       "Score": 0,
-      "Time": "92:35"
+      "Time": "94:35"
     }
   ]
 }
