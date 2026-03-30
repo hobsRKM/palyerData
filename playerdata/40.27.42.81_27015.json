@@ -1,11 +1,23 @@
 {
-  "Time": "2026-03-30T03:48:26.2371899Z",
+  "Time": "2026-03-30T03:50:26.2398044Z",
   "Players": [
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 6,
+      "Time": "00:37"
+    },
+    {
+      "Name": "niggaservices",
+      "Steam": "76561198281663381",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "0xcotin",
       "Steam": "76561198731758523",
-      "Score": 23,
-      "Time": "57:33"
+      "Score": 25,
+      "Time": "59:33"
     },
     {
       "Name": "mmm",
@@ -14,51 +26,57 @@
       "Time": "??:??"
     },
     {
+      "Name": "big time jordy",
+      "Steam": "76561198213922667",
+      "Score": 0,
+      "Time": "43:52"
+    },
+    {
       "Name": "your no good for me",
       "Steam": "76561199876077209",
-      "Score": 90,
-      "Time": "268:01"
+      "Score": 102,
+      "Time": "270:01"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Henry <3 // Testing cheese",
       "Steam": "76561198725920441",
-      "Score": 101,
-      "Time": "86:42"
+      "Score": 107,
+      "Time": "88:42"
     },
     {
       "Name": "SypherXz",
       "Steam": "76561198724996032",
-      "Score": 6,
-      "Time": "02:17"
+      "Score": 20,
+      "Time": "04:17"
     },
     {
       "Name": "ziul",
       "Steam": "76561198739915203",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "twink",
       "Steam": "76561198726598825",
-      "Score": 83,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "blah",
       "Steam": "76561199410314024",
-      "Score": 4,
-      "Time": "104:07"
+      "Score": 7,
+      "Time": "106:07"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 26,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -70,32 +88,32 @@
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 20,
-      "Time": "03:36"
+      "Score": 22,
+      "Time": "05:36"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "91:45"
+      "Time": "93:45"
     },
     {
       "Name": "kurumi<3",
       "Steam": "76561198772549779",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "magehack better",
       "Steam": "76561198999235985",
       "Score": 5,
-      "Time": "250:44"
+      "Time": "252:44"
     },
     {
       "Name": "catnoeHvHgod69",
       "Steam": "76561198721512222",
-      "Score": 11,
-      "Time": "03:56"
+      "Score": 0,
+      "Time": "05:56"
     }
   ]
 }
