@@ -1,53 +1,59 @@
 {
-  "Time": "2026-03-30T01:44:26.1314927Z",
+  "Time": "2026-03-30T01:46:26.1333413Z",
   "Players": [
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 4,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "s1",
+      "Steam": "76561199278461869",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "noxy",
       "Steam": "76561199466539771",
-      "Score": 4,
-      "Time": "187:28"
+      "Score": 5,
+      "Time": "189:28"
     },
     {
       "Name": "ru",
       "Steam": "76561198743881943",
-      "Score": 0,
-      "Time": "99:45"
+      "Score": 3,
+      "Time": "101:45"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Q",
       "Steam": "76561199433300151",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "itzrealkiki",
       "Steam": "76561199711636978",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 10,
-      "Time": "20:53"
+      "Score": 20,
+      "Time": "22:53"
     },
     {
       "Name": "magehack better",
       "Steam": "76561198999235985",
-      "Score": 4,
-      "Time": "126:44"
+      "Score": 5,
+      "Time": "128:44"
     }
   ]
 }
