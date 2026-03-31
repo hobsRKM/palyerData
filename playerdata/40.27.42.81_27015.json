@@ -1,35 +1,41 @@
 {
-  "Time": "2026-03-31T05:33:31.6895653Z",
+  "Time": "2026-03-31T05:35:31.6929881Z",
   "Players": [
+    {
+      "Name": "yb made me deaf",
+      "Steam": "76561198775474637",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Moms left toe",
       "Steam": "76561198779519837",
-      "Score": 2,
-      "Time": "104:07"
+      "Score": 4,
+      "Time": "106:07"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "#stayfatal",
       "Steam": "76561198999235985",
-      "Score": 67,
-      "Time": "346:28"
+      "Score": 69,
+      "Time": "348:28"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 65,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "No Thoughts",
       "Steam": "76561198752949729",
-      "Score": 83,
-      "Time": "439:42"
+      "Score": 85,
+      "Time": "441:42"
     }
   ]
 }
