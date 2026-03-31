@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-31T16:02:26.678947Z",
+  "Time": "2026-03-31T16:04:26.684622Z",
   "Players": [
+    {
+      "Name": "namespace Autowall",
+      "Steam": "76561198726977481",
+      "Score": 0,
+      "Time": "00:23"
+    },
     {
       "Name": "V1cenzzo",
       "Steam": "76561199888315331",
@@ -10,19 +16,19 @@
     {
       "Name": "Frida",
       "Steam": "76561199104673702",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "kgaard",
       "Steam": "76561198997246062",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "S1mplerape",
       "Steam": "76561198727218594",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
