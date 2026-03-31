@@ -1,6 +1,12 @@
 {
-  "Time": "2026-03-31T02:23:31.5611958Z",
+  "Time": "2026-03-31T02:25:31.548344Z",
   "Players": [
+    {
+      "Name": "hahaxxxxxx",
+      "Steam": "76561199377195851",
+      "Score": 18,
+      "Time": "00:33"
+    },
     {
       "Name": "Aries",
       "Steam": "76561198725683998",
@@ -10,44 +16,38 @@
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 13,
-      "Time": "35:35"
+      "Score": 15,
+      "Time": "37:35"
     },
     {
       "Name": "#stayfatal",
       "Steam": "76561198999235985",
-      "Score": 8,
-      "Time": "156:28"
+      "Score": 0,
+      "Time": "158:28"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 28,
-      "Time": "49:49"
+      "Score": 38,
+      "Time": "51:49"
     },
     {
       "Name": "KIKI",
       "Steam": "76561199712859474",
-      "Score": 72,
-      "Time": "42:53"
+      "Score": 81,
+      "Time": "44:53"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 24,
-      "Time": "46:07"
+      "Score": 28,
+      "Time": "48:07"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
       "Score": 44,
-      "Time": "70:31"
-    },
-    {
-      "Name": "Free R.Kelly",
-      "Steam": "76561198783283963",
-      "Score": 31,
-      "Time": "18:07"
+      "Time": "72:30"
     }
   ]
 }
