@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-31T00:07:31.5609742Z",
+  "Time": "2026-03-31T00:09:31.5581116Z",
   "Players": [
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 0,
-      "Time": "76:24"
+      "Score": 4,
+      "Time": "78:24"
     },
     {
       "Name": "#stayfatal",
       "Steam": "76561198999235985",
-      "Score": 0,
-      "Time": "20:28"
+      "Score": 4,
+      "Time": "22:28"
     },
     {
       "Name": "KIKI",
       "Steam": "76561199712859474",
-      "Score": 63,
-      "Time": "18:15"
+      "Score": 67,
+      "Time": "20:15"
+    },
+    {
+      "Name": "Perhks",
+      "Steam": "76561198293312486",
+      "Score": 2,
+      "Time": "01:44"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 15,
-      "Time": "06:54"
+      "Score": 19,
+      "Time": "08:54"
     },
     {
       "Name": "Boob",
       "Steam": "76561199118337666",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 0,
-      "Time": "09:05"
+      "Score": 2,
+      "Time": "11:05"
     }
   ]
 }
