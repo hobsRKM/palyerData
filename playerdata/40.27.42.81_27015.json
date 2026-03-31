@@ -1,41 +1,47 @@
 {
-  "Time": "2026-03-31T08:29:31.7281326Z",
+  "Time": "2026-03-31T08:31:31.7213092Z",
   "Players": [
+    {
+      "Name": "celestial",
+      "Steam": "76561199847868570",
+      "Score": 2,
+      "Time": "01:28"
+    },
     {
       "Name": "magehack !",
       "Steam": "76561198999235985",
-      "Score": 27,
-      "Time": "78:55"
+      "Score": 4,
+      "Time": "80:55"
     },
     {
       "Name": "Autism",
       "Steam": "76561199055901350",
-      "Score": 43,
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "KIKI",
-      "Steam": "76561199712859474",
-      "Score": 19,
-      "Time": "55:19"
     },
     {
       "Name": "skintbot1",
       "Steam": "76561198776110082",
-      "Score": 80,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lately",
+      "Steam": "76561198720684327",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "91:15"
+      "Time": "93:15"
     },
     {
       "Name": "★",
       "Steam": "76561199524381663",
-      "Score": 30,
-      "Time": "18:27"
+      "Score": 4,
+      "Time": "20:27"
     }
   ]
 }
