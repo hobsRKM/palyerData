@@ -1,11 +1,17 @@
 {
-  "Time": "2026-03-31T03:55:31.5629618Z",
+  "Time": "2026-03-31T03:57:31.5549433Z",
   "Players": [
+    {
+      "Name": "#bio",
+      "Steam": "76561199847868570",
+      "Score": 3,
+      "Time": "58:09"
+    },
     {
       "Name": "Moms left toe",
       "Steam": "76561198779519837",
-      "Score": 2,
-      "Time": "06:07"
+      "Score": 6,
+      "Time": "08:07"
     },
     {
       "Name": "xS!nt",
@@ -16,50 +22,56 @@
     {
       "Name": "#stayfatal",
       "Steam": "76561198999235985",
-      "Score": 54,
-      "Time": "248:28"
+      "Score": 0,
+      "Time": "250:28"
     },
     {
       "Name": "KIKI",
       "Steam": "76561199712859474",
-      "Score": 41,
-      "Time": "14:35"
+      "Score": 53,
+      "Time": "16:35"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 154,
+      "Score": 169,
       "Time": "??:??"
     },
     {
       "Name": "I am bloqqing it rn",
       "Steam": "76561199229259377",
-      "Score": 6,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "[ am ]",
       "Steam": "76561199187190389",
-      "Score": 25,
-      "Time": "10:18"
+      "Score": 31,
+      "Time": "12:18"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 105,
-      "Time": "52:55"
+      "Score": 108,
+      "Time": "54:55"
     },
     {
       "Name": "123",
       "Steam": "76561199803595505",
-      "Score": 5,
-      "Time": "10:16"
+      "Score": 19,
+      "Time": "12:16"
     },
     {
       "Name": "schrodinger",
       "Steam": "76561198180065165",
       "Score": 48,
       "Time": "??:??"
+    },
+    {
+      "Name": "No Thoughts",
+      "Steam": "76561198752949729",
+      "Score": 4,
+      "Time": "343:42"
     }
   ]
 }
