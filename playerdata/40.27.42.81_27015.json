@@ -1,22 +1,22 @@
 {
-  "Time": "2026-04-01T04:53:45.2696306Z",
+  "Time": "2026-04-01T04:55:45.2760188Z",
   "Players": [
     {
       "Name": "count the hours",
       "Steam": "76561199847868570",
-      "Score": 47,
-      "Time": "31:39"
+      "Score": 49,
+      "Time": "33:39"
     },
     {
       "Name": "magehack !",
       "Steam": "76561198999235985",
-      "Score": 4,
-      "Time": "84:45"
+      "Score": 0,
+      "Time": "86:45"
     },
     {
       "Name": "lately",
       "Steam": "76561198720684327",
-      "Score": 54,
+      "Score": 66,
       "Time": "??:??"
     },
     {
@@ -28,14 +28,20 @@
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 4,
+      "Time": "01:19"
     },
     {
       "Name": "hoopinghoper",
       "Steam": "76561199674785177",
       "Score": 10,
-      "Time": "04:15"
+      "Time": "06:15"
     }
   ]
 }
