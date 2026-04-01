@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-01T05:23:45.2731679Z",
+  "Time": "2026-04-01T05:25:45.2736384Z",
   "Players": [
     {
       "Name": "BRIS",
       "Steam": "76561198719741682",
-      "Score": 4,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ghosty .gg/spinbots",
+      "Steam": "76561199549171418",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "magehack !",
       "Steam": "76561198999235985",
-      "Score": 0,
-      "Time": "114:45"
+      "Score": 1,
+      "Time": "116:45"
     },
     {
       "Name": "チビシロン",
       "Steam": "76561199742994974",
-      "Score": 6,
-      "Time": "09:45"
+      "Score": 8,
+      "Time": "11:45"
     },
     {
       "Name": "brr brr patapim",
@@ -34,25 +40,25 @@
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 12,
-      "Time": "13:48"
+      "Score": 23,
+      "Time": "15:48"
     },
     {
       "Name": "X0",
       "Steam": "76561199558071607",
-      "Score": 10,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "ʚɞ",
       "Steam": "76561198722186663",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
-      "Score": 42,
+      "Score": 51,
       "Time": "??:??"
     }
   ]
