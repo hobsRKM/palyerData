@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-01T23:10:06.1906167Z",
+  "Time": "2026-04-01T23:12:06.2001107Z",
   "Players": [
     {
       "Name": "0xcotin",
       "Steam": "76561198731758523",
-      "Score": 2,
-      "Time": "198:57"
+      "Score": 6,
+      "Time": "200:57"
     },
     {
       "Name": "ddddddddddddddd",
       "Steam": "76561198794330785",
-      "Score": 44,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "anti extrapolation",
       "Steam": "76561198770595649",
-      "Score": 21,
-      "Time": "25:32"
+      "Score": 30,
+      "Time": "27:32"
+    },
+    {
+      "Name": "angel",
+      "Steam": "76561199798812373",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
       "Score": 26,
-      "Time": "29:11"
+      "Time": "31:11"
     },
     {
       "Name": "-astral- magehack !",
@@ -32,28 +38,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "Aries",
+      "Steam": "76561198725683998",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
       "Name": "Eros",
       "Steam": "76561198316126206",
-      "Score": 19,
-      "Time": "56:50"
+      "Score": 22,
+      "Time": "58:50"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 7,
-      "Time": "02:23"
+      "Score": 9,
+      "Time": "04:23"
     },
     {
       "Name": "real",
       "Steam": "76561198738769599",
       "Score": 15,
-      "Time": "21:10"
+      "Time": "23:10"
     },
     {
       "Name": "NIXWARE BETA USER123",
       "Steam": "76561198783283963",
-      "Score": 31,
-      "Time": "30:14"
+      "Score": 37,
+      "Time": "32:14"
     }
   ]
 }
