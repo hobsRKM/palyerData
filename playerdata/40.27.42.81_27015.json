@@ -1,23 +1,23 @@
 {
-  "Time": "2026-04-01T21:28:06.1919276Z",
+  "Time": "2026-04-01T21:30:06.1924452Z",
   "Players": [
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
       "Score": 0,
-      "Time": "09:43"
+      "Time": "11:43"
     },
     {
       "Name": "std::pmr::polymorphic_allocator",
       "Steam": "76561198979204236",
-      "Score": 58,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "kurumi<3",
       "Steam": "76561198772549779",
-      "Score": 8,
-      "Time": "20:28"
+      "Score": 14,
+      "Time": "22:28"
     },
     {
       "Name": "-astral- magehack !",
@@ -26,16 +26,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "укимбе",
+      "Steam": "76561198746631728",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "4lenaSoS",
       "Steam": "76561199544241992",
-      "Score": 7,
-      "Time": "09:25"
+      "Score": 0,
+      "Time": "11:25"
     },
     {
       "Name": "lately",
       "Steam": "76561198720684327",
-      "Score": 99,
-      "Time": "114:02"
+      "Score": 107,
+      "Time": "116:02"
     },
     {
       "Name": "gerbert",
@@ -46,14 +52,26 @@
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 32,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "Robin",
       "Steam": "76561199711558803",
-      "Score": 39,
-      "Time": "??:??"
+      "Score": 43,
+      "Time": "00:51"
+    },
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199837114653",
+      "Score": 2,
+      "Time": "00:59"
+    },
+    {
+      "Name": "kizaru1337",
+      "Steam": "76561199554559344",
+      "Score": 0,
+      "Time": "01:53"
     }
   ]
 }
