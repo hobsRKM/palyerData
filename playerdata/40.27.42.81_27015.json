@@ -1,28 +1,40 @@
 {
-  "Time": "2026-04-01T06:47:45.2818437Z",
+  "Time": "2026-04-01T06:49:45.2750782Z",
   "Players": [
+    {
+      "Name": "niehydralinka",
+      "Steam": "76561198745293931",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "magehack !",
       "Steam": "76561198999235985",
-      "Score": 35,
-      "Time": "198:45"
+      "Score": 46,
+      "Time": "200:45"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198737874274",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Miss Priss",
       "Steam": "76561199214852139",
-      "Score": 48,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdone23",
       "Steam": "76561198742184205",
-      "Score": 26,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hali",
+      "Steam": "76561199435327917",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
