@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-01T19:58:06.1867763Z",
+  "Time": "2026-04-01T20:00:06.1925562Z",
   "Players": [
+    {
+      "Name": "XFaceit",
+      "Steam": "76561199879900946",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 15,
-      "Time": "18:57"
+      "Score": 4,
+      "Time": "20:57"
     },
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 96,
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "spazzkitty",
-      "Steam": "76561198769768395",
-      "Score": 76,
+      "Name": "\uD835\uDC77\uD835\uDC79\uD835\uDC76\uD835\uDC74\uD835\uDC6C\uD835\uDC70\uD835\uDC68",
+      "Steam": "76561198285997263",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 10,
-      "Time": "27:21"
+      "Score": 0,
+      "Time": "29:21"
     },
     {
       "Name": "gerbert",
@@ -35,7 +41,7 @@
       "Name": "Yakub",
       "Steam": "76561199594039131",
       "Score": 6,
-      "Time": "06:14"
+      "Time": "08:14"
     }
   ]
 }
