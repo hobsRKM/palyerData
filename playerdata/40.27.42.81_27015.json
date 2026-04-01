@@ -1,52 +1,64 @@
 {
-  "Time": "2026-04-01T17:18:06.2033325Z",
+  "Time": "2026-04-01T17:20:06.1973158Z",
   "Players": [
+    {
+      "Name": "skid",
+      "Steam": "76561198321267960",
+      "Score": 6,
+      "Time": "01:19"
+    },
     {
       "Name": "1# goof ball",
       "Steam": "76561199702757194",
-      "Score": 15,
-      "Time": "18:40"
+      "Score": 18,
+      "Time": "20:40"
     },
     {
       "Name": "lilwalkemdone23",
       "Steam": "76561198742184205",
-      "Score": 34,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 50,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 42,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "selling my body for pennies",
       "Steam": "76561199876077209",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Yakub",
-      "Steam": "76561199594039131",
-      "Score": 23,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "zombie",
       "Steam": "76561198767994900",
-      "Score": 5,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "z1R0",
+      "Steam": "76561199874363237",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dn1x",
+      "Steam": "76561199605037520",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
