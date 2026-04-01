@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-01T21:40:06.188837Z",
+  "Time": "2026-04-01T21:42:06.190071Z",
   "Players": [
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 2,
+      "Time": "01:28"
+    },
     {
       "Name": "std::pmr::polymorphic_allocator",
       "Steam": "76561198979204236",
@@ -10,8 +16,8 @@
     {
       "Name": "femboy enjoyer",
       "Steam": "76561199158419168",
-      "Score": 27,
-      "Time": "08:47"
+      "Score": 33,
+      "Time": "10:47"
     },
     {
       "Name": "-astral- magehack !",
@@ -28,8 +34,8 @@
     {
       "Name": "4lenaSoS",
       "Steam": "76561199544241992",
-      "Score": 4,
-      "Time": "21:25"
+      "Score": 2,
+      "Time": "23:25"
     },
     {
       "Name": "gerbert",
@@ -40,8 +46,8 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 6,
-      "Time": "10:59"
+      "Score": 16,
+      "Time": "12:59"
     }
   ]
 }
