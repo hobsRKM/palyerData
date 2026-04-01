@@ -1,11 +1,23 @@
 {
-  "Time": "2026-04-01T22:22:06.1881943Z",
+  "Time": "2026-04-01T22:24:06.1991243Z",
   "Players": [
+    {
+      "Name": "toxic humans",
+      "Steam": "76561199792464561",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "kороль привет6w",
       "Steam": "76561199050170734",
-      "Score": 11,
-      "Time": "07:40"
+      "Score": 15,
+      "Time": "09:40"
+    },
+    {
+      "Name": "negev",
+      "Steam": "76561198783404986",
+      "Score": 0,
+      "Time": "00:08"
     },
     {
       "Name": "-astral- magehack !",
@@ -22,25 +34,25 @@
     {
       "Name": "Eros",
       "Steam": "76561198316126206",
-      "Score": 20,
-      "Time": "08:50"
+      "Score": 0,
+      "Time": "10:50"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 35,
-      "Time": "14:52"
+      "Score": 45,
+      "Time": "16:52"
     },
     {
       "Name": "NIXWARE BETA USER123",
       "Steam": "76561198783283963",
-      "Score": 19,
-      "Time": "01:58"
+      "Score": 27,
+      "Time": "03:58"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     }
   ]
