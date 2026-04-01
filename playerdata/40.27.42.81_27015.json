@@ -1,40 +1,52 @@
 {
-  "Time": "2026-04-01T05:05:45.2709996Z",
+  "Time": "2026-04-01T05:07:45.2713571Z",
   "Players": [
+    {
+      "Name": "BRIS",
+      "Steam": "76561198719741682",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "count the hours",
       "Steam": "76561199847868570",
-      "Score": 0,
-      "Time": "43:39"
+      "Score": 3,
+      "Time": "45:39"
     },
     {
       "Name": "magehack !",
       "Steam": "76561198999235985",
-      "Score": 0,
-      "Time": "96:45"
+      "Score": 2,
+      "Time": "98:45"
     },
     {
       "Name": "lately",
       "Steam": "76561198720684327",
-      "Score": 109,
+      "Score": 113,
       "Time": "??:??"
     },
     {
       "Name": "kороль привет6w",
       "Steam": "76561199050170734",
-      "Score": 4,
-      "Time": "06:50"
+      "Score": 6,
+      "Time": "08:50"
     },
     {
       "Name": "brr brr patapim",
       "Steam": "76561199880678892",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 19,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "X0",
+      "Steam": "76561199558071607",
+      "Score": 6,
       "Time": "??:??"
     }
   ]
