@@ -1,22 +1,28 @@
 {
-  "Time": "2026-04-02T18:10:35.2863972Z",
+  "Time": "2026-04-02T18:12:35.2883601Z",
   "Players": [
+    {
+      "Name": "lilwalkemdone23",
+      "Steam": "76561198742184205",
+      "Score": 24,
+      "Time": "01:21"
+    },
     {
       "Name": "4lenaSoS",
       "Steam": "76561199544241992",
-      "Score": 63,
-      "Time": "20:28"
+      "Score": 71,
+      "Time": "22:28"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 52,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "Nigga",
       "Steam": "76561198719364121",
-      "Score": 64,
+      "Score": 66,
       "Time": "??:??"
     },
     {
@@ -28,6 +34,12 @@
     {
       "Name": "cltn",
       "Steam": "76561199177811800",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "person",
+      "Steam": "76561198724779911",
       "Score": 0,
       "Time": "??:??"
     }
