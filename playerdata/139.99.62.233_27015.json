@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-02T13:48:38.4839001Z",
+  "Time": "2026-04-02T13:50:38.4799632Z",
   "Players": [
+    {
+      "Name": "unfriendly gaten",
+      "Steam": "76561198791732336",
+      "Score": 0,
+      "Time": "02:07"
+    },
     {
       "Name": "hate",
       "Steam": "76561199812591860",
       "Score": 0,
-      "Time": "06:52"
+      "Time": "08:52"
     },
     {
       "Name": "zyro",
       "Steam": "76561199867980464",
-      "Score": 0,
-      "Time": "71:57"
+      "Score": 2,
+      "Time": "73:57"
     },
     {
       "Name": "zyro",
       "Steam": "76561199582103015",
-      "Score": 0,
-      "Time": "38:53"
+      "Score": 1,
+      "Time": "40:53"
     },
     {
       "Name": "Digital Raju",
       "Steam": "76561198720429353",
-      "Score": 0,
-      "Time": "29:06"
+      "Score": 2,
+      "Time": "31:06"
     },
     {
       "Name": "zyro",
       "Steam": "76561198740186999",
-      "Score": 0,
-      "Time": "23:33"
+      "Score": 4,
+      "Time": "25:33"
     },
     {
       "Name": "zyro",
       "Steam": "76561198335255015",
-      "Score": 0,
-      "Time": "28:47"
+      "Score": 2,
+      "Time": "30:47"
     },
     {
       "Name": "Washed'O'Unc",
@@ -47,7 +53,7 @@
       "Name": "zyro",
       "Steam": "76561199045725064",
       "Score": 0,
-      "Time": "38:02"
+      "Time": "40:02"
     }
   ]
 }
