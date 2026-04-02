@@ -1,59 +1,65 @@
 {
-  "Time": "2026-04-02T22:16:35.2915275Z",
+  "Time": "2026-04-02T22:18:35.2982432Z",
   "Players": [
+    {
+      "Name": "LUCKY v5 DEV BUILD USER",
+      "Steam": "76561198783283963",
+      "Score": 10,
+      "Time": "00:31"
+    },
     {
       "Name": "kороль привет6w",
       "Steam": "76561199050170734",
       "Score": 23,
-      "Time": "21:23"
+      "Time": "23:23"
+    },
+    {
+      "Name": "gingerninja102",
+      "Steam": "76561199768964598",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "logan.landis",
       "Steam": "76561198729544452",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Saddly",
       "Steam": "76561199813347169",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
-    },
-    {
-      "Name": "True Talent Hidden Within Opsec",
-      "Steam": "76561199580355122",
-      "Score": 34,
-      "Time": "32:09"
     },
     {
       "Name": "too good to be true",
       "Steam": "76561199114902204",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "damndaniel25 #whitevans #daniel",
       "Steam": "76561198844542771",
-      "Score": 14,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "kurumi<3",
       "Steam": "76561198772549779",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "what even are we at this point.",
       "Steam": "76561198729581981",
-      "Score": 10,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 0,
-      "Time": "00:06"
+      "Score": 4,
+      "Time": "02:06"
     }
   ]
 }
