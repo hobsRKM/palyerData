@@ -1,65 +1,77 @@
 {
-  "Time": "2026-04-02T07:00:07.1864358Z",
+  "Time": "2026-04-02T07:02:07.1958906Z",
   "Players": [
+    {
+      "Name": "LockedIN",
+      "Steam": "76561199814444758",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 15,
-      "Time": "26:59"
+      "Score": 20,
+      "Time": "28:59"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "lemmie",
       "Steam": "76561199082219152",
-      "Score": 20,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "gamesense.crack magehack !",
       "Steam": "76561198999235985",
-      "Score": 0,
-      "Time": "14:44"
+      "Score": 5,
+      "Time": "16:44"
     },
     {
       "Name": "person",
       "Steam": "76561198724779911",
-      "Score": 8,
-      "Time": "57:18"
+      "Score": 10,
+      "Time": "59:18"
     },
     {
       "Name": "brr brr patapim",
       "Steam": "76561199880678892",
       "Score": 3,
-      "Time": "05:37"
+      "Time": "07:37"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 18,
-      "Time": "48:07"
+      "Score": 19,
+      "Time": "50:07"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 9,
-      "Time": "28:56"
+      "Score": 11,
+      "Time": "30:56"
     },
     {
       "Name": "mr mr v-v-v-vj",
       "Steam": "76561198770595649",
-      "Score": 12,
-      "Time": "09:03"
+      "Score": 27,
+      "Time": "11:03"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 6,
-      "Time": "51:09"
+      "Score": 9,
+      "Time": "53:09"
+    },
+    {
+      "Name": "wait what",
+      "Steam": "76561198213922667",
+      "Score": 0,
+      "Time": "01:16"
     }
   ]
 }
