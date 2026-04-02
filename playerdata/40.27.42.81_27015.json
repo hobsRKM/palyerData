@@ -1,23 +1,35 @@
 {
-  "Time": "2026-04-02T21:52:35.2839992Z",
+  "Time": "2026-04-02T21:54:35.2893379Z",
   "Players": [
+    {
+      "Name": "Leprechauns",
+      "Steam": "76561198731503776",
+      "Score": 9,
+      "Time": "01:57"
+    },
     {
       "Name": "NIXWARE BETA USER123",
       "Steam": "76561198783283963",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 47,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "SypherXz",
       "Steam": "76561198724996032",
-      "Score": 0,
-      "Time": "07:13"
+      "Score": 8,
+      "Time": "09:13"
+    },
+    {
+      "Name": "logan.landis",
+      "Steam": "76561198729544452",
+      "Score": 1,
+      "Time": "00:21"
     },
     {
       "Name": "Saddly",
@@ -28,8 +40,8 @@
     {
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
-      "Score": 33,
-      "Time": "08:09"
+      "Score": 47,
+      "Time": "10:09"
     },
     {
       "Name": "Zo",
@@ -46,32 +58,32 @@
     {
       "Name": "76561198791368162",
       "Steam": "76561198791368162",
-      "Score": 25,
-      "Time": "11:01"
+      "Score": 27,
+      "Time": "13:01"
     },
     {
       "Name": "too good to be true",
       "Steam": "76561199114902204",
-      "Score": 0,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "4lenaSoS",
       "Steam": "76561199544241992",
-      "Score": 13,
-      "Time": "68:46"
+      "Score": 15,
+      "Time": "70:46"
     },
     {
       "Name": "person",
       "Steam": "76561198724779911",
-      "Score": 10,
-      "Time": "27:42"
+      "Score": 12,
+      "Time": "29:42"
     }
   ]
 }
