@@ -1,29 +1,41 @@
 {
-  "Time": "2026-04-02T16:22:38.5024463Z",
+  "Time": "2026-04-02T16:24:38.49737Z",
   "Players": [
     {
       "Name": "kirk",
       "Steam": "76561198221390104",
-      "Score": 25,
-      "Time": "22:20"
+      "Score": 0,
+      "Time": "24:20"
     },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199867980464",
-      "Score": 20,
-      "Time": "225:57"
+      "Score": 25,
+      "Time": "227:57"
+    },
+    {
+      "Name": "skateboard cow",
+      "Steam": "76561199582103015",
+      "Score": 2,
+      "Time": "01:35"
     },
     {
       "Name": "VAC LIVE TESTER",
       "Steam": "76561199000318256",
-      "Score": 16,
-      "Time": "??:??"
+      "Score": 23,
+      "Time": "01:33"
     },
     {
       "Name": "91",
       "Steam": "76561199303359682",
-      "Score": 11,
-      "Time": "02:55"
+      "Score": 13,
+      "Time": "04:55"
+    },
+    {
+      "Name": "Ajay Devgun",
+      "Steam": "76561198720083535",
+      "Score": 0,
+      "Time": "00:34"
     }
   ]
 }
