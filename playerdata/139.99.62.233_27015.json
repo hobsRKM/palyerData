@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-02T17:04:38.5092458Z",
+  "Time": "2026-04-02T17:06:38.5052627Z",
   "Players": [
+    {
+      "Name": "纪元网络牛逼ag75",
+      "Steam": "76561199867980464",
+      "Score": 42,
+      "Time": "01:39"
+    },
     {
       "Name": "Digital Raju",
       "Steam": "76561198720429353",
-      "Score": 8,
-      "Time": "06:15"
+      "Score": 10,
+      "Time": "08:15"
     },
     {
       "Name": "VAC LIVE TESTER",
       "Steam": "76561199000318256",
-      "Score": 45,
-      "Time": "41:33"
+      "Score": 55,
+      "Time": "43:33"
     },
     {
       "Name": "razer",
       "Steam": "76561198719987123",
       "Score": 4,
-      "Time": "08:32"
+      "Time": "10:32"
     },
     {
       "Name": "Ajay Devgun",
       "Steam": "76561198720083535",
       "Score": 30,
-      "Time": "10:43"
+      "Time": "12:43"
     },
     {
       "Name": "SkyDex",
       "Steam": "76561199002500021",
       "Score": 0,
-      "Time": "00:52"
+      "Time": "02:52"
     }
   ]
 }
