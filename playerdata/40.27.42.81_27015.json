@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-02T01:40:06.1994224Z",
+  "Time": "2026-04-02T01:42:06.1951797Z",
   "Players": [
     {
       "Name": "tur",
       "Steam": "76561199446024167",
       "Score": 4,
-      "Time": "02:11"
+      "Time": "04:11"
+    },
+    {
+      "Name": "googie@bandit",
+      "Steam": "76561199812995857",
+      "Score": 2,
+      "Time": "151:37"
     },
     {
       "Name": "skintbot2",
       "Steam": "76561198773755821",
-      "Score": 41,
-      "Time": "26:03"
+      "Score": 45,
+      "Time": "28:03"
     },
     {
       "Name": "-astral- magehack !",
       "Steam": "76561198999235985",
-      "Score": 48,
-      "Time": "77:23"
+      "Score": 54,
+      "Time": "79:23"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 35,
-      "Time": "63:17"
+      "Score": 39,
+      "Time": "65:17"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 80,
-      "Time": "184:08"
+      "Score": 84,
+      "Time": "186:08"
     },
     {
       "Name": "wait what",
       "Steam": "76561198213922667",
-      "Score": 12,
-      "Time": "314:21"
+      "Score": 0,
+      "Time": "316:21"
     }
   ]
 }
