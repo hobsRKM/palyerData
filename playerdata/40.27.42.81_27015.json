@@ -1,16 +1,16 @@
 {
-  "Time": "2026-04-02T21:30:35.2919401Z",
+  "Time": "2026-04-02T21:32:35.2945746Z",
   "Players": [
     {
       "Name": "Leprechauns",
       "Steam": "76561198731503776",
-      "Score": 64,
-      "Time": "26:01"
+      "Score": 80,
+      "Time": "28:01"
     },
     {
       "Name": "NIXWARE BETA USER123",
       "Steam": "76561198783283963",
-      "Score": 37,
+      "Score": 41,
       "Time": "??:??"
     },
     {
@@ -22,26 +22,38 @@
     {
       "Name": "std::pmr::polymorphic_allocator",
       "Steam": "76561198979204236",
-      "Score": 69,
+      "Score": 71,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kurokendrick",
+      "Steam": "76561199479790668",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "grape the rapist",
       "Steam": "76561199193164417",
-      "Score": 47,
-      "Time": "100:28"
+      "Score": 55,
+      "Time": "102:28"
+    },
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 3,
+      "Time": "01:31"
     },
     {
       "Name": "4lenaSoS",
       "Steam": "76561199544241992",
       "Score": 0,
-      "Time": "46:46"
+      "Time": "48:46"
     },
     {
       "Name": "person",
       "Steam": "76561198724779911",
-      "Score": 5,
-      "Time": "05:42"
+      "Score": 7,
+      "Time": "07:42"
     }
   ]
 }
