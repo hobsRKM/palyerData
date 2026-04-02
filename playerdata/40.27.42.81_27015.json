@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-02T17:52:35.2852653Z",
+  "Time": "2026-04-02T17:54:35.2883541Z",
   "Players": [
+    {
+      "Name": "lilwalkemdone23",
+      "Steam": "76561198742184205",
+      "Score": 0,
+      "Time": "00:02"
+    },
     {
       "Name": "4lenaSoS",
       "Steam": "76561199544241992",
-      "Score": 12,
-      "Time": "02:28"
+      "Score": 21,
+      "Time": "04:28"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
