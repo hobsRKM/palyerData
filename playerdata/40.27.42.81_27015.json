@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-02T08:48:07.9365497Z",
+  "Time": "2026-04-02T08:50:07.9572007Z",
   "Players": [
+    {
+      "Name": "royce",
+      "Steam": "76561199610157038",
+      "Score": 0,
+      "Time": "00:19"
+    },
     {
       "Name": "BRIS",
       "Steam": "76561198719741682",
@@ -10,32 +16,38 @@
     {
       "Name": "Pepsinigga",
       "Steam": "76561198799546256",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jaeychino",
+      "Steam": "76561198721927846",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 22,
-      "Time": "12:23"
+      "Score": 28,
+      "Time": "14:23"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 59,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 48,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 8,
-      "Time": "175:33"
+      "Score": 9,
+      "Time": "177:33"
     }
   ]
 }
