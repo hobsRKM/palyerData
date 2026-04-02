@@ -1,23 +1,35 @@
 {
-  "Time": "2026-04-02T11:06:35.2819326Z",
+  "Time": "2026-04-02T11:08:35.2812827Z",
   "Players": [
+    {
+      "Name": "Low Volume Fapper",
+      "Steam": "76561198278457185",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "royce",
       "Steam": "76561199610157038",
       "Score": 22,
-      "Time": "25:11"
+      "Time": "27:11"
     },
     {
-      "Name": "[Monolith] CrayonMonke2w",
+      "Name": "jaeychino",
+      "Steam": "76561198721927846",
+      "Score": 24,
+      "Time": "01:19"
+    },
+    {
+      "Name": "[613] CrayonMonke2w",
       "Steam": "76561198749969700",
       "Score": 36,
-      "Time": "16:55"
+      "Time": "18:55"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 34,
-      "Time": "00:22"
+      "Score": 46,
+      "Time": "02:22"
     }
   ]
 }
