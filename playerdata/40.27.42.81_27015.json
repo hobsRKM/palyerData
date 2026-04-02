@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-02T16:32:35.2937439Z",
+  "Time": "2026-04-02T16:34:35.2948504Z",
   "Players": [
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 18,
-      "Time": "31:27"
+      "Score": 24,
+      "Time": "33:27"
     },
     {
       "Name": "skid",
       "Steam": "76561198321267960",
       "Score": 10,
-      "Time": "19:22"
+      "Time": "21:22"
     },
     {
       "Name": "grape the rapist",
       "Steam": "76561199193164417",
-      "Score": 58,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "blumpkin",
       "Steam": "76561199803889471",
       "Score": 19,
-      "Time": "06:33"
+      "Time": "08:33"
+    },
+    {
+      "Name": "meow",
+      "Steam": "76561198440168222",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
