@@ -1,10 +1,16 @@
 {
-  "Time": "2026-04-02T15:10:35.2940616Z",
+  "Time": "2026-04-02T15:12:35.2915447Z",
   "Players": [
+    {
+      "Name": "Я боюсь.",
+      "Steam": "76561198724601947",
+      "Score": 5,
+      "Time": "02:04"
+    },
     {
       "Name": "lilwalkemdone23",
       "Steam": "76561198742184205",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -16,19 +22,19 @@
     {
       "Name": "Hunk-Dunk",
       "Steam": "76561198733571896",
-      "Score": 5,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Michael Brian Vanbibber",
       "Steam": "76561199840065612",
-      "Score": 20,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
