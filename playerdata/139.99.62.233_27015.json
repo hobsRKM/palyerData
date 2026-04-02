@@ -1,65 +1,71 @@
 {
-  "Time": "2026-04-02T13:40:38.4696815Z",
+  "Time": "2026-04-02T13:42:38.467057Z",
   "Players": [
     {
-      "Name": "> AUR_ | unfriendly gaten",
+      "Name": "> AURA | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 64,
+      "Score": 76,
       "Time": "??:??"
+    },
+    {
+      "Name": "hate",
+      "Steam": "76561199812591860",
+      "Score": 0,
+      "Time": "00:52"
     },
     {
       "Name": "test666",
       "Steam": "76561198718267518",
-      "Score": 109,
+      "Score": 113,
       "Time": "??:??"
     },
     {
       "Name": "zyro",
       "Steam": "76561199867980464",
-      "Score": 71,
-      "Time": "63:57"
+      "Score": 75,
+      "Time": "65:57"
     },
     {
       "Name": "zyro",
       "Steam": "76561199582103015",
       "Score": 98,
-      "Time": "30:53"
+      "Time": "32:53"
     },
     {
       "Name": "Digital Raju",
       "Steam": "76561198720429353",
-      "Score": 15,
-      "Time": "21:06"
+      "Score": 16,
+      "Time": "23:06"
     },
     {
       "Name": "zyro",
       "Steam": "76561198740186999",
-      "Score": 107,
-      "Time": "15:33"
+      "Score": 113,
+      "Time": "17:33"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 78,
-      "Time": "20:47"
+      "Score": 82,
+      "Time": "22:47"
     },
     {
       "Name": "Washed'O'Unc",
       "Steam": "76561199808928969",
-      "Score": 23,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "bonm",
       "Steam": "76561199045725064",
-      "Score": 0,
-      "Time": "30:02"
+      "Score": 4,
+      "Time": "32:02"
     },
     {
       "Name": "91",
       "Steam": "76561199303359682",
-      "Score": 30,
-      "Time": "07:20"
+      "Score": 33,
+      "Time": "09:20"
     }
   ]
 }
