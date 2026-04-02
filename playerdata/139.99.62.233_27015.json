@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-02T12:52:38.28989Z",
+  "Time": "2026-04-02T12:54:38.2998171Z",
   "Players": [
     {
-      "Name": "> AURA | unfriendly gaten",
+      "Name": "> AUR_ | unfriendly gaten",
       "Steam": "76561198791732336",
-      "Score": 64,
+      "Score": 68,
+      "Time": "??:??"
+    },
+    {
+      "Name": "test666",
+      "Steam": "76561198718267518",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "纪元网络牛逼ag75",
       "Steam": "76561199867980464",
-      "Score": 41,
-      "Time": "15:56"
+      "Score": 45,
+      "Time": "17:56"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 5,
-      "Time": "52:21"
+      "Score": 13,
+      "Time": "54:21"
     },
     {
       "Name": "zyro",
@@ -28,14 +34,14 @@
     {
       "Name": "FATALITY.WIN",
       "Steam": "76561199099722473",
-      "Score": 55,
-      "Time": "17:30"
+      "Score": 61,
+      "Time": "19:30"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
-      "Time": "06:37"
+      "Score": 10,
+      "Time": "08:37"
     },
     {
       "Name": "Washed'O'Unc",
@@ -46,14 +52,20 @@
     {
       "Name": "egg",
       "Steam": "76561199085336687",
-      "Score": 40,
+      "Score": 46,
       "Time": "??:??"
     },
     {
-      "Name": "FATALITY.WIN",
+      "Name": "eggfwafawfwa",
       "Steam": "76561199045725064",
-      "Score": 31,
-      "Time": "11:57"
+      "Score": 33,
+      "Time": "13:57"
+    },
+    {
+      "Name": "Bot B",
+      "Steam": "76561199850671670",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
