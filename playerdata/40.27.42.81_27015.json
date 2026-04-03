@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-03T02:10:35.2889947Z",
+  "Time": "2026-04-03T02:12:35.2953103Z",
   "Players": [
+    {
+      "Name": "never switch",
+      "Steam": "76561199792464561",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "llama",
       "Steam": "76561199623108656",
-      "Score": 2,
-      "Time": "19:56"
+      "Score": 0,
+      "Time": "21:56"
     },
     {
       "Name": "gamesense.crack magehack !",
       "Steam": "76561198999235985",
-      "Score": 24,
-      "Time": "54:43"
+      "Score": 26,
+      "Time": "56:43"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 43,
-      "Time": "446:52"
+      "Score": 53,
+      "Time": "448:52"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "234:06"
+      "Time": "236:06"
     }
   ]
 }
