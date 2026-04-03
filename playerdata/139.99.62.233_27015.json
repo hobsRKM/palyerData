@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-03T14:52:47.6895848Z",
+  "Time": "2026-04-03T14:54:47.6971181Z",
   "Players": [
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 71,
-      "Time": "47:15"
+      "Score": 77,
+      "Time": "49:15"
+    },
+    {
+      "Name": "Lawn Mower Cattail",
+      "Steam": "76561198034803905",
+      "Score": 19,
+      "Time": "00:53"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 96,
-      "Time": "81:56"
+      "Score": 98,
+      "Time": "83:56"
     },
     {
       "Name": "Cappuccino",
       "Steam": "76561198772970208",
-      "Score": 55,
-      "Time": "110:08"
+      "Score": 57,
+      "Time": "112:08"
     }
   ]
 }
