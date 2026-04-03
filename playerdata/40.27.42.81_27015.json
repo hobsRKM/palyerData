@@ -1,17 +1,17 @@
 {
-  "Time": "2026-04-03T03:54:35.31175Z",
+  "Time": "2026-04-03T03:56:35.3145714Z",
   "Players": [
+    {
+      "Name": "count the hours",
+      "Steam": "76561199847868570",
+      "Score": 0,
+      "Time": "01:01"
+    },
     {
       "Name": "Kurokendrick",
       "Steam": "76561199479790668",
-      "Score": 0,
-      "Time": "11:49"
-    },
-    {
-      "Name": "cloxid",
-      "Steam": "76561198166519466",
-      "Score": 6,
-      "Time": "09:11"
+      "Score": 2,
+      "Time": "13:49"
     },
     {
       "Name": "Spread Blyat",
@@ -20,10 +20,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "樱岛麻衣",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "01:43"
+    },
+    {
       "Name": "angel",
       "Steam": "76561199798812373",
       "Score": 0,
-      "Time": "02:16"
+      "Time": "00:45"
     },
     {
       "Name": "bot",
@@ -34,44 +40,38 @@
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 0,
-      "Time": "49:20"
+      "Score": 10,
+      "Time": "51:20"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 0,
-      "Time": "31:55"
+      "Score": 4,
+      "Time": "33:55"
     },
     {
       "Name": "gamesense.crack magehack !",
       "Steam": "76561198999235985",
-      "Score": 0,
-      "Time": "49:41"
+      "Score": 6,
+      "Time": "51:41"
     },
     {
       "Name": "Loopy",
       "Steam": "76561198728778195",
-      "Score": 4,
-      "Time": "27:18"
+      "Score": 14,
+      "Time": "29:18"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 0,
-      "Time": "01:30"
+      "Score": 9,
+      "Time": "03:30"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
       "Score": 0,
-      "Time": "77:32"
-    },
-    {
-      "Name": "pf",
-      "Steam": "76561198738769599",
-      "Score": 0,
-      "Time": "07:01"
+      "Time": "79:32"
     }
   ]
 }
