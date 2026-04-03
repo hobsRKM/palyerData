@@ -1,28 +1,34 @@
 {
-  "Time": "2026-04-03T12:58:47.6943453Z",
+  "Time": "2026-04-03T13:00:47.7032796Z",
   "Players": [
     {
       "Name": "Edward",
       "Steam": "76561199724619328",
-      "Score": 15,
-      "Time": "37:47"
+      "Score": 17,
+      "Time": "39:47"
     },
     {
       "Name": "Recall",
       "Steam": "76561199429510713",
-      "Score": 5,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "APsychopath",
       "Steam": "76561198963660757",
       "Score": 0,
-      "Time": "03:55"
+      "Time": "05:55"
     },
     {
       "Name": "Case",
       "Steam": "76561199873199370",
-      "Score": 4,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cappuccino",
+      "Steam": "76561198772970208",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
