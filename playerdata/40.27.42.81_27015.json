@@ -1,34 +1,40 @@
 {
-  "Time": "2026-04-03T15:14:47.4872739Z",
+  "Time": "2026-04-03T15:16:47.4829316Z",
   "Players": [
+    {
+      "Name": "Joe Not Exotic",
+      "Steam": "76561199847868570",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 25,
-      "Time": "15:03"
+      "Score": 2,
+      "Time": "17:03"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 8,
-      "Time": "09:49"
+      "Score": 10,
+      "Time": "11:49"
     },
     {
       "Name": "Simply",
       "Steam": "76561199889163804",
-      "Score": 16,
-      "Time": "03:21"
+      "Score": 20,
+      "Time": "05:21"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 80,
-      "Time": "17:22"
+      "Score": 89,
+      "Time": "19:22"
     },
     {
       "Name": "ajpnfnwfe",
       "Steam": "76561198728496002",
-      "Score": 112,
+      "Score": 121,
       "Time": "??:??"
     },
     {
@@ -40,13 +46,13 @@
     {
       "Name": "schrodinger",
       "Steam": "76561198180065165",
-      "Score": 0,
-      "Time": "00:54"
+      "Score": 12,
+      "Time": "02:54"
     },
     {
       "Name": "mrauraguy777",
       "Steam": "76561199114902204",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
