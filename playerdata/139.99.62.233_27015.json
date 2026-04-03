@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-03T08:10:47.6980368Z",
+  "Time": "2026-04-03T08:12:47.6927505Z",
   "Players": [
     {
       "Name": "Edward",
       "Steam": "76561199724619328",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "VAC LIVE TESTER",
       "Steam": "76561199000318256",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Nine vicious",
       "Steam": "76561199816782431",
-      "Score": 4,
-      "Time": "01:58"
+      "Score": 10,
+      "Time": "03:58"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561198720032484",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
