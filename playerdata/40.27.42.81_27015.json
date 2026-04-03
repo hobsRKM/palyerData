@@ -1,41 +1,35 @@
 {
-  "Time": "2026-04-03T07:56:36.4133203Z",
+  "Time": "2026-04-03T07:58:36.4118086Z",
   "Players": [
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 20,
-      "Time": "20:18"
+      "Score": 30,
+      "Time": "22:18"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 21,
-      "Time": "791:01"
+      "Score": 23,
+      "Time": "793:01"
     },
     {
       "Name": "std::pmr::polymorphic_allocator",
       "Steam": "76561198979204236",
-      "Score": 6,
-      "Time": "16:16"
+      "Score": 0,
+      "Time": "18:16"
     },
     {
       "Name": "ᵐᵃᵍᵉʰᵃᶜᵏ",
       "Steam": "76561198999235985",
-      "Score": 22,
-      "Time": "14:41"
-    },
-    {
-      "Name": "Miss Priss",
-      "Steam": "76561199214852139",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 32,
+      "Time": "16:41"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 27,
-      "Time": "29:48"
+      "Score": 36,
+      "Time": "31:48"
     }
   ]
 }
