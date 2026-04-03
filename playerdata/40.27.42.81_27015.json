@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-03T15:30:47.4821193Z",
+  "Time": "2026-04-03T15:32:47.4807079Z",
   "Players": [
     {
       "Name": "Joe Not Exotic",
       "Steam": "76561199847868570",
-      "Score": 33,
+      "Score": 41,
       "Time": "??:??"
+    },
+    {
+      "Name": "Low Volume Fapper",
+      "Steam": "76561198278457185",
+      "Score": 0,
+      "Time": "00:17"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "grape the rapist",
       "Steam": "76561199193164417",
-      "Score": 16,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Eros",
       "Steam": "76561198316126206",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
