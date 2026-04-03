@@ -1,64 +1,58 @@
 {
-  "Time": "2026-04-03T00:02:42.855118Z",
+  "Time": "2026-04-03T00:03:54.1841286Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "COCO",
+      "Steam": "76561198990304334",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "-",
+      "Steam": "76561198761074058",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "$67$ Storm $67$",
+      "Steam": "76561199013172589",
+      "Score": 39,
+      "Time": "00:27"
+    },
+    {
+      "Name": "anarchia",
+      "Steam": "76561198358870963",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Vanja Trubarac",
-      "Steam": "76561199006090833",
-      "Score": 0,
+      "Name": "hacker harvox",
+      "Steam": "76561199136389558",
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "catsssssss",
-      "Steam": "76561198794467793",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ZAZA",
-      "Steam": "76561198724682480",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Carlos Saint",
-      "Steam": "76561199574637826",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "THE REAL 2SLIMEY",
-      "Steam": "76561198780475574",
-      "Score": 94,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Bread",
-      "Steam": "76561199068154041",
-      "Score": 19,
-      "Time": "43:33"
-    },
-    {
-      "Name": "✞Śruba✞",
-      "Steam": "76561199477306193",
-      "Score": 31,
-      "Time": "??:??"
-    },
-    {
-      "Name": "effrayant",
-      "Steam": "76561198195247117",
-      "Score": 13,
-      "Time": "??:??"
-    },
-    {
-      "Name": "$$onlybaim$$",
-      "Steam": "76561199872339306",
+      "Name": "Irony Manic",
+      "Steam": "76561199690909304",
       "Score": 2,
+      "Time": "01:15"
+    },
+    {
+      "Name": "Alcoholic",
+      "Steam": "76561199512232777",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Adrian Domado",
+      "Steam": "76561199617269887",
+      "Score": 16,
+      "Time": "04:29"
+    },
+    {
+      "Name": "jim",
+      "Steam": "76561199529422479",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
