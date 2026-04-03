@@ -1,47 +1,53 @@
 {
-  "Time": "2026-04-03T14:55:35.644363Z",
+  "Time": "2026-04-03T14:57:35.6546314Z",
   "Players": [
+    {
+      "Name": "97Bajnokk",
+      "Steam": "76561199524640737",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Spread Blyat",
       "Steam": "76561199496640294",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Bwah",
       "Steam": "76561199381909573",
-      "Score": 39,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Mike Oxlong",
       "Steam": "76561198749154292",
-      "Score": 21,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "bubber",
       "Steam": "76561199053195051",
-      "Score": 29,
-      "Time": "136:58"
+      "Score": 0,
+      "Time": "138:58"
     },
     {
       "Name": "BribeB",
       "Steam": "76561199405949624",
-      "Score": 26,
-      "Time": "13:52"
+      "Score": 2,
+      "Time": "15:52"
     },
     {
       "Name": "watari",
       "Steam": "76561198970496981",
-      "Score": 46,
-      "Time": "59:41"
+      "Score": 2,
+      "Time": "61:41"
     },
     {
       "Name": "z1R0",
       "Steam": "76561199874363237",
-      "Score": 17,
-      "Time": "44:12"
+      "Score": 0,
+      "Time": "46:12"
     }
   ]
 }
