@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-04T22:30:30.4387717Z",
+  "Time": "2026-04-04T22:36:30.4638146Z",
   "Players": [
+    {
+      "Name": "AntiSocial",
+      "Steam": "76561198743223911",
+      "Score": 7,
+      "Time": "05:20"
+    },
     {
       "Name": "meow",
       "Steam": "76561198785976863",
-      "Score": 6,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "MIKEEEEEEE",
       "Steam": "76561198765116538",
-      "Score": 44,
+      "Score": 72,
       "Time": "??:??"
     },
     {
-      "Name": "nity.lua         ?!",
+      "Name": "ternity.lua      ?!",
       "Steam": "76561199852046838",
-      "Score": 7,
-      "Time": "02:26"
+      "Score": 22,
+      "Time": "08:26"
     },
     {
-      "Name": "Gaysense Kachel Hüter",
-      "Steam": "76561199041220400",
-      "Score": 6,
-      "Time": "??:??"
+      "Name": "rap_beeach",
+      "Steam": "76561198743654838",
+      "Score": 5,
+      "Time": "05:05"
     }
   ]
 }
