@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-04T16:18:30.4440512Z",
+  "Time": "2026-04-04T16:20:30.4442056Z",
   "Players": [
     {
       "Name": "anti 10ms prediction",
@@ -10,13 +10,19 @@
     {
       "Name": "Frida",
       "Steam": "76561199104673702",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "moon",
       "Steam": "76561198735627334",
-      "Score": 6,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lukas.riedinger1501",
+      "Steam": "76561198718262325",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
