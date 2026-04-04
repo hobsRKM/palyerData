@@ -1,26 +1,32 @@
 {
-  "Time": "2026-04-04T11:30:30.450046Z",
+  "Time": "2026-04-04T11:32:30.4394593Z",
   "Players": [
+    {
+      "Name": "ANALIS NL l EGO",
+      "Steam": "76561199692222758",
+      "Score": 0,
+      "Time": "01:30"
+    },
     {
       "Name": "миссалити.всприд",
       "Steam": "76561199839552430",
-      "Score": 6,
-      "Time": "01:01"
+      "Score": 10,
+      "Time": "03:01"
     },
     {
       "Name": "serzy_mecanic6",
       "Steam": "76561198733198194",
-      "Score": 7,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Darfushkaaa<3",
       "Steam": "76561198767283357",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
-      "Name": "aimware. signal",
+      "Name": "aimware signal",
       "Steam": "76561199666064385",
       "Score": 13,
       "Time": "??:??"
@@ -28,7 +34,7 @@
     {
       "Name": "Stroszku_detonator",
       "Steam": "76561199808810340",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
