@@ -1,23 +1,35 @@
 {
-  "Time": "2026-04-04T15:54:28.0934117Z",
+  "Time": "2026-04-04T15:56:28.1053407Z",
   "Players": [
+    {
+      "Name": "Frida",
+      "Steam": "76561199104673702",
+      "Score": 7,
+      "Time": "??:??"
+    },
     {
       "Name": "goaim beta user",
       "Steam": "76561198788475992",
-      "Score": 11,
+      "Score": 25,
       "Time": "??:??"
+    },
+    {
+      "Name": "bcba06887",
+      "Steam": "76561198733009103",
+      "Score": 0,
+      "Time": "00:33"
     },
     {
       "Name": "Nixware enjoyer",
       "Steam": "76561199469587202",
       "Score": 0,
-      "Time": "12:05"
+      "Time": "14:05"
     },
     {
       "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
       "Steam": "76561199547514723",
-      "Score": 4,
-      "Time": "06:39"
+      "Score": 10,
+      "Time": "08:39"
     },
     {
       "Name": "~Makufka~",
@@ -28,8 +40,14 @@
     {
       "Name": "M1",
       "Steam": "76561198794087367",
-      "Score": 4,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "dzonNIKI",
+      "Steam": "76561199601906570",
+      "Score": 1,
+      "Time": "527:40"
     }
   ]
 }
