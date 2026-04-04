@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-04T19:02:49.0339392Z",
+  "Time": "2026-04-04T19:04:49.0320842Z",
   "Players": [
+    {
+      "Name": "moonwalkxd",
+      "Steam": "76561198721242771",
+      "Score": 2,
+      "Time": "01:33"
+    },
     {
       "Name": "Digital Raju",
       "Steam": "76561198720429353",
-      "Score": 50,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "razer",
       "Steam": "76561198719987123",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     }
   ]
