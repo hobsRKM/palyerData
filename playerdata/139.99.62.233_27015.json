@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-04T10:32:48.951544Z",
+  "Time": "2026-04-04T10:34:48.9522127Z",
   "Players": [
     {
       "Name": "zyro",
       "Steam": "76561198740186999",
-      "Score": 12,
-      "Time": "434:25"
+      "Score": 16,
+      "Time": "436:25"
     },
     {
       "Name": "1",
       "Steam": "76561198724054058",
       "Score": 0,
-      "Time": "48:22"
+      "Time": "01:29"
+    },
+    {
+      "Name": "v",
+      "Steam": "76561198723855280",
+      "Score": 0,
+      "Time": "01:24"
     },
     {
       "Name": "K03",
       "Steam": "76561199788609972",
-      "Score": 35,
-      "Time": "12:12"
+      "Score": 45,
+      "Time": "14:12"
     },
     {
       "Name": "Nixware.pub",
       "Steam": "76561199747824672",
       "Score": 50,
-      "Time": "25:16"
+      "Time": "27:16"
     },
     {
       "Name": "kirk",
       "Steam": "76561198221390104",
-      "Score": 2,
-      "Time": "13:29"
+      "Score": 4,
+      "Time": "15:29"
     },
     {
       "Name": "great firewall",
       "Steam": "76561199840924618",
-      "Score": 0,
-      "Time": "08:32"
+      "Score": 2,
+      "Time": "10:32"
     },
     {
       "Name": "MicroHard",
       "Steam": "76561199748240601",
-      "Score": 21,
-      "Time": "25:07"
+      "Score": 24,
+      "Time": "27:07"
     },
     {
       "Name": "zyr",
       "Steam": "76561199045725064",
-      "Score": 16,
-      "Time": "17:46"
+      "Score": 22,
+      "Time": "19:46"
     }
   ]
 }
