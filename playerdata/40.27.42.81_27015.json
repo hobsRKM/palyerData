@@ -1,89 +1,89 @@
 {
-  "Time": "2026-04-04T22:20:12.4716817Z",
+  "Time": "2026-04-04T22:22:12.4872829Z",
   "Players": [
+    {
+      "Name": "angel",
+      "Steam": "76561199798812373",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "Loopy",
       "Steam": "76561198728778195",
-      "Score": 62,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\u3000 \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199856878709",
-      "Score": 27,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 31,
-      "Time": "01:23"
-    },
-    {
-      "Name": "qkks12",
-      "Steam": "76561198734185305",
-      "Score": 7,
-      "Time": "10:28"
+      "Score": 37,
+      "Time": "03:23"
     },
     {
       "Name": "francis",
       "Steam": "76561199151925988",
-      "Score": 80,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "Riot",
       "Steam": "76561199596136059",
-      "Score": 17,
-      "Time": "13:42"
+      "Score": 21,
+      "Time": "15:42"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "1413121111",
       "Steam": "76561199803595505",
-      "Score": 8,
-      "Time": "08:05"
+      "Score": 0,
+      "Time": "10:05"
     },
     {
       "Name": "Irony Crusader",
       "Steam": "76561198725920441",
-      "Score": 57,
-      "Time": "23:59"
+      "Score": 59,
+      "Time": "25:59"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 76,
-      "Time": "16:36"
+      "Score": 78,
+      "Time": "18:36"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 25,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 57,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "pluto",
       "Steam": "76561198738769599",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 12,
-      "Time": "09:47"
+      "Score": 22,
+      "Time": "11:47"
     }
   ]
 }
