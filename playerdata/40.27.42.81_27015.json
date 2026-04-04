@@ -1,47 +1,59 @@
 {
-  "Time": "2026-04-04T21:26:12.4725815Z",
+  "Time": "2026-04-04T21:28:12.479344Z",
   "Players": [
     {
       "Name": "hikaminee0",
       "Steam": "76561198783885024",
-      "Score": 2,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "j93608497",
+      "Steam": "76561198732138253",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "White Owl White Grape",
       "Steam": "76561198914326769",
-      "Score": 101,
+      "Score": 107,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 60,
-      "Time": "20:34"
+      "Score": 68,
+      "Time": "22:34"
+    },
+    {
+      "Name": "ru",
+      "Steam": "76561198752304739",
+      "Score": 10,
+      "Time": "01:32"
     },
     {
       "Name": "Riot",
       "Steam": "76561199596136059",
-      "Score": 16,
-      "Time": "19:09"
+      "Score": 18,
+      "Time": "21:09"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 44,
-      "Time": "26:36"
+      "Score": 47,
+      "Time": "28:36"
     },
     {
       "Name": "Simply",
       "Steam": "76561199889163804",
-      "Score": 42,
-      "Time": "98:02"
+      "Score": 52,
+      "Time": "100:02"
     },
     {
       "Name": "Irony Crusader",
       "Steam": "76561198725920441",
-      "Score": 5,
-      "Time": "01:39"
+      "Score": 13,
+      "Time": "03:39"
     }
   ]
 }
