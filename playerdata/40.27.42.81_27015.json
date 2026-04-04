@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-04T05:30:16.9230527Z",
+  "Time": "2026-04-04T05:32:16.9228108Z",
   "Players": [
+    {
+      "Name": "pluto",
+      "Steam": "76561198738769599",
+      "Score": 0,
+      "Time": "01:42"
+    },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 29,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "INTERGALACTIC EXPLOITER",
       "Steam": "76561198725920441",
-      "Score": 22,
-      "Time": "08:14"
+      "Score": 25,
+      "Time": "10:14"
     },
     {
       "Name": "grape the rapist",
@@ -28,37 +34,55 @@
     {
       "Name": "KIKI",
       "Steam": "76561199712859474",
-      "Score": 35,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 41,
+      "Time": "01:44"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 40,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 13,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 16,
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "metro",
+      "Steam": "76561199007818126",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
