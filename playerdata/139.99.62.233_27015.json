@@ -1,47 +1,53 @@
 {
-  "Time": "2026-04-04T08:36:48.8625071Z",
+  "Time": "2026-04-04T08:38:48.8634773Z",
   "Players": [
     {
       "Name": "1",
       "Steam": "76561198724054058",
       "Score": 0,
-      "Time": "29:56"
+      "Time": "31:56"
     },
     {
       "Name": "v",
       "Steam": "76561198723855280",
       "Score": 0,
-      "Time": "21:09"
+      "Time": "23:09"
+    },
+    {
+      "Name": "Jumpscout2077",
+      "Steam": "76561199787372779",
+      "Score": 2,
+      "Time": "01:28"
     },
     {
       "Name": "J",
       "Steam": "76561199473467599",
-      "Score": 0,
-      "Time": "27:46"
+      "Score": 4,
+      "Time": "29:46"
     },
     {
       "Name": "moonwalkxd",
       "Steam": "76561198721242771",
-      "Score": 79,
-      "Time": "59:05"
+      "Score": 81,
+      "Time": "61:05"
     },
     {
       "Name": "Nature-",
       "Steam": "76561199747824672",
-      "Score": 89,
-      "Time": "41:42"
+      "Score": 95,
+      "Time": "43:42"
     },
     {
       "Name": "ClewiSnow",
       "Steam": "76561199757997518",
-      "Score": 71,
-      "Time": "44:24"
+      "Score": 81,
+      "Time": "46:24"
     },
     {
       "Name": "great firewall",
       "Steam": "76561199840924618",
-      "Score": 2,
-      "Time": "04:05"
+      "Score": 0,
+      "Time": "06:05"
     }
   ]
 }
