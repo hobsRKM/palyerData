@@ -1,11 +1,11 @@
 {
-  "Time": "2026-04-04T23:26:12.4704788Z",
+  "Time": "2026-04-04T23:28:12.4760344Z",
   "Players": [
     {
       "Name": "Agent 47",
       "Steam": "76561198843785514",
-      "Score": 2,
-      "Time": "93:49"
+      "Score": 10,
+      "Time": "95:49"
     },
     {
       "Name": "imnotdoggo",
@@ -16,62 +16,74 @@
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 9,
-      "Time": "67:23"
+      "Score": 13,
+      "Time": "69:23"
     },
     {
       "Name": "B",
       "Steam": "76561199188286882",
-      "Score": 4,
-      "Time": "17:00"
+      "Score": 5,
+      "Time": "19:00"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 42,
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198259346527",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "francis",
       "Steam": "76561199151925988",
-      "Score": 96,
+      "Score": 98,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 14,
-      "Time": "53:06"
+      "Score": 15,
+      "Time": "55:06"
     },
     {
       "Name": "Mr.Miyagi",
       "Steam": "76561199830118913",
       "Score": 13,
-      "Time": "93:30"
+      "Time": "95:30"
     },
     {
       "Name": "ᵐᵃᵍᵉʰᵃᶜᵏ",
       "Steam": "76561198999235985",
-      "Score": 8,
+      "Score": 9,
       "Time": "??:??"
+    },
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 0,
+      "Time": "01:23"
     },
     {
       "Name": "76561198791368162",
       "Steam": "76561198791368162",
-      "Score": 46,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
       "Score": 46,
-      "Time": "27:25"
+      "Time": "29:25"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 4,
-      "Time": "75:47"
+      "Score": 20,
+      "Time": "77:47"
     }
   ]
 }
