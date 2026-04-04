@@ -1,10 +1,16 @@
 {
-  "Time": "2026-04-04T00:26:46.6713093Z",
+  "Time": "2026-04-04T00:28:46.6690785Z",
   "Players": [
     {
-      "Name": "eternity.l     ?!",
+      "Name": "Mortex",
+      "Steam": "76561199520452190",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "eternity.     ?!",
       "Steam": "76561199852046838",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -16,14 +22,8 @@
     {
       "Name": "KKKasti",
       "Steam": "76561199833286399",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
-    },
-    {
-      "Name": "[450] veylon",
-      "Steam": "76561199472892448",
-      "Score": 0,
-      "Time": "14:48"
     },
     {
       "Name": "Kogut Lucky Luke",
@@ -34,13 +34,13 @@
     {
       "Name": "gaminggenius2012",
       "Steam": "76561198170202181",
-      "Score": 3,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "hugoventura4",
       "Steam": "76561198814808992",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
