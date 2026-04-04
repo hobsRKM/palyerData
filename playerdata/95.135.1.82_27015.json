@@ -1,11 +1,17 @@
 {
-  "Time": "2026-04-04T17:04:28.1038009Z",
+  "Time": "2026-04-04T17:06:28.1022969Z",
   "Players": [
     {
-      "Name": "[Mon] checkmate",
+      "Name": "NN stomper",
+      "Steam": "76561199065194957",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] checkmate",
       "Steam": "76561199023446425",
       "Score": 30,
-      "Time": "607:54"
+      "Time": "609:54"
     },
     {
       "Name": "Sam",
@@ -17,7 +23,7 @@
       "Name": "Nixware enjoyer",
       "Steam": "76561199469587202",
       "Score": 0,
-      "Time": "06:07"
+      "Time": "08:07"
     },
     {
       "Name": "zeynep sude oktay",
@@ -26,15 +32,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "ANALIS NL l EGO",
+      "Name": "NL l EGO",
       "Steam": "76561199692222758",
-      "Score": 1,
-      "Time": "314:48"
+      "Score": 2,
+      "Time": "316:48"
     },
     {
       "Name": "D4emon",
       "Steam": "76561199840077614",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
@@ -46,14 +52,14 @@
     {
       "Name": "Mr. Krabs.",
       "Steam": "76561199885893585",
-      "Score": 38,
-      "Time": "502:45"
+      "Score": 53,
+      "Time": "504:45"
     },
     {
       "Name": "高富帅",
       "Steam": "76561199566312388",
-      "Score": 27,
-      "Time": "102:31"
+      "Score": 31,
+      "Time": "104:31"
     }
   ]
 }
