@@ -1,23 +1,35 @@
 {
-  "Time": "2026-04-04T21:36:30.442351Z",
+  "Time": "2026-04-04T21:38:30.4393715Z",
   "Players": [
+    {
+      "Name": "Lars",
+      "Steam": "76561199082073582",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BEST AIMWARE USER",
+      "Steam": "76561199498202643",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "SuperDoG (SAVE) v2.555",
       "Steam": "76561198780246863",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "6 Seven",
       "Steam": "76561198093972538",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Cakevs",
       "Steam": "76561199532005793",
-      "Score": 27,
-      "Time": "324:16"
+      "Score": 33,
+      "Time": "326:16"
     }
   ]
 }
