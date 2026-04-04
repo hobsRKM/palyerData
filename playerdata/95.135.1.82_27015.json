@@ -1,59 +1,77 @@
 {
-  "Time": "2026-04-04T01:04:44.7799908Z",
+  "Time": "2026-04-04T01:05:52.7265068Z",
   "Players": [
     {
-      "Name": "Baracuda",
-      "Steam": "76561199160093857",
-      "Score": 13,
-      "Time": "??:??"
+      "Name": "Mock",
+      "Steam": "76561198755398524",
+      "Score": 12,
+      "Time": "06:23"
     },
     {
-      "Name": "Trionxs",
-      "Steam": "76561199040781865",
-      "Score": 49,
-      "Time": "32:18"
+      "Name": "Zeerix",
+      "Steam": "76561198035564932",
+      "Score": 5,
+      "Time": "90:29"
     },
     {
-      "Name": "Pluto",
-      "Steam": "76561199817073511",
+      "Name": "cloudy",
+      "Steam": "76561199011320422",
       "Score": 0,
+      "Time": "365:03"
+    },
+    {
+      "Name": "godcomplex",
+      "Steam": "76561199036333155",
+      "Score": 18,
+      "Time": "56:48"
+    },
+    {
+      "Name": "gam",
+      "Steam": "76561198720140878",
+      "Score": 5,
+      "Time": "92:00"
+    },
+    {
+      "Name": "MineCtutW",
+      "Steam": "76561199811291825",
+      "Score": 5,
       "Time": "??:??"
     },
     {
-      "Name": "48",
-      "Steam": "76561198742407377",
-      "Score": 44,
-      "Time": "738:27"
-    },
-    {
-      "Name": "Mr. Krabs.",
-      "Steam": "76561199885893585",
-      "Score": 66,
-      "Time": "20:07"
-    },
-    {
-      "Name": "eternity.lua    ?!",
-      "Steam": "76561199852046838",
-      "Score": 78,
-      "Time": "??:??"
-    },
-    {
-      "Name": "uidless",
-      "Steam": "76561199680174012",
+      "Name": "the chosen one",
+      "Steam": "76561198806792145",
       "Score": 35,
-      "Time": "41:05"
+      "Time": "00:19"
     },
     {
-      "Name": "Mike Oxlong",
-      "Steam": "76561198749154292",
-      "Score": 76,
+      "Name": "Walla",
+      "Steam": "76561199839740853",
+      "Score": 27,
+      "Time": "182:09"
+    },
+    {
+      "Name": "t",
+      "Steam": "76561197963250432",
+      "Score": 41,
       "Time": "??:??"
     },
     {
-      "Name": "chaipaPeek",
-      "Steam": "76561198734019323",
-      "Score": 21,
-      "Time": "11:13"
+      "Name": "Bessa_19",
+      "Steam": "76561198784094220",
+      "Score": 2,
+      "Time": "93:55"
+    },
+    {
+      "Name": "flipped",
+      "Steam": "76561199107173735",
+      "Score": 33,
+      "Time": "291:43"
+    },
+    {
+      "Name": "Kurokendrick",
+      "Steam": "76561199479790668",
+      "Score": 19,
+      "Time": "332:49"
     }
   ]
 }
