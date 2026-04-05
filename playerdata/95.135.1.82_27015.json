@@ -1,4 +1,29 @@
 {
-  "Time": "2026-04-05T06:40:26.6271219Z",
-  "Players": []
+  "Time": "2026-04-05T06:42:10.0715992Z",
+  "Players": [
+    {
+      "Name": "checkmate",
+      "Steam": "76561199023446425",
+      "Score": 19,
+      "Time": "244:15"
+    },
+    {
+      "Name": "Marks Padawan",
+      "Steam": "76561199160093857",
+      "Score": 2,
+      "Time": "140:01"
+    },
+    {
+      "Name": "gamer jeff",
+      "Steam": "76561198820870178",
+      "Score": 46,
+      "Time": "406:17"
+    },
+    {
+      "Name": "the chosen one",
+      "Steam": "76561198806792145",
+      "Score": 20,
+      "Time": "08:19"
+    }
+  ]
 }
