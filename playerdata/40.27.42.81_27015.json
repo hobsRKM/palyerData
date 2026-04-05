@@ -1,23 +1,23 @@
 {
-  "Time": "2026-04-05T08:00:12.9338791Z",
+  "Time": "2026-04-05T08:02:12.928952Z",
   "Players": [
+    {
+      "Name": "Lerrin",
+      "Steam": "76561198722256062",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "the one and only buckets",
       "Steam": "76561198999235985",
-      "Score": 6,
-      "Time": "04:32"
-    },
-    {
-      "Name": "Loopy",
-      "Steam": "76561198728778195",
-      "Score": 42,
-      "Time": "425:37"
+      "Score": 10,
+      "Time": "06:32"
     },
     {
       "Name": "WEEDHACK PREMIUM BETA",
       "Steam": "76561199770317821",
-      "Score": 7,
-      "Time": "03:23"
+      "Score": 10,
+      "Time": "05:23"
     }
   ]
 }
