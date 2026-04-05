@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-05T18:32:56.5629795Z",
+  "Time": "2026-04-05T18:34:56.571295Z",
   "Players": [
     {
       "Name": "Miss Priss",
       "Steam": "76561199214852139",
-      "Score": 24,
-      "Time": "61:54"
+      "Score": 6,
+      "Time": "63:54"
     },
     {
       "Name": "Robin",
       "Steam": "76561199711558803",
-      "Score": 77,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "skizia",
+      "Steam": "76561198721252682",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 10,
-      "Time": "02:34"
+      "Score": 2,
+      "Time": "04:34"
     },
     {
       "Name": "Spontaneous Gamer",
       "Steam": "76561198210600653",
       "Score": 0,
-      "Time": "06:58"
+      "Time": "08:58"
     }
   ]
 }
