@@ -1,47 +1,53 @@
 {
-  "Time": "2026-04-05T17:42:56.5662933Z",
+  "Time": "2026-04-05T17:44:56.5719606Z",
   "Players": [
     {
       "Name": "Miss Priss",
       "Steam": "76561199214852139",
-      "Score": 71,
-      "Time": "11:54"
+      "Score": 75,
+      "Time": "13:54"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 49,
-      "Time": "176:37"
+      "Score": 51,
+      "Time": "178:37"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 31,
-      "Time": "12:00"
+      "Score": 34,
+      "Time": "14:00"
     },
     {
       "Name": "MRRAPEYOURASS",
       "Steam": "76561198769219543",
-      "Score": 91,
-      "Time": "61:40"
+      "Score": 103,
+      "Time": "63:40"
     },
     {
       "Name": "emu",
       "Steam": "76561198147102077",
-      "Score": 48,
+      "Score": 51,
       "Time": "??:??"
+    },
+    {
+      "Name": "Spontaneous Gamer",
+      "Steam": "76561198210600653",
+      "Score": 8,
+      "Time": "00:44"
     },
     {
       "Name": "hiii",
       "Steam": "76561198302149818",
       "Score": 0,
-      "Time": "09:28"
+      "Time": "11:28"
     }
   ]
 }
