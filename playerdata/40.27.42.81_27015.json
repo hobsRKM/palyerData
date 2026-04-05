@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-05T00:40:12.4847579Z",
+  "Time": "2026-04-05T00:42:12.4917499Z",
   "Players": [
+    {
+      "Name": "SypherXz",
+      "Steam": "76561198724996032",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 10,
-      "Time": "13:50"
+      "Score": 15,
+      "Time": "15:50"
     },
     {
       "Name": "qkks12",
       "Steam": "76561198734185305",
-      "Score": 0,
-      "Time": "00:07"
+      "Score": 2,
+      "Time": "02:07"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 45,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "francis",
       "Steam": "76561199151925988",
-      "Score": 48,
-      "Time": "34:14"
+      "Score": 54,
+      "Time": "36:14"
     },
     {
       "Name": "ᵐᵃᵍᵉʰᵃᶜᵏ",
@@ -34,38 +40,26 @@
     {
       "Name": "github",
       "Steam": "76561198725920441",
-      "Score": 19,
-      "Time": "15:26"
-    },
-    {
-      "Name": "supremacy.dll",
-      "Steam": "76561199792464561",
-      "Score": 9,
-      "Time": "173:46"
+      "Score": 22,
+      "Time": "17:26"
     },
     {
       "Name": "lil",
       "Steam": "76561199477656211",
-      "Score": 16,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "pluto",
       "Steam": "76561198738769599",
-      "Score": 34,
-      "Time": "54:49"
+      "Score": 40,
+      "Time": "56:49"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 12,
-      "Time": "28:07"
-    },
-    {
-      "Name": "樱岛麻衣",
-      "Steam": "76561198772659643",
-      "Score": 0,
-      "Time": "65:49"
+      "Score": 2,
+      "Time": "30:07"
     }
   ]
 }
