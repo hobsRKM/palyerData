@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-05T00:02:12.4694352Z",
+  "Time": "2026-04-05T00:04:12.4719921Z",
   "Players": [
+    {
+      "Name": "Hage Reborn",
+      "Steam": "76561199754918087",
+      "Score": 0,
+      "Time": "01:31"
+    },
     {
       "Name": "discord.gg/lumiancexyz",
       "Steam": "76561199880717233",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 23,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 8,
-      "Time": "89:06"
+      "Score": 14,
+      "Time": "91:06"
     },
     {
       "Name": "Mr.Miyagi",
       "Steam": "76561199830118913",
       "Score": 0,
-      "Time": "129:30"
+      "Time": "131:30"
     },
     {
       "Name": "ᵐᵃᵍᵉʰᵃᶜᵏ",
@@ -40,32 +46,32 @@
     {
       "Name": "MRRAPEYOURASS",
       "Steam": "76561198769219543",
-      "Score": 31,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "github",
       "Steam": "76561198725920441",
-      "Score": 9,
-      "Time": "04:35"
+      "Score": 11,
+      "Time": "06:35"
+    },
+    {
+      "Name": "hiii",
+      "Steam": "76561198302149818",
+      "Score": 0,
+      "Time": "01:46"
     },
     {
       "Name": "pluto",
       "Steam": "76561198738769599",
-      "Score": 4,
-      "Time": "16:49"
-    },
-    {
-      "Name": "Mime",
-      "Steam": "76561199229432620",
-      "Score": 4,
-      "Time": "07:35"
+      "Score": 10,
+      "Time": "18:49"
     },
     {
       "Name": "樱岛麻衣",
       "Steam": "76561198772659643",
-      "Score": 8,
-      "Time": "27:49"
+      "Score": 14,
+      "Time": "29:49"
     }
   ]
 }
