@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-05T19:46:26.6239311Z",
+  "Time": "2026-04-05T19:48:26.6292351Z",
   "Players": [
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 5,
-      "Time": "10:32"
+      "Score": 23,
+      "Time": "12:32"
     },
     {
       "Name": "Kurokendrick",
       "Steam": "76561199479790668",
-      "Score": 34,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "slisko",
       "Steam": "76561198745723178",
       "Score": 0,
-      "Time": "296:16"
+      "Time": "298:16"
     },
     {
       "Name": "Гипер мега лох",
       "Steam": "76561198315401281",
-      "Score": 33,
-      "Time": "16:09"
+      "Score": 39,
+      "Time": "18:09"
     },
     {
       "Name": "D0rge",
       "Steam": "76561197988715741",
-      "Score": 57,
-      "Time": "29:38"
+      "Score": 66,
+      "Time": "31:38"
     },
     {
       "Name": "I am with stupid",
       "Steam": "76561199851281592",
-      "Score": 9,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "EnigmaTechUser",
       "Steam": "76561198731178649",
-      "Score": 16,
-      "Time": "95:12"
+      "Score": 4,
+      "Time": "97:12"
     },
     {
       "Name": "skizia",
       "Steam": "76561198721252682",
-      "Score": 6,
-      "Time": "63:19"
+      "Score": 8,
+      "Time": "65:19"
+    },
+    {
+      "Name": "IGRIS",
+      "Steam": "76561199447529784",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
