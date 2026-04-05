@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-05T06:24:12.742422Z",
+  "Time": "2026-04-05T06:26:12.7506903Z",
   "Players": [
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "SypherXz",
       "Steam": "76561198724996032",
-      "Score": 8,
-      "Time": "19:08"
+      "Score": 14,
+      "Time": "21:08"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 43,
-      "Time": "126:59"
+      "Score": 47,
+      "Time": "128:59"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 85,
-      "Time": "23:39"
+      "Score": 89,
+      "Time": "25:39"
     },
     {
       "Name": "i <3 traceless",
       "Steam": "76561199876077209",
-      "Score": 44,
-      "Time": "14:23"
+      "Score": 49,
+      "Time": "16:23"
     },
     {
       "Name": "SAM",
@@ -34,32 +40,32 @@
     {
       "Name": "ashieuwu",
       "Steam": "76561199320412887",
-      "Score": 32,
-      "Time": "22:30"
+      "Score": 34,
+      "Time": "24:30"
     },
     {
       "Name": "ᵐᵃᵍᵉʰᵃᶜᵏ buckets",
       "Steam": "76561198999235985",
-      "Score": 52,
-      "Time": "56:52"
+      "Score": 57,
+      "Time": "58:52"
     },
     {
       "Name": "AYULTIE X RAIN ESEX CLIPS",
       "Steam": "76561198725920441",
-      "Score": 0,
-      "Time": "12:14"
+      "Score": 10,
+      "Time": "14:14"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 54,
-      "Time": "19:52"
+      "Score": 64,
+      "Time": "21:52"
     },
     {
       "Name": "....",
       "Steam": "76561198834456840",
-      "Score": 5,
-      "Time": "59:39"
+      "Score": 7,
+      "Time": "61:39"
     }
   ]
 }
