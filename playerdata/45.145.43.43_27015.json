@@ -1,53 +1,53 @@
 {
-  "Time": "2026-04-05T00:20:31.2557691Z",
+  "Time": "2026-04-05T00:22:31.3139164Z",
   "Players": [
+    {
+      "Name": "Hakuna",
+      "Steam": "76561199888214382",
+      "Score": 0,
+      "Time": "476:55"
+    },
     {
       "Name": "bcba06887",
       "Steam": "76561198733009103",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "MIKEEEEEEE",
       "Steam": "76561198765116538",
-      "Score": 45,
-      "Time": "92:59"
+      "Score": 53,
+      "Time": "94:59"
     },
     {
       "Name": "bro show me your RAMUS",
       "Steam": "76561198717253785",
-      "Score": 9,
-      "Time": "15:24"
+      "Score": 13,
+      "Time": "17:24"
     },
     {
       "Name": "V1CKE",
       "Steam": "76561199013085025",
-      "Score": 2,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "gaminggenius2012",
       "Steam": "76561198170202181",
-      "Score": 43,
-      "Time": "90:26"
-    },
-    {
-      "Name": "Lity",
-      "Steam": "76561199217754193",
-      "Score": 4,
-      "Time": "00:53"
+      "Score": 51,
+      "Time": "92:26"
     },
     {
       "Name": "Rxcoil15",
       "Steam": "76561199311106586",
-      "Score": 23,
-      "Time": "02:30"
+      "Score": 25,
+      "Time": "04:30"
     },
     {
       "Name": "User",
       "Steam": "76561198735098292",
-      "Score": 7,
-      "Time": "05:14"
+      "Score": 18,
+      "Time": "07:14"
     }
   ]
 }
