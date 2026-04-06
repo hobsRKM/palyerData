@@ -1,17 +1,29 @@
 {
-  "Time": "2026-04-06T08:18:53.6906829Z",
+  "Time": "2026-04-06T08:20:53.6983385Z",
   "Players": [
+    {
+      "Name": "Fatality | Frosty",
+      "Steam": "76561198720661837",
+      "Score": 0,
+      "Time": "01:12"
+    },
     {
       "Name": "\u1CBCLin Biao",
       "Steam": "76561199719958598",
-      "Score": 14,
-      "Time": "06:25"
+      "Score": 16,
+      "Time": "08:25"
     },
     {
       "Name": "dms666.xyz",
       "Steam": "76561199711089569",
-      "Score": 14,
-      "Time": "07:06"
+      "Score": 24,
+      "Time": "09:06"
+    },
+    {
+      "Name": "ifrit",
+      "Steam": "76561198777555663",
+      "Score": 0,
+      "Time": "00:35"
     }
   ]
 }
