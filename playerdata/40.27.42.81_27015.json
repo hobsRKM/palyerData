@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-06T21:20:56.5744978Z",
+  "Time": "2026-04-06T21:22:56.5627051Z",
   "Players": [
     {
       "Name": "Mr.Miyagi",
       "Steam": "76561199830118913",
       "Score": 4,
-      "Time": "16:59"
+      "Time": "18:59"
     },
     {
       "Name": "Cummer",
       "Steam": "76561199446263993",
-      "Score": 19,
-      "Time": "60:44"
+      "Score": 29,
+      "Time": "62:44"
+    },
+    {
+      "Name": "BoatCaptain31",
+      "Steam": "76561199873517401",
+      "Score": 0,
+      "Time": "01:10"
     },
     {
       "Name": "semen demon",
       "Steam": "76561199673231102",
-      "Score": 7,
-      "Time": "60:33"
+      "Score": 18,
+      "Time": "62:33"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 16,
-      "Time": "43:41"
+      "Score": 20,
+      "Time": "45:41"
     },
     {
       "Name": "Babbili",
       "Steam": "76561199082023689",
-      "Score": 2,
-      "Time": "47:48"
+      "Score": 0,
+      "Time": "49:48"
     }
   ]
 }
