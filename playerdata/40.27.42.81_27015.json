@@ -1,40 +1,46 @@
 {
-  "Time": "2026-04-07T06:23:24.6910305Z",
+  "Time": "2026-04-07T06:25:24.689364Z",
   "Players": [
+    {
+      "Name": "rain.ss | .gg/x15",
+      "Steam": "76561199876077209",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "skintbot5",
       "Steam": "76561198774021910",
-      "Score": 59,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "Kenny",
       "Steam": "76561199338121392",
-      "Score": 10,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 62,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 14,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 66,
-      "Time": "156:37"
+      "Score": 67,
+      "Time": "158:37"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 75,
+      "Score": 81,
       "Time": "??:??"
     }
   ]
