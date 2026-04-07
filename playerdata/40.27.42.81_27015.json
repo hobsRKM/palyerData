@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-07T02:33:24.700938Z",
+  "Time": "2026-04-07T02:35:24.6927614Z",
   "Players": [
     {
       "Name": "Nim",
@@ -8,15 +8,21 @@
       "Time": "??:??"
     },
     {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "01:46"
+    },
+    {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 0,
-      "Time": "01:28"
+      "Score": 4,
+      "Time": "03:28"
     },
     {
       "Name": "rain.ss",
       "Steam": "76561199876077209",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
