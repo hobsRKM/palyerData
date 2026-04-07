@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-07T05:23:24.6971619Z",
+  "Time": "2026-04-07T05:25:24.7019705Z",
   "Players": [
+    {
+      "Name": "WheyCruzin",
+      "Steam": "76561198419968654",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 3,
-      "Time": "116:12"
+      "Score": 0,
+      "Time": "118:12"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 49,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 14,
-      "Time": "17:18"
+      "Score": 19,
+      "Time": "19:18"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 53,
-      "Time": "96:37"
+      "Score": 54,
+      "Time": "98:37"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 36,
-      "Time": "11:57"
+      "Score": 43,
+      "Time": "13:57"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 59,
-      "Time": "23:26"
+      "Score": 64,
+      "Time": "25:26"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 56,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 100,
-      "Time": "36:01"
+      "Score": 113,
+      "Time": "38:01"
     },
     {
       "Name": "phillip",
@@ -58,8 +64,8 @@
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 28,
-      "Time": "11:48"
+      "Score": 32,
+      "Time": "13:48"
     }
   ]
 }
