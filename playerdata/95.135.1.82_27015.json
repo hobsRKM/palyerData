@@ -1,41 +1,53 @@
 {
-  "Time": "2026-04-07T10:22:34.6813612Z",
+  "Time": "2026-04-07T10:23:33.450268Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Maselko",
+      "Steam": "76561199550951822",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "1337",
+      "Steam": "76561199479824805",
+      "Score": 11,
+      "Time": "547:50"
+    },
+    {
+      "Name": "D4emon",
+      "Steam": "76561199840077614",
+      "Score": 0,
+      "Time": "724:13"
+    },
+    {
+      "Name": "\"'",
+      "Steam": "76561199028888055",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Rifk7Experience",
-      "Steam": "76561199786071869",
-      "Score": 31,
-      "Time": "29:10"
-    },
-    {
-      "Name": "bdlington",
-      "Steam": "76561199590861733",
-      "Score": 46,
-      "Time": "??:??"
-    },
-    {
-      "Name": "♥'' kitty",
-      "Steam": "76561198758533060",
-      "Score": 58,
-      "Time": "??:??"
-    },
-    {
-      "Name": "?skyy",
-      "Steam": "76561199838974363",
-      "Score": 23,
-      "Time": "??:??"
-    },
-    {
-      "Name": "loooool",
-      "Steam": "76561198724423055",
+      "Name": "#sweepfamily electro-lois (◣_",
+      "Steam": "76561198720135006",
       "Score": 8,
-      "Time": "??:??"
+      "Time": "1436:42"
+    },
+    {
+      "Name": "digga",
+      "Steam": "76561198743761579",
+      "Score": 0,
+      "Time": "604:36"
+    },
+    {
+      "Name": "Charles Leclerc",
+      "Steam": "76561199753029220",
+      "Score": 17,
+      "Time": "18:38"
+    },
+    {
+      "Name": "ka$h",
+      "Steam": "76561198769067462",
+      "Score": 0,
+      "Time": "55:34"
     }
   ]
 }
