@@ -1,34 +1,40 @@
 {
-  "Time": "2026-04-07T05:59:24.689297Z",
+  "Time": "2026-04-07T06:01:24.6921151Z",
   "Players": [
     {
       "Name": "Johnathon Lohnathon",
       "Steam": "76561199700514112",
-      "Score": 6,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "skintbot5",
+      "Steam": "76561198774021910",
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 12,
-      "Time": "132:37"
+      "Score": 14,
+      "Time": "134:37"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 14,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "phillip",
       "Steam": "76561198726719444",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
