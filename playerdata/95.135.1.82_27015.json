@@ -1,17 +1,53 @@
 {
-  "Time": "2026-04-07T11:08:34.6746689Z",
+  "Time": "2026-04-07T11:09:33.4564438Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "SteelsSPG",
+      "Steam": "76561199543995043",
+      "Score": 19,
+      "Time": "560:51"
+    },
+    {
+      "Name": "Babyblox",
+      "Steam": "76561199070756563",
+      "Score": 13,
+      "Time": "810:57"
+    },
+    {
+      "Name": "\"'",
+      "Steam": "76561199028888055",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "\uD835\uDCFF\uD835\uDCEE\uD835\uDCF5\uD835\uDCF8\uD835\uDCEC\uD835\uDCEE\uD835\uDCF7\uD835\uDCFD",
-      "Steam": "76561199870728525",
+      "Name": "digga",
+      "Steam": "76561198743761579",
       "Score": 0,
+      "Time": "650:36"
+    },
+    {
+      "Name": "Blanco 73",
+      "Steam": "76561198255877566",
+      "Score": 72,
+      "Time": "764:37"
+    },
+    {
+      "Name": "Labyrinth",
+      "Steam": "76561198004102924",
+      "Score": 2,
+      "Time": "02:30"
+    },
+    {
+      "Name": "AH-64D-I (P)",
+      "Steam": "76561199765665485",
+      "Score": 50,
       "Time": "??:??"
+    },
+    {
+      "Name": "pxnch",
+      "Steam": "76561198827507307",
+      "Score": 4,
+      "Time": "17:22"
     }
   ]
 }
