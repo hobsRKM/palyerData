@@ -1,34 +1,40 @@
 {
-  "Time": "2026-04-07T22:45:05.8733511Z",
+  "Time": "2026-04-07T22:47:05.874287Z",
   "Players": [
     {
       "Name": "Karma",
       "Steam": "76561199520008688",
-      "Score": 52,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 49,
-      "Time": "??:??"
+      "Score": 57,
+      "Time": "01:30"
     },
     {
       "Name": "Veyra",
       "Steam": "76561198718191645",
-      "Score": 13,
-      "Time": "05:53"
+      "Score": 17,
+      "Time": "07:53"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 61,
-      "Time": "15:37"
+      "Score": 63,
+      "Time": "17:37"
     },
     {
       "Name": "Noki",
       "Steam": "76561198768502831",
-      "Score": 36,
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sharkbait",
+      "Steam": "76561199199297162",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
