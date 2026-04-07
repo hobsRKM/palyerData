@@ -1,10 +1,16 @@
 {
-  "Time": "2026-04-07T23:57:05.8729827Z",
+  "Time": "2026-04-07T23:59:05.8731319Z",
   "Players": [
+    {
+      "Name": "y",
+      "Steam": "76561199837114653",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "phoebe tonkin",
       "Steam": "76561199199782561",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -16,32 +22,38 @@
     {
       "Name": "Elquetose",
       "Steam": "76561199610426080",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Baim (tracele.ss test)",
+      "Steam": "76561198747305191",
       "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 10,
-      "Time": "03:58"
+      "Score": 14,
+      "Time": "05:58"
     },
     {
       "Name": "217",
       "Steam": "76561198320312396",
-      "Score": 7,
-      "Time": "45:48"
+      "Score": 15,
+      "Time": "47:48"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 21,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Sexy Moroccan",
       "Steam": "76561198868385624",
-      "Score": 16,
-      "Time": "08:57"
+      "Score": 19,
+      "Time": "10:57"
     }
   ]
 }
