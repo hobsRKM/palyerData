@@ -1,47 +1,53 @@
 {
-  "Time": "2026-04-07T03:53:24.6975571Z",
+  "Time": "2026-04-07T03:55:24.6971088Z",
   "Players": [
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 29,
+      "Time": "01:20"
+    },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 42,
-      "Time": "81:28"
+      "Score": 44,
+      "Time": "83:28"
     },
     {
       "Name": "rain.ss",
       "Steam": "76561199876077209",
-      "Score": 63,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
       "Score": 0,
-      "Time": "26:12"
+      "Time": "28:12"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 67,
+      "Score": 75,
       "Time": "??:??"
     },
     {
       "Name": "Perc 60 I Just Popped 2 Perc 30s",
       "Steam": "76561199565961410",
-      "Score": 18,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "astral.rip/members/angelica.209/",
       "Steam": "76561198725920441",
       "Score": 0,
-      "Time": "10:53"
+      "Time": "12:53"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 26,
-      "Time": "06:37"
+      "Score": 41,
+      "Time": "08:37"
     },
     {
       "Name": "dnd8",
@@ -50,9 +56,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Name": "g_ \uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
@@ -62,15 +68,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "styxisfat",
-      "Steam": "76561198717546363",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
