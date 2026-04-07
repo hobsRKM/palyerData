@@ -1,34 +1,40 @@
 {
-  "Time": "2026-04-07T09:18:40.5540672Z",
+  "Time": "2026-04-07T09:20:40.5576846Z",
   "Players": [
+    {
+      "Name": "Alcers",
+      "Steam": "76561198286899395",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 67,
-      "Time": "19:53"
+      "Score": 72,
+      "Time": "21:53"
     },
     {
       "Name": "yujianjian",
       "Steam": "76561199885302348",
-      "Score": 14,
-      "Time": "05:22"
+      "Score": 16,
+      "Time": "07:22"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 29,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "-Mol™",
       "Steam": "76561198719834647",
-      "Score": 2,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Arterra",
       "Steam": "76561198011549867",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     }
   ]
