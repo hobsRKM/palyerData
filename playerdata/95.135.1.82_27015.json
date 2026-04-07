@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-07T11:49:33.4507794Z",
+  "Time": "2026-04-07T11:51:33.4427641Z",
   "Players": [
+    {
+      "Name": "knurwojtek",
+      "Steam": "76561199351095301",
+      "Score": 0,
+      "Time": "824:39"
+    },
     {
       "Name": "Jose Armindo Linhares",
       "Steam": "76561199319852713",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "1337",
       "Steam": "76561199479824805",
       "Score": 16,
-      "Time": "24:46"
+      "Time": "26:46"
     },
     {
       "Name": "braxtonryan90 haunted larp",
       "Steam": "76561199870244055",
-      "Score": 36,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "discord: blvf_",
       "Steam": "76561198978111164",
-      "Score": 2,
-      "Time": "611:59"
+      "Score": 4,
+      "Time": "613:59"
     },
     {
       "Name": "ozempeek",
       "Steam": "76561199241125970",
-      "Score": 0,
-      "Time": "31:00"
+      "Score": 8,
+      "Time": "33:00"
     },
     {
       "Name": "\"'",
@@ -41,7 +47,7 @@
       "Name": "digga",
       "Steam": "76561198743761579",
       "Score": 0,
-      "Time": "690:36"
+      "Time": "692:36"
     }
   ]
 }
