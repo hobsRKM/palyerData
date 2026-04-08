@@ -1,47 +1,41 @@
 {
-  "Time": "2026-04-08T12:17:06.4387207Z",
+  "Time": "2026-04-08T12:19:06.4347862Z",
   "Players": [
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 16,
-      "Time": "12:04"
+      "Score": 17,
+      "Time": "14:04"
     },
     {
       "Name": "airlagger",
       "Steam": "76561199714249946",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "bt : using skeet.dll",
-      "Steam": "76561199554559344",
-      "Score": 14,
-      "Time": "06:33"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 31,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "v0n0",
       "Steam": "76561198723595297",
       "Score": 8,
-      "Time": "41:11"
+      "Time": "43:11"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 16,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Marcela",
       "Steam": "76561198762345812",
-      "Score": 13,
-      "Time": "12:21"
+      "Score": 21,
+      "Time": "14:21"
     }
   ]
 }
