@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-08T20:01:11.6532331Z",
+  "Time": "2026-04-08T20:03:11.7390723Z",
   "Players": [
+    {
+      "Name": "Nivartuava",
+      "Steam": "76561199681914198",
+      "Score": 4,
+      "Time": "948:41"
+    },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
@@ -10,62 +16,68 @@
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 103,
-      "Time": "633:32"
+      "Score": 104,
+      "Time": "635:32"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 119,
-      "Time": "28:41"
+      "Score": 126,
+      "Time": "30:41"
     },
     {
       "Name": "mobo fan 1337",
       "Steam": "76561199050170734",
-      "Score": 100,
-      "Time": "31:48"
+      "Score": 107,
+      "Time": "33:48"
     },
     {
       "Name": "neo",
       "Steam": "76561199807018871",
-      "Score": 61,
-      "Time": "27:11"
+      "Score": 63,
+      "Time": "29:11"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 54,
-      "Time": "507:38"
+      "Score": 67,
+      "Time": "509:38"
     },
     {
       "Name": "Bananchiki",
       "Steam": "76561199619301187",
-      "Score": 6,
-      "Time": "04:16"
+      "Score": 16,
+      "Time": "06:16"
     },
     {
       "Name": "Merlinisdaddy",
       "Steam": "76561199888487981",
-      "Score": 29,
-      "Time": "48:52"
+      "Score": 31,
+      "Time": "50:52"
     },
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 37,
-      "Time": "509:46"
+      "Score": 39,
+      "Time": "511:46"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 2,
+      "Time": "34:26"
     },
     {
       "Name": "Mr.Miyagi",
       "Steam": "76561199830118913",
-      "Score": 34,
-      "Time": "54:48"
+      "Score": 36,
+      "Time": "56:48"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199873394300",
-      "Score": 42,
-      "Time": "121:04"
+      "Score": 3,
+      "Time": "123:04"
     }
   ]
 }
