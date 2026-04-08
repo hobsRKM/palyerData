@@ -1,4 +1,23 @@
 {
-  "Time": "2026-04-08T06:00:29.9750085Z",
-  "Players": []
+  "Time": "2026-04-08T06:00:33.4637377Z",
+  "Players": [
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 24,
+      "Time": "03:58"
+    },
+    {
+      "Name": "Salaaaa",
+      "Steam": "76561199566421315",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Compkiller] missed due to xz",
+      "Steam": "76561198745196734",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
