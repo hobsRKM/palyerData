@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-08T08:11:05.9955608Z",
+  "Time": "2026-04-08T08:13:06.0051715Z",
   "Players": [
     {
       "Name": "BoatCaptain31",
       "Steam": "76561199873517401",
-      "Score": 0,
-      "Time": "06:12"
+      "Score": 2,
+      "Time": "08:12"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 29,
-      "Time": "29:57"
+      "Score": 31,
+      "Time": "31:57"
+    },
+    {
+      "Name": "\"Empty\"",
+      "Steam": "76561199817831530",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Radmaan",
@@ -22,20 +28,20 @@
     {
       "Name": "Johnathon Lohnathon",
       "Steam": "76561199700514112",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 40,
-      "Time": "28:15"
+      "Score": 56,
+      "Time": "30:15"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 22,
-      "Time": "11:34"
+      "Score": 26,
+      "Time": "13:34"
     }
   ]
 }
