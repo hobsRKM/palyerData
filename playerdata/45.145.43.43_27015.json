@@ -1,22 +1,34 @@
 {
-  "Time": "2026-04-08T19:44:29.0957502Z",
+  "Time": "2026-04-08T19:46:29.0918206Z",
   "Players": [
+    {
+      "Name": "OTC V3 user",
+      "Steam": "76561198733842354",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "sizl",
       "Steam": "76561199880271391",
-      "Score": 40,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "mattes.jr",
       "Steam": "76561199870902362",
       "Score": 0,
-      "Time": "04:02"
+      "Time": "06:02"
     },
     {
       "Name": "kenami",
       "Steam": "76561199550040414",
-      "Score": 8,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bdlington",
+      "Steam": "76561199590861733",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
