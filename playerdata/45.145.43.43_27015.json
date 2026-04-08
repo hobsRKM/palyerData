@@ -1,28 +1,34 @@
 {
-  "Time": "2026-04-08T20:10:29.0908856Z",
+  "Time": "2026-04-08T20:12:29.0977589Z",
   "Players": [
+    {
+      "Name": "mafix",
+      "Steam": "76561199171127041",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Gavno",
       "Steam": "76561198765995175",
-      "Score": 0,
-      "Time": "16:50"
+      "Score": 7,
+      "Time": "18:50"
     },
     {
       "Name": "OTC V3 user",
       "Steam": "76561198733842354",
-      "Score": 92,
-      "Time": "23:42"
+      "Score": 103,
+      "Time": "25:42"
     },
     {
       "Name": "Fake",
       "Steam": "76561199729334552",
-      "Score": 63,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "Rxcoil15",
       "Steam": "76561199311106586",
-      "Score": 40,
+      "Score": 47,
       "Time": "??:??"
     },
     {
@@ -34,13 +40,13 @@
     {
       "Name": "antiCasper",
       "Steam": "76561198743223911",
-      "Score": 26,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "bdlington",
       "Steam": "76561199590861733",
-      "Score": 49,
+      "Score": 53,
       "Time": "??:??"
     }
   ]
