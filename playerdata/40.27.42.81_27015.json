@@ -1,40 +1,46 @@
 {
-  "Time": "2026-04-08T00:49:05.8797302Z",
+  "Time": "2026-04-08T00:51:05.8864113Z",
   "Players": [
+    {
+      "Name": "Talk About It",
+      "Steam": "76561199878413811",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "born",
       "Steam": "76561198344895092",
-      "Score": 18,
-      "Time": "45:45"
+      "Score": 0,
+      "Time": "47:45"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 110,
+      "Score": 121,
       "Time": "??:??"
     },
     {
       "Name": "DECEMBER DONA DE CASA",
       "Steam": "76561198441677380",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "top top top top top",
       "Steam": "76561198757504427",
-      "Score": 2,
-      "Time": "01:05"
+      "Score": 1,
+      "Time": "01:36"
     },
     {
       "Name": "ziul",
       "Steam": "76561199548174511",
-      "Score": 12,
-      "Time": "06:33"
+      "Score": 18,
+      "Time": "08:33"
     },
     {
       "Name": "mawlek",
       "Steam": "76561197966745469",
-      "Score": 59,
+      "Score": 65,
       "Time": "??:??"
     },
     {
@@ -46,43 +52,43 @@
     {
       "Name": "Flika1999",
       "Steam": "76561198355832992",
-      "Score": 32,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "doxbin.gg/felipehvh",
       "Steam": "76561199086086934",
-      "Score": 1,
-      "Time": "00:23"
+      "Score": 0,
+      "Time": "02:23"
     },
     {
       "Name": "anti xiter",
       "Steam": "76561199789890081",
-      "Score": 9,
-      "Time": "07:05"
+      "Score": 11,
+      "Time": "09:05"
     },
     {
       "Name": "woofwoofmeow123",
       "Steam": "76561198180065165",
-      "Score": 28,
-      "Time": "08:30"
+      "Score": 0,
+      "Time": "10:30"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 7,
-      "Time": "00:18"
+      "Score": 17,
+      "Time": "02:18"
     },
     {
       "Name": "brgodz>all",
       "Steam": "76561199059830928",
-      "Score": 2,
-      "Time": "01:25"
+      "Score": 8,
+      "Time": "03:25"
     },
     {
       "Name": "awpdofallen",
       "Steam": "76561198719540093",
-      "Score": 8,
+      "Score": 13,
       "Time": "??:??"
     },
     {
@@ -92,16 +98,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "GL",
+      "Steam": "76561199513402341",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
       "Name": "Sir Tapsalot",
       "Steam": "76561199467013335",
-      "Score": 0,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Riot",
+      "Steam": "76561199596136059",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "christopher",
       "Steam": "76561199546640605",
-      "Score": 2,
-      "Time": "12:03"
+      "Score": 6,
+      "Time": "14:03"
     }
   ]
 }
