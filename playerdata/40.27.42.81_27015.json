@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-08T18:33:09.5462421Z",
+  "Time": "2026-04-08T18:35:09.5908671Z",
   "Players": [
     {
       "Name": "gerbert",
@@ -10,20 +10,32 @@
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 2,
-      "Time": "1091:38"
+      "Score": 0,
+      "Time": "1093:38"
+    },
+    {
+      "Name": "xddmackoxd",
+      "Steam": "76561198718655274",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Joey Bean",
+      "Steam": "76561198171076445",
+      "Score": 0,
+      "Time": "422:01"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 61,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "cute tgirl seyvn :3",
       "Steam": "76561198389776795",
-      "Score": 36,
-      "Time": "135:59"
+      "Score": 43,
+      "Time": "137:59"
     },
     {
       "Name": "No Thoughts",
@@ -34,20 +46,14 @@
     {
       "Name": "ld157626",
       "Steam": "76561198786524522",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 8,
-      "Time": "06:17"
-    },
-    {
-      "Name": "Mime",
-      "Steam": "76561199229432620",
-      "Score": 7,
-      "Time": "981:33"
+      "Score": 16,
+      "Time": "08:17"
     }
   ]
 }
