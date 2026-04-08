@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-08T19:31:10.7180424Z",
+  "Time": "2026-04-08T19:33:10.759533Z",
   "Players": [
     {
       "Name": "gerbert",
@@ -10,44 +10,56 @@
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 26,
-      "Time": "603:31"
+      "Score": 30,
+      "Time": "605:31"
+    },
+    {
+      "Name": "JS",
+      "Steam": "76561199828563808",
+      "Score": 25,
+      "Time": "00:40"
     },
     {
       "Name": "mobo fan 1337",
       "Steam": "76561199050170734",
       "Score": 2,
-      "Time": "01:47"
+      "Time": "03:47"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561198719882003",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Merlinisdaddy",
       "Steam": "76561199888487981",
-      "Score": 6,
-      "Time": "18:51"
+      "Score": 7,
+      "Time": "20:51"
     },
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 6,
-      "Time": "479:45"
+      "Score": 0,
+      "Time": "481:45"
     },
     {
       "Name": "Eros",
       "Steam": "76561198316126206",
-      "Score": 24,
-      "Time": "08:41"
+      "Score": 29,
+      "Time": "10:41"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 23,
-      "Time": "1191:05"
+      "Score": 35,
+      "Time": "1193:05"
     },
     {
       "Name": "Mr.Miyagi",
       "Steam": "76561199830118913",
-      "Score": 11,
-      "Time": "24:47"
+      "Score": 15,
+      "Time": "26:47"
     }
   ]
 }
