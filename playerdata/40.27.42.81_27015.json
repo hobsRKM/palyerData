@@ -1,40 +1,46 @@
 {
-  "Time": "2026-04-08T02:27:05.8810486Z",
+  "Time": "2026-04-08T02:29:05.8803083Z",
   "Players": [
+    {
+      "Name": "0x6a6178",
+      "Steam": "76561198735582746",
+      "Score": 4,
+      "Time": "83:22"
+    },
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 26,
-      "Time": "10:34"
+      "Score": 30,
+      "Time": "12:34"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 49,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Karma",
       "Steam": "76561199520008688",
-      "Score": 16,
-      "Time": "97:18"
+      "Score": 24,
+      "Time": "99:18"
     },
     {
       "Name": "kingherman64077",
       "Steam": "76561199717890126",
       "Score": 0,
-      "Time": "05:10"
+      "Time": "07:10"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "ihavesmollpp",
       "Steam": "76561199209588405",
-      "Score": 57,
+      "Score": 59,
       "Time": "??:??"
     },
     {
@@ -46,7 +52,7 @@
     {
       "Name": "qks",
       "Steam": "76561198734185305",
-      "Score": 40,
+      "Score": 45,
       "Time": "??:??"
     }
   ]
