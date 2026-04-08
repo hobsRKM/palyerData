@@ -1,58 +1,64 @@
 {
-  "Time": "2026-04-08T03:31:05.887006Z",
+  "Time": "2026-04-08T03:33:05.8896006Z",
   "Players": [
+    {
+      "Name": "xz",
+      "Steam": "76561198719029067",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "naughty",
       "Steam": "76561198001855924",
-      "Score": 25,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "THE HAT",
       "Steam": "76561199041753106",
-      "Score": 41,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "217",
       "Steam": "76561198320312396",
-      "Score": 18,
-      "Time": "101:18"
+      "Score": 28,
+      "Time": "103:18"
     },
     {
       "Name": "BRIS",
       "Steam": "76561198740274195",
-      "Score": 6,
-      "Time": "234:15"
+      "Score": 7,
+      "Time": "236:15"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 18,
-      "Time": "16:23"
+      "Score": 22,
+      "Time": "18:23"
     },
     {
       "Name": "woofwoofmeow123",
       "Steam": "76561198180065165",
       "Score": 0,
-      "Time": "128:47"
+      "Time": "130:47"
     },
     {
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
-      "Score": 35,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "XxXfemboylover69420xXx",
       "Steam": "76561198298152973",
-      "Score": 9,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -64,14 +70,20 @@
     {
       "Name": "ihavesmollpp",
       "Steam": "76561199209588405",
-      "Score": 17,
-      "Time": "17:44"
+      "Score": 20,
+      "Time": "19:44"
+    },
+    {
+      "Name": "Merlinisdaddy",
+      "Steam": "76561199888487981",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 24,
-      "Time": "28:08"
+      "Score": 35,
+      "Time": "30:08"
     }
   ]
 }
