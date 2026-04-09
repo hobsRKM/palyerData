@@ -1,10 +1,16 @@
 {
-  "Time": "2026-04-09T21:49:52.4282579Z",
+  "Time": "2026-04-09T21:51:52.426107Z",
   "Players": [
+    {
+      "Name": "\uDB40\uDC73\uDB40\uDC73⁧Coffin",
+      "Steam": "76561198143893089",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "aura maxing",
       "Steam": "76561199323838549",
-      "Score": 4,
+      "Score": 3,
       "Time": "??:??"
     },
     {
@@ -16,62 +22,62 @@
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "first 0.1 milliseconds on enigma",
       "Steam": "76561199050170734",
-      "Score": 6,
-      "Time": "02:53"
+      "Score": 14,
+      "Time": "04:53"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
       "Score": 0,
-      "Time": "58:28"
+      "Time": "60:28"
     },
     {
       "Name": "I want Skeet",
       "Steam": "76561199548174511",
-      "Score": 49,
-      "Time": "32:39"
+      "Score": 0,
+      "Time": "34:39"
     },
     {
       "Name": "woofwoofmeow123",
       "Steam": "76561198180065165",
-      "Score": 5,
-      "Time": "02:05"
+      "Score": 0,
+      "Time": "04:05"
     },
     {
       "Name": "Robin",
       "Steam": "76561199711558803",
-      "Score": 69,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 12,
-      "Time": "185:41"
+      "Score": 18,
+      "Time": "187:41"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "290:01"
+      "Time": "292:01"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 25,
-      "Time": "195:44"
+      "Score": 28,
+      "Time": "197:44"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 53,
-      "Time": "26:38"
+      "Score": 59,
+      "Time": "28:38"
     }
   ]
 }
