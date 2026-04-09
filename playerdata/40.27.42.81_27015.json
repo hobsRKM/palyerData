@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-09T23:01:52.4218465Z",
+  "Time": "2026-04-09T23:03:52.4277286Z",
   "Players": [
+    {
+      "Name": "lobotomist",
+      "Steam": "76561199523988715",
+      "Score": 0,
+      "Time": "00:37"
+    },
     {
       "Name": "christian cortez",
       "Steam": "76561198756303634",
@@ -10,38 +16,44 @@
     {
       "Name": "lately",
       "Steam": "76561198720684327",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
+    },
+    {
+      "Name": "Le0",
+      "Steam": "76561198798740015",
+      "Score": 0,
+      "Time": "296:08"
     },
     {
       "Name": "IntelBroker #lowcortisol",
       "Steam": "76561199050170734",
       "Score": 3,
-      "Time": "01:50"
+      "Time": "03:50"
     },
     {
       "Name": "broken animfix abuser",
       "Steam": "76561199236927078",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "=lol",
       "Steam": "76561199792464561",
-      "Score": 8,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "woofwoofmeow123",
       "Steam": "76561198180065165",
       "Score": 0,
-      "Time": "30:51"
+      "Time": "32:51"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "362:01"
+      "Time": "364:01"
     }
   ]
 }
