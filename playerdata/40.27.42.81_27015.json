@@ -1,35 +1,29 @@
 {
-  "Time": "2026-04-09T04:39:53.9860679Z",
+  "Time": "2026-04-09T04:41:54.0947554Z",
   "Players": [
     {
       "Name": "Riot",
       "Steam": "76561199596136059",
-      "Score": 37,
-      "Time": "266:00"
+      "Score": 40,
+      "Time": "268:00"
     },
     {
       "Name": "gitan0",
       "Steam": "76561199616760684",
-      "Score": 0,
-      "Time": "04:03"
+      "Score": 2,
+      "Time": "06:03"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 78,
-      "Time": "22:18"
-    },
-    {
-      "Name": "BRIS",
-      "Steam": "76561198740274195",
-      "Score": 4,
-      "Time": "03:41"
+      "Score": 80,
+      "Time": "24:18"
     },
     {
       "Name": "oen",
       "Steam": "76561199807018871",
-      "Score": 19,
-      "Time": "15:16"
+      "Score": 30,
+      "Time": "17:16"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
@@ -40,14 +34,14 @@
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 53,
-      "Time": "387:21"
+      "Score": 55,
+      "Time": "389:21"
     },
     {
       "Name": "Merlinisdaddy",
       "Steam": "76561199888487981",
-      "Score": 4,
-      "Time": "190:04"
+      "Score": 6,
+      "Time": "192:05"
     },
     {
       "Name": "real nigga",
@@ -62,16 +56,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "Joey Bean",
-      "Steam": "76561198171076445",
-      "Score": 23,
-      "Time": "392:41"
-    },
-    {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 3,
-      "Time": "678:52"
+      "Score": 4,
+      "Time": "680:52"
     }
   ]
 }
