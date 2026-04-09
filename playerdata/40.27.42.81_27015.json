@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-09T20:37:52.4183471Z",
+  "Time": "2026-04-09T20:39:52.4160587Z",
   "Players": [
     {
       "Name": "christian cortez",
@@ -10,20 +10,26 @@
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 24,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 50,
+      "Score": 56,
       "Time": "??:??"
+    },
+    {
+      "Name": "first 0.1 milliseconds on enigma",
+      "Steam": "76561199050170734",
+      "Score": 4,
+      "Time": "02:12"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 89,
-      "Time": "56:25"
+      "Score": 97,
+      "Time": "58:25"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
@@ -34,14 +40,14 @@
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 0,
-      "Time": "162:32"
+      "Score": 9,
+      "Time": "164:32"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "218:01"
+      "Time": "220:01"
     }
   ]
 }
