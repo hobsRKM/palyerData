@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-09T11:59:52.4161796Z",
+  "Time": "2026-04-09T12:01:52.416719Z",
   "Players": [
     {
       "Name": "Aries",
       "Steam": "76561198725683998",
-      "Score": 24,
-      "Time": "42:19"
+      "Score": 28,
+      "Time": "44:19"
+    },
+    {
+      "Name": "Mosquitoe",
+      "Steam": "76561198834456840",
+      "Score": 0,
+      "Time": "00:12"
     },
     {
       "Name": "zsoladoo",
       "Steam": "76561199686908948",
-      "Score": 26,
+      "Score": 33,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 30,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "Michael Brian Vanbibber",
       "Steam": "76561198766212595",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
