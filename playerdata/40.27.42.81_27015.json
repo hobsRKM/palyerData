@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-09T22:09:52.4273909Z",
+  "Time": "2026-04-09T22:11:52.4267296Z",
   "Players": [
+    {
+      "Name": "Mosquitoe",
+      "Steam": "76561198834456840",
+      "Score": 0,
+      "Time": "150:32"
+    },
     {
       "Name": "aura maxing",
       "Steam": "76561199323838549",
-      "Score": 50,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "SypherXz",
       "Steam": "76561198724996032",
       "Score": 2,
-      "Time": "01:53"
+      "Time": "03:53"
     },
     {
       "Name": "christian cortez",
@@ -20,40 +26,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "DejaVu",
-      "Steam": "76561199680083874",
-      "Score": 30,
+      "Name": "tcvboq66",
+      "Steam": "76561199608086813",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "ziul",
-      "Steam": "76561199548174511",
-      "Score": 1,
-      "Time": "11:55"
-    },
-    {
-      "Name": "Robin",
-      "Steam": "76561199711558803",
-      "Score": 127,
+      "Name": "DejaVu",
+      "Steam": "76561199680083874",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "310:01"
-    },
-    {
-      "Name": "cats",
-      "Steam": "76561198741480204",
-      "Score": 113,
-      "Time": "215:44"
-    },
-    {
-      "Name": "cheezie",
-      "Steam": "76561198273566562",
-      "Score": 13,
-      "Time": "??:??"
+      "Time": "312:01"
     }
   ]
 }
