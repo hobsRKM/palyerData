@@ -1,22 +1,28 @@
 {
-  "Time": "2026-04-09T17:11:52.4283654Z",
+  "Time": "2026-04-09T17:13:52.4225595Z",
   "Players": [
+    {
+      "Name": "[Mon] entity",
+      "Steam": "76561198984848627",
+      "Score": 0,
+      "Time": "00:41"
+    },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 90,
-      "Time": "14:44"
+      "Score": 96,
+      "Time": "16:44"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 18,
-      "Time": "12:01"
+      "Score": 22,
+      "Time": "14:01"
     },
     {
       "Name": "Sir Tapsalot",
       "Steam": "76561199467013335",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
