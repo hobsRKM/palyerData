@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-09T19:45:52.4318007Z",
+  "Time": "2026-04-09T19:47:52.4316428Z",
   "Players": [
+    {
+      "Name": "lobotomist",
+      "Steam": "76561199523988715",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "christian cortez",
       "Steam": "76561198756303634",
@@ -10,19 +16,19 @@
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 31,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 59,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "jack",
       "Steam": "76561198175150485",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
@@ -34,32 +40,32 @@
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 48,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "canthinky",
       "Steam": "76561199825252984",
-      "Score": 98,
-      "Time": "36:00"
+      "Score": 110,
+      "Time": "38:00"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
       "Score": 0,
-      "Time": "110:32"
+      "Time": "112:32"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "166:01"
+      "Time": "168:01"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 9,
-      "Time": "03:12"
+      "Score": 19,
+      "Time": "05:12"
     }
   ]
 }
