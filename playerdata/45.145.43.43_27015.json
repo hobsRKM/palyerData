@@ -1,52 +1,64 @@
 {
-  "Time": "2026-04-09T19:54:27.6158702Z",
+  "Time": "2026-04-09T19:56:27.6129986Z",
   "Players": [
-    {
-      "Name": "48",
-      "Steam": "76561198742407377",
-      "Score": 141,
-      "Time": "??:??"
-    },
     {
       "Name": "antiCasper",
       "Steam": "76561198743223911",
+      "Score": 5,
+      "Time": "03:17"
+    },
+    {
+      "Name": "Unknown Player",
+      "Steam": "76561198781872423",
       "Score": 0,
-      "Time": "01:17"
+      "Time": "01:12"
     },
     {
       "Name": "Dajmix_x",
       "Steam": "76561199856152194",
-      "Score": 37,
-      "Time": "21:38"
+      "Score": 4,
+      "Time": "23:38"
     },
     {
       "Name": "rap_beeach",
       "Steam": "76561198743654838",
-      "Score": 7,
-      "Time": "01:40"
+      "Score": 2,
+      "Time": "03:40"
     },
     {
       "Name": "Legendary",
       "Steam": "76561198794411072",
-      "Score": 50,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "aim where?",
       "Steam": "76561199516412968",
-      "Score": 54,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Pixel",
       "Steam": "76561198735617734",
-      "Score": 29,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "chaixa",
       "Steam": "76561199470685171",
-      "Score": 7,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatality",
+      "Steam": "76561198718492484",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mr. Krabs.",
+      "Steam": "76561199885893585",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
