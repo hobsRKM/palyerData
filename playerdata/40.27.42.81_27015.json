@@ -1,83 +1,95 @@
 {
-  "Time": "2026-04-09T03:33:47.8358146Z",
+  "Time": "2026-04-09T03:39:48.4542278Z",
   "Players": [
+    {
+      "Name": "Riot",
+      "Steam": "76561199596136059",
+      "Score": 0,
+      "Time": "205:55"
+    },
     {
       "Name": "SypherXz",
       "Steam": "76561198724996032",
       "Score": 0,
-      "Time": "24:09"
+      "Time": "30:09"
     },
     {
       "Name": "woofwoofmeow123",
       "Steam": "76561198180065165",
-      "Score": 4,
-      "Time": "08:31"
+      "Score": 19,
+      "Time": "03:39"
     },
     {
       "Name": "PawSlut",
       "Steam": "76561198418529637",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "ihavesmollpp",
       "Steam": "76561199209588405",
-      "Score": 3,
-      "Time": "1097:14"
+      "Score": 19,
+      "Time": "1103:14"
     },
     {
       "Name": "Michael2",
       "Steam": "76561198721512222",
       "Score": 0,
-      "Time": "1623:53"
+      "Time": "1629:53"
     },
     {
       "Name": "first 0.1 milliseconds on enigma",
       "Steam": "76561199050170734",
-      "Score": 5,
-      "Time": "03:20"
+      "Score": 14,
+      "Time": "09:21"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 12,
+      "Score": 39,
       "Time": "??:??"
+    },
+    {
+      "Name": "comfortable",
+      "Steam": "76561199880717233",
+      "Score": 12,
+      "Time": "05:29"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 9,
-      "Time": "02:43"
+      "Score": 7,
+      "Time": "08:44"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
       "Score": 0,
-      "Time": "236:58"
+      "Time": "242:58"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "19:12"
+      "Time": "25:13"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 6,
-      "Time": "612:46"
+      "Score": 0,
+      "Time": "618:46"
     },
     {
       "Name": "Ciallo",
       "Steam": "76561199712427690",
-      "Score": 2,
-      "Time": "1234:25"
+      "Score": 28,
+      "Time": "1240:26"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 10,
-      "Time": "1247:00"
+      "Score": 24,
+      "Time": "1253:00"
     }
   ]
 }
