@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-09T20:01:52.428639Z",
+  "Time": "2026-04-09T20:03:52.4247542Z",
   "Players": [
     {
       "Name": "christian cortez",
@@ -10,20 +10,26 @@
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 22,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "jack",
       "Steam": "76561198175150485",
-      "Score": 31,
+      "Score": 39,
       "Time": "??:??"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 2,
+      "Time": "22:25"
     },
     {
       "Name": "xbox player",
@@ -38,28 +44,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "[Mon] entity",
+      "Name": "[Monolith] entity",
       "Steam": "76561198984848627",
-      "Score": 9,
-      "Time": "07:30"
+      "Score": 13,
+      "Time": "09:30"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 0,
-      "Time": "126:32"
+      "Score": 2,
+      "Time": "128:32"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "182:01"
+      "Time": "184:01"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 20,
-      "Time": "19:12"
+      "Score": 25,
+      "Time": "21:12"
     }
   ]
 }
