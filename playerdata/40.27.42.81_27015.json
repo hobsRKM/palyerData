@@ -1,23 +1,35 @@
 {
-  "Time": "2026-04-09T04:43:54.3121078Z",
+  "Time": "2026-04-09T04:45:54.5010209Z",
   "Players": [
+    {
+      "Name": "Riot",
+      "Steam": "76561199596136059",
+      "Score": 40,
+      "Time": "00:38"
+    },
+    {
+      "Name": "canthinky",
+      "Steam": "76561199825252984",
+      "Score": 0,
+      "Time": "160:02"
+    },
     {
       "Name": "gitan0",
       "Steam": "76561199616760684",
-      "Score": 2,
-      "Time": "08:03"
+      "Score": 4,
+      "Time": "10:03"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 78,
-      "Time": "01:33"
+      "Score": 87,
+      "Time": "03:33"
     },
     {
       "Name": "oen",
       "Steam": "76561199807018871",
-      "Score": 38,
-      "Time": "19:16"
+      "Score": 40,
+      "Time": "21:16"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
@@ -28,26 +40,26 @@
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 61,
-      "Time": "391:21"
+      "Score": 67,
+      "Time": "393:21"
     },
     {
       "Name": "Merlinisdaddy",
       "Steam": "76561199888487981",
       "Score": 4,
-      "Time": "00:41"
+      "Time": "02:41"
     },
     {
       "Name": "Pluto's Knot Home",
       "Steam": "76561198118346969",
-      "Score": 0,
-      "Time": "624:16"
+      "Score": 4,
+      "Time": "626:16"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 8,
-      "Time": "682:52"
+      "Score": 12,
+      "Time": "684:52"
     }
   ]
 }
