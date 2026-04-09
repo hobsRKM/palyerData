@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-09T23:57:52.4226902Z",
+  "Time": "2026-04-09T23:59:52.4312805Z",
   "Players": [
+    {
+      "Name": "Дед макар",
+      "Steam": "76561199686048592",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "christian cortez",
       "Steam": "76561198756303634",
@@ -10,62 +16,68 @@
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 75,
-      "Time": "42:31"
+      "Score": 77,
+      "Time": "44:31"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 0,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 63,
-      "Time": "07:35"
+      "Score": 67,
+      "Time": "09:35"
     },
     {
       "Name": "Drifter",
       "Steam": "76561199014365278",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     },
     {
-      "Name": "Spacestat PawSlut",
+      "Name": "Sp PawSlut",
       "Steam": "76561198418529637",
-      "Score": 34,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "dixie",
       "Steam": "76561199825252984",
-      "Score": 106,
-      "Time": "01:47"
+      "Score": 115,
+      "Time": "03:47"
     },
     {
       "Name": "woofwoofmeow123",
       "Steam": "76561198180065165",
-      "Score": 28,
-      "Time": "25:51"
+      "Score": 38,
+      "Time": "27:51"
     },
     {
       "Name": "Hades",
       "Steam": "76561199832908242",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "217",
       "Steam": "76561198320312396",
-      "Score": 31,
-      "Time": "29:58"
+      "Score": 43,
+      "Time": "31:58"
+    },
+    {
+      "Name": "crmpmegarp",
+      "Steam": "76561199854091947",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "418:01"
+      "Time": "420:01"
     }
   ]
 }
