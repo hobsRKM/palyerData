@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-09T23:13:52.4227719Z",
+  "Time": "2026-04-09T23:15:52.4186034Z",
   "Players": [
+    {
+      "Name": "SypherXz",
+      "Steam": "76561198724996032",
+      "Score": 2,
+      "Time": "01:44"
+    },
     {
       "Name": "christian cortez",
       "Steam": "76561198756303634",
@@ -10,38 +16,44 @@
     {
       "Name": "lately",
       "Steam": "76561198720684327",
-      "Score": 40,
+      "Score": 48,
       "Time": "??:??"
+    },
+    {
+      "Name": "BonQEQE",
+      "Steam": "76561198418443435",
+      "Score": 0,
+      "Time": "00:31"
     },
     {
       "Name": "Le0",
       "Steam": "76561198798740015",
       "Score": 4,
-      "Time": "306:08"
+      "Time": "308:08"
     },
     {
       "Name": "=lol",
       "Steam": "76561199792464561",
-      "Score": 14,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "tom3.0",
       "Steam": "76561198739261203",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "woofwoofmeow123",
       "Steam": "76561198180065165",
       "Score": 0,
-      "Time": "42:51"
+      "Time": "44:51"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "374:01"
+      "Time": "376:01"
     }
   ]
 }
