@@ -1,4 +1,41 @@
 {
-  "Time": "2026-04-10T20:27:19.3565238Z",
-  "Players": []
+  "Time": "2026-04-10T20:27:23.0466222Z",
+  "Players": [
+    {
+      "Name": "48",
+      "Steam": "76561198742407377",
+      "Score": 4,
+      "Time": "14:35"
+    },
+    {
+      "Name": "copper boss",
+      "Steam": "76561199889649626",
+      "Score": 0,
+      "Time": "96:36"
+    },
+    {
+      "Name": "mafix",
+      "Steam": "76561199171127041",
+      "Score": 2,
+      "Time": "03:01"
+    },
+    {
+      "Name": "mohses",
+      "Steam": "76561199342124324",
+      "Score": 0,
+      "Time": "45:31"
+    },
+    {
+      "Name": "[Monolith] emil_toge",
+      "Steam": "76561199482981745",
+      "Score": 0,
+      "Time": "20:41"
+    },
+    {
+      "Name": "hvh final bigos",
+      "Steam": "76561198724415201",
+      "Score": 0,
+      "Time": "04:06"
+    }
+  ]
 }
