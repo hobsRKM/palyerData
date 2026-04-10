@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-10T05:21:52.7647456Z",
+  "Time": "2026-04-10T05:23:52.7636977Z",
   "Players": [
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 24,
-      "Time": "455:39"
+      "Score": 30,
+      "Time": "457:39"
+    },
+    {
+      "Name": "Aries",
+      "Steam": "76561198725683998",
+      "Score": 0,
+      "Time": "582:39"
     },
     {
       "Name": "woofwoofmeow123",
       "Steam": "76561198180065165",
-      "Score": 0,
-      "Time": "99:16"
+      "Score": 1,
+      "Time": "101:16"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 21,
-      "Time": "07:24"
+      "Score": 2,
+      "Time": "09:24"
     },
     {
       "Name": "IntelBroker #lowcortisol",
       "Steam": "76561199050170734",
-      "Score": 37,
-      "Time": "67:42"
+      "Score": 39,
+      "Time": "69:42"
     },
     {
       "Name": "Bot Prance",
       "Steam": "76561198770610794",
-      "Score": 46,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 72,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 59,
-      "Time": "11:29"
+      "Score": 65,
+      "Time": "13:29"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "742:01"
+      "Time": "744:01"
     },
     {
       "Name": "ok",
@@ -58,7 +64,7 @@
     {
       "Name": "Ciallo",
       "Steam": "76561199712427690",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
