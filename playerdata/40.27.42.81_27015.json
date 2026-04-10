@@ -1,35 +1,35 @@
 {
-  "Time": "2026-04-10T02:57:52.4528093Z",
+  "Time": "2026-04-10T02:59:52.4431872Z",
   "Players": [
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 4,
-      "Time": "10:31"
+      "Score": 12,
+      "Time": "12:31"
     },
     {
-      "Name": "[Monolith] entity",
+      "Name": "[687] entity",
       "Steam": "76561198724567404",
-      "Score": 27,
-      "Time": "22:00"
+      "Score": 29,
+      "Time": "24:00"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 62,
-      "Time": "18:19"
+      "Score": 67,
+      "Time": "20:19"
     },
     {
       "Name": "blessed by jarvis",
       "Steam": "76561199847868570",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Sir Tapsalot",
       "Steam": "76561199467013335",
-      "Score": 17,
-      "Time": "317:00"
+      "Score": 25,
+      "Time": "319:00"
     },
     {
       "Name": "reality.",
@@ -38,16 +38,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "angel",
+      "Steam": "76561199798812373",
+      "Score": 0,
+      "Time": "01:33"
+    },
+    {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 36,
-      "Time": "138:18"
+      "Score": 46,
+      "Time": "140:18"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "598:01"
+      "Time": "600:01"
     }
   ]
 }
