@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-10T03:59:52.5375187Z",
+  "Time": "2026-04-10T04:01:52.5387196Z",
   "Players": [
+    {
+      "Name": "Palm Beach Pete",
+      "Steam": "76561199158419168",
+      "Score": 0,
+      "Time": "185:54"
+    },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 4,
-      "Time": "72:31"
+      "Score": 9,
+      "Time": "74:31"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 90,
-      "Time": "49:13"
+      "Score": 94,
+      "Time": "51:13"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 77,
-      "Time": "80:19"
+      "Score": 79,
+      "Time": "82:19"
     },
     {
       "Name": "Bot Prance",
       "Steam": "76561198770610794",
-      "Score": 68,
+      "Score": 74,
       "Time": "??:??"
     },
     {
       "Name": "\uD806\uDCF2",
       "Steam": "76561198418529637",
-      "Score": 7,
-      "Time": "55:26"
+      "Score": 9,
+      "Time": "57:26"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 25,
-      "Time": "200:18"
+      "Score": 28,
+      "Time": "202:18"
     },
     {
       "Name": "James",
@@ -46,20 +52,20 @@
     {
       "Name": "C@SS",
       "Steam": "76561198127862296",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 9,
-      "Time": "18:18"
+      "Score": 16,
+      "Time": "20:18"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "660:01"
+      "Time": "662:01"
     }
   ]
 }
