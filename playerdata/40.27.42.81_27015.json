@@ -1,53 +1,65 @@
 {
-  "Time": "2026-04-10T07:59:53.6200868Z",
+  "Time": "2026-04-10T08:01:53.6525447Z",
   "Players": [
     {
       "Name": "Kus Umak",
       "Steam": "76561199051457872",
-      "Score": 4,
-      "Time": "03:51"
+      "Score": 10,
+      "Time": "05:51"
+    },
+    {
+      "Name": "kaxyu",
+      "Steam": "76561198715897554",
+      "Score": 0,
+      "Time": "482:49"
+    },
+    {
+      "Name": "09258730r))",
+      "Steam": "76561198718420442",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 37,
-      "Time": "17:04"
+      "Score": 51,
+      "Time": "19:04"
+    },
+    {
+      "Name": "#NN",
+      "Steam": "76561198717007189",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "GEORGEDROIDFENTBOT#2",
       "Steam": "76561199773324796",
-      "Score": 11,
-      "Time": "45:04"
+      "Score": 15,
+      "Time": "47:04"
     },
     {
       "Name": "THE HAT",
       "Steam": "76561199041753106",
-      "Score": 5,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
       "Score": 0,
-      "Time": "77:33"
+      "Time": "79:33"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 31,
-      "Time": "42:33"
+      "Score": 44,
+      "Time": "44:33"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 26,
-      "Time": "900:02"
-    },
-    {
-      "Name": "<3",
-      "Steam": "76561198984848627",
-      "Score": 4,
-      "Time": "26:38"
+      "Score": 32,
+      "Time": "902:02"
     }
   ]
 }
