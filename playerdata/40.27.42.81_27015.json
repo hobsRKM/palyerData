@@ -1,41 +1,35 @@
 {
-  "Time": "2026-04-10T10:03:55.4060249Z",
+  "Time": "2026-04-10T10:05:55.4848595Z",
   "Players": [
     {
       "Name": "fatality.win PexyHVH",
       "Steam": "76561199409319826",
-      "Score": 14,
-      "Time": "822:05"
+      "Score": 4,
+      "Time": "824:06"
     },
     {
       "Name": "DINOSOWER2",
       "Steam": "76561199879371444",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199873394300",
+      "Score": 0,
+      "Time": "00:54"
     },
     {
       "Name": "Inu",
       "Steam": "76561198362314972",
-      "Score": 17,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "magehack",
-      "Steam": "76561198999235985",
-      "Score": 51,
-      "Time": "61:34"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "1024:04"
-    },
-    {
-      "Name": "s",
-      "Steam": "76561198735582746",
-      "Score": 82,
-      "Time": "19:44"
+      "Time": "1026:04"
     }
   ]
 }
