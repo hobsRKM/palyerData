@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-10T00:17:52.4310978Z",
+  "Time": "2026-04-10T00:19:52.4311261Z",
   "Players": [
+    {
+      "Name": "Aimware",
+      "Steam": "76561199799206024",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "christian cortez",
       "Steam": "76561198756303634",
@@ -10,44 +16,44 @@
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 39,
-      "Time": "62:31"
+      "Score": 45,
+      "Time": "64:31"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 83,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 59,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "максим дота2",
       "Steam": "76561198314057025",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "FAMILYHOOK ++",
       "Steam": "76561199837528306",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "afx",
       "Steam": "76561199558867500",
-      "Score": 47,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "woofwoofmeow123",
       "Steam": "76561198180065165",
-      "Score": 49,
-      "Time": "14:06"
+      "Score": 10,
+      "Time": "16:06"
     },
     {
       "Name": "Lawnmower Edits",
@@ -58,20 +64,26 @@
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 10,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "438:01"
+      "Time": "440:01"
+    },
+    {
+      "Name": "AdiosAmigo",
+      "Steam": "76561199882269371",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
