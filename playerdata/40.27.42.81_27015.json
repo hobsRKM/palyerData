@@ -1,29 +1,29 @@
 {
-  "Time": "2026-04-10T05:45:52.9503654Z",
+  "Time": "2026-04-10T05:47:52.9684947Z",
   "Players": [
+    {
+      "Name": "Palm Beach Pete",
+      "Steam": "76561199158419168",
+      "Score": 0,
+      "Time": "00:26"
+    },
     {
       "Name": "vape",
       "Steam": "76561199828812573",
-      "Score": 50,
-      "Time": "03:46"
+      "Score": 64,
+      "Time": "05:46"
     },
     {
       "Name": "Aries",
       "Steam": "76561198725683998",
-      "Score": 20,
-      "Time": "604:39"
+      "Score": 26,
+      "Time": "606:39"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 8,
-      "Time": "31:25"
-    },
-    {
-      "Name": "【Adam】",
-      "Steam": "76561198261709145",
-      "Score": 24,
-      "Time": "??:??"
+      "Score": 14,
+      "Time": "33:25"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
@@ -34,19 +34,19 @@
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 48,
-      "Time": "35:29"
+      "Score": 51,
+      "Time": "37:29"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "766:02"
+      "Time": "768:02"
     },
     {
-      "Name": "[fatality] Missed due to spread (hc 23%) Ciallo",
+      "Name": "1:47:50 Ciallo",
       "Steam": "76561199712427690",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
