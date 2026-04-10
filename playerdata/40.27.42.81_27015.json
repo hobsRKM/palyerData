@@ -1,47 +1,59 @@
 {
-  "Time": "2026-04-10T03:05:52.4509201Z",
+  "Time": "2026-04-10T03:07:52.4568366Z",
   "Players": [
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 19,
-      "Time": "18:31"
+      "Score": 25,
+      "Time": "20:31"
     },
     {
-      "Name": "[687] entity",
+      "Name": "Blake Johnson",
+      "Steam": "76561198776079815",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Mon] entity",
       "Steam": "76561198724567404",
-      "Score": 35,
-      "Time": "30:00"
+      "Score": 37,
+      "Time": "32:00"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 97,
-      "Time": "26:19"
+      "Score": 99,
+      "Time": "28:19"
     },
     {
       "Name": "blessed by jarvis",
       "Steam": "76561199847868570",
-      "Score": 3,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "\uD806\uDCF2",
       "Steam": "76561198418529637",
       "Score": 2,
-      "Time": "01:26"
+      "Time": "03:26"
     },
     {
       "Name": "Sir Tapsalot",
       "Steam": "76561199467013335",
-      "Score": 37,
-      "Time": "325:00"
+      "Score": 43,
+      "Time": "327:00"
     },
     {
       "Name": "digga",
       "Steam": "76561198743761579",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
+    },
+    {
+      "Name": "343141",
+      "Steam": "76561198719951084",
+      "Score": 0,
+      "Time": "00:47"
     },
     {
       "Name": "reality.",
@@ -52,20 +64,26 @@
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 32,
-      "Time": "07:33"
+      "Score": 40,
+      "Time": "09:33"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
+      "Score": 10,
+      "Time": "148:18"
+    },
+    {
+      "Name": "bats",
+      "Steam": "76561199140371015",
       "Score": 0,
-      "Time": "146:18"
+      "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "606:01"
+      "Time": "608:01"
     }
   ]
 }
