@@ -1,46 +1,58 @@
 {
-  "Time": "2026-04-10T20:44:24.9470048Z",
+  "Time": "2026-04-10T20:46:24.9586238Z",
   "Players": [
+    {
+      "Name": "Fake",
+      "Steam": "76561199729334552",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ka$h",
+      "Steam": "76561198769067462",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "домовенок вася",
       "Steam": "76561199854282860",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 40,
-      "Time": "41:12"
+      "Score": 42,
+      "Time": "43:12"
     },
     {
       "Name": "mohses",
       "Steam": "76561199342124324",
       "Score": 2,
-      "Time": "02:30"
+      "Time": "01:24"
     },
     {
       "Name": "hacker harvox",
       "Steam": "76561199136389558",
-      "Score": 80,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "first day on gamesense",
       "Steam": "76561197963183861",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "xyre",
       "Steam": "76561198761074058",
-      "Score": 17,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Claude",
       "Steam": "76561198726655992",
-      "Score": 58,
+      "Score": 62,
       "Time": "??:??"
     }
   ]
