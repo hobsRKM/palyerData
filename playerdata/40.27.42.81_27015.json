@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-10T07:55:53.5623422Z",
+  "Time": "2026-04-10T07:57:53.5984372Z",
   "Players": [
+    {
+      "Name": "Kus Umak",
+      "Steam": "76561199051457872",
+      "Score": 2,
+      "Time": "01:51"
+    },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 21,
-      "Time": "13:04"
+      "Score": 28,
+      "Time": "15:04"
     },
     {
       "Name": "GEORGEDROIDFENTBOT#2",
       "Steam": "76561199773324796",
-      "Score": 2,
-      "Time": "41:04"
+      "Score": 6,
+      "Time": "43:04"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
       "Score": 0,
-      "Time": "73:33"
+      "Time": "75:33"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 13,
-      "Time": "38:33"
+      "Score": 27,
+      "Time": "40:33"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 7,
-      "Time": "896:02"
+      "Score": 9,
+      "Time": "898:02"
     },
     {
-      "Name": "[Mon] entity",
+      "Name": "<3",
       "Steam": "76561198984848627",
       "Score": 0,
-      "Time": "22:38"
+      "Time": "24:38"
     }
   ]
 }
