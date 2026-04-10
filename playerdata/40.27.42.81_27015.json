@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-10T16:04:08.815824Z",
+  "Time": "2026-04-10T16:06:09.077702Z",
   "Players": [
     {
       "Name": "BoatCaptain31",
       "Steam": "76561199873517401",
-      "Score": 41,
-      "Time": "39:38"
+      "Score": 45,
+      "Time": "41:38"
     },
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 40,
-      "Time": "42:12"
+      "Score": 44,
+      "Time": "44:12"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 32,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bhop",
       "Steam": "76561198717031782",
       "Score": 2,
-      "Time": "08:00"
+      "Time": "10:00"
+    },
+    {
+      "Name": "rakushka",
+      "Steam": "76561198974621819",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 100,
-      "Time": "869:23"
+      "Score": 118,
+      "Time": "871:23"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "1384:17"
+      "Time": "1386:18"
     }
   ]
 }
