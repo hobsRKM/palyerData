@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-10T09:07:54.5435792Z",
+  "Time": "2026-04-10T09:09:54.5788166Z",
   "Players": [
+    {
+      "Name": ".Blossom",
+      "Steam": "76561199231268386",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Inu",
       "Steam": "76561198362314972",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "fukcatsieatthem",
       "Steam": "76561199837528306",
-      "Score": 89,
-      "Time": "316:12"
+      "Score": 93,
+      "Time": "318:12"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 8,
-      "Time": "05:33"
+      "Score": 15,
+      "Time": "07:33"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "968:03"
+      "Time": "970:03"
     },
     {
       "Name": "haroldgggg",
       "Steam": "76561198197403335",
-      "Score": 37,
-      "Time": "243:37"
+      "Score": 41,
+      "Time": "245:38"
     }
   ]
 }
