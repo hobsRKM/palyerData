@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-10T00:59:52.4288434Z",
+  "Time": "2026-04-10T01:01:52.4282078Z",
   "Players": [
+    {
+      "Name": "Aimware",
+      "Steam": "76561199799206024",
+      "Score": 4,
+      "Time": "01:03"
+    },
     {
       "Name": "christian cortez",
       "Steam": "76561198756303634",
@@ -10,32 +16,56 @@
     {
       "Name": "Bananchiki",
       "Steam": "76561199619301187",
-      "Score": 15,
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haroldgggg",
+      "Steam": "76561198197403335",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 32,
-      "Time": "18:02"
+      "Score": 40,
+      "Time": "20:02"
+    },
+    {
+      "Name": "IntelBroker #lowcortisol",
+      "Steam": "76561199050170734",
+      "Score": 0,
+      "Time": "01:10"
+    },
+    {
+      "Name": "343141",
+      "Steam": "76561198719951084",
+      "Score": 2,
+      "Time": "01:09"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 34,
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Eros",
+      "Steam": "76561198316126206",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 25,
-      "Time": "20:18"
+      "Score": 33,
+      "Time": "22:18"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "480:01"
+      "Time": "482:01"
     }
   ]
 }
