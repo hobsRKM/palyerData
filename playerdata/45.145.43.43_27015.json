@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-10T21:56:24.952061Z",
+  "Time": "2026-04-10T21:58:24.9500952Z",
   "Players": [
     {
       "Name": "Fake",
       "Steam": "76561199729334552",
-      "Score": 58,
+      "Score": 69,
       "Time": "??:??"
     },
     {
-      "Name": "TempleWare | Drippy",
+      "Name": "verbennt",
+      "Steam": "76561198747170688",
+      "Score": 26,
+      "Time": "01:14"
+    },
+    {
+      "Name": "$$$        | Drippy",
       "Steam": "76561199369453721",
-      "Score": 0,
-      "Time": "08:30"
+      "Score": 2,
+      "Time": "10:30"
     },
     {
       "Name": "Alter",
       "Steam": "76561199848001433",
-      "Score": 4,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Ari",
       "Steam": "76561199744981561",
-      "Score": 45,
-      "Time": "11:17"
+      "Score": 49,
+      "Time": "13:17"
     }
   ]
 }
