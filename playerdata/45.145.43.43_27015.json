@@ -1,23 +1,35 @@
 {
-  "Time": "2026-04-10T19:36:24.9429568Z",
+  "Time": "2026-04-10T19:38:24.9434184Z",
   "Players": [
+    {
+      "Name": "verbennt",
+      "Steam": "76561198747170688",
+      "Score": 0,
+      "Time": "00:20"
+    },
     {
       "Name": "deagle enjoyer",
       "Steam": "76561198717641093",
-      "Score": 26,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "240km/h peek D1eam",
       "Steam": "76561199859198880",
-      "Score": 34,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "jebactomaszagrabowskiego",
       "Steam": "76561198718474570",
-      "Score": 10,
-      "Time": "02:13"
+      "Score": 4,
+      "Time": "04:13"
+    },
+    {
+      "Name": "d14065123",
+      "Steam": "76561198717207463",
+      "Score": 4,
+      "Time": "??:??"
     }
   ]
 }
