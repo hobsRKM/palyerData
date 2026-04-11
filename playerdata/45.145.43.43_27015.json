@@ -1,22 +1,28 @@
 {
-  "Time": "2026-04-11T04:58:22.7219858Z",
+  "Time": "2026-04-11T05:00:22.7226062Z",
   "Players": [
     {
       "Name": "Srs #TragBile",
       "Steam": "76561199849203204",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
+    },
+    {
+      "Name": "Zeky",
+      "Steam": "76561199500358124",
+      "Score": 0,
+      "Time": "00:55"
     },
     {
       "Name": "std::liyunck",
       "Steam": "76561198739028725",
-      "Score": 30,
-      "Time": "14:04"
+      "Score": 32,
+      "Time": "16:04"
     },
     {
       "Name": "PopzU",
       "Steam": "76561198353817958",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
