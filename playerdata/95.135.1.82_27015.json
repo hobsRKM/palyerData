@@ -1,35 +1,35 @@
 {
-  "Time": "2026-04-11T19:06:44.7601921Z",
+  "Time": "2026-04-11T19:08:44.7713072Z",
   "Players": [
+    {
+      "Name": "vodka te mange",
+      "Steam": "76561198715113220",
+      "Score": 0,
+      "Time": "00:56"
+    },
     {
       "Name": "Rifk7Experience",
       "Steam": "76561199786071869",
       "Score": 24,
-      "Time": "11:00"
+      "Time": "13:00"
     },
     {
       "Name": "SEp",
       "Steam": "76561197987352636",
       "Score": 61,
-      "Time": "36:41"
+      "Time": "38:41"
     },
     {
       "Name": "l0ld",
       "Steam": "76561199104286406",
-      "Score": 2,
-      "Time": "11:47"
-    },
-    {
-      "Name": "m0i",
-      "Steam": "76561198758778362",
-      "Score": 35,
-      "Time": "56:24"
+      "Score": 12,
+      "Time": "13:47"
     },
     {
       "Name": "clover",
       "Steam": "76561199846430401",
       "Score": 47,
-      "Time": "15:40"
+      "Time": "17:40"
     },
     {
       "Name": "MIKEEEEEEE",
@@ -40,13 +40,13 @@
     {
       "Name": "SquidDiddy",
       "Steam": "76561199148003997",
-      "Score": 55,
-      "Time": "333:49"
+      "Score": 57,
+      "Time": "335:49"
     },
     {
       "Name": "shane47",
       "Steam": "76561199699181728",
-      "Score": 80,
+      "Score": 87,
       "Time": "??:??"
     },
     {
@@ -58,7 +58,7 @@
     {
       "Name": "gaminggenius2012",
       "Steam": "76561198170202181",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
@@ -71,7 +71,7 @@
       "Name": "murda",
       "Steam": "76561198769894510",
       "Score": 27,
-      "Time": "61:59"
+      "Time": "63:59"
     }
   ]
 }
