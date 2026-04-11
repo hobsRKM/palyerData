@@ -1,47 +1,53 @@
 {
-  "Time": "2026-04-11T17:34:22.7171811Z",
+  "Time": "2026-04-11T17:36:22.7246911Z",
   "Players": [
+    {
+      "Name": "Gavno",
+      "Steam": "76561198765995175",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Irony Manic",
       "Steam": "76561199690909304",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "cipis",
       "Steam": "76561198885992318",
-      "Score": 11,
-      "Time": "10:01"
+      "Score": 16,
+      "Time": "12:01"
     },
     {
       "Name": "neverlose.cc",
       "Steam": "76561198717851975",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "asshvhplayer - ezfrags",
-      "Steam": "76561199342124324",
-      "Score": 3,
-      "Time": "23:29"
-    },
-    {
-      "Name": "gamesense     bcba06887",
+      "Name": "game bcba06887",
       "Steam": "76561198733009103",
-      "Score": 4,
-      "Time": "15:23"
+      "Score": 9,
+      "Time": "17:23"
     },
     {
-      "Name": "Temple | Гипер мега лох",
+      "Name": "Templ | Гипер мега лох",
       "Steam": "76561198315401281",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "saa773649",
       "Steam": "76561198729644979",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "Teek",
+      "Steam": "76561199856455111",
+      "Score": 1,
+      "Time": "01:36"
     }
   ]
 }
