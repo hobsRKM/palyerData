@@ -1,4 +1,17 @@
 {
-  "Time": "2026-04-11T23:05:10.7880368Z",
-  "Players": []
+  "Time": "2026-04-11T23:07:10.7952148Z",
+  "Players": [
+    {
+      "Name": "bad player",
+      "Steam": "76561198728274003",
+      "Score": 4,
+      "Time": "01:05"
+    },
+    {
+      "Name": "totally not velocity beta",
+      "Steam": "76561199864270521",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
