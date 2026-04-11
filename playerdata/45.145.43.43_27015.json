@@ -1,22 +1,28 @@
 {
-  "Time": "2026-04-11T16:42:22.7249573Z",
+  "Time": "2026-04-11T16:44:22.7295486Z",
   "Players": [
+    {
+      "Name": "gay_mer",
+      "Steam": "76561198739028725",
+      "Score": 6,
+      "Time": "01:59"
+    },
     {
       "Name": "kingartisek1",
       "Steam": "76561198794785966",
-      "Score": 70,
+      "Score": 76,
       "Time": "??:??"
     },
     {
-      "Name": "f_ cipis",
+      "Name": "fatali_ cipis",
       "Steam": "76561198885992318",
-      "Score": 46,
-      "Time": "41:38"
+      "Score": 56,
+      "Time": "43:38"
     },
     {
       "Name": "neverlose.cc",
       "Steam": "76561198717851975",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     },
     {
@@ -24,12 +30,6 @@
       "Steam": "76561199376119646",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "aim where?",
-      "Steam": "76561199516412968",
-      "Score": 0,
-      "Time": "59:04"
     }
   ]
 }
