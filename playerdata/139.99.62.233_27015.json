@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-11T16:10:45.4270004Z",
+  "Time": "2026-04-11T16:12:45.4603619Z",
   "Players": [
     {
       "Name": "Arterra",
@@ -10,17 +10,11 @@
     {
       "Name": "Flick",
       "Steam": "76561198337957336",
-      "Score": 6,
-      "Time": "678:37"
+      "Score": 14,
+      "Time": "680:37"
     },
     {
-      "Name": "Faggo",
-      "Steam": "76561199258355344",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": ".lua           Kluvas",
+      "Name": "y.lua           Kluvas",
       "Steam": "76561199601390500",
       "Score": 30,
       "Time": "??:??"
@@ -28,8 +22,8 @@
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 67,
-      "Time": "62:44"
+      "Score": 75,
+      "Time": "64:44"
     }
   ]
 }
