@@ -1,65 +1,59 @@
 {
-  "Time": "2026-04-11T17:34:44.7638159Z",
+  "Time": "2026-04-11T17:36:44.7658278Z",
   "Players": [
+    {
+      "Name": "vodka te mange",
+      "Steam": "76561198715113220",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Bwah",
       "Steam": "76561199381909573",
-      "Score": 60,
-      "Time": "245:23"
+      "Score": 66,
+      "Time": "247:23"
     },
     {
       "Name": "KKKasti",
       "Steam": "76561199833286399",
-      "Score": 41,
-      "Time": "11:51"
+      "Score": 51,
+      "Time": "13:51"
     },
     {
       "Name": "SEp",
       "Steam": "76561197987352636",
-      "Score": 56,
+      "Score": 59,
       "Time": "??:??"
-    },
-    {
-      "Name": "you live a boring life btw",
-      "Steam": "76561198988545670",
-      "Score": 26,
-      "Time": "63:58"
     },
     {
       "Name": "slisko",
       "Steam": "76561198745723178",
-      "Score": 16,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "maunonsipuli",
       "Steam": "76561198715035973",
       "Score": 26,
-      "Time": "328:34"
+      "Time": "330:34"
     },
     {
       "Name": "bew2",
       "Steam": "76561199013021367",
-      "Score": 64,
-      "Time": "211:59"
+      "Score": 70,
+      "Time": "213:59"
     },
     {
       "Name": "washed",
       "Steam": "76561197973590320",
-      "Score": 3,
-      "Time": "76:00"
+      "Score": 5,
+      "Time": "78:00"
     },
     {
       "Name": "ANNA SNIPER",
       "Steam": "76561199750692141",
-      "Score": 110,
+      "Score": 120,
       "Time": "??:??"
-    },
-    {
-      "Name": "iluvmilkyray",
-      "Steam": "76561198747170688",
-      "Score": 1,
-      "Time": "01:30"
     }
   ]
 }
