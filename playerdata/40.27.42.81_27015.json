@@ -1,11 +1,17 @@
 {
-  "Time": "2026-04-11T19:59:10.7965127Z",
+  "Time": "2026-04-11T20:01:10.7917058Z",
   "Players": [
     {
       "Name": "bad player",
       "Steam": "76561198728274003",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "LUCKY v5 DEV BUILD USER",
+      "Steam": "76561198783283963",
+      "Score": 0,
+      "Time": "01:39"
     }
   ]
 }
