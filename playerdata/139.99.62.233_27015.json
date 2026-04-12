@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-12T08:20:32.1299991Z",
+  "Time": "2026-04-12T08:22:32.1393631Z",
   "Players": [
+    {
+      "Name": "quavie",
+      "Steam": "76561199391832430",
+      "Score": 2,
+      "Time": "00:56"
+    },
     {
       "Name": "Kacchi Khabi?",
       "Steam": "76561198830473946",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "malowan hunter",
       "Steam": "76561198719514735",
-      "Score": 50,
+      "Score": 52,
       "Time": "??:??"
     }
   ]
