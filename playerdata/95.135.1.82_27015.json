@@ -1,64 +1,70 @@
 {
-  "Time": "2026-04-12T14:27:15.5242987Z",
+  "Time": "2026-04-12T14:28:24.280363Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Felix",
+      "Steam": "76561198193603937",
+      "Score": 93,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\"'",
+      "Steam": "76561199028888055",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "777 Ighty80.",
-      "Steam": "76561199803191679",
-      "Score": 14,
+      "Name": "Patrick",
+      "Steam": "76561199206658984",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "copper boss",
-      "Steam": "76561199889649626",
-      "Score": 25,
+      "Name": "Pixel",
+      "Steam": "76561198735617734",
+      "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "donk666",
-      "Steam": "76561198720071182",
+      "Name": "KKKasti",
+      "Steam": "76561199833286399",
+      "Score": 12,
+      "Time": "90:19"
+    },
+    {
+      "Name": "Blob",
+      "Steam": "76561199107544425",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aim where?",
+      "Steam": "76561199516412968",
       "Score": 4,
+      "Time": "20:58"
+    },
+    {
+      "Name": "bew2",
+      "Steam": "76561199013021367",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "Cakevs",
-      "Steam": "76561199532005793",
-      "Score": 0,
+      "Name": "tymo",
+      "Steam": "76561199425592793",
+      "Score": 37,
       "Time": "??:??"
     },
     {
-      "Name": "Frida",
-      "Steam": "76561198835773656",
-      "Score": 14,
+      "Name": "ANALI NL l EGO",
+      "Steam": "76561199692222758",
+      "Score": 63,
       "Time": "??:??"
     },
     {
-      "Name": "SEp",
-      "Steam": "76561197987352636",
-      "Score": 18,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Maslanka",
-      "Steam": "76561199866941128",
-      "Score": 0,
-      "Time": "69:52"
-    },
-    {
-      "Name": "#sweepfamily electro-lois (◣_",
-      "Steam": "76561198720135006",
+      "Name": "Zoli",
+      "Steam": "76561198733842354",
       "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Miku-Lover",
-      "Steam": "76561199820396045",
-      "Score": 33,
       "Time": "??:??"
     }
   ]
