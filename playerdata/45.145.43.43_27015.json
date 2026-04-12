@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-12T16:42:23.0317175Z",
+  "Time": "2026-04-12T16:44:23.0321252Z",
   "Players": [
     {
-      "Name": "JESUS IS std::liyunck",
+      "Name": "Rxcoil15",
+      "Steam": "76561199311106586",
+      "Score": 4,
+      "Time": "01:11"
+    },
+    {
+      "Name": "JESUS  std::liyunck",
       "Steam": "76561198739028725",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "T2X2",
       "Steam": "76561199856141517",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -18,6 +24,12 @@
       "Steam": "76561199853360339",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "[715] Srut",
+      "Steam": "76561199148319120",
+      "Score": 0,
+      "Time": "00:07"
     }
   ]
 }
