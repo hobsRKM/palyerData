@@ -1,29 +1,29 @@
 {
-  "Time": "2026-04-12T00:42:44.7710703Z",
+  "Time": "2026-04-12T00:43:34.8138083Z",
   "Players": [
     {
-      "Name": "Twinqp",
-      "Steam": "76561198721349342",
+      "Name": "Cyka",
+      "Steam": "76561198765995175",
+      "Score": 6,
+      "Time": "96:10"
+    },
+    {
+      "Name": "Ducky <3",
+      "Steam": "76561199512232777",
+      "Score": 88,
+      "Time": "463:53"
+    },
+    {
+      "Name": "ICHHASSEMEINEMATES",
+      "Steam": "76561199217723771",
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Normal Epstein",
+      "Steam": "76561198732208295",
       "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "SuperDoG (SAVE) v2.555",
-      "Steam": "76561198780246863",
-      "Score": 11,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Robert Grisch Aschberg",
-      "Steam": "76561199819522522",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "93:29"
     }
   ]
 }
