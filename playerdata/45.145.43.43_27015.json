@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-12T20:16:23.029534Z",
+  "Time": "2026-04-12T20:18:23.0360915Z",
   "Players": [
     {
       "Name": "Funny Epstein",
       "Steam": "76561198765995175",
-      "Score": 24,
-      "Time": "07:27"
+      "Score": 26,
+      "Time": "09:27"
     },
     {
       "Name": "Jeffrey Epstein",
       "Steam": "76561198732208295",
-      "Score": 14,
-      "Time": "07:09"
+      "Score": 20,
+      "Time": "09:09"
+    },
+    {
+      "Name": "Fake",
+      "Steam": "76561199729334552",
+      "Score": 1,
+      "Time": "01:13"
     }
   ]
 }
