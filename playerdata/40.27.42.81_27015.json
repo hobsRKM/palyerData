@@ -1,17 +1,29 @@
 {
-  "Time": "2026-04-12T21:04:37.643866Z",
+  "Time": "2026-04-12T21:06:37.6582968Z",
   "Players": [
+    {
+      "Name": "devon bostick",
+      "Steam": "76561198914233824",
+      "Score": 6,
+      "Time": "01:58"
+    },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 37,
-      "Time": "14:34"
+      "Score": 47,
+      "Time": "16:34"
     },
     {
       "Name": "Blackberry2.0",
       "Steam": "76561198776113379",
       "Score": 2,
-      "Time": "73:16"
+      "Time": "75:16"
+    },
+    {
+      "Name": "6",
+      "Steam": "76561198750080629",
+      "Score": 0,
+      "Time": "01:38"
     },
     {
       "Name": "static",
@@ -28,31 +40,31 @@
     {
       "Name": "Agent 47",
       "Steam": "76561198843785514",
-      "Score": 40,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 150,
-      "Time": "38:10"
+      "Score": 158,
+      "Time": "40:10"
     },
     {
       "Name": "josh",
       "Steam": "76561198717759615",
-      "Score": 36,
-      "Time": "39:15"
+      "Score": 38,
+      "Time": "41:15"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 26,
-      "Time": "04:44"
+      "Score": 30,
+      "Time": "06:44"
     },
     {
       "Name": "pie!",
       "Steam": "76561198797054330",
-      "Score": 56,
+      "Score": 65,
       "Time": "??:??"
     }
   ]
