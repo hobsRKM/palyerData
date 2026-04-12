@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-12T00:54:22.7213818Z",
+  "Time": "2026-04-12T00:56:22.7286777Z",
   "Players": [
     {
       "Name": "The bomb carrier",
       "Steam": "76561199221319861",
       "Score": 9,
-      "Time": "113:48"
+      "Time": "115:48"
     },
     {
       "Name": "Avast4r \uD83E\uDDCA",
       "Steam": "76561199376242490",
-      "Score": 35,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "[UK-CS] ☆Proko☆",
       "Steam": "76561199176389543",
-      "Score": 98,
+      "Score": 115,
       "Time": "??:??"
     },
     {
-      "Name": "JESU std::liyunck",
+      "Name": "JE std::liyunck",
       "Steam": "76561198739028725",
-      "Score": 38,
-      "Time": "87:35"
+      "Score": 40,
+      "Time": "89:35"
     },
     {
       "Name": "SilentZ",
       "Steam": "76561199239827101",
-      "Score": 33,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "Fake",
       "Steam": "76561199729334552",
-      "Score": 4,
-      "Time": "478:09"
+      "Score": 8,
+      "Time": "480:09"
+    },
+    {
+      "Name": "w1nky",
+      "Steam": "76561198728284576",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
