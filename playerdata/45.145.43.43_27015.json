@@ -1,34 +1,40 @@
 {
-  "Time": "2026-04-12T13:36:23.0381507Z",
+  "Time": "2026-04-12T13:38:23.0343941Z",
   "Players": [
+    {
+      "Name": "\uD835\uDE2C\uD835\uDE22\uD835\uDE2C\uD835\uDE2A",
+      "Steam": "76561198738136565",
+      "Score": 4,
+      "Time": "01:30"
+    },
     {
       "Name": "Enokz",
       "Steam": "76561199180038097",
-      "Score": 49,
-      "Time": "16:19"
+      "Score": 53,
+      "Time": "18:19"
     },
     {
-      "Name": "m namespace Autowall",
+      "Name": "Elysium namespace Autowall",
       "Steam": "76561198726977481",
-      "Score": 69,
-      "Time": "10:20"
+      "Score": 70,
+      "Time": "12:20"
     },
     {
-      "Name": "bot [OG]UWUCAT",
+      "Name": "fel [OG]UWUCAT",
       "Steam": "76561199855449365",
-      "Score": 50,
-      "Time": "57:59"
+      "Score": 53,
+      "Time": "59:59"
     },
     {
       "Name": "[OG]Teek",
       "Steam": "76561199856455111",
       "Score": 9,
-      "Time": "00:34"
+      "Time": "02:34"
     },
     {
       "Name": "?okt",
       "Steam": "76561199837364437",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
