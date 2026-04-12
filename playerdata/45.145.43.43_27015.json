@@ -1,58 +1,64 @@
 {
-  "Time": "2026-04-12T16:54:23.0371661Z",
+  "Time": "2026-04-12T16:56:23.0412264Z",
   "Players": [
+    {
+      "Name": "\uD835\uDE2C\uD835\uDE22\uD835\uDE2C\uD835\uDE2A *",
+      "Steam": "76561198738136565",
+      "Score": 0,
+      "Time": "00:31"
+    },
     {
       "Name": "ᴢᴇɴsɪᴇʀᴛ",
       "Steam": "76561199079000505",
-      "Score": 8,
-      "Time": "04:35"
+      "Score": 3,
+      "Time": "06:35"
     },
     {
       "Name": "Enokz",
       "Steam": "76561199180038097",
-      "Score": 45,
-      "Time": "09:32"
+      "Score": 65,
+      "Time": "11:32"
     },
     {
       "Name": "[OG]UWUCAT",
       "Steam": "76561199855449365",
-      "Score": 14,
-      "Time": "09:16"
+      "Score": 20,
+      "Time": "11:16"
     },
     {
       "Name": "1234",
       "Steam": "76561198743223911",
-      "Score": 2,
-      "Time": "01:00"
+      "Score": 5,
+      "Time": "03:00"
     },
     {
       "Name": "[OG]Teek",
       "Steam": "76561199856455111",
-      "Score": 14,
-      "Time": "04:45"
+      "Score": 21,
+      "Time": "06:45"
     },
     {
       "Name": "Rxcoil15",
       "Steam": "76561199311106586",
       "Score": 0,
-      "Time": "11:11"
+      "Time": "13:11"
     },
     {
-      "Name": "JESUS IS KING std::liyunck",
+      "Name": "JESUS IS KIN std::liyunck",
       "Steam": "76561198739028725",
-      "Score": 16,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "d1ngle",
       "Steam": "76561199853360339",
-      "Score": 30,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Apolexik",
       "Steam": "76561199654381196",
-      "Score": 25,
+      "Score": 27,
       "Time": "??:??"
     }
   ]
