@@ -1,59 +1,59 @@
 {
-  "Time": "2026-04-12T04:17:10.7990347Z",
+  "Time": "2026-04-12T04:19:10.8003263Z",
   "Players": [
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 0,
+      "Time": "00:14"
+    },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 41,
-      "Time": "43:34"
+      "Time": "45:34"
     },
     {
       "Name": "⁹ᵖᵉⁿᶦˢᵉˢ henny",
       "Steam": "76561198725920441",
-      "Score": 12,
-      "Time": "06:37"
+      "Score": 14,
+      "Time": "08:37"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 67,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 70,
-      "Time": "23:22"
-    },
-    {
-      "Name": "FATALITY",
-      "Steam": "76561198725187560",
-      "Score": 24,
-      "Time": "42:49"
+      "Score": 76,
+      "Time": "25:22"
     },
     {
       "Name": "comedyfaceit_evil bear",
       "Steam": "76561198784985901",
       "Score": 23,
-      "Time": "35:02"
+      "Time": "37:02"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 27,
-      "Time": "01:45"
+      "Score": 37,
+      "Time": "03:45"
     },
     {
       "Name": "No Thoughts",
       "Steam": "76561198752949729",
-      "Score": 46,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 2,
-      "Time": "02:48"
+      "Score": 7,
+      "Time": "04:48"
     },
     {
       "Name": "spleen!",
@@ -64,13 +64,13 @@
     {
       "Name": "envy",
       "Steam": "76561199378110522",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
