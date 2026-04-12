@@ -1,46 +1,58 @@
 {
-  "Time": "2026-04-12T16:48:23.028127Z",
+  "Time": "2026-04-12T16:50:23.0409291Z",
   "Players": [
+    {
+      "Name": "ᴢᴇɴsɪᴇʀᴛ",
+      "Steam": "76561199079000505",
+      "Score": 0,
+      "Time": "00:35"
+    },
     {
       "Name": "Enokz",
       "Steam": "76561199180038097",
-      "Score": 10,
-      "Time": "03:32"
+      "Score": 26,
+      "Time": "05:32"
     },
     {
       "Name": "[OG]UWUCAT",
       "Steam": "76561199855449365",
-      "Score": 4,
-      "Time": "03:16"
+      "Score": 6,
+      "Time": "05:16"
+    },
+    {
+      "Name": "[OG]Teek",
+      "Steam": "76561199856455111",
+      "Score": 0,
+      "Time": "00:45"
     },
     {
       "Name": "Rxcoil15",
       "Steam": "76561199311106586",
       "Score": 0,
-      "Time": "05:11"
+      "Time": "07:11"
     },
     {
-      "Name": "JESU std::liyunck",
+      "Name": "JES std::liyunck",
       "Steam": "76561198739028725",
-      "Score": 1,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "d1ngle",
       "Steam": "76561199853360339",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "serzy_mecanic6",
       "Steam": "76561198733198194",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Apolexik",
       "Steam": "76561199654381196",
-      "Score": 6,
+      "Score": 15,
       "Time": "??:??"
     }
   ]
