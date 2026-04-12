@@ -1,35 +1,35 @@
 {
-  "Time": "2026-04-12T16:44:23.0321252Z",
+  "Time": "2026-04-12T16:46:23.0366453Z",
   "Players": [
+    {
+      "Name": "Enokz",
+      "Steam": "76561199180038097",
+      "Score": 5,
+      "Time": "01:32"
+    },
+    {
+      "Name": "[OG]UWUCAT",
+      "Steam": "76561199855449365",
+      "Score": 24,
+      "Time": "01:16"
+    },
     {
       "Name": "Rxcoil15",
       "Steam": "76561199311106586",
-      "Score": 4,
-      "Time": "01:11"
+      "Score": 12,
+      "Time": "03:11"
     },
     {
-      "Name": "JESUS  std::liyunck",
+      "Name": "JESUS std::liyunck",
       "Steam": "76561198739028725",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "T2X2",
-      "Steam": "76561199856141517",
       "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "d1ngle",
       "Steam": "76561199853360339",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "[715] Srut",
-      "Steam": "76561199148319120",
-      "Score": 0,
-      "Time": "00:07"
     }
   ]
 }
