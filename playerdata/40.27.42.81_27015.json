@@ -1,59 +1,71 @@
 {
-  "Time": "2026-04-12T17:14:37.6612954Z",
+  "Time": "2026-04-12T17:16:37.6482395Z",
   "Players": [
+    {
+      "Name": "cheezie",
+      "Steam": "76561198273566562",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Murloch",
+      "Steam": "76561197973248453",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "freeze",
       "Steam": "76561198717014719",
-      "Score": 27,
-      "Time": "57:32"
+      "Score": 30,
+      "Time": "59:32"
+    },
+    {
+      "Name": "K",
+      "Steam": "76561198787397270",
+      "Score": 2,
+      "Time": "00:47"
     },
     {
       "Name": "ration",
       "Steam": "76561198770772802",
-      "Score": 19,
-      "Time": "09:38"
+      "Score": 25,
+      "Time": "11:38"
     },
     {
       "Name": "crode",
       "Steam": "76561199800900212",
-      "Score": 29,
-      "Time": "52:17"
+      "Score": 32,
+      "Time": "54:17"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 26,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "⌨",
       "Steam": "76561199031753721",
-      "Score": 8,
-      "Time": "02:15"
+      "Score": 28,
+      "Time": "04:15"
     },
     {
       "Name": "munchbot12",
       "Steam": "76561199670383729",
-      "Score": 4,
-      "Time": "111:05"
+      "Score": 6,
+      "Time": "113:05"
     },
     {
       "Name": "jeffrey epstein",
       "Steam": "76561198722472725",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "☮",
       "Steam": "76561199830118913",
       "Score": 35,
-      "Time": "30:21"
-    },
-    {
-      "Name": "meow",
-      "Steam": "76561199725459485",
-      "Score": 78,
-      "Time": "??:??"
+      "Time": "32:21"
     },
     {
       "Name": "rain",
@@ -62,10 +74,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "Riot",
-      "Steam": "76561199596136059",
-      "Score": 70,
-      "Time": "??:??"
+      "Name": "214eqwdscx",
+      "Steam": "76561198718420442",
+      "Score": 14,
+      "Time": "01:51"
     }
   ]
 }
