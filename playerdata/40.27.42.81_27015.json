@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-12T17:04:37.646055Z",
+  "Time": "2026-04-12T17:06:37.6433057Z",
   "Players": [
     {
       "Name": "freeze",
       "Steam": "76561198717014719",
       "Score": 20,
-      "Time": "47:32"
+      "Time": "49:32"
+    },
+    {
+      "Name": "ration",
+      "Steam": "76561198770772802",
+      "Score": 6,
+      "Time": "01:38"
     },
     {
       "Name": "crode",
       "Steam": "76561199800900212",
-      "Score": 11,
-      "Time": "42:17"
+      "Score": 15,
+      "Time": "44:17"
     },
     {
       "Name": "josh",
       "Steam": "76561198717759615",
-      "Score": 39,
-      "Time": "26:51"
+      "Score": 41,
+      "Time": "28:51"
     },
     {
       "Name": "munchbot12",
       "Steam": "76561199670383729",
       "Score": 0,
-      "Time": "101:05"
+      "Time": "103:05"
     },
     {
       "Name": "jeffrey epstein",
@@ -34,25 +40,25 @@
     {
       "Name": "☮",
       "Steam": "76561199830118913",
-      "Score": 19,
-      "Time": "20:21"
+      "Score": 21,
+      "Time": "22:21"
     },
     {
       "Name": "meow",
       "Steam": "76561199725459485",
-      "Score": 56,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 75,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "Riot",
       "Steam": "76561199596136059",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
