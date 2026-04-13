@@ -1,4 +1,23 @@
 {
-  "Time": "2026-04-13T19:51:09.7842064Z",
-  "Players": []
+  "Time": "2026-04-13T19:51:44.9462967Z",
+  "Players": [
+    {
+      "Name": "Claude",
+      "Steam": "76561198726655992",
+      "Score": 12,
+      "Time": "01:38"
+    },
+    {
+      "Name": "MIMI JR | discord.gg/hvhgod",
+      "Steam": "76561199614147554",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Twinqp",
+      "Steam": "76561198721349342",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
