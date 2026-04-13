@@ -1,22 +1,28 @@
 {
-  "Time": "2026-04-13T16:28:24.2547556Z",
+  "Time": "2026-04-13T16:30:24.2646357Z",
   "Players": [
+    {
+      "Name": "zwierzu",
+      "Steam": "76561199046971154",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Microsoft Edge",
       "Steam": "76561199182164561",
-      "Score": 106,
-      "Time": "137:46"
+      "Score": 112,
+      "Time": "139:46"
     },
     {
       "Name": "Tofuu",
       "Steam": "76561199094388949",
-      "Score": 17,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "bassline house mix",
       "Steam": "76561199571154189",
-      "Score": 181,
+      "Score": 192,
       "Time": "??:??"
     },
     {
@@ -32,27 +38,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "Bwah",
-      "Steam": "76561199381909573",
-      "Score": 8,
-      "Time": "14:14"
-    },
-    {
-      "Name": "$$$$$$$$$  | Apolexik",
+      "Name": "$$$$$$$$$$ | Apolexik",
       "Steam": "76561199654381196",
-      "Score": 51,
-      "Time": "??:??"
-    },
-    {
-      "Name": "The best to ever do it",
-      "Steam": "76561197964253121",
-      "Score": 40,
-      "Time": "??:??"
-    },
-    {
-      "Name": "D0rge",
-      "Steam": "76561197988715741",
-      "Score": 18,
+      "Score": 53,
       "Time": "??:??"
     }
   ]
