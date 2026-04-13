@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-13T17:44:40.9671639Z",
+  "Time": "2026-04-13T17:46:40.9801643Z",
   "Players": [
+    {
+      "Name": "false!",
+      "Steam": "76561198788276194",
+      "Score": 0,
+      "Time": "03:00"
+    },
     {
       "Name": "pets owner",
       "Steam": "76561198716076659",
-      "Score": 27,
-      "Time": "20:24"
+      "Score": 29,
+      "Time": "22:24"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 12,
-      "Time": "05:15"
+      "Score": 20,
+      "Time": "07:15"
     },
     {
       "Name": "eternity.lua  Peak",
       "Steam": "76561199565061722",
-      "Score": 15,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "owners pet",
       "Steam": "76561198716234660",
-      "Score": 45,
-      "Time": "125:44"
+      "Score": 47,
+      "Time": "127:44"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "390:05"
+      "Time": "392:05"
     },
     {
       "Name": "lolzzzzzzzzzzzzzz",
@@ -38,10 +44,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "Lizardhvh",
+      "Steam": "76561198171076445",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cheezie",
+      "Steam": "76561198273566562",
+      "Score": 0,
+      "Time": "00:13"
+    },
+    {
       "Name": "ravira",
       "Steam": "76561199104237724",
-      "Score": 10,
-      "Time": "78:17"
+      "Score": 11,
+      "Time": "80:17"
     }
   ]
 }
