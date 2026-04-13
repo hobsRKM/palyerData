@@ -1,9 +1,15 @@
 {
-  "Time": "2026-04-13T19:32:40.9692942Z",
+  "Time": "2026-04-13T19:34:40.9739841Z",
   "Players": [
     {
       "Name": "☹",
       "Steam": "76561199869220199",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "i need astral",
+      "Steam": "76561199015940939",
       "Score": 0,
       "Time": "??:??"
     },
@@ -11,12 +17,12 @@
       "Name": "rain",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "498:05"
+      "Time": "500:05"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -28,19 +34,19 @@
     {
       "Name": "want no $kinny bitchez",
       "Steam": "76561199202457922",
-      "Score": 22,
-      "Time": "17:05"
+      "Score": 30,
+      "Time": "19:05"
     },
     {
       "Name": "Codaxy",
       "Steam": "76561198144469869",
-      "Score": 30,
-      "Time": "08:42"
+      "Score": 40,
+      "Time": "10:42"
     },
     {
       "Name": "remedy",
       "Steam": "76561199479457727",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     }
   ]
