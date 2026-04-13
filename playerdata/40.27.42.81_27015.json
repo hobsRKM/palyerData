@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-13T16:30:40.9725393Z",
+  "Time": "2026-04-13T16:32:40.9667498Z",
   "Players": [
+    {
+      "Name": "pluto",
+      "Steam": "76561198745857219",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "dont even joke lad",
       "Steam": "76561198715889167",
-      "Score": 30,
-      "Time": "57:08"
+      "Score": 36,
+      "Time": "59:08"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "316:05"
+      "Time": "318:05"
     },
     {
       "Name": "ravira",
       "Steam": "76561199104237724",
-      "Score": 0,
-      "Time": "04:17"
+      "Score": 2,
+      "Time": "06:17"
     },
     {
       "Name": "DejaVu",
