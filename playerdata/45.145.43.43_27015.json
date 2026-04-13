@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-13T21:02:24.2572754Z",
+  "Time": "2026-04-13T21:04:24.2604598Z",
   "Players": [
     {
-      "Name": "omgnl",
-      "Steam": "76561199559606681",
-      "Score": 16,
+      "Name": "Bashmak",
+      "Steam": "76561198717546746",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "fatality.win m0i",
+      "Name": "omgnl",
+      "Steam": "76561199559606681",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 12,
-      "Time": "24:29"
+      "Score": 16,
+      "Time": "26:29"
     },
     {
       "Name": "Wedrant",
       "Steam": "76561198716166554",
-      "Score": 38,
-      "Time": "00:56"
+      "Score": 39,
+      "Time": "02:56"
     },
     {
       "Name": "Minekampf Player",
       "Steam": "76561197989289111",
-      "Score": 0,
-      "Time": "00:19"
+      "Score": 6,
+      "Time": "02:19"
     }
   ]
 }
