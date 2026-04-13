@@ -1,9 +1,15 @@
 {
-  "Time": "2026-04-13T21:14:24.2558026Z",
+  "Time": "2026-04-13T21:16:24.2580307Z",
   "Players": [
     {
       "Name": "lilT",
       "Steam": "76561198713745685",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "curs3d",
+      "Steam": "76561199606287710",
       "Score": 0,
       "Time": "??:??"
     },
@@ -16,32 +22,26 @@
     {
       "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 0,
-      "Time": "36:29"
+      "Score": 5,
+      "Time": "38:29"
     },
     {
       "Name": "Wedrant",
       "Steam": "76561198716166554",
       "Score": 0,
-      "Time": "12:56"
+      "Time": "14:56"
     },
     {
       "Name": "Minekampf Player",
       "Steam": "76561197989289111",
-      "Score": 0,
-      "Time": "12:19"
+      "Score": 7,
+      "Time": "14:19"
     },
     {
-      "Name": "| owners pet",
+      "Name": "T | owners pet",
       "Steam": "76561198716234660",
-      "Score": 0,
-      "Time": "02:30"
-    },
-    {
-      "Name": "\uD835\uDE2C\uD835\uDE22\uD835\uDE2C\uD835\uDE2A",
-      "Steam": "76561198738136565",
-      "Score": 0,
-      "Time": "00:46"
+      "Score": 6,
+      "Time": "04:30"
     }
   ]
 }
