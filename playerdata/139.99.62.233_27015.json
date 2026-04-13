@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-13T13:02:34.6079267Z",
+  "Time": "2026-04-13T13:04:34.5974762Z",
   "Players": [
+    {
+      "Name": "\uD835\uDC06\uD835\uDC2B\uD835\uDC22\uD835\uDC26",
+      "Steam": "76561199806910486",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
       "Score": 57,
-      "Time": "11:30"
+      "Time": "13:30"
     },
     {
       "Name": "Fatality | Frosty",
       "Steam": "76561198720661837",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
