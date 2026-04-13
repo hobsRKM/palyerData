@@ -1,34 +1,40 @@
 {
-  "Time": "2026-04-13T16:32:40.9667498Z",
+  "Time": "2026-04-13T16:34:40.9803942Z",
   "Players": [
     {
       "Name": "pluto",
       "Steam": "76561198745857219",
+      "Score": 2,
+      "Time": "02:29"
+    },
+    {
+      "Name": "NEYMAR 2011",
+      "Steam": "76561198717389430",
       "Score": 0,
-      "Time": "00:29"
+      "Time": "??:??"
     },
     {
       "Name": "dont even joke lad",
       "Steam": "76561198715889167",
-      "Score": 36,
-      "Time": "59:08"
+      "Score": 40,
+      "Time": "61:08"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "318:05"
+      "Time": "320:05"
     },
     {
       "Name": "ravira",
       "Steam": "76561199104237724",
-      "Score": 2,
-      "Time": "06:17"
+      "Score": 6,
+      "Time": "08:17"
     },
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 22,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
