@@ -1,40 +1,46 @@
 {
-  "Time": "2026-04-13T15:28:24.2506919Z",
+  "Time": "2026-04-13T15:30:24.25199Z",
   "Players": [
+    {
+      "Name": "fatality.win m0i",
+      "Steam": "76561198758778362",
+      "Score": 4,
+      "Time": "01:45"
+    },
     {
       "Name": "Microsoft Edge",
       "Steam": "76561199182164561",
-      "Score": 17,
-      "Time": "77:46"
+      "Score": 18,
+      "Time": "79:46"
     },
     {
       "Name": "Kszyrztof",
       "Steam": "76561198721488084",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "LyGaming",
       "Steam": "76561198966468055",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
-      "Name": "[Mon] Dezqex",
+      "Name": "[Monolith] Dezqex",
       "Steam": "76561199617269887",
-      "Score": 32,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "Tofuu",
       "Steam": "76561199094388949",
-      "Score": 2,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "bassline house mix",
       "Steam": "76561199571154189",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
