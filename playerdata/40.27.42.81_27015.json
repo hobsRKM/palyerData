@@ -1,35 +1,47 @@
 {
-  "Time": "2026-04-13T03:42:38.7994822Z",
+  "Time": "2026-04-13T03:44:38.8178739Z",
   "Players": [
     {
       "Name": "Nike",
       "Steam": "76561199712427690",
-      "Score": 71,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "fish",
       "Steam": "76561199853989090",
-      "Score": 18,
-      "Time": "173:53"
+      "Score": 20,
+      "Time": "175:53"
     },
     {
       "Name": "laundered.cash #LAUNDERTILDEATH",
       "Steam": "76561199757543292",
       "Score": 6,
-      "Time": "11:29"
+      "Time": "13:29"
+    },
+    {
+      "Name": "[687] entity",
+      "Steam": "76561198984848627",
+      "Score": 3,
+      "Time": "00:58"
+    },
+    {
+      "Name": "</3",
+      "Steam": "76561198914233824",
+      "Score": 2,
+      "Time": "01:12"
     },
     {
       "Name": "mage",
       "Steam": "76561199725459485",
-      "Score": 17,
-      "Time": "343:27"
+      "Score": 27,
+      "Time": "345:27"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 10,
-      "Time": "05:53"
+      "Score": 12,
+      "Time": "07:53"
     }
   ]
 }
