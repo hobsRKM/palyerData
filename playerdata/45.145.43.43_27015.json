@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-13T20:34:24.2534434Z",
+  "Time": "2026-04-13T20:36:24.2604225Z",
   "Players": [
     {
       "Name": "goaim beta user",
       "Steam": "76561198788475992",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "fatal",
       "Steam": "76561198744537455",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "エクスシアク",
       "Steam": "76561199848112864",
-      "Score": 20,
+      "Score": 29,
       "Time": "??:??"
     },
     {
-      "Name": "[Mon] nya",
+      "Name": "[Monolith] nya",
       "Steam": "76561198785976863",
-      "Score": 16,
+      "Score": 27,
       "Time": "??:??"
+    },
+    {
+      "Name": "Wedrant",
+      "Steam": "76561198716166554",
+      "Score": 1,
+      "Time": "71:49"
     }
   ]
 }
