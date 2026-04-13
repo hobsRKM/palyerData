@@ -1,47 +1,53 @@
 {
-  "Time": "2026-04-13T03:46:38.8313448Z",
+  "Time": "2026-04-13T03:48:38.835175Z",
   "Players": [
     {
       "Name": "Nike",
       "Steam": "76561199712427690",
-      "Score": 86,
+      "Score": 93,
       "Time": "??:??"
     },
     {
       "Name": "fish",
       "Steam": "76561199853989090",
-      "Score": 22,
-      "Time": "177:53"
+      "Score": 26,
+      "Time": "179:53"
     },
     {
       "Name": "2rich2famous",
       "Steam": "76561199831224681",
-      "Score": 4,
-      "Time": "01:27"
+      "Score": 16,
+      "Time": "03:27"
     },
     {
-      "Name": "laundered.cash #LAUNDERTILDEATH",
-      "Steam": "76561199757543292",
+      "Name": "[Monolith] entity",
+      "Steam": "76561198984848627",
       "Score": 0,
-      "Time": "15:29"
+      "Time": "01:56"
     },
     {
       "Name": "</3",
       "Steam": "76561198914233824",
-      "Score": 2,
-      "Time": "03:12"
+      "Score": 8,
+      "Time": "05:12"
     },
     {
       "Name": "mage",
       "Steam": "76561199725459485",
-      "Score": 37,
-      "Time": "347:27"
+      "Score": 41,
+      "Time": "349:27"
     },
     {
       "Name": "chimby the engineer",
       "Steam": "76561198725920441",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
+    },
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 10,
+      "Time": "00:17"
     }
   ]
 }
