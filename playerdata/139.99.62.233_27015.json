@@ -1,23 +1,35 @@
 {
-  "Time": "2026-04-13T10:16:34.6068317Z",
+  "Time": "2026-04-13T10:18:34.5983329Z",
   "Players": [
     {
-      "Name": "[Mon] yen",
+      "Name": "[Monolith] yen",
       "Steam": "76561199693252775",
       "Score": 14,
-      "Time": "44:53"
+      "Time": "46:53"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 76,
-      "Time": "51:18"
+      "Score": 86,
+      "Time": "53:18"
+    },
+    {
+      "Name": "namo",
+      "Steam": "76561199499946700",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 64,
-      "Time": "22:34"
+      "Score": 68,
+      "Time": "24:34"
+    },
+    {
+      "Name": "hope",
+      "Steam": "76561198136044738",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
