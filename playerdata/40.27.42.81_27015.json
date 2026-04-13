@@ -1,77 +1,83 @@
 {
-  "Time": "2026-04-13T04:20:39.1686941Z",
+  "Time": "2026-04-13T04:22:39.2309845Z",
   "Players": [
+    {
+      "Name": "vzzi",
+      "Steam": "76561199690720045",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dont even joke lad",
+      "Steam": "76561198715889167",
+      "Score": 0,
+      "Time": "00:33"
+    },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 0,
-      "Time": "00:18"
+      "Score": 8,
+      "Time": "02:18"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
       "Score": 22,
-      "Time": "26:28"
+      "Time": "28:28"
     },
     {
       "Name": "godcomplex",
       "Steam": "76561199036333155",
-      "Score": 12,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "2rich2famous",
       "Steam": "76561199831224681",
-      "Score": 6,
-      "Time": "35:27"
+      "Score": 4,
+      "Time": "37:27"
     },
     {
       "Name": "</3",
       "Steam": "76561198914233824",
-      "Score": 12,
-      "Time": "07:21"
+      "Score": 20,
+      "Time": "09:21"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 30,
-      "Time": "22:03"
+      "Score": 35,
+      "Time": "24:04"
     },
     {
       "Name": "timothy shalloway",
       "Steam": "76561199015940939",
-      "Score": 41,
-      "Time": "18:34"
+      "Score": 47,
+      "Time": "20:34"
     },
     {
       "Name": "froggiefrog",
       "Steam": "76561198775058329",
-      "Score": 46,
-      "Time": "10:37"
+      "Score": 47,
+      "Time": "12:38"
     },
     {
       "Name": "mars",
       "Steam": "76561199834815558",
-      "Score": 8,
-      "Time": "10:03"
+      "Score": 13,
+      "Time": "12:03"
     },
     {
       "Name": "IntelBroker #lowcortisol",
       "Steam": "76561199050170734",
-      "Score": 12,
-      "Time": "16:53"
-    },
-    {
-      "Name": "chimby the engineer",
-      "Steam": "76561198725920441",
-      "Score": 23,
-      "Time": "??:??"
+      "Score": 22,
+      "Time": "18:53"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 34,
-      "Time": "19:28"
+      "Score": 40,
+      "Time": "00:57"
     }
   ]
 }
