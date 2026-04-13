@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-13T15:38:40.9778388Z",
+  "Time": "2026-04-13T15:40:40.9758061Z",
   "Players": [
+    {
+      "Name": "Way 2 Sexy",
+      "Steam": "76561199156395215",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Chivalry2975",
       "Steam": "76561198720760630",
-      "Score": 35,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "dont even joke lad",
       "Steam": "76561198715889167",
-      "Score": 7,
-      "Time": "05:08"
+      "Score": 9,
+      "Time": "07:08"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "264:05"
+      "Time": "266:05"
     },
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 22,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 71,
-      "Time": "18:22"
+      "Score": 73,
+      "Time": "20:22"
     }
   ]
 }
