@@ -1,65 +1,77 @@
 {
-  "Time": "2026-04-13T04:42:39.4913088Z",
+  "Time": "2026-04-13T04:44:39.5192406Z",
   "Players": [
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 5,
-      "Time": "22:18"
+      "Score": 12,
+      "Time": "24:18"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 4,
-      "Time": "115:41"
+      "Score": 13,
+      "Time": "117:41"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 17,
-      "Time": "07:48"
+      "Score": 24,
+      "Time": "09:48"
+    },
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 4,
+      "Time": "282:40"
     },
     {
       "Name": "Alexander Thickpockets 420",
       "Steam": "76561199700514112",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "[Monolith] promethyzx",
+      "Name": "[173] promethyzx",
       "Steam": "76561199308591917",
-      "Score": 18,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Lizardhvh",
+      "Steam": "76561198171076445",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 2,
-      "Time": "266:36"
+      "Score": 8,
+      "Time": "268:36"
     },
     {
       "Name": "remedy",
       "Steam": "76561199479457727",
-      "Score": 2,
-      "Time": "19:26"
+      "Score": 6,
+      "Time": "21:26"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 8,
-      "Time": "44:04"
+      "Score": 0,
+      "Time": "46:04"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "20:58"
+      "Time": "22:58"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 12,
-      "Time": "170:01"
+      "Score": 23,
+      "Time": "172:01"
     }
   ]
 }
