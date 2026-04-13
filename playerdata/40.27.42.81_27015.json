@@ -1,59 +1,71 @@
 {
-  "Time": "2026-04-13T01:44:38.269885Z",
+  "Time": "2026-04-13T01:46:38.2704282Z",
   "Players": [
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
       "Score": 0,
-      "Time": "294:34"
+      "Time": "296:34"
+    },
+    {
+      "Name": "Nike",
+      "Steam": "76561199712427690",
+      "Score": 2,
+      "Time": "143:18"
     },
     {
       "Name": "PexyHVH",
       "Steam": "76561199409319826",
-      "Score": 0,
-      "Time": "05:01"
+      "Score": 1,
+      "Time": "07:01"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 45,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Agent 47",
       "Steam": "76561198843785514",
-      "Score": 57,
-      "Time": "94:44"
+      "Score": 67,
+      "Time": "96:44"
     },
     {
       "Name": "pie!",
       "Steam": "76561198797054330",
-      "Score": 3,
-      "Time": "47:51"
+      "Score": 9,
+      "Time": "49:51"
     },
     {
       "Name": "remedy",
       "Steam": "76561199479457727",
-      "Score": 7,
-      "Time": "04:02"
+      "Score": 11,
+      "Time": "06:02"
     },
     {
       "Name": "timothy shalloway",
       "Steam": "76561199015940939",
-      "Score": 5,
-      "Time": "07:42"
+      "Score": 9,
+      "Time": "09:42"
     },
     {
       "Name": "lately",
       "Steam": "76561198720684327",
-      "Score": 2,
-      "Time": "191:06"
+      "Score": 6,
+      "Time": "193:06"
     },
     {
       "Name": "jaydens puppy <3",
       "Steam": "76561198780475574",
-      "Score": 10,
-      "Time": "03:22"
+      "Score": 2,
+      "Time": "05:22"
+    },
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "122:31"
     }
   ]
 }
