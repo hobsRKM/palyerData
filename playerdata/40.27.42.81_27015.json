@@ -1,17 +1,29 @@
 {
-  "Time": "2026-04-13T03:36:38.7901899Z",
+  "Time": "2026-04-13T03:38:38.807036Z",
   "Players": [
     {
       "Name": "Nike",
       "Steam": "76561199712427690",
-      "Score": 25,
+      "Score": 35,
       "Time": "??:??"
+    },
+    {
+      "Name": "fish",
+      "Steam": "76561199853989090",
+      "Score": 2,
+      "Time": "169:53"
     },
     {
       "Name": "ratrace90210",
       "Steam": "76561199825252984",
-      "Score": 27,
-      "Time": "181:32"
+      "Score": 37,
+      "Time": "183:32"
+    },
+    {
+      "Name": "disco",
+      "Steam": "76561198716614646",
+      "Score": 0,
+      "Time": "01:11"
     },
     {
       "Name": "2rich2famous",
@@ -22,8 +34,8 @@
     {
       "Name": "laundered.cash #LAUNDERTILDEATH",
       "Steam": "76561199757543292",
-      "Score": 4,
-      "Time": "05:29"
+      "Score": 3,
+      "Time": "07:29"
     },
     {
       "Name": "niggaservices",
@@ -32,10 +44,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "</3",
-      "Steam": "76561198914233824",
+      "Name": "mars",
+      "Steam": "76561199834815558",
       "Score": 0,
-      "Time": "00:30"
+      "Time": "??:??"
+    },
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 8,
+      "Time": "01:53"
     }
   ]
 }
