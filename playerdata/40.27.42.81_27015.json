@@ -1,28 +1,40 @@
 {
-  "Time": "2026-04-14T00:00:41.0634196Z",
+  "Time": "2026-04-14T00:02:41.0797117Z",
   "Players": [
+    {
+      "Name": "....",
+      "Steam": "76561198724567404",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fish",
+      "Steam": "76561199853989090",
+      "Score": 0,
+      "Time": "01:38"
+    },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 41,
-      "Time": "06:01"
+      "Score": 49,
+      "Time": "08:01"
     },
     {
       "Name": "fever",
       "Steam": "76561199151819038",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "MostLegitCs2Player",
       "Steam": "76561198770672174",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Tox1c",
       "Steam": "76561199842537568",
-      "Score": 7,
+      "Score": 19,
       "Time": "??:??"
     }
   ]
