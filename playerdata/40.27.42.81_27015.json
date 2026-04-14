@@ -1,29 +1,29 @@
 {
-  "Time": "2026-04-14T00:32:41.0831313Z",
+  "Time": "2026-04-14T00:34:41.0847327Z",
   "Players": [
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 21,
+      "Score": 29,
       "Time": "??:??"
+    },
+    {
+      "Name": "jaeychino",
+      "Steam": "76561198722865548",
+      "Score": 4,
+      "Time": "02:07"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 75,
-      "Time": "38:01"
+      "Score": 78,
+      "Time": "40:01"
     },
     {
-      "Name": "Junior .",
+      "Name": "Fata Junior .",
       "Steam": "76561199836886163",
-      "Score": 33,
-      "Time": "435:17"
-    },
-    {
-      "Name": "pluto",
-      "Steam": "76561198745857219",
-      "Score": 27,
-      "Time": "348:32"
+      "Score": 43,
+      "Time": "437:17"
     }
   ]
 }
