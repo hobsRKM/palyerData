@@ -1,34 +1,34 @@
 {
-  "Time": "2026-04-14T13:14:58.9281928Z",
+  "Time": "2026-04-14T13:16:58.923634Z",
   "Players": [
+    {
+      "Name": "Tony Stark",
+      "Steam": "76561198719588896",
+      "Score": 0,
+      "Time": "01:10"
+    },
     {
       "Name": "[velokitty] pets owner",
       "Steam": "76561198716076659",
-      "Score": 16,
-      "Time": "05:44"
-    },
-    {
-      "Name": "GL",
-      "Steam": "76561199513402341",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 24,
+      "Time": "07:44"
     },
     {
       "Name": "ravira",
       "Steam": "76561199104237724",
-      "Score": 43,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Alexander Thickpockets 420",
       "Steam": "76561199700514112",
-      "Score": 79,
+      "Score": 83,
       "Time": "??:??"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     }
   ]
