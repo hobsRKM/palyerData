@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-14T20:58:58.9241544Z",
+  "Time": "2026-04-14T21:00:58.9349617Z",
   "Players": [
+    {
+      "Name": "pokefizz",
+      "Steam": "76561198083541105",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
@@ -16,25 +22,25 @@
     {
       "Name": "emu",
       "Steam": "76561198147102077",
-      "Score": 20,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "sus",
       "Steam": "76561199823179512",
-      "Score": 10,
-      "Time": "01:57"
+      "Score": 12,
+      "Time": "03:57"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 51,
-      "Time": "12:26"
+      "Score": 58,
+      "Time": "14:26"
     },
     {
       "Name": "Zzzzzzzzzz",
       "Steam": "76561199133959827",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
@@ -46,19 +52,19 @@
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 10,
-      "Time": "05:31"
+      "Score": 12,
+      "Time": "07:31"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 70,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "ddR",
       "Steam": "76561199530521634",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
