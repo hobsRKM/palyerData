@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-14T01:30:41.1060602Z",
+  "Time": "2026-04-14T01:32:41.0980165Z",
   "Players": [
     {
-      "Name": "[velokitt] true!",
+      "Name": "[v] true!",
       "Steam": "76561198728274003",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "STP->RDP STP",
       "Steam": "76561199861606784",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "phillip",
+      "Steam": "76561198726719444",
+      "Score": 4,
+      "Time": "01:16"
     }
   ]
 }
