@@ -1,40 +1,40 @@
 {
-  "Time": "2026-04-14T15:04:22.8768525Z",
+  "Time": "2026-04-14T15:06:22.8666122Z",
   "Players": [
+    {
+      "Name": "Melina",
+      "Steam": "76561199830168647",
+      "Score": 2,
+      "Time": "00:29"
+    },
     {
       "Name": "gjidgd",
       "Steam": "76561198730101311",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "413",
-      "Steam": "76561199131900979",
-      "Score": 10,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "IHateAll.-",
       "Steam": "76561199813231700",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Pelmo",
       "Steam": "76561198740100166",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "aim where?",
       "Steam": "76561199516412968",
-      "Score": 14,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Veila",
       "Steam": "76561198733969810",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
