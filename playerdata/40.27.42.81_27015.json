@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-14T04:08:42.524373Z",
+  "Time": "2026-04-14T04:10:42.5433248Z",
   "Players": [
+    {
+      "Name": "froggiefrog",
+      "Steam": "76561198775058329",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 1,
-      "Time": "125:43"
+      "Score": 3,
+      "Time": "127:43"
     },
     {
       "Name": "xX_KillerMaster420_Xx",
       "Steam": "76561198715473260",
-      "Score": 4,
-      "Time": "373:29"
+      "Score": 6,
+      "Time": "375:29"
     },
     {
       "Name": "ravira",
       "Steam": "76561199104237724",
       "Score": 4,
-      "Time": "133:45"
+      "Time": "135:45"
     },
     {
       "Name": "pickle",
@@ -28,44 +34,44 @@
     {
       "Name": "dont even joke lad",
       "Steam": "76561198715889167",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "シγλыδнμςьツ",
       "Steam": "76561199097378743",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "i need astral / gs",
       "Steam": "76561199015940939",
       "Score": 0,
-      "Time": "135:26"
+      "Time": "137:26"
     },
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 2,
-      "Time": "04:58"
+      "Score": 3,
+      "Time": "06:58"
     },
     {
       "Name": "whats there to stress",
       "Steam": "76561198740102165",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Cat",
       "Steam": "76561199570022284",
-      "Score": 6,
-      "Time": "10:21"
+      "Score": 0,
+      "Time": "12:21"
     },
     {
       "Name": "ʚɞ | ven",
       "Steam": "76561198041862999",
       "Score": 6,
-      "Time": "139:26"
+      "Time": "141:26"
     },
     {
       "Name": "magehack",
@@ -76,32 +82,38 @@
     {
       "Name": "zsoladoo",
       "Steam": "76561199686908948",
-      "Score": 2,
-      "Time": "10:31"
+      "Score": 8,
+      "Time": "12:31"
+    },
+    {
+      "Name": "[Meth] Capta.IN ♥",
+      "Steam": "76561199064559025",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "disco",
       "Steam": "76561198716614646",
       "Score": 1,
-      "Time": "22:58"
+      "Time": "24:58"
     },
     {
       "Name": "Jade",
       "Steam": "76561198758633863",
       "Score": 0,
-      "Time": "399:54"
+      "Time": "401:54"
     },
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
-      "Score": 10,
-      "Time": "12:18"
+      "Score": 14,
+      "Time": "14:18"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 10,
-      "Time": "56:04"
+      "Score": 18,
+      "Time": "58:04"
     }
   ]
 }
