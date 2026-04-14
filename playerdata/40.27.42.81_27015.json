@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-14T04:02:42.4671045Z",
+  "Time": "2026-04-14T04:04:42.4797008Z",
   "Players": [
+    {
+      "Name": "silk",
+      "Steam": "76561198734736041",
+      "Score": 0,
+      "Time": "121:43"
+    },
     {
       "Name": "xX_KillerMaster420_Xx",
       "Steam": "76561198715473260",
-      "Score": 62,
-      "Time": "367:29"
+      "Score": 72,
+      "Time": "369:29"
     },
     {
       "Name": "ravira",
       "Steam": "76561199104237724",
       "Score": 8,
-      "Time": "127:45"
+      "Time": "129:45"
     },
     {
       "Name": "pickle",
@@ -22,80 +28,74 @@
     {
       "Name": "dont even joke lad",
       "Steam": "76561198715889167",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "シγλыδнμςьツ",
       "Steam": "76561199097378743",
-      "Score": 64,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "i need astral / gs",
       "Steam": "76561199015940939",
       "Score": 33,
-      "Time": "129:26"
+      "Time": "131:26"
     },
     {
       "Name": "whats there to stress",
       "Steam": "76561198740102165",
-      "Score": 115,
+      "Score": 127,
       "Time": "??:??"
     },
     {
       "Name": "Cat",
       "Steam": "76561199570022284",
-      "Score": 0,
-      "Time": "04:21"
+      "Score": 9,
+      "Time": "06:21"
     },
     {
       "Name": "ʚɞ | ven",
       "Steam": "76561198041862999",
-      "Score": 31,
-      "Time": "133:25"
+      "Score": 41,
+      "Time": "135:25"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 79,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "zsoladoo",
       "Steam": "76561199686908948",
-      "Score": 25,
-      "Time": "04:31"
+      "Score": 35,
+      "Time": "06:31"
     },
     {
       "Name": "disco",
       "Steam": "76561198716614646",
       "Score": 7,
-      "Time": "16:58"
-    },
-    {
-      "Name": "Buns",
-      "Steam": "76561198069351150",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "18:58"
     },
     {
       "Name": "Jade",
       "Steam": "76561198758633863",
-      "Score": 50,
-      "Time": "393:54"
+      "Score": 52,
+      "Time": "395:54"
     },
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
-      "Score": 2,
-      "Time": "06:18"
+      "Score": 5,
+      "Time": "08:18"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 58,
-      "Time": "50:04"
+      "Score": 60,
+      "Time": "52:04"
     }
   ]
 }
