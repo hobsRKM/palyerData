@@ -1,34 +1,40 @@
 {
-  "Time": "2026-04-15T18:21:12.5992466Z",
+  "Time": "2026-04-15T18:23:12.6039762Z",
   "Players": [
+    {
+      "Name": "face it level 10",
+      "Steam": "76561198786524522",
+      "Score": 0,
+      "Time": "01:12"
+    },
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 36,
-      "Time": "36:30"
+      "Score": 42,
+      "Time": "38:30"
     },
     {
       "Name": "disco",
       "Steam": "76561198716614646",
-      "Score": 29,
-      "Time": "27:52"
+      "Score": 33,
+      "Time": "29:52"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 55,
-      "Time": "22:45"
+      "Score": 67,
+      "Time": "24:45"
     },
     {
       "Name": "ieathumans",
       "Steam": "76561198716643462",
-      "Score": 19,
-      "Time": "09:14"
+      "Score": 25,
+      "Time": "11:14"
     },
     {
       "Name": "skro",
       "Steam": "76561199229491501",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     }
   ]
