@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-15T01:08:59.0776475Z",
+  "Time": "2026-04-15T01:10:59.0863366Z",
   "Players": [
+    {
+      "Name": "dineesha",
+      "Steam": "76561199072674466",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "comedyTheOutlaw",
       "Steam": "76561199781994785",
@@ -10,56 +16,38 @@
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 22,
-      "Time": "71:59"
+      "Score": 29,
+      "Time": "73:59"
     },
     {
       "Name": "emir34611",
       "Steam": "76561198357328054",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "cheezie",
-      "Steam": "76561198273566562",
-      "Score": 23,
-      "Time": "09:12"
-    },
-    {
-      "Name": "human seed",
-      "Steam": "76561199768964598",
-      "Score": 0,
-      "Time": "00:30"
-    },
-    {
-      "Name": "Fatality.win  Junior .",
+      "Name": "Fatality.win Junior .",
       "Steam": "76561199836886163",
-      "Score": 15,
-      "Time": "08:41"
+      "Score": 21,
+      "Time": "10:41"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 10,
-      "Time": "08:45"
+      "Score": 14,
+      "Time": "10:45"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
-    },
-    {
-      "Name": "Murder Your Memory",
-      "Steam": "76561199050170734",
-      "Score": 12,
-      "Time": "10:05"
     },
     {
       "Name": "i need astral / gs",
       "Steam": "76561199015940939",
       "Score": 0,
-      "Time": "55:42"
+      "Time": "57:42"
     }
   ]
 }
