@@ -1,52 +1,58 @@
 {
-  "Time": "2026-04-15T15:07:12.5977416Z",
+  "Time": "2026-04-15T15:09:12.5953072Z",
   "Players": [
+    {
+      "Name": "[vel] g(l)ock",
+      "Steam": "76561199097243449",
+      "Score": 2,
+      "Time": "00:55"
+    },
+    {
+      "Name": "comfortable",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "00:31"
+    },
     {
       "Name": "rain | W <3",
       "Steam": "76561199847868570",
-      "Score": 57,
-      "Time": "86:17"
+      "Score": 61,
+      "Time": "88:17"
     },
     {
       "Name": "lilwalkemdone23",
       "Steam": "76561198742184205",
-      "Score": 38,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Cummer",
       "Steam": "76561199446263993",
-      "Score": 60,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "semen demon",
       "Steam": "76561199673231102",
-      "Score": 61,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "disco",
       "Steam": "76561198716614646",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 98,
+      "Score": 111,
       "Time": "??:??"
     },
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "²x²",
-      "Steam": "76561198716183261",
-      "Score": 3,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
