@@ -1,40 +1,34 @@
 {
-  "Time": "2026-04-15T04:54:59.2468132Z",
+  "Time": "2026-04-15T04:56:59.2561692Z",
   "Players": [
     {
       "Name": "comedy",
       "Steam": "76561199781994785",
-      "Score": 32,
-      "Time": "143:36"
-    },
-    {
-      "Name": "VortexHearts",
-      "Steam": "76561198874701832",
-      "Score": 6,
-      "Time": "??:??"
+      "Score": 36,
+      "Time": "145:36"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 51,
-      "Time": "70:41"
+      "Score": 54,
+      "Time": "72:41"
     },
     {
       "Name": "@Magehack",
       "Steam": "76561198717112061",
-      "Score": 62,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Frank",
       "Steam": "76561198197476498",
-      "Score": 88,
-      "Time": "86:44"
+      "Score": 94,
+      "Time": "88:44"
     },
     {
       "Name": "\uD835\uDC52\uD835\uDCB8\uD835\uDCC8\uD835\uDCC9\uD835\uDCB6\uD835\uDCB8\uD835\uDCCE⛧",
       "Steam": "76561198899226310",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -46,14 +40,20 @@
     {
       "Name": "oud",
       "Steam": "76561198765641530",
-      "Score": 36,
-      "Time": "15:01"
+      "Score": 59,
+      "Time": "17:01"
     },
     {
-      "Name": "[Monolith] promethyzx",
+      "Name": "[173] promethyzx",
       "Steam": "76561199308591917",
-      "Score": 68,
-      "Time": "04:05"
+      "Score": 72,
+      "Time": "06:05"
+    },
+    {
+      "Name": "lemosnicolas603",
+      "Steam": "76561199161082871",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
