@@ -1,53 +1,65 @@
 {
-  "Time": "2026-04-15T01:20:59.0855192Z",
+  "Time": "2026-04-15T01:22:59.0768146Z",
   "Players": [
+    {
+      "Name": "zuhns the freakin best",
+      "Steam": "76561198728403040",
+      "Score": 4,
+      "Time": "01:26"
+    },
     {
       "Name": "comedyTheOutlaw",
       "Steam": "76561199781994785",
       "Score": 10,
-      "Time": "00:49"
+      "Time": "02:49"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 64,
-      "Time": "83:59"
+      "Score": 70,
+      "Time": "85:59"
     },
     {
       "Name": "emir34611",
       "Steam": "76561198357328054",
-      "Score": 16,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 14,
-      "Time": "09:22"
+      "Score": 26,
+      "Time": "11:22"
     },
     {
       "Name": "Fatality.win  Junior .",
       "Steam": "76561199836886163",
-      "Score": 34,
-      "Time": "20:41"
+      "Score": 0,
+      "Time": "22:41"
+    },
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 36,
+      "Time": "01:58"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 80,
+      "Score": 98,
       "Time": "??:??"
     },
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
-      "Score": 20,
-      "Time": "01:53"
+      "Score": 0,
+      "Time": "03:53"
     },
     {
       "Name": "i need astral / gs",
       "Steam": "76561199015940939",
       "Score": 9,
-      "Time": "67:42"
+      "Time": "69:42"
     }
   ]
 }
