@@ -1,22 +1,28 @@
 {
-  "Time": "2026-04-15T10:42:41.0349025Z",
+  "Time": "2026-04-15T10:44:41.0373059Z",
   "Players": [
+    {
+      "Name": "Sw1d1",
+      "Steam": "76561198728929546",
+      "Score": 0,
+      "Time": "01:33"
+    },
     {
       "Name": "tross",
       "Steam": "76561199889415616",
-      "Score": 60,
-      "Time": "33:14"
+      "Score": 68,
+      "Time": "35:14"
     },
     {
       "Name": "Kszyrztof",
       "Steam": "76561198721488084",
-      "Score": 44,
-      "Time": "17:26"
+      "Score": 48,
+      "Time": "19:26"
     },
     {
       "Name": "maunonsipuli",
       "Steam": "76561198715035973",
-      "Score": 18,
+      "Score": 19,
       "Time": "??:??"
     }
   ]
