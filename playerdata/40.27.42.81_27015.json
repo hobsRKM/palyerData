@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-15T01:48:59.081722Z",
+  "Time": "2026-04-15T01:50:59.1032309Z",
   "Players": [
     {
       "Name": "fish",
@@ -10,32 +10,38 @@
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 54,
-      "Time": "37:22"
+      "Score": 58,
+      "Time": "39:22"
+    },
+    {
+      "Name": "Junior .",
+      "Steam": "76561199836886163",
+      "Score": 22,
+      "Time": "00:20"
     },
     {
       "Name": "@Magehack",
       "Steam": "76561198717112061",
-      "Score": 27,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 2,
-      "Time": "27:58"
+      "Score": 4,
+      "Time": "29:58"
     },
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
       "Score": 88,
-      "Time": "18:59"
+      "Time": "20:59"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 0,
-      "Time": "13:25"
+      "Score": 7,
+      "Time": "15:25"
     }
   ]
 }
