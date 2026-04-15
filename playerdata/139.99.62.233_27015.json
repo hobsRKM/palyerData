@@ -1,29 +1,41 @@
 {
-  "Time": "2026-04-15T14:23:39.8840466Z",
+  "Time": "2026-04-15T14:25:39.8786322Z",
   "Players": [
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 78,
-      "Time": "23:30"
+      "Score": 84,
+      "Time": "25:30"
     },
     {
       "Name": "gout",
       "Steam": "76561198713717525",
       "Score": 4,
-      "Time": "09:50"
+      "Time": "11:50"
     },
     {
       "Name": ":0",
       "Steam": "76561198721242771",
-      "Score": 66,
-      "Time": "21:54"
+      "Score": 72,
+      "Time": "23:54"
     },
     {
       "Name": "quavie",
       "Steam": "76561199391832430",
       "Score": 32,
-      "Time": "00:33"
+      "Time": "02:33"
+    },
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Worst Player",
+      "Steam": "76561199016127918",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
