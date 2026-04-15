@@ -1,35 +1,29 @@
 {
-  "Time": "2026-04-15T17:11:12.6007381Z",
+  "Time": "2026-04-15T17:13:12.5960493Z",
   "Players": [
-    {
-      "Name": "face it level 10",
-      "Steam": "76561198786524522",
-      "Score": 30,
-      "Time": "52:16"
-    },
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 4,
-      "Time": "06:48"
+      "Score": 14,
+      "Time": "08:48"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 8,
-      "Time": "02:28"
+      "Score": 15,
+      "Time": "04:28"
     },
     {
       "Name": "JS",
       "Steam": "76561199828563808",
-      "Score": 37,
-      "Time": "33:30"
+      "Score": 40,
+      "Time": "35:30"
     },
     {
       "Name": "i need astral / gs",
       "Steam": "76561199015940939",
       "Score": 26,
-      "Time": "05:58"
+      "Time": "07:58"
     },
     {
       "Name": "i need astral",
@@ -40,13 +34,25 @@
     {
       "Name": "zuhns the freakin best",
       "Steam": "76561198728403040",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "d1fkys",
       "Steam": "76561198790796325",
       "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "os d",
+      "Steam": "76561199086086934",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
