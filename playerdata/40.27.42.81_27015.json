@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-15T06:34:59.3351396Z",
+  "Time": "2026-04-15T06:36:59.3446528Z",
   "Players": [
+    {
+      "Name": "chance de derrota = 0",
+      "Steam": "76561199141151445",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "SQUARE ONE SHOPPING CENTER",
       "Steam": "76561198716135052",
-      "Score": 23,
-      "Time": "15:09"
+      "Score": 2,
+      "Time": "17:09"
     },
     {
       "Name": "Jason",
       "Steam": "76561199712427690",
-      "Score": 39,
+      "Score": 45,
       "Time": "??:??"
     },
     {
@@ -28,19 +34,19 @@
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
-      "Name": "[Mon] promethyzx",
+      "Name": "[Monolith] promethyzx",
       "Steam": "76561199308591917",
-      "Score": 24,
-      "Time": "15:56"
+      "Score": 0,
+      "Time": "17:56"
     },
     {
       "Name": "hit the bone",
       "Steam": "76561199103248016",
-      "Score": 53,
+      "Score": 59,
       "Time": "??:??"
     },
     {
@@ -52,7 +58,7 @@
     {
       "Name": "seyvn x kkamii*",
       "Steam": "76561198755665420",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
