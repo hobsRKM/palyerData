@@ -1,41 +1,41 @@
 {
-  "Time": "2026-04-15T00:48:59.0902592Z",
+  "Time": "2026-04-15T00:50:59.0845034Z",
   "Players": [
+    {
+      "Name": "Cat",
+      "Steam": "76561199570022284",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "one day, but not today",
       "Steam": "76561199856027303",
-      "Score": 39,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "comedyTheOutlaw",
       "Steam": "76561199781994785",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 29,
-      "Time": "51:59"
+      "Score": 31,
+      "Time": "53:59"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
-      "Score": 57,
-      "Time": "21:02"
-    },
-    {
-      "Name": "id never ask you to change",
-      "Steam": "76561198715657077",
-      "Score": 2,
-      "Time": "05:58"
+      "Score": 67,
+      "Time": "23:02"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 74,
-      "Time": "43:50"
+      "Score": 82,
+      "Time": "45:50"
     },
     {
       "Name": "BonQEQE",
@@ -46,38 +46,32 @@
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
-      "Score": 7,
-      "Time": "17:09"
+      "Score": 11,
+      "Time": "19:09"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 1,
-      "Time": "11:43"
+      "Score": 0,
+      "Time": "13:43"
     },
     {
       "Name": "i need astral / gs",
       "Steam": "76561199015940939",
       "Score": 46,
-      "Time": "35:42"
+      "Time": "37:42"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 50,
+      "Score": 62,
       "Time": "??:??"
-    },
-    {
-      "Name": "Groomed on HVH + doxxed",
-      "Steam": "76561198725920441",
-      "Score": 28,
-      "Time": "34:12"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 9,
-      "Time": "01:13"
+      "Score": 21,
+      "Time": "03:13"
     }
   ]
 }
