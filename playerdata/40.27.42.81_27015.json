@@ -1,11 +1,17 @@
 {
-  "Time": "2026-04-15T21:29:12.5990459Z",
+  "Time": "2026-04-15T21:31:12.6052179Z",
   "Players": [
     {
       "Name": "baku",
       "Steam": "76561198786524522",
-      "Score": 0,
-      "Time": "00:37"
+      "Score": 2,
+      "Time": "02:37"
+    },
+    {
+      "Name": "*Adderallzx",
+      "Steam": "76561198255621800",
+      "Score": 2,
+      "Time": "01:46"
     },
     {
       "Name": "ddR",
@@ -16,32 +22,32 @@
     {
       "Name": "disco",
       "Steam": "76561198716614646",
-      "Score": 0,
-      "Time": "30:09"
+      "Score": 2,
+      "Time": "32:09"
     },
     {
       "Name": "ieathumans",
       "Steam": "76561198716643462",
-      "Score": 16,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 87,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 36,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Jason",
       "Steam": "76561199712427690",
-      "Score": 61,
-      "Time": "15:31"
+      "Score": 67,
+      "Time": "17:31"
     }
   ]
 }
