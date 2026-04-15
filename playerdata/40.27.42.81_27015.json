@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-15T03:22:59.0879469Z",
+  "Time": "2026-04-15T03:24:59.0912378Z",
   "Players": [
     {
       "Name": "comedy",
       "Steam": "76561199781994785",
-      "Score": 13,
-      "Time": "51:36"
+      "Score": 15,
+      "Time": "53:36"
+    },
+    {
+      "Name": "Zys",
+      "Steam": "76561198753938605",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 19,
-      "Time": "43:55"
+      "Score": 20,
+      "Time": "45:55"
     },
     {
       "Name": "Fatality.win  Junior .",
       "Steam": "76561199836886163",
-      "Score": 12,
-      "Time": "92:20"
+      "Score": 16,
+      "Time": "94:20"
     },
     {
       "Name": "@Magehack",
@@ -34,20 +40,26 @@
     {
       "Name": "ian",
       "Steam": "76561198745857219",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 39,
-      "Time": "20:45"
+      "Score": 43,
+      "Time": "22:45"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
       "Score": 34,
-      "Time": "08:10"
+      "Time": "10:10"
+    },
+    {
+      "Name": "gt",
+      "Steam": "76561199406853779",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
