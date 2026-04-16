@@ -1,70 +1,88 @@
 {
-  "Time": "2026-04-16T20:59:19.4914701Z",
+  "Time": "2026-04-16T21:01:19.4785718Z",
   "Players": [
+    {
+      "Name": "s",
+      "Steam": "76561198735582746",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "P",
       "Steam": "76561199828563808",
-      "Score": 5,
-      "Time": "10:22"
+      "Score": 0,
+      "Time": "12:22"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 0,
-      "Time": "00:22"
+      "Score": 3,
+      "Time": "02:22"
+    },
+    {
+      "Name": "zolf",
+      "Steam": "76561199875340206",
+      "Score": 8,
+      "Time": "??:??"
     },
     {
       "Name": "zsoladoo",
       "Steam": "76561199686908948",
-      "Score": 0,
-      "Time": "01:18"
+      "Score": 2,
+      "Time": "03:18"
     },
     {
       "Name": "Babbili",
       "Steam": "76561199082023689",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "semen demon",
       "Steam": "76561199673231102",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Cummer",
       "Steam": "76561199446263993",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "TTV-AtraksUwO",
       "Steam": "76561199240568132",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 30,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "Don",
       "Steam": "76561199055238878",
-      "Score": 4,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561198914233824",
-      "Score": 8,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 6,
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bob The Queefer",
+      "Steam": "76561198272040159",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
