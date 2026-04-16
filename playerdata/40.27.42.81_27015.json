@@ -1,94 +1,82 @@
 {
-  "Time": "2026-04-16T04:01:12.8759495Z",
+  "Time": "2026-04-16T04:03:12.871692Z",
   "Players": [
+    {
+      "Name": "123",
+      "Steam": "76561199336055740",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "blush",
       "Steam": "76561198714180742",
-      "Score": 2,
-      "Time": "464:43"
-    },
-    {
-      "Name": "Lizardhvh",
-      "Steam": "76561198171076445",
-      "Score": 17,
-      "Time": "296:33"
+      "Score": 6,
+      "Time": "466:43"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 12,
-      "Time": "39:19"
+      "Score": 14,
+      "Time": "41:19"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
       "Score": 0,
-      "Time": "55:50"
+      "Time": "57:50"
     },
     {
       "Name": "713",
       "Steam": "76561198774027597",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 27,
-      "Time": "12:06"
+      "Score": 31,
+      "Time": "14:06"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 41,
-      "Time": "160:06"
+      "Score": 51,
+      "Time": "162:06"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 10,
-      "Time": "56:27"
+      "Score": 15,
+      "Time": "58:27"
     },
     {
       "Name": "@Magehack",
       "Steam": "76561198717112061",
-      "Score": 20,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "dandelions",
       "Steam": "76561199876077209",
-      "Score": 52,
-      "Time": "870:13"
-    },
-    {
-      "Name": "deeezzznvtzzz",
-      "Steam": "76561199128022103",
-      "Score": 0,
-      "Time": "65:58"
+      "Score": 54,
+      "Time": "872:13"
     },
     {
       "Name": "R★",
       "Steam": "76561199847730152",
-      "Score": 7,
-      "Time": "497:32"
-    },
-    {
-      "Name": "i need astral",
-      "Steam": "76561198715057614",
-      "Score": 0,
-      "Time": "288:48"
+      "Score": 8,
+      "Time": "499:32"
     },
     {
       "Name": "TTV-AtraksUwO",
       "Steam": "76561199240568132",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
