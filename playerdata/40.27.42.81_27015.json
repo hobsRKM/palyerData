@@ -1,88 +1,100 @@
 {
-  "Time": "2026-04-16T03:45:12.804986Z",
+  "Time": "2026-04-16T03:47:12.8161163Z",
   "Players": [
+    {
+      "Name": "blush",
+      "Steam": "76561198714180742",
+      "Score": 2,
+      "Time": "450:43"
+    },
+    {
+      "Name": "Lizardhvh",
+      "Steam": "76561198171076445",
+      "Score": 0,
+      "Time": "282:33"
+    },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 64,
-      "Time": "??:??"
-    },
-    {
-      "Name": "garriva",
-      "Steam": "76561198814149524",
-      "Score": 0,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 44,
-      "Time": "23:19"
+      "Score": 48,
+      "Time": "25:19"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 113,
-      "Time": "39:50"
+      "Score": 115,
+      "Time": "41:50"
     },
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
-      "Score": 7,
-      "Time": "05:14"
+      "Score": 0,
+      "Time": "07:14"
+    },
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 100,
-      "Time": "144:06"
+      "Score": 110,
+      "Time": "146:06"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 33,
-      "Time": "40:27"
+      "Score": 37,
+      "Time": "42:27"
     },
     {
       "Name": "@Magehack",
       "Steam": "76561198717112061",
-      "Score": 59,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "dandelions",
       "Steam": "76561199876077209",
-      "Score": 2,
-      "Time": "854:13"
+      "Score": 0,
+      "Time": "856:13"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 60,
-      "Time": "62:22"
+      "Score": 78,
+      "Time": "64:22"
     },
     {
       "Name": "sensation",
       "Steam": "76561199015940939",
       "Score": 81,
-      "Time": "26:30"
+      "Time": "28:30"
     },
     {
       "Name": "R★",
       "Steam": "76561199847730152",
-      "Score": 7,
-      "Time": "481:32"
+      "Score": 8,
+      "Time": "483:32"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 52,
-      "Time": "113:05"
+      "Score": 64,
+      "Time": "115:05"
     },
     {
       "Name": "TTV-AtraksUwO",
       "Steam": "76561199240568132",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     }
   ]
