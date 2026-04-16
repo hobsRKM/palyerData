@@ -1,28 +1,34 @@
 {
-  "Time": "2026-04-16T17:31:19.4835201Z",
+  "Time": "2026-04-16T17:35:19.4892457Z",
   "Players": [
+    {
+      "Name": "glock",
+      "Steam": "76561199097243449",
+      "Score": 4,
+      "Time": "01:18"
+    },
     {
       "Name": "P",
       "Steam": "76561199828563808",
-      "Score": 4,
-      "Time": "43:02"
+      "Score": 15,
+      "Time": "47:02"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 22,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "comedy",
       "Steam": "76561199781994785",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "comp",
       "Steam": "76561198741640234",
-      "Score": 22,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -34,25 +40,25 @@
     {
       "Name": "h7v5eaqfhrqiy",
       "Steam": "76561198720295458",
-      "Score": 12,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 24,
+      "Score": 29,
       "Time": "??:??"
     },
     {
-      "Name": "DejaVu",
-      "Steam": "76561199680083874",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Plutonium",
+      "Name": "not serv Plutonium",
       "Steam": "76561199622058563",
-      "Score": 22,
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LeaLea",
+      "Steam": "76561199319414622",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
