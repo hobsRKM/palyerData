@@ -1,47 +1,47 @@
 {
-  "Time": "2026-04-16T00:59:12.6051938Z",
+  "Time": "2026-04-16T01:01:12.6016647Z",
   "Players": [
+    {
+      "Name": "ryderisthebomlol",
+      "Steam": "76561198776802690",
+      "Score": 1,
+      "Time": "16:18"
+    },
     {
       "Name": "Dave Blunts",
       "Steam": "76561198782145962",
-      "Score": 3,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "comedy",
       "Steam": "76561199781994785",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "@Magehack",
       "Steam": "76561198717112061",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "omens",
       "Steam": "76561199847868570",
-      "Score": 2,
-      "Time": "12:18"
+      "Score": 11,
+      "Time": "14:18"
     },
     {
       "Name": "jeffrey epstein",
       "Steam": "76561198722472725",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
-    },
-    {
-      "Name": "LUCKY v5 DEV BUILD USER",
-      "Steam": "76561198783283963",
-      "Score": 18,
-      "Time": "15:35"
     },
     {
       "Name": "sensation",
       "Steam": "76561199015940939",
       "Score": 0,
-      "Time": "62:05"
+      "Time": "64:05"
     }
   ]
 }
