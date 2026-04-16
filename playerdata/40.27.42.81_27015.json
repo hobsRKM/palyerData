@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-16T02:41:12.6384066Z",
+  "Time": "2026-04-16T02:43:12.6597605Z",
   "Players": [
+    {
+      "Name": "zombie",
+      "Steam": "76561198767994900",
+      "Score": 14,
+      "Time": "01:57"
+    },
     {
       "Name": "laundered.cash #LAUNDERTILDEATH",
       "Steam": "76561199757543292",
-      "Score": 21,
-      "Time": "48:23"
+      "Score": 22,
+      "Time": "50:23"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 107,
+      "Score": 123,
       "Time": "??:??"
     },
     {
@@ -34,67 +40,67 @@
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
-      "Score": 31,
-      "Time": "11:10"
+      "Score": 38,
+      "Time": "13:10"
     },
     {
       "Name": "funeral",
       "Steam": "76561198914233824",
       "Score": 32,
-      "Time": "62:47"
+      "Time": "64:47"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 164,
-      "Time": "80:05"
+      "Score": 174,
+      "Time": "82:05"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 16,
-      "Time": "13:46"
+      "Score": 19,
+      "Time": "15:46"
     },
     {
       "Name": "comedy",
       "Steam": "76561199781994785",
-      "Score": 21,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "@Magehack",
       "Steam": "76561198717112061",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Roma",
       "Steam": "76561198776986983",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
       "Score": 29,
-      "Time": "13:37"
+      "Time": "00:22"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 44,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "anana goyim",
       "Steam": "76561198197476498",
-      "Score": 47,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "TTV-AtraksUwO",
       "Steam": "76561199240568132",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
