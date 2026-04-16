@@ -1,28 +1,22 @@
 {
-  "Time": "2026-04-16T10:21:56.2917051Z",
+  "Time": "2026-04-16T10:23:56.2853928Z",
   "Players": [
+    {
+      "Name": "skateboard cow",
+      "Steam": "76561199582103015",
+      "Score": 0,
+      "Time": "01:03"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 0,
-      "Time": "00:18"
-    },
-    {
-      "Name": "RJ Digital Alliance",
-      "Steam": "76561198713388190",
-      "Score": 10,
-      "Time": "08:03"
+      "Score": 2,
+      "Time": "02:18"
     },
     {
       "Name": ":0",
       "Steam": "76561198721242771",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "pokoyo",
-      "Steam": "76561198717648488",
-      "Score": 4,
+      "Score": 21,
       "Time": "??:??"
     }
   ]
