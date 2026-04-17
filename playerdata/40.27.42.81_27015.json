@@ -1,23 +1,23 @@
 {
-  "Time": "2026-04-17T04:59:19.4768235Z",
+  "Time": "2026-04-17T05:01:19.4828038Z",
   "Players": [
-    {
-      "Name": "SypherXz",
-      "Steam": "76561199624274699",
-      "Score": 46,
-      "Time": "29:32"
-    },
     {
       "Name": "christian cortez",
       "Steam": "76561198756303634",
-      "Score": 59,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 55,
-      "Time": "08:48"
+      "Score": 8,
+      "Time": "10:48"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 6,
+      "Time": "02:01"
     }
   ]
 }
