@@ -1,29 +1,29 @@
 {
-  "Time": "2026-04-17T01:25:19.4774384Z",
+  "Time": "2026-04-17T01:27:19.4829491Z",
   "Players": [
+    {
+      "Name": "IM ON A PASTE DONT BE MEAN",
+      "Steam": "76561198281663381",
+      "Score": 0,
+      "Time": "01:18"
+    },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 0,
-      "Time": "113:49"
+      "Score": 7,
+      "Time": "115:49"
     },
     {
       "Name": "德意志國",
       "Steam": "76561198792941191",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "BRIS",
-      "Steam": "76561199565961410",
-      "Score": 2,
-      "Time": "01:28"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 6,
-      "Time": "01:31"
+      "Score": 12,
+      "Time": "03:31"
     }
   ]
 }
