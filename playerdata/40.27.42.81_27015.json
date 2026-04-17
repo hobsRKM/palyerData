@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-17T08:43:19.4753095Z",
+  "Time": "2026-04-17T08:45:19.4820015Z",
   "Players": [
+    {
+      "Name": "cruzdevlin61",
+      "Steam": "76561198731373156",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
       "Score": 11,
-      "Time": "13:33"
+      "Time": "15:33"
     },
     {
-      "Name": "[Monolith] entity",
+      "Name": "[687] entity",
       "Steam": "76561198984848627",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 92,
-      "Time": "13:18"
+      "Score": 106,
+      "Time": "15:18"
     }
   ]
 }
