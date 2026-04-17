@@ -1,41 +1,53 @@
 {
-  "Time": "2026-04-17T19:09:32.0715595Z",
+  "Time": "2026-04-17T19:11:32.0740651Z",
   "Players": [
+    {
+      "Name": "asd",
+      "Steam": "76561199879076227",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tim aka Goon King",
+      "Steam": "76561198784560984",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 5,
-      "Time": "44:21"
+      "Score": 9,
+      "Time": "46:21"
     },
     {
       "Name": "P",
       "Steam": "76561199828563808",
-      "Score": 12,
-      "Time": "84:50"
+      "Score": 18,
+      "Time": "86:50"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 8,
-      "Time": "11:40"
+      "Score": 9,
+      "Time": "13:40"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
       "Score": 0,
-      "Time": "25:20"
+      "Time": "27:20"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 15,
-      "Time": "10:48"
+      "Score": 24,
+      "Time": "12:48"
     },
     {
       "Name": "xX_KillerMaster420_Xx",
@@ -47,24 +59,24 @@
       "Name": "DXVXD",
       "Steam": "76561199442363655",
       "Score": 0,
-      "Time": "24:28"
+      "Time": "26:28"
     },
     {
       "Name": "not serv | Plutonium",
       "Steam": "76561199622058563",
-      "Score": 7,
-      "Time": "02:18"
+      "Score": 15,
+      "Time": "04:18"
     },
     {
       "Name": "Cummer",
       "Steam": "76561199446263993",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
