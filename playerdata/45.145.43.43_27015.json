@@ -1,41 +1,53 @@
 {
-  "Time": "2026-04-17T14:12:24.8860371Z",
+  "Time": "2026-04-17T14:14:24.873853Z",
   "Players": [
     {
       "Name": "aim where?",
       "Steam": "76561199516412968",
-      "Score": 25,
+      "Score": 40,
       "Time": "??:??"
+    },
+    {
+      "Name": "Zoli",
+      "Steam": "76561198733842354",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 0,
+      "Time": "00:43"
     },
     {
       "Name": "Mr.Number",
       "Steam": "76561198715206321",
-      "Score": 35,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "SukyDJ",
       "Steam": "76561198194301650",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Kszyrztof",
       "Steam": "76561198721488084",
-      "Score": 28,
-      "Time": "50:52"
+      "Score": 38,
+      "Time": "52:52"
     },
     {
       "Name": "ph893301",
       "Steam": "76561198743174174",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "piimavunts oleg",
       "Steam": "76561199889415616",
-      "Score": 24,
-      "Time": "23:31"
+      "Score": 28,
+      "Time": "25:31"
     },
     {
       "Name": "ALE_NEEEE",
@@ -46,20 +58,20 @@
     {
       "Name": "LyGaming",
       "Steam": "76561198966468055",
-      "Score": 23,
-      "Time": "51:40"
+      "Score": 29,
+      "Time": "53:40"
     },
     {
       "Name": "Dr1xZzy",
       "Steam": "76561199469587202",
-      "Score": 2,
-      "Time": "07:01"
+      "Score": 11,
+      "Time": "09:01"
     },
     {
       "Name": "Плужек",
       "Steam": "76561199399746283",
       "Score": 1,
-      "Time": "06:11"
+      "Time": "08:11"
     }
   ]
 }
