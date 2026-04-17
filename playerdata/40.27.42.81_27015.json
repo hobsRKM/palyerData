@@ -1,20 +1,20 @@
 {
-  "Time": "2026-04-17T04:49:19.484951Z",
+  "Time": "2026-04-17T04:51:19.4866817Z",
   "Players": [
     {
       "Name": "SypherXz",
       "Steam": "76561199624274699",
-      "Score": 7,
-      "Time": "19:32"
+      "Score": 20,
+      "Time": "21:32"
     },
     {
       "Name": "ANAKIN SKYWALKER",
       "Steam": "76561198338975423",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
-      "Name": "[] true!",
+      "Name": "[test] true!",
       "Steam": "76561198728274003",
       "Score": 34,
       "Time": "??:??"
@@ -28,8 +28,14 @@
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
-      "Score": 17,
-      "Time": "23:33"
+      "Score": 23,
+      "Time": "25:33"
+    },
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 18,
+      "Time": "00:48"
     }
   ]
 }
