@@ -1,40 +1,52 @@
 {
-  "Time": "2026-04-17T18:23:32.0799496Z",
+  "Time": "2026-04-17T18:25:32.0674128Z",
   "Players": [
+    {
+      "Name": "K",
+      "Steam": "76561198787397270",
+      "Score": 0,
+      "Time": "00:24"
+    },
     {
       "Name": "glock",
       "Steam": "76561199097243449",
-      "Score": 16,
-      "Time": "170:03"
+      "Score": 25,
+      "Time": "172:03"
+    },
+    {
+      "Name": "BonQEQE",
+      "Steam": "76561198418443435",
+      "Score": 0,
+      "Time": "00:21"
     },
     {
       "Name": "P",
       "Steam": "76561199828563808",
-      "Score": 9,
-      "Time": "38:50"
+      "Score": 0,
+      "Time": "40:50"
     },
     {
       "Name": "Oxum's Gas Station",
       "Steam": "76561199558635158",
-      "Score": 16,
-      "Time": "32:26"
+      "Score": 21,
+      "Time": "34:26"
     },
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 16,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "lolzzzzzzzzzzzzzz",
       "Steam": "76561198717293736",
-      "Score": 0,
-      "Time": "01:51"
+      "Score": 2,
+      "Time": "03:51"
     },
     {
       "Name": "Simply",
       "Steam": "76561199889163804",
-      "Score": 27,
+      "Score": 31,
       "Time": "??:??"
     },
     {
@@ -46,7 +58,7 @@
     {
       "Name": "<DN> < Bananchiki",
       "Steam": "76561199619301187",
-      "Score": 8,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
