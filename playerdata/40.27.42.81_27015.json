@@ -1,15 +1,27 @@
 {
-  "Time": "2026-04-17T17:15:32.0623425Z",
+  "Time": "2026-04-17T17:17:32.0693268Z",
   "Players": [
+    {
+      "Name": "magrelo",
+      "Steam": "76561199529552889",
+      "Score": 0,
+      "Time": "01:07"
+    },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "IM ON A PASTE DONT BE MEAN",
+      "Steam": "76561198281663381",
       "Score": 0,
       "Time": "??:??"
     }
