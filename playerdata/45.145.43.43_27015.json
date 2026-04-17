@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-17T20:08:24.8823901Z",
+  "Time": "2026-04-17T20:10:24.8818839Z",
   "Players": [
+    {
+      "Name": "Sniper peak",
+      "Steam": "76561198714247545",
+      "Score": 0,
+      "Time": "01:11"
+    },
+    {
+      "Name": "[OG]Teek",
+      "Steam": "76561199856455111",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "lix    Crown",
       "Steam": "76561199888214382",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Lagrassa28",
       "Steam": "76561198743223911",
       "Score": 35,
-      "Time": "43:17"
-    },
-    {
-      "Name": "Vibee",
-      "Steam": "76561198714541704",
-      "Score": 10,
-      "Time": "??:??"
+      "Time": "45:17"
     },
     {
       "Name": "hydrant-neustart-6i",
       "Steam": "76561198715134141",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Person .?",
       "Steam": "76561198794411072",
-      "Score": 74,
+      "Score": 78,
       "Time": "??:??"
     },
     {
       "Name": "〖\uD835\uDD46\uD835\uDD3E〗\uD835\uDD3C\uD835\uDD5F\uD835\uDD60\uD835\uDD5C",
       "Steam": "76561199180038097",
-      "Score": 25,
-      "Time": "01:52"
+      "Score": 33,
+      "Time": "03:52"
     }
   ]
 }
