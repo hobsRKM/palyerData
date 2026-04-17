@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-17T16:52:24.8762207Z",
+  "Time": "2026-04-17T16:54:24.879728Z",
   "Players": [
+    {
+      "Name": "missed",
+      "Steam": "76561198745196734",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "FiołekMarzeny",
       "Steam": "76561198716093726",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "meow meow :3",
       "Steam": "76561198718474570",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
