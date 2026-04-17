@@ -1,10 +1,16 @@
 {
-  "Time": "2026-04-17T04:25:19.4767263Z",
+  "Time": "2026-04-17T04:27:19.4790265Z",
   "Players": [
     {
-      "Name": "[testin] true!",
+      "Name": "[testi] true!",
       "Steam": "76561198728274003",
-      "Score": 0,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "christian cortez",
+      "Steam": "76561198756303634",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
