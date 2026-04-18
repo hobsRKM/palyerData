@@ -1,53 +1,71 @@
 {
-  "Time": "2026-04-18T15:37:22.831916Z",
+  "Time": "2026-04-18T15:39:22.8305568Z",
   "Players": [
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 5,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "cruzdevlin61",
+      "Steam": "76561198731373156",
+      "Score": 5,
+      "Time": "01:19"
     },
     {
       "Name": "Casper",
       "Steam": "76561199520353828",
-      "Score": 13,
-      "Time": "09:38"
+      "Score": 19,
+      "Time": "11:38"
     },
     {
       "Name": "glock",
       "Steam": "76561199097243449",
-      "Score": 55,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 9,
-      "Time": "00:10"
+      "Score": 12,
+      "Time": "02:10"
+    },
+    {
+      "Name": "link.makhari",
+      "Steam": "76561198715686293",
+      "Score": 4,
+      "Time": "00:50"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 80,
-      "Time": "26:03"
+      "Score": 82,
+      "Time": "28:03"
     },
     {
       "Name": "xd",
       "Steam": "76561198180065165",
-      "Score": 6,
-      "Time": "15:39"
+      "Score": 0,
+      "Time": "17:39"
     },
     {
       "Name": "vas",
       "Steam": "76561199662394794",
       "Score": 4,
-      "Time": "04:20"
+      "Time": "06:20"
     },
     {
       "Name": "x_x",
       "Steam": "76561198765641530",
+      "Score": 0,
+      "Time": "02:46"
+    },
+    {
+      "Name": "fake Kult",
+      "Steam": "76561199492834313",
       "Score": 4,
-      "Time": "00:46"
+      "Time": "??:??"
     }
   ]
 }
