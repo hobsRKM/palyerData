@@ -1,52 +1,58 @@
 {
-  "Time": "2026-04-18T20:37:22.8522894Z",
+  "Time": "2026-04-18T20:39:22.8349765Z",
   "Players": [
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 64,
-      "Time": "00:08"
+      "Score": 80,
+      "Time": "02:08"
+    },
+    {
+      "Name": "Mahatma Gandhi",
+      "Steam": "76561198720207836",
+      "Score": 29,
+      "Time": "01:23"
     },
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 10,
-      "Time": "12:10"
+      "Score": 12,
+      "Time": "14:10"
+    },
+    {
+      "Name": "magrelo",
+      "Steam": "76561199529552889",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "p0rk_knuckle_69",
       "Steam": "76561199035798921",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "glock",
       "Steam": "76561199097243449",
-      "Score": 31,
-      "Time": "52:22"
+      "Score": 37,
+      "Time": "54:22"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 73,
-      "Time": "32:25"
+      "Score": 77,
+      "Time": "34:25"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 71,
-      "Time": "??:??"
-    },
-    {
-      "Name": "schrödinger",
-      "Steam": "76561199813507603",
-      "Score": 34,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561198914233824",
-      "Score": 78,
+      "Score": 88,
       "Time": "??:??"
     }
   ]
