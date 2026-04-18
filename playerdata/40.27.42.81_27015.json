@@ -1,11 +1,17 @@
 {
-  "Time": "2026-04-18T17:21:22.8283205Z",
+  "Time": "2026-04-18T17:23:22.8348532Z",
   "Players": [
+    {
+      "Name": "Murder Your Memory",
+      "Steam": "76561199050170734",
+      "Score": 8,
+      "Time": "??:??"
+    },
     {
       "Name": "cruzdevlin61",
       "Steam": "76561198731373156",
-      "Score": 1,
-      "Time": "01:52"
+      "Score": 3,
+      "Time": "03:52"
     },
     {
       "Name": "Tech Jacket",
@@ -16,38 +22,44 @@
     {
       "Name": "i need astral",
       "Steam": "76561198715057614",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     },
     {
-      "Name": "[251] Dispnser",
+      "Name": "[Mon] Dispnser",
       "Steam": "76561199369448732",
-      "Score": 1,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "reality",
       "Steam": "76561199127501628",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "stableryan",
       "Steam": "76561199757032866",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 15,
-      "Time": "02:28"
+      "Score": 19,
+      "Time": "04:28"
     },
     {
       "Name": "Riot",
       "Steam": "76561199319438624",
-      "Score": 15,
-      "Time": "06:50"
+      "Score": 17,
+      "Time": "08:50"
+    },
+    {
+      "Name": "Продаю инвайт на f",
+      "Steam": "76561199530521634",
+      "Score": 1,
+      "Time": "00:25"
     }
   ]
 }
