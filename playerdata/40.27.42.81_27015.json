@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-18T07:49:32.930899Z",
+  "Time": "2026-04-18T07:51:32.9365938Z",
   "Players": [
     {
       "Name": "cruzdevlin61",
       "Steam": "76561198731373156",
       "Score": 0,
-      "Time": "26:42"
+      "Time": "28:42"
     },
     {
       "Name": "link.makhari",
       "Steam": "76561198715686293",
-      "Score": 2,
-      "Time": "12:29"
+      "Score": 0,
+      "Time": "14:29"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 38,
-      "Time": "42:40"
+      "Score": 52,
+      "Time": "44:40"
+    },
+    {
+      "Name": "jonas.hoerl2.0",
+      "Steam": "76561199518325336",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Riot",
       "Steam": "76561199319438624",
-      "Score": 26,
-      "Time": "42:39"
+      "Score": 34,
+      "Time": "44:39"
     }
   ]
 }
