@@ -1,22 +1,28 @@
 {
-  "Time": "2026-04-18T14:04:25.8442659Z",
+  "Time": "2026-04-18T14:06:25.8467723Z",
   "Players": [
     {
-      "Name": "Unknown Player",
+      "Name": "Spect",
       "Steam": "76561198721609996",
-      "Score": 6,
-      "Time": "06:49"
+      "Score": 11,
+      "Time": "08:49"
     },
     {
-      "Name": "Sp",
+      "Name": "Spectra",
       "Steam": "76561198713937511",
-      "Score": 17,
-      "Time": "10:58"
+      "Score": 19,
+      "Time": "12:58"
     },
     {
       "Name": "mv510537",
       "Steam": "76561198748270400",
-      "Score": 16,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Wedrant",
+      "Steam": "76561198716166554",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
