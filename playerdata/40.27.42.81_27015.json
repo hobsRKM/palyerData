@@ -1,17 +1,29 @@
 {
-  "Time": "2026-04-18T22:41:22.8468616Z",
+  "Time": "2026-04-18T22:43:22.8609422Z",
   "Players": [
+    {
+      "Name": "nissim",
+      "Steam": "76561198861512184",
+      "Score": 0,
+      "Time": "01:57"
+    },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 25,
-      "Time": "15:01"
+      "Score": 32,
+      "Time": "17:01"
     },
     {
-      "Name": "Fatalit キдержу lowtabキ",
+      "Name": "SethPlaysGames",
+      "Steam": "76561199029981261",
+      "Score": 28,
+      "Time": "00:41"
+    },
+    {
+      "Name": "キдержу lowtabキ",
       "Steam": "76561198232019920",
-      "Score": 59,
-      "Time": "291:40"
+      "Score": 62,
+      "Time": "293:40"
     },
     {
       "Name": "bro",
@@ -22,14 +34,14 @@
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 31,
-      "Time": "10:42"
+      "Score": 34,
+      "Time": "12:42"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 40,
-      "Time": "12:22"
+      "Score": 52,
+      "Time": "14:22"
     },
     {
       "Name": "*Adderallzx",
@@ -40,25 +52,25 @@
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 93,
+      "Score": 105,
       "Time": "??:??"
     },
     {
-      "Name": "LONE     Nigger",
+      "Name": "ONE     Nigger",
       "Steam": "76561198432126546",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "poet",
       "Steam": "76561199119311936",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
     },
     {
@@ -70,14 +82,14 @@
     {
       "Name": "Malik WARE",
       "Steam": "76561199713182480",
-      "Score": 40,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561198914233824",
-      "Score": 72,
-      "Time": "35:11"
+      "Score": 82,
+      "Time": "37:11"
     }
   ]
 }
