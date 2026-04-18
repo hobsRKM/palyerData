@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-18T04:15:32.5496675Z",
+  "Time": "2026-04-18T04:17:32.5443683Z",
   "Players": [
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 4,
-      "Time": "52:44"
+      "Score": 6,
+      "Time": "54:44"
     },
     {
       "Name": "7rpq",
       "Steam": "76561197963718553",
       "Score": 0,
-      "Time": "00:51"
+      "Time": "00:20"
+    },
+    {
+      "Name": "德意志國",
+      "Steam": "76561198792941191",
+      "Score": 0,
+      "Time": "01:35"
     },
     {
       "Name": "Harvick",
@@ -22,14 +28,14 @@
     {
       "Name": "fatal inv pls im broke",
       "Steam": "76561199530521634",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "stableryan",
       "Steam": "76561199757032866",
       "Score": 0,
-      "Time": "23:24"
+      "Time": "25:24"
     },
     {
       "Name": "magehack",
@@ -41,19 +47,19 @@
       "Name": "zolf",
       "Steam": "76561199875340206",
       "Score": 0,
-      "Time": "21:08"
+      "Time": "23:08"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 6,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "josh",
       "Steam": "76561198717759615",
       "Score": 0,
-      "Time": "37:19"
+      "Time": "39:19"
     }
   ]
 }
