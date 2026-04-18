@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-18T06:09:32.8048293Z",
+  "Time": "2026-04-18T06:11:32.7967642Z",
   "Players": [
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "7rpq",
       "Steam": "76561197963718553",
       "Score": 2,
-      "Time": "64:15"
+      "Time": "66:15"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 18,
-      "Time": "40:27"
+      "Score": 30,
+      "Time": "42:27"
     },
     {
       "Name": "PuppyGirl eli",
       "Steam": "76561199103248016",
-      "Score": 10,
-      "Time": "433:25"
+      "Score": 12,
+      "Time": "435:25"
     },
     {
-      "Name": "reality",
-      "Steam": "76561199127501628",
-      "Score": 2,
-      "Time": "154:35"
+      "Name": "Murder Your Memory",
+      "Steam": "76561199050170734",
+      "Score": 0,
+      "Time": "00:12"
     },
     {
       "Name": "Light",
       "Steam": "76561199879076227",
-      "Score": 4,
-      "Time": "253:54"
+      "Score": 8,
+      "Time": "255:54"
     },
     {
       "Name": "magehack",
@@ -38,21 +44,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "y",
-      "Steam": "76561199837114653",
-      "Score": 30,
-      "Time": "31:35"
-    },
-    {
       "Name": "马思维",
       "Steam": "76561199712427690",
-      "Score": 41,
-      "Time": "??:??"
-    },
-    {
-      "Name": "tality.win fat spleen!",
-      "Steam": "76561199150967814",
-      "Score": 1,
+      "Score": 58,
       "Time": "??:??"
     }
   ]
