@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-18T04:41:32.5729254Z",
+  "Time": "2026-04-18T04:43:32.5628504Z",
   "Players": [
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 39,
-      "Time": "78:44"
+      "Score": 41,
+      "Time": "80:44"
     },
     {
       "Name": "7rpq",
       "Steam": "76561197963718553",
       "Score": 41,
-      "Time": "24:20"
+      "Time": "26:20"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 61,
-      "Time": "56:08"
+      "Score": 71,
+      "Time": "58:08"
     },
     {
       "Name": "德意志國",
       "Steam": "76561198792941191",
       "Score": 39,
-      "Time": "25:35"
+      "Time": "27:35"
+    },
+    {
+      "Name": "pie!",
+      "Steam": "76561198797054330",
+      "Score": 1,
+      "Time": "01:31"
     },
     {
       "Name": "Murder Your Memory",
       "Steam": "76561199050170734",
-      "Score": 43,
-      "Time": "43:48"
+      "Score": 48,
+      "Time": "45:48"
     },
     {
       "Name": "fatal inv pls im broke",
@@ -40,20 +46,26 @@
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "123",
       "Steam": "76561199805557263",
-      "Score": 0,
-      "Time": "00:27"
+      "Score": 2,
+      "Time": "02:27"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 148,
+      "Score": 161,
       "Time": "??:??"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 0,
+      "Time": "00:03"
     }
   ]
 }
