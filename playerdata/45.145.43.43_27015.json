@@ -1,40 +1,46 @@
 {
-  "Time": "2026-04-18T14:24:25.8593437Z",
+  "Time": "2026-04-18T14:26:25.8571099Z",
   "Players": [
+    {
+      "Name": "Cakevs",
+      "Steam": "76561199532005793",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "d1ngle",
       "Steam": "76561199853360339",
       "Score": 0,
-      "Time": "00:44"
+      "Time": "02:44"
     },
     {
       "Name": "mv510537",
       "Steam": "76561198748270400",
-      "Score": 6,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Wedrant",
       "Steam": "76561198716166554",
-      "Score": 4,
-      "Time": "07:59"
+      "Score": 6,
+      "Time": "09:59"
     },
     {
       "Name": "Aajonus Vonderplanitz",
       "Steam": "76561198716475511",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
-      "Name": "kebab maker",
+      "Name": "[741] orable4",
       "Steam": "76561199852749350",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "HvH police",
       "Steam": "76561198785420853",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
