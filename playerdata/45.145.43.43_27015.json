@@ -1,40 +1,46 @@
 {
-  "Time": "2026-04-18T17:06:25.8509142Z",
+  "Time": "2026-04-18T17:08:25.8546274Z",
   "Players": [
+    {
+      "Name": "Aajonus Vonderplanitz",
+      "Steam": "76561198716475511",
+      "Score": 0,
+      "Time": "00:57"
+    },
     {
       "Name": "777 Ighty80.",
       "Steam": "76561199803191679",
-      "Score": 63,
-      "Time": "30:19"
+      "Score": 72,
+      "Time": "32:19"
     },
     {
       "Name": "wes",
       "Steam": "76561199876468704",
-      "Score": 56,
-      "Time": "12:51"
+      "Score": 64,
+      "Time": "14:51"
     },
     {
       "Name": ":)",
       "Steam": "76561198771642405",
-      "Score": 24,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Elden Ring Enjoyer",
       "Steam": "76561198367390985",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "KOKSU714",
       "Steam": "76561199174118954",
-      "Score": 9,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "ZlayaTarelka",
       "Steam": "76561198714072130",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
