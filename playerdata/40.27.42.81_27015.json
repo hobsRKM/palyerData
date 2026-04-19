@@ -1,12 +1,6 @@
 {
-  "Time": "2026-04-19T05:25:24.0116709Z",
+  "Time": "2026-04-19T05:27:24.030012Z",
   "Players": [
-    {
-      "Name": "Jegu21",
-      "Steam": "76561199810090537",
-      "Score": 0,
-      "Time": "17:57"
-    },
     {
       "Name": "ihavesmollpp",
       "Steam": "76561199209588405",
@@ -16,38 +10,44 @@
     {
       "Name": "Russia Nacist",
       "Steam": "76561199156716734",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 10,
-      "Time": "152:09"
+      "Score": 14,
+      "Time": "154:09"
     },
     {
       "Name": "x_x",
       "Steam": "76561198765641530",
-      "Score": 9,
-      "Time": "613:33"
+      "Score": 16,
+      "Time": "615:33"
     },
     {
       "Name": "hellboy",
       "Steam": "76561199781149398",
-      "Score": 8,
-      "Time": "08:22"
+      "Score": 10,
+      "Time": "10:22"
     },
     {
       "Name": "ddr",
       "Steam": "76561199530521634",
       "Score": 0,
-      "Time": "44:05"
+      "Time": "46:05"
     },
     {
       "Name": "schrödinger",
       "Steam": "76561199813507603",
-      "Score": 4,
-      "Time": "393:29"
+      "Score": 11,
+      "Time": "395:29"
+    },
+    {
+      "Name": "BOT Clarence",
+      "Steam": "76561199050170734",
+      "Score": 0,
+      "Time": "00:12"
     }
   ]
 }
