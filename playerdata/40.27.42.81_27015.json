@@ -1,47 +1,59 @@
 {
-  "Time": "2026-04-19T06:55:25.8239076Z",
+  "Time": "2026-04-19T06:57:25.8569589Z",
   "Players": [
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 130,
-      "Time": "307:46"
+      "Score": 132,
+      "Time": "309:46"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 104,
+      "Score": 110,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NL worker",
+      "Steam": "76561199778070124",
+      "Score": 4,
+      "Time": "440:47"
+    },
+    {
+      "Name": "hhhhhhhhhhhhh",
+      "Steam": "76561199588811334",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bonk666",
       "Steam": "76561198722473031",
-      "Score": 22,
-      "Time": "32:16"
+      "Score": 24,
+      "Time": "34:16"
     },
     {
       "Name": "Thought we're meant to be",
       "Steam": "76561198714889177",
-      "Score": 4,
-      "Time": "642:44"
+      "Score": 10,
+      "Time": "644:44"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 20,
-      "Time": "59:20"
+      "Score": 27,
+      "Time": "61:20"
     },
     {
       "Name": "ddr",
       "Steam": "76561199530521634",
       "Score": 40,
-      "Time": "134:07"
+      "Time": "136:07"
     },
     {
       "Name": "я exited",
       "Steam": "76561199228634017",
-      "Score": 56,
-      "Time": "47:34"
+      "Score": 64,
+      "Time": "49:34"
     }
   ]
 }
