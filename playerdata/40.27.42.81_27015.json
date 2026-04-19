@@ -1,52 +1,58 @@
 {
-  "Time": "2026-04-19T19:25:19.4656518Z",
+  "Time": "2026-04-19T19:27:19.4617987Z",
   "Players": [
+    {
+      "Name": "zolf",
+      "Steam": "76561198726479173",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "anana goyim",
       "Steam": "76561198197476498",
-      "Score": 21,
-      "Time": "05:01"
+      "Score": 23,
+      "Time": "07:01"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 44,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "hvh",
+      "Steam": "76561199805557263",
+      "Score": 9,
+      "Time": "01:57"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 24,
-      "Time": "15:00"
+      "Score": 29,
+      "Time": "17:00"
     },
     {
       "Name": "Martín Fierro",
       "Steam": "76561199569938885",
-      "Score": 6,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "alucarD",
-      "Steam": "76561199768964598",
-      "Score": 50,
-      "Time": "??:??"
-    },
-    {
-      "Name": "k4!ne",
+      "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 34,
-      "Time": "10:15"
+      "Score": 44,
+      "Time": "12:15"
     },
     {
       "Name": "im a immigrant",
       "Steam": "76561199410751476",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 29,
+      "Score": 35,
       "Time": "??:??"
     },
     {
@@ -58,26 +64,20 @@
     {
       "Name": "xD)",
       "Steam": "76561199625473775",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "NL worker",
-      "Steam": "76561199778070124",
-      "Score": 50,
-      "Time": "17:04"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 35,
-      "Time": "18:11"
+      "Score": 39,
+      "Time": "20:11"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 71,
-      "Time": "31:04"
+      "Score": 77,
+      "Time": "33:04"
     }
   ]
 }
