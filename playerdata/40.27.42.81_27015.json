@@ -1,65 +1,71 @@
 {
-  "Time": "2026-04-19T02:27:23.0353543Z",
+  "Time": "2026-04-19T02:29:23.0524209Z",
   "Players": [
     {
       "Name": "dandelions",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "364:00"
+      "Time": "366:00"
     },
     {
       "Name": "马思维",
       "Steam": "76561199712427690",
-      "Score": 75,
-      "Time": "365:06"
+      "Score": 85,
+      "Time": "367:06"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 61,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 0,
-      "Time": "03:52"
+      "Score": 2,
+      "Time": "05:52"
     },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 31,
-      "Time": "38:31"
+      "Score": 33,
+      "Time": "40:31"
     },
     {
       "Name": "*Adderallzx",
       "Steam": "76561198255621800",
-      "Score": 36,
-      "Time": "49:45"
+      "Score": 42,
+      "Time": "51:45"
     },
     {
       "Name": "shot4",
       "Steam": "76561199254666093",
       "Score": 14,
-      "Time": "45:23"
+      "Time": "47:23"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "fjaskda",
       "Steam": "76561199830685210",
-      "Score": 13,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "plane",
       "Steam": "76561199446924603",
-      "Score": 18,
+      "Score": 25,
       "Time": "??:??"
+    },
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "00:23"
     }
   ]
 }
