@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-19T11:45:28.0136935Z",
+  "Time": "2026-04-19T11:47:28.0115756Z",
   "Players": [
+    {
+      "Name": "God DID",
+      "Steam": "76561198432741674",
+      "Score": 0,
+      "Time": "847:45"
+    },
     {
       "Name": "global",
       "Steam": "76561199011320422",
       "Score": 0,
-      "Time": "1071:07"
+      "Time": "1073:07"
     },
     {
       "Name": "K4SPERSKY",
       "Steam": "76561199049289749",
-      "Score": 4,
-      "Time": "841:54"
+      "Score": 18,
+      "Time": "843:54"
     },
     {
       "Name": "! Chaoz Nemkaru",
       "Steam": "76561199803191679",
-      "Score": 6,
-      "Time": "56:39"
+      "Score": 11,
+      "Time": "58:39"
     },
     {
-      "Name": "HvH legend",
-      "Steam": "76561198723802713",
-      "Score": 6,
-      "Time": "??:??"
+      "Name": "ᴢᴇɴsɪᴇʀᴛ",
+      "Steam": "76561199079000505",
+      "Score": 0,
+      "Time": "1131:56"
     },
     {
       "Name": "Nope",
       "Steam": "76561198141397226",
-      "Score": 0,
-      "Time": "38:27"
+      "Score": 10,
+      "Time": "40:27"
     }
   ]
 }
