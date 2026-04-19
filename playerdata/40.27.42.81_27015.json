@@ -1,11 +1,23 @@
 {
-  "Time": "2026-04-19T23:27:19.4774439Z",
+  "Time": "2026-04-19T23:29:19.4786263Z",
   "Players": [
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 28,
-      "Time": "13:26"
+      "Score": 31,
+      "Time": "15:26"
+    },
+    {
+      "Name": "neardeathnoteontop",
+      "Steam": "76561198711784172",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Shhhhh",
+      "Steam": "76561199050182800",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "mikasa",
@@ -17,31 +29,37 @@
       "Name": "Riot",
       "Steam": "76561199319438624",
       "Score": 0,
-      "Time": "153:05"
+      "Time": "155:05"
     },
     {
       "Name": "kAne",
       "Steam": "76561198393113930",
       "Score": 0,
-      "Time": "258:09"
+      "Time": "260:09"
+    },
+    {
+      "Name": "*Adderallzx",
+      "Steam": "76561198255621800",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561198166519466",
-      "Score": 24,
-      "Time": "127:52"
+      "Score": 30,
+      "Time": "129:52"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 23,
-      "Time": "20:22"
+      "Score": 29,
+      "Time": "22:22"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 38,
-      "Time": "56:37"
+      "Score": 42,
+      "Time": "58:37"
     },
     {
       "Name": "gerbert",
@@ -58,8 +76,8 @@
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 10,
-      "Time": "00:41"
+      "Score": 18,
+      "Time": "02:41"
     }
   ]
 }
