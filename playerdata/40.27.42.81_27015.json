@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-19T07:05:25.9554278Z",
+  "Time": "2026-04-19T07:07:25.983055Z",
   "Players": [
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 170,
-      "Time": "317:46"
+      "Score": 173,
+      "Time": "319:46"
     },
     {
       "Name": "gerbert",
       "Steam": "76561199803883011",
-      "Score": 126,
+      "Score": 130,
+      "Time": "??:??"
+    },
+    {
+      "Name": "@!#",
+      "Steam": "76561199208206161",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 27,
-      "Time": "448:47"
+      "Score": 29,
+      "Time": "450:47"
     },
     {
       "Name": "hhhhhhhhhhhhh",
@@ -26,16 +32,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "lie try cry die",
+      "Steam": "76561198430079834",
+      "Score": 4,
+      "Time": "01:07"
+    },
+    {
       "Name": "bonk666",
       "Steam": "76561198722473031",
       "Score": 26,
-      "Time": "42:16"
+      "Time": "44:16"
     },
     {
       "Name": "Thought we're meant to be",
       "Steam": "76561198714889177",
       "Score": 10,
-      "Time": "652:45"
+      "Time": "654:45"
     },
     {
       "Name": "Hunter-S-Thompson",
@@ -46,8 +58,8 @@
     {
       "Name": "я exited",
       "Steam": "76561199228634017",
-      "Score": 87,
-      "Time": "57:34"
+      "Score": 97,
+      "Time": "59:34"
     }
   ]
 }
