@@ -1,59 +1,65 @@
 {
-  "Time": "2026-04-19T08:36:27.3344871Z",
+  "Time": "2026-04-19T08:37:28.0123565Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "yuki",
+      "Steam": "76561198724255562",
+      "Score": 4,
+      "Time": "612:40"
+    },
+    {
+      "Name": "Apolexik",
+      "Steam": "76561199654381196",
+      "Score": 40,
+      "Time": "782:57"
+    },
+    {
+      "Name": "pula mit a",
+      "Steam": "76561198725474291",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "LokalnyCyberek skins.army",
-      "Steam": "76561198774385702",
+      "Name": "global",
+      "Steam": "76561199011320422",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "883:07"
     },
     {
-      "Name": "Infantrit",
-      "Steam": "76561199827876555",
+      "Name": "matsäs",
+      "Steam": "76561199842002650",
       "Score": 38,
+      "Time": "18:10"
+    },
+    {
+      "Name": "GeekedBrickleberry",
+      "Steam": "76561198740850844",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "⁺ ₊✦Ria₊✦°",
-      "Steam": "76561199236818034",
-      "Score": 22,
+      "Name": "Nope",
+      "Steam": "76561198141397226",
+      "Score": 23,
+      "Time": "501:36"
+    },
+    {
+      "Name": "owned u.",
+      "Steam": "76561198799546256",
+      "Score": 44,
+      "Time": "243:54"
+    },
+    {
+      "Name": "pridemuffin12",
+      "Steam": "76561198721086552",
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "pphd",
-      "Steam": "76561198771665316",
-      "Score": 30,
-      "Time": "36:06"
-    },
-    {
-      "Name": "tymo",
-      "Steam": "76561199425592793",
+      "Name": "neverwin",
+      "Steam": "76561198718900750",
       "Score": 19,
-      "Time": "05:37"
-    },
-    {
-      "Name": "HopeKaputt",
-      "Steam": "76561199019528299",
-      "Score": 25,
-      "Time": "24:36"
-    },
-    {
-      "Name": "passive",
-      "Steam": "76561199849345621",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "aimware.net",
-      "Steam": "76561198714050350",
-      "Score": 16,
-      "Time": "??:??"
+      "Time": "05:40"
     }
   ]
 }
