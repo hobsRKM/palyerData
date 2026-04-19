@@ -1,35 +1,35 @@
 {
-  "Time": "2026-04-19T03:25:23.240189Z",
+  "Time": "2026-04-19T03:27:23.2379939Z",
   "Players": [
-    {
-      "Name": "occupance",
-      "Steam": "76561199857023302",
-      "Score": 0,
-      "Time": "194:52"
-    },
     {
       "Name": "hvh",
       "Steam": "76561199805557263",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "hellboy",
+      "Steam": "76561199781149398",
+      "Score": 0,
+      "Time": "01:53"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 0,
-      "Time": "12:22"
+      "Score": 15,
+      "Time": "14:22"
     },
     {
       "Name": "dolorem aeterna",
       "Steam": "76561199806232223",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
       "Score": 0,
-      "Time": "358:03"
+      "Time": "360:03"
     }
   ]
 }
