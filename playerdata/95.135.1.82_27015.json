@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-19T11:04:27.3282486Z",
+  "Time": "2026-04-19T11:05:28.0540397Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "Mjay",
+      "Steam": "76561199237707727",
+      "Score": 7,
+      "Time": "02:27"
+    },
+    {
+      "Name": "global",
+      "Steam": "76561199011320422",
       "Score": 0,
+      "Time": "1031:07"
+    },
+    {
+      "Name": "s0     Crown",
+      "Steam": "76561199888214382",
+      "Score": 0,
+      "Time": "899:33"
+    },
+    {
+      "Name": "HvH legend",
+      "Steam": "76561198723802713",
+      "Score": 3,
       "Time": "??:??"
     },
     {
-      "Name": "mreowers",
-      "Steam": "76561198718805768",
-      "Score": 24,
-      "Time": "30:35"
+      "Name": "zwierzu",
+      "Steam": "76561199046971154",
+      "Score": 5,
+      "Time": "22:56"
     },
     {
-      "Name": "Apolexik",
-      "Steam": "76561199654381196",
-      "Score": 4,
+      "Name": "miguelhermanomartinezrodriguez",
+      "Steam": "76561199042138318",
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "skeetless = not human (◣_◢)",
-      "Steam": "76561199136389558",
-      "Score": 42,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Louis",
-      "Steam": "76561198784660557",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Kurokendrick",
-      "Steam": "76561199479790668",
-      "Score": 16,
-      "Time": "80:40"
+      "Name": "tymo",
+      "Steam": "76561199425592793",
+      "Score": 5,
+      "Time": "61:51"
     }
   ]
 }
