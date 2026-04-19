@@ -1,41 +1,35 @@
 {
-  "Time": "2026-04-19T03:23:23.2215718Z",
+  "Time": "2026-04-19T03:25:23.240189Z",
   "Players": [
-    {
-      "Name": "dandelions",
-      "Steam": "76561199876077209",
-      "Score": 13,
-      "Time": "35:28"
-    },
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 23,
-      "Time": "192:51"
+      "Score": 0,
+      "Time": "194:52"
     },
     {
       "Name": "hvh",
       "Steam": "76561199805557263",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Agent 47",
-      "Steam": "76561198843785514",
-      "Score": 32,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 22,
-      "Time": "10:22"
+      "Score": 0,
+      "Time": "12:22"
+    },
+    {
+      "Name": "dolorem aeterna",
+      "Steam": "76561199806232223",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 6,
-      "Time": "356:03"
+      "Score": 0,
+      "Time": "358:03"
     }
   ]
 }
