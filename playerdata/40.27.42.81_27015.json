@@ -1,46 +1,52 @@
 {
-  "Time": "2026-04-19T01:01:22.9250642Z",
+  "Time": "2026-04-19T01:03:22.922834Z",
   "Players": [
     {
       "Name": "dandelions",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "278:00"
+      "Time": "280:00"
+    },
+    {
+      "Name": "enrage",
+      "Steam": "76561198770772802",
+      "Score": 9,
+      "Time": "00:13"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 152,
+      "Score": 162,
       "Time": "??:??"
     },
     {
-      "Name": "hiatusdev",
-      "Steam": "76561198713703889",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "decisive",
+      "Name": "shot4",
       "Steam": "76561198776113379",
       "Score": 52,
-      "Time": "39:38"
+      "Time": "41:38"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 52,
-      "Time": "28:50"
+      "Score": 56,
+      "Time": "30:50"
+    },
+    {
+      "Name": "gamer #VILLAINOUS",
+      "Steam": "76561199077511002",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "poet",
       "Steam": "76561199119311936",
-      "Score": 7,
-      "Time": "07:04"
+      "Score": 2,
+      "Time": "09:04"
     },
     {
       "Name": "Ashie",
       "Steam": "76561198450427497",
-      "Score": 34,
+      "Score": 43,
       "Time": "??:??"
     }
   ]
