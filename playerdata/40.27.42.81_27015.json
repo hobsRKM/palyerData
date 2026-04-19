@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-19T14:29:19.4511809Z",
+  "Time": "2026-04-19T14:31:19.459546Z",
   "Players": [
     {
       "Name": "Noki",
       "Steam": "76561199780984400",
-      "Score": 47,
-      "Time": "32:28"
+      "Score": 0,
+      "Time": "34:28"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 68,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "shaded",
+      "Steam": "76561199864053828",
+      "Score": 0,
+      "Time": "00:03"
     },
     {
       "Name": "cruzdevlin61",
       "Steam": "76561198731373156",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 12,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "01:24"
     }
   ]
 }
