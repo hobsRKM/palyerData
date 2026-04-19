@@ -1,64 +1,82 @@
 {
-  "Time": "2026-04-19T09:00:27.3357235Z",
+  "Time": "2026-04-19T09:01:28.0222077Z",
   "Players": [
     {
-      "Name": "\"'",
-      "Steam": "76561199028888055",
+      "Name": "yuki",
+      "Steam": "76561198724255562",
+      "Score": 47,
+      "Time": "13:34"
+    },
+    {
+      "Name": "tymo",
+      "Steam": "76561199425592793",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "farfurie",
+      "Steam": "76561199845939993",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "uectu90247",
-      "Steam": "76561198717567179",
-      "Score": 14,
-      "Time": "29:22"
-    },
-    {
-      "Name": "67 52 cartelix",
-      "Steam": "76561198713451946",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mreowers",
-      "Steam": "76561198718805768",
-      "Score": 31,
-      "Time": "17:16"
-    },
-    {
-      "Name": "c++",
-      "Steam": "76561199507517037",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Infantrit",
-      "Steam": "76561199827876555",
-      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "pphd",
       "Steam": "76561198771665316",
-      "Score": 26,
-      "Time": "60:06"
+      "Score": 2,
+      "Time": "901:08"
     },
     {
-      "Name": "HopeKaputt",
-      "Steam": "76561199019528299",
-      "Score": 12,
-      "Time": "48:36"
-    },
-    {
-      "Name": "passive",
-      "Steam": "76561199849345621",
+      "Name": "Apolexik",
+      "Steam": "76561199654381196",
       "Score": 8,
+      "Time": "806:57"
+    },
+    {
+      "Name": "pula mit a",
+      "Steam": "76561198725474291",
+      "Score": 17,
       "Time": "??:??"
     },
     {
-      "Name": "donk666",
-      "Steam": "76561198720071182",
+      "Name": "global",
+      "Steam": "76561199011320422",
       "Score": 0,
+      "Time": "907:07"
+    },
+    {
+      "Name": "matsäs",
+      "Steam": "76561199842002650",
+      "Score": 79,
+      "Time": "42:10"
+    },
+    {
+      "Name": "Jennie",
+      "Steam": "76561199604645768",
+      "Score": 10,
+      "Time": "03:42"
+    },
+    {
+      "Name": "Space Nomad",
+      "Steam": "76561198160571123",
+      "Score": 77,
+      "Time": "1233:14"
+    },
+    {
+      "Name": "Unknown Player",
+      "Steam": "76561198721609996",
+      "Score": 10,
+      "Time": "13:04"
+    },
+    {
+      "Name": "Nope",
+      "Steam": "76561198141397226",
+      "Score": 16,
+      "Time": "11:08"
+    },
+    {
+      "Name": "fade",
+      "Steam": "76561198781872423",
+      "Score": 82,
       "Time": "??:??"
     }
   ]
