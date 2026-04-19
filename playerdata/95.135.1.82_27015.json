@@ -1,65 +1,77 @@
 {
-  "Time": "2026-04-19T09:05:28.0128736Z",
+  "Time": "2026-04-19T09:07:28.0260225Z",
   "Players": [
     {
       "Name": "yuki",
       "Steam": "76561198724255562",
-      "Score": 6,
-      "Time": "17:34"
+      "Score": 18,
+      "Time": "19:34"
     },
     {
       "Name": "pphd",
       "Steam": "76561198771665316",
-      "Score": 2,
-      "Time": "905:08"
+      "Score": 8,
+      "Time": "907:08"
     },
     {
       "Name": "Apolexik",
       "Steam": "76561199654381196",
       "Score": 0,
-      "Time": "810:57"
+      "Time": "812:57"
+    },
+    {
+      "Name": "SPRITHACK 2019",
+      "Steam": "76561198715669492",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "c0smo",
+      "Steam": "76561199817731606",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "pula mit a",
       "Steam": "76561198725474291",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "global",
       "Steam": "76561199011320422",
       "Score": 0,
-      "Time": "911:07"
+      "Time": "913:07"
     },
     {
       "Name": "Jennie",
       "Steam": "76561199604645768",
-      "Score": 2,
-      "Time": "07:42"
+      "Score": 8,
+      "Time": "09:42"
     },
     {
-      "Name": "Space Nomad",
-      "Steam": "76561198160571123",
+      "Name": "Azlor",
+      "Steam": "76561198753452880",
       "Score": 0,
-      "Time": "1237:14"
+      "Time": "??:??"
     },
     {
-      "Name": "Spect",
+      "Name": "Spectra",
       "Steam": "76561198721609996",
-      "Score": 3,
-      "Time": "17:04"
+      "Score": 7,
+      "Time": "19:04"
     },
     {
       "Name": "Monkey",
       "Steam": "76561198712790870",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Nope",
       "Steam": "76561198141397226",
       "Score": 0,
-      "Time": "15:08"
+      "Time": "17:08"
     }
   ]
 }
