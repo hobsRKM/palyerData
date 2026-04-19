@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-19T04:19:23.5372168Z",
+  "Time": "2026-04-19T04:21:23.562939Z",
   "Players": [
+    {
+      "Name": "Jegu21",
+      "Steam": "76561199810090537",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 40,
-      "Time": "43:47"
+      "Score": 42,
+      "Time": "45:47"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 66,
-      "Time": "145:56"
+      "Score": 76,
+      "Time": "147:56"
     },
     {
       "Name": "stop da beat lets get som to get",
@@ -22,38 +28,32 @@
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 75,
-      "Time": "444:46"
-    },
-    {
-      "Name": "haZe",
-      "Steam": "76561199851380611",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 80,
+      "Time": "446:46"
     },
     {
       "Name": "Riot",
       "Steam": "76561199319438624",
-      "Score": 58,
-      "Time": "104:08"
+      "Score": 62,
+      "Time": "106:08"
     },
     {
       "Name": "Ashie",
       "Steam": "76561198450427497",
-      "Score": 46,
-      "Time": "30:45"
+      "Score": 52,
+      "Time": "32:45"
     },
     {
       "Name": "[ 16k ]",
       "Steam": "76561197997861364",
-      "Score": 18,
-      "Time": "04:18"
+      "Score": 19,
+      "Time": "06:18"
     }
   ]
 }
