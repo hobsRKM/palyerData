@@ -1,35 +1,53 @@
 {
-  "Time": "2026-04-19T03:27:23.2379939Z",
+  "Time": "2026-04-19T03:29:23.2421482Z",
   "Players": [
+    {
+      "Name": "fuze",
+      "Steam": "76561199273977862",
+      "Score": 2,
+      "Time": "01:11"
+    },
+    {
+      "Name": "knkhesapgg67",
+      "Steam": "76561198715265470",
+      "Score": 0,
+      "Time": "00:27"
+    },
     {
       "Name": "hvh",
       "Steam": "76561199805557263",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "hellboy",
       "Steam": "76561199781149398",
-      "Score": 0,
-      "Time": "01:53"
+      "Score": 2,
+      "Time": "03:53"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 15,
-      "Time": "14:22"
+      "Score": 0,
+      "Time": "16:22"
     },
     {
       "Name": "dolorem aeterna",
       "Steam": "76561199806232223",
-      "Score": 6,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ioanacristache841",
+      "Steam": "76561199834069194",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 0,
-      "Time": "360:03"
+      "Score": 9,
+      "Time": "362:03"
     }
   ]
 }
