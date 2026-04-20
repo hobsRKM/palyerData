@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-20T15:15:02.7568415Z",
+  "Time": "2026-04-20T15:17:02.7582364Z",
   "Players": [
     {
       "Name": "0000",
@@ -8,10 +8,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "Glow",
+      "Steam": "76561198767801767",
+      "Score": 6,
+      "Time": "01:39"
+    },
+    {
       "Name": "Cummer",
       "Steam": "76561199446263993",
       "Score": 0,
-      "Time": "77:06"
+      "Time": "79:06"
     },
     {
       "Name": "Riot",
@@ -20,33 +26,21 @@
       "Time": "??:??"
     },
     {
-      "Name": "☮",
-      "Steam": "76561199830118913",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
       "Name": "Tre",
       "Steam": "76561198758593147",
-      "Score": 67,
-      "Time": "??:??"
+      "Score": 75,
+      "Time": "00:17"
     },
     {
       "Name": "Come Eat Lobster with a monster",
       "Steam": "76561199055238878",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "x_x",
-      "Steam": "76561198765641530",
-      "Score": 25,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
-      "Score": 49,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -58,8 +52,14 @@
     {
       "Name": "angel",
       "Steam": "76561199798812373",
+      "Score": 4,
+      "Time": "04:29"
+    },
+    {
+      "Name": "Zombie",
+      "Steam": "76561198770884778",
       "Score": 0,
-      "Time": "02:29"
+      "Time": "??:??"
     }
   ]
 }
