@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-20T02:05:19.6594686Z",
+  "Time": "2026-04-20T02:07:19.6636897Z",
   "Players": [
     {
       "Name": "a user",
@@ -10,32 +10,38 @@
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 8,
-      "Time": "29:43"
+      "Score": 2,
+      "Time": "31:43"
     },
     {
       "Name": "Tre",
       "Steam": "76561198758593147",
-      "Score": 51,
-      "Time": "18:57"
+      "Score": 59,
+      "Time": "20:57"
+    },
+    {
+      "Name": "DXVXD",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "106:59"
     },
     {
       "Name": "vazhakov",
       "Steam": "76561198726201871",
-      "Score": 2,
-      "Time": "08:15"
+      "Score": 4,
+      "Time": "10:15"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 26,
-      "Time": "117:59"
+      "Score": 34,
+      "Time": "119:59"
     }
   ]
 }
