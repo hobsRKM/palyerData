@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-20T04:01:20.1525194Z",
+  "Time": "2026-04-20T04:03:20.1403133Z",
   "Players": [
     {
       "Name": "Riot",
       "Steam": "76561199319438624",
-      "Score": 16,
-      "Time": "24:37"
+      "Score": 22,
+      "Time": "26:37"
     },
     {
       "Name": "Limits",
       "Steam": "76561198991644366",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "ihavesmollpp",
+      "Steam": "76561199209588405",
+      "Score": 6,
+      "Time": "402:44"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
       "Score": 0,
-      "Time": "94:57"
+      "Time": "96:57"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
       "Score": 22,
-      "Time": "81:27"
+      "Time": "83:27"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 0,
-      "Time": "63:00"
+      "Score": 18,
+      "Time": "65:00"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 3,
-      "Time": "37:27"
+      "Score": 0,
+      "Time": "39:27"
     }
   ]
 }
