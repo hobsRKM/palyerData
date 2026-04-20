@@ -1,11 +1,17 @@
 {
-  "Time": "2026-04-20T00:01:19.4821883Z",
+  "Time": "2026-04-20T00:03:19.4866839Z",
   "Players": [
+    {
+      "Name": "hey!",
+      "Steam": "76561198712344332",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 24,
-      "Time": "47:26"
+      "Score": 34,
+      "Time": "49:26"
     },
     {
       "Name": "Ace",
@@ -29,37 +35,31 @@
       "Name": "mikasa",
       "Steam": "76561198782084625",
       "Score": 2,
-      "Time": "03:49"
+      "Time": "05:49"
     },
     {
       "Name": "ouo",
       "Steam": "76561198740368974",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "hhhhhhhhhhhhh",
-      "Steam": "76561199588811334",
-      "Score": 4,
-      "Time": "06:08"
     },
     {
       "Name": "*Adderallzx",
       "Steam": "76561198255621800",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561198166519466",
-      "Score": 29,
-      "Time": "04:05"
+      "Score": 42,
+      "Time": "06:05"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 50,
-      "Time": "28:35"
+      "Score": 56,
+      "Time": "30:35"
     },
     {
       "Name": "v0n0",
@@ -70,26 +70,26 @@
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 1,
-      "Time": "06:53"
+      "Score": 2,
+      "Time": "08:53"
     },
     {
       "Name": "duckyy",
       "Steam": "76561198419316463",
-      "Score": 18,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "2026",
       "Steam": "76561198072734729",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 38,
-      "Time": "34:41"
+      "Time": "36:41"
     }
   ]
 }
