@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-20T18:51:02.752265Z",
+  "Time": "2026-04-20T18:53:02.7575131Z",
   "Players": [
     {
       "Name": "BOT Clarence",
       "Steam": "76561199050170734",
-      "Score": 25,
-      "Time": "07:29"
+      "Score": 0,
+      "Time": "09:29"
+    },
+    {
+      "Name": "Come Eat Lobster with a monster",
+      "Steam": "76561199055238878",
+      "Score": 0,
+      "Time": "01:55"
     },
     {
       "Name": "cruzdevlin61",
       "Steam": "76561198731373156",
-      "Score": 59,
-      "Time": "31:46"
+      "Score": 6,
+      "Time": "33:46"
     },
     {
       "Name": "gerbert",
@@ -22,32 +28,26 @@
     {
       "Name": "P",
       "Steam": "76561199828563808",
-      "Score": 90,
-      "Time": "46:49"
+      "Score": 0,
+      "Time": "48:49"
     },
     {
       "Name": "Pookie",
       "Steam": "76561199880670823",
-      "Score": 66,
-      "Time": "107:16"
+      "Score": 4,
+      "Time": "109:16"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 109,
-      "Time": "21:14"
+      "Score": 0,
+      "Time": "23:14"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199873394300",
-      "Score": 91,
+      "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "paste user",
-      "Steam": "76561198715686293",
-      "Score": 6,
-      "Time": "12:12"
     }
   ]
 }
