@@ -1,53 +1,53 @@
 {
-  "Time": "2026-04-20T01:49:19.670119Z",
+  "Time": "2026-04-20T01:51:19.6587123Z",
   "Players": [
     {
       "Name": "Anne frank",
       "Steam": "76561199745812089",
-      "Score": 28,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "*Adderallzx",
       "Steam": "76561198255621800",
       "Score": 0,
-      "Time": "42:34"
+      "Time": "44:34"
+    },
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 0,
+      "Time": "00:22"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 43,
-      "Time": "13:43"
+      "Score": 47,
+      "Time": "15:43"
     },
     {
       "Name": "Tre",
       "Steam": "76561198758593147",
-      "Score": 22,
-      "Time": "02:57"
+      "Score": 25,
+      "Time": "04:57"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 67,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 86,
-      "Time": "33:20"
-    },
-    {
-      "Name": "zey",
-      "Steam": "76561199433156244",
-      "Score": 3,
-      "Time": "09:10"
+      "Score": 106,
+      "Time": "35:20"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 56,
-      "Time": "101:59"
+      "Score": 66,
+      "Time": "103:59"
     }
   ]
 }
