@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-20T19:01:02.7491482Z",
+  "Time": "2026-04-20T19:03:02.7649247Z",
   "Players": [
+    {
+      "Name": "Alpha",
+      "Steam": "76561199011950396",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Come Eat Lobster with a monster",
       "Steam": "76561199055238878",
-      "Score": 16,
-      "Time": "09:55"
+      "Score": 20,
+      "Time": "11:55"
     },
     {
       "Name": "cruzdevlin61",
       "Steam": "76561198731373156",
-      "Score": 10,
-      "Time": "41:46"
+      "Score": 12,
+      "Time": "43:46"
     },
     {
       "Name": "gerbert",
@@ -23,24 +29,18 @@
       "Name": "P",
       "Steam": "76561199828563808",
       "Score": 17,
-      "Time": "56:49"
-    },
-    {
-      "Name": "Pookie",
-      "Steam": "76561199880670823",
-      "Score": 18,
-      "Time": "117:16"
+      "Time": "58:49"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 28,
-      "Time": "31:14"
+      "Score": 36,
+      "Time": "33:14"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199873394300",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     }
   ]
