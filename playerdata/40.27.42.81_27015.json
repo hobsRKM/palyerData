@@ -1,53 +1,65 @@
 {
-  "Time": "2026-04-20T02:09:19.6683247Z",
+  "Time": "2026-04-20T02:11:19.6681372Z",
   "Players": [
     {
-      "Name": "mistPalix.lua user",
+      "Name": "\uD835\uDCF5\uD835\uDCF2\uD835\uDCFD\uD835\uDD02.\uD835\uDD00\uD835\uDCF2\uD835\uDCF7 mistralix.lu user",
       "Steam": "76561199745812089",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Kenny",
       "Steam": "76561199338121392",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Moon",
+      "Steam": "76561199500540261",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 4,
-      "Time": "33:43"
+      "Score": 6,
+      "Time": "35:43"
     },
     {
       "Name": "Tre",
       "Steam": "76561198758593147",
-      "Score": 63,
-      "Time": "22:57"
+      "Score": 65,
+      "Time": "24:57"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
       "Score": 0,
-      "Time": "108:59"
+      "Time": "110:59"
     },
     {
       "Name": "vazhakov",
       "Steam": "76561198726201871",
-      "Score": 4,
-      "Time": "12:15"
+      "Score": 6,
+      "Time": "14:15"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 0,
+      "Time": "00:32"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 38,
-      "Time": "121:59"
+      "Score": 41,
+      "Time": "123:59"
     }
   ]
 }
