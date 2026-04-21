@@ -1,29 +1,41 @@
 {
-  "Time": "2026-04-21T00:43:02.7800038Z",
+  "Time": "2026-04-21T00:45:02.781764Z",
   "Players": [
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 63,
+      "Score": 67,
       "Time": "??:??"
+    },
+    {
+      "Name": "[478] Unholy",
+      "Steam": "76561199780984400",
+      "Score": 0,
+      "Time": "02:03"
     },
     {
       "Name": "Steve",
       "Steam": "76561198713857050",
-      "Score": 47,
-      "Time": "49:43"
+      "Score": 51,
+      "Time": "51:43"
+    },
+    {
+      "Name": "radiance.lua Glow",
+      "Steam": "76561198767801767",
+      "Score": 4,
+      "Time": "01:52"
     },
     {
       "Name": "Stupid Fag",
       "Steam": "76561198729671616",
-      "Score": 48,
-      "Time": "114:30"
+      "Score": 52,
+      "Time": "116:30"
     },
     {
       "Name": ":/_<",
       "Steam": "76561198715057614",
-      "Score": 34,
-      "Time": "59:10"
+      "Score": 40,
+      "Time": "61:10"
     }
   ]
 }
