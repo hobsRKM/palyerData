@@ -1,16 +1,28 @@
 {
-  "Time": "2026-04-22T08:39:13.6805119Z",
+  "Time": "2026-04-22T08:41:13.6858616Z",
   "Players": [
     {
       "Name": "x_x",
       "Steam": "76561198765641530",
-      "Score": 10,
-      "Time": "12:09"
+      "Score": 20,
+      "Time": "14:09"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 48,
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "onyu",
+      "Steam": "76561198726169839",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "benjamin nethanyahu",
+      "Steam": "76561198710979005",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
