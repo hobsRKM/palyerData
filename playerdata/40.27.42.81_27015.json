@@ -1,23 +1,23 @@
 {
-  "Time": "2026-04-22T18:07:16.1103032Z",
+  "Time": "2026-04-22T18:09:16.1158632Z",
   "Players": [
     {
       "Name": "lost in abstraction",
       "Steam": "76561199511328930",
-      "Score": 0,
-      "Time": "00:34"
+      "Score": 2,
+      "Time": "02:34"
     },
     {
       "Name": "disco",
       "Steam": "76561198716614646",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Isopropyl",
       "Steam": "76561199193752938",
-      "Score": 9,
-      "Time": "18:15"
+      "Score": 14,
+      "Time": "20:15"
     },
     {
       "Name": "Sakora",
@@ -28,7 +28,13 @@
     {
       "Name": "Glow",
       "Steam": "76561198767801767",
-      "Score": 9,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "YouSuckSoBad",
+      "Steam": "76561198715783890",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
