@@ -1,29 +1,29 @@
 {
-  "Time": "2026-04-22T20:37:16.1227842Z",
+  "Time": "2026-04-22T20:39:16.1215942Z",
   "Players": [
     {
       "Name": "lost in abstraction",
       "Steam": "76561199511328930",
-      "Score": 33,
-      "Time": "07:41"
+      "Score": 40,
+      "Time": "09:41"
+    },
+    {
+      "Name": "comfortable",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Stupid Fag",
       "Steam": "76561198729671616",
-      "Score": 11,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "person",
       "Steam": "76561198714398536",
       "Score": 16,
-      "Time": "05:38"
-    },
-    {
-      "Name": "DANIL KALBASENKO",
-      "Steam": "76561199773692342",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "07:38"
     },
     {
       "Name": "skid",
@@ -34,32 +34,44 @@
     {
       "Name": "mugm",
       "Steam": "76561198715591492",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Riot",
       "Steam": "76561199319438624",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Isopropyl",
       "Steam": "76561199193752938",
-      "Score": 4,
-      "Time": "67:12"
+      "Score": 5,
+      "Time": "69:12"
+    },
+    {
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 10,
+      "Time": "??:??"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
+      "Score": 11,
+      "Time": "03:08"
+    },
+    {
+      "Name": "kain3",
+      "Steam": "76561199634909491",
       "Score": 1,
-      "Time": "01:08"
+      "Time": "01:15"
     }
   ]
 }
