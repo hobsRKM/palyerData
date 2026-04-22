@@ -1,27 +1,27 @@
 {
-  "Time": "2026-04-22T08:41:13.6858616Z",
+  "Time": "2026-04-22T08:43:13.6890265Z",
   "Players": [
+    {
+      "Name": "the chosen one",
+      "Steam": "76561198806792145",
+      "Score": 0,
+      "Time": "00:54"
+    },
     {
       "Name": "x_x",
       "Steam": "76561198765641530",
-      "Score": 20,
-      "Time": "14:09"
+      "Score": 30,
+      "Time": "16:09"
     },
     {
       "Name": "haunted",
       "Steam": "76561198829222666",
-      "Score": 58,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "onyu",
       "Steam": "76561198726169839",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "benjamin nethanyahu",
-      "Steam": "76561198710979005",
       "Score": 0,
       "Time": "??:??"
     }
