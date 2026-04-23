@@ -1,77 +1,71 @@
 {
-  "Time": "2026-04-23T20:33:22.1905408Z",
+  "Time": "2026-04-23T20:35:22.1852515Z",
   "Players": [
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 58,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "discombobulator.",
       "Steam": "76561199795959105",
-      "Score": 12,
-      "Time": "04:13"
+      "Score": 13,
+      "Time": "06:13"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 33,
-      "Time": "14:59"
+      "Score": 44,
+      "Time": "16:59"
     },
     {
-      "Name": "Socrates",
-      "Steam": "76561198716380120",
-      "Score": 42,
-      "Time": "??:??"
-    },
-    {
-      "Name": "[687] entity",
+      "Name": "[Mon] entity",
       "Steam": "76561198984848627",
-      "Score": 2,
-      "Time": "05:56"
+      "Score": 6,
+      "Time": "07:56"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "playbot.lua",
       "Steam": "76561198739107926",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Verruckt",
       "Steam": "76561198097853975",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "im going to steal all your money",
       "Steam": "76561199873328199",
-      "Score": 69,
-      "Time": "22:57"
-    },
-    {
-      "Name": "Rsoo",
-      "Steam": "76561198778373723",
-      "Score": 0,
-      "Time": "09:17"
+      "Score": 77,
+      "Time": "24:57"
     },
     {
       "Name": "Huevito rey",
       "Steam": "76561198294467921",
-      "Score": 8,
-      "Time": "12:19"
+      "Score": 12,
+      "Time": "14:19"
+    },
+    {
+      "Name": "322",
+      "Steam": "76561199273547832",
+      "Score": 2,
+      "Time": "00:47"
     },
     {
       "Name": "wolfe",
       "Steam": "76561199097243449",
-      "Score": 11,
-      "Time": "03:22"
+      "Score": 13,
+      "Time": "05:22"
     }
   ]
 }
