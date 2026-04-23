@@ -1,35 +1,53 @@
 {
-  "Time": "2026-04-23T22:38:01.8800482Z",
+  "Time": "2026-04-23T22:38:18.1952162Z",
   "Players": [
     {
-      "Name": "*",
-      "Steam": "76561198724188430",
+      "Name": "\"'",
+      "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "you never listened to me",
+      "Steam": "76561198718062555",
+      "Score": 43,
+      "Time": "635:41"
+    },
+    {
+      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
+      "Steam": "76561199547514723",
       "Score": 8,
-      "Time": "615:48"
-    },
-    {
-      "Name": "memesense      SuperDoG",
-      "Steam": "76561198780246863",
-      "Score": 14,
       "Time": "??:??"
     },
     {
-      "Name": "kenami",
-      "Steam": "76561199550040414",
-      "Score": 8,
-      "Time": "??:??"
+      "Name": "\uD835\uDE65\uD835\uDE56\uD835\uDE68\uD835\uDE68\uD835\uDE5E\uD835\uDE6B\uD835\uDE5A",
+      "Steam": "76561199849345621",
+      "Score": 46,
+      "Time": "115:05"
     },
     {
-      "Name": "Claude",
-      "Steam": "76561198726655992",
-      "Score": 3,
-      "Time": "139:20"
+      "Name": "Marek",
+      "Steam": "76561199835357684",
+      "Score": 42,
+      "Time": "17:32"
     },
     {
-      "Name": "[Monolith] Dispnser",
-      "Steam": "76561199369448732",
-      "Score": 3,
-      "Time": "??:??"
+      "Name": "1987",
+      "Steam": "76561199859670532",
+      "Score": 30,
+      "Time": "47:15"
+    },
+    {
+      "Name": "Priest",
+      "Steam": "76561199867937863",
+      "Score": 63,
+      "Time": "164:46"
+    },
+    {
+      "Name": "checkmate",
+      "Steam": "76561199023446425",
+      "Score": 9,
+      "Time": "04:55"
     }
   ]
 }
