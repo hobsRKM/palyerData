@@ -1,28 +1,28 @@
 {
-  "Time": "2026-04-23T20:23:22.1876752Z",
+  "Time": "2026-04-23T20:25:22.1880253Z",
   "Players": [
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 9,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 0,
-      "Time": "04:59"
+      "Score": 2,
+      "Time": "06:59"
     },
     {
       "Name": "Socrates",
       "Steam": "76561198716380120",
-      "Score": 4,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 2,
+      "Score": 9,
       "Time": "??:??"
     },
     {
@@ -34,38 +34,44 @@
     {
       "Name": "playbot.lua",
       "Steam": "76561198739107926",
-      "Score": 3,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "JK",
       "Steam": "76561199742917009",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Verruckt",
       "Steam": "76561198097853975",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "im going to steal all your money",
       "Steam": "76561199873328199",
-      "Score": 10,
-      "Time": "12:57"
+      "Score": 18,
+      "Time": "14:57"
     },
     {
       "Name": "Huevito rey",
       "Steam": "76561198294467921",
-      "Score": 0,
-      "Time": "02:19"
+      "Score": 2,
+      "Time": "04:19"
+    },
+    {
+      "Name": "fake Kult",
+      "Steam": "76561199492834313",
+      "Score": 3,
+      "Time": "02:02"
     },
     {
       "Name": "322",
       "Steam": "76561199273547832",
-      "Score": 1,
-      "Time": "43:35"
+      "Score": 2,
+      "Time": "45:35"
     }
   ]
 }
