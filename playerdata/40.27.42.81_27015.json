@@ -1,47 +1,35 @@
 {
-  "Time": "2026-04-23T18:47:22.183164Z",
+  "Time": "2026-04-23T18:49:22.1901801Z",
   "Players": [
     {
       "Name": "fish",
       "Steam": "76561199853989090",
-      "Score": 33,
-      "Time": "56:16"
+      "Score": 0,
+      "Time": "58:16"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 72,
-      "Time": "29:12"
+      "Score": 0,
+      "Time": "31:12"
     },
     {
       "Name": "Joey Bean",
       "Steam": "76561198171076445",
-      "Score": 65,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "choppa",
       "Steam": "76561198743474205",
-      "Score": 67,
-      "Time": "16:54"
-    },
-    {
-      "Name": "LeaLea",
-      "Steam": "76561199319414622",
-      "Score": 46,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "18:54"
     },
     {
       "Name": "322",
       "Steam": "76561199273547832",
-      "Score": 5,
-      "Time": "04:48"
-    },
-    {
-      "Name": "mr.robot",
-      "Steam": "76561198766634121",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "06:48"
     }
   ]
 }
