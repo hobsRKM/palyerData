@@ -1,34 +1,34 @@
 {
-  "Time": "2026-04-23T21:15:22.1930674Z",
+  "Time": "2026-04-23T21:17:22.1921081Z",
   "Players": [
-    {
-      "Name": "nrv",
-      "Steam": "76561198166519466",
-      "Score": 18,
-      "Time": "02:49"
-    },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 43,
-      "Time": "56:59"
+      "Score": 51,
+      "Time": "58:59"
+    },
+    {
+      "Name": "Xflagella",
+      "Steam": "76561198086515802",
+      "Score": 8,
+      "Time": "??:??"
     },
     {
       "Name": "playbot.lua",
       "Steam": "76561198739107926",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "JK",
       "Steam": "76561199742917009",
       "Score": 35,
-      "Time": "19:11"
+      "Time": "21:11"
     },
     {
       "Name": "jaeychino",
       "Steam": "76561198722865548",
-      "Score": 52,
+      "Score": 57,
       "Time": "??:??"
     },
     {
@@ -36,6 +36,24 @@
       "Steam": "76561199625342893",
       "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "whats there to stress",
+      "Steam": "76561198740102165",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "speed",
+      "Steam": "76561198725540037",
+      "Score": 8,
+      "Time": "01:07"
+    },
+    {
+      "Name": "kAne",
+      "Steam": "76561198393113930",
+      "Score": 1,
+      "Time": "01:31"
     }
   ]
 }
