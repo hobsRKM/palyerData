@@ -1,65 +1,59 @@
 {
-  "Time": "2026-04-23T20:37:22.1870356Z",
+  "Time": "2026-04-23T20:39:22.1828383Z",
   "Players": [
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 91,
+      "Score": 101,
       "Time": "??:??"
     },
     {
       "Name": "discombobulator.",
       "Steam": "76561199795959105",
-      "Score": 15,
-      "Time": "08:13"
+      "Score": 24,
+      "Time": "10:13"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 48,
-      "Time": "18:59"
+      "Score": 52,
+      "Time": "20:59"
     },
     {
-      "Name": "[Monolith] entity",
+      "Name": "[687] entity",
       "Steam": "76561198984848627",
-      "Score": 11,
-      "Time": "09:56"
-    },
-    {
-      "Name": "ru",
-      "Steam": "76561198752304739",
-      "Score": 34,
-      "Time": "??:??"
+      "Score": 15,
+      "Time": "11:56"
     },
     {
       "Name": "playbot.lua",
       "Steam": "76561198739107926",
-      "Score": 41,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Verruckt",
       "Steam": "76561198097853975",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "Huevito rey",
       "Steam": "76561198294467921",
-      "Score": 4,
-      "Time": "16:19"
+      "Score": 7,
+      "Time": "18:19"
     },
     {
       "Name": "322",
       "Steam": "76561199273547832",
-      "Score": 2,
-      "Time": "02:47"
+      "Score": 0,
+      "Time": "04:47"
     },
     {
       "Name": "wolfe",
       "Steam": "76561199097243449",
-      "Score": 16,
-      "Time": "07:22"
+      "Score": 22,
+      "Time": "09:22"
     }
   ]
 }
