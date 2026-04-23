@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-23T06:55:06.3748749Z",
+  "Time": "2026-04-23T06:57:06.3799175Z",
   "Players": [
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 46,
-      "Time": "44:15"
+      "Score": 56,
+      "Time": "46:15"
     },
     {
       "Name": "o6orHaJl 6yraTTu Ha CaMoKaTe",
       "Steam": "76561198746412937",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 57,
-      "Time": "20:14"
+      "Score": 58,
+      "Time": "22:14"
     },
     {
       "Name": "Joey Bean",
       "Steam": "76561198171076445",
-      "Score": 39,
-      "Time": "46:33"
+      "Score": 45,
+      "Time": "48:33"
     }
   ]
 }
