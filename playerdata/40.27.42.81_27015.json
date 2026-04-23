@@ -1,83 +1,89 @@
 {
-  "Time": "2026-04-23T20:29:22.1867602Z",
+  "Time": "2026-04-23T20:31:22.1882986Z",
   "Players": [
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 35,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "discombobulator.",
       "Steam": "76561199795959105",
-      "Score": 0,
-      "Time": "00:13"
+      "Score": 4,
+      "Time": "02:13"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 8,
-      "Time": "10:59"
+      "Score": 18,
+      "Time": "12:59"
     },
     {
       "Name": "Socrates",
       "Steam": "76561198716380120",
-      "Score": 30,
+      "Score": 40,
       "Time": "??:??"
     },
     {
-      "Name": "[Mon] entity",
+      "Name": "[Monolith] entity",
       "Steam": "76561198984848627",
-      "Score": 2,
-      "Time": "01:56"
+      "Score": 8,
+      "Time": "03:56"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "playbot.lua",
       "Steam": "76561198739107926",
-      "Score": 19,
-      "Time": "??:??"
-    },
-    {
-      "Name": "JK",
-      "Steam": "76561199742917009",
-      "Score": 8,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Verruckt",
       "Steam": "76561198097853975",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "im going to steal all your money",
       "Steam": "76561199873328199",
-      "Score": 45,
-      "Time": "18:57"
+      "Score": 59,
+      "Time": "20:57"
+    },
+    {
+      "Name": "jumplikecrazy",
+      "Steam": "76561199015827988",
+      "Score": 9,
+      "Time": "??:??"
     },
     {
       "Name": "Huevito rey",
       "Steam": "76561198294467921",
-      "Score": 0,
-      "Time": "08:19"
+      "Score": 4,
+      "Time": "10:19"
     },
     {
       "Name": "i hate ahhholegaming",
       "Steam": "76561198296842645",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "322",
       "Steam": "76561199273547832",
+      "Score": 4,
+      "Time": "51:35"
+    },
+    {
+      "Name": "wolfe",
+      "Steam": "76561199097243449",
       "Score": 2,
-      "Time": "49:35"
+      "Time": "01:22"
     }
   ]
 }
