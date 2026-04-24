@@ -1,6 +1,18 @@
 {
-  "Time": "2026-04-24T01:03:22.2272733Z",
+  "Time": "2026-04-24T01:05:22.2335339Z",
   "Players": [
+    {
+      "Name": "kaine",
+      "Steam": "76561199634909491",
+      "Score": 0,
+      "Time": "00:55"
+    },
+    {
+      "Name": "Xflagella",
+      "Steam": "76561198086515802",
+      "Score": 4,
+      "Time": "01:52"
+    },
     {
       "Name": "stewbert",
       "Steam": "76561198799307603",
@@ -16,44 +28,44 @@
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 21,
-      "Time": "58:56"
+      "Score": 23,
+      "Time": "60:56"
     },
     {
       "Name": "Verruckt",
       "Steam": "76561198097853975",
-      "Score": 27,
-      "Time": "19:38"
+      "Score": 35,
+      "Time": "21:38"
     },
     {
       "Name": "JK",
       "Steam": "76561199742917009",
-      "Score": 6,
-      "Time": "11:13"
+      "Score": 9,
+      "Time": "13:13"
     },
     {
       "Name": "supremacy enjoyer",
       "Steam": "76561199792464561",
-      "Score": 51,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
       "Score": 4,
-      "Time": "01:07"
+      "Time": "03:07"
     },
     {
       "Name": "nottre-dame paris",
       "Steam": "76561199888302315",
-      "Score": 43,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "fake Kult",
       "Steam": "76561199492834313",
       "Score": 55,
-      "Time": "21:25"
+      "Time": "23:25"
     }
   ]
 }
