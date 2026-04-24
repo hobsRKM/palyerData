@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-24T01:23:22.2841244Z",
+  "Time": "2026-04-24T01:25:22.2790052Z",
   "Players": [
+    {
+      "Name": "Malik WARE",
+      "Steam": "76561199713182480",
+      "Score": 0,
+      "Time": "00:40"
+    },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199530521634",
@@ -11,48 +17,54 @@
       "Name": "Verruckt",
       "Steam": "76561198097853975",
       "Score": 3,
-      "Time": "39:38"
+      "Time": "41:38"
     },
     {
       "Name": "JK",
       "Steam": "76561199742917009",
       "Score": 10,
-      "Time": "31:13"
+      "Time": "33:13"
     },
     {
       "Name": "scat",
       "Steam": "76561198719360530",
-      "Score": 0,
-      "Time": "15:48"
+      "Score": 2,
+      "Time": "17:48"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 22,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "supremacy enjoyer",
       "Steam": "76561199792464561",
-      "Score": 39,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "anbaissjlqg",
       "Steam": "76561199717635750",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ice o lator",
       "Steam": "76561199756507474",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
+    },
+    {
+      "Name": "Simple",
+      "Steam": "76561198740191144",
+      "Score": 10,
+      "Time": "01:56"
     },
     {
       "Name": "nottre-dame paris",
       "Steam": "76561199888302315",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     }
   ]
