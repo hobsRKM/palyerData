@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-24T02:37:22.5076762Z",
+  "Time": "2026-04-24T02:39:22.5099946Z",
   "Players": [
+    {
+      "Name": "SypherXz",
+      "Steam": "76561199624274699",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 31,
-      "Time": "29:23"
+      "Score": 37,
+      "Time": "31:23"
     },
     {
       "Name": "ihavesmollpp",
       "Steam": "76561199209588405",
-      "Score": 20,
+      "Score": 34,
       "Time": "??:??"
     },
     {
@@ -22,14 +28,14 @@
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 35,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 24,
-      "Time": "23:12"
+      "Score": 28,
+      "Time": "25:12"
     }
   ]
 }
