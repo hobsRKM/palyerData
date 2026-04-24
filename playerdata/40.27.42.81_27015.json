@@ -1,40 +1,58 @@
 {
-  "Time": "2026-04-24T17:33:28.2382539Z",
+  "Time": "2026-04-24T17:35:28.2447939Z",
   "Players": [
+    {
+      "Name": "y",
+      "Steam": "76561199837114653",
+      "Score": 0,
+      "Time": "00:22"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561198723178008",
+      "Score": 3,
+      "Time": "00:43"
+    },
     {
       "Name": "[ am ]",
       "Steam": "76561199187190389",
-      "Score": 91,
+      "Score": 110,
       "Time": "??:??"
     },
     {
       "Name": "SypherXz",
       "Steam": "76561199624274699",
-      "Score": 46,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "P",
       "Steam": "76561199828563808",
-      "Score": 68,
+      "Score": 72,
       "Time": "??:??"
     },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 44,
-      "Time": "20:34"
+      "Score": 48,
+      "Time": "22:34"
+    },
+    {
+      "Name": "but you know... whatever",
+      "Steam": "76561198740102165",
+      "Score": 0,
+      "Time": "01:22"
     },
     {
       "Name": "[VAC Police] clexo",
       "Steam": "76561199837692295",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "lix.lua mistr user",
       "Steam": "76561199805980753",
-      "Score": 28,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
