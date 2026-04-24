@@ -1,10 +1,16 @@
 {
-  "Time": "2026-04-24T01:33:22.305298Z",
+  "Time": "2026-04-24T01:35:22.3045992Z",
   "Players": [
+    {
+      "Name": "BonQEQE",
+      "Steam": "76561198418443435",
+      "Score": 0,
+      "Time": "161:58"
+    },
     {
       "Name": "xd",
       "Steam": "76561198180065165",
-      "Score": 2,
+      "Score": 11,
       "Time": "??:??"
     },
     {
@@ -16,13 +22,13 @@
     {
       "Name": "Verruckt",
       "Steam": "76561198097853975",
-      "Score": 12,
-      "Time": "07:01"
+      "Score": 18,
+      "Time": "09:01"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 76,
+      "Score": 86,
       "Time": "??:??"
     },
     {
@@ -34,13 +40,13 @@
     {
       "Name": "Simple",
       "Steam": "76561198740191144",
-      "Score": 40,
-      "Time": "09:56"
+      "Score": 42,
+      "Time": "11:56"
     },
     {
       "Name": "nottre-dame paris",
       "Steam": "76561199888302315",
-      "Score": 42,
+      "Score": 48,
       "Time": "??:??"
     }
   ]
