@@ -1,16 +1,28 @@
 {
-  "Time": "2026-04-24T13:29:28.2352669Z",
+  "Time": "2026-04-24T13:31:28.2276301Z",
   "Players": [
     {
       "Name": "Anne frank",
       "Steam": "76561199745812089",
-      "Score": 4,
-      "Time": "04:49"
+      "Score": 8,
+      "Time": "06:49"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 16,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "im going to steal all your money",
+      "Steam": "76561199873328199",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BLACK",
+      "Steam": "76561199805945497",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
