@@ -1,47 +1,53 @@
 {
-  "Time": "2026-04-25T08:16:43.832377Z",
+  "Time": "2026-04-25T08:18:43.8255123Z",
   "Players": [
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 36,
-      "Time": "54:44"
+      "Score": 40,
+      "Time": "56:44"
     },
     {
       "Name": "cake",
       "Steam": "76561198712321279",
-      "Score": 84,
+      "Score": 85,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ntstatus",
+      "Steam": "76561199491603608",
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC73\uDB40\uDC73⁧Coffin",
       "Steam": "76561198143893089",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "root@null:~# netstat -anp",
       "Steam": "76561198713061040",
-      "Score": 29,
-      "Time": "11:44"
+      "Score": 32,
+      "Time": "13:44"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 121,
-      "Time": "34:44"
+      "Score": 135,
+      "Time": "36:44"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
       "Score": 0,
-      "Time": "218:24"
+      "Time": "220:24"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 6,
-      "Time": "209:40"
+      "Score": 7,
+      "Time": "211:40"
     }
   ]
 }
