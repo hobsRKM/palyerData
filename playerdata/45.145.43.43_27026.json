@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-25T15:24:48.4415749Z",
+  "Time": "2026-04-25T15:26:48.4440861Z",
   "Players": [
+    {
+      "Name": "Oi",
+      "Steam": "76561199856757593",
+      "Score": 0,
+      "Time": "01:17"
+    },
     {
       "Name": "neverwin",
       "Steam": "76561198718900750",
-      "Score": 42,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC",
       "Steam": "76561199818746549",
-      "Score": 36,
+      "Score": 46,
       "Time": "??:??"
     }
   ]
