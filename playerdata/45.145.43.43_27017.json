@@ -1,40 +1,46 @@
 {
-  "Time": "2026-04-25T20:33:20.9228264Z",
+  "Time": "2026-04-25T20:35:20.9284711Z",
   "Players": [
+    {
+      "Name": "Chico Bioca",
+      "Steam": "76561198124174636",
+      "Score": 0,
+      "Time": "00:59"
+    },
     {
       "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 17,
-      "Time": "28:08"
+      "Score": 34,
+      "Time": "30:08"
     },
     {
       "Name": "Tofuu",
       "Steam": "76561199094388949",
-      "Score": 31,
-      "Time": "327:25"
+      "Score": 37,
+      "Time": "329:25"
     },
     {
       "Name": "DragonDog",
       "Steam": "76561199132941531",
-      "Score": 30,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Zenox",
       "Steam": "76561199846375753",
       "Score": 11,
-      "Time": "42:11"
+      "Time": "44:11"
     },
     {
       "Name": "Alechandro :)",
       "Steam": "76561198016176310",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "wot tze fak",
       "Steam": "76561198715827900",
-      "Score": 28,
+      "Score": 32,
       "Time": "??:??"
     }
   ]
