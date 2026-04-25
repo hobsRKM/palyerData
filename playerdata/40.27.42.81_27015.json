@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-25T04:02:43.8232346Z",
+  "Time": "2026-04-25T04:04:43.822132Z",
   "Players": [
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "BOT Clarence",
       "Steam": "76561199050170734",
-      "Score": 57,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "Way 2 Sexy",
       "Steam": "76561199156395215",
       "Score": 14,
-      "Time": "06:32"
+      "Time": "08:32"
     },
     {
       "Name": "Anne frank",
       "Steam": "76561199745812089",
-      "Score": 31,
-      "Time": "44:15"
+      "Score": 35,
+      "Time": "46:15"
     },
     {
       "Name": "GloriousKingM82",
@@ -29,37 +35,37 @@
       "Name": "nrv",
       "Steam": "76561199830685210",
       "Score": 0,
-      "Time": "86:25"
+      "Time": "88:25"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 69,
-      "Time": "28:01"
+      "Score": 73,
+      "Time": "30:01"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 70,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "TTV/imgusz",
       "Steam": "76561199128167959",
-      "Score": 16,
-      "Time": "21:49"
+      "Score": 0,
+      "Time": "23:49"
     },
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 23,
-      "Time": "78:13"
+      "Score": 25,
+      "Time": "80:13"
     }
   ]
 }
