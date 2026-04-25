@@ -1,34 +1,46 @@
 {
-  "Time": "2026-04-25T09:08:48.1106886Z",
+  "Time": "2026-04-25T09:10:48.1156836Z",
   "Players": [
+    {
+      "Name": "de_Onikata",
+      "Steam": "76561198717392464",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Vexi1337",
       "Steam": "76561199747824672",
       "Score": 23,
-      "Time": "100:16"
+      "Time": "102:16"
     },
     {
-      "Name": "[846] Vndetected",
+      "Name": "[Mon] Vndetected",
       "Steam": "76561198727831913",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "Pussy Patrick",
       "Steam": "76561198717523615",
-      "Score": 26,
-      "Time": "26:45"
+      "Score": 36,
+      "Time": "28:45"
     },
     {
       "Name": "juicybaby",
       "Steam": "76561199526814742",
-      "Score": 29,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Prayer",
       "Steam": "76561199022017965",
-      "Score": 22,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD83D\uDC99m1sak\uD83D\uDC99",
+      "Steam": "76561199870902362",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
