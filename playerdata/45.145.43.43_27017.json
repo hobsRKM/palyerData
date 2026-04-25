@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-25T21:01:20.9198211Z",
+  "Time": "2026-04-25T21:03:20.9270038Z",
   "Players": [
     {
       "Name": "Kannonbiraki",
       "Steam": "76561198712066690",
-      "Score": 31,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "Chico Bioca",
       "Steam": "76561198124174636",
-      "Score": 25,
-      "Time": "20:44"
+      "Score": 0,
+      "Time": "01:17"
     },
     {
       "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 48,
-      "Time": "56:08"
+      "Score": 61,
+      "Time": "58:08"
     },
     {
       "Name": "Brain_ayri",
       "Steam": "76561199482981745",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "Liam",
+      "Steam": "76561198745332088",
+      "Score": 4,
+      "Time": "01:48"
     },
     {
       "Name": "Queenie",
@@ -32,9 +38,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "skip",
+      "Steam": "76561199007185984",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "serzy_mecanic6",
       "Steam": "76561198733198194",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
