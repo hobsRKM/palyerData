@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-25T19:03:20.9273221Z",
+  "Time": "2026-04-25T19:05:20.9286222Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,13 +10,19 @@
     {
       "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 11,
-      "Time": "04:43"
+      "Score": 0,
+      "Time": "06:43"
     },
     {
       "Name": "lexa_men",
       "Steam": "76561199547814815",
-      "Score": 39,
+      "Score": 51,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jk091081",
+      "Steam": "76561198715658871",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -26,34 +32,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "memesense               memes Vanish",
-      "Steam": "76561198715416224",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "allah auf hero",
       "Steam": "76561199580556447",
-      "Score": 39,
-      "Time": "10:24"
+      "Score": 41,
+      "Time": "12:24"
     },
     {
       "Name": "|",
       "Steam": "76561199888030246",
-      "Score": 51,
-      "Time": "49:43"
+      "Score": 53,
+      "Time": "51:43"
     },
     {
       "Name": "global",
       "Steam": "76561197963183861",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "d1ngle",
       "Steam": "76561199853360339",
-      "Score": 11,
-      "Time": "06:36"
+      "Score": 16,
+      "Time": "08:36"
     }
   ]
 }
