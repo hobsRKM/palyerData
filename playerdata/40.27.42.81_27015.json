@@ -1,23 +1,23 @@
 {
-  "Time": "2026-04-25T08:42:43.8215461Z",
+  "Time": "2026-04-25T08:44:43.8274916Z",
   "Players": [
     {
       "Name": "root@null:~# netstat -anp",
       "Steam": "76561198713061040",
-      "Score": 101,
-      "Time": "04:55"
+      "Score": 109,
+      "Time": "06:55"
     },
     {
       "Name": "Heng1337",
       "Steam": "76561199711700574",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Franklin D. Roosevelt",
       "Steam": "76561198711681290",
-      "Score": 17,
-      "Time": "11:57"
+      "Score": 19,
+      "Time": "13:57"
     }
   ]
 }
