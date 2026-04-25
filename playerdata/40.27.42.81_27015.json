@@ -1,22 +1,28 @@
 {
-  "Time": "2026-04-25T12:03:07.9135466Z",
+  "Time": "2026-04-25T12:05:07.907991Z",
   "Players": [
     {
       "Name": "root@null:~# netstat -anp",
       "Steam": "76561198713061040",
-      "Score": 0,
-      "Time": "00:30"
+      "Score": 2,
+      "Time": "02:30"
     },
     {
       "Name": "Neurodivergent ⁧⁧ \uD83C\uDF0A",
       "Steam": "76561199439891151",
-      "Score": 60,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "qrk6",
       "Steam": "76561199417522091",
-      "Score": 16,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "#NN",
+      "Steam": "76561198717007189",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
