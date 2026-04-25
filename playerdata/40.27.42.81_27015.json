@@ -1,34 +1,34 @@
 {
-  "Time": "2026-04-25T05:52:43.8287706Z",
+  "Time": "2026-04-25T05:54:43.836414Z",
   "Players": [
+    {
+      "Name": "ru",
+      "Steam": "76561198752304739",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "one day, but not today",
       "Steam": "76561199856027303",
-      "Score": 22,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "mohammed",
       "Steam": "76561199782162479",
-      "Score": 6,
-      "Time": "88:39"
+      "Score": 8,
+      "Time": "90:39"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": "dubled",
-      "Steam": "76561199786096146",
-      "Score": 0,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -41,13 +41,13 @@
       "Name": "TrollStation",
       "Steam": "76561198712702562",
       "Score": 4,
-      "Time": "05:07"
+      "Time": "07:07"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 8,
-      "Time": "03:32"
+      "Score": 15,
+      "Time": "05:32"
     },
     {
       "Name": "GENERAL PRANCE",
@@ -58,25 +58,25 @@
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 15,
-      "Time": "74:24"
+      "Score": 17,
+      "Time": "76:24"
     },
     {
       "Name": "Meow",
       "Steam": "76561198729671616",
-      "Score": 8,
-      "Time": "38:01"
+      "Score": 16,
+      "Time": "40:01"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 10,
-      "Time": "21:24"
+      "Score": 20,
+      "Time": "23:24"
     },
     {
       "Name": "Fnatic-Kevboii",
       "Steam": "76561199368485684",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
