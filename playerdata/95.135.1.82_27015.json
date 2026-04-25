@@ -1,29 +1,35 @@
 {
-  "Time": "2026-04-25T23:50:22.8074218Z",
+  "Time": "2026-04-25T23:52:22.8086669Z",
   "Players": [
+    {
+      "Name": "spuszczalski2137",
+      "Steam": "76561198709455315",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "rivi",
       "Steam": "76561199862272715",
-      "Score": 10,
-      "Time": "26:06"
+      "Score": 22,
+      "Time": "28:06"
+    },
+    {
+      "Name": "05 щелкни уцы",
+      "Steam": "76561198739552810",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Mati",
       "Steam": "76561198735424906",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "KatieDoflamingo",
       "Steam": "76561199751548311",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
-    },
-    {
-      "Name": "banker hvh inda club",
-      "Steam": "76561198718568578",
-      "Score": 0,
-      "Time": "01:50"
     }
   ]
 }
