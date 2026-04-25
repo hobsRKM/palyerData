@@ -1,10 +1,16 @@
 {
-  "Time": "2026-04-25T12:01:07.9112317Z",
+  "Time": "2026-04-25T12:03:07.9135466Z",
   "Players": [
+    {
+      "Name": "root@null:~# netstat -anp",
+      "Steam": "76561198713061040",
+      "Score": 0,
+      "Time": "00:30"
+    },
     {
       "Name": "Neurodivergent ⁧⁧ \uD83C\uDF0A",
       "Steam": "76561199439891151",
-      "Score": 56,
+      "Score": 60,
       "Time": "??:??"
     },
     {
