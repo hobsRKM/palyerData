@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-25T18:29:20.9174368Z",
+  "Time": "2026-04-25T18:31:20.9183258Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,32 +10,38 @@
     {
       "Name": "guZr",
       "Steam": "76561198712657837",
-      "Score": 10,
-      "Time": "07:20"
+      "Score": 20,
+      "Time": "09:20"
     },
     {
-      "Name": "nity         m0i",
+      "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 10,
-      "Time": "56:25"
+      "Score": 14,
+      "Time": "58:25"
+    },
+    {
+      "Name": "fakaliti",
+      "Steam": "76561199606287710",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "src",
       "Steam": "76561198241397796",
-      "Score": 27,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "trascavlad2008",
       "Steam": "76561199870646030",
-      "Score": 10,
-      "Time": "19:26"
+      "Score": 18,
+      "Time": "21:26"
     },
     {
       "Name": "|",
       "Steam": "76561199888030246",
-      "Score": 23,
-      "Time": "15:42"
+      "Score": 29,
+      "Time": "17:42"
     }
   ]
 }
