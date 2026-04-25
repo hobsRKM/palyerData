@@ -1,47 +1,41 @@
 {
-  "Time": "2026-04-25T07:56:43.8215669Z",
+  "Time": "2026-04-25T07:58:43.8314828Z",
   "Players": [
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 2,
-      "Time": "34:44"
+      "Score": 5,
+      "Time": "36:44"
     },
     {
       "Name": "cake",
       "Steam": "76561198712321279",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "...",
       "Steam": "76561198709697387",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 15,
-      "Time": "14:44"
-    },
-    {
-      "Name": "Franklin D. Roosevelt",
-      "Steam": "76561198711681290",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 28,
+      "Time": "16:44"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 4,
-      "Time": "198:24"
+      "Score": 14,
+      "Time": "200:24"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 2,
-      "Time": "189:40"
+      "Score": 0,
+      "Time": "191:40"
     }
   ]
 }
