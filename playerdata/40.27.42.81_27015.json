@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-25T06:00:43.8256136Z",
+  "Time": "2026-04-25T06:02:43.8237933Z",
   "Players": [
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 21,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 27,
-      "Time": "04:42"
+      "Score": 35,
+      "Time": "06:42"
     },
     {
       "Name": "one day, but not today",
       "Steam": "76561199856027303",
-      "Score": 67,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "mohammed",
       "Steam": "76561199782162479",
-      "Score": 26,
-      "Time": "96:39"
+      "Score": 28,
+      "Time": "98:39"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 32,
-      "Time": "??:??"
-    },
-    {
-      "Name": "flex",
-      "Steam": "76561199096644749",
-      "Score": 0,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 33,
+      "Score": 37,
       "Time": "??:??"
+    },
+    {
+      "Name": "A Janky Nicca",
+      "Steam": "76561198834456840",
+      "Score": 0,
+      "Time": "42:56"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 33,
-      "Time": "11:32"
+      "Score": 40,
+      "Time": "13:32"
+    },
+    {
+      "Name": "mxllygzz",
+      "Steam": "76561199848521394",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "GENERAL PRANCE",
@@ -58,20 +64,20 @@
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 32,
-      "Time": "82:24"
+      "Score": 34,
+      "Time": "84:24"
     },
     {
       "Name": "Meow",
       "Steam": "76561198729671616",
-      "Score": 26,
-      "Time": "46:01"
+      "Score": 28,
+      "Time": "48:01"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 40,
-      "Time": "29:24"
+      "Score": 43,
+      "Time": "31:24"
     }
   ]
 }
