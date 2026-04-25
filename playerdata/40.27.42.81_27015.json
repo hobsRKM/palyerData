@@ -1,6 +1,18 @@
 {
-  "Time": "2026-04-25T07:20:43.8321972Z",
+  "Time": "2026-04-25T07:22:43.8302579Z",
   "Players": [
+    {
+      "Name": "puppy dezro",
+      "Steam": "76561199118337666",
+      "Score": 0,
+      "Time": "94:20"
+    },
+    {
+      "Name": "ru",
+      "Steam": "76561198752304739",
+      "Score": 16,
+      "Time": "00:44"
+    },
     {
       "Name": "waldo",
       "Steam": "76561198751736378",
@@ -8,52 +20,52 @@
       "Time": "??:??"
     },
     {
+      "Name": "TeabagWizard",
+      "Steam": "76561198710539685",
+      "Score": 0,
+      "Time": "00:03"
+    },
+    {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 142,
-      "Time": "270:32"
+      "Score": 151,
+      "Time": "272:32"
     },
     {
       "Name": "Hiragana !_!",
       "Steam": "76561197965400891",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Dumb",
-      "Steam": "76561198728778195",
-      "Score": 5,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Dumb",
       "Steam": "76561198713061040",
-      "Score": 11,
-      "Time": "45:07"
+      "Score": 14,
+      "Time": "47:07"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 4,
-      "Time": "11:10"
+      "Score": 6,
+      "Time": "13:10"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 60,
-      "Time": "162:24"
+      "Score": 6,
+      "Time": "164:24"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 46,
-      "Time": "153:40"
+      "Score": 52,
+      "Time": "155:40"
     },
     {
       "Name": "Fnatic-Kevboii",
       "Steam": "76561199368485684",
-      "Score": 18,
-      "Time": "21:30"
+      "Score": 24,
+      "Time": "23:30"
     }
   ]
 }
