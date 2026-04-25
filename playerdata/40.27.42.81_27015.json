@@ -1,95 +1,107 @@
 {
-  "Time": "2026-04-25T02:48:43.8284898Z",
+  "Time": "2026-04-25T02:50:43.8248702Z",
   "Players": [
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 25,
-      "Time": "06:51"
+      "Score": 29,
+      "Time": "08:51"
     },
     {
       "Name": "MAESTRO",
       "Steam": "76561198264360985",
-      "Score": 32,
-      "Time": "20:13"
+      "Score": 0,
+      "Time": "22:13"
     },
     {
       "Name": "A Janky Nicca",
       "Steam": "76561198834456840",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "ihavesmollpp",
       "Steam": "76561199209588405",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199530521634",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Way 2 Sexy",
       "Steam": "76561199156395215",
-      "Score": 59,
-      "Time": "22:12"
+      "Score": 66,
+      "Time": "24:12"
     },
     {
       "Name": "IPayTaxes43 #Tax #Yep #TaxPayer",
       "Steam": "76561198844542771",
-      "Score": 33,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 53,
-      "Time": "19:23"
+      "Score": 55,
+      "Time": "21:23"
+    },
+    {
+      "Name": "ouo",
+      "Steam": "76561198740368974",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "opulence",
       "Steam": "76561199830685210",
-      "Score": 26,
-      "Time": "12:25"
+      "Score": 34,
+      "Time": "14:25"
     },
     {
       "Name": "K",
       "Steam": "76561198787397270",
-      "Score": 30,
-      "Time": "05:53"
+      "Score": 34,
+      "Time": "07:53"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "JK",
       "Steam": "76561199742917009",
-      "Score": 11,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "qrk6",
       "Steam": "76561199417522091",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Meow",
       "Steam": "76561198729671616",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "\uD83C\uDFF4‍☠️❄",
       "Steam": "76561199825338994",
       "Score": 28,
-      "Time": "12:43"
+      "Time": "14:43"
     }
   ]
 }
