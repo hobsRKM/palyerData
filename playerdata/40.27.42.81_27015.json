@@ -1,53 +1,65 @@
 {
-  "Time": "2026-04-25T17:09:07.9204246Z",
+  "Time": "2026-04-25T17:11:07.9110641Z",
   "Players": [
+    {
+      "Name": "Palm Beach Pete",
+      "Steam": "76561199530521634",
+      "Score": 3,
+      "Time": "??:??"
+    },
     {
       "Name": "RODDY REAPER",
       "Steam": "76561199861885776",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "JK",
       "Steam": "76561199742917009",
-      "Score": 14,
+      "Score": 23,
       "Time": "??:??"
+    },
+    {
+      "Name": "qrk6",
+      "Steam": "76561199417522091",
+      "Score": 0,
+      "Time": "00:55"
+    },
+    {
+      "Name": "Captain Jack Sparrow",
+      "Steam": "76561198758712011",
+      "Score": 0,
+      "Time": "00:21"
     },
     {
       "Name": "hvh",
       "Steam": "76561199805557263",
-      "Score": 31,
-      "Time": "27:35"
+      "Score": 33,
+      "Time": "29:35"
     },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 33,
-      "Time": "42:01"
+      "Score": 38,
+      "Time": "44:01"
     },
     {
       "Name": "Crush",
       "Steam": "76561199154138785",
-      "Score": 39,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Roma",
       "Steam": "76561198776986983",
-      "Score": 22,
-      "Time": "50:02"
-    },
-    {
-      "Name": "Roma",
-      "Steam": "76561199050170734",
-      "Score": 34,
-      "Time": "09:30"
+      "Score": 24,
+      "Time": "52:02"
     }
   ]
 }
