@@ -1,28 +1,40 @@
 {
-  "Time": "2026-04-25T23:09:22.5562099Z",
+  "Time": "2026-04-25T23:11:22.6811213Z",
   "Players": [
+    {
+      "Name": "Edgar",
+      "Steam": "76561198778831537",
+      "Score": 13,
+      "Time": "00:28"
+    },
     {
       "Name": "KatieDoflamingo",
       "Steam": "76561199751548311",
-      "Score": 20,
-      "Time": "27:06"
+      "Score": 29,
+      "Time": "29:06"
     },
     {
       "Name": "bur13dmycoca1ne",
       "Steam": "76561199838674157",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
+    },
+    {
+      "Name": "ribrik",
+      "Steam": "76561199501679623",
+      "Score": 4,
+      "Time": "01:19"
     },
     {
       "Name": "егор борзак",
       "Steam": "76561199690004339",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Nox.Main",
       "Steam": "76561199705548993",
-      "Score": 18,
+      "Score": 27,
       "Time": "??:??"
     }
   ]
