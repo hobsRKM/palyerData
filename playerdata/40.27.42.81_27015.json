@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-25T21:17:07.9163279Z",
+  "Time": "2026-04-25T21:19:07.9092952Z",
   "Players": [
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 38,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 107,
+      "Score": 115,
       "Time": "??:??"
+    },
+    {
+      "Name": "Palm Beach Pete",
+      "Steam": "76561199158419168",
+      "Score": 0,
+      "Time": "00:31"
     },
     {
       "Name": "Big Rejuicer",
       "Steam": "76561198731373156",
       "Score": 36,
-      "Time": "35:17"
+      "Time": "37:17"
     },
     {
       "Name": "67",
       "Steam": "76561199874390448",
-      "Score": 25,
-      "Time": "24:41"
+      "Score": 26,
+      "Time": "26:41"
     },
     {
       "Name": "stewbert",
       "Steam": "76561198799307603",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 1,
-      "Time": "155:27"
+      "Score": 2,
+      "Time": "157:27"
     }
   ]
 }
