@@ -1,32 +1,38 @@
 {
-  "Time": "2026-04-25T18:33:07.9157658Z",
+  "Time": "2026-04-25T18:35:07.9099385Z",
   "Players": [
     {
       "Name": "s0     Palm Beach Pete",
       "Steam": "76561199530521634",
-      "Score": 3,
-      "Time": "01:55"
+      "Score": 9,
+      "Time": "03:55"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 45,
+      "Score": 50,
       "Time": "??:??"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561198718421515",
+      "Score": 0,
+      "Time": "01:08"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 16,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "ph4tf1sh | beaN",
       "Steam": "76561199888743657",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
     },
     {
-      "Name": "[503] eclipse",
+      "Name": "[Mon] eclipse",
       "Steam": "76561198714491237",
       "Score": 3,
       "Time": "??:??"
@@ -34,8 +40,8 @@
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 22,
-      "Time": "49:06"
+      "Score": 26,
+      "Time": "51:06"
     }
   ]
 }
