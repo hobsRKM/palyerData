@@ -1,59 +1,53 @@
 {
-  "Time": "2026-04-25T07:04:43.8259331Z",
+  "Time": "2026-04-25T07:06:43.8345954Z",
   "Players": [
-    {
-      "Name": "ru",
-      "Steam": "76561198752304739",
-      "Score": 13,
-      "Time": "07:12"
-    },
     {
       "Name": "mohammed",
       "Steam": "76561199782162479",
       "Score": 34,
-      "Time": "160:39"
+      "Time": "162:39"
     },
     {
       "Name": "Way 2 Sexy",
       "Steam": "76561199156395215",
-      "Score": 62,
-      "Time": "23:38"
+      "Score": 66,
+      "Time": "25:38"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 83,
-      "Time": "254:32"
+      "Score": 93,
+      "Time": "256:32"
     },
     {
       "Name": "Dumb",
       "Steam": "76561198728778195",
-      "Score": 8,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "root@null:~# netstat -anp",
       "Steam": "76561198713061040",
       "Score": 0,
-      "Time": "29:07"
+      "Time": "31:07"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 34,
-      "Time": "146:24"
+      "Score": 36,
+      "Time": "148:24"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 2,
-      "Time": "137:40"
+      "Score": 8,
+      "Time": "139:40"
     },
     {
       "Name": "Fnatic-Kevboii",
       "Steam": "76561199368485684",
-      "Score": 6,
-      "Time": "05:30"
+      "Score": 8,
+      "Time": "07:30"
     }
   ]
 }
