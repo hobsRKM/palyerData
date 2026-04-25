@@ -1,17 +1,29 @@
 {
-  "Time": "2026-04-25T08:52:43.825647Z",
+  "Time": "2026-04-25T08:54:43.8167819Z",
   "Players": [
+    {
+      "Name": "gitanit0",
+      "Steam": "76561199610657603",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xddddd",
+      "Steam": "76561199611049526",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Heng1337",
       "Steam": "76561199711700574",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Franklin D. Roosevelt",
       "Steam": "76561198711681290",
-      "Score": 0,
-      "Time": "21:57"
+      "Score": 10,
+      "Time": "23:57"
     }
   ]
 }
