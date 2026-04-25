@@ -1,10 +1,10 @@
 {
-  "Time": "2026-04-25T08:32:43.8315348Z",
+  "Time": "2026-04-25T08:34:43.8244244Z",
   "Players": [
     {
       "Name": "cake",
       "Steam": "76561198712321279",
-      "Score": 38,
+      "Score": 40,
       "Time": "??:??"
     },
     {
@@ -16,20 +16,14 @@
     {
       "Name": "root@null:~# netstat -anp",
       "Steam": "76561198713061040",
-      "Score": 40,
-      "Time": "27:44"
+      "Score": 56,
+      "Time": "29:44"
     },
     {
       "Name": "Franklin D. Roosevelt",
       "Steam": "76561198711681290",
-      "Score": 3,
-      "Time": "01:57"
-    },
-    {
-      "Name": "Ansi",
-      "Steam": "76561199568150325",
-      "Score": 16,
-      "Time": "225:40"
+      "Score": 9,
+      "Time": "03:57"
     }
   ]
 }
