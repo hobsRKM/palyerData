@@ -1,41 +1,59 @@
 {
-  "Time": "2026-04-25T17:13:07.9261037Z",
+  "Time": "2026-04-25T17:15:07.9126648Z",
   "Players": [
+    {
+      "Name": "Aru",
+      "Steam": "76561199706248567",
+      "Score": 8,
+      "Time": "01:19"
+    },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199530521634",
-      "Score": 7,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "RODDY REAPER",
       "Steam": "76561199861885776",
-      "Score": 17,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "JK",
       "Steam": "76561199742917009",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "qrk6",
       "Steam": "76561199417522091",
       "Score": 1,
-      "Time": "02:55"
+      "Time": "04:55"
+    },
+    {
+      "Name": "Way 2 Sexy",
+      "Steam": "76561199156395215",
+      "Score": 0,
+      "Time": "00:38"
     },
     {
       "Name": "Captain Jack Sparrow",
       "Steam": "76561198758712011",
-      "Score": 8,
-      "Time": "02:21"
+      "Score": 12,
+      "Time": "04:21"
+    },
+    {
+      "Name": "67",
+      "Steam": "76561199874390448",
+      "Score": 0,
+      "Time": "01:22"
     },
     {
       "Name": "hvh",
       "Steam": "76561199805557263",
-      "Score": 35,
-      "Time": "31:35"
+      "Score": 37,
+      "Time": "33:35"
     },
     {
       "Name": "fuze",
@@ -46,26 +64,26 @@
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 42,
-      "Time": "46:01"
+      "Score": 52,
+      "Time": "48:01"
     },
     {
       "Name": "Crush",
       "Steam": "76561199154138785",
-      "Score": 60,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "Roma",
       "Steam": "76561198776986983",
       "Score": 26,
-      "Time": "54:02"
+      "Time": "56:02"
     },
     {
-      "Name": "BOT Clarence",
+      "Name": "Aru",
       "Steam": "76561199050170734",
-      "Score": 46,
-      "Time": "01:34"
+      "Score": 50,
+      "Time": "03:34"
     }
   ]
 }
