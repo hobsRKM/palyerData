@@ -1,59 +1,65 @@
 {
-  "Time": "2026-04-25T19:17:07.9113814Z",
+  "Time": "2026-04-25T19:19:07.9148218Z",
   "Players": [
     {
       "Name": "JK",
       "Steam": "76561199742917009",
-      "Score": 74,
-      "Time": "40:21"
+      "Score": 78,
+      "Time": "42:21"
+    },
+    {
+      "Name": "Fat Hillbilly",
+      "Steam": "76561199417522091",
+      "Score": 1,
+      "Time": "01:02"
     },
     {
       "Name": "ren",
       "Steam": "76561198712394745",
-      "Score": 26,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "HvHbot (test)",
       "Steam": "76561198197230391",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Crush",
       "Steam": "76561199154138785",
-      "Score": 22,
-      "Time": "04:28"
+      "Score": 26,
+      "Time": "06:28"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 119,
+      "Score": 127,
       "Time": "??:??"
     },
     {
       "Name": "Eatings cookies of a website",
       "Steam": "76561199834410706",
-      "Score": 82,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561198914233824",
-      "Score": 47,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "клянусь не смурф",
       "Steam": "76561199183954876",
-      "Score": 37,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Roma",
       "Steam": "76561198776986983",
-      "Score": 65,
-      "Time": "27:20"
+      "Score": 73,
+      "Time": "29:20"
     }
   ]
 }
