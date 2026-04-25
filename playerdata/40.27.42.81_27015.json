@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-25T05:06:43.8268993Z",
+  "Time": "2026-04-25T05:08:43.8267788Z",
   "Players": [
+    {
+      "Name": "BOT Clarence",
+      "Steam": "76561199050170734",
+      "Score": 2,
+      "Time": "01:20"
+    },
     {
       "Name": "mohammed",
       "Steam": "76561199782162479",
-      "Score": 8,
-      "Time": "42:39"
+      "Score": 11,
+      "Time": "44:39"
     },
     {
       "Name": "The Nosebleed Section",
       "Steam": "76561199229491501",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Way 2 Sexy",
       "Steam": "76561199156395215",
-      "Score": 46,
-      "Time": "07:59"
+      "Score": 53,
+      "Time": "09:59"
     },
     {
       "Name": "Ladies Man Myst1c",
@@ -28,20 +34,20 @@
     {
       "Name": "Killed / Im tupac?/",
       "Steam": "76561199805980753",
-      "Score": 19,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 12,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 32,
-      "Time": "28:24"
+      "Score": 3,
+      "Time": "30:24"
     }
   ]
 }
