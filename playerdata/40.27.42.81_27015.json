@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-25T05:02:43.8233715Z",
+  "Time": "2026-04-25T05:04:43.8252799Z",
   "Players": [
     {
       "Name": "mohammed",
       "Steam": "76561199782162479",
-      "Score": 0,
-      "Time": "38:39"
+      "Score": 2,
+      "Time": "40:39"
     },
     {
       "Name": "The Nosebleed Section",
       "Steam": "76561199229491501",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Way 2 Sexy",
       "Steam": "76561199156395215",
-      "Score": 20,
-      "Time": "03:59"
+      "Score": 32,
+      "Time": "05:59"
     },
     {
       "Name": "Killed / Im tupac?/",
       "Steam": "76561199805980753",
-      "Score": 9,
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "paradise",
+      "Steam": "76561198380272287",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 27,
-      "Time": "24:24"
+      "Score": 31,
+      "Time": "26:24"
     }
   ]
 }
