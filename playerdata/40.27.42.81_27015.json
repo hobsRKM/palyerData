@@ -1,76 +1,82 @@
 {
-  "Time": "2026-04-25T16:39:07.9242749Z",
+  "Time": "2026-04-25T16:41:07.9204318Z",
   "Players": [
+    {
+      "Name": "fish",
+      "Steam": "76561199853989090",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "your in your benz im by the gate",
       "Steam": "76561199876077209",
-      "Score": 118,
-      "Time": "44:35"
+      "Score": 119,
+      "Time": "46:35"
     },
     {
       "Name": "Entity",
       "Steam": "76561199825236538",
-      "Score": 42,
-      "Time": "26:26"
+      "Score": 0,
+      "Time": "28:26"
     },
     {
       "Name": "67",
       "Steam": "76561199874390448",
       "Score": 22,
-      "Time": "25:52"
+      "Time": "27:52"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 31,
-      "Time": "12:01"
+      "Score": 33,
+      "Time": "14:01"
     },
     {
       "Name": "ihavesmollpp",
       "Steam": "76561199209588405",
-      "Score": 62,
-      "Time": "28:52"
+      "Score": 64,
+      "Time": "30:52"
     },
     {
       "Name": "Crush",
       "Steam": "76561199154138785",
-      "Score": 85,
+      "Score": 93,
       "Time": "??:??"
     },
     {
       "Name": "Roma",
       "Steam": "76561198776986983",
-      "Score": 39,
-      "Time": "20:02"
+      "Score": 43,
+      "Time": "22:02"
     },
     {
       "Name": "zzz",
       "Steam": "76561198770064873",
-      "Score": 32,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "your in your benz im by the gate",
       "Steam": "76561199050170734",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "xaNe",
       "Steam": "76561199792464561",
-      "Score": 46,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "i need bankroll",
       "Steam": "76561198744537455",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     }
   ]
