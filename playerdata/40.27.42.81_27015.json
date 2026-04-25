@@ -1,28 +1,34 @@
 {
-  "Time": "2026-04-25T14:11:07.9185815Z",
+  "Time": "2026-04-25T14:13:07.9082619Z",
   "Players": [
+    {
+      "Name": "is this heaven? why is it cold",
+      "Steam": "76561198144469869",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "67",
       "Steam": "76561199874390448",
-      "Score": 24,
-      "Time": "29:33"
+      "Score": 28,
+      "Time": "31:33"
     },
     {
       "Name": "@futasploit",
       "Steam": "76561198709638164",
-      "Score": 47,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "ren",
       "Steam": "76561198713212169",
-      "Score": 46,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "Eros",
       "Steam": "76561198316126206",
-      "Score": 29,
+      "Score": 35,
       "Time": "??:??"
     }
   ]
