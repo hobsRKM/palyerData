@@ -1,11 +1,17 @@
 {
-  "Time": "2026-04-25T01:22:27.8345076Z",
+  "Time": "2026-04-25T01:24:27.8296726Z",
   "Players": [
+    {
+      "Name": "Graf",
+      "Steam": "76561199806653556",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Basic",
       "Steam": "76561199773958383",
       "Score": 0,
-      "Time": "02:35"
+      "Time": "04:35"
     },
     {
       "Name": "big fat boogeyman",
@@ -16,25 +22,25 @@
     {
       "Name": "Mongol",
       "Steam": "76561198376880879",
-      "Score": 74,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "std::liyunck",
       "Steam": "76561198739028725",
-      "Score": 36,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "effrayant",
       "Steam": "76561198195247117",
-      "Score": 31,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "carolina grim reaper",
       "Steam": "76561199731121766",
-      "Score": 6,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
