@@ -1,64 +1,76 @@
 {
-  "Time": "2026-04-25T15:27:07.9164984Z",
+  "Time": "2026-04-25T15:29:07.9130093Z",
   "Players": [
+    {
+      "Name": "Aru",
+      "Steam": "76561199706248567",
+      "Score": 13,
+      "Time": "00:55"
+    },
     {
       "Name": "ren",
       "Steam": "76561198713212169",
-      "Score": 32,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "bb",
       "Steam": "76561198041862999",
       "Score": 21,
-      "Time": "42:54"
+      "Time": "44:54"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 5,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "smurfing isn't nice :(",
       "Steam": "76561198782137599",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "X",
       "Steam": "76561199154641729",
-      "Score": 20,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "$",
       "Steam": "76561198167616351",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Chivalry2975",
       "Steam": "76561198720760630",
-      "Score": 9,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "jumpshot",
       "Steam": "76561198710668783",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tom3.0",
+      "Steam": "76561198739261203",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
