@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-25T05:16:22.8085918Z",
+  "Time": "2026-04-25T05:18:22.8011385Z",
   "Players": [
     {
       "Name": "*",
       "Steam": "76561198724188430",
-      "Score": 14,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BribeB",
+      "Steam": "76561199405949624",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Casino patronu cinayet mehmet",
       "Steam": "76561198720921416",
-      "Score": 0,
-      "Time": "26:36"
+      "Score": 2,
+      "Time": "28:36"
     },
     {
       "Name": "gra",
       "Steam": "76561199846305798",
-      "Score": 0,
-      "Time": "00:13"
+      "Score": 2,
+      "Time": "02:13"
     }
   ]
 }
