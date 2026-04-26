@@ -1,65 +1,71 @@
 {
-  "Time": "2026-04-26T04:53:10.2806888Z",
+  "Time": "2026-04-26T04:55:10.316626Z",
   "Players": [
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 30,
-      "Time": "244:32"
+      "Score": 35,
+      "Time": "246:32"
     },
     {
       "Name": "birb",
       "Steam": "76561199366903380",
-      "Score": 20,
-      "Time": "413:19"
+      "Score": 21,
+      "Time": "415:20"
     },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
       "Score": 9,
-      "Time": "05:11"
+      "Time": "07:11"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 31,
-      "Time": "57:06"
+      "Score": 35,
+      "Time": "59:06"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 6,
-      "Time": "02:05"
+      "Score": 0,
+      "Time": "04:06"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 20,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Tom Cruise",
       "Steam": "76561198041181851",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "A Janky Nicca",
+      "Steam": "76561198834456840",
+      "Score": 0,
+      "Time": "262:43"
     },
     {
       "Name": "SypherXz",
       "Steam": "76561199624274699",
       "Score": 0,
-      "Time": "626:32"
+      "Time": "628:32"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 16,
-      "Time": "23:15"
+      "Score": 18,
+      "Time": "25:15"
     },
     {
       "Name": "castiel the angel",
       "Steam": "76561198719870585",
       "Score": 6,
-      "Time": "40:57"
+      "Time": "42:57"
     },
     {
       "Name": "mwtnov24",
@@ -70,20 +76,14 @@
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 41,
-      "Time": "??:??"
-    },
-    {
-      "Name": "maybe?",
-      "Steam": "76561199839348172",
-      "Score": 21,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 38,
-      "Time": "249:00"
+      "Score": 44,
+      "Time": "251:00"
     }
   ]
 }
