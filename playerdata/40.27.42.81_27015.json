@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-26T17:35:16.5624056Z",
+  "Time": "2026-04-26T17:37:16.574083Z",
   "Players": [
+    {
+      "Name": "alannnnnnnnnnnnnnn",
+      "Steam": "76561199874390448",
+      "Score": 1,
+      "Time": "02:11"
+    },
     {
       "Name": "birb",
       "Steam": "76561199366903380",
@@ -10,26 +16,26 @@
     {
       "Name": "diddyware.cc",
       "Steam": "76561198713839060",
-      "Score": 20,
-      "Time": "00:38"
+      "Score": 22,
+      "Time": "02:38"
     },
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 81,
-      "Time": "32:46"
+      "Score": 92,
+      "Time": "34:46"
     },
     {
       "Name": "smurfing isn't nice :(",
       "Steam": "76561198782137599",
-      "Score": 31,
-      "Time": "17:33"
+      "Score": 41,
+      "Time": "19:33"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 40,
-      "Time": "15:20"
+      "Score": 46,
+      "Time": "17:20"
     },
     {
       "Name": "Roma",
@@ -38,33 +44,27 @@
       "Time": "??:??"
     },
     {
-      "Name": "Kiyoshi",
-      "Steam": "76561199117778799",
-      "Score": 34,
-      "Time": "??:??"
-    },
-    {
       "Name": "бесогон",
       "Steam": "76561199849971677",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "opulence",
       "Steam": "76561199830685210",
-      "Score": 8,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Codaxy",
       "Steam": "76561198144469869",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
