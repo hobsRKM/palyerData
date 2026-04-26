@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-26T05:25:10.8773535Z",
+  "Time": "2026-04-26T05:27:10.8972594Z",
   "Players": [
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 10,
-      "Time": "37:12"
+      "Score": 22,
+      "Time": "39:12"
+    },
+    {
+      "Name": "Dr.Spunbuddy",
+      "Steam": "76561199181361650",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 24,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Big Rejuicer",
       "Steam": "76561198731373156",
       "Score": 0,
-      "Time": "231:12"
+      "Time": "233:12"
     },
     {
       "Name": "SypherXz",
       "Steam": "76561199624274699",
       "Score": 0,
-      "Time": "658:33"
+      "Time": "660:33"
     },
     {
       "Name": "castiel the angel",
       "Steam": "76561198719870585",
       "Score": 1,
-      "Time": "72:57"
+      "Time": "74:57"
     },
     {
       "Name": "smurfing isn't nice :(",
       "Steam": "76561198782137599",
-      "Score": 4,
-      "Time": "02:18"
+      "Score": 6,
+      "Time": "04:18"
     },
     {
       "Name": "#1 Foid",
       "Steam": "76561199851225400",
-      "Score": 27,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 30,
-      "Time": "281:01"
+      "Score": 34,
+      "Time": "283:01"
     }
   ]
 }
