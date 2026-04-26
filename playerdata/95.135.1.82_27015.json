@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-26T00:58:22.8121799Z",
+  "Time": "2026-04-26T01:00:22.8178056Z",
   "Players": [
     {
       "Name": "Kospek",
       "Steam": "76561199849873848",
-      "Score": 17,
-      "Time": "03:19"
+      "Score": 24,
+      "Time": "05:19"
     },
     {
       "Name": "SO EZ FOR ME",
       "Steam": "76561199867937863",
-      "Score": 16,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "itchengs",
+      "Steam": "76561199409008038",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cannon",
       "Steam": "76561199612548036",
-      "Score": 56,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "Kurokendrick",
       "Steam": "76561199479790668",
-      "Score": 31,
-      "Time": "09:40"
+      "Score": 45,
+      "Time": "11:40"
     },
     {
       "Name": "KatieDoflamingo",
       "Steam": "76561199751548311",
-      "Score": 57,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "swirf",
       "Steam": "76561199034521005",
-      "Score": 7,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "gamer jeff",
       "Steam": "76561198820870178",
       "Score": 41,
-      "Time": "1171:36"
+      "Time": "1173:36"
     },
     {
       "Name": "froggiefrog",
       "Steam": "76561198775058329",
-      "Score": 19,
-      "Time": "110:27"
+      "Score": 28,
+      "Time": "112:27"
     }
   ]
 }
