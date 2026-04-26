@@ -1,4 +1,29 @@
 {
-  "Time": "2026-04-26T13:31:16.5652273Z",
-  "Players": []
+  "Time": "2026-04-26T13:33:16.5568099Z",
+  "Players": [
+    {
+      "Name": "rain",
+      "Steam": "76561199876077209",
+      "Score": 2,
+      "Time": "01:10"
+    },
+    {
+      "Name": "alan",
+      "Steam": "76561199874390448",
+      "Score": 2,
+      "Time": "00:54"
+    },
+    {
+      "Name": "LUCKY v5 DEV BUILD USER",
+      "Steam": "76561198783283963",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatmuffinlover99",
+      "Steam": "76561198712955993",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
