@@ -1,35 +1,23 @@
 {
-  "Time": "2026-04-26T00:37:07.9476026Z",
+  "Time": "2026-04-26T00:39:07.9346561Z",
   "Players": [
-    {
-      "Name": "comfortable",
-      "Steam": "76561199880717233",
-      "Score": 22,
-      "Time": "??:??"
-    },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 34,
-      "Time": "152:56"
+      "Score": 38,
+      "Time": "154:56"
     },
     {
       "Name": "hvh",
       "Steam": "76561199805557263",
-      "Score": 16,
-      "Time": "06:55"
-    },
-    {
-      "Name": "HvHbot (test)",
-      "Steam": "76561198197230391",
-      "Score": 13,
-      "Time": "17:36"
+      "Score": 24,
+      "Time": "08:55"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 0,
-      "Time": "00:12"
+      "Score": 2,
+      "Time": "02:12"
     }
   ]
 }
