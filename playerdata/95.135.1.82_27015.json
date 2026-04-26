@@ -1,46 +1,52 @@
 {
-  "Time": "2026-04-26T00:02:22.8158148Z",
+  "Time": "2026-04-26T00:04:22.8111495Z",
   "Players": [
+    {
+      "Name": "Rxcoil15",
+      "Steam": "76561199311106586",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "AAronlol",
       "Steam": "76561198724369914",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "48",
+      "Steam": "76561198742407377",
       "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "saba",
       "Steam": "76561199833069653",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "ghost mountain",
       "Steam": "76561198830705887",
       "Score": 2,
-      "Time": "??:??"
+      "Time": "00:27"
     },
     {
       "Name": "Mati",
       "Steam": "76561198735424906",
-      "Score": 39,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "qASPOMNN",
       "Steam": "76561199475549634",
-      "Score": 9,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "KatieDoflamingo",
       "Steam": "76561199751548311",
-      "Score": 53,
-      "Time": "??:??"
-    },
-    {
-      "Name": "effrayant",
-      "Steam": "76561198195247117",
-      "Score": 8,
+      "Score": 57,
       "Time": "??:??"
     }
   ]
