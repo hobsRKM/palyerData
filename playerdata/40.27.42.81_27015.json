@@ -1,53 +1,65 @@
 {
-  "Time": "2026-04-26T04:49:10.2155952Z",
+  "Time": "2026-04-26T04:51:10.2463126Z",
   "Players": [
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 10,
-      "Time": "240:32"
+      "Score": 20,
+      "Time": "242:32"
+    },
+    {
+      "Name": "duce",
+      "Steam": "76561198074360159",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "birb",
       "Steam": "76561199366903380",
-      "Score": 16,
-      "Time": "409:19"
+      "Score": 18,
+      "Time": "411:19"
     },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 2,
-      "Time": "01:11"
+      "Score": 5,
+      "Time": "03:11"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
       "Score": 25,
-      "Time": "53:06"
+      "Time": "55:06"
+    },
+    {
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 0,
+      "Time": "00:05"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "SypherXz",
       "Steam": "76561199624274699",
       "Score": 0,
-      "Time": "622:32"
+      "Time": "624:32"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 11,
-      "Time": "19:15"
+      "Score": 13,
+      "Time": "21:15"
     },
     {
       "Name": "castiel the angel",
       "Steam": "76561198719870585",
-      "Score": 3,
-      "Time": "36:56"
+      "Score": 5,
+      "Time": "38:56"
     },
     {
       "Name": "mwtnov24",
@@ -64,14 +76,14 @@
     {
       "Name": "maybe?",
       "Steam": "76561199839348172",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 15,
-      "Time": "245:00"
+      "Score": 23,
+      "Time": "247:00"
     }
   ]
 }
