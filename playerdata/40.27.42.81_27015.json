@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-26T20:29:16.5674119Z",
+  "Time": "2026-04-26T20:31:16.5626376Z",
   "Players": [
+    {
+      "Name": "Enigma > Fatality",
+      "Steam": "76561199038867207",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 25,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "can u play ken",
       "Steam": "76561199876077209",
-      "Score": 55,
-      "Time": "169:52"
+      "Score": 60,
+      "Time": "171:52"
     },
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 80,
-      "Time": "55:22"
+      "Score": 94,
+      "Time": "57:22"
     },
     {
       "Name": "hvh",
       "Steam": "76561199805557263",
-      "Score": 30,
-      "Time": "10:01"
+      "Score": 31,
+      "Time": "12:01"
     },
     {
       "Name": "Abyss",
       "Steam": "76561198771711836",
       "Score": 10,
-      "Time": "34:12"
+      "Time": "36:12"
     },
     {
       "Name": "birb",
@@ -40,26 +46,38 @@
     {
       "Name": "ngf",
       "Steam": "76561198744402588",
-      "Score": 2,
-      "Time": "27:54"
+      "Score": 4,
+      "Time": "29:54"
+    },
+    {
+      "Name": "y",
+      "Steam": "76561199837114653",
+      "Score": 0,
+      "Time": "116:43"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 45,
-      "Time": "11:42"
+      "Score": 53,
+      "Time": "13:42"
+    },
+    {
+      "Name": "stewbert",
+      "Steam": "76561198799307603",
+      "Score": 10,
+      "Time": "01:40"
     },
     {
       "Name": "LUCKY v5 DEV BUILD USER",
       "Steam": "76561198783283963",
-      "Score": 16,
-      "Time": "08:56"
+      "Score": 2,
+      "Time": "10:56"
     },
     {
       "Name": "nosebleed",
       "Steam": "76561199229491501",
-      "Score": 8,
-      "Time": "59:25"
+      "Score": 10,
+      "Time": "61:25"
     },
     {
       "Name": "Tilt!",
@@ -70,13 +88,13 @@
     {
       "Name": "john",
       "Steam": "76561199050170734",
-      "Score": 9,
-      "Time": "25:48"
+      "Score": 17,
+      "Time": "27:48"
     },
     {
       "Name": "GENERAL PRANCE",
       "Steam": "76561198770429936",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
