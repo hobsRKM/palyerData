@@ -1,59 +1,71 @@
 {
-  "Time": "2026-04-26T02:03:07.9744213Z",
+  "Time": "2026-04-26T02:05:07.9802236Z",
   "Players": [
+    {
+      "Name": "BananaCoComber",
+      "Steam": "76561198969290948",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "BRIS",
       "Steam": "76561198746645989",
-      "Score": 38,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "ribrik",
       "Steam": "76561199501679623",
-      "Score": 2,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "puppy dezro",
       "Steam": "76561199118337666",
       "Score": 34,
-      "Time": "07:47"
-    },
-    {
-      "Name": "twan xud",
-      "Steam": "76561199822962501",
-      "Score": 26,
-      "Time": "17:49"
+      "Time": "09:47"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 27,
+      "Score": 33,
       "Time": "??:??"
     },
     {
-      "Name": "Edgar",
+      "Name": "radianc3.lua Edgar",
       "Steam": "76561198778831537",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 0,
-      "Time": "86:12"
+      "Score": 6,
+      "Time": "88:12"
     },
     {
       "Name": "Kuiiynn",
       "Steam": "76561198902620439",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "NotKenny",
       "Steam": "76561199870970905",
-      "Score": 32,
-      "Time": "17:55"
+      "Score": 43,
+      "Time": "19:55"
+    },
+    {
+      "Name": "sacred",
+      "Steam": "76561198745532984",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kaine",
+      "Steam": "76561199634909491",
+      "Score": 15,
+      "Time": "01:55"
     }
   ]
 }
