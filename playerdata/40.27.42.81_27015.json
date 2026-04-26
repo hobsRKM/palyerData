@@ -1,35 +1,35 @@
 {
-  "Time": "2026-04-25T23:47:07.9188678Z",
+  "Time": "2026-04-25T23:49:07.9228701Z",
   "Players": [
-    {
-      "Name": "root@null:~# netstat -anp",
-      "Steam": "76561198713061040",
-      "Score": 0,
-      "Time": "486:58"
-    },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 2,
-      "Time": "102:56"
+      "Score": 10,
+      "Time": "104:56"
     },
     {
       "Name": "vsed",
       "Steam": "76561198744402588",
-      "Score": 8,
-      "Time": "147:40"
+      "Score": 14,
+      "Time": "149:40"
+    },
+    {
+      "Name": "True Talent Hidden Within Opsec",
+      "Steam": "76561199580355122",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "NotKenny",
       "Steam": "76561199870970905",
-      "Score": 14,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "lulz",
       "Steam": "76561198715889167",
-      "Score": 10,
-      "Time": "21:58"
+      "Score": 12,
+      "Time": "23:58"
     }
   ]
 }
