@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-26T01:07:07.9507425Z",
+  "Time": "2026-04-26T01:09:07.9437586Z",
   "Players": [
-    {
-      "Name": "comfortable",
-      "Steam": "76561199880717233",
-      "Score": 0,
-      "Time": "02:39"
-    },
     {
       "Name": "ribrik",
       "Steam": "76561199501679623",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 8,
-      "Time": "182:56"
+      "Score": 16,
+      "Time": "184:56"
     },
     {
       "Name": "vsed",
       "Steam": "76561198744402588",
-      "Score": 0,
-      "Time": "03:13"
+      "Score": 2,
+      "Time": "05:13"
+    },
+    {
+      "Name": "Kurokendrick",
+      "Steam": "76561199479790668",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "fatmuffinlover99",
       "Steam": "76561198712955993",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "radiance.lua Edgar",
       "Steam": "76561198778831537",
-      "Score": 16,
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "froggiefrog",
+      "Steam": "76561198775058329",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 4,
-      "Time": "30:12"
+      "Score": 6,
+      "Time": "32:12"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 60,
-      "Time": "192:20"
+      "Score": 65,
+      "Time": "194:20"
     }
   ]
 }
