@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-26T01:03:07.9552944Z",
+  "Time": "2026-04-26T01:05:07.9473739Z",
   "Players": [
+    {
+      "Name": "comfortable",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "00:39"
+    },
     {
       "Name": "ribrik",
       "Steam": "76561199501679623",
-      "Score": 9,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 0,
-      "Time": "178:56"
+      "Score": 2,
+      "Time": "180:56"
+    },
+    {
+      "Name": "vsed",
+      "Steam": "76561198744402588",
+      "Score": 2,
+      "Time": "01:13"
     },
     {
       "Name": "SELLING MY BODY FOR ASTRAL.RIp",
       "Steam": "76561198734185305",
-      "Score": 18,
-      "Time": "22:03"
+      "Score": 20,
+      "Time": "24:03"
     },
     {
       "Name": "fatmuffinlover99",
       "Steam": "76561198712955993",
-      "Score": 10,
+      "Score": 11,
       "Time": "??:??"
     },
     {
-      "Name": "Edgar",
+      "Name": "radiance.lua Edgar",
       "Steam": "76561198778831537",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
       "Score": 6,
-      "Time": "26:12"
-    },
-    {
-      "Name": "Erlhyenaplays",
-      "Steam": "76561199187092346",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "28:12"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 47,
-      "Time": "188:20"
+      "Score": 53,
+      "Time": "190:20"
     }
   ]
 }
