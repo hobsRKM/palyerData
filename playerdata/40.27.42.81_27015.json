@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-26T02:09:08.0032729Z",
+  "Time": "2026-04-26T02:11:08.0349649Z",
   "Players": [
+    {
+      "Name": "funeral",
+      "Steam": "76561198914233824",
+      "Score": 2,
+      "Time": "276:45"
+    },
     {
       "Name": "BananaCoComber",
       "Steam": "76561198969290948",
@@ -10,43 +16,49 @@
     {
       "Name": "BRIS",
       "Steam": "76561198746645989",
-      "Score": 51,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "is this heaven? why is it cold",
       "Steam": "76561198144469869",
       "Score": 8,
-      "Time": "493:21"
+      "Time": "495:21"
     },
     {
       "Name": "ribrik",
       "Steam": "76561199501679623",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "puppy dezro",
       "Steam": "76561199118337666",
-      "Score": 52,
-      "Time": "13:47"
+      "Score": 56,
+      "Time": "15:47"
     },
     {
       "Name": "awaki",
       "Steam": "76561199781923058",
-      "Score": 3,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "twan xud",
       "Steam": "76561199822962501",
-      "Score": 8,
-      "Time": "04:00"
+      "Score": 12,
+      "Time": "06:00"
+    },
+    {
+      "Name": "Roma",
+      "Steam": "76561199874070115",
+      "Score": 0,
+      "Time": "03:13"
     },
     {
       "Name": "magehack",
       "Steam": "76561198999235985",
-      "Score": 34,
+      "Score": 36,
       "Time": "??:??"
     },
     {
@@ -56,27 +68,21 @@
       "Time": "??:??"
     },
     {
-      "Name": "radiance.lua Edgar",
+      "Name": "rad|ance.lua Edgar",
       "Steam": "76561198778831537",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "smurfing isn't nice :(",
       "Steam": "76561198782137599",
       "Score": 0,
-      "Time": "00:51"
-    },
-    {
-      "Name": "Scream",
-      "Steam": "76561198738505925",
-      "Score": 0,
-      "Time": "92:12"
+      "Time": "02:51"
     },
     {
       "Name": "Kuiiynn",
       "Steam": "76561198902620439",
-      "Score": 58,
+      "Score": 69,
       "Time": "??:??"
     },
     {
@@ -88,20 +94,20 @@
     {
       "Name": "NotKenny",
       "Steam": "76561199870970905",
-      "Score": 57,
-      "Time": "23:55"
+      "Score": 61,
+      "Time": "25:55"
     },
     {
       "Name": "sacred",
       "Steam": "76561198745532984",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 31,
-      "Time": "05:55"
+      "Score": 38,
+      "Time": "07:55"
     }
   ]
 }
