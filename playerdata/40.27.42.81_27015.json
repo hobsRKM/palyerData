@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-26T20:57:16.5609743Z",
+  "Time": "2026-04-26T20:59:16.5648481Z",
   "Players": [
+    {
+      "Name": "ru",
+      "Steam": "76561198752304739",
+      "Score": 0,
+      "Time": "01:18"
+    },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
@@ -10,38 +16,38 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 14,
-      "Time": "178:41"
+      "Score": 23,
+      "Time": "180:41"
     },
     {
       "Name": "Jaden Gamesense",
       "Steam": "76561199876077209",
-      "Score": 148,
-      "Time": "24:58"
+      "Score": 160,
+      "Time": "26:58"
     },
     {
       "Name": "alannnnnnnnnnnnnnn",
       "Steam": "76561199874390448",
-      "Score": 15,
-      "Time": "08:31"
+      "Score": 16,
+      "Time": "10:31"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "hvh",
       "Steam": "76561199805557263",
-      "Score": 27,
-      "Time": "38:01"
+      "Score": 29,
+      "Time": "40:01"
     },
     {
       "Name": "Abyss",
       "Steam": "76561198771711836",
-      "Score": 19,
-      "Time": "10:33"
+      "Score": 26,
+      "Time": "12:33"
     },
     {
       "Name": "birb",
@@ -52,7 +58,7 @@
     {
       "Name": "SELLING MY BODY FOR ASTRAL.RIp",
       "Steam": "76561198734185305",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -64,14 +70,20 @@
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 38,
-      "Time": "01:56"
+      "Score": 44,
+      "Time": "03:56"
+    },
+    {
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 36,
+      "Time": "00:22"
     },
     {
       "Name": "GENERAL PRANCE",
       "Steam": "76561198770429936",
-      "Score": 45,
-      "Time": "09:33"
+      "Score": 47,
+      "Time": "11:33"
     }
   ]
 }
