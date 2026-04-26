@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-26T00:32:22.8076078Z",
+  "Time": "2026-04-26T00:34:22.8128233Z",
   "Players": [
+    {
+      "Name": "r@d14nce.lua Edgar",
+      "Steam": "76561198778831537",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "SO EZ FOR ME",
       "Steam": "76561199867937863",
-      "Score": 110,
+      "Score": 118,
       "Time": "??:??"
     },
     {
       "Name": "Rxcoil15",
       "Steam": "76561199311106586",
-      "Score": 74,
+      "Score": 83,
       "Time": "??:??"
     },
     {
@@ -22,38 +28,50 @@
     {
       "Name": "cannon",
       "Steam": "76561199612548036",
-      "Score": 7,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mongol",
+      "Steam": "76561198376880879",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "qASPOMNN",
       "Steam": "76561199475549634",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "KatieDoflamingo",
       "Steam": "76561199751548311",
-      "Score": 39,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "dr",
       "Steam": "76561199850072076",
-      "Score": 20,
-      "Time": "11:47"
+      "Score": 22,
+      "Time": "13:47"
+    },
+    {
+      "Name": "DoubleC",
+      "Steam": "76561199160093857",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Lee Kee Bum",
       "Steam": "76561199825732371",
-      "Score": 42,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "banker hvh inda club",
       "Steam": "76561198718568578",
-      "Score": 38,
-      "Time": "20:36"
+      "Score": 50,
+      "Time": "22:36"
     }
   ]
 }
