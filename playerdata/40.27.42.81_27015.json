@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-26T20:09:16.5727956Z",
+  "Time": "2026-04-26T20:11:16.5747124Z",
   "Players": [
+    {
+      "Name": "ru",
+      "Steam": "76561198752304739",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "can u play ken",
       "Steam": "76561199876077209",
-      "Score": 0,
-      "Time": "149:52"
+      "Score": 17,
+      "Time": "151:52"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 69,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 86,
-      "Time": "55:32"
+      "Score": 92,
+      "Time": "57:32"
     },
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 27,
-      "Time": "35:22"
+      "Score": 31,
+      "Time": "37:22"
     },
     {
       "Name": "Abyss",
       "Steam": "76561198771711836",
-      "Score": 23,
-      "Time": "14:12"
+      "Score": 26,
+      "Time": "16:12"
     },
     {
       "Name": "birb",
@@ -46,32 +52,32 @@
     {
       "Name": "ngf",
       "Steam": "76561198744402588",
-      "Score": 0,
-      "Time": "07:54"
+      "Score": 7,
+      "Time": "09:54"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 65,
-      "Time": "16:06"
+      "Score": 67,
+      "Time": "18:06"
     },
     {
       "Name": "stewbert",
       "Steam": "76561198799307603",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 102,
+      "Score": 110,
       "Time": "??:??"
     },
     {
       "Name": "john",
       "Steam": "76561199050170734",
-      "Score": 16,
-      "Time": "05:48"
+      "Score": 20,
+      "Time": "07:48"
     }
   ]
 }
