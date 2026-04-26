@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-26T22:47:16.5936499Z",
+  "Time": "2026-04-26T22:49:16.6009882Z",
   "Players": [
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 9,
-      "Time": "60:40"
+      "Score": 17,
+      "Time": "62:40"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
       "Score": 0,
-      "Time": "193:36"
+      "Time": "195:36"
+    },
+    {
+      "Name": "funeral",
+      "Steam": "76561199145198962",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ASDERA",
@@ -23,25 +29,25 @@
       "Name": "Palm Beach Pete",
       "Steam": "76561199530521634",
       "Score": 0,
-      "Time": "96:01"
+      "Time": "98:01"
     },
     {
       "Name": "lbbXXL",
       "Steam": "76561199698875329",
-      "Score": 18,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 69,
-      "Time": "09:14"
+      "Score": 75,
+      "Time": "11:14"
     },
     {
       "Name": "stewbert",
       "Steam": "76561198799307603",
-      "Score": 14,
-      "Time": "03:56"
+      "Score": 18,
+      "Time": "05:56"
     }
   ]
 }
