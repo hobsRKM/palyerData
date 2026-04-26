@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-26T00:21:07.9477989Z",
+  "Time": "2026-04-26T00:23:07.9410737Z",
   "Players": [
     {
       "Name": "comfortable",
       "Steam": "76561199880717233",
-      "Score": 12,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 63,
-      "Time": "136:56"
+      "Score": 68,
+      "Time": "138:56"
     },
     {
       "Name": "67",
       "Steam": "76561199874390448",
-      "Score": 11,
-      "Time": "06:02"
+      "Score": 12,
+      "Time": "08:02"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "miley ashley ..",
       "Steam": "76561199588698108",
-      "Score": 25,
-      "Time": "124:16"
+      "Score": 37,
+      "Time": "126:16"
     },
     {
       "Name": "HvHbot (test)",
       "Steam": "76561198197230391",
       "Score": 0,
-      "Time": "01:36"
+      "Time": "03:36"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 111,
-      "Time": "27:50"
+      "Score": 119,
+      "Time": "29:50"
     },
     {
       "Name": "NotKenny",
       "Steam": "76561199870970905",
-      "Score": 49,
+      "Score": 53,
       "Time": "??:??"
+    },
+    {
+      "Name": "quack quack",
+      "Steam": "76561199050170734",
+      "Score": 0,
+      "Time": "00:50"
     }
   ]
 }
