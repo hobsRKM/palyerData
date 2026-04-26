@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-26T17:39:16.5658092Z",
+  "Time": "2026-04-26T17:41:16.5612281Z",
   "Players": [
+    {
+      "Name": "can u play ken",
+      "Steam": "76561199876077209",
+      "Score": 6,
+      "Time": "01:52"
+    },
     {
       "Name": "birb",
       "Steam": "76561199366903380",
@@ -10,37 +16,43 @@
     {
       "Name": "Aru",
       "Steam": "76561199706248567",
-      "Score": 98,
-      "Time": "36:46"
+      "Score": 109,
+      "Time": "38:46"
     },
     {
       "Name": "smurfing isn't nice :(",
       "Steam": "76561198782137599",
-      "Score": 43,
-      "Time": "21:33"
+      "Score": 45,
+      "Time": "23:33"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199158419168",
-      "Score": 51,
-      "Time": "19:20"
+      "Score": 57,
+      "Time": "21:20"
     },
     {
       "Name": "Roma",
       "Steam": "76561199874070115",
-      "Score": 42,
+      "Score": 45,
       "Time": "??:??"
+    },
+    {
+      "Name": "StarBucks",
+      "Steam": "76561199027102809",
+      "Score": 4,
+      "Time": "00:40"
     },
     {
       "Name": "бесогон",
       "Steam": "76561199849971677",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 41,
+      "Score": 48,
       "Time": "??:??"
     },
     {
@@ -52,7 +64,7 @@
     {
       "Name": "Codaxy",
       "Steam": "76561198144469869",
-      "Score": 13,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
