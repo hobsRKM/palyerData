@@ -1,47 +1,59 @@
 {
-  "Time": "2026-04-25T23:53:07.9448594Z",
+  "Time": "2026-04-25T23:55:07.938422Z",
   "Players": [
+    {
+      "Name": "Novice222",
+      "Steam": "76561199530038379",
+      "Score": 9,
+      "Time": "01:46"
+    },
     {
       "Name": "bober",
       "Steam": "76561199153854490",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 21,
-      "Time": "108:56"
+      "Score": 26,
+      "Time": "110:56"
     },
     {
       "Name": "vsed",
       "Steam": "76561198744402588",
-      "Score": 2,
-      "Time": "153:40"
+      "Score": 4,
+      "Time": "155:40"
     },
     {
       "Name": "smurfing isn't nice :(",
       "Steam": "76561198782137599",
-      "Score": 10,
-      "Time": "01:56"
+      "Score": 18,
+      "Time": "03:56"
+    },
+    {
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 18,
+      "Time": "01:50"
     },
     {
       "Name": "NotKenny",
       "Steam": "76561199870970905",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "quack quack",
       "Steam": "76561199050170734",
-      "Score": 14,
-      "Time": "03:31"
+      "Score": 22,
+      "Time": "05:31"
     },
     {
       "Name": "lulz",
       "Steam": "76561198715889167",
-      "Score": 18,
-      "Time": "27:58"
+      "Score": 19,
+      "Time": "29:58"
     }
   ]
 }
