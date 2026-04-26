@@ -1,28 +1,34 @@
 {
-  "Time": "2026-04-26T01:11:07.9514093Z",
+  "Time": "2026-04-26T01:13:07.9477751Z",
   "Players": [
     {
       "Name": "ribrik",
       "Steam": "76561199501679623",
-      "Score": 37,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "EZFrags.Beta",
       "Steam": "76561198719928945",
-      "Score": 27,
-      "Time": "186:56"
+      "Score": 33,
+      "Time": "188:56"
     },
     {
       "Name": "vsed",
       "Steam": "76561198744402588",
-      "Score": 12,
-      "Time": "07:13"
+      "Score": 0,
+      "Time": "09:13"
+    },
+    {
+      "Name": "Evil Ander Dingus",
+      "Steam": "76561199754359530",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Kurokendrick",
       "Steam": "76561199479790668",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -32,22 +38,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "radia|/|ce.lua Edgar",
+      "Name": "ance.luaradi Edgar",
       "Steam": "76561198778831537",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "froggiefrog",
       "Steam": "76561198775058329",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Scream",
       "Steam": "76561198738505925",
-      "Score": 10,
-      "Time": "34:12"
+      "Score": 15,
+      "Time": "36:12"
     }
   ]
 }
