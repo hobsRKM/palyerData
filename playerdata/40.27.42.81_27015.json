@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-27T23:11:25.7185999Z",
+  "Time": "2026-04-27T23:13:25.7232711Z",
   "Players": [
+    {
+      "Name": "it was supposed to be you",
+      "Steam": "76561199880717233",
+      "Score": 4,
+      "Time": "00:39"
+    },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 31,
-      "Time": "69:48"
+      "Score": 35,
+      "Time": "71:48"
     },
     {
       "Name": "2020",
       "Steam": "76561199876077209",
-      "Score": 41,
-      "Time": "13:53"
+      "Score": 56,
+      "Time": "15:53"
     },
     {
       "Name": "hacker detecte \uD83D\uDE02\uD83D\uDE02",
@@ -23,19 +29,19 @@
       "Name": "not josh",
       "Steam": "76561198717759615",
       "Score": 26,
-      "Time": "14:39"
+      "Time": "16:39"
     },
     {
       "Name": "shakespeare",
       "Steam": "76561199823431156",
-      "Score": 31,
-      "Time": "74:42"
+      "Score": 33,
+      "Time": "76:42"
     },
     {
       "Name": "begging for gamesense inv day 18",
       "Steam": "76561199530521634",
-      "Score": 1,
-      "Time": "31:40"
+      "Score": 7,
+      "Time": "33:40"
     },
     {
       "Name": "fakov",
@@ -46,31 +52,25 @@
     {
       "Name": "Fluffer Nutter",
       "Steam": "76561199080397143",
-      "Score": 41,
-      "Time": "07:07"
+      "Score": 56,
+      "Time": "09:07"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 61,
-      "Time": "20:22"
+      "Score": 67,
+      "Time": "22:22"
     },
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 89,
+      "Score": 97,
       "Time": "??:??"
     },
     {
       "Name": "フェムボーイ",
       "Steam": "76561199812220752",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "sacred",
-      "Steam": "76561198745532984",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
