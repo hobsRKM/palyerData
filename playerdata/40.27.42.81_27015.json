@@ -1,16 +1,16 @@
 {
-  "Time": "2026-04-27T04:59:17.4527883Z",
+  "Time": "2026-04-27T05:01:17.453226Z",
   "Players": [
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 0,
-      "Time": "04:18"
+      "Score": 2,
+      "Time": "06:18"
     },
     {
       "Name": "dog",
       "Steam": "76561198719943792",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -22,20 +22,26 @@
     {
       "Name": "yuyu",
       "Steam": "76561198725067196",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "fuze",
+      "Steam": "76561199273977862",
+      "Score": 0,
+      "Time": "662:19"
     },
     {
       "Name": "johnslurpjuice67",
       "Steam": "76561198714180742",
-      "Score": 5,
+      "Score": 12,
       "Time": "??:??"
     },
     {
-      "Name": "radiance.lua Anne frank",
+      "Name": "radi@nce.lua Anne frank",
       "Steam": "76561199745812089",
-      "Score": 4,
-      "Time": "81:11"
+      "Score": 12,
+      "Time": "83:11"
     },
     {
       "Name": "Dooly",
@@ -46,13 +52,19 @@
     {
       "Name": "1",
       "Steam": "76561198790474031",
-      "Score": 0,
-      "Time": "24:38"
+      "Score": 6,
+      "Time": "26:38"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 0,
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Chimp",
+      "Steam": "76561198421081599",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
