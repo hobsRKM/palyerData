@@ -1,17 +1,29 @@
 {
-  "Time": "2026-04-27T18:43:25.7251369Z",
+  "Time": "2026-04-27T18:45:25.7176791Z",
   "Players": [
+    {
+      "Name": "it was supposed to be you",
+      "Steam": "76561199880717233",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bad",
+      "Steam": "76561198281663381",
+      "Score": 2,
+      "Time": "01:57"
+    },
     {
       "Name": "Hue Janus",
       "Steam": "76561198711992813",
-      "Score": 0,
-      "Time": "17:02"
+      "Score": 5,
+      "Time": "19:02"
     },
     {
       "Name": "P",
       "Steam": "76561199828563808",
-      "Score": 0,
-      "Time": "19:50"
+      "Score": 2,
+      "Time": "21:50"
     },
     {
       "Name": "epichacker",
@@ -22,13 +34,13 @@
     {
       "Name": "No Thoughts",
       "Steam": "76561198752949729",
-      "Score": 29,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198752304739",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
