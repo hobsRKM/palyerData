@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-28T14:00:46.1160618Z",
+  "Time": "2026-04-28T14:02:46.1237632Z",
   "Players": [
+    {
+      "Name": "is Gaten friendly?",
+      "Steam": "76561198727728569",
+      "Score": 3,
+      "Time": "01:07"
+    },
     {
       "Name": "Morii",
       "Steam": "76561197963070614",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Prayer",
       "Steam": "76561199022017965",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
