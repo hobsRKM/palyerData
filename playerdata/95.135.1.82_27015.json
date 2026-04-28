@@ -1,11 +1,17 @@
 {
-  "Time": "2026-04-28T17:20:30.5607343Z",
+  "Time": "2026-04-28T17:26:30.549065Z",
   "Players": [
     {
       "Name": "PeterPeterPumpkinEater",
       "Steam": "76561199574637826",
-      "Score": 8,
+      "Score": 13,
       "Time": "??:??"
+    },
+    {
+      "Name": "DOOM",
+      "Steam": "76561199050013204",
+      "Score": 0,
+      "Time": "254:30"
     },
     {
       "Name": "\"'",
@@ -16,26 +22,14 @@
     {
       "Name": "Kszyrztof",
       "Steam": "76561198721488084",
-      "Score": 6,
-      "Time": "06:40"
-    },
-    {
-      "Name": "jeffrey",
-      "Steam": "76561198130789647",
-      "Score": 1,
-      "Time": "??:??"
+      "Score": 34,
+      "Time": "12:40"
     },
     {
       "Name": "LyGaming",
       "Steam": "76561198966468055",
-      "Score": 0,
+      "Score": 12,
       "Time": "??:??"
-    },
-    {
-      "Name": "\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21",
-      "Steam": "76561198781872423",
-      "Score": 54,
-      "Time": "245:55"
     }
   ]
 }
