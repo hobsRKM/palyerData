@@ -1,4 +1,41 @@
 {
-  "Time": "2026-04-28T10:14:30.5440504Z",
-  "Players": []
+  "Time": "2026-04-28T10:14:54.3778893Z",
+  "Players": [
+    {
+      "Name": "murphy",
+      "Steam": "76561199521149106",
+      "Score": 6,
+      "Time": "244:14"
+    },
+    {
+      "Name": "godcomplex",
+      "Steam": "76561199036333155",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TÜRK'S",
+      "Steam": "76561199327207777",
+      "Score": 2,
+      "Time": "118:22"
+    },
+    {
+      "Name": "Abdul Osama D.3",
+      "Steam": "76561199613550130",
+      "Score": 1,
+      "Time": "148:53"
+    },
+    {
+      "Name": "bosu regele",
+      "Steam": "76561199520085345",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ronehl",
+      "Steam": "76561199805314494",
+      "Score": 0,
+      "Time": "15:07"
+    }
+  ]
 }
