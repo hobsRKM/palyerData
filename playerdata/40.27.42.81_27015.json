@@ -1,53 +1,59 @@
 {
-  "Time": "2026-04-28T04:41:25.7836107Z",
+  "Time": "2026-04-28T04:43:25.7951796Z",
   "Players": [
+    {
+      "Name": "y",
+      "Steam": "76561199837114653",
+      "Score": 0,
+      "Time": "391:16"
+    },
     {
       "Name": "kiki",
       "Steam": "76561198772659643",
-      "Score": 41,
-      "Time": "14:17"
+      "Score": 48,
+      "Time": "16:17"
     },
     {
       "Name": "begging for gamesense inv day 18",
       "Steam": "76561199530521634",
       "Score": 0,
-      "Time": "260:03"
+      "Time": "262:03"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 22,
-      "Time": "257:23"
+      "Score": 28,
+      "Time": "259:24"
     },
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 56,
-      "Time": "179:25"
+      "Score": 67,
+      "Time": "181:25"
     },
     {
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
-      "Score": 21,
-      "Time": "224:28"
+      "Score": 27,
+      "Time": "226:28"
     },
     {
       "Name": "mocks420",
       "Steam": "76561198708778534",
-      "Score": 2,
-      "Time": "93:18"
+      "Score": 6,
+      "Time": "95:18"
     },
     {
       "Name": "NL worker",
       "Steam": "76561199778070124",
-      "Score": 52,
-      "Time": "51:50"
+      "Score": 58,
+      "Time": "53:50"
     },
     {
       "Name": "smurfing isn't nice :(",
       "Steam": "76561198782137599",
-      "Score": 51,
-      "Time": "399:44"
+      "Score": 55,
+      "Time": "401:44"
     }
   ]
 }
