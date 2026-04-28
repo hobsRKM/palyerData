@@ -1,17 +1,23 @@
 {
-  "Time": "2026-04-28T02:58:54.3789198Z",
+  "Time": "2026-04-28T03:00:54.3782688Z",
   "Players": [
     {
       "Name": "Mjay",
       "Steam": "76561199237707727",
-      "Score": 19,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sd",
+      "Steam": "76561198344704437",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 87,
-      "Time": "164:24"
+      "Score": 0,
+      "Time": "00:24"
     },
     {
       "Name": "wre",
@@ -20,34 +26,34 @@
       "Time": "??:??"
     },
     {
-      "Name": "Kszyrztof",
-      "Steam": "76561198721488084",
-      "Score": 95,
-      "Time": "40:30"
-    },
-    {
-      "Name": "Kit Cobain",
-      "Steam": "76561198712611951",
+      "Name": "184",
+      "Steam": "76561199371174195",
       "Score": 0,
       "Time": "??:??"
     },
     {
+      "Name": "Kszyrztof",
+      "Steam": "76561198721488084",
+      "Score": 0,
+      "Time": "42:30"
+    },
+    {
       "Name": "src",
       "Steam": "76561198241397796",
-      "Score": 68,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ebetti1805",
       "Steam": "76561199390203782",
-      "Score": 39,
-      "Time": "542:23"
+      "Score": 0,
+      "Time": "544:23"
     },
     {
       "Name": "lean",
       "Steam": "76561198728840802",
-      "Score": 13,
-      "Time": "44:48"
+      "Score": 0,
+      "Time": "46:48"
     },
     {
       "Name": "sivilpolis1948",
@@ -58,20 +64,20 @@
     {
       "Name": "effrayant",
       "Steam": "76561198195247117",
-      "Score": 78,
-      "Time": "604:09"
+      "Score": 0,
+      "Time": "606:09"
     },
     {
       "Name": "FractaL",
       "Steam": "76561198713353324",
-      "Score": 1,
-      "Time": "608:17"
+      "Score": 0,
+      "Time": "610:17"
     },
     {
       "Name": "Julian Qzeng",
       "Steam": "76561199699023502",
-      "Score": 60,
-      "Time": "159:12"
+      "Score": 0,
+      "Time": "161:12"
     }
   ]
 }
