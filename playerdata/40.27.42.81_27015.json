@@ -1,11 +1,17 @@
 {
-  "Time": "2026-04-28T10:21:20.5407601Z",
+  "Time": "2026-04-28T10:23:20.5386188Z",
   "Players": [
+    {
+      "Name": "disco",
+      "Steam": "76561198716614646",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 27,
-      "Time": "08:25"
+      "Score": 39,
+      "Time": "10:25"
     },
     {
       "Name": "Sticky Nicky",
@@ -16,13 +22,13 @@
     {
       "Name": "Entity",
       "Steam": "76561199825236538",
-      "Score": 33,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "Novice222",
       "Steam": "76561199568939629",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     }
   ]
