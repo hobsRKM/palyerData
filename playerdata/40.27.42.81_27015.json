@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-28T06:37:25.8079865Z",
+  "Time": "2026-04-28T06:39:25.8117888Z",
   "Players": [
+    {
+      "Name": "kiki",
+      "Steam": "76561198772659643",
+      "Score": 4,
+      "Time": "01:23"
+    },
     {
       "Name": "wre",
       "Steam": "76561198744402588",
-      "Score": 24,
-      "Time": "08:47"
+      "Score": 26,
+      "Time": "10:47"
     },
     {
       "Name": "begging for gamesense inv day 18",
       "Steam": "76561199530521634",
       "Score": 0,
-      "Time": "376:03"
+      "Time": "378:03"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 29,
-      "Time": "37:13"
+      "Score": 35,
+      "Time": "39:13"
     }
   ]
 }
