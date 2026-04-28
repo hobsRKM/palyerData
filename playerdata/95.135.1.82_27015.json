@@ -1,10 +1,10 @@
 {
-  "Time": "2026-04-28T11:22:30.5491592Z",
+  "Time": "2026-04-28T11:24:30.5562981Z",
   "Players": [
     {
       "Name": "vance",
       "Steam": "76561199889697498",
-      "Score": 57,
+      "Score": 66,
       "Time": "??:??"
     },
     {
@@ -16,26 +16,32 @@
     {
       "Name": "trascavlad2008",
       "Steam": "76561199870646030",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE38\uD835\uDE29\uD835\uDE22\uD835\uDE22\uD835\uDE22\uD835\uDE22\uD835\uDE22\uD835\uDE22",
       "Steam": "76561198738136565",
-      "Score": 30,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "DOOM",
       "Steam": "76561199050013204",
-      "Score": 3,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "moon",
       "Steam": "76561199676449396",
-      "Score": 3,
-      "Time": "00:20"
+      "Score": 9,
+      "Time": "02:20"
+    },
+    {
+      "Name": "NEVERLOSE",
+      "Steam": "76561198718619559",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
