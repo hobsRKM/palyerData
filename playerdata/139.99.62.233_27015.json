@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-28T10:04:46.1289687Z",
+  "Time": "2026-04-28T10:06:46.1294014Z",
   "Players": [
     {
       "Name": "Pussy Patrick",
       "Steam": "76561198717523615",
-      "Score": 0,
-      "Time": "00:59"
+      "Score": 2,
+      "Time": "03:00"
     },
     {
       "Name": "chunkymonkey",
       "Steam": "76561199662653234",
-      "Score": 23,
+      "Score": 33,
       "Time": "??:??"
+    },
+    {
+      "Name": "CiDo",
+      "Steam": "76561198855206904",
+      "Score": 0,
+      "Time": "01:17"
     },
     {
       "Name": "de_Onikata",
       "Steam": "76561198717392464",
-      "Score": 11,
-      "Time": "05:47"
+      "Score": 15,
+      "Time": "07:47"
     }
   ]
 }
