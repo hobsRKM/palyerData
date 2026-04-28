@@ -1,16 +1,22 @@
 {
-  "Time": "2026-04-28T13:22:46.133949Z",
+  "Time": "2026-04-28T13:24:46.132882Z",
   "Players": [
+    {
+      "Name": "is Gaten friendly?",
+      "Steam": "76561198727728569",
+      "Score": 0,
+      "Time": "00:35"
+    },
     {
       "Name": "Van Helsing",
       "Steam": "76561198708901049",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "ham",
       "Steam": "76561199755759659",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "ok",
       "Steam": "76561199720660695",
-      "Score": 33,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "ruski",
       "Steam": "76561199699400028",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
