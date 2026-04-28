@@ -1,41 +1,47 @@
 {
-  "Time": "2026-04-28T19:17:20.5319331Z",
+  "Time": "2026-04-28T19:19:20.5431237Z",
   "Players": [
     {
       "Name": "2020",
       "Steam": "76561199876077209",
-      "Score": 3,
-      "Time": "24:00"
+      "Score": 10,
+      "Time": "26:00"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 47,
-      "Time": "70:00"
+      "Score": 59,
+      "Time": "72:00"
     },
     {
       "Name": "P",
       "Steam": "76561199828563808",
-      "Score": 8,
-      "Time": "43:39"
+      "Score": 0,
+      "Time": "45:39"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 59,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "Marshall",
       "Steam": "76561199817229938",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "shakespeare",
       "Steam": "76561199823431156",
       "Score": 0,
-      "Time": "56:05"
+      "Time": "58:05"
+    },
+    {
+      "Name": "bb",
+      "Steam": "76561198805086644",
+      "Score": 4,
+      "Time": "??:??"
     }
   ]
 }
