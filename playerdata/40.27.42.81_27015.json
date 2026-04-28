@@ -1,53 +1,53 @@
 {
-  "Time": "2026-04-28T22:13:20.533249Z",
+  "Time": "2026-04-28T22:15:20.540463Z",
   "Players": [
+    {
+      "Name": "2020",
+      "Steam": "76561199876077209",
+      "Score": 0,
+      "Time": "01:13"
+    },
     {
       "Name": "nosebleed",
       "Steam": "76561199229491501",
-      "Score": 41,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 106,
-      "Time": "34:20"
+      "Score": 110,
+      "Time": "36:20"
     },
     {
       "Name": "Kiyoshi",
       "Steam": "76561199117778799",
-      "Score": 36,
-      "Time": "23:20"
+      "Score": 40,
+      "Time": "25:20"
     },
     {
       "Name": "y",
       "Steam": "76561199837114653",
-      "Score": 55,
-      "Time": "06:51"
+      "Score": 67,
+      "Time": "08:51"
     },
     {
       "Name": "next #iwnl #wisemuslim",
       "Steam": "76561198199806545",
-      "Score": 45,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "twink :3",
       "Steam": "76561198742051391",
-      "Score": 20,
+      "Score": 30,
       "Time": "??:??"
-    },
-    {
-      "Name": "WOAH",
-      "Steam": "76561199829175693",
-      "Score": 6,
-      "Time": "82:26"
     },
     {
       "Name": "baggchaser",
       "Steam": "76561199315687818",
-      "Score": 52,
-      "Time": "44:03"
+      "Score": 0,
+      "Time": "46:03"
     }
   ]
 }
