@@ -1,4 +1,29 @@
 {
-  "Time": "2026-04-29T20:04:29.4001464Z",
-  "Players": []
+  "Time": "2026-04-29T20:04:39.1414358Z",
+  "Players": [
+    {
+      "Name": "[7] Mercury",
+      "Steam": "76561198311329253",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lean",
+      "Steam": "76561198728840802",
+      "Score": 2,
+      "Time": "10:43"
+    },
+    {
+      "Name": "PeterPeterPumpkinEater",
+      "Steam": "76561199574637826",
+      "Score": 4,
+      "Time": "235:53"
+    }
+  ]
 }
