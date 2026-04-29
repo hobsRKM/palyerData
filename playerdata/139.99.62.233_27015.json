@@ -1,41 +1,53 @@
 {
-  "Time": "2026-04-29T12:06:16.7374927Z",
+  "Time": "2026-04-29T12:08:16.7452163Z",
   "Players": [
+    {
+      "Name": "q2fjpylycnrbg0rd",
+      "Steam": "76561198713542795",
+      "Score": 24,
+      "Time": "02:02"
+    },
     {
       "Name": "Bigguy11",
       "Steam": "76561199834815113",
-      "Score": 32,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Vexi1337",
       "Steam": "76561199747824672",
-      "Score": 40,
-      "Time": "54:36"
+      "Score": 44,
+      "Time": "56:36"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 69,
-      "Time": "57:43"
+      "Score": 71,
+      "Time": "00:21"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 54,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "Ghostsniper",
       "Steam": "76561199590144260",
-      "Score": 0,
-      "Time": "44:58"
+      "Score": 8,
+      "Time": "46:58"
     },
     {
       "Name": "sadd3991",
       "Steam": "76561199197302466",
-      "Score": 6,
-      "Time": "11:09"
+      "Score": 2,
+      "Time": "13:09"
+    },
+    {
+      "Name": "CHEN",
+      "Steam": "76561199202329026",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
