@@ -1,4 +1,35 @@
 {
-  "Time": "2026-04-29T19:46:53.960817Z",
-  "Players": []
+  "Time": "2026-04-29T19:48:36.3101351Z",
+  "Players": [
+    {
+      "Name": "NeverLose",
+      "Steam": "76561199848019109",
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] lighthvh",
+      "Steam": "76561198718626195",
+      "Score": 32,
+      "Time": "46:00"
+    },
+    {
+      "Name": "[Monolith] zenox30k",
+      "Steam": "76561199846375753",
+      "Score": 0,
+      "Time": "24:53"
+    },
+    {
+      "Name": "Claude",
+      "Steam": "76561198726655992",
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561198781872423",
+      "Score": 5,
+      "Time": "??:??"
+    }
+  ]
 }
