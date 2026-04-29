@@ -1,35 +1,41 @@
 {
-  "Time": "2026-04-29T12:32:16.7400374Z",
+  "Time": "2026-04-29T12:34:16.7531101Z",
   "Players": [
     {
-      "Name": "> A_ | is Gaten friendly?",
+      "Name": "$$$",
+      "Steam": "76561199873776493",
+      "Score": 0,
+      "Time": "01:51"
+    },
+    {
+      "Name": "> AURA_ | is Gaten friendly?",
       "Steam": "76561198727728569",
       "Score": 23,
-      "Time": "13:12"
+      "Time": "15:12"
     },
     {
       "Name": "Vexi1337",
       "Steam": "76561199747824672",
-      "Score": 14,
-      "Time": "80:36"
+      "Score": 26,
+      "Time": "82:36"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 14,
-      "Time": "15:44"
+      "Score": 2,
+      "Time": "17:44"
     },
     {
       "Name": "Ghostsniper",
       "Steam": "76561199590144260",
-      "Score": 6,
-      "Time": "70:58"
+      "Score": 14,
+      "Time": "72:58"
     },
     {
       "Name": "sadd3991",
       "Steam": "76561199197302466",
-      "Score": 13,
-      "Time": "37:09"
+      "Score": 18,
+      "Time": "39:09"
     }
   ]
 }
