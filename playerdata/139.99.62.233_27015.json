@@ -1,22 +1,28 @@
 {
-  "Time": "2026-04-30T08:53:17.6032823Z",
+  "Time": "2026-04-30T08:55:17.6005604Z",
   "Players": [
     {
       "Name": "xyz 1337",
       "Steam": "76561199086394303",
-      "Score": 6,
-      "Time": "15:27"
+      "Score": 10,
+      "Time": "17:27"
     },
     {
       "Name": "FATALITY.WIN",
       "Steam": "76561198171080107",
-      "Score": 13,
-      "Time": "01:20"
+      "Score": 17,
+      "Time": "03:20"
     },
     {
       "Name": "abc",
       "Steam": "76561199476869827",
-      "Score": 8,
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "q2fjpylycnrbg0rd",
+      "Steam": "76561198713542795",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
