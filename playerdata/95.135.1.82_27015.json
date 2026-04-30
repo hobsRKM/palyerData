@@ -1,41 +1,35 @@
 {
-  "Time": "2026-04-30T17:32:20.4157228Z",
+  "Time": "2026-04-30T17:32:30.9513304Z",
   "Players": [
     {
-      "Name": "neverwin",
-      "Steam": "76561198714482463",
+      "Name": "Big man’s man",
+      "Steam": "76561199864011550",
+      "Score": 77,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Honzis",
+      "Steam": "76561198712352288",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GUGU-GAGA",
+      "Steam": "76561198715830698",
       "Score": 36,
+      "Time": "80:19"
+    },
+    {
+      "Name": "hoopinghoper",
+      "Steam": "76561199674785177",
+      "Score": 52,
+      "Time": "65:42"
+    },
+    {
+      "Name": "OOOO AAAAA",
+      "Steam": "76561198775505133",
+      "Score": 5,
       "Time": "??:??"
-    },
-    {
-      "Name": "Gabrysek",
-      "Steam": "76561198324234734",
-      "Score": 4,
-      "Time": "02:39"
-    },
-    {
-      "Name": "epstine",
-      "Steam": "76561198710311683",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "farbrorfrej",
-      "Steam": "76561198400319378",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
-      "Name": "RotteFar",
-      "Steam": "76561199469206934",
-      "Score": 33,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ŁORLD",
-      "Steam": "76561198769290934",
-      "Score": 16,
-      "Time": "03:18"
     }
   ]
 }
