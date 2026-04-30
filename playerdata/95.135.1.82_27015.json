@@ -1,47 +1,41 @@
 {
-  "Time": "2026-04-30T21:20:20.4071532Z",
+  "Time": "2026-04-30T21:22:20.410023Z",
   "Players": [
+    {
+      "Name": "freezyk26",
+      "Steam": "76561198713085720",
+      "Score": 3,
+      "Time": "01:20"
+    },
     {
       "Name": "boss",
       "Steam": "76561198760751296",
-      "Score": 34,
-      "Time": "377:38"
-    },
-    {
-      "Name": "TentBuilder",
-      "Steam": "76561198724188430",
-      "Score": 0,
-      "Time": "20:33"
+      "Score": 41,
+      "Time": "379:38"
     },
     {
       "Name": "0MEH",
       "Steam": "76561198418699703",
-      "Score": 11,
-      "Time": "229:36"
+      "Score": 0,
+      "Time": "231:36"
     },
     {
       "Name": "Her Dumb Puppy Slut",
       "Steam": "76561198721540796",
-      "Score": 8,
-      "Time": "04:56"
+      "Score": 12,
+      "Time": "06:56"
     },
     {
       "Name": "Лохматый",
       "Steam": "76561198783200578",
-      "Score": 21,
-      "Time": "16:59"
-    },
-    {
-      "Name": "! ᴴᵛᴿˢ\uD835\uDDD6\uD835\uDDF5\uD835\uDDEE\uD835\uDDFCZ",
-      "Steam": "76561199803191679",
-      "Score": 2,
-      "Time": "12:42"
+      "Score": 25,
+      "Time": "01:41"
     },
     {
       "Name": "\uDB40\uDC73⁧⁧synthax",
       "Steam": "76561198237882836",
-      "Score": 23,
-      "Time": "96:14"
+      "Score": 35,
+      "Time": "98:14"
     }
   ]
 }
