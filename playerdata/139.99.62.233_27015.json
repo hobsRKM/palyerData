@@ -1,23 +1,29 @@
 {
-  "Time": "2026-04-30T14:15:17.603487Z",
+  "Time": "2026-04-30T14:17:17.6077043Z",
   "Players": [
     {
       "Name": "xyz 1337",
       "Steam": "76561199086394303",
-      "Score": 14,
-      "Time": "05:32"
+      "Score": 22,
+      "Time": "07:32"
     },
     {
       "Name": "Wraith Ka Fufa",
       "Steam": "76561198711116345",
       "Score": 0,
-      "Time": "01:42"
+      "Time": "03:42"
     },
     {
       "Name": "Columbina",
       "Steam": "76561198737364139",
-      "Score": 20,
-      "Time": "18:31"
+      "Score": 28,
+      "Time": "20:31"
+    },
+    {
+      "Name": "FELTDEVIL",
+      "Steam": "76561199034410209",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
