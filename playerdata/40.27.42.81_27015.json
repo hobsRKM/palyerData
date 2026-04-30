@@ -1,5 +1,5 @@
 {
-  "Time": "2026-04-30T10:53:04.4464688Z",
+  "Time": "2026-04-30T10:55:04.4457777Z",
   "Players": [
     {
       "Name": "disco",
@@ -10,8 +10,8 @@
     {
       "Name": "twan xud",
       "Steam": "76561199822962501",
-      "Score": 11,
-      "Time": "06:56"
+      "Score": 13,
+      "Time": "08:56"
     },
     {
       "Name": "CHATGPTV2",
@@ -26,10 +26,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "gamesense     disco",
+      "Name": "games disco",
       "Steam": "76561198716614646",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "baimsense baimlord",
+      "Steam": "76561199265205900",
+      "Score": 0,
+      "Time": "02:01"
     }
   ]
 }
