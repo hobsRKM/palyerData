@@ -1,101 +1,35 @@
 {
-  "Time": "2026-05-01T19:35:01.7945547Z",
+  "Time": "2026-05-01T19:36:34.7064898Z",
   "Players": [
     {
-      "Name": "Goofy",
-      "Steam": "76561199690446269",
+      "Name": "Халис",
+      "Steam": "76561199593965995",
+      "Score": 6,
+      "Time": "179:08"
+    },
+    {
+      "Name": "*Glock*",
+      "Steam": "76561199184030773",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Lacoste\uD83C\uDF80",
+      "Steam": "76561199273679278",
+      "Score": 6,
+      "Time": "33:09"
+    },
+    {
+      "Name": "413",
+      "Steam": "76561199131900979",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "! ᴴᵛᴿˢ\uD835\uDDD6\uD835\uDDF5\uD835\uDDEE\uD835\uDDFCZ",
-      "Steam": "76561199803191679",
-      "Score": 41,
-      "Time": "03:02"
-    },
-    {
-      "Name": "\uDB40\uDC21\uDB40\uDC21 \uDB40\uDC21\uDB40\uDC21",
-      "Steam": "76561198409560171",
-      "Score": 51,
-      "Time": "14:32"
-    },
-    {
-      "Name": "e",
-      "Steam": "76561199069760164",
-      "Score": 10,
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "adromiwdolfgkmfs",
-      "Steam": "76561198711402656",
-      "Score": 19,
-      "Time": "104:27"
-    },
-    {
-      "Name": "queue",
-      "Steam": "76561198341012123",
-      "Score": 110,
-      "Time": "??:??"
-    },
-    {
-      "Name": "freakyy",
-      "Steam": "76561199444927574",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "нишевый парень",
-      "Steam": "76561198728697573",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "BonQEQE",
-      "Steam": "76561198418443435",
-      "Score": 38,
-      "Time": "??:??"
-    },
-    {
-      "Name": "D4emon",
-      "Steam": "76561199840077614",
-      "Score": 93,
-      "Time": "324:35"
-    },
-    {
-      "Name": "s",
-      "Steam": "76561197967011618",
-      "Score": 28,
-      "Time": "??:??"
-    },
-    {
-      "Name": "alyamotez",
-      "Steam": "76561198380224671",
-      "Score": 51,
-      "Time": "??:??"
-    },
-    {
-      "Name": "AKH",
-      "Steam": "76561197971640439",
-      "Score": 6,
-      "Time": "281:51"
-    },
-    {
-      "Name": "ElPatrick",
-      "Steam": "76561197990231465",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
-      "Name": "1uid",
-      "Steam": "76561198711452285",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Neverlose missed do too Death",
-      "Steam": "76561199660084002",
-      "Score": 8,
-      "Time": "00:56"
     }
   ]
 }
