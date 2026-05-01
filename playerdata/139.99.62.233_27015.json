@@ -1,23 +1,35 @@
 {
-  "Time": "2026-05-01T19:58:57.5338628Z",
+  "Time": "2026-05-01T20:00:57.5178581Z",
   "Players": [
     {
       "Name": "Nyx",
       "Steam": "76561199433570526",
-      "Score": 3,
-      "Time": "01:10"
+      "Score": 9,
+      "Time": "03:10"
+    },
+    {
+      "Name": "17before",
+      "Steam": "76561199780856796",
+      "Score": 0,
+      "Time": "00:50"
     },
     {
       "Name": "ppm",
       "Steam": "76561199798184596",
-      "Score": 46,
-      "Time": "25:40"
+      "Score": 53,
+      "Time": "27:40"
     },
     {
       "Name": "x1Re",
       "Steam": "76561199706448843",
-      "Score": 43,
-      "Time": "24:10"
+      "Score": 46,
+      "Time": "26:10"
+    },
+    {
+      "Name": "GDBDVICELORD (DEAD HOMIES)",
+      "Steam": "76561199648325653",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
