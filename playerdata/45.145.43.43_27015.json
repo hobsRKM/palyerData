@@ -1,4 +1,29 @@
 {
-  "Time": "2026-05-01T23:22:33.9698627Z",
-  "Players": []
+  "Time": "2026-05-01T23:23:47.6047781Z",
+  "Players": [
+    {
+      "Name": "evelyn",
+      "Steam": "76561198203674125",
+      "Score": 23,
+      "Time": "03:21"
+    },
+    {
+      "Name": "Terry the Terrible Tourette",
+      "Steam": "76561198960304742",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Twinqp",
+      "Steam": "76561198721349342",
+      "Score": 28,
+      "Time": "01:21"
+    },
+    {
+      "Name": "SuperDoG",
+      "Steam": "76561198780246863",
+      "Score": 36,
+      "Time": "??:??"
+    }
+  ]
 }
