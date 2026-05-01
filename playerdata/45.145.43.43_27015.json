@@ -1,27 +1,33 @@
 {
-  "Time": "2026-05-01T18:58:33.9783931Z",
+  "Time": "2026-05-01T19:00:33.9685932Z",
   "Players": [
     {
       "Name": "Alive",
       "Steam": "76561198130003790",
-      "Score": 0,
-      "Time": "00:20"
+      "Score": 6,
+      "Time": "02:20"
     },
     {
       "Name": "Nav",
       "Steam": "76561199050142070",
-      "Score": 4,
-      "Time": "01:28"
+      "Score": 8,
+      "Time": "03:28"
     },
     {
       "Name": "Yağmur Melek Fatality.win",
       "Steam": "76561198715730040",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "9991",
       "Steam": "76561199373763373",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kenami",
+      "Steam": "76561199550040414",
       "Score": 0,
       "Time": "??:??"
     }
