@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-01T02:45:51.2721794Z",
+  "Time": "2026-05-01T02:47:51.2670748Z",
   "Players": [
     {
       "Name": "prom",
       "Steam": "76561199308591917",
-      "Score": 26,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "Horizon",
       "Steam": "76561198150250399",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "[744] qkks1k",
+      "Name": "[Mon] qkks1k",
       "Steam": "76561199190253633",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "XERNACS",
       "Steam": "76561198713816111",
-      "Score": 10,
+      "Score": 21,
       "Time": "??:??"
+    },
+    {
+      "Name": "!!!",
+      "Steam": "76561198728274003",
+      "Score": 3,
+      "Time": "01:50"
     }
   ]
 }
