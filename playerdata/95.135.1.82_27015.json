@@ -1,6 +1,12 @@
 {
-  "Time": "2026-04-30T23:58:30.955859Z",
+  "Time": "2026-05-01T00:00:30.9521217Z",
   "Players": [
+    {
+      "Name": "candle",
+      "Steam": "76561199818746549",
+      "Score": 0,
+      "Time": "00:16"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -10,25 +16,25 @@
     {
       "Name": "never stop thuggin",
       "Steam": "76561199474211995",
-      "Score": 17,
-      "Time": "405:52"
+      "Score": 27,
+      "Time": "407:52"
     },
     {
       "Name": "derb",
       "Steam": "76561199074856014",
-      "Score": 2,
-      "Time": "57:04"
+      "Score": 4,
+      "Time": "59:04"
     },
     {
       "Name": "w4shed' hvher",
       "Steam": "76561198156900050",
-      "Score": 37,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Mint",
       "Steam": "76561199237669572",
-      "Score": 2,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
