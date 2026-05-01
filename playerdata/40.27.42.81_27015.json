@@ -1,40 +1,46 @@
 {
-  "Time": "2026-05-01T22:37:10.5718101Z",
+  "Time": "2026-05-01T22:39:10.5686784Z",
   "Players": [
+    {
+      "Name": "[Би-2]",
+      "Steam": "76561199859777341",
+      "Score": 71,
+      "Time": "01:36"
+    },
+    {
+      "Name": "vdjf",
+      "Steam": "76561199179241072",
+      "Score": 1,
+      "Time": "00:14"
+    },
     {
       "Name": "נהנה סנאפל",
       "Steam": "76561199843983636",
-      "Score": 37,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Lorenisalone",
       "Steam": "76561198793520122",
-      "Score": 64,
+      "Score": 68,
       "Time": "??:??"
-    },
-    {
-      "Name": "HUNK",
-      "Steam": "76561199870945474",
-      "Score": 10,
-      "Time": "00:03"
     },
     {
       "Name": "inukoj ☭",
       "Steam": "76561199142849496",
-      "Score": 37,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "Muha Tweaker off the meds",
       "Steam": "76561198793531195",
-      "Score": 37,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "ZOMBOGAMER",
       "Steam": "76561198766826858",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
