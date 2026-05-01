@@ -1,28 +1,28 @@
 {
-  "Time": "2026-05-01T04:57:51.2689953Z",
+  "Time": "2026-05-01T04:59:51.2719518Z",
   "Players": [
     {
       "Name": "Кракен",
       "Steam": "76561199156395215",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
+    },
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "01:28"
     },
     {
       "Name": "The Big Kirk",
       "Steam": "76561198119792007",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "gg/solarium taking beta apps",
       "Steam": "76561199880717233",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "$$$",
-      "Steam": "76561199873776493",
-      "Score": 5,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
