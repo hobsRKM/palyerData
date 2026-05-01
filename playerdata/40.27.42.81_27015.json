@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-01T05:47:51.2736956Z",
+  "Time": "2026-05-01T05:49:51.2767832Z",
   "Players": [
+    {
+      "Name": "XERNACS",
+      "Steam": "76561198713816111",
+      "Score": 2,
+      "Time": "01:51"
+    },
     {
       "Name": "just a nn",
       "Steam": "76561199158419168",
-      "Score": 0,
-      "Time": "00:17"
+      "Score": 2,
+      "Time": "02:17"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 11,
-      "Time": "05:05"
+      "Score": 17,
+      "Time": "07:05"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 0,
-      "Time": "00:04"
+      "Score": 8,
+      "Time": "02:04"
     },
     {
       "Name": "gg/solarium taking beta apps",
       "Steam": "76561199880717233",
-      "Score": 28,
-      "Time": "12:08"
+      "Score": 0,
+      "Time": "14:08"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 28,
+      "Score": 32,
       "Time": "??:??"
     }
   ]
