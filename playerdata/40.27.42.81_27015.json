@@ -1,28 +1,34 @@
 {
-  "Time": "2026-05-01T18:05:10.56457Z",
+  "Time": "2026-05-01T18:07:10.5733638Z",
   "Players": [
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 13,
-      "Time": "32:25"
+      "Score": 25,
+      "Time": "34:25"
+    },
+    {
+      "Name": "tuff",
+      "Steam": "76561199859777341",
+      "Score": 4,
+      "Time": "01:03"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 30,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "just a nn",
       "Steam": "76561199158419168",
-      "Score": 42,
+      "Score": 49,
       "Time": "??:??"
     },
     {
-      "Name": "HvHbot (test)",
+      "Name": "[Monolith] eclipse",
       "Steam": "76561198197230391",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
