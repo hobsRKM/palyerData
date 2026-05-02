@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-02T02:29:10.5627026Z",
+  "Time": "2026-05-02T02:31:10.5731653Z",
   "Players": [
     {
       "Name": "jaxui",
       "Steam": "76561198422749003",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 71,
+      "Score": 76,
       "Time": "??:??"
+    },
+    {
+      "Name": "you are",
+      "Steam": "76561199050170734",
+      "Score": 0,
+      "Time": "25:02"
     },
     {
       "Name": "pillimon",
       "Steam": "76561199551715793",
-      "Score": 30,
-      "Time": "10:17"
+      "Score": 36,
+      "Time": "12:17"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 57,
-      "Time": "22:22"
+      "Score": 65,
+      "Time": "24:22"
     }
   ]
 }
