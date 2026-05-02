@@ -1,41 +1,29 @@
 {
-  "Time": "2026-05-02T19:34:16.7626798Z",
+  "Time": "2026-05-02T19:34:59.6207106Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "rivi",
+      "Steam": "76561199862272715",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "n_gger",
+      "Steam": "76561199732271520",
+      "Score": 29,
+      "Time": "09:32"
+    },
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "sdkhbnf",
-      "Steam": "76561198707021132",
-      "Score": 52,
+      "Name": "RoBERTO",
+      "Steam": "76561199872439760",
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "swe.hvh",
-      "Steam": "76561199516412968",
-      "Score": 42,
-      "Time": "626:46"
-    },
-    {
-      "Name": "Low Cortisol Life",
-      "Steam": "76561198726281103",
-      "Score": 10,
-      "Time": "19:32"
-    },
-    {
-      "Name": "kanaa",
-      "Steam": "76561199365905587",
-      "Score": 72,
-      "Time": "19:17"
-    },
-    {
-      "Name": "leanlover",
-      "Steam": "76561199475288059",
-      "Score": 24,
-      "Time": "12:46"
     }
   ]
 }
