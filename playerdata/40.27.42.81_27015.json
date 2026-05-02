@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-02T01:37:10.5785829Z",
+  "Time": "2026-05-02T01:39:10.5695647Z",
   "Players": [
     {
       "Name": "daler hvh",
       "Steam": "76561199885859923",
-      "Score": 0,
-      "Time": "92:57"
+      "Score": 2,
+      "Time": "94:57"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 89,
+      "Score": 98,
       "Time": "??:??"
     },
     {
       "Name": "vdjf",
       "Steam": "76561199179241072",
       "Score": 45,
-      "Time": "57:09"
+      "Time": "59:09"
     },
     {
       "Name": "fata inv pls",
       "Steam": "76561198746366294",
-      "Score": 2,
-      "Time": "03:11"
+      "Score": 4,
+      "Time": "05:11"
     },
     {
       "Name": "//////",
       "Steam": "76561199805557263",
-      "Score": 98,
-      "Time": "35:31"
+      "Score": 104,
+      "Time": "37:31"
     },
     {
       "Name": "bullseye",
       "Steam": "76561198708175794",
-      "Score": 4,
+      "Score": 9,
       "Time": "??:??"
+    },
+    {
+      "Name": "disco",
+      "Steam": "76561198716614646",
+      "Score": 14,
+      "Time": "00:13"
     }
   ]
 }
