@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-02T20:59:16.0825322Z",
+  "Time": "2026-05-02T21:01:16.0759034Z",
   "Players": [
+    {
+      "Name": "Баба Яга",
+      "Steam": "76561198325054816",
+      "Score": 0,
+      "Time": "00:15"
+    },
     {
       "Name": "Cummer",
       "Steam": "76561199446263993",
-      "Score": 30,
-      "Time": "37:26"
+      "Score": 42,
+      "Time": "39:26"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 45,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "semen demon",
       "Steam": "76561199673231102",
-      "Score": 59,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "BonQEQE",
       "Steam": "76561198418443435",
-      "Score": 52,
-      "Time": "75:45"
+      "Score": 54,
+      "Time": "77:45"
     },
     {
       "Name": "Babbili",
       "Steam": "76561199082023689",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -40,20 +46,20 @@
     {
       "Name": "vdjf",
       "Steam": "76561199179241072",
-      "Score": 5,
-      "Time": "02:48"
+      "Score": 16,
+      "Time": "04:48"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 58,
-      "Time": "36:08"
+      "Score": 60,
+      "Time": "38:08"
     },
     {
       "Name": "fata inv pls",
       "Steam": "76561198746366294",
       "Score": 5,
-      "Time": "05:43"
+      "Time": "07:43"
     }
   ]
 }
