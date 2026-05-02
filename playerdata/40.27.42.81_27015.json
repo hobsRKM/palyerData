@@ -1,47 +1,59 @@
 {
-  "Time": "2026-05-02T04:43:10.5669625Z",
+  "Time": "2026-05-02T04:45:10.5708407Z",
   "Players": [
     {
       "Name": "我是你的主人",
       "Steam": "76561199555411261",
-      "Score": 28,
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "choppa",
+      "Steam": "76561198743474205",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 81,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 64,
-      "Time": "264:38"
+      "Score": 70,
+      "Time": "266:38"
     },
     {
       "Name": "沖縄に行くために",
       "Steam": "76561199471045519",
-      "Score": 20,
+      "Score": 23,
       "Time": "??:??"
+    },
+    {
+      "Name": "s1mple",
+      "Steam": "76561198743560476",
+      "Score": 4,
+      "Time": "00:27"
     },
     {
       "Name": "sad sad",
       "Steam": "76561199425272329",
-      "Score": 41,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "begging for gamesense inv day 19",
       "Steam": "76561199530521634",
-      "Score": 6,
-      "Time": "248:38"
+      "Score": 7,
+      "Time": "250:38"
     },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 17,
-      "Time": "11:07"
+      "Score": 22,
+      "Time": "13:07"
     }
   ]
 }
