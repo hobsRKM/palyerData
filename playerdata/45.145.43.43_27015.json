@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-02T23:48:35.7937097Z",
-  "Players": []
+  "Time": "2026-05-02T23:48:40.3458417Z",
+  "Players": [
+    {
+      "Name": "Mongol",
+      "Steam": "76561198376880879",
+      "Score": 103,
+      "Time": "15:39"
+    },
+    {
+      "Name": "sniegan",
+      "Steam": "76561198317112280",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "adromiwdolfgkmfs",
+      "Steam": "76561198711402656",
+      "Score": 0,
+      "Time": "00:52"
+    },
+    {
+      "Name": "Low Cortisol Life",
+      "Steam": "76561198726281103",
+      "Score": 10,
+      "Time": "19:26"
+    },
+    {
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 62,
+      "Time": "??:??"
+    }
+  ]
 }
