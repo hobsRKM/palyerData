@@ -1,34 +1,28 @@
 {
-  "Time": "2026-05-02T08:22:41.1803338Z",
+  "Time": "2026-05-02T08:24:41.1725904Z",
   "Players": [
+    {
+      "Name": "VAC",
+      "Steam": "76561199887235116",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 75,
-      "Time": "69:11"
-    },
-    {
-      "Name": "q2fjpylycnrbg0rd",
-      "Steam": "76561198713542795",
-      "Score": 89,
-      "Time": "29:05"
+      "Score": 87,
+      "Time": "71:11"
     },
     {
       "Name": "Dr.phil",
       "Steam": "76561198797371019",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Hold",
       "Steam": "76561198757963755",
       "Score": 11,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mongolian tip tickler",
-      "Steam": "76561198947399023",
-      "Score": 0,
       "Time": "??:??"
     }
   ]
