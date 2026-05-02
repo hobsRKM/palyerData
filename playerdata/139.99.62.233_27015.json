@@ -1,17 +1,17 @@
 {
-  "Time": "2026-05-02T10:40:41.1801973Z",
+  "Time": "2026-05-02T10:42:41.1665364Z",
   "Players": [
+    {
+      "Name": "17before",
+      "Steam": "76561199780856796",
+      "Score": 0,
+      "Time": "00:27"
+    },
     {
       "Name": "TOGSNIAOKING",
       "Steam": "76561198191521529",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "\uD835\uDC7A\uD835\uDC8C\uD835\uDC9A\uD835\uDC8D\uD835\uDC8A\uD835\uDC8F\uD835\uDC86_",
-      "Steam": "76561198759749561",
-      "Score": 14,
-      "Time": "00:13"
     }
   ]
 }
