@@ -1,47 +1,65 @@
 {
-  "Time": "2026-05-02T16:04:16.7678132Z",
+  "Time": "2026-05-02T16:06:02.0750444Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Rypez",
+      "Steam": "76561199240369913",
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vizu",
+      "Steam": "76561199230061337",
+      "Score": 17,
+      "Time": "13:09"
+    },
+    {
+      "Name": "tiger",
+      "Steam": "76561198707902039",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "〖\uD835\uDD46\uD835\uDD3E〗\uD835\uDD3C\uD835\uDD5F\uD835\uDD60\uD835\uDD5Cz",
+      "Steam": "76561199180038097",
+      "Score": 43,
+      "Time": "257:49"
+    },
+    {
+      "Name": "[OG]Crown",
+      "Steam": "76561199888214382",
+      "Score": 59,
+      "Time": "74:17"
+    },
+    {
+      "Name": "[OG]UWUCAT",
+      "Steam": "76561199855449365",
+      "Score": 41,
+      "Time": "??:??"
+    },
+    {
+      "Name": "big black orio",
+      "Steam": "76561198707202629",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "BribeB",
-      "Steam": "76561199405949624",
-      "Score": 34,
-      "Time": "149:13"
-    },
-    {
-      "Name": "pablo cherry cola",
-      "Steam": "76561199401342964",
-      "Score": 0,
+      "Name": "jacker",
+      "Steam": "76561198806792145",
+      "Score": 9,
       "Time": "??:??"
     },
     {
-      "Name": "adromiwdolfgkmfs",
-      "Steam": "76561198711402656",
-      "Score": 16,
-      "Time": "09:33"
-    },
-    {
-      "Name": "gamer jeff",
-      "Steam": "76561198820870178",
-      "Score": 0,
+      "Name": "Mommy",
+      "Steam": "76561198735884066",
+      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "checkmate",
-      "Steam": "76561199023446425",
-      "Score": 36,
-      "Time": "75:52"
-    },
-    {
-      "Name": "newgen hvh",
-      "Steam": "76561199826342777",
-      "Score": 26,
-      "Time": "??:??"
+      "Name": "secured",
+      "Steam": "76561198802017225",
+      "Score": 55,
+      "Time": "73:33"
     }
   ]
 }
