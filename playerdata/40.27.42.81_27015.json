@@ -1,47 +1,59 @@
 {
-  "Time": "2026-05-02T01:19:10.5653932Z",
+  "Time": "2026-05-02T01:21:10.5757025Z",
   "Players": [
     {
       "Name": "daler hvh",
       "Steam": "76561199885859923",
-      "Score": 1,
-      "Time": "74:57"
+      "Score": 0,
+      "Time": "76:57"
     },
     {
       "Name": "tele @th0nny for nix cfg",
       "Steam": "76561198708807771",
-      "Score": 2,
-      "Time": "08:16"
+      "Score": 4,
+      "Time": "10:16"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 43,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "Socrates",
       "Steam": "76561198716380120",
-      "Score": 29,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "vdjf",
       "Steam": "76561199179241072",
       "Score": 6,
-      "Time": "39:09"
+      "Time": "41:09"
     },
     {
       "Name": "//////",
       "Steam": "76561199805557263",
-      "Score": 15,
-      "Time": "17:31"
+      "Score": 21,
+      "Time": "19:31"
+    },
+    {
+      "Name": "kev",
+      "Steam": "76561198069937170",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "pillimon",
       "Steam": "76561199551715793",
-      "Score": 3,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "disco",
+      "Steam": "76561198716614646",
+      "Score": 0,
+      "Time": "00:45"
     }
   ]
 }
