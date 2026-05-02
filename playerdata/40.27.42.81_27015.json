@@ -1,16 +1,22 @@
 {
-  "Time": "2026-05-02T22:49:16.0733953Z",
+  "Time": "2026-05-02T22:51:16.0730402Z",
   "Players": [
     {
       "Name": "well",
       "Steam": "76561199847868570",
-      "Score": 8,
-      "Time": "05:22"
+      "Score": 0,
+      "Time": "07:22"
+    },
+    {
+      "Name": "trh",
+      "Steam": "76561198744402588",
+      "Score": 7,
+      "Time": "01:57"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 37,
+      "Score": 55,
       "Time": "??:??"
     },
     {
@@ -20,45 +26,51 @@
       "Time": "??:??"
     },
     {
+      "Name": "HUNK",
+      "Steam": "76561199870945474",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "!!!",
       "Steam": "76561198728274003",
-      "Score": 12,
-      "Time": "12:47"
+      "Score": 13,
+      "Time": "14:47"
     },
     {
       "Name": "stewbert",
       "Steam": "76561198799307603",
       "Score": 13,
-      "Time": "08:53"
+      "Time": "10:53"
     },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
       "Score": 0,
-      "Time": "00:12"
+      "Time": "00:34"
     },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
       "Score": 15,
-      "Time": "58:00"
+      "Time": "60:00"
     },
     {
       "Name": "AimForTheStars82",
       "Steam": "76561199873517401",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "nxt #indianHVH",
       "Steam": "76561198199806545",
-      "Score": 29,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "wolfpack",
       "Steam": "76561199151925988",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     }
   ]
