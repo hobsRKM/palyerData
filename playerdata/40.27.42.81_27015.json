@@ -1,34 +1,46 @@
 {
-  "Time": "2026-05-02T18:45:16.0756113Z",
+  "Time": "2026-05-02T18:47:16.0685688Z",
   "Players": [
+    {
+      "Name": "youknowwhatthatmeans42",
+      "Steam": "76561199832817606",
+      "Score": 9,
+      "Time": "01:38"
+    },
     {
       "Name": "Myno",
       "Steam": "76561199085317045",
-      "Score": 40,
-      "Time": "11:27"
+      "Score": 46,
+      "Time": "13:27"
     },
     {
       "Name": "vdjf",
       "Steam": "76561199179241072",
-      "Score": 57,
-      "Time": "54:14"
+      "Score": 64,
+      "Time": "56:14"
     },
     {
       "Name": "fish dances",
       "Steam": "76561198720667656",
+      "Score": 1,
+      "Time": "29:03"
+    },
+    {
+      "Name": "A Janky Nicca",
+      "Steam": "76561198834456840",
       "Score": 0,
-      "Time": "27:03"
+      "Time": "01:23"
     },
     {
       "Name": "pillimon",
       "Steam": "76561199551715793",
-      "Score": 38,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Ma Suni Noaptea",
       "Steam": "76561199792464561",
-      "Score": 36,
+      "Score": 50,
       "Time": "??:??"
     }
   ]
