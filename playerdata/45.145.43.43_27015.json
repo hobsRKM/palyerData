@@ -1,29 +1,23 @@
 {
-  "Time": "2026-05-03T12:38:36.4742128Z",
+  "Time": "2026-05-03T12:40:36.4742831Z",
   "Players": [
     {
       "Name": "VAC LIVE VAC LIVE",
       "Steam": "76561198788350312",
-      "Score": 0,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Hellion.XYZ",
       "Steam": "76561198709250371",
-      "Score": 0,
-      "Time": "02:40"
+      "Score": 2,
+      "Time": "04:40"
     },
     {
       "Name": "1",
       "Steam": "76561198710956513",
-      "Score": 4,
-      "Time": "01:03"
-    },
-    {
-      "Name": "beta tester",
-      "Steam": "76561199172819056",
-      "Score": 3,
-      "Time": "??:??"
+      "Score": 8,
+      "Time": "03:03"
     }
   ]
 }
