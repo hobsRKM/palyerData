@@ -1,35 +1,23 @@
 {
-  "Time": "2026-05-03T19:06:36.6821386Z",
+  "Time": "2026-05-03T19:06:56.7658392Z",
   "Players": [
     {
-      "Name": "mischka",
-      "Steam": "76561198722896208",
+      "Name": "Crown",
+      "Steam": "76561199888214382",
+      "Score": 65,
+      "Time": "21:02"
+    },
+    {
+      "Name": "emil_toge",
+      "Steam": "76561198710899260",
+      "Score": 10,
+      "Time": "02:04"
+    },
+    {
+      "Name": "monster dick",
+      "Steam": "76561197986655893",
       "Score": 0,
-      "Time": "105:26"
-    },
-    {
-      "Name": "grassmower",
-      "Steam": "76561199889415616",
-      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "Infantrit",
-      "Steam": "76561199827876555",
-      "Score": 45,
-      "Time": "??:??"
-    },
-    {
-      "Name": "jestem nowy w hvh",
-      "Steam": "76561199228211806",
-      "Score": 1,
-      "Time": "11:24"
-    },
-    {
-      "Name": "Tofuu",
-      "Steam": "76561199094388949",
-      "Score": 39,
-      "Time": "08:42"
     }
   ]
 }
