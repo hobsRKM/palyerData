@@ -1,22 +1,28 @@
 {
-  "Time": "2026-05-03T17:43:25.1715483Z",
+  "Time": "2026-05-03T17:45:25.1776709Z",
   "Players": [
     {
       "Name": "JK",
       "Steam": "76561199742917009",
-      "Score": 18,
+      "Score": 25,
       "Time": "??:??"
+    },
+    {
+      "Name": "curious_panda_22002",
+      "Steam": "76561199868744165",
+      "Score": 8,
+      "Time": "02:16"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 13,
-      "Time": "23:51"
+      "Score": 15,
+      "Time": "25:51"
     },
     {
       "Name": "GameSensical",
       "Steam": "76561198760350627",
-      "Score": 15,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
