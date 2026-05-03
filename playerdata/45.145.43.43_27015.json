@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-03T12:34:36.4701168Z",
+  "Time": "2026-05-03T12:36:36.4688718Z",
   "Players": [
     {
       "Name": "VAC LIVE VAC LIVE",
       "Steam": "76561198788350312",
-      "Score": 62,
+      "Score": 71,
       "Time": "??:??"
+    },
+    {
+      "Name": "Hellion.XYZ",
+      "Steam": "76561198709250371",
+      "Score": 34,
+      "Time": "00:40"
     },
     {
       "Name": "Monkey",
       "Steam": "76561198712790870",
-      "Score": 43,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "ϟ BMW ϟ",
       "Steam": "76561199799019487",
-      "Score": 30,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "beta tester",
       "Steam": "76561199172819056",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "spear goblin",
-      "Steam": "76561199841710783",
-      "Score": 0,
+      "Name": "gjidgd",
+      "Steam": "76561198730101311",
+      "Score": 6,
       "Time": "??:??"
     }
   ]
