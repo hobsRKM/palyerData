@@ -1,16 +1,28 @@
 {
-  "Time": "2026-05-03T12:22:36.4686718Z",
+  "Time": "2026-05-03T12:24:36.4701542Z",
   "Players": [
+    {
+      "Name": "Abdul Osama D.3",
+      "Steam": "76561199613550130",
+      "Score": 0,
+      "Time": "00:39"
+    },
     {
       "Name": "VAC LIVE VAC LIVE",
       "Steam": "76561198788350312",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Hellion.XYZ",
       "Steam": "76561198709250371",
-      "Score": 26,
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Monkey",
+      "Steam": "76561198712790870",
+      "Score": 10,
       "Time": "??:??"
     }
   ]
