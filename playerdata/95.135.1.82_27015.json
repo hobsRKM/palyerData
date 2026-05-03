@@ -1,6 +1,12 @@
 {
-  "Time": "2026-05-03T12:56:59.6268462Z",
+  "Time": "2026-05-03T12:58:59.632821Z",
   "Players": [
+    {
+      "Name": "exa1zen.xyz",
+      "Steam": "76561199783546687",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "hunterwagner6.37.6",
       "Steam": "76561198706754445",
@@ -10,50 +16,56 @@
     {
       "Name": "[ᴏɢ]Crown",
       "Steam": "76561199888214382",
-      "Score": 26,
-      "Time": "47:42"
+      "Score": 6,
+      "Time": "49:42"
+    },
+    {
+      "Name": "velvetbugattizombie",
+      "Steam": "76561198720362972",
+      "Score": 0,
+      "Time": "31:39"
     },
     {
       "Name": "moo",
       "Steam": "76561198174142131",
-      "Score": 32,
-      "Time": "12:45"
+      "Score": 52,
+      "Time": "14:45"
     },
     {
       "Name": "Diceman",
       "Steam": "76561198780579299",
-      "Score": 1,
-      "Time": "03:35"
+      "Score": 4,
+      "Time": "00:47"
     },
     {
       "Name": ".",
       "Steam": "76561198783200578",
-      "Score": 19,
-      "Time": "24:03"
+      "Score": 21,
+      "Time": "26:03"
     },
     {
       "Name": "d1ngle",
       "Steam": "76561199853360339",
-      "Score": 1,
-      "Time": "1627:35"
+      "Score": 8,
+      "Time": "1629:35"
     },
     {
       "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 42,
-      "Time": "13:32"
+      "Score": 44,
+      "Time": "15:32"
     },
     {
       "Name": "zone",
       "Steam": "76561198777692259",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "KingJulian",
       "Steam": "76561199827819949",
-      "Score": 19,
-      "Time": "44:24"
+      "Score": 39,
+      "Time": "46:24"
     }
   ]
 }
