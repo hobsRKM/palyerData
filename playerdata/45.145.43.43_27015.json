@@ -1,4 +1,23 @@
 {
-  "Time": "2026-05-03T01:50:35.7938365Z",
-  "Players": []
+  "Time": "2026-05-03T01:50:41.2635367Z",
+  "Players": [
+    {
+      "Name": "Kospek",
+      "Steam": "76561199849873848",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jaaasix",
+      "Steam": "76561199224188981",
+      "Score": 10,
+      "Time": "49:43"
+    },
+    {
+      "Name": "Thomas the baim Engine",
+      "Steam": "76561199548662128",
+      "Score": 18,
+      "Time": "13:06"
+    }
+  ]
 }
