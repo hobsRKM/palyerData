@@ -1,16 +1,22 @@
 {
-  "Time": "2026-05-03T00:09:16.0915031Z",
+  "Time": "2026-05-03T00:11:16.0963993Z",
   "Players": [
+    {
+      "Name": "smurfing isn't nice :(",
+      "Steam": "76561198782137599",
+      "Score": 2,
+      "Time": "00:43"
+    },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 26,
+      "Score": 24,
       "Time": "??:??"
     },
     {
@@ -23,25 +29,19 @@
       "Name": "stewbert",
       "Steam": "76561198799307603",
       "Score": 0,
-      "Time": "88:53"
+      "Time": "90:53"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 4,
-      "Time": "17:50"
-    },
-    {
-      "Name": "allah <3 gamesense",
-      "Steam": "76561199029981261",
-      "Score": 30,
-      "Time": "48:42"
+      "Score": 16,
+      "Time": "19:50"
     },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
       "Score": 0,
-      "Time": "138:00"
+      "Time": "140:00"
     }
   ]
 }
