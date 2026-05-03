@@ -1,6 +1,12 @@
 {
-  "Time": "2026-05-03T01:51:16.1009679Z",
+  "Time": "2026-05-03T01:53:16.1127686Z",
   "Players": [
+    {
+      "Name": "Nelson",
+      "Steam": "76561198892675905",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "vtc",
       "Steam": "76561198755735678",
@@ -10,62 +16,50 @@
     {
       "Name": "-_- / immortal rework",
       "Steam": "76561198776480956",
-      "Score": 27,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Jake - Enforcer",
       "Steam": "76561198343112799",
-      "Score": 82,
-      "Time": "39:50"
-    },
-    {
-      "Name": "Killed ☦",
-      "Steam": "76561199805980753",
-      "Score": 5,
-      "Time": "02:44"
+      "Score": 90,
+      "Time": "41:50"
     },
     {
       "Name": "//////",
       "Steam": "76561199805557263",
-      "Score": 0,
-      "Time": "07:12"
-    },
-    {
-      "Name": "pets owner",
-      "Steam": "76561198716076659",
-      "Score": 31,
-      "Time": "15:22"
+      "Score": 11,
+      "Time": "09:12"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198273566562",
-      "Score": 9,
-      "Time": "01:19"
+      "Score": 17,
+      "Time": "03:19"
     },
     {
       "Name": "stewbert",
       "Steam": "76561198799307603",
       "Score": 0,
-      "Time": "190:53"
+      "Time": "192:53"
     },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 16,
-      "Time": "06:16"
+      "Score": 20,
+      "Time": "08:16"
     },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
       "Score": 38,
-      "Time": "240:00"
+      "Time": "242:00"
     },
     {
       "Name": "Asa Gaming",
       "Steam": "76561199507611130",
-      "Score": 2,
-      "Time": "04:27"
+      "Score": 6,
+      "Time": "06:27"
     }
   ]
 }
