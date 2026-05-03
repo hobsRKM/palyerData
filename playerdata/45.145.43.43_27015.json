@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-03T02:02:35.7937064Z",
-  "Players": []
+  "Time": "2026-05-03T02:02:41.5222436Z",
+  "Players": [
+    {
+      "Name": "Kospek",
+      "Steam": "76561199849873848",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jaaasix",
+      "Steam": "76561199224188981",
+      "Score": 18,
+      "Time": "61:44"
+    },
+    {
+      "Name": "Thomas the baim Engine",
+      "Steam": "76561199548662128",
+      "Score": 93,
+      "Time": "25:06"
+    },
+    {
+      "Name": "drw",
+      "Steam": "76561197997645909",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "archi",
+      "Steam": "76561198751748347",
+      "Score": 47,
+      "Time": "??:??"
+    }
+  ]
 }
