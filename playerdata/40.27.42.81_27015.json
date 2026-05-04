@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-04T01:11:25.176465Z",
+  "Time": "2026-05-04T01:13:25.1782449Z",
   "Players": [
+    {
+      "Name": "Reiko",
+      "Steam": "76561197996616313",
+      "Score": 35,
+      "Time": "01:53"
+    },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 122,
+      "Score": 126,
       "Time": "??:??"
     },
     {
       "Name": "choppa",
       "Steam": "76561198743474205",
-      "Score": 135,
+      "Score": 139,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "249:34"
+      "Time": "251:34"
     },
     {
       "Name": "bizzer summer",
@@ -28,14 +34,20 @@
     {
       "Name": "nxt #allahsChosenHVHER",
       "Steam": "76561198199806545",
-      "Score": 64,
-      "Time": "19:56"
+      "Score": 72,
+      "Time": "21:56"
+    },
+    {
+      "Name": "EggBoy",
+      "Steam": "76561198741763061",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "FLazukyy",
       "Steam": "76561199462844325",
-      "Score": 39,
-      "Time": "29:01"
+      "Score": 41,
+      "Time": "31:01"
     }
   ]
 }
