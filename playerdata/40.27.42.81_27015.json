@@ -1,5 +1,5 @@
 {
-  "Time": "2026-05-04T22:31:18.9739131Z",
+  "Time": "2026-05-04T22:33:18.989576Z",
   "Players": [
     {
       "Name": "BRIS",
@@ -10,43 +10,49 @@
     {
       "Name": "frot",
       "Steam": "76561199040769247",
-      "Score": 28,
-      "Time": "21:09"
+      "Score": 40,
+      "Time": "23:09"
     },
     {
       "Name": "SMootheOperatorKACHOW",
       "Steam": "76561199405132947",
       "Score": 40,
-      "Time": "21:03"
+      "Time": "23:03"
     },
     {
       "Name": "Eliza",
       "Steam": "76561199886101992",
-      "Score": 122,
-      "Time": "18:07"
+      "Score": 141,
+      "Time": "20:07"
     },
     {
       "Name": "1",
       "Steam": "76561199847868570",
-      "Score": 130,
+      "Score": 141,
       "Time": "??:??"
     },
     {
       "Name": "nina",
       "Steam": "76561199810524131",
-      "Score": 42,
+      "Score": 44,
       "Time": "??:??"
+    },
+    {
+      "Name": "Aru",
+      "Steam": "76561199706248567",
+      "Score": 6,
+      "Time": "01:22"
     },
     {
       "Name": "JK",
       "Steam": "76561199742917009",
-      "Score": 32,
-      "Time": "05:09"
+      "Score": 36,
+      "Time": "07:09"
     },
     {
       "Name": "funeralq on cord",
       "Steam": "76561198914233824",
-      "Score": 85,
+      "Score": 89,
       "Time": "??:??"
     },
     {
@@ -58,7 +64,7 @@
     {
       "Name": "smook",
       "Steam": "76561198173622871",
-      "Score": 43,
+      "Score": 46,
       "Time": "??:??"
     },
     {
@@ -70,8 +76,8 @@
     {
       "Name": "Myno",
       "Steam": "76561199085317045",
-      "Score": 54,
-      "Time": "107:05"
+      "Score": 60,
+      "Time": "109:05"
     }
   ]
 }
