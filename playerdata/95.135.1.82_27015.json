@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-04T22:07:33.976143Z",
+  "Time": "2026-05-04T22:08:32.0430201Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Keyaru-sama",
+      "Steam": "76561199158539115",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wet_jew34skins.army",
+      "Steam": "76561199215083006",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Panda",
-      "Steam": "76561198453141846",
-      "Score": 0,
+      "Name": "007",
+      "Steam": "76561199078381814",
+      "Score": 32,
       "Time": "??:??"
-    },
-    {
-      "Name": "CHATGPTXCAT",
-      "Steam": "76561198709670278",
-      "Score": 0,
-      "Time": "00:12"
     }
   ]
 }
