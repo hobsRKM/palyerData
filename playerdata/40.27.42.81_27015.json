@@ -1,59 +1,71 @@
 {
-  "Time": "2026-05-04T23:23:18.981716Z",
+  "Time": "2026-05-04T23:25:18.9737135Z",
   "Players": [
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 15,
+      "Time": "01:58"
+    },
     {
       "Name": "tex",
       "Steam": "76561199551715793",
-      "Score": 7,
-      "Time": "03:19"
+      "Score": 17,
+      "Time": "05:19"
+    },
+    {
+      "Name": "\uD835\uDD9D\uD835\uDD9A\uD835\uDD95\uD835\uDD86 \uD835\uDD98\uD835\uDD8A\uD835\uDD8Eos",
+      "Steam": "76561198744560543",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198743881943",
-      "Score": 66,
-      "Time": "49:35"
+      "Score": 72,
+      "Time": "51:35"
     },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 29,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Cummer",
       "Steam": "76561199446263993",
-      "Score": 7,
-      "Time": "01:26"
+      "Score": 16,
+      "Time": "03:26"
     },
     {
       "Name": "AshieUwU",
       "Steam": "76561199832941743",
-      "Score": 45,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "jaxui",
       "Steam": "76561198422749003",
-      "Score": 35,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "alan",
       "Steam": "76561198746366294",
-      "Score": 0,
-      "Time": "00:41"
+      "Score": 2,
+      "Time": "02:41"
     },
     {
       "Name": "youknowwhatthatmeans42",
       "Steam": "76561199832817606",
-      "Score": 78,
-      "Time": "27:51"
+      "Score": 82,
+      "Time": "29:51"
     }
   ]
 }
