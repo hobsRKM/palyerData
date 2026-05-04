@@ -1,22 +1,28 @@
 {
-  "Time": "2026-05-04T02:15:25.1894178Z",
+  "Time": "2026-05-04T02:17:25.2091414Z",
   "Players": [
+    {
+      "Name": "Munheca de Ouro",
+      "Steam": "76561198707660785",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "alan",
       "Steam": "76561198746366294",
-      "Score": 13,
-      "Time": "53:39"
+      "Score": 15,
+      "Time": "55:39"
     },
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 29,
-      "Time": "50:13"
+      "Score": 35,
+      "Time": "52:13"
     },
     {
       "Name": "Street",
       "Steam": "76561198381611414",
-      "Score": 24,
+      "Score": 54,
       "Time": "??:??"
     },
     {
@@ -28,26 +34,20 @@
     {
       "Name": "Paulien Galph",
       "Steam": "76561198895034190",
-      "Score": 10,
-      "Time": "55:57"
+      "Score": 12,
+      "Time": "57:57"
     },
     {
       "Name": "shcty",
       "Steam": "76561199778070124",
-      "Score": 38,
-      "Time": "107:26"
+      "Score": 44,
+      "Time": "109:26"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "313:34"
-    },
-    {
-      "Name": "smurfing isn't nice :(",
-      "Steam": "76561198782137599",
-      "Score": 4,
-      "Time": "19:32"
+      "Time": "315:34"
     },
     {
       "Name": "bizzer summer",
@@ -58,20 +58,20 @@
     {
       "Name": "stewbert",
       "Steam": "76561198799307603",
-      "Score": 27,
-      "Time": "13:28"
+      "Score": 34,
+      "Time": "15:28"
     },
     {
       "Name": "Кракен",
       "Steam": "76561199156395215",
-      "Score": 34,
-      "Time": "26:32"
+      "Score": 40,
+      "Time": "28:32"
     },
     {
       "Name": "Schwartz Silverstein",
       "Steam": "76561199091892345",
       "Score": 1,
-      "Time": "02:41"
+      "Time": "04:41"
     }
   ]
 }
