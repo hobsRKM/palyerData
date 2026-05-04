@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-04T01:35:25.1883132Z",
+  "Time": "2026-05-04T01:37:25.1916565Z",
   "Players": [
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
       "Score": 1,
-      "Time": "08:31"
+      "Time": "10:31"
     },
     {
       "Name": "alan",
       "Steam": "76561198746366294",
-      "Score": 3,
-      "Time": "13:39"
+      "Score": 6,
+      "Time": "15:39"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 1,
-      "Time": "10:13"
+      "Score": 3,
+      "Time": "12:13"
     },
     {
       "Name": "Paulien Galph",
       "Steam": "76561198895034190",
-      "Score": 12,
-      "Time": "15:57"
+      "Score": 20,
+      "Time": "17:57"
+    },
+    {
+      "Name": "shcty",
+      "Steam": "76561199778070124",
+      "Score": 0,
+      "Time": "69:26"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "273:34"
+      "Time": "275:34"
     },
     {
       "Name": "bizzer summer",
@@ -44,34 +50,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "Bloggo",
+      "Steam": "76561198712611951",
+      "Score": 0,
+      "Time": "00:19"
+    },
+    {
       "Name": "VAC Technician #420",
       "Steam": "76561198783648579",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "nxt #allahsChosenHVHER",
       "Steam": "76561198199806545",
-      "Score": 9,
-      "Time": "43:56"
-    },
-    {
-      "Name": "EggBoy",
-      "Steam": "76561198741763061",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 17,
+      "Time": "45:56"
     },
     {
       "Name": "jaxui",
       "Steam": "76561198422749003",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 39,
-      "Time": "05:10"
+      "Score": 44,
+      "Time": "07:10"
     }
   ]
 }
