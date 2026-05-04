@@ -1,53 +1,71 @@
 {
-  "Time": "2026-05-04T00:41:25.1794338Z",
+  "Time": "2026-05-04T00:43:25.1819719Z",
   "Players": [
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 55,
-      "Time": "164:43"
+      "Score": 57,
+      "Time": "166:43"
+    },
+    {
+      "Name": "neo",
+      "Steam": "76561199032440303",
+      "Score": 0,
+      "Time": "00:30"
     },
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 20,
+      "Score": 32,
       "Time": "??:??"
-    },
-    {
-      "Name": "-_- / immortal rework",
-      "Steam": "76561198776480956",
-      "Score": 71,
-      "Time": "21:02"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 110,
+      "Score": 119,
+      "Time": "??:??"
+    },
+    {
+      "Name": "choppa",
+      "Steam": "76561198743474205",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "shakespeare",
       "Steam": "76561199823431156",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "219:34"
+      "Time": "221:34"
     },
     {
       "Name": "bizzer summer",
       "Steam": "76561198708778534",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Babbili",
       "Steam": "76561199082023689",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "semen demon",
+      "Steam": "76561199673231102",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "FLazukyy",
+      "Steam": "76561199462844325",
+      "Score": 25,
+      "Time": "01:01"
     }
   ]
 }
