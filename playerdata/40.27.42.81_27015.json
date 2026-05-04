@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-04T21:53:18.9729843Z",
+  "Time": "2026-05-04T21:55:18.9871551Z",
   "Players": [
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 41,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "pillimon",
       "Steam": "76561199551715793",
-      "Score": 64,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "Eliza",
       "Steam": "76561199886101992",
-      "Score": 88,
-      "Time": "16:35"
+      "Score": 96,
+      "Time": "18:35"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561199847868570",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "nina",
@@ -28,20 +34,26 @@
     {
       "Name": "JK",
       "Steam": "76561199742917009",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "funeralq on cord",
       "Steam": "76561198914233824",
-      "Score": 4,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "yiit",
+      "Steam": "76561198399866678",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Myno",
       "Steam": "76561199085317045",
-      "Score": 27,
-      "Time": "69:05"
+      "Score": 33,
+      "Time": "71:05"
     }
   ]
 }
