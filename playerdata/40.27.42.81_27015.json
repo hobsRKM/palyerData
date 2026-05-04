@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-04T20:35:18.9773956Z",
+  "Time": "2026-05-04T20:37:18.9742619Z",
   "Players": [
     {
       "Name": "rot",
       "Steam": "76561199040769247",
-      "Score": 15,
-      "Time": "10:04"
+      "Score": 27,
+      "Time": "12:04"
+    },
+    {
+      "Name": "JugMan",
+      "Steam": "76561198721620443",
+      "Score": 0,
+      "Time": "00:45"
     },
     {
       "Name": "askedovich",
       "Steam": "76561199875827822",
-      "Score": 2,
-      "Time": "18:46"
+      "Score": 0,
+      "Time": "20:46"
     },
     {
       "Name": "no8",
       "Steam": "76561198728274003",
-      "Score": 7,
-      "Time": "10:07"
+      "Score": 10,
+      "Time": "12:07"
     },
     {
       "Name": "slow",
       "Steam": "76561199453255014",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Perhks",
       "Steam": "76561198293312486",
-      "Score": 25,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
