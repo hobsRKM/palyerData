@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-04T06:01:25.686103Z",
+  "Time": "2026-05-04T06:03:25.6963844Z",
   "Players": [
     {
       "Name": "non explicit overtime",
       "Steam": "76561199032440303",
-      "Score": 28,
-      "Time": "30:18"
+      "Score": 36,
+      "Time": "32:18"
     },
     {
       "Name": "cloxid (but nice version)",
       "Steam": "76561199194884429",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "paste user",
+      "Steam": "76561198715686293",
+      "Score": 0,
+      "Time": "00:23"
     },
     {
       "Name": "King Bob",
@@ -22,14 +28,14 @@
     {
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "zookx",
       "Steam": "76561199540737635",
-      "Score": 8,
-      "Time": "04:07"
+      "Score": 10,
+      "Time": "06:07"
     }
   ]
 }
