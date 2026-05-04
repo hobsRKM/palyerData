@@ -1,11 +1,17 @@
 {
-  "Time": "2026-05-04T23:19:18.9727145Z",
+  "Time": "2026-05-04T23:21:18.9797722Z",
   "Players": [
+    {
+      "Name": "tex",
+      "Steam": "76561199551715793",
+      "Score": 5,
+      "Time": "01:19"
+    },
     {
       "Name": "ru",
       "Steam": "76561198743881943",
-      "Score": 56,
-      "Time": "45:35"
+      "Score": 60,
+      "Time": "47:35"
     },
     {
       "Name": "<3",
@@ -16,26 +22,26 @@
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 23,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "AshieUwU",
       "Steam": "76561199832941743",
-      "Score": 34,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "jaxui",
       "Steam": "76561198422749003",
-      "Score": 19,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "youknowwhatthatmeans42",
       "Steam": "76561199832817606",
-      "Score": 60,
-      "Time": "23:51"
+      "Score": 72,
+      "Time": "25:51"
     }
   ]
 }
