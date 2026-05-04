@@ -1,41 +1,53 @@
 {
-  "Time": "2026-05-04T04:37:25.2900797Z",
+  "Time": "2026-05-04T04:39:25.2980239Z",
   "Players": [
+    {
+      "Name": "Abortion Clinic",
+      "Steam": "76561198712213059",
+      "Score": 0,
+      "Time": "01:18"
+    },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 21,
-      "Time": "22:30"
+      "Score": 27,
+      "Time": "24:30"
     },
     {
       "Name": "AshieUwU",
       "Steam": "76561199832941743",
       "Score": 0,
-      "Time": "157:46"
+      "Time": "159:46"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 17,
-      "Time": "03:10"
+      "Score": 29,
+      "Time": "05:10"
     },
     {
       "Name": "mr daniel heusburgh",
       "Steam": "76561198710524426",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 6,
-      "Time": "04:02"
+      "Score": 16,
+      "Time": "06:02"
     },
     {
       "Name": "guubt4ngwj",
       "Steam": "76561199831405592",
       "Score": 0,
-      "Time": "01:28"
+      "Time": "00:25"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561198223482640",
+      "Score": 0,
+      "Time": "00:05"
     }
   ]
 }
