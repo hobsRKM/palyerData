@@ -1,12 +1,6 @@
 {
-  "Time": "2026-05-04T02:01:25.1977361Z",
+  "Time": "2026-05-04T02:03:25.1929751Z",
   "Players": [
-    {
-      "Name": "RedAliance",
-      "Steam": "76561198721363662",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "Entity",
       "Steam": "76561199825236538",
@@ -16,13 +10,13 @@
     {
       "Name": "alan",
       "Steam": "76561198746366294",
-      "Score": 40,
-      "Time": "39:39"
+      "Score": 45,
+      "Time": "41:39"
     },
     {
       "Name": "Abortion Clinic",
       "Steam": "76561198712213059",
-      "Score": 43,
+      "Score": 47,
       "Time": "??:??"
     },
     {
@@ -34,44 +28,44 @@
     {
       "Name": "rain",
       "Steam": "76561199876077209",
-      "Score": 22,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 11,
-      "Time": "36:13"
-    },
-    {
-      "Name": "༶•  ⛧ ♛",
-      "Steam": "76561199872987301",
-      "Score": 12,
-      "Time": "??:??"
+      "Score": 29,
+      "Time": "38:13"
     },
     {
       "Name": "inukoj ☭",
       "Steam": "76561199142849496",
-      "Score": 81,
+      "Score": 87,
+      "Time": "??:??"
+    },
+    {
+      "Name": "A_me_a",
+      "Steam": "76561199436225054",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Paulien Galph",
       "Steam": "76561198895034190",
-      "Score": 67,
-      "Time": "41:57"
+      "Score": 71,
+      "Time": "43:57"
     },
     {
       "Name": "shcty",
       "Steam": "76561199778070124",
-      "Score": 101,
-      "Time": "93:26"
+      "Score": 111,
+      "Time": "95:26"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "299:34"
+      "Time": "301:34"
     },
     {
       "Name": "bizzer summer",
@@ -82,14 +76,20 @@
     {
       "Name": "jaxui",
       "Steam": "76561198422749003",
-      "Score": 53,
+      "Score": 58,
       "Time": "??:??"
+    },
+    {
+      "Name": "stewbert",
+      "Steam": "76561198799307603",
+      "Score": 2,
+      "Time": "01:28"
     },
     {
       "Name": "Кракен",
       "Steam": "76561199156395215",
-      "Score": 60,
-      "Time": "12:32"
+      "Score": 68,
+      "Time": "14:32"
     }
   ]
 }
