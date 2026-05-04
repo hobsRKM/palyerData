@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-04T05:01:25.4124307Z",
+  "Time": "2026-05-04T05:03:25.4117697Z",
   "Players": [
     {
       "Name": "non explicit overtime",
       "Steam": "76561199032440303",
+      "Score": 6,
+      "Time": "106:21"
+    },
+    {
+      "Name": "yippe",
+      "Steam": "76561199104286406",
       "Score": 0,
-      "Time": "104:21"
+      "Time": "??:??"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 88,
-      "Time": "46:31"
+      "Score": 8,
+      "Time": "48:31"
     },
     {
       "Name": "AshieUwU",
       "Steam": "76561199832941743",
-      "Score": 3,
-      "Time": "181:46"
+      "Score": 2,
+      "Time": "183:46"
     },
     {
       "Name": "neverwin vs fatality fornite",
       "Steam": "76561198749713312",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "жанклот мамдрал",
-      "Steam": "76561199177623674",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "guubt4ngwj",
       "Steam": "76561199831405592",
-      "Score": 84,
-      "Time": "22:25"
+      "Score": 2,
+      "Time": "24:25"
+    },
+    {
+      "Name": "67",
+      "Steam": "76561198744402588",
+      "Score": 5,
+      "Time": "01:25"
     },
     {
       "Name": "seebzero",
@@ -46,8 +52,8 @@
     {
       "Name": "stewbert",
       "Steam": "76561198799307603",
-      "Score": 10,
-      "Time": "02:32"
+      "Score": 15,
+      "Time": "04:32"
     }
   ]
 }
