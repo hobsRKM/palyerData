@@ -1,4 +1,47 @@
 {
-  "Time": "2026-05-04T03:12:32.0355439Z",
-  "Players": []
+  "Time": "2026-05-04T03:13:21.0850597Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "checkmate",
+      "Steam": "76561199023446425",
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Oni",
+      "Steam": "76561199834942028",
+      "Score": 47,
+      "Time": "19:31"
+    },
+    {
+      "Name": "thatguy",
+      "Steam": "76561198335255015",
+      "Score": 2,
+      "Time": "06:45"
+    },
+    {
+      "Name": "DRAVEX",
+      "Steam": "76561199798424764",
+      "Score": 19,
+      "Time": "02:45"
+    },
+    {
+      "Name": "gamer jeff",
+      "Steam": "76561198820870178",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Lee Kee Bum",
+      "Steam": "76561199825732371",
+      "Score": 0,
+      "Time": "02:46"
+    }
+  ]
 }
