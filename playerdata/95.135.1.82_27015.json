@@ -1,58 +1,34 @@
 {
-  "Time": "2026-05-05T10:14:37.1363741Z",
+  "Time": "2026-05-05T10:15:43.1470751Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "D_Gamer",
-      "Steam": "76561198422420052",
-      "Score": 7,
+      "Name": "Данил",
+      "Steam": "76561199242163652",
+      "Score": 27,
+      "Time": "08:30"
+    },
+    {
+      "Name": "skeet.cc",
+      "Steam": "76561199807484203",
+      "Score": 12,
       "Time": "??:??"
     },
     {
-      "Name": "S0LAR",
-      "Steam": "76561198728188545",
-      "Score": 16,
+      "Name": "EDGAR ♿",
+      "Steam": "76561199523388233",
+      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "BOB",
-      "Steam": "76561199658311772",
-      "Score": 16,
-      "Time": "??:??"
-    },
-    {
-      "Name": ":DRevenge:D",
-      "Steam": "76561198109012496",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
-      "Name": "meow meow :3",
-      "Steam": "76561198718474570",
+      "Name": "z1R0",
+      "Steam": "76561199874363237",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "\uD835\uDE9C\uD835\uDE94\uD835\uDE8A\uD835\uDE9D\uD835\uDE8E",
-      "Steam": "76561198385231451",
-      "Score": 34,
-      "Time": "41:02"
-    },
-    {
-      "Name": "Oreus",
-      "Steam": "76561198714685837",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "FerrariPeek",
-      "Steam": "76561198156900050",
-      "Score": 7,
       "Time": "??:??"
     }
   ]
