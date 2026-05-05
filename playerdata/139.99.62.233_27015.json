@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-05T16:42:50.0443753Z",
+  "Time": "2026-05-05T16:44:50.0393975Z",
   "Players": [
     {
       "Name": "Korppi",
       "Steam": "76561198126350398",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "SHEENA",
       "Steam": "76561198724579259",
-      "Score": 2,
-      "Time": "01:26"
+      "Score": 4,
+      "Time": "03:26"
+    },
+    {
+      "Name": "xantares",
+      "Steam": "76561198706107571",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Alpha Xtrix",
       "Steam": "76561198711116345",
-      "Score": 16,
-      "Time": "65:49"
+      "Score": 22,
+      "Time": "67:49"
     },
     {
       "Name": "Ether",
       "Steam": "76561198760754920",
-      "Score": 13,
-      "Time": "175:22"
+      "Score": 16,
+      "Time": "177:22"
     },
     {
       "Name": "HvH? Huh?",
       "Steam": "76561198711720469",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     }
   ]
