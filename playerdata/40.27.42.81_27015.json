@@ -1,41 +1,53 @@
 {
-  "Time": "2026-05-05T01:33:18.9868039Z",
+  "Time": "2026-05-05T01:35:18.9957523Z",
   "Players": [
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 28,
-      "Time": "129:58"
+      "Score": 40,
+      "Time": "131:58"
     },
     {
       "Name": "repyhon",
       "Steam": "76561199530521634",
-      "Score": 12,
-      "Time": "41:39"
+      "Score": 9,
+      "Time": "43:39"
     },
     {
       "Name": "funeral",
       "Steam": "76561198914233824",
-      "Score": 42,
-      "Time": "50:54"
+      "Score": 48,
+      "Time": "52:54"
     },
     {
       "Name": "static",
       "Steam": "76561198180564201",
-      "Score": 29,
-      "Time": "30:31"
+      "Score": 35,
+      "Time": "32:31"
     },
     {
       "Name": "Fnatic-Kevboii",
       "Steam": "76561199368485684",
-      "Score": 15,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rufo",
+      "Steam": "76561198777497594",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "5e4t",
       "Steam": "76561198744402588",
-      "Score": 80,
-      "Time": "11:10"
+      "Score": 89,
+      "Time": "13:10"
     },
     {
       "Name": "SHOKO",
@@ -46,19 +58,25 @@
     {
       "Name": "Myno",
       "Steam": "76561199085317045",
-      "Score": 26,
-      "Time": "04:54"
+      "Score": 38,
+      "Time": "06:54"
     },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 16,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "occupance",
+      "Steam": "76561199857023302",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "UnknownDog",
       "Steam": "76561199589849200",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
