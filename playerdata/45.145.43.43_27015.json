@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-05T20:50:35.7137942Z",
-  "Players": []
+  "Time": "2026-05-05T20:50:36.473916Z",
+  "Players": [
+    {
+      "Name": "nostalgia",
+      "Steam": "76561198707255358",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[LUMA] PIPIDASTER",
+      "Steam": "76561199867343739",
+      "Score": 4,
+      "Time": "06:27"
+    },
+    {
+      "Name": "Caparezza",
+      "Steam": "76561198771223754",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Skeet Skeet NR#1 Cheat",
+      "Steam": "76561199260569708",
+      "Score": 24,
+      "Time": "11:50"
+    },
+    {
+      "Name": "Maximo",
+      "Steam": "76561198746541863",
+      "Score": 22,
+      "Time": "??:??"
+    }
+  ]
 }
