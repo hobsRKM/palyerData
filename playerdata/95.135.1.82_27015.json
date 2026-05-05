@@ -1,83 +1,89 @@
 {
-  "Time": "2026-05-05T16:40:37.1463197Z",
+  "Time": "2026-05-05T16:41:43.1484864Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Ferox",
-      "Steam": "76561199377440484",
+      "Name": "Rahman",
+      "Steam": "76561199233112240",
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "scripter",
+      "Steam": "76561199850535723",
+      "Score": 27,
+      "Time": "186:29"
+    },
+    {
+      "Name": "freezyk26",
+      "Steam": "76561198713085720",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "T | Palantir",
-      "Steam": "76561199345794754",
-      "Score": 17,
-      "Time": "426:56"
+      "Name": "Nope",
+      "Steam": "76561198141397226",
+      "Score": 36,
+      "Time": "34:19"
     },
     {
-      "Name": "trascavlad2008",
-      "Steam": "76561199870646030",
-      "Score": 64,
+      "Name": "JACK SPEDAISY",
+      "Steam": "76561198269379199",
+      "Score": 39,
+      "Time": "64:11"
+    },
+    {
+      "Name": "Goofy",
+      "Steam": "76561199690446269",
+      "Score": 44,
+      "Time": "56:21"
+    },
+    {
+      "Name": "ZTT Benchmarking",
+      "Steam": "76561199804241391",
+      "Score": 1,
       "Time": "??:??"
     },
     {
-      "Name": "Emo Boy 55",
-      "Steam": "76561198722127737",
+      "Name": "troubled",
+      "Steam": "76561199629184110",
+      "Score": 18,
+      "Time": "105:56"
+    },
+    {
+      "Name": "I crouch u lose",
+      "Steam": "76561199206658984",
+      "Score": 0,
+      "Time": "17:49"
+    },
+    {
+      "Name": "AKH",
+      "Steam": "76561197971640439",
+      "Score": 29,
+      "Time": "07:58"
+    },
+    {
+      "Name": "anticheat",
+      "Steam": "76561199471367225",
       "Score": 19,
-      "Time": "00:31"
+      "Time": "33:12"
     },
     {
-      "Name": "(OG) Enokz",
-      "Steam": "76561199180038097",
-      "Score": 31,
-      "Time": "??:??"
+      "Name": "krolwojtek",
+      "Steam": "76561199351095301",
+      "Score": 39,
+      "Time": "05:51"
     },
     {
-      "Name": "ur@z1k",
-      "Steam": "76561199070756563",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "m0i",
-      "Steam": "76561198758778362",
-      "Score": 59,
-      "Time": "??:??"
-    },
-    {
-      "Name": "moon",
-      "Steam": "76561199676449396",
-      "Score": 13,
-      "Time": "06:17"
-    },
-    {
-      "Name": "Ghostprotocol",
-      "Steam": "76561198081201468",
-      "Score": 60,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Kacper Dilod",
-      "Steam": "76561199374189413",
-      "Score": 38,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Moron1337",
-      "Steam": "76561198713195942",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Neverhead",
-      "Steam": "76561199841990334",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "framemogged",
+      "Steam": "76561199130902187",
+      "Score": 8,
+      "Time": "07:13"
     }
   ]
 }
