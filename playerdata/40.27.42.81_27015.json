@@ -1,76 +1,82 @@
 {
-  "Time": "2026-05-05T03:41:19.2149905Z",
+  "Time": "2026-05-05T03:43:19.2097398Z",
   "Players": [
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "someonee",
       "Steam": "76561198710841345",
-      "Score": 21,
-      "Time": "11:41"
+      "Score": 23,
+      "Time": "13:41"
     },
     {
       "Name": "X",
       "Steam": "76561198708690228",
-      "Score": 1,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 57,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 16,
-      "Time": "07:46"
+      "Score": 23,
+      "Time": "09:46"
     },
     {
       "Name": "Myno",
       "Steam": "76561199085317045",
-      "Score": 45,
-      "Time": "132:54"
+      "Score": 55,
+      "Time": "134:54"
     },
     {
       "Name": "slow",
       "Steam": "76561199453255014",
-      "Score": 30,
-      "Time": "219:02"
+      "Score": 35,
+      "Time": "221:02"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199873394300",
-      "Score": 9,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 41,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "AshieUwU",
       "Steam": "76561199832941743",
-      "Score": 61,
-      "Time": "72:50"
+      "Score": 69,
+      "Time": "74:50"
     },
     {
       "Name": "FeelTheSense",
       "Steam": "76561198708860550",
-      "Score": 28,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "UnknownDog",
       "Steam": "76561199589849200",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
