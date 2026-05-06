@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-06T02:25:23.2869294Z",
+  "Time": "2026-05-06T02:27:23.2950468Z",
   "Players": [
+    {
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 8,
+      "Time": "??:??"
+    },
     {
       "Name": "Sleepy",
       "Steam": "76561199020727390",
-      "Score": 84,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "//////",
       "Steam": "76561199805557263",
       "Score": 4,
-      "Time": "19:24"
+      "Time": "21:24"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 84,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "wizard",
       "Steam": "76561198712321279",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "AimForTheStars82",
       "Steam": "76561199873517401",
-      "Score": 89,
-      "Time": "106:20"
+      "Score": 91,
+      "Time": "108:20"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199809726812",
-      "Score": 25,
-      "Time": "05:14"
+      "Score": 34,
+      "Time": "07:14"
     }
   ]
 }
