@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-06T04:21:23.4252785Z",
+  "Time": "2026-05-06T04:23:23.4280036Z",
   "Players": [
     {
       "Name": "Sleepy",
       "Steam": "76561199020727390",
-      "Score": 49,
+      "Score": 53,
+      "Time": "??:??"
+    },
+    {
+      "Name": "stewbert",
+      "Steam": "76561198799307603",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bigsteppa",
       "Steam": "76561199827242653",
-      "Score": 20,
-      "Time": "12:44"
+      "Score": 22,
+      "Time": "14:44"
     },
     {
       "Name": "FemboytwinkUwU",
       "Steam": "76561198710130596",
-      "Score": 86,
-      "Time": "231:51"
+      "Score": 92,
+      "Time": "233:51"
     },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 14,
-      "Time": "265:18"
+      "Score": 18,
+      "Time": "267:18"
     },
     {
       "Name": "A Janky Nicca",
       "Steam": "76561198834456840",
       "Score": 15,
-      "Time": "15:47"
+      "Time": "17:47"
     }
   ]
 }
