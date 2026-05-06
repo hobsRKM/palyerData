@@ -1,29 +1,41 @@
 {
-  "Time": "2026-05-06T21:53:34.7811964Z",
+  "Time": "2026-05-06T21:55:34.7762502Z",
   "Players": [
+    {
+      "Name": "lately",
+      "Steam": "76561198720684327",
+      "Score": 10,
+      "Time": "01:18"
+    },
     {
       "Name": "smook",
       "Steam": "76561198173622871",
-      "Score": 11,
-      "Time": "12:10"
+      "Score": 17,
+      "Time": "14:10"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
       "Score": 0,
-      "Time": "40:23"
+      "Time": "42:23"
+    },
+    {
+      "Name": "Kiyoshi",
+      "Steam": "76561199117778799",
+      "Score": 2,
+      "Time": "01:15"
     },
     {
       "Name": "black Fish",
       "Steam": "76561198977856670",
-      "Score": 48,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "motd6vca91h2",
       "Steam": "76561198707328525",
-      "Score": 16,
-      "Time": "24:00"
+      "Score": 4,
+      "Time": "26:00"
     },
     {
       "Name": "Z",
@@ -34,19 +46,19 @@
     {
       "Name": "why bully me",
       "Steam": "76561199711727600",
-      "Score": 24,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "tigothy",
       "Steam": "76561199175351405",
-      "Score": 25,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "4",
       "Steam": "76561199020431776",
-      "Score": 34,
+      "Score": 41,
       "Time": "??:??"
     },
     {
@@ -58,7 +70,13 @@
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 10,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cserik1982",
+      "Steam": "76561199781167598",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
