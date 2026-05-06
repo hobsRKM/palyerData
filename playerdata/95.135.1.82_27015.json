@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-06T05:52:45.6555904Z",
-  "Players": []
+  "Time": "2026-05-06T05:54:16.6557121Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198784581696",
+      "Score": 7,
+      "Time": "05:27"
+    },
+    {
+      "Name": "Barber",
+      "Steam": "76561199610984176",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fipp гомик",
+      "Steam": "76561198724591114",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "does it have to end like this?",
+      "Steam": "76561198708640986",
+      "Score": 3,
+      "Time": "??:??"
+    }
+  ]
 }
