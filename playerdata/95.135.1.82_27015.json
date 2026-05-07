@@ -1,46 +1,58 @@
 {
-  "Time": "2026-05-07T07:36:31.3333701Z",
+  "Time": "2026-05-07T07:38:31.3425717Z",
   "Players": [
     {
       "Name": "Monkey",
       "Steam": "76561198712790870",
       "Score": 46,
-      "Time": "17:30"
+      "Time": "19:30"
+    },
+    {
+      "Name": "adromiwdolfgkmfs",
+      "Steam": "76561198711402656",
+      "Score": 16,
+      "Time": "00:10"
     },
     {
       "Name": "Raven",
       "Steam": "76561198746248893",
-      "Score": 75,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "Kissa",
       "Steam": "76561198302706293",
-      "Score": 2,
-      "Time": "01:17"
+      "Score": 16,
+      "Time": "03:17"
     },
     {
       "Name": "baggchaser",
       "Steam": "76561199315687818",
-      "Score": 2,
-      "Time": "04:48"
+      "Score": 4,
+      "Time": "06:48"
     },
     {
       "Name": "ŁORLD",
       "Steam": "76561198769290934",
-      "Score": 129,
-      "Time": "27:09"
+      "Score": 135,
+      "Time": "29:09"
     },
     {
       "Name": "Golden Labubu",
       "Steam": "76561198761556997",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Abdul Osama D.3",
       "Steam": "76561199613550130",
-      "Score": 26,
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "shefu223.shop",
+      "Steam": "76561198997540920",
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -50,27 +62,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "noname.",
-      "Steam": "76561198725926475",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "EZ_vac",
       "Steam": "76561198708279935",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
-    },
-    {
-      "Name": "puszy PH LVL AT 7",
-      "Steam": "76561198706407005",
-      "Score": 0,
-      "Time": "07:20"
     },
     {
       "Name": "undetected",
       "Steam": "76561198722899274",
-      "Score": 83,
+      "Score": 97,
       "Time": "??:??"
     }
   ]
