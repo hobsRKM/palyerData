@@ -1,52 +1,58 @@
 {
-  "Time": "2026-05-07T07:08:31.3411709Z",
+  "Time": "2026-05-07T07:10:31.3332308Z",
   "Players": [
+    {
+      "Name": "aristo",
+      "Steam": "76561198256948040",
+      "Score": 5,
+      "Time": "00:36"
+    },
+    {
+      "Name": "Monkey",
+      "Steam": "76561198712790870",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "adromiwdolfgkmfs",
       "Steam": "76561198711402656",
-      "Score": 76,
+      "Score": 1,
       "Time": "??:??"
+    },
+    {
+      "Name": "ŁORLD",
+      "Steam": "76561198769290934",
+      "Score": 4,
+      "Time": "01:09"
     },
     {
       "Name": "Abdul Osama D.3",
       "Steam": "76561199613550130",
-      "Score": 56,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "noname.",
       "Steam": "76561198725926475",
-      "Score": 86,
-      "Time": "??:??"
-    },
-    {
-      "Name": "walahi",
-      "Steam": "76561198730424317",
-      "Score": 14,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Emperor",
       "Steam": "76561199825732371",
-      "Score": 20,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "puszy PH LVL AT 7",
       "Steam": "76561198706407005",
       "Score": 0,
-      "Time": "14:33"
-    },
-    {
-      "Name": "Ruby♦️\uD83D\uDC8E",
-      "Steam": "76561199690909304",
-      "Score": 60,
-      "Time": "??:??"
+      "Time": "16:33"
     },
     {
       "Name": "undetected",
       "Steam": "76561198722899274",
-      "Score": 105,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
