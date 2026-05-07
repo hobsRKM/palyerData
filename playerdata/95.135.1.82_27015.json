@@ -1,47 +1,53 @@
 {
-  "Time": "2026-05-07T17:26:09.8807291Z",
+  "Time": "2026-05-07T17:26:31.3416804Z",
   "Players": [
     {
-      "Name": "1337",
-      "Steam": "76561198714208741",
+      "Name": "piki ACHTUNG!",
+      "Steam": "76561199018171457",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "undetected",
+      "Steam": "76561198722899274",
+      "Score": 43,
+      "Time": "221:36"
+    },
+    {
+      "Name": "FdR",
+      "Steam": "76561198746541863",
+      "Score": 0,
+      "Time": "00:44"
+    },
+    {
+      "Name": "vanzy",
+      "Steam": "76561199101809915",
+      "Score": 86,
+      "Time": "15:24"
+    },
+    {
+      "Name": "devonn",
+      "Steam": "76561198705319234",
+      "Score": 55,
+      "Time": "??:??"
+    },
+    {
+      "Name": "checkmate",
+      "Steam": "76561199023446425",
+      "Score": 57,
+      "Time": "15:28"
+    },
+    {
+      "Name": "kromanixfn",
+      "Steam": "76561198717589982",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sin",
+      "Steam": "76561197962600706",
       "Score": 4,
-      "Time": "155:57"
-    },
-    {
-      "Name": "f982uf2983fhhxfsd908",
-      "Steam": "76561198756544467",
-      "Score": 16,
-      "Time": "141:27"
-    },
-    {
-      "Name": "ᴴᵛᴿˢAlibabaShopper",
-      "Steam": "76561199737804492",
-      "Score": 33,
       "Time": "??:??"
-    },
-    {
-      "Name": "Fatality on top",
-      "Steam": "76561198708515307",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "[OG] namespace Autowall",
-      "Steam": "76561198726977481",
-      "Score": 26,
-      "Time": "28:46"
-    },
-    {
-      "Name": "Vizu",
-      "Steam": "76561199230061337",
-      "Score": 26,
-      "Time": "191:17"
-    },
-    {
-      "Name": "lacasito",
-      "Steam": "76561199611139483",
-      "Score": 6,
-      "Time": "09:11"
     }
   ]
 }
