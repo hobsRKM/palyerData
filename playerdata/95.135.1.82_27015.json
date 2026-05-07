@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-07T04:38:31.3277705Z",
+  "Time": "2026-05-07T04:40:31.3261509Z",
   "Players": [
+    {
+      "Name": "city",
+      "Steam": "76561199859777341",
+      "Score": 1,
+      "Time": "01:06"
+    },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 32,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Yunus aydın",
       "Steam": "76561198732229465",
       "Score": 2,
-      "Time": "07:12"
+      "Time": "09:12"
     },
     {
       "Name": "tiger",
       "Steam": "76561198707902039",
-      "Score": 29,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "dont ban me pls",
       "Steam": "76561198752304352",
-      "Score": 4,
-      "Time": "04:27"
+      "Score": 9,
+      "Time": "06:27"
     },
     {
       "Name": "Dansters",
@@ -34,7 +40,7 @@
     {
       "Name": "lean",
       "Steam": "76561198728840802",
-      "Score": 28,
+      "Score": 36,
       "Time": "??:??"
     }
   ]
