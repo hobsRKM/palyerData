@@ -1,4 +1,47 @@
 {
-  "Time": "2026-05-08T15:55:08.2344838Z",
-  "Players": []
+  "Time": "2026-05-08T15:55:40.3973264Z",
+  "Players": [
+    {
+      "Name": "swe.hvh",
+      "Steam": "76561199516412968",
+      "Score": 0,
+      "Time": "17:08"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 20,
+      "Time": "36:33"
+    },
+    {
+      "Name": "StandartCoder",
+      "Steam": "76561198355033069",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Faceoly",
+      "Steam": "76561199661978395",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "La Serpiente",
+      "Steam": "76561198454733923",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NOTEPAD++",
+      "Steam": "76561199867768997",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Video Games",
+      "Steam": "76561199847031132",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
