@@ -1,40 +1,46 @@
 {
-  "Time": "2026-05-08T18:26:05.2722928Z",
+  "Time": "2026-05-08T18:28:05.268174Z",
   "Players": [
+    {
+      "Name": "Crisp67",
+      "Steam": "76561198737052315",
+      "Score": 0,
+      "Time": "232:40"
+    },
     {
       "Name": "Kwiffl",
       "Steam": "76561199438805903",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "ᶜʳᵒʷⁿ",
       "Steam": "76561199888214382",
-      "Score": 8,
-      "Time": "22:58"
+      "Score": 21,
+      "Time": "24:58"
     },
     {
       "Name": "Jaszczur",
       "Steam": "76561199872649691",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "MISSED due to SPREADS",
-      "Steam": "76561198708633281",
-      "Score": 7,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Xeptic",
       "Steam": "76561199030310853",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "КАРЫЧ",
       "Steam": "76561199068747625",
-      "Score": 16,
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ok",
+      "Steam": "76561198974732412",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
