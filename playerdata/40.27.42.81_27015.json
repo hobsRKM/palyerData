@@ -1,17 +1,17 @@
 {
-  "Time": "2026-05-08T07:42:24.2668183Z",
+  "Time": "2026-05-08T07:44:24.2750612Z",
   "Players": [
+    {
+      "Name": "bags on demand",
+      "Steam": "76561198711152269",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 16,
-      "Time": "13:16"
-    },
-    {
-      "Name": "DOCA URSO VEM ME PEGA",
-      "Steam": "76561199610788411",
-      "Score": 0,
-      "Time": "08:23"
+      "Score": 22,
+      "Time": "15:16"
     }
   ]
 }
