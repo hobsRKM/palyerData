@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-08T23:37:00.8086497Z",
+  "Time": "2026-05-08T23:39:00.8039631Z",
   "Players": [
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 102,
-      "Time": "295:00"
+      "Score": 0,
+      "Time": "297:00"
     },
     {
       "Name": "Bro",
       "Steam": "76561198704628866",
-      "Score": 73,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Lil Naay",
+      "Steam": "76561199158419168",
+      "Score": 2,
+      "Time": "00:55"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 87,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "demagphoto",
       "Steam": "76561198706868502",
-      "Score": 27,
-      "Time": "27:52"
+      "Score": 0,
+      "Time": "29:52"
     }
   ]
 }
