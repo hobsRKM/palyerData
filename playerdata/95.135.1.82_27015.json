@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-08T21:37:03.4737209Z",
+  "Time": "2026-05-08T21:39:03.4730529Z",
   "Players": [
     {
       "Name": "FireTVStick",
       "Steam": "76561199079991406",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
+    },
+    {
+      "Name": "★ ★ ☆",
+      "Steam": "76561198706682668",
+      "Score": 0,
+      "Time": "55:59"
     },
     {
       "Name": "Infantrit",
       "Steam": "76561199827876555",
-      "Score": 25,
-      "Time": "35:31"
+      "Score": 31,
+      "Time": "37:31"
     },
     {
       "Name": "Unicorn",
@@ -22,14 +28,14 @@
     {
       "Name": "Kurokendrick",
       "Steam": "76561199479790668",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "pew pew",
       "Steam": "76561199864011550",
-      "Score": 57,
-      "Time": "54:51"
+      "Score": 59,
+      "Time": "56:51"
     }
   ]
 }
