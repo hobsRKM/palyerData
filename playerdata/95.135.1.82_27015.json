@@ -1,40 +1,46 @@
 {
-  "Time": "2026-05-08T13:21:03.4676081Z",
+  "Time": "2026-05-08T13:23:03.4721225Z",
   "Players": [
+    {
+      "Name": "evilmore",
+      "Steam": "76561199889415616",
+      "Score": 38,
+      "Time": "01:18"
+    },
     {
       "Name": "ben dover",
       "Steam": "76561198706881508",
-      "Score": 34,
-      "Time": "20:37"
+      "Score": 5,
+      "Time": "22:37"
     },
     {
       "Name": "double trouble",
       "Steam": "76561198787632516",
-      "Score": 81,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "mkstr dot xyz",
       "Steam": "76561199332372590",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Shrimp",
       "Steam": "76561198705619114",
-      "Score": 62,
-      "Time": "34:35"
+      "Score": 74,
+      "Time": "36:35"
     },
     {
-      "Name": "pleWare | PiwiAmande",
+      "Name": "leWare | PiwiAmande",
       "Steam": "76561198753025472",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "novicu",
       "Steam": "76561198754838080",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     }
   ]
