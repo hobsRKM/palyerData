@@ -1,11 +1,17 @@
 {
-  "Time": "2026-05-08T18:41:00.8155516Z",
+  "Time": "2026-05-08T18:43:00.8132438Z",
   "Players": [
+    {
+      "Name": "COM BOT | JUMPSCOUT ONLY",
+      "Steam": "76561198774659014",
+      "Score": 3,
+      "Time": "01:00"
+    },
     {
       "Name": "$$$$$$",
       "Steam": "76561199871203946",
-      "Score": 22,
-      "Time": "71:03"
+      "Score": 31,
+      "Time": "73:03"
     },
     {
       "Name": "DXVXD",
@@ -16,26 +22,26 @@
     {
       "Name": "$$$$$$",
       "Steam": "76561199828563808",
-      "Score": 4,
-      "Time": "02:59"
+      "Score": 0,
+      "Time": "04:59"
     },
     {
       "Name": "enhance",
       "Steam": "76561198386911787",
-      "Score": 21,
-      "Time": "50:23"
+      "Score": 24,
+      "Time": "52:23"
     },
     {
       "Name": "i work for vac",
       "Steam": "76561199677489263",
-      "Score": 17,
-      "Time": "28:33"
+      "Score": 21,
+      "Time": "30:33"
     },
     {
       "Name": "gs",
       "Steam": "76561199847868570",
-      "Score": 43,
-      "Time": "75:07"
+      "Score": 56,
+      "Time": "77:07"
     },
     {
       "Name": "skid",
@@ -46,13 +52,13 @@
     {
       "Name": "yorugaming",
       "Steam": "76561198707072808",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "openfv",
       "Steam": "76561199728505739",
-      "Score": 4,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
