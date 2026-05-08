@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-08T07:32:24.2710462Z",
+  "Time": "2026-05-08T07:34:24.2768461Z",
   "Players": [
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 2,
+      "Time": "01:06"
+    },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 16,
-      "Time": "03:16"
+      "Score": 26,
+      "Time": "05:16"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21gt8",
       "Steam": "76561199873394300",
       "Score": 31,
-      "Time": "36:02"
+      "Time": "38:02"
     }
   ]
 }
