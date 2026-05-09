@@ -1,77 +1,89 @@
 {
-  "Time": "2026-05-09T22:33:06.5140874Z",
+  "Time": "2026-05-09T22:35:06.5051177Z",
   "Players": [
     {
       "Name": "esolreven",
       "Steam": "76561198709697387",
-      "Score": 49,
-      "Time": "10:23"
+      "Score": 50,
+      "Time": "12:23"
     },
     {
       "Name": "myst1c",
       "Steam": "76561198715387526",
-      "Score": 53,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "demagphoto",
       "Steam": "76561198706868502",
       "Score": 58,
-      "Time": "44:15"
+      "Time": "46:15"
+    },
+    {
+      "Name": "np",
+      "Steam": "76561199442814754",
+      "Score": 0,
+      "Time": "01:08"
     },
     {
       "Name": "The Doctor",
       "Steam": "76561199217416189",
-      "Score": 40,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "//////",
       "Steam": "76561199805557263",
-      "Score": 70,
-      "Time": "117:42"
+      "Score": 74,
+      "Time": "119:42"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "JMA",
+      "Steam": "76561198731775721",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Myno (Funeral's Bitch)",
       "Steam": "76561199085317045",
-      "Score": 41,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 56,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 12,
-      "Time": "07:18"
+      "Score": 16,
+      "Time": "09:18"
     },
     {
       "Name": "Jason Todd",
       "Steam": "76561198136332201",
-      "Score": 15,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198743881943",
-      "Score": 42,
-      "Time": "07:30"
+      "Score": 48,
+      "Time": "09:30"
     },
     {
       "Name": "corxea",
       "Steam": "76561198290234115",
       "Score": 35,
-      "Time": "23:10"
-    },
-    {
-      "Name": "(Bot)ATLAS",
-      "Steam": "76561198054139724",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "25:10"
     }
   ]
 }
