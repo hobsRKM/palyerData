@@ -1,16 +1,22 @@
 {
-  "Time": "2026-05-09T04:51:01.8181459Z",
+  "Time": "2026-05-09T04:53:01.8555224Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 3,
+      "Time": "??:??"
+    },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 12,
-      "Time": "03:30"
+      "Score": 18,
+      "Time": "05:30"
     },
     {
       "Name": "GassedUpShawty",
       "Steam": "76561199876886861",
-      "Score": 40,
+      "Score": 48,
       "Time": "??:??"
     },
     {
@@ -22,68 +28,62 @@
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 64,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "dashradman",
       "Steam": "76561198708671123",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 65,
-      "Time": "27:27"
+      "Score": 74,
+      "Time": "29:27"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 69,
-      "Time": "29:32"
+      "Score": 80,
+      "Time": "31:32"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 128,
-      "Time": "272:24"
+      "Score": 132,
+      "Time": "274:24"
     },
     {
       "Name": "Eliza",
       "Steam": "76561199886101992",
-      "Score": 68,
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOT Yuri",
+      "Steam": "76561199849640465",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "OhManIdied",
       "Steam": "76561199170732916",
-      "Score": 55,
-      "Time": "144:14"
+      "Score": 59,
+      "Time": "146:14"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 43,
-      "Time": "10:07"
+      "Score": 51,
+      "Time": "12:07"
     },
     {
-      "Name": "gobor",
-      "Steam": "76561198709179802",
-      "Score": 67,
-      "Time": "??:??"
-    },
-    {
-      "Name": "zz",
-      "Steam": "76561199530521634",
-      "Score": 39,
-      "Time": "30:14"
-    },
-    {
-      "Name": "Alligator200",
-      "Steam": "76561199132215373",
+      "Name": "gaminggenius2012",
+      "Steam": "76561198170202181",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "112:07"
     }
   ]
 }
