@@ -1,35 +1,59 @@
 {
-  "Time": "2026-05-09T20:36:59.2843846Z",
+  "Time": "2026-05-09T20:38:27.8020788Z",
   "Players": [
+    {
+      "Name": "WappyTappy",
+      "Steam": "76561198718635494",
+      "Score": 19,
+      "Time": "04:55"
+    },
+    {
+      "Name": "mrxed",
+      "Steam": "76561199889415616",
+      "Score": 17,
+      "Time": "06:12"
+    },
+    {
+      "Name": "J",
+      "Steam": "76561199081126630",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Skeema",
       "Steam": "76561199830627050",
       "Score": 0,
-      "Time": "00:24"
+      "Time": "00:09"
     },
     {
-      "Name": "checkmate",
-      "Steam": "76561199023446425",
-      "Score": 34,
-      "Time": "162:16"
+      "Name": "Faceoly",
+      "Steam": "76561199661978395",
+      "Score": 8,
+      "Time": "428:21"
     },
     {
-      "Name": "\uD83E\uDD2A",
-      "Steam": "76561198707073349",
+      "Name": "Mjay",
+      "Steam": "76561199237707727",
+      "Score": 14,
+      "Time": "77:55"
+    },
+    {
+      "Name": "adromiwdolfgkmfs",
+      "Steam": "76561198711402656",
+      "Score": 6,
+      "Time": "242:23"
+    },
+    {
+      "Name": "\uD83D\uDC99m1sak\uD83D\uDC99",
+      "Steam": "76561199870902362",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vance",
+      "Steam": "76561199889697498",
       "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "vanzy",
-      "Steam": "76561199101809915",
-      "Score": 56,
-      "Time": "156:51"
     }
   ]
 }
