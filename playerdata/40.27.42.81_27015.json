@@ -1,46 +1,58 @@
 {
-  "Time": "2026-05-09T03:59:01.0592388Z",
+  "Time": "2026-05-09T04:01:01.0693796Z",
   "Players": [
+    {
+      "Name": "partial",
+      "Steam": "76561198754893844",
+      "Score": 0,
+      "Time": "00:03"
+    },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 6,
-      "Time": "82:03"
+      "Score": 12,
+      "Time": "84:03"
     },
     {
       "Name": "Luubi",
       "Steam": "76561199046204811",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "Bro",
       "Steam": "76561198704628866",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "acedia 2016",
       "Steam": "76561198016592365",
-      "Score": 25,
-      "Time": "127:51"
+      "Score": 39,
+      "Time": "129:51"
+    },
+    {
+      "Name": "maro",
+      "Steam": "76561199683966458",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 26,
-      "Time": "120:39"
+      "Score": 38,
+      "Time": "122:39"
     },
     {
       "Name": "gobor",
       "Steam": "76561198709179802",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     }
   ]
