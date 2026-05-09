@@ -1,47 +1,53 @@
 {
-  "Time": "2026-05-09T08:29:07.2092433Z",
+  "Time": "2026-05-09T08:31:07.2551174Z",
   "Players": [
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 23,
-      "Time": "82:36"
+      "Score": 33,
+      "Time": "84:36"
     },
     {
       "Name": "GoyimChud",
       "Steam": "76561199876886861",
-      "Score": 12,
-      "Time": "11:27"
+      "Score": 14,
+      "Time": "13:27"
     },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 8,
-      "Time": "48:22"
+      "Score": 12,
+      "Time": "50:22"
+    },
+    {
+      "Name": "Royal",
+      "Steam": "76561199453255014",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 0,
-      "Time": "10:49"
+      "Score": 2,
+      "Time": "12:49"
     },
     {
       "Name": "Goyim Chud",
       "Steam": "76561198706189799",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "baggchaser",
       "Steam": "76561199315687818",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Kaneki",
       "Steam": "76561198775750125",
-      "Score": 14,
-      "Time": "38:30"
+      "Score": 24,
+      "Time": "40:31"
     },
     {
       "Name": "ISellBigFishWithNoTeeth",
@@ -53,13 +59,13 @@
       "Name": "brainiac",
       "Steam": "76561199382410032",
       "Score": 12,
-      "Time": "21:22"
+      "Time": "23:22"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 33,
-      "Time": "291:29"
+      "Score": 51,
+      "Time": "293:29"
     }
   ]
 }
