@@ -1,11 +1,17 @@
 {
-  "Time": "2026-05-09T21:39:06.5109396Z",
+  "Time": "2026-05-09T21:41:06.5123587Z",
   "Players": [
+    {
+      "Name": "Riley",
+      "Steam": "76561198958510175",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "esolreven",
       "Steam": "76561198709697387",
-      "Score": 0,
-      "Time": "63:18"
+      "Score": 2,
+      "Time": "65:18"
     },
     {
       "Name": "M0shka",
@@ -16,55 +22,37 @@
     {
       "Name": "rain",
       "Steam": "76561199847868570",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
-      "Name": "np",
-      "Steam": "76561199442814754",
-      "Score": 70,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "I <3 Perc 20s",
       "Steam": "76561199856456086",
-      "Score": 6,
-      "Time": "09:09"
-    },
-    {
-      "Name": "LuckyCharms GOD Build",
-      "Steam": "76561199055238878",
-      "Score": 138,
-      "Time": "36:19"
+      "Score": 1,
+      "Time": "11:09"
     },
     {
       "Name": "ru",
       "Steam": "76561198743881943",
-      "Score": 122,
-      "Time": "183:01"
+      "Score": 4,
+      "Time": "185:01"
     },
     {
       "Name": "１５８８",
       "Steam": "76561199834673048",
-      "Score": 96,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "acedia 2016",
-      "Steam": "76561198016592365",
-      "Score": 92,
-      "Time": "80:51"
     },
     {
       "Name": "alse",
       "Steam": "76561199062527797",
-      "Score": 63,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "enhance",
       "Steam": "76561198386911787",
-      "Score": 27,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
