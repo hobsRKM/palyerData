@@ -1,41 +1,71 @@
 {
-  "Time": "2026-05-09T20:54:59.2809881Z",
+  "Time": "2026-05-09T20:56:27.7882083Z",
   "Players": [
     {
-      "Name": "FdR",
-      "Steam": "76561198746541863",
+      "Name": "WappyTappy",
+      "Steam": "76561198718635494",
+      "Score": 101,
+      "Time": "22:55"
+    },
+    {
+      "Name": "Skeema",
+      "Steam": "76561199830627050",
+      "Score": 13,
+      "Time": "18:09"
+    },
+    {
+      "Name": "matsäs",
+      "Steam": "76561199842002650",
+      "Score": 8,
+      "Time": "04:10"
+    },
+    {
+      "Name": "Kospek",
+      "Steam": "76561199849873848",
+      "Score": 52,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Faceoly",
+      "Steam": "76561199661978395",
+      "Score": 4,
+      "Time": "446:21"
+    },
+    {
+      "Name": "swe.hvh",
+      "Steam": "76561199516412968",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ozempeek",
+      "Steam": "76561199241125970",
+      "Score": 25,
+      "Time": "476:04"
+    },
+    {
+      "Name": "RaxoLL",
+      "Steam": "76561198745903058",
+      "Score": 18,
+      "Time": "20:08"
+    },
+    {
+      "Name": "Mjay",
+      "Steam": "76561199237707727",
       "Score": 0,
-      "Time": "211:57"
+      "Time": "95:55"
     },
     {
-      "Name": "checkmate",
-      "Steam": "76561199023446425",
-      "Score": 24,
-      "Time": "180:16"
+      "Name": "CallMeSpoofer",
+      "Steam": "76561199026396251",
+      "Score": 54,
+      "Time": "12:37"
     },
     {
-      "Name": "\uD83E\uDD2A",
-      "Steam": "76561198707073349",
-      "Score": 48,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "adromiwdolfgkmfs",
+      "Steam": "76561198711402656",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "vanzy",
-      "Steam": "76561199101809915",
-      "Score": 42,
-      "Time": "174:51"
-    },
-    {
-      "Name": "ИЩИ @vpnwhiteness_bot",
-      "Steam": "76561198752099549",
-      "Score": 12,
-      "Time": "??:??"
+      "Time": "260:23"
     }
   ]
 }
