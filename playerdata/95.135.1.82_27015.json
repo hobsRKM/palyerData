@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-09T10:28:59.2814376Z",
+  "Time": "2026-05-09T10:30:59.2926998Z",
   "Players": [
+    {
+      "Name": "CallMeSpoofer",
+      "Steam": "76561199026396251",
+      "Score": 0,
+      "Time": "00:52"
+    },
     {
       "Name": "trascavlad2008",
       "Steam": "76561199870646030",
-      "Score": 0,
-      "Time": "29:26"
+      "Score": 4,
+      "Time": "31:26"
     },
     {
-      "Name": "valcs",
-      "Steam": "76561199688494594",
-      "Score": 4,
-      "Time": "??:??"
+      "Name": "CarlitoMB",
+      "Steam": "76561199697633072",
+      "Score": 0,
+      "Time": "00:47"
     },
     {
       "Name": "nikorobi1337",
       "Steam": "76561198708296664",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Kospek",
       "Steam": "76561199849873848",
       "Score": 0,
-      "Time": "13:46"
+      "Time": "15:46"
     },
     {
       "Name": "M1RtiN4o",
@@ -32,10 +38,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "Sweezy",
+      "Steam": "76561199854787715",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
       "Name": "Infantrit",
       "Steam": "76561199827876555",
-      "Score": 7,
-      "Time": "52:45"
+      "Score": 22,
+      "Time": "54:45"
+    },
+    {
+      "Name": "moon",
+      "Steam": "76561199676449396",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "jay",
@@ -46,14 +64,14 @@
     {
       "Name": "force baim <3",
       "Steam": "76561198775827744",
-      "Score": 14,
-      "Time": "90:20"
+      "Score": 22,
+      "Time": "92:20"
     },
     {
       "Name": "adromiwdolfgkmfs",
       "Steam": "76561198711402656",
-      "Score": 26,
-      "Time": "66:39"
+      "Score": 28,
+      "Time": "68:39"
     }
   ]
 }
