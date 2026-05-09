@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-09T06:10:59.2781411Z",
-  "Players": []
+  "Time": "2026-05-09T06:12:05.4564244Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kleo.ce.rv.a.no",
+      "Steam": "76561198770003791",
+      "Score": 69,
+      "Time": "??:??"
+    },
+    {
+      "Name": "parker",
+      "Steam": "76561198727266652",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "stojnik8603",
+      "Steam": "76561198722012418",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tptomeweekend",
+      "Steam": "76561199658311772",
+      "Score": 8,
+      "Time": "??:??"
+    }
+  ]
 }
