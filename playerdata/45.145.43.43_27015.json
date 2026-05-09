@@ -1,35 +1,47 @@
 {
-  "Time": "2026-05-09T22:01:03.9098492Z",
+  "Time": "2026-05-09T22:02:29.5465992Z",
   "Players": [
     {
-      "Name": "[Monolith] dreamteam1092",
-      "Steam": "76561198751748347",
-      "Score": 10,
+      "Name": "Video Games",
+      "Steam": "76561199847031132",
+      "Score": 44,
+      "Time": "31:36"
+    },
+    {
+      "Name": "sdkhbnf",
+      "Steam": "76561198707306681",
+      "Score": 4,
+      "Time": "03:31"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 9,
+      "Time": "02:52"
+    },
+    {
+      "Name": "Minds",
+      "Steam": "76561199348146388",
+      "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "soloway",
-      "Steam": "76561199359146855",
-      "Score": 50,
+      "Name": "Spawnschbop",
+      "Steam": "76561198392719867",
+      "Score": 39,
       "Time": "??:??"
     },
     {
-      "Name": "JAZZ",
-      "Steam": "76561198726281103",
-      "Score": 6,
-      "Time": "??:??"
+      "Name": "Granddaddy Purple",
+      "Steam": "76561199230019305",
+      "Score": 39,
+      "Time": "95:52"
     },
     {
-      "Name": "mygirlfriend",
-      "Steam": "76561199114107663",
-      "Score": 8,
+      "Name": "RoBERTO",
+      "Steam": "76561199872439760",
+      "Score": 16,
       "Time": "??:??"
-    },
-    {
-      "Name": "Tom Pearl",
-      "Steam": "76561199365905587",
-      "Score": 0,
-      "Time": "01:03"
     }
   ]
 }
