@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-09T08:34:59.2835126Z",
+  "Time": "2026-05-09T08:36:59.2902506Z",
   "Players": [
+    {
+      "Name": "DOOM",
+      "Steam": "76561199050013204",
+      "Score": 0,
+      "Time": "01:26"
+    },
     {
       "Name": "swe.hvh",
       "Steam": "76561199516412968",
-      "Score": 4,
-      "Time": "40:35"
+      "Score": 0,
+      "Time": "42:35"
     },
     {
       "Name": "Infantrit",
       "Steam": "76561199827876555",
-      "Score": 4,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "walahi",
       "Steam": "76561198730424317",
       "Score": 0,
-      "Time": "00:35"
+      "Time": "02:35"
     },
     {
       "Name": "sapphyrus",
       "Steam": "76561199018171457",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "CASIAN",
       "Steam": "76561198741552057",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "01:02"
     }
   ]
 }
