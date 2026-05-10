@@ -1,5 +1,5 @@
 {
-  "Time": "2026-05-10T01:20:59.2879625Z",
+  "Time": "2026-05-10T01:22:59.2835846Z",
   "Players": [
     {
       "Name": "Nim",
@@ -10,32 +10,38 @@
     {
       "Name": "checkmate",
       "Steam": "76561199023446425",
-      "Score": 23,
-      "Time": "89:44"
+      "Score": 30,
+      "Time": "91:44"
     },
     {
       "Name": "gaminggenius2012",
       "Steam": "76561198170202181",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "MIKEEEEEEE",
       "Steam": "76561198765116538",
-      "Score": 30,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "vanzy",
       "Steam": "76561199101809915",
-      "Score": 30,
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "S I L E N C E",
+      "Steam": "76561199167348716",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "vesa",
       "Steam": "76561199188928654",
-      "Score": 2,
-      "Time": "00:29"
+      "Score": 6,
+      "Time": "02:29"
     }
   ]
 }
