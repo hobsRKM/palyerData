@@ -1,59 +1,71 @@
 {
-  "Time": "2026-05-10T19:29:00.6771521Z",
+  "Time": "2026-05-10T19:30:52.5232527Z",
   "Players": [
     {
-      "Name": "lby",
-      "Steam": "76561199070957592",
+      "Name": "kuba",
+      "Steam": "76561198173161633",
+      "Score": 0,
+      "Time": "01:46"
+    },
+    {
+      "Name": "leWare | gymolimpic",
+      "Steam": "76561199036536422",
+      "Score": 10,
+      "Time": "35:38"
+    },
+    {
+      "Name": "kanaa",
+      "Steam": "76561199365905587",
+      "Score": 11,
+      "Time": "15:00"
+    },
+    {
+      "Name": "JAZZ",
+      "Steam": "76561198726281103",
       "Score": 24,
       "Time": "??:??"
     },
     {
-      "Name": "Barber",
-      "Steam": "76561199610984176",
-      "Score": 15,
-      "Time": "207:22"
-    },
-    {
-      "Name": "bogdan",
-      "Steam": "76561199855775452",
-      "Score": 1,
-      "Time": "01:20"
-    },
-    {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "ŁORLD",
-      "Steam": "76561198769290934",
-      "Score": 46,
-      "Time": "34:36"
+      "Name": "no name",
+      "Steam": "76561198779151784",
+      "Score": 6,
+      "Time": "??:??"
     },
     {
-      "Name": "YoZ",
-      "Steam": "76561198116443834",
-      "Score": 20,
-      "Time": "04:57"
+      "Name": "jay",
+      "Steam": "76561198741244592",
+      "Score": 11,
+      "Time": "22:06"
     },
     {
-      "Name": "selfmade",
-      "Steam": "76561198713515316",
+      "Name": "Blank",
+      "Steam": "76561198751950264",
       "Score": 2,
-      "Time": "173:27"
+      "Time": "02:32"
     },
     {
-      "Name": "Skeema",
-      "Steam": "76561199830627050",
-      "Score": 1,
+      "Name": "D4emon",
+      "Steam": "76561199840077614",
+      "Score": 13,
       "Time": "??:??"
     },
     {
-      "Name": "vaccedlive",
-      "Steam": "76561198703971341",
-      "Score": 4,
-      "Time": "??:??"
+      "Name": "juif",
+      "Steam": "76561199712229477",
+      "Score": 11,
+      "Time": "09:03"
+    },
+    {
+      "Name": "Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 0,
+      "Time": "78:00"
     }
   ]
 }
