@@ -1,46 +1,58 @@
 {
-  "Time": "2026-05-10T18:19:00.5839018Z",
+  "Time": "2026-05-10T18:21:00.5870346Z",
   "Players": [
+    {
+      "Name": "<3",
+      "Steam": "76561198984848627",
+      "Score": 6,
+      "Time": "01:22"
+    },
     {
       "Name": "Tom Cruise",
       "Steam": "76561198041181851",
-      "Score": 7,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "acedia 2016",
+      "Steam": "76561198016592365",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 21,
-      "Time": "37:27"
+      "Score": 28,
+      "Time": "39:27"
     },
     {
       "Name": "True Talent Hidden Within Opsec",
       "Steam": "76561199580355122",
-      "Score": 4,
-      "Time": "20:02"
+      "Score": 6,
+      "Time": "22:02"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "rain",
       "Steam": "76561199847868570",
-      "Score": 29,
-      "Time": "36:02"
+      "Score": 39,
+      "Time": "38:02"
     },
     {
       "Name": "shcty",
       "Steam": "76561199778070124",
-      "Score": 18,
-      "Time": "23:45"
+      "Score": 25,
+      "Time": "25:45"
     },
     {
       "Name": "NotKenny",
       "Steam": "76561199870970905",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -53,7 +65,7 @@
       "Name": "Hunger Struck",
       "Steam": "76561199871089309",
       "Score": 0,
-      "Time": "04:58"
+      "Time": "06:58"
     }
   ]
 }
