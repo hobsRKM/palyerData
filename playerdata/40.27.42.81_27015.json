@@ -1,65 +1,77 @@
 {
-  "Time": "2026-05-10T06:33:11.6825928Z",
+  "Time": "2026-05-10T06:35:11.6773926Z",
   "Players": [
     {
       "Name": "马思维",
       "Steam": "76561199712427690",
+      "Score": 9,
+      "Time": "02:42"
+    },
+    {
+      "Name": "POOPYCOCK",
+      "Steam": "76561199819470509",
       "Score": 0,
-      "Time": "00:42"
+      "Time": "??:??"
     },
     {
       "Name": "Lil Naay",
       "Steam": "76561199158419168",
-      "Score": 43,
-      "Time": "20:11"
+      "Score": 50,
+      "Time": "22:11"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "2019 new comer-KOWALSKI",
       "Steam": "76561198962607182",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 2,
-      "Time": "27:28"
+      "Score": 4,
+      "Time": "29:28"
     },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 54,
-      "Time": "51:47"
+      "Score": 57,
+      "Time": "53:47"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
       "Score": 23,
-      "Time": "18:43"
+      "Time": "20:43"
     },
     {
       "Name": "OhManIdied",
       "Steam": "76561199170732916",
       "Score": 4,
-      "Time": "05:46"
+      "Time": "07:46"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 42,
-      "Time": "13:41"
+      "Score": 49,
+      "Time": "15:41"
+    },
+    {
+      "Name": "Nathaniel Higgers",
+      "Steam": "76561199013348017",
+      "Score": 0,
+      "Time": "01:00"
     },
     {
       "Name": "myst1c",
       "Steam": "76561198715387526",
-      "Score": 10,
-      "Time": "09:16"
+      "Score": 18,
+      "Time": "11:16"
     }
   ]
 }
