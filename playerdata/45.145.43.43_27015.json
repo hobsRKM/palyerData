@@ -1,53 +1,59 @@
 {
-  "Time": "2026-05-10T17:55:00.9996013Z",
+  "Time": "2026-05-10T17:56:49.7375763Z",
   "Players": [
     {
-      "Name": "Weerty444",
-      "Steam": "76561198750630265",
+      "Name": "Monkey",
+      "Steam": "76561198712790870",
+      "Score": 18,
+      "Time": "10:07"
+    },
+    {
+      "Name": "Skeema",
+      "Steam": "76561199830627050",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "trascavlad2008",
+      "Steam": "76561199870646030",
+      "Score": 27,
+      "Time": "14:33"
+    },
+    {
+      "Name": "enzoaufbenzo",
+      "Steam": "76561198703827462",
+      "Score": 4,
+      "Time": "01:11"
+    },
+    {
+      "Name": "ᶜʳᵒʷⁿ",
+      "Steam": "76561199888214382",
+      "Score": 39,
+      "Time": "120:17"
+    },
+    {
+      "Name": "guZr",
+      "Steam": "76561198712657837",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fein_Invalid",
+      "Steam": "76561199444305280",
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Abu Mohammad Al Adnani",
+      "Steam": "76561198718019789",
       "Score": 0,
-      "Time": "00:40"
-    },
-    {
-      "Name": "vanzy",
-      "Steam": "76561199101809915",
-      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "JAZZ",
-      "Steam": "76561198726281103",
-      "Score": 0,
-      "Time": "22:28"
-    },
-    {
-      "Name": "\uD83E\uDD2A",
-      "Steam": "76561198707073349",
-      "Score": 12,
+      "Name": "e",
+      "Steam": "76561199069760164",
+      "Score": 16,
       "Time": "??:??"
-    },
-    {
-      "Name": "andi goldberger",
-      "Steam": "76561198751061221",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "zayn",
-      "Steam": "76561199754502839",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Šaban Šaulić",
-      "Steam": "76561199065194957",
-      "Score": 0,
-      "Time": "01:39"
-    },
-    {
-      "Name": "kanaa",
-      "Steam": "76561199365905587",
-      "Score": 6,
-      "Time": "22:50"
     }
   ]
 }
