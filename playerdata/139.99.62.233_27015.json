@@ -1,41 +1,35 @@
 {
-  "Time": "2026-05-10T10:39:18.6567039Z",
+  "Time": "2026-05-10T10:41:18.6543365Z",
   "Players": [
     {
       "Name": "bob",
       "Steam": "76561199810050156",
-      "Score": 60,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "R8 Trainee",
       "Steam": "76561199529490199",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDCC3\uD835\uDCC0\uD835\uDCC8\uD835\uDCCE\uD835\uDCB9\uD835\uDCBE\uD835\uDCC0\uD835\uDC52",
       "Steam": "76561199248931111",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "kleo.ce.rv.a.no",
       "Steam": "76561198770003791",
-      "Score": 30,
+      "Score": 38,
       "Time": "??:??"
-    },
-    {
-      "Name": "ezmappa",
-      "Steam": "76561199662743465",
-      "Score": 11,
-      "Time": "05:36"
     },
     {
       "Name": "AGOD",
       "Steam": "76561199852636851",
-      "Score": 32,
-      "Time": "92:31"
+      "Score": 43,
+      "Time": "94:31"
     }
   ]
 }
