@@ -1,10 +1,10 @@
 {
-  "Time": "2026-05-10T09:41:18.4994029Z",
+  "Time": "2026-05-10T09:43:18.5054976Z",
   "Players": [
     {
       "Name": "Neo",
       "Steam": "76561199808928969",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
@@ -22,32 +22,38 @@
     {
       "Name": "Alô! Vũ À Vũ",
       "Steam": "76561199107271518",
-      "Score": 2,
-      "Time": "23:22"
+      "Score": 4,
+      "Time": "25:22"
     },
     {
       "Name": "ezmappa",
       "Steam": "76561199662743465",
-      "Score": 4,
-      "Time": "153:55"
+      "Score": 14,
+      "Time": "155:55"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "vac大蛇",
       "Steam": "76561199721393967",
-      "Score": 13,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "AGOD",
       "Steam": "76561199852636851",
       "Score": 12,
-      "Time": "34:31"
+      "Time": "36:31"
+    },
+    {
+      "Name": "mega123",
+      "Steam": "76561198707246166",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
