@@ -1,5 +1,5 @@
 {
-  "Time": "2026-05-10T09:37:00.6771692Z",
+  "Time": "2026-05-10T09:39:00.6759657Z",
   "Players": [
     {
       "Name": "\"'",
@@ -10,19 +10,31 @@
     {
       "Name": "RaxoLL",
       "Steam": "76561198745903058",
+      "Score": 8,
+      "Time": "55:13"
+    },
+    {
+      "Name": "x",
+      "Steam": "76561199822369775",
       "Score": 2,
-      "Time": "53:13"
+      "Time": "??:??"
     },
     {
       "Name": "anglemaxx",
       "Steam": "76561198706663404",
-      "Score": 2,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "matsek",
+      "Steam": "76561199057176224",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "lis",
       "Steam": "76561198873163226",
-      "Score": 62,
+      "Score": 71,
       "Time": "??:??"
     },
     {
@@ -32,63 +44,51 @@
       "Time": "??:??"
     },
     {
-      "Name": "Aimstar // 05",
-      "Steam": "76561199670377948",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
       "Name": "s",
       "Steam": "76561197967011618",
-      "Score": 14,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "enjoyer",
       "Steam": "76561198721304518",
-      "Score": 72,
-      "Time": "57:18"
+      "Score": 83,
+      "Time": "59:18"
     },
     {
       "Name": "r.",
       "Steam": "76561199097513800",
-      "Score": 42,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Formul",
-      "Steam": "76561198773683682",
-      "Score": 11,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "ᶜʳᵒʷⁿ",
       "Steam": "76561199888214382",
-      "Score": 36,
-      "Time": "14:25"
+      "Score": 39,
+      "Time": "16:25"
     },
     {
       "Name": "SLideeeeeeeee me some coca",
       "Steam": "76561199842369196",
-      "Score": 0,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Carton",
       "Steam": "76561198794067779",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "cocainelover",
       "Steam": "76561199425592793",
-      "Score": 16,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "NAITX",
       "Steam": "76561198785583891",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
