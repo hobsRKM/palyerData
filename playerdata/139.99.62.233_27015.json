@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-10T13:05:18.7486174Z",
+  "Time": "2026-05-10T13:07:18.7511227Z",
   "Players": [
+    {
+      "Name": "ham",
+      "Steam": "76561199755759659",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "SLUGGA",
       "Steam": "76561199625017225",
-      "Score": 45,
-      "Time": "34:50"
+      "Score": 0,
+      "Time": "36:50"
     },
     {
       "Name": "Eternity",
       "Steam": "76561198780016372",
-      "Score": 40,
-      "Time": "22:17"
+      "Score": 0,
+      "Time": "24:17"
     },
     {
       "Name": "\uD835\uDC81",
       "Steam": "76561198824890960",
-      "Score": 35,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ezmappa",
       "Steam": "76561199663052603",
-      "Score": 121,
-      "Time": "37:32"
+      "Score": 0,
+      "Time": "39:32"
     },
     {
-      "Name": "[Mon] dreamteam1092",
+      "Name": "[Monolith] dreamteam1092",
       "Steam": "76561198759189186",
-      "Score": 29,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
