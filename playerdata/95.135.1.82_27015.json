@@ -1,83 +1,53 @@
 {
-  "Time": "2026-05-10T15:17:00.6855094Z",
+  "Time": "2026-05-10T15:18:52.5188931Z",
   "Players": [
     {
-      "Name": "Minds",
-      "Steam": "76561199348146388",
+      "Name": "Collin",
+      "Steam": "76561199121905108",
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vanzy",
+      "Steam": "76561199101809915",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "super hawk",
+      "Steam": "76561199864011550",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "I crouch u lose",
+      "Steam": "76561199206658984",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "peaceful",
+      "Steam": "76561198298152973",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "checkmate",
+      "Steam": "76561199023446425",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gamer jeff",
+      "Steam": "76561198820870178",
       "Score": 1,
       "Time": "??:??"
     },
     {
-      "Name": "kkkkkky11",
-      "Steam": "76561199565101798",
-      "Score": 28,
-      "Time": "??:??"
-    },
-    {
-      "Name": "JAZZ",
-      "Steam": "76561198726281103",
+      "Name": "Infantrit",
+      "Steam": "76561199827876555",
       "Score": 0,
-      "Time": "52:30"
-    },
-    {
-      "Name": "[OG] lovewp",
-      "Steam": "76561198390998402",
-      "Score": 58,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Zoli",
-      "Steam": "76561198733842354",
-      "Score": 93,
-      "Time": "63:44"
-    },
-    {
-      "Name": "D0rge",
-      "Steam": "76561197988715741",
-      "Score": 30,
-      "Time": "20:09"
-    },
-    {
-      "Name": "Faceoly",
-      "Steam": "76561199661978395",
-      "Score": 7,
-      "Time": "363:33"
-    },
-    {
-      "Name": "Video Games",
-      "Steam": "76561199847031132",
-      "Score": 49,
-      "Time": "??:??"
-    },
-    {
-      "Name": "watari",
-      "Steam": "76561198970496981",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "[OG]UWUCAT",
-      "Steam": "76561199855449365",
-      "Score": 50,
-      "Time": "34:10"
-    },
-    {
-      "Name": "Real Madrid",
-      "Steam": "76561198791309345",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "God DID",
-      "Steam": "76561198432741674",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "(OG) Enokz",
-      "Steam": "76561199180038097",
-      "Score": 14,
-      "Time": "43:48"
+      "Time": "222:23"
     }
   ]
 }
