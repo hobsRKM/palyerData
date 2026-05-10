@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-10T13:55:18.9186275Z",
+  "Time": "2026-05-10T13:57:18.9211468Z",
   "Players": [
     {
       "Name": "ham",
       "Steam": "76561199755759659",
-      "Score": 26,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 19,
-      "Time": "44:54"
+      "Score": 23,
+      "Time": "46:54"
+    },
+    {
+      "Name": "> AUR_ | Best Music",
+      "Steam": "76561199829905037",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "nan",
       "Steam": "76561199847533857",
       "Score": 11,
-      "Time": "23:51"
+      "Time": "25:51"
     },
     {
       "Name": "ezmappa",
       "Steam": "76561199663052603",
-      "Score": 39,
-      "Time": "11:40"
+      "Score": 47,
+      "Time": "13:40"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
-      "Score": 14,
-      "Time": "10:06"
+      "Score": 20,
+      "Time": "12:06"
     }
   ]
 }
