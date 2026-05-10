@@ -1,16 +1,22 @@
 {
-  "Time": "2026-05-10T17:43:00.5706694Z",
+  "Time": "2026-05-10T17:45:00.5717911Z",
   "Players": [
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
+      "Score": 6,
+      "Time": "03:27"
+    },
+    {
+      "Name": "True Talent Hidden Within Opsec",
+      "Steam": "76561199580355122",
       "Score": 0,
-      "Time": "01:27"
+      "Time": "00:06"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
