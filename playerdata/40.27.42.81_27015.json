@@ -1,41 +1,53 @@
 {
-  "Time": "2026-05-10T06:05:10.9133839Z",
+  "Time": "2026-05-10T06:07:10.9784948Z",
   "Players": [
     {
       "Name": "x",
       "Steam": "76561199863404183",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "<3",
       "Steam": "76561198984848627",
-      "Score": 16,
-      "Time": "31:51"
+      "Score": 25,
+      "Time": "33:51"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 24,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "Luubi",
       "Steam": "76561199046204811",
-      "Score": 11,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "ru",
       "Steam": "76561198743881943",
-      "Score": 13,
+      "Score": 21,
       "Time": "??:??"
+    },
+    {
+      "Name": "Ansi",
+      "Steam": "76561199568150325",
+      "Score": 4,
+      "Time": "01:27"
     },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 12,
-      "Time": "23:46"
+      "Score": 30,
+      "Time": "25:47"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
