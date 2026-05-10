@@ -1,41 +1,59 @@
 {
-  "Time": "2026-05-10T01:11:06.633918Z",
+  "Time": "2026-05-10T01:13:06.6249107Z",
   "Players": [
     {
       "Name": "cc.esolreven",
       "Steam": "76561198743891397",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "acedia 2016",
       "Steam": "76561198016592365",
-      "Score": 2,
-      "Time": "75:12"
+      "Score": 9,
+      "Time": "77:12"
+    },
+    {
+      "Name": "vdjf",
+      "Steam": "76561199179241072",
+      "Score": 0,
+      "Time": "00:44"
     },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198343112799",
-      "Score": 0,
-      "Time": "133:21"
+      "Score": 6,
+      "Time": "135:21"
     },
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
       "Score": 0,
-      "Time": "21:14"
+      "Time": "23:14"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 0,
-      "Time": "03:49"
+      "Score": 1,
+      "Time": "05:49"
     },
     {
       "Name": "Xyro",
       "Steam": "76561199836886163",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
+    },
+    {
+      "Name": "HUNK",
+      "Steam": "76561199870945474",
+      "Score": 5,
+      "Time": "01:14"
+    },
+    {
+      "Name": "Aru",
+      "Steam": "76561199706248567",
+      "Score": 0,
+      "Time": "00:47"
     }
   ]
 }
