@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-10T17:25:22.4272259Z",
+  "Time": "2026-05-10T17:27:22.4691285Z",
   "Players": [
+    {
+      "Name": "tramposa coños",
+      "Steam": "76561198737289754",
+      "Score": 0,
+      "Time": "00:59"
+    },
+    {
+      "Name": "Pussy Patrick",
+      "Steam": "76561198717523615",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "1/2 Kg Chikken",
       "Steam": "76561199644038914",
-      "Score": 82,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "1/2 Kg Chikken",
       "Steam": "76561199810524131",
       "Score": 63,
-      "Time": "49:10"
-    },
-    {
-      "Name": "Jeffrey Epstein",
-      "Steam": "76561198706673199",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "51:10"
     }
   ]
 }
