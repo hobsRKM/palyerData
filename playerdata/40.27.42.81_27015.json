@@ -1,22 +1,22 @@
 {
-  "Time": "2026-05-10T21:31:00.5737118Z",
+  "Time": "2026-05-10T21:33:00.5846622Z",
   "Players": [
+    {
+      "Name": "Riley123123",
+      "Steam": "76561198958510175",
+      "Score": 0,
+      "Time": "00:22"
+    },
     {
       "Name": "Lil Naay",
       "Steam": "76561199158419168",
-      "Score": 43,
-      "Time": "08:23"
-    },
-    {
-      "Name": "king",
-      "Steam": "76561198772659643",
-      "Score": 38,
-      "Time": "12:19"
+      "Score": 2,
+      "Time": "10:23"
     },
     {
       "Name": "louis",
       "Steam": "76561199028616490",
-      "Score": 27,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -28,32 +28,32 @@
     {
       "Name": "Jake - Enforcer",
       "Steam": "76561198343112799",
-      "Score": 56,
-      "Time": "88:15"
+      "Score": 2,
+      "Time": "90:15"
     },
     {
       "Name": "gbajhikgb",
       "Steam": "76561198180065165",
-      "Score": 7,
-      "Time": "36:57"
+      "Score": 0,
+      "Time": "38:57"
     },
     {
       "Name": "tigothy",
       "Steam": "76561199175351405",
-      "Score": 40,
-      "Time": "73:48"
+      "Score": 0,
+      "Time": "75:48"
     },
     {
       "Name": "smurfing isn't nice :(",
       "Steam": "76561198782137599",
-      "Score": 20,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "delta",
       "Steam": "76561199847868570",
       "Score": 0,
-      "Time": "131:35"
+      "Time": "133:35"
     }
   ]
 }
