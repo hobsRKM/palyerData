@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-10T13:31:18.8103163Z",
+  "Time": "2026-05-10T13:33:18.8075322Z",
   "Players": [
     {
       "Name": "ham",
       "Steam": "76561199755759659",
-      "Score": 74,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 27,
-      "Time": "20:54"
+      "Score": 40,
+      "Time": "22:54"
     },
     {
       "Name": "\uD835\uDC81",
       "Steam": "76561198824890960",
-      "Score": 44,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "plaguedcheesemelts",
       "Steam": "76561198705100636",
-      "Score": 4,
-      "Time": "90:18"
+      "Score": 10,
+      "Time": "92:18"
+    },
+    {
+      "Name": "nan",
+      "Steam": "76561199847533857",
+      "Score": 2,
+      "Time": "01:51"
     },
     {
       "Name": "ezmappa",
       "Steam": "76561199663052603",
-      "Score": 40,
-      "Time": "63:32"
+      "Score": 42,
+      "Time": "65:32"
     }
   ]
 }
