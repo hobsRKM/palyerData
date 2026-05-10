@@ -1,47 +1,53 @@
 {
-  "Time": "2026-05-10T07:11:18.3445988Z",
+  "Time": "2026-05-10T07:13:18.347041Z",
   "Players": [
     {
       "Name": "outhxz",
       "Steam": "76561198726417689",
-      "Score": 0,
-      "Time": "10:41"
+      "Score": 2,
+      "Time": "12:41"
     },
     {
       "Name": "Alô! Vũ À Vũ",
       "Steam": "76561199107271518",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "nan",
+      "Steam": "76561199847533857",
+      "Score": 2,
+      "Time": "01:01"
     },
     {
       "Name": "ezmappa",
       "Steam": "76561199662743465",
-      "Score": 2,
-      "Time": "03:55"
+      "Score": 0,
+      "Time": "05:55"
     },
     {
       "Name": "⭕⃤VEXI1337⭕⃤",
       "Steam": "76561199747824672",
-      "Score": 2,
-      "Time": "08:49"
+      "Score": 3,
+      "Time": "10:49"
     },
     {
-      "Name": "[Mon] dreamteam1092",
+      "Name": "Miggy neverlose.cc",
+      "Steam": "76561198732080637",
+      "Score": 2,
+      "Time": "01:45"
+    },
+    {
+      "Name": "[Monolith] dreamteam1092",
       "Steam": "76561198711483423",
-      "Score": 1,
-      "Time": "08:43"
+      "Score": 5,
+      "Time": "10:43"
     },
     {
       "Name": "pluto",
       "Steam": "76561198781949953",
-      "Score": 0,
-      "Time": "03:06"
-    },
-    {
-      "Name": "08ey",
-      "Steam": "76561198735340701",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "05:06"
     }
   ]
 }
