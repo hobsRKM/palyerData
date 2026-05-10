@@ -1,6 +1,12 @@
 {
-  "Time": "2026-05-10T10:45:18.6580491Z",
+  "Time": "2026-05-10T10:47:18.6537333Z",
   "Players": [
+    {
+      "Name": "tramposa coños",
+      "Steam": "76561198737289754",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "kleo.ce.rv.a.no",
       "Steam": "76561198770003791",
@@ -8,10 +14,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "plaguedcheesemelts",
+      "Steam": "76561198705100636",
+      "Score": 2,
+      "Time": "01:49"
+    },
+    {
       "Name": "AGOD",
       "Steam": "76561199852636851",
-      "Score": 50,
-      "Time": "98:31"
+      "Score": 58,
+      "Time": "100:31"
     }
   ]
 }
