@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-10T18:15:23.9328247Z",
+  "Time": "2026-05-10T18:17:23.9864028Z",
   "Players": [
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
-      "Score": 9,
-      "Time": "479:26"
+      "Score": 11,
+      "Time": "481:26"
+    },
+    {
+      "Name": "plaguedcheesemelts",
+      "Steam": "76561198705100636",
+      "Score": 0,
+      "Time": "00:38"
     },
     {
       "Name": "Pussy Patrick",
       "Steam": "76561198717523615",
-      "Score": 16,
-      "Time": "25:29"
+      "Score": 18,
+      "Time": "27:29"
     },
     {
       "Name": "FATALITY.WIN",
       "Steam": "76561199644038914",
-      "Score": 75,
-      "Time": "20:39"
+      "Score": 83,
+      "Time": "22:39"
     },
     {
       "Name": "ice cream",
       "Steam": "76561199810524131",
-      "Score": 7,
-      "Time": "05:49"
+      "Score": 9,
+      "Time": "07:49"
     }
   ]
 }
