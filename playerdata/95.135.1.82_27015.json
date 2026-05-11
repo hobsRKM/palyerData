@@ -1,23 +1,35 @@
 {
-  "Time": "2026-05-11T12:10:48.4937388Z",
+  "Time": "2026-05-11T12:12:48.495042Z",
   "Players": [
     {
       "Name": "Normal Person",
       "Steam": "76561199760081093",
-      "Score": 0,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "аллах пидорас",
+      "Steam": "76561199610713553",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "kappachungus",
       "Steam": "76561199847612758",
-      "Score": 4,
-      "Time": "24:45"
+      "Score": 18,
+      "Time": "26:45"
+    },
+    {
+      "Name": "FROZZY",
+      "Steam": "76561199712154231",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Mr Rambo",
       "Steam": "76561199836567328",
-      "Score": 0,
-      "Time": "00:17"
+      "Score": 6,
+      "Time": "02:17"
     },
     {
       "Name": "d",
@@ -28,14 +40,20 @@
     {
       "Name": "super hawk",
       "Steam": "76561199864011550",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "checkmate",
       "Steam": "76561199023446425",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "cwdlq59767",
+      "Steam": "76561198704391233",
+      "Score": 0,
+      "Time": "00:45"
     }
   ]
 }
