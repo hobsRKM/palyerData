@@ -1,23 +1,23 @@
 {
-  "Time": "2026-05-11T16:31:05.5658266Z",
+  "Time": "2026-05-11T16:35:05.5760664Z",
   "Players": [
-    {
-      "Name": "fever",
-      "Steam": "76561199151819038",
-      "Score": 10,
-      "Time": "06:48"
-    },
     {
       "Name": "Curby",
       "Steam": "76561198369113089",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "COM BOT | JUMPSCOUT ONLY",
       "Steam": "76561198774659014",
-      "Score": 26,
+      "Score": 39,
       "Time": "??:??"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 0,
+      "Time": "00:07"
     }
   ]
 }
