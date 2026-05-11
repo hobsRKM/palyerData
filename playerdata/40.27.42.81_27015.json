@@ -1,46 +1,52 @@
 {
-  "Time": "2026-05-11T05:35:04.9400181Z",
+  "Time": "2026-05-11T05:37:04.9790893Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 0,
+      "Time": "00:34"
+    },
     {
       "Name": "speed",
       "Steam": "76561199853189658",
-      "Score": 2,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 10,
-      "Time": "06:40"
+      "Score": 21,
+      "Time": "08:40"
     },
     {
       "Name": "myst1c",
       "Steam": "76561198715387526",
-      "Score": 38,
-      "Time": "43:38"
+      "Score": 39,
+      "Time": "45:38"
     },
     {
       "Name": "BOT Yuri",
       "Steam": "76561199849640465",
-      "Score": 58,
-      "Time": "491:40"
+      "Score": 67,
+      "Time": "493:40"
     },
     {
       "Name": "carti",
       "Steam": "76561199090536475",
-      "Score": 15,
-      "Time": "19:23"
+      "Score": 18,
+      "Time": "21:23"
     },
     {
       "Name": "Xyro",
       "Steam": "76561199836886163",
-      "Score": 19,
-      "Time": "30:11"
+      "Score": 23,
+      "Time": "32:11"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     }
   ]
