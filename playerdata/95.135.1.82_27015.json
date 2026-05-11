@@ -1,11 +1,29 @@
 {
-  "Time": "2026-05-11T06:16:48.4937414Z",
+  "Time": "2026-05-11T06:17:00.6935566Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
-      "Score": 0,
+      "Name": "parker / Grim",
+      "Steam": "76561198727266652",
+      "Score": 36,
+      "Time": "61:59"
+    },
+    {
+      "Name": "CHATGPT V10 RESOLVER",
+      "Steam": "76561199646423776",
+      "Score": 39,
       "Time": "??:??"
+    },
+    {
+      "Name": "pineapple",
+      "Steam": "76561198217079391",
+      "Score": 56,
+      "Time": "272:53"
+    },
+    {
+      "Name": "Nope",
+      "Steam": "76561198141397226",
+      "Score": 1,
+      "Time": "06:09"
     }
   ]
 }
