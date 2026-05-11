@@ -1,58 +1,64 @@
 {
-  "Time": "2026-05-11T02:15:01.4440614Z",
+  "Time": "2026-05-11T02:17:01.4632209Z",
   "Players": [
+    {
+      "Name": "[Mon] dreamteam1092",
+      "Steam": "76561199026964811",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "aimware.net",
       "Steam": "76561198706868502",
-      "Score": 76,
-      "Time": "66:55"
+      "Score": 0,
+      "Time": "68:55"
     },
     {
-      "Name": "Entity",
-      "Steam": "76561199825236538",
-      "Score": 68,
-      "Time": "34:59"
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 6,
+      "Time": "01:06"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 64,
-      "Time": "27:31"
+      "Score": 0,
+      "Time": "29:31"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 95,
-      "Time": "31:57"
+      "Score": 0,
+      "Time": "33:57"
     },
     {
       "Name": "carti",
       "Steam": "76561199090536475",
-      "Score": 40,
-      "Time": "75:54"
+      "Score": 4,
+      "Time": "77:54"
     },
     {
       "Name": "silent",
       "Steam": "76561198373000446",
-      "Score": 66,
-      "Time": "23:55"
+      "Score": 2,
+      "Time": "25:55"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 109,
-      "Time": "33:29"
-    },
-    {
-      "Name": "马思维",
-      "Steam": "76561199712427690",
-      "Score": 24,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "35:29"
     },
     {
       "Name": "tigothy",
       "Steam": "76561199175351405",
-      "Score": 76,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TEXAS ROADHOUSE 10X CHAMPION",
+      "Steam": "76561198843984436",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
