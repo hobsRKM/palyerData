@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-11T00:07:00.6846443Z",
+  "Time": "2026-05-11T00:08:52.5166341Z",
   "Players": [
     {
-      "Name": "triple t",
-      "Steam": "76561199136389558",
+      "Name": "thuisbezorg",
+      "Steam": "76561199610463847",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kappachungus",
+      "Steam": "76561199847612758",
+      "Score": 53,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ha",
+      "Steam": "76561199095482327",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "54:06"
-    },
-    {
-      "Name": "ᴴⱽʳˢ lean",
-      "Steam": "76561198728840802",
-      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "Eliza",
-      "Steam": "76561199886101992",
-      "Score": 5,
-      "Time": "??:??"
+      "Name": "checkmate",
+      "Steam": "76561199023446425",
+      "Score": 49,
+      "Time": "67:21"
     },
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "d",
+      "Steam": "76561199846338954",
+      "Score": 54,
+      "Time": "110:17"
+    },
+    {
+      "Name": "super hawk",
+      "Steam": "76561199864011550",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "xanrexic",
-      "Steam": "76561198717322243",
-      "Score": 2,
-      "Time": "54:07"
-    },
-    {
-      "Name": "m0i",
-      "Steam": "76561198758778362",
-      "Score": 16,
-      "Time": "12:59"
+      "Time": "00:27"
     }
   ]
 }
