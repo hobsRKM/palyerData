@@ -1,71 +1,53 @@
 {
-  "Time": "2026-05-11T01:31:01.125044Z",
+  "Time": "2026-05-11T01:33:01.1364852Z",
   "Players": [
+    {
+      "Name": "stewbert",
+      "Steam": "76561198799307603",
+      "Score": 0,
+      "Time": "01:23"
+    },
     {
       "Name": "aimware.net",
       "Steam": "76561198706868502",
-      "Score": 14,
-      "Time": "22:54"
-    },
-    {
-      "Name": "Entity",
-      "Steam": "76561199825236538",
-      "Score": 6,
-      "Time": "137:56"
+      "Score": 4,
+      "Time": "24:54"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 62,
-      "Time": "39:04"
-    },
-    {
-      "Name": "acedia 2016",
-      "Steam": "76561198016592365",
-      "Score": 159,
-      "Time": "257:18"
-    },
-    {
-      "Name": "nxt #1997aLegendWasBorn",
-      "Steam": "76561198199806545",
-      "Score": 48,
-      "Time": "21:33"
+      "Score": 2,
+      "Time": "41:04"
     },
     {
       "Name": "Stoodis/Skoden",
       "Steam": "76561199126727109",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "carti",
       "Steam": "76561199090536475",
-      "Score": 43,
-      "Time": "31:54"
-    },
-    {
-      "Name": "bishal peak #Peak=InstantDeath",
-      "Steam": "76561199029981261",
-      "Score": 119,
-      "Time": "??:??"
+      "Score": 5,
+      "Time": "33:54"
     },
     {
       "Name": "pornisrael/",
       "Steam": "76561199614621559",
-      "Score": 147,
-      "Time": "39:05"
+      "Score": 11,
+      "Time": "41:05"
     },
     {
       "Name": "tigothy",
       "Steam": "76561199175351405",
-      "Score": 56,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "ejejewjmdkdmdm",
       "Steam": "76561198706957677",
-      "Score": 5,
-      "Time": "02:18"
+      "Score": 0,
+      "Time": "04:18"
     }
   ]
 }
