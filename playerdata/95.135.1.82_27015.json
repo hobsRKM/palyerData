@@ -1,35 +1,29 @@
 {
-  "Time": "2026-05-11T14:20:48.497393Z",
+  "Time": "2026-05-11T14:21:52.9761781Z",
   "Players": [
     {
-      "Name": "cute femboy",
-      "Steam": "76561198711056618",
+      "Name": "Claude",
+      "Steam": "76561198726655992",
       "Score": 28,
+      "Time": "10:00"
+    },
+    {
+      "Name": "SorTy",
+      "Steam": "76561199195595234",
+      "Score": 20,
+      "Time": "09:38"
+    },
+    {
+      "Name": "1337",
+      "Steam": "76561198712093612",
+      "Score": 9,
       "Time": "??:??"
     },
     {
-      "Name": "EzFrags Users Never Walk Alone",
-      "Steam": "76561199570180323",
-      "Score": 13,
+      "Name": "davyy550",
+      "Steam": "76561198704119269",
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "kappachungus",
-      "Steam": "76561199847612758",
-      "Score": 46,
-      "Time": "42:42"
-    },
-    {
-      "Name": "jason bond",
-      "Steam": "76561198730537968",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "d",
-      "Steam": "76561199846338954",
-      "Score": 62,
-      "Time": "34:45"
     }
   ]
 }
