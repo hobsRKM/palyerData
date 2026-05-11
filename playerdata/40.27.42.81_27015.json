@@ -1,34 +1,46 @@
 {
-  "Time": "2026-05-11T03:45:02.6437497Z",
+  "Time": "2026-05-11T03:47:02.6685216Z",
   "Players": [
+    {
+      "Name": "myst1c",
+      "Steam": "76561198715387526",
+      "Score": 2,
+      "Time": "01:28"
+    },
     {
       "Name": "carti",
       "Steam": "76561199090536475",
-      "Score": 28,
-      "Time": "17:58"
+      "Score": 36,
+      "Time": "19:58"
     },
     {
       "Name": "Myno (Funeral's E-Kitten)",
       "Steam": "76561199085317045",
-      "Score": 37,
-      "Time": "15:38"
+      "Score": 47,
+      "Time": "17:38"
     },
     {
       "Name": "VCBNDFB",
       "Steam": "76561199020431776",
-      "Score": 20,
-      "Time": "04:41"
+      "Score": 30,
+      "Time": "06:41"
     },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 31,
-      "Time": "13:55"
+      "Score": 2,
+      "Time": "15:55"
+    },
+    {
+      "Name": "Qelity",
+      "Steam": "76561199578941791",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "tigothy",
       "Steam": "76561199175351405",
-      "Score": 43,
+      "Score": 50,
       "Time": "??:??"
     }
   ]
