@@ -1,46 +1,52 @@
 {
-  "Time": "2026-05-12T05:11:05.8079466Z",
+  "Time": "2026-05-12T05:13:05.8101512Z",
   "Players": [
+    {
+      "Name": "s",
+      "Steam": "76561198735582746",
+      "Score": 15,
+      "Time": "268:51"
+    },
     {
       "Name": "funeral",
       "Steam": "76561198914233824",
-      "Score": 5,
-      "Time": "03:00"
+      "Score": 13,
+      "Time": "05:00"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 67,
+      "Score": 74,
       "Time": "??:??"
     },
     {
       "Name": "Vɪᴛᴀʟɪᴛʏ | KaNgaRoe",
       "Steam": "76561199580886379",
       "Score": 2,
-      "Time": "01:28"
+      "Time": "03:28"
     },
     {
       "Name": "Λεπίδες, κοκαΐνη GothBoiClique,",
       "Steam": "76561199830024313",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "brainiac",
       "Steam": "76561199382410032",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "１ ６ ８ ８",
       "Steam": "76561199868862332",
-      "Score": 18,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "cheez",
       "Steam": "76561198743474205",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     }
   ]
