@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-12T20:49:36.0446419Z",
+  "Time": "2026-05-12T20:51:36.0487282Z",
   "Players": [
+    {
+      "Name": "soda",
+      "Steam": "76561198786321609",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 0,
-      "Time": "155:56"
+      "Score": 4,
+      "Time": "157:56"
     },
     {
       "Name": "FREE",
       "Steam": "76561199036391689",
-      "Score": 0,
-      "Time": "02:57"
+      "Score": 6,
+      "Time": "04:57"
     },
     {
       "Name": "Hoodrich block stepper",
       "Steam": "76561199881822481",
-      "Score": 0,
-      "Time": "159:25"
+      "Score": 15,
+      "Time": "161:25"
     },
     {
       "Name": "codex code grandmaster",
       "Steam": "76561199880717233",
-      "Score": 0,
-      "Time": "05:52"
+      "Score": 12,
+      "Time": "07:52"
     },
     {
-      "Name": "i am donk",
-      "Steam": "76561198776303132",
+      "Name": "7rpq",
+      "Steam": "76561197963718553",
       "Score": 0,
-      "Time": "01:51"
+      "Time": "00:47"
     },
     {
       "Name": "OhManIdied",
@@ -38,15 +44,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "[[[[[[",
-      "Steam": "76561199389360592",
-      "Score": 0,
-      "Time": "00:38"
-    },
-    {
       "Name": "\uD835\uDCDF⋆\uD80C\uDC85⌯",
       "Steam": "76561198311329253",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
