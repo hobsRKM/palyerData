@@ -1,4 +1,29 @@
 {
-  "Time": "2026-05-12T21:40:56.5547512Z",
-  "Players": []
+  "Time": "2026-05-12T21:41:08.2425921Z",
+  "Players": [
+    {
+      "Name": "User ✡",
+      "Steam": "76561198735098292",
+      "Score": 2,
+      "Time": "09:31"
+    },
+    {
+      "Name": "lukegod101",
+      "Steam": "76561198709676620",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jjudenkiller",
+      "Steam": "76561198708352243",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "magnus gratiz",
+      "Steam": "76561199816897394",
+      "Score": 2,
+      "Time": "03:35"
+    }
+  ]
 }
