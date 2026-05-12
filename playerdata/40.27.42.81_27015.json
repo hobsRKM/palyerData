@@ -1,6 +1,12 @@
 {
-  "Time": "2026-05-11T23:43:05.5792705Z",
+  "Time": "2026-05-11T23:45:05.5683286Z",
   "Players": [
+    {
+      "Name": "codex code grandmaster",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "JOKSERSADAS",
       "Steam": "76561199609995567",
@@ -10,14 +16,14 @@
     {
       "Name": "vdjf",
       "Steam": "76561199179241072",
-      "Score": 2,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Myno (Funeral's E-Kitten)",
       "Steam": "76561199085317045",
-      "Score": 0,
-      "Time": "01:19"
+      "Score": 12,
+      "Time": "03:19"
     },
     {
       "Name": "jaxui",
@@ -28,14 +34,8 @@
     {
       "Name": "//////",
       "Steam": "76561199805557263",
-      "Score": 38,
+      "Score": 51,
       "Time": "??:??"
-    },
-    {
-      "Name": "非个人得分热水袋",
-      "Steam": "76561199851287763",
-      "Score": 12,
-      "Time": "144:45"
     },
     {
       "Name": "Baim (tracele.ss test)",
@@ -46,38 +46,38 @@
     {
       "Name": "Buggy",
       "Steam": "76561198974777067",
-      "Score": 14,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "I <3 Perc 20s \uD83D\uDDFF⃤⃢",
       "Steam": "76561199856456086",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "ndm333",
       "Steam": "76561199728838635",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "deftones",
       "Steam": "76561199059830928",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "01:34"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Xyro",
       "Steam": "76561199836886163",
-      "Score": 19,
-      "Time": "28:34"
+      "Score": 26,
+      "Time": "30:34"
     }
   ]
 }
