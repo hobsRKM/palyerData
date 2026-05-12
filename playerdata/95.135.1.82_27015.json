@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-12T20:09:07.9242047Z",
+  "Time": "2026-05-12T20:11:07.9283966Z",
   "Players": [
     {
-      "Name": "Temp | gymolimpic",
+      "Name": "Templ | gymolimpic",
       "Steam": "76561199036536422",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198784581696",
+      "Score": 10,
+      "Time": "669:24"
+    },
+    {
+      "Name": "Iosif Stalin",
+      "Steam": "76561199886385661",
       "Score": 0,
-      "Time": "667:24"
+      "Time": "??:??"
     }
   ]
 }
