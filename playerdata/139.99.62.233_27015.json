@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-12T21:53:14.2269722Z",
+  "Time": "2026-05-12T21:55:14.232435Z",
   "Players": [
     {
       "Name": "SiLxnZer",
       "Steam": "76561199002500021",
-      "Score": 40,
-      "Time": "23:41"
+      "Score": 4,
+      "Time": "25:41"
+    },
+    {
+      "Name": "HvH Bot",
+      "Steam": "76561199822368414",
+      "Score": 0,
+      "Time": "00:27"
     },
     {
       "Name": "\uD835\uDC8C\uD835\uDC82\uD835\uDC8F\uD835\uDC94\uD835\uDC9A\uD835\uDC9A",
       "Steam": "76561198750150505",
-      "Score": 7,
-      "Time": "02:34"
+      "Score": 2,
+      "Time": "04:34"
     }
   ]
 }
