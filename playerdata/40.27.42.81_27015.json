@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-12T03:15:05.6996255Z",
+  "Time": "2026-05-12T03:17:05.710527Z",
   "Players": [
     {
       "Name": "Eliza",
       "Steam": "76561199886101992",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
+    },
+    {
+      "Name": "OhManIdied",
+      "Steam": "76561199170732916",
+      "Score": 13,
+      "Time": "01:04"
     },
     {
       "Name": "Kaneki",
       "Steam": "76561198775750125",
-      "Score": 10,
-      "Time": "154:55"
+      "Score": 15,
+      "Time": "156:55"
     },
     {
       "Name": "chicken noodle soup",
@@ -22,8 +28,8 @@
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 39,
-      "Time": "80:51"
+      "Score": 50,
+      "Time": "82:51"
     }
   ]
 }
