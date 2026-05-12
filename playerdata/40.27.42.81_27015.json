@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-12T03:19:05.7076669Z",
+  "Time": "2026-05-12T03:21:05.7066385Z",
   "Players": [
     {
       "Name": "Eliza",
       "Steam": "76561199886101992",
-      "Score": 45,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "OhManIdied",
       "Steam": "76561199170732916",
       "Score": 18,
-      "Time": "03:04"
+      "Time": "05:04"
+    },
+    {
+      "Name": "FREE",
+      "Steam": "76561199036391689",
+      "Score": 3,
+      "Time": "??:??"
     },
     {
       "Name": "Kaneki",
       "Steam": "76561198775750125",
-      "Score": 21,
-      "Time": "158:55"
+      "Score": 28,
+      "Time": "160:55"
     },
     {
       "Name": "非个人得分热水袋",
       "Steam": "76561199851287763",
-      "Score": 0,
-      "Time": "00:05"
+      "Score": 1,
+      "Time": "02:05"
     },
     {
       "Name": "chicken noodle soup",
       "Steam": "76561199857023302",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 52,
-      "Time": "84:51"
+      "Score": 61,
+      "Time": "86:51"
     }
   ]
 }
