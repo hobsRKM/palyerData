@@ -1,11 +1,17 @@
 {
-  "Time": "2026-05-12T00:11:05.5687707Z",
+  "Time": "2026-05-12T00:13:05.5798103Z",
   "Players": [
     {
       "Name": "codex code grandmaster",
       "Steam": "76561199880717233",
-      "Score": 33,
+      "Score": 40,
       "Time": "??:??"
+    },
+    {
+      "Name": "aimware.net",
+      "Steam": "76561198706868502",
+      "Score": 10,
+      "Time": "01:40"
     },
     {
       "Name": "Chocapic",
@@ -16,20 +22,20 @@
     {
       "Name": "Myno (Funeral's E-Kitten)",
       "Steam": "76561199085317045",
-      "Score": 17,
-      "Time": "29:19"
+      "Score": 21,
+      "Time": "31:19"
     },
     {
       "Name": "A Janky Nicca",
       "Steam": "76561198834456840",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "deftones",
       "Steam": "76561199059830928",
-      "Score": 16,
-      "Time": "27:34"
+      "Score": 24,
+      "Time": "29:34"
     },
     {
       "Name": "tigothy",
@@ -52,8 +58,8 @@
     {
       "Name": "Xyro",
       "Steam": "76561199836886163",
-      "Score": 11,
-      "Time": "56:34"
+      "Score": 13,
+      "Time": "58:34"
     }
   ]
 }
