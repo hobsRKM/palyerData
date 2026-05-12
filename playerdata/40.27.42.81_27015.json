@@ -1,58 +1,70 @@
 {
-  "Time": "2026-05-12T04:01:05.7049712Z",
+  "Time": "2026-05-12T04:03:05.7037705Z",
   "Players": [
+    {
+      "Name": "サムライ",
+      "Steam": "76561198413091421",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "myst1c",
       "Steam": "76561198715387526",
-      "Score": 36,
-      "Time": "210:34"
+      "Score": 54,
+      "Time": "212:34"
     },
     {
       "Name": "FLazukyy",
       "Steam": "76561199462844325",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Vɪᴛᴀʟɪᴛʏ | KaNgaRoe",
       "Steam": "76561199580886379",
-      "Score": 16,
-      "Time": "09:24"
+      "Score": 20,
+      "Time": "11:24"
     },
     {
       "Name": "carti",
       "Steam": "76561199090536475",
       "Score": 9,
-      "Time": "127:33"
+      "Time": "129:33"
     },
     {
       "Name": "Twizzy",
       "Steam": "76561198984848627",
-      "Score": 33,
-      "Time": "190:40"
+      "Score": 37,
+      "Time": "192:40"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "? /n;unbindall;quit;",
       "Steam": "76561198298152973",
-      "Score": 38,
-      "Time": "12:15"
+      "Score": 42,
+      "Time": "14:15"
     },
     {
       "Name": "OhManIdied",
       "Steam": "76561199170732916",
-      "Score": 10,
-      "Time": "45:04"
+      "Score": 12,
+      "Time": "47:04"
     },
     {
       "Name": "FREE",
       "Steam": "76561199036391689",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "chicken noodle soup",
       "Steam": "76561199857023302",
-      "Score": 24,
+      "Score": 34,
       "Time": "??:??"
     }
   ]
