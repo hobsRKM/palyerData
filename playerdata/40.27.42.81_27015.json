@@ -1,22 +1,28 @@
 {
-  "Time": "2026-05-12T23:27:36.0467146Z",
+  "Time": "2026-05-12T23:29:36.0471592Z",
   "Players": [
     {
       "Name": "[!!!!!!] arf",
       "Steam": "76561198728274003",
-      "Score": 0,
-      "Time": "108:23"
+      "Score": 2,
+      "Time": "110:23"
+    },
+    {
+      "Name": "Reiko",
+      "Steam": "76561197996616313",
+      "Score": 35,
+      "Time": "00:12"
     },
     {
       "Name": "FREE",
       "Steam": "76561199036391689",
-      "Score": 75,
-      "Time": "47:39"
+      "Score": 76,
+      "Time": "49:39"
     },
     {
       "Name": "stami",
       "Steam": "76561199853794520",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -28,7 +34,7 @@
     {
       "Name": "Myno (Funeral's E-Kitten)",
       "Steam": "76561199085317045",
-      "Score": 73,
+      "Score": 75,
       "Time": "??:??"
     },
     {
@@ -40,20 +46,20 @@
     {
       "Name": "Λεπίδες, κοκαΐνη GothBoiClique,",
       "Steam": "76561199830024313",
-      "Score": 143,
-      "Time": "36:28"
+      "Score": 145,
+      "Time": "38:28"
     },
     {
       "Name": "delta",
       "Steam": "76561199847868570",
-      "Score": 0,
-      "Time": "31:30"
+      "Score": 3,
+      "Time": "33:30"
     },
     {
       "Name": "aimware.net",
       "Steam": "76561198706868502",
-      "Score": 61,
-      "Time": "25:28"
+      "Score": 66,
+      "Time": "27:28"
     }
   ]
 }
