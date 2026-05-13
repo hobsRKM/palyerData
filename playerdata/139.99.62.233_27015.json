@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-13T13:15:04.5132791Z",
+  "Time": "2026-05-13T13:17:04.5181223Z",
   "Players": [
     {
       "Name": "ham",
       "Steam": "76561199755759659",
-      "Score": 31,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "> AURA | Best Music",
       "Steam": "76561199829905037",
-      "Score": 35,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198735542679",
-      "Score": 3,
-      "Time": "03:47"
+      "Score": 7,
+      "Time": "05:47"
+    },
+    {
+      "Name": "FATALITY.WIN",
+      "Steam": "76561199644038914",
+      "Score": 0,
+      "Time": "00:35"
     },
     {
       "Name": "kapus",
       "Steam": "76561198711483423",
-      "Score": 36,
-      "Time": "41:28"
+      "Score": 38,
+      "Time": "43:28"
     },
     {
       "Name": "ejejewjmdkdmdm",
       "Steam": "76561198706957677",
-      "Score": 19,
-      "Time": "03:42"
+      "Score": 23,
+      "Time": "05:42"
     }
   ]
 }
