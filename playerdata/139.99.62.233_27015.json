@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-13T12:35:04.5001954Z",
+  "Time": "2026-05-13T12:37:04.4966523Z",
   "Players": [
+    {
+      "Name": "genericbomb121",
+      "Steam": "76561198707868895",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "FATALITY.WIN",
       "Steam": "76561199644038914",
-      "Score": 39,
-      "Time": "92:04"
+      "Score": 41,
+      "Time": "94:04"
     },
     {
       "Name": "Neo",
       "Steam": "76561199808928969",
-      "Score": 17,
-      "Time": "05:55"
+      "Score": 27,
+      "Time": "07:55"
     },
     {
       "Name": "kapus",
       "Steam": "76561198711483423",
-      "Score": 0,
-      "Time": "01:28"
+      "Score": 2,
+      "Time": "03:28"
     },
     {
       "Name": "ejejewjmdkdmdm",
       "Steam": "76561198706957677",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "quavie",
       "Steam": "76561199391832430",
-      "Score": 26,
+      "Score": 37,
       "Time": "??:??"
     }
   ]
