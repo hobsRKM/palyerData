@@ -1,41 +1,41 @@
 {
-  "Time": "2026-05-13T13:35:04.5213971Z",
+  "Time": "2026-05-13T13:37:04.5233189Z",
   "Players": [
+    {
+      "Name": "ice cream",
+      "Steam": "76561199810524131",
+      "Score": 6,
+      "Time": "01:59"
+    },
     {
       "Name": "ham",
       "Steam": "76561199755759659",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "sadd3991",
       "Steam": "76561199197302466",
-      "Score": 9,
-      "Time": "06:49"
+      "Score": 11,
+      "Time": "08:49"
     },
     {
-      "Name": ">_ | Best Music",
+      "Name": "> AUR_ | Best Music",
       "Steam": "76561199829905037",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
-    },
-    {
-      "Name": "BlockB0t",
-      "Steam": "76561199826613495",
-      "Score": 0,
-      "Time": "01:23"
     },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198735542679",
-      "Score": 11,
-      "Time": "23:47"
+      "Score": 16,
+      "Time": "25:47"
     },
     {
       "Name": "FATALITY.WIN",
       "Steam": "76561199644038914",
       "Score": 14,
-      "Time": "18:35"
+      "Time": "01:04"
     }
   ]
 }
