@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-13T14:00:53.4189349Z",
-  "Players": []
+  "Time": "2026-05-13T14:02:45.5492158Z",
+  "Players": [
+    {
+      "Name": "Seb",
+      "Steam": "76561198297650865",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zaakos",
+      "Steam": "76561199872150413",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WappyTappy",
+      "Steam": "76561198718635494",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fascist",
+      "Steam": "76561198702785875",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[OG] namespace Autowall",
+      "Steam": "76561198726977481",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
