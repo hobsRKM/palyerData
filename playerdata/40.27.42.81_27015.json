@@ -1,22 +1,28 @@
 {
-  "Time": "2026-05-14T14:37:01.1469656Z",
+  "Time": "2026-05-14T14:39:01.1421556Z",
   "Players": [
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
       "Score": 14,
-      "Time": "08:15"
+      "Time": "10:15"
     },
     {
       "Name": "OhManIdied",
       "Steam": "76561199170732916",
-      "Score": 24,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Nice Friend in the Neighborhood",
       "Steam": "76561198755324300",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kaneki",
+      "Steam": "76561198775750125",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
