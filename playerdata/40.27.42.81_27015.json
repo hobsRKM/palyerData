@@ -1,65 +1,71 @@
 {
-  "Time": "2026-05-14T01:04:58.8471188Z",
+  "Time": "2026-05-14T01:06:58.8415129Z",
   "Players": [
+    {
+      "Name": "Sony",
+      "Steam": "76561199683175445",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "ok",
       "Steam": "76561199020431776",
-      "Score": 35,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "2",
       "Steam": "76561198719943792",
-      "Score": 65,
-      "Time": "11:50"
+      "Score": 74,
+      "Time": "13:50"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 67,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 59,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "aimware.net",
       "Steam": "76561198706868502",
-      "Score": 3,
-      "Time": "09:24"
+      "Score": 0,
+      "Time": "11:24"
     },
     {
       "Name": "loner",
       "Steam": "76561199847868570",
-      "Score": 42,
-      "Time": "148:38"
+      "Score": 58,
+      "Time": "150:38"
     },
     {
       "Name": "Pwne5",
       "Steam": "76561198769879565",
-      "Score": 52,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 38,
-      "Time": "26:03"
+      "Score": 40,
+      "Time": "28:03"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 129,
+      "Score": 131,
       "Time": "??:??"
     },
     {
       "Name": "Curby",
       "Steam": "76561198369113089",
       "Score": 4,
-      "Time": "20:48"
+      "Time": "22:48"
     },
     {
       "Name": "occupance",
@@ -71,7 +77,7 @@
       "Name": "No yeah",
       "Steam": "76561198180065165",
       "Score": 0,
-      "Time": "17:20"
+      "Time": "19:20"
     }
   ]
 }
