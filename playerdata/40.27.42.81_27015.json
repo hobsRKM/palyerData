@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-14T18:33:01.1461063Z",
+  "Time": "2026-05-14T18:35:01.1505199Z",
   "Players": [
+    {
+      "Name": "person",
+      "Steam": "76561198724779911",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "cheater",
       "Steam": "76561199868045262",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "马思维",
       "Steam": "76561199712427690",
-      "Score": 41,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 27,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Vosino",
       "Steam": "76561198843097289",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "loner",
       "Steam": "76561199847868570",
-      "Score": 6,
-      "Time": "11:24"
+      "Score": 23,
+      "Time": "13:24"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
@@ -46,7 +52,7 @@
     {
       "Name": "neo",
       "Steam": "76561199032440303",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -56,9 +62,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "[apr] eva",
+      "Name": "[apri] eva",
       "Steam": "76561199859777341",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
