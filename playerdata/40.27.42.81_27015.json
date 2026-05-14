@@ -1,29 +1,29 @@
 {
-  "Time": "2026-05-14T04:34:58.8439573Z",
+  "Time": "2026-05-14T04:36:58.8461797Z",
   "Players": [
     {
-      "Name": "[apr] eva",
+      "Name": "[] eva",
       "Steam": "76561199859777341",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
+    },
+    {
+      "Name": "victorf3",
+      "Steam": "76561199260060858",
+      "Score": 2,
+      "Time": "00:56"
     },
     {
       "Name": "Jay",
       "Steam": "76561199862159233",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "DXVXD",
-      "Steam": "76561199442363655",
-      "Score": 12,
-      "Time": "04:39"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 19,
-      "Time": "181:00"
+      "Score": 31,
+      "Time": "183:00"
     },
     {
       "Name": "cl_mute_all 1",
@@ -34,19 +34,19 @@
     {
       "Name": "codex code grandmaster",
       "Steam": "76561199880717233",
-      "Score": 8,
-      "Time": "02:11"
+      "Score": 14,
+      "Time": "04:11"
     },
     {
-      "Name": "[mismatch.s] arf",
+      "Name": "[mismat] arf",
       "Steam": "76561198728274003",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": ".exe",
       "Steam": "76561199833432593",
-      "Score": 11,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
