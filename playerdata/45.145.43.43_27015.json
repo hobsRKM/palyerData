@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-14T14:02:57.6762369Z",
-  "Players": []
+  "Time": "2026-05-14T14:04:17.8099985Z",
+  "Players": [
+    {
+      "Name": "Hesburger Mafia",
+      "Steam": "76561198723471626",
+      "Score": 2,
+      "Time": "01:34"
+    },
+    {
+      "Name": "[Monolith] dreamteam1092",
+      "Steam": "76561198717669290",
+      "Score": 0,
+      "Time": "06:56"
+    },
+    {
+      "Name": "meow meow",
+      "Steam": "76561199828015418",
+      "Score": 60,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] TNT-Flo",
+      "Steam": "76561199574789372",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fent",
+      "Steam": "76561198716138740",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
