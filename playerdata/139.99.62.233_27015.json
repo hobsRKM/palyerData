@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-14T16:49:20.1485257Z",
+  "Time": "2026-05-14T16:51:20.1527337Z",
   "Players": [
     {
       "Name": "FATALITY.WIN",
       "Steam": "76561199644038914",
-      "Score": 2,
-      "Time": "02:28"
+      "Score": 8,
+      "Time": "04:28"
     },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
       "Score": 89,
-      "Time": "23:48"
+      "Time": "25:48"
     },
     {
       "Name": "SiLxnZer",
       "Steam": "76561199002500021",
-      "Score": 16,
-      "Time": "73:48"
+      "Score": 20,
+      "Time": "75:48"
+    },
+    {
+      "Name": "plaguedcheesemelts",
+      "Steam": "76561198705100636",
+      "Score": 0,
+      "Time": "01:31"
     }
   ]
 }
