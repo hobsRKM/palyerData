@@ -1,16 +1,22 @@
 {
-  "Time": "2026-05-14T14:33:01.1497852Z",
+  "Time": "2026-05-14T14:35:01.1423257Z",
   "Players": [
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 6,
-      "Time": "04:15"
+      "Score": 10,
+      "Time": "06:15"
     },
     {
       "Name": "OhManIdied",
       "Steam": "76561199170732916",
-      "Score": 10,
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nice Friend in the Neighborhood",
+      "Steam": "76561198755324300",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
