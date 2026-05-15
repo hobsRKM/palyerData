@@ -1,16 +1,28 @@
 {
-  "Time": "2026-05-15T18:02:57.906708Z",
+  "Time": "2026-05-15T18:04:57.9108639Z",
   "Players": [
+    {
+      "Name": "oli",
+      "Steam": "76561197989735694",
+      "Score": 7,
+      "Time": "01:14"
+    },
     {
       "Name": "discord.gg/bluff",
       "Steam": "76561199868048707",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "https://www.youtube.com/@Faceoly",
       "Steam": "76561199661978395",
-      "Score": 12,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Hymen Handler",
+      "Steam": "76561198143181138",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
