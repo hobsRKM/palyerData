@@ -1,5 +1,5 @@
 {
-  "Time": "2026-05-15T10:12:47.4461263Z",
+  "Time": "2026-05-15T10:14:47.4515849Z",
   "Players": [
     {
       "Name": "Nim",
@@ -8,27 +8,33 @@
       "Time": "??:??"
     },
     {
+      "Name": "Claude",
+      "Steam": "76561198726655992",
+      "Score": 0,
+      "Time": "00:15"
+    },
+    {
       "Name": "Gamesense SKITT Enjoyer",
       "Steam": "76561198736764531",
-      "Score": 14,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "BooMeow",
       "Steam": "76561198331973175",
-      "Score": 8,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "radek2k",
       "Steam": "76561199821582402",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "swe.hvh",
       "Steam": "76561199516412968",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
