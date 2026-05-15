@@ -1,5 +1,5 @@
 {
-  "Time": "2026-05-15T10:28:47.4516503Z",
+  "Time": "2026-05-15T10:30:47.453401Z",
   "Players": [
     {
       "Name": "Nim",
@@ -10,25 +10,37 @@
     {
       "Name": "MR-C",
       "Steam": "76561199048647864",
-      "Score": 5,
-      "Time": "03:37"
+      "Score": 1,
+      "Time": "05:37"
+    },
+    {
+      "Name": "extera",
+      "Steam": "76561199241063152",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gymolimpic",
+      "Steam": "76561199036536422",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Claude",
       "Steam": "76561198726655992",
-      "Score": 55,
-      "Time": "14:15"
+      "Score": 10,
+      "Time": "16:15"
     },
     {
       "Name": "swe.hvh",
       "Steam": "76561199516412968",
-      "Score": 48,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "peter1",
       "Steam": "76561199837767108",
-      "Score": 17,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
