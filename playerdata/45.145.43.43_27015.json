@@ -1,4 +1,29 @@
 {
-  "Time": "2026-05-15T19:06:55.7926068Z",
-  "Players": []
+  "Time": "2026-05-15T19:08:50.8833776Z",
+  "Players": [
+    {
+      "Name": "Песнь mk6",
+      "Steam": "76561199876317837",
+      "Score": 7,
+      "Time": "06:06"
+    },
+    {
+      "Name": "{oil rig]",
+      "Steam": "76561198726041014",
+      "Score": 20,
+      "Time": "06:14"
+    },
+    {
+      "Name": "Gerike\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
+      "Steam": "76561198770262515",
+      "Score": 56,
+      "Time": "15:59"
+    },
+    {
+      "Name": "JAZZ #nocustomskybox",
+      "Steam": "76561198737052315",
+      "Score": 0,
+      "Time": "71:31"
+    }
+  ]
 }
