@@ -1,28 +1,52 @@
 {
-  "Time": "2026-05-15T21:08:57.9156898Z",
+  "Time": "2026-05-15T21:10:57.9110373Z",
   "Players": [
+    {
+      "Name": "5Fair",
+      "Steam": "76561198738161266",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "jaxui",
       "Steam": "76561198422749003",
-      "Score": 10,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "megamind",
+      "Steam": "76561199282852071",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "xd",
       "Steam": "76561198744402588",
-      "Score": 37,
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LordCota...",
+      "Steam": "76561199677683650",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "happy happy",
       "Steam": "76561199425272329",
-      "Score": 41,
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "roach",
+      "Steam": "76561198743474205",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
