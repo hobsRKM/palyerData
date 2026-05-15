@@ -1,59 +1,47 @@
 {
-  "Time": "2026-05-15T22:26:57.9164444Z",
+  "Time": "2026-05-15T22:28:57.9127177Z",
   "Players": [
     {
       "Name": "Kaneki",
       "Steam": "76561198775750125",
-      "Score": 6,
-      "Time": "15:14"
+      "Score": 10,
+      "Time": "17:14"
     },
     {
       "Name": "person",
       "Steam": "76561198724779911",
-      "Score": 2,
-      "Time": "88:40"
+      "Score": 4,
+      "Time": "90:40"
     },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 3,
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "velocity kitty",
-      "Steam": "76561199856027303",
-      "Score": 4,
-      "Time": "02:46"
     },
     {
       "Name": "Jay",
       "Steam": "76561199862159233",
-      "Score": 4,
-      "Time": "12:26"
+      "Score": 6,
+      "Time": "14:26"
     },
     {
       "Name": "Lil Naay",
       "Steam": "76561199158419168",
-      "Score": 5,
-      "Time": "27:11"
+      "Score": 13,
+      "Time": "29:11"
+    },
+    {
+      "Name": "bezoz",
+      "Steam": "76561198729161948",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "Helix",
       "Steam": "76561198317102384",
-      "Score": 6,
-      "Time": "16:07"
-    },
-    {
-      "Name": "toxec",
-      "Steam": "76561199374974233",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "kozak",
-      "Steam": "76561199668492999",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 10,
+      "Time": "18:07"
     }
   ]
 }
