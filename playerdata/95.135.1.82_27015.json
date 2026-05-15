@@ -1,53 +1,59 @@
 {
-  "Time": "2026-05-15T12:14:47.4528854Z",
+  "Time": "2026-05-15T12:15:47.40907Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "happy meme user",
+      "Steam": "76561198779638777",
+      "Score": 41,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Maslanka",
+      "Steam": "76561199866941128",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Patrik Pták",
-      "Steam": "76561199878212243",
-      "Score": 33,
+      "Name": "Squid",
+      "Steam": "76561198253841058",
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "cxcaca",
-      "Steam": "76561199782551375",
-      "Score": 18,
-      "Time": "??:??"
-    },
-    {
-      "Name": "JEFFRY EPSTIEN",
-      "Steam": "76561198710074880",
-      "Score": 59,
-      "Time": "??:??"
-    },
-    {
-      "Name": "deo",
-      "Steam": "76561198779060372",
+      "Name": "Prayer",
+      "Steam": "76561199022017965",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Barber",
-      "Steam": "76561199610984176",
-      "Score": 54,
-      "Time": "117:04"
-    },
-    {
-      "Name": "[OG]UWUCAT",
-      "Steam": "76561199855449365",
-      "Score": 49,
-      "Time": "14:36"
-    },
-    {
-      "Name": "kanaa",
-      "Steam": "76561199365905587",
-      "Score": 29,
+      "Name": "henrique gordo",
+      "Steam": "76561199821215611",
+      "Score": 25,
       "Time": "??:??"
+    },
+    {
+      "Name": "[OG] lovewp",
+      "Steam": "76561198390998402",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "S4ba",
+      "Steam": "76561198790995419",
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "freezyk26",
+      "Steam": "76561198713085720",
+      "Score": 22,
+      "Time": "06:28"
     }
   ]
 }
