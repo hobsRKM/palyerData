@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-15T21:22:57.9161321Z",
+  "Time": "2026-05-15T21:24:57.9155973Z",
   "Players": [
     {
       "Name": "xd",
       "Steam": "76561198744402588",
-      "Score": 76,
+      "Score": 81,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mime",
+      "Steam": "76561199229432620",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Helix",
       "Steam": "76561198317102384",
       "Score": 4,
-      "Time": "06:15"
+      "Time": "08:15"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 65,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "happy happy",
       "Steam": "76561199425272329",
-      "Score": 65,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "gamesense enjoyer",
       "Steam": "76561199839045552",
-      "Score": 25,
-      "Time": "03:55"
+      "Score": 27,
+      "Time": "05:55"
     }
   ]
 }
