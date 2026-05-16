@@ -1,53 +1,47 @@
 {
-  "Time": "2026-05-16T22:15:02.8182853Z",
+  "Time": "2026-05-16T22:17:02.8102202Z",
   "Players": [
-    {
-      "Name": "fluauxatine",
-      "Steam": "76561198704162469",
-      "Score": 11,
-      "Time": "39:07"
-    },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 14,
-      "Time": "08:40"
+      "Score": 18,
+      "Time": "10:40"
     },
     {
-      "Name": "I",
-      "Steam": "76561198763517260",
-      "Score": 7,
-      "Time": "18:16"
-    },
-    {
-      "Name": "[apric] Idgaf",
+      "Name": "[apr] Idgaf",
       "Steam": "76561199261687687",
-      "Score": 38,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "//////",
       "Steam": "76561199805557263",
-      "Score": 9,
-      "Time": "03:27"
+      "Score": 15,
+      "Time": "05:27"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
       "Score": 0,
-      "Time": "33:37"
+      "Time": "35:37"
     },
     {
       "Name": "HUNK",
       "Steam": "76561199870945474",
-      "Score": 28,
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "IHaveSmollPP",
+      "Steam": "76561199209588405",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Emperor",
       "Steam": "76561198273920000",
-      "Score": 17,
-      "Time": "17:48"
+      "Score": 19,
+      "Time": "19:48"
     }
   ]
 }
