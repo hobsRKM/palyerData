@@ -1,23 +1,35 @@
 {
-  "Time": "2026-05-16T00:36:57.9164942Z",
+  "Time": "2026-05-16T00:38:57.9175916Z",
   "Players": [
+    {
+      "Name": "techno",
+      "Steam": "76561199864644725",
+      "Score": 0,
+      "Time": "00:07"
+    },
     {
       "Name": "self loathing until you notice",
       "Steam": "76561198965888060",
+      "Score": 4,
+      "Time": "11:44"
+    },
+    {
+      "Name": "fortnite",
+      "Steam": "76561198705539818",
       "Score": 0,
-      "Time": "09:44"
+      "Time": "??:??"
     },
     {
       "Name": "stamiisthebestn",
       "Steam": "76561198705115405",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Yolo.cc V9 ##recode",
       "Steam": "76561198719943792",
-      "Score": 1,
-      "Time": "07:41"
+      "Score": 9,
+      "Time": "09:41"
     }
   ]
 }
