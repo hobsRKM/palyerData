@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-16T07:30:58.1678891Z",
+  "Time": "2026-05-16T07:32:58.1615737Z",
   "Players": [
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 60,
-      "Time": "41:20"
+      "Score": 64,
+      "Time": "43:20"
+    },
+    {
+      "Name": "19",
+      "Steam": "76561198723178008",
+      "Score": 0,
+      "Time": "00:22"
     },
     {
       "Name": "37447453",
       "Steam": "76561198703392706",
-      "Score": 26,
-      "Time": "15:10"
+      "Score": 30,
+      "Time": "17:10"
     },
     {
       "Name": "Wo",
       "Steam": "76561199046204811",
-      "Score": 56,
-      "Time": "47:04"
+      "Score": 59,
+      "Time": "49:04"
     },
     {
       "Name": "Fatality Frank",
       "Steam": "76561198795280812",
-      "Score": 2,
-      "Time": "04:12"
+      "Score": 4,
+      "Time": "06:12"
     },
     {
       "Name": "trillionaire",
       "Steam": "76561199389160988",
-      "Score": 24,
-      "Time": "39:48"
+      "Score": 26,
+      "Time": "41:48"
     },
     {
       "Name": "Hoodrich block stepper",
       "Steam": "76561199881822481",
-      "Score": 77,
-      "Time": "23:54"
+      "Score": 78,
+      "Time": "25:54"
     }
   ]
 }
