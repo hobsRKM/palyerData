@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-16T07:15:27.9749418Z",
+  "Time": "2026-05-16T07:17:27.9695288Z",
   "Players": [
     {
-      "Name": "ice cream",
+      "Name": "Neo",
+      "Steam": "76561199808928969",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MR.BEAST",
       "Steam": "76561199810524131",
-      "Score": 23,
-      "Time": "11:50"
+      "Score": 31,
+      "Time": "13:50"
     },
     {
       "Name": "MR.BEAST",
       "Steam": "76561199747824672",
-      "Score": 13,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "kj065573",
       "Steam": "76561198709343297",
-      "Score": 24,
-      "Time": "16:31"
+      "Score": 26,
+      "Time": "18:31"
     },
     {
       "Name": "sasioverlxrd",
       "Steam": "76561198715874923",
-      "Score": 56,
-      "Time": "72:02"
+      "Score": 60,
+      "Time": "74:02"
     },
     {
       "Name": "MR.BEAT",
@@ -34,13 +40,13 @@
     {
       "Name": "ezmappa",
       "Steam": "76561198752692849",
-      "Score": 26,
-      "Time": "11:43"
+      "Score": 29,
+      "Time": "13:43"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21 \uDB40\uDC21\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198742439921",
-      "Score": 47,
+      "Score": 51,
       "Time": "??:??"
     }
   ]
