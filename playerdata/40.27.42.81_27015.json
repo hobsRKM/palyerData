@@ -1,28 +1,40 @@
 {
-  "Time": "2026-05-16T23:35:02.8055817Z",
+  "Time": "2026-05-16T23:37:02.8171027Z",
   "Players": [
+    {
+      "Name": "wish",
+      "Steam": "76561199782192483",
+      "Score": 4,
+      "Time": "01:54"
+    },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 1,
-      "Time": "05:08"
+      "Score": 3,
+      "Time": "07:08"
     },
     {
       "Name": "Riley123123",
       "Steam": "76561198958510175",
       "Score": 0,
-      "Time": "36:49"
+      "Time": "38:49"
+    },
+    {
+      "Name": "aimware.net",
+      "Steam": "76561198706868502",
+      "Score": 0,
+      "Time": "00:56"
     },
     {
       "Name": "alexander wang",
       "Steam": "76561199792464561",
-      "Score": 54,
-      "Time": "29:27"
+      "Score": 66,
+      "Time": "31:27"
     },
     {
       "Name": "Xyro",
       "Steam": "76561199836886163",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
