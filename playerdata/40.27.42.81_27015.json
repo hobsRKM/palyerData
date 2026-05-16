@@ -1,62 +1,68 @@
 {
-  "Time": "2026-05-16T20:03:02.819441Z",
+  "Time": "2026-05-16T20:05:02.8167289Z",
   "Players": [
+    {
+      "Name": "new_KaraVirus",
+      "Steam": "76561198703779313",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 8,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Riley123123",
       "Steam": "76561198958510175",
-      "Score": 8,
-      "Time": "00:29"
+      "Score": 24,
+      "Time": "02:29"
     },
     {
       "Name": "Burger Enjoyer",
       "Steam": "76561198714884241",
-      "Score": 5,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "sense",
       "Steam": "76561198343112799",
-      "Score": 90,
-      "Time": "76:30"
+      "Score": 110,
+      "Time": "78:30"
     },
     {
       "Name": "Lil Naay",
       "Steam": "76561199158419168",
-      "Score": 38,
-      "Time": "05:15"
+      "Score": 41,
+      "Time": "07:15"
     },
     {
       "Name": "Papa",
       "Steam": "76561199485168545",
-      "Score": 73,
-      "Time": "16:56"
+      "Score": 77,
+      "Time": "18:56"
     },
     {
       "Name": "Bloggo (baimabuser)",
       "Steam": "76561198712611951",
-      "Score": 7,
-      "Time": "04:59"
+      "Score": 14,
+      "Time": "06:59"
     },
     {
       "Name": "Acharan",
       "Steam": "76561198421081599",
-      "Score": 7,
-      "Time": "07:17"
+      "Score": 18,
+      "Time": "09:17"
     },
     {
-      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.CΔ ]",
+      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ | ]",
       "Steam": "76561198705115405",
       "Score": 52,
       "Time": "??:??"
@@ -64,14 +70,8 @@
     {
       "Name": "What did he say",
       "Steam": "76561197963745983",
-      "Score": 15,
-      "Time": "16:45"
-    },
-    {
-      "Name": "Emperor",
-      "Steam": "76561198273920000",
-      "Score": 0,
-      "Time": "00:19"
+      "Score": 18,
+      "Time": "18:45"
     }
   ]
 }
