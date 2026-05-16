@@ -1,46 +1,52 @@
 {
-  "Time": "2026-05-16T18:15:02.8115431Z",
+  "Time": "2026-05-16T18:17:02.8196048Z",
   "Players": [
+    {
+      "Name": "我是神",
+      "Steam": "76561199148908407",
+      "Score": 2,
+      "Time": "00:52"
+    },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 114,
-      "Time": "96:21"
+      "Score": 118,
+      "Time": "98:21"
     },
     {
       "Name": "Кракен",
       "Steam": "76561199156395215",
-      "Score": 54,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "3rd Day Skeet Enjoyer",
       "Steam": "76561199485168545",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 24,
-      "Time": "20:05"
+      "Score": 31,
+      "Time": "22:05"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 61,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "[apri] tsubasi",
       "Steam": "76561199097243449",
-      "Score": 15,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Matrix",
       "Steam": "76561199564278277",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
