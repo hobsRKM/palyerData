@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-16T07:44:58.161913Z",
+  "Time": "2026-05-16T07:46:58.1679337Z",
   "Players": [
+    {
+      "Name": "gamesense enjoyer",
+      "Steam": "76561199839045552",
+      "Score": 2,
+      "Time": "00:36"
+    },
     {
       "Name": "trillionaire",
       "Steam": "76561199389160988",
-      "Score": 20,
-      "Time": "53:48"
+      "Score": 22,
+      "Time": "55:48"
     },
     {
       "Name": "Hoodrich block stepper",
       "Steam": "76561199881822481",
-      "Score": 54,
-      "Time": "37:54"
+      "Score": 62,
+      "Time": "39:54"
     }
   ]
 }
