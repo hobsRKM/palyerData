@@ -1,16 +1,22 @@
 {
-  "Time": "2026-05-16T13:39:27.9835294Z",
+  "Time": "2026-05-16T13:41:27.9794321Z",
   "Players": [
+    {
+      "Name": "Worst music",
+      "Steam": "76561198704304904",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "> AURA_ | Best Music",
       "Steam": "76561199829905037",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Twilight Sparkle",
       "Steam": "76561199509706909",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
