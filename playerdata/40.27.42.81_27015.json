@@ -1,53 +1,53 @@
 {
-  "Time": "2026-05-16T02:30:57.9158134Z",
+  "Time": "2026-05-16T02:32:57.9212559Z",
   "Players": [
+    {
+      "Name": "bvq",
+      "Steam": "76561199882893652",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "sense",
       "Steam": "76561198343112799",
-      "Score": 8,
-      "Time": "27:29"
+      "Score": 16,
+      "Time": "29:29"
     },
     {
       "Name": "tuffcool1045",
       "Steam": "76561199097243449",
-      "Score": 21,
-      "Time": "10:03"
+      "Score": 22,
+      "Time": "12:03"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 23,
-      "Time": "08:29"
-    },
-    {
-      "Name": "DXVXD",
-      "Steam": "76561199442363655",
-      "Score": 43,
-      "Time": "13:52"
-    },
-    {
-      "Name": "kuxo",
-      "Steam": "76561198414353457",
-      "Score": 35,
-      "Time": "??:??"
+      "Score": 38,
+      "Time": "10:29"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 57,
-      "Time": "19:17"
+      "Score": 63,
+      "Time": "21:17"
+    },
+    {
+      "Name": "aimware.net",
+      "Steam": "76561198706868502",
+      "Score": 20,
+      "Time": "00:09"
     },
     {
       "Name": "DUR BIRD",
       "Steam": "76561198728787953",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 2,
-      "Time": "16:44"
+      "Score": 7,
+      "Time": "18:44"
     }
   ]
 }
