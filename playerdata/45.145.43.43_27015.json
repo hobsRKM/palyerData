@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-16T20:42:55.197087Z",
-  "Players": []
+  "Time": "2026-05-16T20:42:55.8865564Z",
+  "Players": [
+    {
+      "Name": "RaxoLL",
+      "Steam": "76561198745903058",
+      "Score": 4,
+      "Time": "06:29"
+    },
+    {
+      "Name": "Mossad Agent",
+      "Steam": "76561199065194957",
+      "Score": 3,
+      "Time": "06:52"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "S0RO [PT]",
+      "Steam": "76561199165947463",
+      "Score": 13,
+      "Time": "??:??"
+    }
+  ]
 }
