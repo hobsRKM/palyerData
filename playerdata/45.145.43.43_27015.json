@@ -1,4 +1,23 @@
 {
-  "Time": "2026-05-17T12:22:56.0283315Z",
-  "Players": []
+  "Time": "2026-05-17T12:22:59.1383649Z",
+  "Players": [
+    {
+      "Name": "TempleWare | meow meow",
+      "Steam": "76561199828015418",
+      "Score": 11,
+      "Time": "10:37"
+    },
+    {
+      "Name": "Apolexik",
+      "Steam": "76561199654381196",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Georgius Floydius",
+      "Steam": "76561198706721889",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
