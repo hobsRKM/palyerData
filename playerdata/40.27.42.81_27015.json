@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-17T06:01:03.8212426Z",
+  "Time": "2026-05-17T06:03:03.8479448Z",
   "Players": [
     {
       "Name": "yOLO v9 blaster",
       "Steam": "76561198728001369",
-      "Score": 81,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 88,
-      "Time": "162:28"
+      "Score": 96,
+      "Time": "164:28"
     },
     {
       "Name": "sacred",
       "Steam": "76561198745532984",
-      "Score": 21,
-      "Time": "01:58"
+      "Score": 23,
+      "Time": "03:58"
+    },
+    {
+      "Name": "bliss",
+      "Steam": "76561198709235217",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "xd",
       "Steam": "76561198744402588",
-      "Score": 40,
-      "Time": "64:06"
+      "Score": 52,
+      "Time": "66:06"
     },
     {
       "Name": "hu326050",
       "Steam": "76561198759895528",
-      "Score": 41,
-      "Time": "35:44"
+      "Score": 47,
+      "Time": "37:44"
     },
     {
       "Name": "Burger Enjoyer",
       "Steam": "76561198714884241",
-      "Score": 3,
-      "Time": "19:27"
+      "Score": 11,
+      "Time": "21:27"
     },
     {
       "Name": "lukegod101",
@@ -44,16 +50,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "Roma",
+      "Steam": "76561199874070115",
+      "Score": 12,
+      "Time": "00:22"
+    },
+    {
       "Name": "Yeat",
       "Steam": "76561199049807914",
-      "Score": 56,
-      "Time": "06:22"
+      "Score": 64,
+      "Time": "08:22"
+    },
+    {
+      "Name": "Twizzy",
+      "Steam": "76561198984848627",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 53,
-      "Time": "40:18"
+      "Score": 56,
+      "Time": "42:18"
+    },
+    {
+      "Name": "Emperor",
+      "Steam": "76561198273920000",
+      "Score": 18,
+      "Time": "01:25"
     }
   ]
 }
