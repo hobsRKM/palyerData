@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-17T07:01:05.0371814Z",
+  "Time": "2026-05-17T07:03:05.0662675Z",
   "Players": [
     {
       "Name": "sacred",
       "Steam": "76561198745532984",
-      "Score": 1,
-      "Time": "62:00"
+      "Score": 3,
+      "Time": "64:00"
+    },
+    {
+      "Name": "EnigmAxGoordinOFF",
+      "Steam": "76561198718958139",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 39,
-      "Time": "37:23"
+      "Score": 47,
+      "Time": "39:23"
     },
     {
       "Name": "7h0m4s",
@@ -28,11 +34,17 @@
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
-      "Name": "N silen 19.4.29",
+      "Name": "Twizzy",
+      "Steam": "76561198984848627",
+      "Score": 12,
+      "Time": "00:04"
+    },
+    {
+      "Name": "NXC silen 19.4.29",
       "Steam": "76561198743017122",
       "Score": 12,
       "Time": "??:??"
@@ -40,8 +52,8 @@
     {
       "Name": "Emperor",
       "Steam": "76561198273920000",
-      "Score": 7,
-      "Time": "59:27"
+      "Score": 17,
+      "Time": "61:27"
     }
   ]
 }
