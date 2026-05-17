@@ -1,47 +1,59 @@
 {
-  "Time": "2026-05-17T04:31:03.1543337Z",
+  "Time": "2026-05-17T04:33:03.1939753Z",
   "Players": [
     {
       "Name": "yOLO v9 blaster",
       "Steam": "76561198728001369",
-      "Score": 37,
+      "Score": 47,
       "Time": "??:??"
+    },
+    {
+      "Name": "spare astral inv?",
+      "Steam": "76561199634909491",
+      "Score": 2,
+      "Time": "00:04"
+    },
+    {
+      "Name": "hu326050",
+      "Steam": "76561198759895528",
+      "Score": 2,
+      "Time": "00:56"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 37,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Yeat",
       "Steam": "76561199049807914",
-      "Score": 2,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Xyro",
       "Steam": "76561199836886163",
-      "Score": 0,
-      "Time": "39:06"
+      "Score": 2,
+      "Time": "41:06"
     },
     {
       "Name": "Acharan",
       "Steam": "76561198421081599",
-      "Score": 0,
-      "Time": "233:44"
+      "Score": 1,
+      "Time": "235:44"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 93,
-      "Time": "25:40"
+      "Score": 98,
+      "Time": "27:41"
     },
     {
       "Name": "Emperor",
       "Steam": "76561198273920000",
-      "Score": 0,
-      "Time": "06:16"
+      "Score": 2,
+      "Time": "08:16"
     }
   ]
 }
