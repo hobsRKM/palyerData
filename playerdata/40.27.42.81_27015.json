@@ -1,41 +1,35 @@
 {
-  "Time": "2026-05-17T00:29:02.8178625Z",
+  "Time": "2026-05-17T00:31:02.8041002Z",
   "Players": [
     {
-      "Name": "Caliper",
-      "Steam": "76561199116677773",
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 13,
+      "Time": "74:31"
+    },
+    {
+      "Name": "sn1per HvH",
+      "Steam": "76561198131038090",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "epic baimer | muggy",
-      "Steam": "76561198715889167",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "nrv",
-      "Steam": "76561198166519466",
-      "Score": 5,
-      "Time": "72:31"
-    },
-    {
       "Name": "sense",
       "Steam": "76561198343112799",
-      "Score": 10,
-      "Time": "05:57"
+      "Score": 25,
+      "Time": "07:57"
     },
     {
       "Name": "Donald_Trump",
       "Steam": "76561199850712943",
-      "Score": 6,
-      "Time": "00:36"
+      "Score": 11,
+      "Time": "02:36"
     },
     {
       "Name": "Dodobird",
       "Steam": "76561199889163804",
-      "Score": 1,
-      "Time": "290:01"
+      "Score": 7,
+      "Time": "292:01"
     },
     {
       "Name": "NotKenny",
@@ -46,20 +40,26 @@
     {
       "Name": "aimware.net",
       "Steam": "76561198706868502",
-      "Score": 4,
-      "Time": "22:43"
+      "Score": 10,
+      "Time": "24:43"
     },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 6,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Xyro",
       "Steam": "76561199836886163",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Emperor",
+      "Steam": "76561198273920000",
+      "Score": 0,
+      "Time": "00:35"
     }
   ]
 }
