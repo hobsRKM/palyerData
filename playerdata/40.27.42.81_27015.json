@@ -1,17 +1,29 @@
 {
-  "Time": "2026-05-17T07:17:05.2169867Z",
+  "Time": "2026-05-17T07:19:05.2511295Z",
   "Players": [
+    {
+      "Name": "paplo",
+      "Steam": "76561198720634985",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "sacred",
       "Steam": "76561198745532984",
-      "Score": 15,
-      "Time": "78:00"
+      "Score": 17,
+      "Time": "80:00"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 113,
-      "Time": "53:23"
+      "Score": 116,
+      "Time": "55:23"
+    },
+    {
+      "Name": "Fatality Frank",
+      "Steam": "76561198795280812",
+      "Score": 4,
+      "Time": "170:02"
     },
     {
       "Name": "7h0m4s",
@@ -28,8 +40,8 @@
     {
       "Name": "OhManIdied",
       "Steam": "76561199170732916",
-      "Score": 4,
-      "Time": "226:37"
+      "Score": 8,
+      "Time": "228:37"
     },
     {
       "Name": "aim",
@@ -40,20 +52,20 @@
     {
       "Name": "Twizzy",
       "Steam": "76561198984848627",
-      "Score": 8,
-      "Time": "14:04"
+      "Score": 0,
+      "Time": "16:04"
     },
     {
       "Name": "Lou1s",
       "Steam": "76561198787721084",
-      "Score": 6,
-      "Time": "02:38"
+      "Score": 14,
+      "Time": "04:38"
     },
     {
       "Name": "Emperor",
       "Steam": "76561198273920000",
-      "Score": 58,
-      "Time": "75:27"
+      "Score": 69,
+      "Time": "77:27"
     }
   ]
 }
