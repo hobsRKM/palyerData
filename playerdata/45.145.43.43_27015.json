@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-17T05:58:56.0281692Z",
-  "Players": []
+  "Time": "2026-05-17T05:58:57.2284124Z",
+  "Players": [
+    {
+      "Name": "gelato",
+      "Steam": "76561198016561475",
+      "Score": 2,
+      "Time": "05:32"
+    },
+    {
+      "Name": "bitchless",
+      "Steam": "76561198866127337",
+      "Score": 0,
+      "Time": "24:04"
+    },
+    {
+      "Name": "hui",
+      "Steam": "76561199518923219",
+      "Score": 27,
+      "Time": "33:38"
+    },
+    {
+      "Name": "missality",
+      "Steam": "76561198716591947",
+      "Score": 59,
+      "Time": "79:05"
+    },
+    {
+      "Name": "♱\uD835\uDE1A\uD835\uDE3A\uD835\uDE34\uD835\uDE2C\uD835\uDE26\uD835\uDE3A♱",
+      "Steam": "76561198435253961",
+      "Score": 65,
+      "Time": "28:44"
+    }
+  ]
 }
