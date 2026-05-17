@@ -1,65 +1,71 @@
 {
-  "Time": "2026-05-17T12:37:06.1583166Z",
+  "Time": "2026-05-17T12:39:06.2016684Z",
   "Players": [
+    {
+      "Name": "noctyx",
+      "Steam": "76561199809379201",
+      "Score": 0,
+      "Time": "00:31"
+    },
     {
       "Name": "IIlllIIllIllIll",
       "Steam": "76561198707727664",
-      "Score": 1,
-      "Time": "47:14"
+      "Score": 5,
+      "Time": "49:14"
     },
     {
-      "Name": "Tran SLUGGA",
+      "Name": "Tranny.sens SLUGGA",
       "Steam": "76561199625017225",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Neo",
       "Steam": "76561199808928969",
-      "Score": 16,
-      "Time": "21:27"
+      "Score": 26,
+      "Time": "23:27"
     },
     {
       "Name": "sexaddict",
       "Steam": "76561199882309166",
-      "Score": 1,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "PIG",
       "Steam": "76561199099722473",
-      "Score": 6,
-      "Time": "31:43"
+      "Score": 10,
+      "Time": "33:43"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 28,
-      "Time": "72:09"
+      "Score": 32,
+      "Time": "74:09"
     },
     {
       "Name": "Rocket",
       "Steam": "76561199611024142",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "?????",
       "Steam": "76561199865563018",
-      "Score": 18,
-      "Time": "08:41"
+      "Score": 19,
+      "Time": "10:41"
     },
     {
       "Name": "$$$",
       "Steam": "76561198793024178",
-      "Score": 22,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "LonaRPG",
       "Steam": "76561199879290767",
-      "Score": 20,
-      "Time": "92:24"
+      "Score": 24,
+      "Time": "94:24"
     }
   ]
 }
