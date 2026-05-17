@@ -1,83 +1,77 @@
 {
-  "Time": "2026-05-17T04:45:03.2902031Z",
+  "Time": "2026-05-17T04:47:03.3377971Z",
   "Players": [
+    {
+      "Name": "april",
+      "Steam": "76561198799902006",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "yOLO v9 blaster",
       "Steam": "76561198728001369",
-      "Score": 101,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "spare astral inv?",
       "Steam": "76561199634909491",
-      "Score": 55,
-      "Time": "12:04"
+      "Score": 5,
+      "Time": "14:04"
     },
     {
       "Name": "hu326050",
       "Steam": "76561198759895528",
-      "Score": 17,
-      "Time": "12:56"
+      "Score": 2,
+      "Time": "14:56"
     },
     {
       "Name": "codex code grandmaster",
       "Steam": "76561199880717233",
-      "Score": 21,
-      "Time": "29:32"
-    },
-    {
-      "Name": "Ansi",
-      "Steam": "76561199568150325",
-      "Score": 57,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "31:32"
     },
     {
       "Name": "Roma",
       "Steam": "76561199874070115",
-      "Score": 18,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Yeat",
-      "Steam": "76561199049807914",
-      "Score": 36,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "HUNK",
       "Steam": "76561199870945474",
-      "Score": 2,
-      "Time": "155:53"
+      "Score": 0,
+      "Time": "157:53"
     },
     {
       "Name": "michealmartinez2007",
       "Steam": "76561198709501712",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Xyro",
       "Steam": "76561199836886163",
-      "Score": 17,
-      "Time": "53:06"
+      "Score": 2,
+      "Time": "55:06"
     },
     {
       "Name": "7ELEBERTY",
       "Steam": "76561198712552595",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 142,
-      "Time": "39:41"
+      "Score": 10,
+      "Time": "41:41"
     },
     {
       "Name": "Emperor",
       "Steam": "76561198273920000",
-      "Score": 15,
-      "Time": "20:16"
+      "Score": 4,
+      "Time": "22:16"
     }
   ]
 }
