@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-17T01:03:02.803554Z",
+  "Time": "2026-05-17T01:05:02.8072803Z",
   "Players": [
     {
       "Name": "I",
       "Steam": "76561198763517260",
-      "Score": 50,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "sense",
       "Steam": "76561198343112799",
-      "Score": 69,
-      "Time": "39:57"
+      "Score": 81,
+      "Time": "41:57"
+    },
+    {
+      "Name": "j",
+      "Steam": "76561198704251667",
+      "Score": 5,
+      "Time": "01:31"
     },
     {
       "Name": "Neverlose",
       "Steam": "76561199701831525",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "fgdgdgdgdfgdfggdfg",
       "Steam": "76561199807672003",
       "Score": 0,
-      "Time": "09:05"
+      "Time": "11:05"
     },
     {
       "Name": "AnimeArchon",
       "Steam": "76561198741550720",
-      "Score": 2,
-      "Time": "02:35"
+      "Score": 0,
+      "Time": "04:35"
     }
   ]
 }
