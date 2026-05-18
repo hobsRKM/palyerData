@@ -1,22 +1,28 @@
 {
-  "Time": "2026-05-18T11:19:00.1449915Z",
+  "Time": "2026-05-18T11:21:00.1392255Z",
   "Players": [
+    {
+      "Name": "esolreven",
+      "Steam": "76561198713112279",
+      "Score": 10,
+      "Time": "01:39"
+    },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Another",
       "Steam": "76561198752883509",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "OhManIdied",
       "Steam": "76561199170732916",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
