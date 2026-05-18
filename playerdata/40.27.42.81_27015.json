@@ -1,34 +1,46 @@
 {
-  "Time": "2026-05-18T16:23:00.1366667Z",
+  "Time": "2026-05-18T16:25:00.1396365Z",
   "Players": [
+    {
+      "Name": "magrelo",
+      "Steam": "76561199529552889",
+      "Score": 0,
+      "Time": "01:03"
+    },
     {
       "Name": "Delta",
       "Steam": "76561199001105777",
-      "Score": 8,
-      "Time": "14:06"
+      "Score": 13,
+      "Time": "16:06"
     },
     {
       "Name": "stamiisthebestn",
       "Steam": "76561198705115405",
-      "Score": 15,
-      "Time": "05:46"
+      "Score": 22,
+      "Time": "07:46"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
       "Score": 57,
-      "Time": "38:51"
+      "Time": "40:51"
     },
     {
       "Name": "idk",
       "Steam": "76561198742474700",
-      "Score": 85,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "Lou1s",
       "Steam": "76561198787721084",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rassiih",
+      "Steam": "76561198702881176",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
