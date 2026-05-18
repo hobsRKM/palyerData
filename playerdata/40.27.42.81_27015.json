@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-18T21:03:00.1561917Z",
+  "Time": "2026-05-18T21:05:00.1398315Z",
   "Players": [
     {
       "Name": "Delta",
       "Steam": "76561199001105777",
-      "Score": 25,
-      "Time": "17:30"
+      "Score": 27,
+      "Time": "19:30"
+    },
+    {
+      "Name": "[ am ]",
+      "Steam": "76561199187190389",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Roma",
       "Steam": "76561199874070115",
-      "Score": 47,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "tripleo48 cause ur bannedd ha",
       "Steam": "76561198705383071",
       "Score": 5,
-      "Time": "03:02"
+      "Time": "05:02"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 45,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "Curby",
       "Steam": "76561198369113089",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
@@ -38,22 +44,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "hi6w",
+      "Steam": "76561199321403005",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "uhh? | Fixing cfg",
       "Steam": "76561199453255014",
-      "Score": 1,
-      "Time": "01:48"
+      "Score": 6,
+      "Time": "03:48"
     },
     {
       "Name": "hu326050",
       "Steam": "76561198759895528",
-      "Score": 18,
-      "Time": "04:34"
+      "Score": 24,
+      "Time": "06:34"
+    },
+    {
+      "Name": "Crimson King",
+      "Steam": "76561199377615961",
+      "Score": 2,
+      "Time": "01:04"
     },
     {
       "Name": "Dodobird",
       "Steam": "76561199889163804",
-      "Score": 22,
-      "Time": "06:29"
+      "Score": 32,
+      "Time": "08:29"
     }
   ]
 }
