@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-18T07:49:02.3595908Z",
+  "Time": "2026-05-18T07:51:02.3555004Z",
   "Players": [
+    {
+      "Name": "EZ>win",
+      "Steam": "76561199611024142",
+      "Score": 2,
+      "Time": "01:23"
+    },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "zyuan",
       "Steam": "76561199888306486",
-      "Score": 21,
-      "Time": "11:13"
+      "Score": 26,
+      "Time": "13:13"
     },
     {
-      "Name": "> AUR_ | Best Music",
+      "Name": "> AU_ | Best Music",
       "Steam": "76561199829905037",
-      "Score": 45,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "HVH挨打王",
       "Steam": "76561199717868322",
-      "Score": 25,
-      "Time": "22:19"
+      "Score": 27,
+      "Time": "24:19"
     },
     {
       "Name": "外挂卡网：88.2a2a.top 群",
       "Steam": "76561199721209140",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
