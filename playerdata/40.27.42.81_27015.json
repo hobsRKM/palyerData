@@ -1,59 +1,41 @@
 {
-  "Time": "2026-05-18T22:25:00.1460544Z",
+  "Time": "2026-05-18T22:27:00.1512744Z",
   "Players": [
     {
       "Name": "ieathumans",
       "Steam": "76561199141860067",
-      "Score": 5,
-      "Time": "55:40"
+      "Score": 7,
+      "Time": "57:40"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 0,
-      "Time": "08:26"
-    },
-    {
-      "Name": "CottageBoii",
-      "Steam": "76561199384062449",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 4,
+      "Time": "10:26"
     },
     {
       "Name": "HVH Godfather",
       "Steam": "76561199029981261",
       "Score": 13,
-      "Time": "09:30"
+      "Time": "11:30"
     },
     {
       "Name": "uhh? | Fixing cfg",
       "Steam": "76561199453255014",
-      "Score": 1,
-      "Time": "83:48"
+      "Score": 9,
+      "Time": "85:48"
     },
     {
       "Name": "alexander",
       "Steam": "76561199792464561",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "//////",
-      "Steam": "76561199805557263",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "idk72627",
       "Steam": "76561198756093558",
-      "Score": 3,
-      "Time": "27:38"
-    },
-    {
-      "Name": "Alone",
-      "Steam": "76561199875779355",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 1,
+      "Time": "29:38"
     }
   ]
 }
