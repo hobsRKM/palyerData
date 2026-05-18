@@ -1,17 +1,35 @@
 {
-  "Time": "2026-05-18T04:29:00.4839089Z",
+  "Time": "2026-05-18T04:31:00.4993076Z",
   "Players": [
+    {
+      "Name": "Kaneki",
+      "Steam": "76561198775750125",
+      "Score": 10,
+      "Time": "01:53"
+    },
+    {
+      "Name": "MrPaw",
+      "Steam": "76561199046204811",
+      "Score": 8,
+      "Time": "50:28"
+    },
     {
       "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Εσς ]",
       "Steam": "76561198705115405",
       "Score": 0,
-      "Time": "189:53"
+      "Time": "191:53"
     },
     {
       "Name": "Larry",
       "Steam": "76561199221924053",
-      "Score": 0,
-      "Time": "00:56"
+      "Score": 2,
+      "Time": "02:56"
+    },
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 4,
+      "Time": "01:57"
     }
   ]
 }
