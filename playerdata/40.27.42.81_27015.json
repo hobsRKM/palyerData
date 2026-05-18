@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-17T23:48:59.4965844Z",
+  "Time": "2026-05-17T23:50:59.5042507Z",
   "Players": [
+    {
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 14,
+      "Time": "01:54"
+    },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 62,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "Galax",
       "Steam": "76561199569938885",
-      "Score": 45,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "stk scammed me (◣_◢)",
       "Steam": "76561199827331481",
-      "Score": 25,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "dsfsfasdase",
       "Steam": "76561199154148788",
       "Score": 0,
-      "Time": "06:32"
+      "Time": "08:32"
     },
     {
       "Name": "Curby",
       "Steam": "76561198369113089",
-      "Score": 31,
-      "Time": "19:41"
+      "Score": 33,
+      "Time": "21:41"
     },
     {
       "Name": "Helix",
@@ -40,38 +46,38 @@
     {
       "Name": "next #lmaoDEAD",
       "Steam": "76561198199806545",
-      "Score": 55,
-      "Time": "148:55"
+      "Score": 59,
+      "Time": "150:55"
     },
     {
       "Name": "idk",
       "Steam": "76561198741685170",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Delta",
       "Steam": "76561199001105777",
       "Score": 24,
-      "Time": "36:07"
+      "Time": "38:07"
     },
     {
-      "Name": "$$$$$$$$$$ | qv7w",
+      "Name": "TempleWare | qv7w",
       "Steam": "76561199101764354",
-      "Score": 16,
-      "Time": "02:06"
+      "Score": 18,
+      "Time": "04:06"
     },
     {
       "Name": "occupance",
       "Steam": "76561199857023302",
-      "Score": 37,
-      "Time": "09:24"
+      "Score": 39,
+      "Time": "11:24"
     },
     {
       "Name": "uranoob.cfg",
       "Steam": "76561198709730539",
-      "Score": 10,
-      "Time": "64:26"
+      "Score": 14,
+      "Time": "66:26"
     },
     {
       "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
@@ -83,25 +89,19 @@
       "Name": "tiktok edit",
       "Steam": "76561199010808448",
       "Score": 0,
-      "Time": "49:02"
+      "Time": "51:02"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 7,
-      "Time": "04:54"
+      "Score": 11,
+      "Time": "06:54"
     },
     {
       "Name": "Roma",
       "Steam": "76561199874070115",
-      "Score": 43,
-      "Time": "180:03"
-    },
-    {
-      "Name": "nocries",
-      "Steam": "76561198746332326",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 51,
+      "Time": "182:03"
     }
   ]
 }
