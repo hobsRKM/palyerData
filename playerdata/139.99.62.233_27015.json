@@ -1,10 +1,16 @@
 {
-  "Time": "2026-05-18T04:53:02.3486521Z",
+  "Time": "2026-05-18T04:55:02.3539483Z",
   "Players": [
+    {
+      "Name": "KennyS",
+      "Steam": "76561199147413183",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
@@ -16,19 +22,13 @@
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "IIlllIIllIllIll",
       "Steam": "76561198707727664",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "nan",
-      "Steam": "76561199847533857",
-      "Score": 18,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
