@@ -1,83 +1,95 @@
 {
-  "Time": "2026-05-18T21:19:00.1480798Z",
+  "Time": "2026-05-18T21:21:00.1417335Z",
   "Players": [
+    {
+      "Name": "x",
+      "Steam": "76561199847868570",
+      "Score": 4,
+      "Time": "27:05"
+    },
     {
       "Name": "Delta",
       "Steam": "76561199001105777",
       "Score": 7,
-      "Time": "33:30"
+      "Time": "35:30"
     },
     {
       "Name": "Burger Enjoyer",
       "Steam": "76561198714884241",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Roma",
       "Steam": "76561199874070115",
-      "Score": 30,
+      "Score": 35,
       "Time": "??:??"
     },
     {
-      "Name": "$$$$$$$$$  | tripleo48 cause ur bannedd ha",
+      "Name": "$$$$$$$$$$ | tripleo48 cause ur bannedd ha",
       "Steam": "76561198705383071",
-      "Score": 4,
-      "Time": "19:02"
+      "Score": 8,
+      "Time": "21:02"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 31,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Curby",
       "Steam": "76561198369113089",
-      "Score": 27,
+      "Score": 36,
       "Time": "??:??"
+    },
+    {
+      "Name": "hi6w",
+      "Steam": "76561199321403005",
+      "Score": 2,
+      "Time": "00:46"
     },
     {
       "Name": "Yeat",
       "Steam": "76561199049807914",
-      "Score": 7,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "uhh? | Fixing cfg",
       "Steam": "76561199453255014",
-      "Score": 29,
-      "Time": "17:48"
+      "Score": 32,
+      "Time": "19:48"
     },
     {
       "Name": ".",
       "Steam": "76561198708860550",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "hu326050",
       "Steam": "76561198759895528",
-      "Score": 16,
-      "Time": "20:34"
+      "Score": 22,
+      "Time": "22:34"
     },
     {
       "Name": "9",
       "Steam": "76561198744402588",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Crimson King",
       "Steam": "76561199377615961",
       "Score": 29,
-      "Time": "15:04"
+      "Time": "17:04"
     },
     {
       "Name": "Dodobird",
       "Steam": "76561199889163804",
-      "Score": 41,
-      "Time": "22:29"
+      "Score": 45,
+      "Time": "24:29"
     }
   ]
 }
