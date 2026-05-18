@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-18T05:23:00.6334841Z",
+  "Time": "2026-05-18T05:25:00.6245629Z",
   "Players": [
+    {
+      "Name": "esolreven",
+      "Steam": "76561198713112279",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 20,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "hu326050",
       "Steam": "76561198759895528",
-      "Score": 6,
-      "Time": "279:09"
+      "Score": 14,
+      "Time": "281:09"
     },
     {
       "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Εσς ]",
       "Steam": "76561198705115405",
       "Score": 0,
-      "Time": "243:53"
+      "Time": "245:53"
     }
   ]
 }
