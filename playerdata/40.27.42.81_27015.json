@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-18T00:22:59.5408112Z",
+  "Time": "2026-05-18T00:24:59.5378022Z",
   "Players": [
+    {
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 40,
+      "Time": "01:08"
+    },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 29,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "stk scammed me (◣_◢)",
       "Steam": "76561199827331481",
-      "Score": 41,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "Caetano",
       "Steam": "76561198783590630",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "codex code grandmaster",
       "Steam": "76561199880717233",
-      "Score": 0,
-      "Time": "16:32"
+      "Score": 4,
+      "Time": "18:32"
     },
     {
-      "Name": "$$$$$$$$$$ | qv7w",
+      "Name": "$$$$$$     | qv7w",
       "Steam": "76561199101764354",
-      "Score": 24,
-      "Time": "36:06"
+      "Score": 25,
+      "Time": "38:06"
     },
     {
       "Name": "uranoob.cfg",
       "Steam": "76561198709730539",
-      "Score": 3,
-      "Time": "05:33"
+      "Score": 9,
+      "Time": "07:33"
     },
     {
       "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
@@ -46,7 +52,7 @@
     {
       "Name": "sissyboigaming",
       "Steam": "76561198707951308",
-      "Score": 49,
+      "Score": 55,
       "Time": "??:??"
     },
     {
@@ -58,14 +64,14 @@
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 36,
-      "Time": "38:54"
+      "Score": 39,
+      "Time": "40:54"
     },
     {
       "Name": "Roma",
       "Steam": "76561199874070115",
-      "Score": 57,
-      "Time": "214:03"
+      "Score": 61,
+      "Time": "216:03"
     }
   ]
 }
