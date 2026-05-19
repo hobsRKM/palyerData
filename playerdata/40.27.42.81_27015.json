@@ -1,40 +1,46 @@
 {
-  "Time": "2026-05-19T23:15:01.7832576Z",
+  "Time": "2026-05-19T23:17:01.7915556Z",
   "Players": [
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 12,
+      "Time": "01:39"
+    },
     {
       "Name": "Furry Femboy",
       "Steam": "76561198790678315",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Delta",
       "Steam": "76561199001105777",
       "Score": 5,
-      "Time": "22:38"
+      "Time": "24:38"
     },
     {
       "Name": "Yeat",
       "Steam": "76561199049807914",
-      "Score": 33,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "testing sharkhack.net",
       "Steam": "76561198710959275",
-      "Score": 11,
-      "Time": "??:??"
-    },
-    {
-      "Name": "vdjf",
-      "Steam": "76561199179241072",
-      "Score": 0,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": ".",
       "Steam": "76561198708860550",
-      "Score": 33,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "They dont love u like i do",
+      "Steam": "76561198701389388",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
