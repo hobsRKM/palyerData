@@ -1,35 +1,53 @@
 {
-  "Time": "2026-05-19T12:33:24.5650125Z",
+  "Time": "2026-05-19T12:35:24.55784Z",
   "Players": [
+    {
+      "Name": "\uD835\uDC06\uD835\uDC2B\uD835\uDC22\uD835\uDC26",
+      "Steam": "76561199806910486",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "EZ>win",
       "Steam": "76561199611024142",
-      "Score": 0,
-      "Time": "01:30"
+      "Score": 1,
+      "Time": "01:27"
     },
     {
       "Name": "笑笑可以變幸運",
       "Steam": "76561198727778744",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "quanmcvn",
+      "Steam": "76561198709521552",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "PIG",
       "Steam": "76561199099722473",
-      "Score": 12,
-      "Time": "89:00"
+      "Score": 26,
+      "Time": "91:00"
     },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
       "Score": 0,
-      "Time": "90:29"
+      "Time": "92:29"
+    },
+    {
+      "Name": "aMiggo neverlose.cc",
+      "Steam": "76561199098822398",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "IIlllIIllIllIllI",
       "Steam": "76561198700671132",
-      "Score": 2,
-      "Time": "139:03"
+      "Score": 10,
+      "Time": "141:03"
     }
   ]
 }
