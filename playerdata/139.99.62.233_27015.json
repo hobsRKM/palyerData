@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-19T14:09:24.9999957Z",
+  "Time": "2026-05-19T14:11:25.0410837Z",
   "Players": [
     {
       "Name": "\uD835\uDC06\uD835\uDC2B\uD835\uDC22\uD835\uDC26",
       "Steam": "76561199806910486",
-      "Score": 9,
-      "Time": "02:42"
+      "Score": 23,
+      "Time": "04:42"
     },
     {
       "Name": "EZ>win",
       "Steam": "76561199611024142",
-      "Score": 3,
-      "Time": "27:03"
+      "Score": 0,
+      "Time": "29:03"
     },
     {
       "Name": "lowdelta",
       "Steam": "76561199816239758",
-      "Score": 57,
-      "Time": "40:14"
+      "Score": 67,
+      "Time": "42:15"
+    },
+    {
+      "Name": "nan",
+      "Steam": "76561199847533857",
+      "Score": 4,
+      "Time": "01:59"
     },
     {
       "Name": "17before",
       "Steam": "76561199780856796",
-      "Score": 73,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "nixware #1 user",
       "Steam": "76561199888306486",
-      "Score": 26,
-      "Time": "38:29"
+      "Score": 28,
+      "Time": "40:29"
     }
   ]
 }
