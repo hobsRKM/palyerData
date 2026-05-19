@@ -1,23 +1,35 @@
 {
-  "Time": "2026-05-19T07:43:31.510912Z",
+  "Time": "2026-05-19T07:47:31.4988846Z",
   "Players": [
     {
       "Name": "urn",
       "Steam": "76561198791701298",
-      "Score": 28,
-      "Time": "112:24"
+      "Score": 50,
+      "Time": "116:24"
+    },
+    {
+      "Name": "Yeat",
+      "Steam": "76561199049807914",
+      "Score": 1,
+      "Time": "02:50"
+    },
+    {
+      "Name": "Baim (tracele.ss test)",
+      "Steam": "76561198747305191",
+      "Score": 4,
+      "Time": "03:32"
     },
     {
       "Name": "cockatomoy",
       "Steam": "76561198701854396",
-      "Score": 5,
-      "Time": "33:03"
+      "Score": 9,
+      "Time": "37:03"
     },
     {
       "Name": "PALESTINE",
       "Steam": "76561198710074880",
-      "Score": 18,
-      "Time": "23:42"
+      "Score": 30,
+      "Time": "27:42"
     }
   ]
 }
