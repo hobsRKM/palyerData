@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-19T21:35:01.7960351Z",
+  "Time": "2026-05-19T21:37:01.784786Z",
   "Players": [
+    {
+      "Name": "king",
+      "Steam": "76561198772659643",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "SIMUY",
       "Steam": "76561199882232516",
       "Score": 2,
-      "Time": "05:51"
+      "Time": "07:51"
     },
     {
       "Name": "Tom Cruise",
       "Steam": "76561198041181851",
-      "Score": 1,
-      "Time": "06:51"
+      "Score": 11,
+      "Time": "08:51"
     },
     {
       "Name": "Kaneki",
       "Steam": "76561198775750125",
-      "Score": 0,
-      "Time": "01:48"
+      "Score": 4,
+      "Time": "03:48"
     },
     {
       "Name": "Lil Gaay",
       "Steam": "76561199158419168",
-      "Score": 6,
-      "Time": "10:47"
+      "Score": 20,
+      "Time": "12:47"
     }
   ]
 }
