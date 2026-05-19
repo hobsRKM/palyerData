@@ -1,28 +1,28 @@
 {
-  "Time": "2026-05-19T22:29:01.7940525Z",
+  "Time": "2026-05-19T22:31:01.7808278Z",
   "Players": [
     {
       "Name": "aimware.net",
       "Steam": "76561198706868502",
-      "Score": 21,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "7ELEBERTY",
       "Steam": "76561198712552595",
-      "Score": 19,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "Botacin",
       "Steam": "76561198161701883",
-      "Score": 9,
-      "Time": "05:19"
+      "Score": 13,
+      "Time": "07:19"
     },
     {
       "Name": "testing sharkhack.net",
       "Steam": "76561198710959275",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
@@ -34,20 +34,8 @@
     {
       "Name": "cvx0",
       "Steam": "76561198709099065",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "Tom Cruise",
-      "Steam": "76561198041181851",
-      "Score": 34,
-      "Time": "11:26"
-    },
-    {
-      "Name": "Kaneki",
-      "Steam": "76561198775750125",
-      "Score": 18,
-      "Time": "06:19"
     }
   ]
 }
