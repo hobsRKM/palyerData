@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-19T10:13:24.3327719Z",
+  "Time": "2026-05-19T10:15:24.3265243Z",
   "Players": [
     {
       "Name": "nan",
       "Steam": "76561199847533857",
       "Score": 43,
-      "Time": "23:53"
+      "Time": "25:53"
     },
     {
       "Name": "PIG",
       "Steam": "76561199099722473",
-      "Score": 75,
-      "Time": "54:04"
+      "Score": 83,
+      "Time": "56:03"
     },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
-      "Score": 83,
+      "Score": 92,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 34,
+      "Score": 42,
       "Time": "??:??"
+    },
+    {
+      "Name": "IIlllIIllIllIllI",
+      "Steam": "76561198700671132",
+      "Score": 1,
+      "Time": "01:02"
     }
   ]
 }
