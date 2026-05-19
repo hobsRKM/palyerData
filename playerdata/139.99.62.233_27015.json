@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-19T13:41:24.7862001Z",
+  "Time": "2026-05-19T13:43:24.8030756Z",
   "Players": [
     {
       "Name": "ham",
       "Steam": "76561199755759659",
-      "Score": 10,
-      "Time": "05:37"
+      "Score": 18,
+      "Time": "07:37"
+    },
+    {
+      "Name": "EZ>win",
+      "Steam": "76561199611024142",
+      "Score": 0,
+      "Time": "01:03"
     },
     {
       "Name": "lowdelta",
       "Steam": "76561199816239758",
-      "Score": 18,
-      "Time": "12:14"
+      "Score": 26,
+      "Time": "14:14"
     },
     {
       "Name": "Shit music",
       "Steam": "76561198701435548",
-      "Score": 71,
-      "Time": "18:56"
+      "Score": 79,
+      "Time": "20:56"
     },
     {
       "Name": "nixware #1 user",
       "Steam": "76561199888306486",
-      "Score": 13,
-      "Time": "10:29"
+      "Score": 15,
+      "Time": "12:29"
     }
   ]
 }
