@@ -1,34 +1,46 @@
 {
-  "Time": "2026-05-19T19:05:01.7960139Z",
+  "Time": "2026-05-19T19:07:01.7888643Z",
   "Players": [
+    {
+      "Name": "Demented Diablo Playz",
+      "Steam": "76561198728907698",
+      "Score": 0,
+      "Time": "00:24"
+    },
     {
       "Name": "Delta",
       "Steam": "76561199001105777",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "sacred",
       "Steam": "76561198745532984",
-      "Score": 28,
-      "Time": "22:50"
+      "Score": 31,
+      "Time": "24:50"
     },
     {
       "Name": "Hood Sheriff",
       "Steam": "76561199581407714",
-      "Score": 37,
-      "Time": "23:10"
+      "Score": 41,
+      "Time": "25:09"
     },
     {
       "Name": "ieathumans",
       "Steam": "76561199141860067",
-      "Score": 20,
-      "Time": "16:36"
+      "Score": 25,
+      "Time": "18:36"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 61,
+      "Score": 76,
+      "Time": "??:??"
+    },
+    {
+      "Name": "$$$        | qv7w",
+      "Steam": "76561199101764354",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
