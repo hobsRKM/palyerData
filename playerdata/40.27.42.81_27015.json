@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-19T07:17:31.5095956Z",
+  "Time": "2026-05-19T07:19:31.5020873Z",
   "Players": [
+    {
+      "Name": "codex code grandmaster",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "00:43"
+    },
     {
       "Name": "urn",
       "Steam": "76561198791701298",
       "Score": 43,
-      "Time": "86:24"
+      "Time": "88:24"
     },
     {
       "Name": "Entity",
       "Steam": "76561199825236538",
-      "Score": 42,
-      "Time": "13:58"
+      "Score": 53,
+      "Time": "15:58"
     },
     {
       "Name": "vv",
       "Steam": "76561199830024313",
-      "Score": 59,
-      "Time": "45:12"
+      "Score": 63,
+      "Time": "47:12"
     },
     {
       "Name": "cockatomoy",
       "Steam": "76561198701854396",
       "Score": 2,
-      "Time": "07:03"
+      "Time": "09:03"
     },
     {
       "Name": "Js-o7o",
       "Steam": "76561199828563808",
-      "Score": 24,
-      "Time": "09:41"
+      "Score": 32,
+      "Time": "11:41"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 24,
-      "Time": "08:20"
+      "Score": 28,
+      "Time": "10:20"
     }
   ]
 }
