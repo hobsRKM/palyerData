@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-19T11:23:24.4513981Z",
+  "Time": "2026-05-19T11:25:24.4611653Z",
   "Players": [
     {
       "Name": "Neo",
       "Steam": "76561199808928969",
-      "Score": 102,
+      "Score": 110,
       "Time": "??:??"
     },
     {
       "Name": "PIG",
       "Steam": "76561199099722473",
-      "Score": 117,
-      "Time": "19:00"
+      "Score": 121,
+      "Time": "21:00"
     },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
-      "Score": 43,
-      "Time": "20:29"
+      "Score": 45,
+      "Time": "22:29"
+    },
+    {
+      "Name": "HVH挨打王",
+      "Steam": "76561199717868322",
+      "Score": 20,
+      "Time": "01:05"
     },
     {
       "Name": "nixware #1 user",
       "Steam": "76561199888306486",
-      "Score": 9,
-      "Time": "43:33"
+      "Score": 11,
+      "Time": "45:33"
     },
     {
       "Name": "IIlllIIllIllIllI",
       "Steam": "76561198700671132",
       "Score": 19,
-      "Time": "69:02"
+      "Time": "71:02"
     }
   ]
 }
