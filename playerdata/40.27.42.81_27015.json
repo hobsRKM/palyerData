@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-20T14:31:02.2222712Z",
+  "Time": "2026-05-20T14:33:02.2211164Z",
   "Players": [
+    {
+      "Name": "True Talent Hidden Within Opsec.",
+      "Steam": "76561199580355122",
+      "Score": 4,
+      "Time": "00:49"
+    },
     {
       "Name": "Furry Femboy",
       "Steam": "76561198790678315",
       "Score": 38,
-      "Time": "559:55"
+      "Time": "561:55"
     },
     {
       "Name": "Tim aka Goon King",
       "Steam": "76561198784560984",
-      "Score": 54,
-      "Time": "15:36"
+      "Score": 62,
+      "Time": "17:36"
     },
     {
       "Name": "sacred",
       "Steam": "76561198745532984",
-      "Score": 71,
-      "Time": "56:13"
+      "Score": 73,
+      "Time": "58:13"
     }
   ]
 }
