@@ -1,4 +1,23 @@
 {
-  "Time": "2026-05-20T20:29:57.6378677Z",
-  "Players": []
+  "Time": "2026-05-20T20:30:14.3499302Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 2,
+      "Time": "05:41"
+    },
+    {
+      "Name": "The bomb carrier",
+      "Steam": "76561199221319861",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
