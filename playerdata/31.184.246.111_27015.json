@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-20T20:05:57.6368388Z",
-  "Players": []
+  "Time": "2026-05-20T20:06:14.3551918Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xanrexic",
+      "Steam": "76561198706875451",
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "МОК 4 (Manager)",
+      "Steam": "76561198748740748",
+      "Score": 41,
+      "Time": "245:22"
+    },
+    {
+      "Name": "[Monolith] Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 39,
+      "Time": "28:27"
+    },
+    {
+      "Name": "[Monolith] kunghugge",
+      "Steam": "76561199221319861",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
