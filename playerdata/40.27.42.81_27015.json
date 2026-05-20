@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-20T21:01:19.9447021Z",
+  "Time": "2026-05-20T21:03:20.071531Z",
   "Players": [
+    {
+      "Name": "z.m.sm.sn.mbsbrsmsng",
+      "Steam": "76561198700584918",
+      "Score": 3,
+      "Time": "00:16"
+    },
     {
       "Name": "funeral",
       "Steam": "76561199145198962",
-      "Score": 56,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "moncler",
       "Steam": "76561199439000839",
-      "Score": 49,
-      "Time": "25:27"
+      "Score": 55,
+      "Time": "27:27"
     },
     {
       "Name": "Twizzy",
       "Steam": "76561198984848627",
-      "Score": 29,
-      "Time": "13:04"
+      "Score": 41,
+      "Time": "15:04"
     },
     {
       "Name": "Junior .",
@@ -28,32 +34,38 @@
     {
       "Name": "sacred",
       "Steam": "76561198745532984",
-      "Score": 8,
-      "Time": "14:39"
+      "Score": 9,
+      "Time": "16:39"
     },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 36,
-      "Time": "18:09"
+      "Score": 42,
+      "Time": "20:09"
     },
     {
       "Name": "Lil Gaay",
       "Steam": "76561199158419168",
-      "Score": 81,
-      "Time": "418:57"
+      "Score": 85,
+      "Time": "420:58"
+    },
+    {
+      "Name": "rezelovesyou",
+      "Steam": "76561198707923676",
+      "Score": 1,
+      "Time": "00:49"
     },
     {
       "Name": "777 my way up",
       "Steam": "76561199262330982",
       "Score": 0,
-      "Time": "44:07"
+      "Time": "46:07"
     },
     {
       "Name": "Lou1s",
       "Steam": "76561198787721084",
-      "Score": 30,
-      "Time": "275:08"
+      "Score": 33,
+      "Time": "277:08"
     }
   ]
 }
