@@ -1,59 +1,65 @@
 {
-  "Time": "2026-05-20T20:23:17.2477224Z",
+  "Time": "2026-05-20T20:25:17.3814336Z",
   "Players": [
+    {
+      "Name": "Botacin",
+      "Steam": "76561198161701883",
+      "Score": 28,
+      "Time": "00:50"
+    },
     {
       "Name": "Templeware Enjoyer",
       "Steam": "76561198914295190",
-      "Score": 49,
-      "Time": "13:49"
+      "Score": 51,
+      "Time": "15:49"
     },
     {
       "Name": "Twizzy",
       "Steam": "76561198984848627",
-      "Score": 31,
-      "Time": "08:19"
+      "Score": 33,
+      "Time": "10:19"
     },
     {
-      "Name": "TempleWare | ieathumans",
+      "Name": "$$$$$$$$$  | ieathumans",
       "Steam": "76561199141860067",
-      "Score": 38,
-      "Time": "996:19"
+      "Score": 41,
+      "Time": "998:19"
     },
     {
       "Name": "Tim aka Goon King",
       "Steam": "76561198784560984",
-      "Score": 20,
-      "Time": "10:29"
+      "Score": 25,
+      "Time": "12:29"
     },
     {
       "Name": "xhunterburjhammoud",
       "Steam": "76561198780045457",
-      "Score": 33,
-      "Time": "02:07"
-    },
-    {
-      "Name": "walkbot with neverlose",
-      "Steam": "76561199050170734",
-      "Score": 5,
-      "Time": "03:54"
+      "Score": 36,
+      "Time": "04:07"
     },
     {
       "Name": "777 my way up",
       "Steam": "76561199262330982",
       "Score": 29,
-      "Time": "06:04"
+      "Time": "08:05"
     },
     {
-      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
+      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Ξos.Core ]",
       "Steam": "76561198705115405",
-      "Score": 64,
-      "Time": "1049:41"
+      "Score": 76,
+      "Time": "1051:41"
+    },
+    {
+      "Name": "Lou1s",
+      "Steam": "76561198787721084",
+      "Score": 0,
+      "Time": "239:06"
     },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 94,
-      "Time": "397:08"
+      "Score": 111,
+      "Time": "399:08"
     }
   ]
 }
