@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-20T21:15:20.9404333Z",
+  "Time": "2026-05-20T21:17:21.0456037Z",
   "Players": [
     {
       "Name": "Hymen Handler",
       "Steam": "76561198143181138",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "idk",
+      "Steam": "76561198742474700",
+      "Score": 0,
+      "Time": "1067:53"
     },
     {
       "Name": "moncler",
       "Steam": "76561199439000839",
-      "Score": 32,
-      "Time": "39:28"
+      "Score": 47,
+      "Time": "41:28"
     },
     {
       "Name": "Twizzy",
       "Steam": "76561198984848627",
-      "Score": 24,
-      "Time": "27:05"
+      "Score": 34,
+      "Time": "29:05"
     },
     {
       "Name": "Junior .",
@@ -28,26 +34,26 @@
     {
       "Name": "sacred",
       "Steam": "76561198745532984",
-      "Score": 15,
-      "Time": "28:40"
+      "Score": 17,
+      "Time": "30:40"
     },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 17,
-      "Time": "32:10"
+      "Score": 21,
+      "Time": "34:10"
     },
     {
       "Name": "po",
       "Steam": "76561198703392706",
-      "Score": 6,
-      "Time": "04:44"
+      "Score": 9,
+      "Time": "06:44"
     },
     {
       "Name": "777 my way up",
       "Steam": "76561199262330982",
       "Score": 0,
-      "Time": "58:08"
+      "Time": "60:08"
     }
   ]
 }
