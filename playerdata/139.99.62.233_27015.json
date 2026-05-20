@@ -1,28 +1,40 @@
 {
-  "Time": "2026-05-20T15:53:25.5068359Z",
+  "Time": "2026-05-20T15:55:25.6106964Z",
   "Players": [
+    {
+      "Name": "nan",
+      "Steam": "76561199847533857",
+      "Score": 6,
+      "Time": "01:34"
+    },
     {
       "Name": "i NeverLose",
       "Steam": "76561198700671132",
-      "Score": 28,
-      "Time": "141:34"
+      "Score": 30,
+      "Time": "143:35"
     },
     {
       "Name": "White pill死",
       "Steam": "76561198776015890",
-      "Score": 12,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Agus",
       "Steam": "76561199611089277",
-      "Score": 20,
-      "Time": "33:48"
+      "Score": 22,
+      "Time": "35:48"
+    },
+    {
+      "Name": "d3jmb8qcfj",
+      "Steam": "76561198704510850",
+      "Score": 0,
+      "Time": "00:37"
     },
     {
       "Name": "Jew Annihilator",
       "Steam": "76561198702659653",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
