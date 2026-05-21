@@ -1,29 +1,41 @@
 {
-  "Time": "2026-05-21T09:47:58.1636593Z",
+  "Time": "2026-05-21T09:49:58.157909Z",
   "Players": [
+    {
+      "Name": "XOXO",
+      "Steam": "76561199810524131",
+      "Score": 49,
+      "Time": "01:36"
+    },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
-      "Score": 24,
-      "Time": "09:59"
+      "Score": 35,
+      "Time": "11:59"
+    },
+    {
+      "Name": "ROOZ",
+      "Steam": "76561199644600785",
+      "Score": 1,
+      "Time": "01:21"
     },
     {
       "Name": "dutifulelvis716",
       "Steam": "76561199725216670",
-      "Score": 0,
-      "Time": "01:21"
+      "Score": 6,
+      "Time": "03:21"
     },
     {
       "Name": "Cutie Patootie",
       "Steam": "76561198702567820",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "NoRolezModule",
       "Steam": "76561199745671148",
-      "Score": 7,
-      "Time": "??:??"
+      "Score": 5,
+      "Time": "00:55"
     },
     {
       "Name": "666",
@@ -32,9 +44,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "mantanara",
-      "Steam": "76561199201725026",
-      "Score": 3,
+      "Name": "Ray",
+      "Steam": "76561199179841377",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FRANK",
+      "Steam": "76561198715823547",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
