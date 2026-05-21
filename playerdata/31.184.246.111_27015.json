@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-21T06:28:00.2739187Z",
-  "Players": []
+  "Time": "2026-05-21T06:28:22.5924535Z",
+  "Players": [
+    {
+      "Name": "\"'",
+      "Steam": "76561199028888055",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 53,
+      "Time": "??:??"
+    },
+    {
+      "Name": "prophylactics",
+      "Steam": "76561198381199763",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tiger woods",
+      "Steam": "76561198707902039",
+      "Score": 43,
+      "Time": "08:59"
+    },
+    {
+      "Name": "Botik",
+      "Steam": "76561199230019305",
+      "Score": 37,
+      "Time": "??:??"
+    }
+  ]
 }
