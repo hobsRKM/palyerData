@@ -1,21 +1,33 @@
 {
-  "Time": "2026-05-21T16:41:53.6865396Z",
+  "Time": "2026-05-21T16:43:53.6764254Z",
   "Players": [
+    {
+      "Name": "Nah",
+      "Steam": "76561198723445690",
+      "Score": 0,
+      "Time": "00:53"
+    },
     {
       "Name": "Tim aka Goon King",
       "Steam": "76561198784560984",
-      "Score": 8,
-      "Time": "16:04"
+      "Score": 10,
+      "Time": "18:04"
     },
     {
       "Name": "jaeychino",
       "Steam": "76561198722865548",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "wqeq",
       "Steam": "76561198702785803",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Noxx",
+      "Steam": "76561198420906515",
       "Score": 0,
       "Time": "??:??"
     }
