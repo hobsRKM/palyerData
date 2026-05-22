@@ -1,41 +1,53 @@
 {
-  "Time": "2026-05-22T05:58:00.7407727Z",
+  "Time": "2026-05-22T06:00:00.7513194Z",
   "Players": [
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 0,
+      "Time": "00:05"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 29,
+      "Time": "00:24"
+    },
     {
       "Name": "s",
       "Steam": "76561198735582746",
-      "Score": 30,
-      "Time": "12:11"
+      "Score": 32,
+      "Time": "14:11"
     },
     {
       "Name": "genetic",
       "Steam": "76561199029981261",
-      "Score": 14,
-      "Time": "05:42"
+      "Score": 28,
+      "Time": "07:42"
     },
     {
       "Name": "emo",
       "Steam": "76561199830024313",
-      "Score": 31,
-      "Time": "04:50"
+      "Score": 51,
+      "Time": "06:50"
     },
     {
       "Name": "digitalangyl",
       "Steam": "76561199138222831",
-      "Score": 0,
-      "Time": "20:51"
+      "Score": 2,
+      "Time": "22:51"
     },
     {
       "Name": "t.me/familiar",
       "Steam": "76561199262330982",
       "Score": 9,
-      "Time": "05:08"
+      "Time": "07:08"
     },
     {
       "Name": "zzz",
       "Steam": "76561198984756401",
-      "Score": 0,
-      "Time": "05:04"
+      "Score": 6,
+      "Time": "07:04"
     },
     {
       "Name": "evil scary ass bird",
@@ -47,7 +59,7 @@
       "Name": "lzx",
       "Steam": "76561199834410706",
       "Score": 3,
-      "Time": "00:51"
+      "Time": "02:51"
     },
     {
       "Name": "upako",
@@ -56,14 +68,26 @@
       "Time": "??:??"
     },
     {
-      "Name": "Robin",
-      "Steam": "76561197972331059",
+      "Name": "aura lol",
+      "Steam": "76561198700502729",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nah",
+      "Steam": "76561198723445690",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "goth",
+      "Steam": "76561199640560614",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "aura lol",
-      "Steam": "76561198700502729",
+      "Name": "Metnal Caes",
+      "Steam": "76561199867966423",
       "Score": 0,
       "Time": "??:??"
     }
