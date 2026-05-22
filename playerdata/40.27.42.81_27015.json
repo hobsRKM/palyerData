@@ -1,65 +1,71 @@
 {
-  "Time": "2026-05-22T19:52:00.7489255Z",
+  "Time": "2026-05-22T19:54:00.738262Z",
   "Players": [
     {
       "Name": "producing",
       "Steam": "76561199083355602",
-      "Score": 39,
-      "Time": "114:25"
+      "Score": 46,
+      "Time": "116:25"
+    },
+    {
+      "Name": "lukegod101",
+      "Steam": "76561198709676620",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 42,
-      "Time": "15:23"
+      "Score": 50,
+      "Time": "17:23"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 42,
-      "Time": "44:49"
+      "Score": 46,
+      "Time": "46:49"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 81,
-      "Time": "45:34"
+      "Score": 93,
+      "Time": "47:34"
     },
     {
-      "Name": "TempleW~re | triplet",
+      "Name": "Temple~are | triplet",
       "Steam": "76561198701323880",
-      "Score": 15,
-      "Time": "17:32"
-    },
-    {
-      "Name": "imNOTslash",
-      "Steam": "76561199805557263",
-      "Score": 77,
-      "Time": "18:57"
+      "Score": 20,
+      "Time": "19:32"
     },
     {
       "Name": "Riley123123",
       "Steam": "76561198958510175",
-      "Score": 16,
-      "Time": "03:17"
+      "Score": 22,
+      "Time": "05:17"
     },
     {
       "Name": "Кракен",
       "Steam": "76561199156395215",
-      "Score": 62,
-      "Time": "17:00"
+      "Score": 64,
+      "Time": "19:00"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 6,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Muhthias",
       "Steam": "76561198335633110",
-      "Score": 19,
+      "Score": 5,
       "Time": "??:??"
+    },
+    {
+      "Name": "i'm cool as biscuits",
+      "Steam": "76561199626903344",
+      "Score": 0,
+      "Time": "00:28"
     }
   ]
 }
