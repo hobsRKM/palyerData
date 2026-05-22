@@ -1,35 +1,47 @@
 {
-  "Time": "2026-05-22T22:10:00.746558Z",
+  "Time": "2026-05-22T22:12:00.7506095Z",
   "Players": [
     {
       "Name": "D-9",
       "Steam": "76561199836102517",
-      "Score": 11,
-      "Time": "45:34"
+      "Score": 14,
+      "Time": "47:34"
     },
     {
       "Name": "ouch!",
       "Steam": "76561198720954979",
-      "Score": 9,
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "XEREQUINHA.CS",
+      "Steam": "76561199223693541",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Zero",
       "Steam": "76561198969323273",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "sense",
       "Steam": "76561198343112799",
-      "Score": 12,
+      "Score": 26,
       "Time": "??:??"
+    },
+    {
+      "Name": "ASU Frat Leader",
+      "Steam": "76561198735704717",
+      "Score": 1,
+      "Time": "00:06"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 10,
-      "Time": "261:43"
+      "Score": 17,
+      "Time": "263:43"
     }
   ]
 }
