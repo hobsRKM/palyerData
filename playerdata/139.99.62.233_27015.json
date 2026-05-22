@@ -1,23 +1,35 @@
 {
-  "Time": "2026-05-22T14:05:38.1733826Z",
+  "Time": "2026-05-22T14:07:38.174201Z",
   "Players": [
+    {
+      "Name": "PIG",
+      "Steam": "76561199099722473",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "\uD835\uDC81",
       "Steam": "76561198824890960",
-      "Score": 57,
-      "Time": "25:19"
+      "Score": 60,
+      "Time": "27:19"
     },
     {
       "Name": "Kim Ha On",
       "Steam": "76561199747824672",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Ghostsniper",
       "Steam": "76561199590144260",
-      "Score": 10,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": ".gg/luminarygg",
+      "Steam": "76561199299129742",
+      "Score": 16,
+      "Time": "01:54"
     }
   ]
 }
