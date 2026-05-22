@@ -1,59 +1,47 @@
 {
-  "Time": "2026-05-22T21:54:00.7472367Z",
+  "Time": "2026-05-22T21:56:00.7535415Z",
   "Players": [
-    {
-      "Name": "lukegod101",
-      "Steam": "76561198709676620",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "D-9",
       "Steam": "76561199836102517",
-      "Score": 27,
-      "Time": "29:34"
+      "Score": 36,
+      "Time": "31:34"
     },
     {
       "Name": "Zero",
       "Steam": "76561198969323273",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "imNOTslash",
       "Steam": "76561199805557263",
-      "Score": 59,
-      "Time": "22:26"
+      "Score": 68,
+      "Time": "24:26"
     },
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 1,
-      "Time": "04:07"
-    },
-    {
-      "Name": "soda",
-      "Steam": "76561198786321609",
-      "Score": 16,
-      "Time": "??:??"
+      "Score": 3,
+      "Time": "06:07"
     },
     {
       "Name": "sense",
       "Steam": "76561198343112799",
-      "Score": 40,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "Muhthias",
       "Steam": "76561198335633110",
-      "Score": 7,
-      "Time": "06:11"
+      "Score": 11,
+      "Time": "08:11"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 19,
-      "Time": "245:43"
+      "Score": 25,
+      "Time": "247:43"
     }
   ]
 }
