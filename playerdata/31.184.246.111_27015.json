@@ -1,4 +1,41 @@
 {
-  "Time": "2026-05-22T20:30:02.8494791Z",
-  "Players": []
+  "Time": "2026-05-22T20:30:18.9396083Z",
+  "Players": [
+    {
+      "Name": "baviolie",
+      "Steam": "76561199060037081",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "thehonerdone",
+      "Steam": "76561198707941246",
+      "Score": 0,
+      "Time": "10:13"
+    },
+    {
+      "Name": "Lucas",
+      "Steam": "76561199216812245",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TROP",
+      "Steam": "76561198210114543",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fade",
+      "Steam": "76561198739021765",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "balenciagha",
+      "Steam": "76561198712608280",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
