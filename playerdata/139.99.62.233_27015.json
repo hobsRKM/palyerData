@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-22T14:37:38.1933937Z",
+  "Time": "2026-05-22T14:39:38.1979835Z",
   "Players": [
     {
       "Name": "MicroHard",
       "Steam": "76561199748240601",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "zaneni807",
       "Steam": "76561198700143415",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "bob",
       "Steam": "76561199810050156",
-      "Score": 63,
+      "Score": 67,
       "Time": "??:??"
+    },
+    {
+      "Name": "2 | .gg/luminarygg",
+      "Steam": "76561199415165447",
+      "Score": 0,
+      "Time": "00:09"
     },
     {
       "Name": ".gg/luminarygg",
       "Steam": "76561199299129742",
       "Score": 2,
-      "Time": "31:54"
+      "Time": "33:54"
     }
   ]
 }
