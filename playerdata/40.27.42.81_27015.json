@@ -1,8 +1,20 @@
 {
-  "Time": "2026-05-22T17:56:00.7455941Z",
+  "Time": "2026-05-22T17:58:00.736257Z",
   "Players": [
     {
-      "Name": "$$$$$$$$$$ | ieathumans",
+      "Name": "producing",
+      "Steam": "76561199083355602",
+      "Score": 6,
+      "Time": "00:25"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TempleWare | ieathumans",
       "Steam": "76561199141860067",
       "Score": 0,
       "Time": "??:??"
@@ -11,31 +23,31 @@
       "Name": "gamesense gas station worker",
       "Steam": "76561199453255014",
       "Score": 0,
-      "Time": "35:34"
+      "Time": "37:34"
     },
     {
       "Name": "Cummer",
       "Steam": "76561199446263993",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "L",
       "Steam": "76561199158419168",
-      "Score": 0,
-      "Time": "04:44"
+      "Score": 8,
+      "Time": "06:44"
     },
     {
       "Name": "get rich or die tryin",
       "Steam": "76561198418276580",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
-      "Name": "$$$$$$$$$$ | Twizzy",
+      "Name": "TempleWare | Twizzy",
       "Steam": "76561198984848627",
-      "Score": 0,
-      "Time": "03:34"
+      "Score": 4,
+      "Time": "05:34"
     }
   ]
 }
