@@ -1,47 +1,53 @@
 {
-  "Time": "2026-05-22T19:20:00.7403877Z",
+  "Time": "2026-05-22T19:22:00.7477377Z",
   "Players": [
     {
       "Name": "producing",
       "Steam": "76561199083355602",
-      "Score": 30,
-      "Time": "82:25"
+      "Score": 11,
+      "Time": "84:25"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 9,
-      "Time": "12:49"
+      "Score": 11,
+      "Time": "14:49"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 55,
-      "Time": "13:34"
+      "Score": 60,
+      "Time": "15:34"
     },
     {
-      "Name": "$$$$$$$$$$ | Unholyyyyyyyyy",
+      "Name": "$          | Unholyyyyyyyyy",
       "Steam": "76561199812367408",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "imNOTslash",
       "Steam": "76561199805557263",
-      "Score": 110,
-      "Time": "26:28"
+      "Score": 122,
+      "Time": "28:28"
+    },
+    {
+      "Name": "digitalangyl",
+      "Steam": "76561199138222831",
+      "Score": 25,
+      "Time": "01:29"
     },
     {
       "Name": "i'm cool as biscuits",
       "Steam": "76561199626903344",
-      "Score": 9,
-      "Time": "114:27"
+      "Score": 13,
+      "Time": "116:27"
     },
     {
       "Name": "Twizzy",
       "Steam": "76561198984848627",
-      "Score": 15,
-      "Time": "56:26"
+      "Score": 19,
+      "Time": "58:26"
     }
   ]
 }
