@@ -1,11 +1,17 @@
 {
-  "Time": "2026-05-22T20:02:00.7507866Z",
+  "Time": "2026-05-22T20:04:00.7415106Z",
   "Players": [
     {
       "Name": "producing",
       "Steam": "76561199083355602",
-      "Score": 60,
-      "Time": "124:25"
+      "Score": 64,
+      "Time": "126:25"
+    },
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 2,
+      "Time": "00:54"
     },
     {
       "Name": "lukegod101",
@@ -16,50 +22,44 @@
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 90,
-      "Time": "25:23"
+      "Score": 94,
+      "Time": "27:23"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 52,
-      "Time": "54:49"
+      "Score": 54,
+      "Time": "56:49"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 137,
-      "Time": "55:34"
-    },
-    {
-      "Name": "vdjf",
-      "Steam": "76561199179241072",
-      "Score": 5,
-      "Time": "??:??"
+      "Score": 143,
+      "Time": "57:34"
     },
     {
       "Name": "absolute гомикхвх",
       "Steam": "76561199806232223",
       "Score": 2,
-      "Time": "185:51"
+      "Time": "187:51"
     },
     {
-      "Name": "T~mpleWare | triplet",
+      "Name": "Templ~Ware | triplet",
       "Steam": "76561198701323880",
       "Score": 33,
-      "Time": "27:32"
+      "Time": "29:32"
     },
     {
       "Name": "Riley123123",
       "Steam": "76561198958510175",
-      "Score": 51,
-      "Time": "13:17"
+      "Score": 57,
+      "Time": "15:17"
     },
     {
       "Name": "Кракен",
       "Steam": "76561199156395215",
-      "Score": 91,
-      "Time": "27:00"
+      "Score": 103,
+      "Time": "29:00"
     },
     {
       "Name": "Aimware",
@@ -70,14 +70,14 @@
     {
       "Name": "Muhthias",
       "Steam": "76561198335633110",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "i'm cool as biscuits",
       "Steam": "76561199626903344",
-      "Score": 26,
-      "Time": "08:28"
+      "Score": 34,
+      "Time": "10:28"
     }
   ]
 }
