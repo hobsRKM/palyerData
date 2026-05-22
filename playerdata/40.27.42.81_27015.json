@@ -1,29 +1,41 @@
 {
-  "Time": "2026-05-22T16:56:00.7486273Z",
+  "Time": "2026-05-22T16:58:00.7382633Z",
   "Players": [
+    {
+      "Name": "yanrewatching",
+      "Steam": "76561198701366920",
+      "Score": 0,
+      "Time": "02:00"
+    },
     {
       "Name": "acryllic",
       "Steam": "76561199811991561",
-      "Score": 15,
-      "Time": "26:10"
+      "Score": 17,
+      "Time": "28:10"
     },
     {
       "Name": "deva",
       "Steam": "76561198710244304",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "gamesense.pub",
       "Steam": "76561198124357708",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 18,
-      "Time": "219:13"
+      "Score": 36,
+      "Time": "221:13"
+    },
+    {
+      "Name": "bad",
+      "Steam": "76561198281663381",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
