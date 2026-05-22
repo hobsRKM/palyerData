@@ -1,41 +1,41 @@
 {
-  "Time": "2026-05-22T20:34:18.9399429Z",
+  "Time": "2026-05-22T20:34:32.426244Z",
   "Players": [
     {
-      "Name": "baviolie",
-      "Steam": "76561199060037081",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bingo",
+      "Steam": "76561198700800070",
+      "Score": 34,
+      "Time": "32:25"
+    },
+    {
+      "Name": "draxy",
+      "Steam": "76561199823330532",
+      "Score": 4,
+      "Time": "02:04"
+    },
+    {
+      "Name": "Issei Hyoudou",
+      "Steam": "76561198718047956",
       "Score": 38,
       "Time": "??:??"
     },
     {
-      "Name": "thehonerdone",
-      "Steam": "76561198707941246",
-      "Score": 2,
-      "Time": "14:13"
-    },
-    {
-      "Name": "Lucas",
-      "Steam": "76561199216812245",
-      "Score": 32,
+      "Name": "Player 1",
+      "Steam": "76561199806449581",
+      "Score": 37,
       "Time": "??:??"
     },
     {
-      "Name": "TROP",
-      "Steam": "76561198210114543",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fade",
-      "Steam": "76561198739021765",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
-      "Name": "balenciagha",
-      "Steam": "76561198712608280",
-      "Score": 8,
-      "Time": "??:??"
+      "Name": "axure",
+      "Steam": "76561199136389558",
+      "Score": 38,
+      "Time": "360:54"
     }
   ]
 }
