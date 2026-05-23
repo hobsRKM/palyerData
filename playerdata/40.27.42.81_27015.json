@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-23T04:38:02.2013829Z",
+  "Time": "2026-05-23T04:40:02.2183608Z",
   "Players": [
+    {
+      "Name": "Abuss1ve 螿",
+      "Steam": "76561199876946685",
+      "Score": 0,
+      "Time": "648:04"
+    },
     {
       "Name": "king",
       "Steam": "76561198775750125",
-      "Score": 0,
-      "Time": "29:24"
+      "Score": 8,
+      "Time": "31:24"
     },
     {
       "Name": "spocony_rewolwerowiec",
       "Steam": "76561198727493310",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 0,
-      "Time": "26:35"
+      "Score": 6,
+      "Time": "28:35"
     }
   ]
 }
