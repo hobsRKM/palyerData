@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-23T11:40:15.518656Z",
+  "Time": "2026-05-23T11:42:15.6524587Z",
   "Players": [
+    {
+      "Name": "_Kabik_",
+      "Steam": "76561199450462214",
+      "Score": 13,
+      "Time": "00:40"
+    },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "275:56"
+      "Time": "277:57"
     },
     {
-      "Name": "areTempleW | :c",
+      "Name": "pleWareTem | :c",
       "Steam": "76561198746449723",
-      "Score": 88,
-      "Time": "25:04"
+      "Score": 94,
+      "Time": "27:04"
     },
     {
       "Name": "degen I #freedaguyz",
       "Steam": "76561199119969547",
-      "Score": 19,
-      "Time": "04:39"
+      "Score": 23,
+      "Time": "06:39"
     },
     {
       "Name": "thrift store firearm",
       "Steam": "76561199453255014",
-      "Score": 29,
-      "Time": "187:55"
+      "Score": 31,
+      "Time": "189:55"
     },
     {
       "Name": "digitalangyl",
       "Steam": "76561199138222831",
-      "Score": 12,
-      "Time": "07:49"
+      "Score": 18,
+      "Time": "09:49"
     }
   ]
 }
