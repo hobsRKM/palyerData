@@ -1,23 +1,35 @@
 {
-  "Time": "2026-05-23T04:28:02.109685Z",
+  "Time": "2026-05-23T04:30:02.1325815Z",
   "Players": [
+    {
+      "Name": "O ALQUIMISTA",
+      "Steam": "76561199857484182",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "king",
       "Steam": "76561198775750125",
-      "Score": 30,
-      "Time": "19:24"
+      "Score": 37,
+      "Time": "21:24"
+    },
+    {
+      "Name": "spocony_rewolwerowiec",
+      "Steam": "76561198727493310",
+      "Score": 1,
+      "Time": "??:??"
     },
     {
       "Name": "RethyP",
       "Steam": "76561199127550298",
-      "Score": 17,
-      "Time": "25:04"
+      "Score": 21,
+      "Time": "27:04"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 14,
-      "Time": "16:35"
+      "Score": 25,
+      "Time": "18:35"
     }
   ]
 }
