@@ -1,41 +1,41 @@
 {
-  "Time": "2026-05-23T13:26:23.6027676Z",
+  "Time": "2026-05-23T13:28:23.7811967Z",
   "Players": [
+    {
+      "Name": "ieathumans",
+      "Steam": "76561199141860067",
+      "Score": 18,
+      "Time": "01:50"
+    },
     {
       "Name": "Kappka",
       "Steam": "76561198160263576",
-      "Score": 37,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "jeff bezos",
       "Steam": "76561198700549091",
-      "Score": 17,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "382:05"
+      "Time": "384:05"
     },
     {
       "Name": "fvzm",
       "Steam": "76561198725127195",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 58,
-      "Time": "850:16"
-    },
-    {
-      "Name": "digitalangyl",
-      "Steam": "76561199138222831",
-      "Score": 34,
-      "Time": "113:57"
+      "Score": 66,
+      "Time": "852:16"
     }
   ]
 }
