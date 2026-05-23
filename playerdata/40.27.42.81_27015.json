@@ -1,29 +1,29 @@
 {
-  "Time": "2026-05-23T02:12:01.040015Z",
+  "Time": "2026-05-23T02:14:01.0612623Z",
   "Players": [
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 10,
+      "Time": "01:55"
+    },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 11,
-      "Time": "50:06"
+      "Score": 0,
+      "Time": "52:06"
     },
     {
       "Name": "[]",
       "Steam": "76561199805557263",
-      "Score": 42,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Yeat",
-      "Steam": "76561199049807914",
-      "Score": 0,
-      "Time": "00:15"
+      "Score": 47,
+      "Time": "00:34"
     },
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 13,
-      "Time": "03:32"
+      "Score": 0,
+      "Time": "05:32"
     },
     {
       "Name": "No0ne",
@@ -34,26 +34,26 @@
     {
       "Name": "\uD835\uDD3E\uD835\uDD4A ɢᴇʀᴀʟᴅ",
       "Steam": "76561199827331481",
-      "Score": 1,
+      "Score": 15,
       "Time": "??:??"
+    },
+    {
+      "Name": "hi",
+      "Steam": "76561199277473853",
+      "Score": 0,
+      "Time": "00:07"
     },
     {
       "Name": "thrift store firearm",
       "Steam": "76561199453255014",
-      "Score": 10,
-      "Time": "269:51"
+      "Score": 17,
+      "Time": "271:51"
     },
     {
       "Name": "yolo.cc v9",
       "Steam": "76561198719943792",
-      "Score": 53,
-      "Time": "51:48"
-    },
-    {
-      "Name": "Curby",
-      "Steam": "76561198369113089",
-      "Score": 23,
-      "Time": "??:??"
+      "Score": 57,
+      "Time": "53:48"
     }
   ]
 }
