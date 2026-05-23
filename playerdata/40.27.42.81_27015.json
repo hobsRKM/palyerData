@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-23T08:06:06.533498Z",
+  "Time": "2026-05-23T08:08:06.5859192Z",
   "Players": [
+    {
+      "Name": "BRZ_EZ",
+      "Steam": "76561199506562573",
+      "Score": 1,
+      "Time": "01:57"
+    },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 13,
-      "Time": "61:47"
+      "Score": 0,
+      "Time": "63:47"
     },
     {
       "Name": "Twizzy",
       "Steam": "76561198984848627",
-      "Score": 12,
-      "Time": "573:18"
+      "Score": 2,
+      "Time": "575:18"
     },
     {
       "Name": "memesense detected",
@@ -22,26 +28,20 @@
     {
       "Name": "urn",
       "Steam": "76561198791701298",
-      "Score": 65,
-      "Time": "??:??"
-    },
-    {
-      "Name": "adam",
-      "Steam": "76561199187190389",
-      "Score": 136,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "mOnOL1th USER",
       "Steam": "76561198719943792",
-      "Score": 97,
-      "Time": "40:22"
+      "Score": 6,
+      "Time": "42:22"
     },
     {
       "Name": "digitalangyl",
       "Steam": "76561199138222831",
-      "Score": 29,
-      "Time": "14:28"
+      "Score": 0,
+      "Time": "16:28"
     }
   ]
 }
