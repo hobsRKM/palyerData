@@ -1,47 +1,53 @@
 {
-  "Time": "2026-05-23T12:20:18.3695397Z",
+  "Time": "2026-05-23T12:22:18.5088285Z",
   "Players": [
+    {
+      "Name": "Kappka",
+      "Steam": "76561198160263576",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "315:59"
+      "Time": "317:59"
     },
     {
-      "Name": "TempleW~re | :c",
+      "Name": "Temple~are | :c",
       "Steam": "76561198746449723",
-      "Score": 0,
-      "Time": "65:07"
+      "Score": 6,
+      "Time": "67:07"
     },
     {
       "Name": "Twizzy",
       "Steam": "76561198984848627",
-      "Score": 0,
-      "Time": "07:56"
+      "Score": 4,
+      "Time": "09:56"
     },
     {
       "Name": "Song",
       "Steam": "76561198368385713",
-      "Score": 0,
-      "Time": "17:56"
+      "Score": 5,
+      "Time": "19:56"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 0,
-      "Time": "230:01"
+      "Score": 7,
+      "Time": "232:02"
     },
     {
       "Name": "soundchriss ᵛᵃᶜ",
       "Steam": "76561199120822027",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "digitalangyl",
       "Steam": "76561199138222831",
-      "Score": 0,
-      "Time": "47:52"
+      "Score": 5,
+      "Time": "49:52"
     }
   ]
 }
