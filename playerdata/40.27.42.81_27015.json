@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-23T08:20:06.8530733Z",
+  "Time": "2026-05-23T08:22:06.9262648Z",
   "Players": [
     {
       "Name": "BRZ_EZ",
       "Steam": "76561199506562573",
-      "Score": 9,
-      "Time": "07:51"
+      "Score": 10,
+      "Time": "09:51"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "75:48"
+      "Time": "77:48"
     },
     {
       "Name": "memesense detected",
       "Steam": "76561198700127361",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "uid2digitos",
       "Steam": "76561199611206674",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
+    },
+    {
+      "Name": "person",
+      "Steam": "76561198706704241",
+      "Score": 0,
+      "Time": "00:35"
     }
   ]
 }
