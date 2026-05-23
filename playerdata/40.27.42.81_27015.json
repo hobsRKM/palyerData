@@ -1,59 +1,53 @@
 {
-  "Time": "2026-05-23T01:24:00.9435889Z",
+  "Time": "2026-05-23T01:26:00.9476188Z",
   "Players": [
+    {
+      "Name": "lzx",
+      "Steam": "76561199834410706",
+      "Score": 0,
+      "Time": "00:07"
+    },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
       "Score": 1,
-      "Time": "02:06"
+      "Time": "04:06"
     },
     {
       "Name": "afishwithtoes",
       "Steam": "76561198698271134",
-      "Score": 28,
+      "Score": 32,
       "Time": "??:??"
     },
     {
-      "Name": "XEREQUINHA.CS",
-      "Steam": "76561199223693541",
-      "Score": 26,
-      "Time": "??:??"
-    },
-    {
-      "Name": "$$$$$$$$$$ | new to hvh",
+      "Name": "TempleWare | new to hvh",
       "Steam": "76561198710959275",
       "Score": 9,
-      "Time": "05:50"
-    },
-    {
-      "Name": "Caliper",
-      "Steam": "76561199116677773",
-      "Score": 3,
-      "Time": "05:58"
+      "Time": "07:50"
     },
     {
       "Name": "\uD835\uDD3E\uD835\uDD4A ɢᴇʀᴀʟᴅ",
       "Steam": "76561199827331481",
-      "Score": 18,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "thrift store firearm",
       "Steam": "76561199453255014",
-      "Score": 61,
-      "Time": "221:51"
+      "Score": 71,
+      "Time": "223:51"
     },
     {
       "Name": "king",
       "Steam": "76561198772659643",
-      "Score": 6,
-      "Time": "00:53"
+      "Score": 8,
+      "Time": "02:53"
     },
     {
       "Name": "yolo.cc v9",
       "Steam": "76561198719943792",
-      "Score": 59,
-      "Time": "03:47"
+      "Score": 76,
+      "Time": "05:48"
     }
   ]
 }
