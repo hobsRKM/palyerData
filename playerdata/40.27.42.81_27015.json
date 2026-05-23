@@ -1,29 +1,41 @@
 {
-  "Time": "2026-05-23T00:32:00.9178178Z",
+  "Time": "2026-05-23T00:34:00.9206242Z",
   "Players": [
+    {
+      "Name": "Rei Ayanami",
+      "Steam": "76561198700555285",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "afishwithtoes",
+      "Steam": "76561198698271134",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "XEREQUINHA.CS",
       "Steam": "76561199223693541",
-      "Score": 21,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 20,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "yumi",
       "Steam": "76561199046729208",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Caliper",
       "Steam": "76561199116677773",
-      "Score": 12,
-      "Time": "184:47"
+      "Score": 19,
+      "Time": "186:47"
     }
   ]
 }
