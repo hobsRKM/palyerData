@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-23T01:14:00.944021Z",
+  "Time": "2026-05-23T01:16:00.9486105Z",
   "Players": [
+    {
+      "Name": "lzx",
+      "Steam": "76561199834410706",
+      "Score": 0,
+      "Time": "157:38"
+    },
     {
       "Name": "Rei Ayanami",
       "Steam": "76561198700555285",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "afishwithtoes",
       "Steam": "76561198698271134",
-      "Score": 3,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "XEREQUINHA.CS",
       "Steam": "76561199223693541",
-      "Score": 7,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "thrift store firearm",
       "Steam": "76561199453255014",
-      "Score": 6,
-      "Time": "211:51"
+      "Score": 28,
+      "Time": "213:51"
     },
     {
       "Name": "happy",
       "Steam": "76561198719943792",
-      "Score": 3,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "digitalangyl",
       "Steam": "76561199138222831",
-      "Score": 8,
-      "Time": "15:05"
+      "Score": 12,
+      "Time": "17:05"
     }
   ]
 }
