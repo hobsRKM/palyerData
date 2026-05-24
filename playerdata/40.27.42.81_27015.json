@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-24T17:05:59.5535614Z",
+  "Time": "2026-05-24T17:07:59.5440413Z",
   "Players": [
+    {
+      "Name": "digitalangyl",
+      "Steam": "76561199138222831",
+      "Score": 0,
+      "Time": "00:51"
+    },
     {
       "Name": "sense",
       "Steam": "76561198343112799",
-      "Score": 24,
-      "Time": "05:21"
+      "Score": 32,
+      "Time": "07:21"
     },
     {
       "Name": "[]",
       "Steam": "76561199805557263",
-      "Score": 86,
-      "Time": "12:42"
+      "Score": 91,
+      "Time": "14:42"
     },
     {
       "Name": "Mr.Nugget",
@@ -22,13 +28,13 @@
     {
       "Name": "uknow69ud",
       "Steam": "76561198717925363",
-      "Score": 22,
-      "Time": "345:15"
+      "Score": 30,
+      "Time": "347:15"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
