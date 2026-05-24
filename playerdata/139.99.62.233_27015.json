@@ -1,52 +1,70 @@
 {
-  "Time": "2026-05-24T12:21:19.6176033Z",
+  "Time": "2026-05-24T12:23:19.670375Z",
   "Players": [
+    {
+      "Name": "CottonKisses",
+      "Steam": "76561198030015809",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "17before",
       "Steam": "76561199780856796",
-      "Score": 34,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bob",
+      "Steam": "76561199810050156",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "SORA",
       "Steam": "76561199262642854",
-      "Score": 8,
-      "Time": "04:38"
+      "Score": 14,
+      "Time": "06:38"
     },
     {
       "Name": "Fatal.win",
       "Steam": "76561199711461791",
-      "Score": 23,
-      "Time": "23:05"
+      "Score": 33,
+      "Time": "25:05"
     },
     {
       "Name": "nguyen soc dua",
       "Steam": "76561198703671978",
-      "Score": 10,
-      "Time": "03:08"
+      "Score": 13,
+      "Time": "05:08"
     },
     {
       "Name": "NRG|Demon1",
       "Steam": "76561199836534466",
-      "Score": 13,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sambrutlex",
+      "Steam": "76561198701232425",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Hi",
       "Steam": "76561199791221234",
-      "Score": 6,
-      "Time": "32:20"
+      "Score": 10,
+      "Time": "34:20"
     },
     {
       "Name": "alihka13444",
       "Steam": "76561198713096457",
       "Score": 4,
-      "Time": "03:59"
+      "Time": "05:59"
     },
     {
       "Name": "SiLxnZer",
       "Steam": "76561199002500021",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
