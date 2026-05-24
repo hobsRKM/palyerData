@@ -1,32 +1,44 @@
 {
-  "Time": "2026-05-24T16:59:59.5421631Z",
+  "Time": "2026-05-24T17:01:59.5389974Z",
   "Players": [
+    {
+      "Name": "sense",
+      "Steam": "76561198343112799",
+      "Score": 6,
+      "Time": "01:21"
+    },
     {
       "Name": "wqeq",
       "Steam": "76561198702785803",
-      "Score": 6,
-      "Time": "52:44"
+      "Score": 9,
+      "Time": "54:44"
     },
     {
       "Name": "[]",
       "Steam": "76561199805557263",
-      "Score": 58,
-      "Time": "06:42"
+      "Score": 66,
+      "Time": "08:42"
+    },
+    {
+      "Name": "[Monolith] ZynChino",
+      "Steam": "76561199066743884",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "uknow69ud",
       "Steam": "76561198717925363",
       "Score": 10,
-      "Time": "339:15"
+      "Time": "341:15"
     },
     {
       "Name": "pusheaxret",
       "Steam": "76561198782287736",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "[Mon] xanax",
+      "Name": "blazin",
       "Steam": "76561198262898794",
       "Score": 0,
       "Time": "??:??"
@@ -34,8 +46,8 @@
     {
       "Name": "Evo 2Slimey",
       "Steam": "76561198119792007",
-      "Score": 33,
-      "Time": "19:13"
+      "Score": 35,
+      "Time": "21:13"
     }
   ]
 }
