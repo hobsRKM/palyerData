@@ -1,40 +1,40 @@
 {
-  "Time": "2026-05-24T04:07:17.2543909Z",
+  "Time": "2026-05-24T04:09:17.2595809Z",
   "Players": [
+    {
+      "Name": "K03",
+      "Steam": "76561199788609972",
+      "Score": 2,
+      "Time": "00:52"
+    },
     {
       "Name": "ezmappa",
       "Steam": "76561199671724357",
-      "Score": 145,
-      "Time": "15:33"
+      "Score": 3,
+      "Time": "17:33"
     },
     {
       "Name": "ezmappa",
       "Steam": "76561198747986663",
-      "Score": 133,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Riyal Or Fake",
       "Steam": "76561198701515916",
-      "Score": 46,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "ezmappa",
-      "Steam": "76561198747878982",
-      "Score": 11,
-      "Time": "62:04"
     },
     {
       "Name": "?????",
       "Steam": "76561199865563018",
-      "Score": 81,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Neo",
       "Steam": "76561199808928969",
-      "Score": 74,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
