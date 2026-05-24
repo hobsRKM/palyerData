@@ -1,77 +1,47 @@
 {
-  "Time": "2026-05-24T20:46:19.9497151Z",
+  "Time": "2026-05-24T20:46:21.9710871Z",
   "Players": [
     {
-      "Name": "kaziu",
-      "Steam": "76561198315602541",
+      "Name": "def not lony",
+      "Steam": "76561199855123867",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "forna",
+      "Steam": "76561199079811625",
       "Score": 7,
+      "Time": "462:54"
+    },
+    {
+      "Name": "jai",
+      "Steam": "76561199605640131",
+      "Score": 19,
       "Time": "??:??"
     },
     {
-      "Name": "angel",
-      "Steam": "76561199798812373",
-      "Score": 54,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Zoli",
-      "Steam": "76561198733842354",
-      "Score": 0,
-      "Time": "343:47"
-    },
-    {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "◣_◢ nevershoot ◣_◢",
-      "Steam": "76561198703436589",
+      "Name": "Dez",
+      "Steam": "76561199181342269",
       "Score": 43,
+      "Time": "311:53"
+    },
+    {
+      "Name": "Danob",
+      "Steam": "76561198722127737",
+      "Score": 36,
+      "Time": "49:54"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Blank",
-      "Steam": "76561199396651185",
-      "Score": 5,
+      "Name": "timisoreana",
+      "Steam": "76561198724314763",
+      "Score": 10,
       "Time": "??:??"
-    },
-    {
-      "Name": "AIMCEL",
-      "Steam": "76561198751982748",
-      "Score": 82,
-      "Time": "??:??"
-    },
-    {
-      "Name": "punchmade",
-      "Steam": "76561199521424333",
-      "Score": 25,
-      "Time": "16:52"
-    },
-    {
-      "Name": "Asyric",
-      "Steam": "76561198988114604",
-      "Score": 16,
-      "Time": "558:50"
-    },
-    {
-      "Name": "Marek",
-      "Steam": "76561199835357684",
-      "Score": 53,
-      "Time": "16:44"
-    },
-    {
-      "Name": "lis",
-      "Steam": "76561198873163226",
-      "Score": 5,
-      "Time": "13:52"
-    },
-    {
-      "Name": "dxcoy",
-      "Steam": "76561199841956078",
-      "Score": 1,
-      "Time": "745:50"
     }
   ]
 }
