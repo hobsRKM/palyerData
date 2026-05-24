@@ -1,41 +1,77 @@
 {
-  "Time": "2026-05-24T19:00:19.9583228Z",
+  "Time": "2026-05-24T19:00:21.9762514Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "\uD835\uDD41\uD835\uDD52\uD835\uDD6A",
+      "Steam": "76561198741244592",
+      "Score": 7,
+      "Time": "641:50"
+    },
+    {
+      "Name": "testing NL nightly",
+      "Steam": "76561198720362972",
+      "Score": 32,
+      "Time": "77:24"
+    },
+    {
+      "Name": "a paradise for my fairytail",
+      "Steam": "76561199420078405",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "angel",
+      "Steam": "76561199798812373",
+      "Score": 0,
+      "Time": "49:58"
+    },
+    {
+      "Name": "M4A1_i_Wpierdol",
+      "Steam": "76561199133584383",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Enz0",
-      "Steam": "76561198708659966",
-      "Score": 49,
-      "Time": "11:02"
+      "Name": "Danob",
+      "Steam": "76561198722127737",
+      "Score": 0,
+      "Time": "60:09"
     },
     {
-      "Name": "yi339037",
-      "Steam": "76561198758299086",
-      "Score": 22,
-      "Time": "20:47"
-    },
-    {
-      "Name": "Love Letter To My Ex",
-      "Steam": "76561198764733323",
-      "Score": 4,
-      "Time": "181:00"
-    },
-    {
-      "Name": "hocus pocus",
-      "Steam": "76561199888197236",
-      "Score": 94,
+      "Name": "kuba",
+      "Steam": "76561198173161633",
+      "Score": 21,
       "Time": "??:??"
     },
     {
-      "Name": "m0i",
-      "Steam": "76561198758778362",
+      "Name": "lis",
+      "Steam": "76561198873163226",
+      "Score": 1,
+      "Time": "30:28"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
       "Score": 0,
-      "Time": "03:31"
+      "Time": "??:??"
+    },
+    {
+      "Name": "possibly fake bakom",
+      "Steam": "76561199404381221",
+      "Score": 6,
+      "Time": "97:16"
+    },
+    {
+      "Name": "ulguberg",
+      "Steam": "76561198871985269",
+      "Score": 5,
+      "Time": "12:46"
+    },
+    {
+      "Name": "flxpt",
+      "Steam": "76561199433836904",
+      "Score": 6,
+      "Time": "00:34"
     }
   ]
 }
