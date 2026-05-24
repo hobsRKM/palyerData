@@ -1,41 +1,53 @@
 {
-  "Time": "2026-05-24T19:52:19.9464821Z",
+  "Time": "2026-05-24T19:52:21.9752104Z",
   "Players": [
     {
-      "Name": "xlax",
-      "Steam": "76561198781868324",
-      "Score": 8,
+      "Name": "nostalgia",
+      "Steam": "76561199278769848",
+      "Score": 13,
+      "Time": "50:15"
+    },
+    {
+      "Name": "london nights",
+      "Steam": "76561199690652397",
+      "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Wish",
+      "Steam": "76561198711442203",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "641:33"
     },
     {
-      "Name": "Keko ft",
-      "Steam": "76561199485854808",
-      "Score": 22,
-      "Time": "215:45"
-    },
-    {
-      "Name": "punchmade",
-      "Steam": "76561199521424333",
+      "Name": "DOOM",
+      "Steam": "76561199050013204",
       "Score": 18,
-      "Time": "05:08"
+      "Time": "182:26"
     },
     {
-      "Name": "Marek",
-      "Steam": "76561199835357684",
-      "Score": 23,
-      "Time": "??:??"
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 10,
+      "Time": "325:50"
     },
     {
-      "Name": "SlickDaddy",
-      "Steam": "76561198861973580",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "d1ngle",
+      "Steam": "76561199853360339",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "atte",
+      "Steam": "76561198960818392",
+      "Score": 3,
+      "Time": "187:01"
     }
   ]
 }
