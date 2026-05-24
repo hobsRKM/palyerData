@@ -1,11 +1,17 @@
 {
-  "Time": "2026-05-24T20:43:53.9534788Z",
+  "Time": "2026-05-24T20:45:54.1061941Z",
   "Players": [
+    {
+      "Name": "sLaxx HvH",
+      "Steam": "76561198699992360",
+      "Score": 30,
+      "Time": "01:13"
+    },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 90,
-      "Time": "157:04"
+      "Score": 92,
+      "Time": "159:04"
     },
     {
       "Name": "\uD835\uDCF5\uD835\uDCF8\uD835\uDCF7\uD835\uDCF5\uD835\uDD02",
@@ -22,14 +28,14 @@
     {
       "Name": "alihka13444",
       "Steam": "76561198713096457",
-      "Score": 33,
-      "Time": "14:27"
+      "Score": 39,
+      "Time": "16:27"
     },
     {
       "Name": "SiLxnZer",
       "Steam": "76561199002500021",
-      "Score": 44,
-      "Time": "70:26"
+      "Score": 54,
+      "Time": "72:26"
     }
   ]
 }
