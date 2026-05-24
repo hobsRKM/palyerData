@@ -1,4 +1,41 @@
 {
-  "Time": "2026-05-24T12:09:51.3892466Z",
-  "Players": []
+  "Time": "2026-05-24T12:10:19.9489064Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nanopaladinveil2049",
+      "Steam": "76561198728948339",
+      "Score": 6,
+      "Time": "68:12"
+    },
+    {
+      "Name": "punchmade",
+      "Steam": "76561199521424333",
+      "Score": 6,
+      "Time": "03:09"
+    },
+    {
+      "Name": "uraganasm1",
+      "Steam": "76561198703881590",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "flxpt",
+      "Steam": "76561199433836904",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jewage",
+      "Steam": "76561198727618730",
+      "Score": 5,
+      "Time": "36:10"
+    }
+  ]
 }
