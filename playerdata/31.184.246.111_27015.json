@@ -1,4 +1,41 @@
 {
-  "Time": "2026-05-24T09:39:51.4020696Z",
-  "Players": []
+  "Time": "2026-05-24T09:40:19.9498432Z",
+  "Players": [
+    {
+      "Name": "qq",
+      "Steam": "76561198707104373",
+      "Score": 21,
+      "Time": "30:58"
+    },
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nanopaladinveil2049",
+      "Steam": "76561198728948339",
+      "Score": 55,
+      "Time": "??:??"
+    },
+    {
+      "Name": "prince of ping",
+      "Steam": "76561199888214382",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vahukomm",
+      "Steam": "76561199617023183",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Enthusiastic",
+      "Steam": "76561199825732371",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
