@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-24T21:29:58.7608863Z",
+  "Time": "2026-05-24T21:31:59.1633614Z",
   "Players": [
+    {
+      "Name": "lylaa",
+      "Steam": "76561199783489133",
+      "Score": 0,
+      "Time": "01:22"
+    },
     {
       "Name": "Trash",
       "Steam": "76561198702785803",
-      "Score": 33,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "nothim",
       "Steam": "76561198701079343",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "wqeq",
       "Steam": "76561198336589898",
-      "Score": 71,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "SiLxnZer",
       "Steam": "76561199002500021",
-      "Score": 22,
-      "Time": "08:08"
+      "Score": 0,
+      "Time": "10:08"
     }
   ]
 }
