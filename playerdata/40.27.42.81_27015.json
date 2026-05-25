@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-25T01:03:59.5983156Z",
+  "Time": "2026-05-25T01:05:59.6299586Z",
   "Players": [
     {
       "Name": "水思维",
       "Steam": "76561198772659643",
-      "Score": 12,
-      "Time": "68:01"
+      "Score": 16,
+      "Time": "70:01"
     },
     {
       "Name": "+",
       "Steam": "76561199882623484",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "yutaisgoated",
+      "Steam": "76561198705103193",
+      "Score": 0,
+      "Time": "01:25"
     },
     {
       "Name": "person",
       "Steam": "76561198728380405",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 0,
-      "Time": "261:45"
+      "Score": 2,
+      "Time": "263:45"
     },
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 6,
-      "Time": "08:16"
+      "Score": 19,
+      "Time": "10:16"
     }
   ]
 }
