@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-25T07:42:10.0608117Z",
+  "Time": "2026-05-25T07:44:10.187144Z",
   "Players": [
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 80,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "Grandma Got A Gyatt",
       "Steam": "76561199871193421",
+      "Score": 2,
+      "Time": "451:55"
+    },
+    {
+      "Name": "urn",
+      "Steam": "76561198791701298",
       "Score": 0,
-      "Time": "449:55"
+      "Time": "??:??"
     },
     {
       "Name": "flar",
       "Steam": "76561198710300970",
-      "Score": 48,
-      "Time": "189:54"
+      "Score": 54,
+      "Time": "191:55"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 3,
+      "Time": "01:51"
     },
     {
       "Name": "martini♡  ≽^•⩊•^≼",
       "Steam": "76561198700071912",
       "Score": 21,
-      "Time": "132:47"
+      "Time": "134:47"
     },
     {
       "Name": "OhManIdied",
       "Steam": "76561199170732916",
-      "Score": 25,
-      "Time": "15:04"
-    },
-    {
-      "Name": "FEMBOY RIZZ",
-      "Steam": "76561199050134887",
-      "Score": 78,
-      "Time": "??:??"
+      "Score": 33,
+      "Time": "17:05"
     }
   ]
 }
