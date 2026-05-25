@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-25T11:26:25.2589952Z",
+  "Time": "2026-05-25T11:28:25.4369557Z",
   "Players": [
+    {
+      "Name": "Yuri_Tarted",
+      "Steam": "76561199771848888",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Lypegx",
       "Steam": "76561199068502372",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "ffffffffffffffffffffffffffffff",
       "Steam": "76561199589867580",
-      "Score": 2,
-      "Time": "13:39"
+      "Score": 6,
+      "Time": "15:39"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
       "Score": 1,
-      "Time": "13:17"
+      "Time": "15:17"
     },
     {
       "Name": "nevv",
       "Steam": "76561198831187015",
-      "Score": 0,
-      "Time": "31:28"
+      "Score": 10,
+      "Time": "33:28"
     },
     {
       "Name": "wock",
       "Steam": "76561198864793756",
-      "Score": 6,
-      "Time": "30:13"
+      "Score": 17,
+      "Time": "32:13"
     }
   ]
 }
