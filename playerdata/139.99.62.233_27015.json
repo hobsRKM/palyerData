@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-25T16:31:13.8498813Z",
+  "Time": "2026-05-25T16:33:13.8901403Z",
   "Players": [
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 99,
+      "Score": 109,
       "Time": "??:??"
     },
     {
       "Name": "Annie Nguyen",
       "Steam": "76561199201026187",
-      "Score": 51,
-      "Time": "10:36"
+      "Score": 52,
+      "Time": "12:36"
     },
     {
       "Name": "Punto cL | PAWCIO",
       "Steam": "76561199215193432",
-      "Score": 45,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "空悲切",
       "Steam": "76561199848758106",
       "Score": 22,
-      "Time": "24:24"
+      "Time": "26:24"
+    },
+    {
+      "Name": "In jenem Winter verlor ich dich",
+      "Steam": "76561199060922164",
+      "Score": 0,
+      "Time": "01:22"
     },
     {
       "Name": "farzad",
       "Steam": "76561199125848795",
-      "Score": 41,
-      "Time": "26:36"
+      "Score": 43,
+      "Time": "28:36"
     }
   ]
 }
