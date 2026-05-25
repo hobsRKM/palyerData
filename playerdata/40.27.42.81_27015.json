@@ -1,35 +1,53 @@
 {
-  "Time": "2026-05-25T04:08:01.7833114Z",
+  "Time": "2026-05-25T04:10:01.8019699Z",
   "Players": [
+    {
+      "Name": "1337",
+      "Steam": "76561198746548001",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "水思维",
       "Steam": "76561198772659643",
       "Score": 2,
-      "Time": "32:10"
+      "Time": "34:10"
+    },
+    {
+      "Name": "send feet  picks",
+      "Steam": "76561198024285728",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "The Neutron Style",
+      "Steam": "76561199152231278",
+      "Score": 6,
+      "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 16,
-      "Time": "78:00"
+      "Score": 25,
+      "Time": "80:00"
     },
     {
       "Name": "jaeychino",
       "Steam": "76561198722865548",
-      "Score": 28,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "Joc",
       "Steam": "76561199122244650",
-      "Score": 27,
-      "Time": "616:01"
+      "Score": 31,
+      "Time": "618:01"
     },
     {
       "Name": "is that a jew?",
       "Steam": "76561199411523950",
-      "Score": 2,
-      "Time": "07:03"
+      "Score": 5,
+      "Time": "09:03"
     }
   ]
 }
