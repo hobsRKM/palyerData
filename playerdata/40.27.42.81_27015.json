@@ -1,10 +1,10 @@
 {
-  "Time": "2026-05-25T14:18:38.0622267Z",
+  "Time": "2026-05-25T14:20:38.3131732Z",
   "Players": [
     {
       "Name": "producing",
       "Steam": "76561199083355602",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
     },
     {
@@ -16,26 +16,32 @@
     {
       "Name": "Klassist",
       "Steam": "76561198704607995",
-      "Score": 4,
-      "Time": "01:16"
+      "Score": 9,
+      "Time": "03:17"
     },
     {
       "Name": "LordCota...",
       "Steam": "76561199677683650",
-      "Score": 10,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "NL",
       "Steam": "76561198343112799",
-      "Score": 45,
-      "Time": "76:02"
+      "Score": 47,
+      "Time": "78:02"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 37,
-      "Time": "661:04"
+      "Score": 49,
+      "Time": "663:05"
+    },
+    {
+      "Name": "Another",
+      "Steam": "76561198752883509",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
