@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-25T08:08:11.6675521Z",
+  "Time": "2026-05-25T08:10:11.7882842Z",
   "Players": [
     {
       "Name": "Reiko",
       "Steam": "76561197996616313",
-      "Score": 61,
+      "Score": 65,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Monica",
+      "Steam": "76561198735615192",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Grandma Got A Gyatt",
       "Steam": "76561199871193421",
-      "Score": 27,
-      "Time": "16:50"
+      "Score": 31,
+      "Time": "18:50"
     },
     {
       "Name": "66 ping is so much",
       "Steam": "76561199482354544",
-      "Score": 8,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "urn",
       "Steam": "76561198791701298",
-      "Score": 86,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "flar",
       "Steam": "76561198710300970",
-      "Score": 25,
-      "Time": "02:40"
+      "Score": 26,
+      "Time": "04:40"
     },
     {
       "Name": "martini♡  ≽^•⩊•^≼",
       "Steam": "76561198700071912",
       "Score": 19,
-      "Time": "158:48"
+      "Time": "160:48"
     }
   ]
 }
