@@ -1,76 +1,82 @@
 {
-  "Time": "2026-05-25T01:40:00.0110391Z",
+  "Time": "2026-05-25T01:42:00.057555Z",
   "Players": [
+    {
+      "Name": "flar",
+      "Steam": "76561198710300970",
+      "Score": 4,
+      "Time": "00:24"
+    },
     {
       "Name": "nrv",
       "Steam": "76561198166519466",
-      "Score": 30,
-      "Time": "518:41"
+      "Score": 39,
+      "Time": "520:41"
     },
     {
       "Name": "Muhthias",
       "Steam": "76561198335633110",
-      "Score": 9,
-      "Time": "04:12"
+      "Score": 10,
+      "Time": "06:12"
     },
     {
       "Name": "bafora",
       "Steam": "76561199830024313",
-      "Score": 7,
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "epic baimer | muggy",
+      "Steam": "76561198715889167",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ASAP DORSZ",
+      "Steam": "76561199265753570",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "+",
       "Steam": "76561199882623484",
-      "Score": 10,
+      "Score": 13,
       "Time": "??:??"
     },
     {
-      "Name": "cat with strap",
-      "Steam": "76561198697716877",
-      "Score": 6,
-      "Time": "03:10"
-    },
-    {
-      "Name": "get rich or die tryin",
-      "Steam": "76561198864793756",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "MrPaw",
-      "Steam": "76561199046204811",
+      "Name": "Iron\uD83D\uDCA4",
+      "Steam": "76561198872723460",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "True Talent Hidden Within Opsec.",
-      "Steam": "76561199580355122",
-      "Score": 4,
-      "Time": "20:24"
+      "Name": "get rich or die tryin",
+      "Steam": "76561198864793756",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "martini♡  ≽^•⩊•^≼",
       "Steam": "76561198700071912",
-      "Score": 19,
-      "Time": "336:56"
+      "Score": 31,
+      "Time": "338:56"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 26,
-      "Time": "13:59"
+      "Score": 30,
+      "Time": "15:59"
     },
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 21,
-      "Time": "44:16"
+      "Score": 25,
+      "Time": "46:16"
     },
     {
       "Name": "TEXAS ROADHOUSE 10X CHAMPION",
       "Steam": "76561198843984436",
-      "Score": 21,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
