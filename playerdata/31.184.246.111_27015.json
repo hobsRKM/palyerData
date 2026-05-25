@@ -1,11 +1,47 @@
 {
-  "Time": "2026-05-25T07:33:33.3751785Z",
+  "Time": "2026-05-25T07:34:19.9504263Z",
   "Players": [
     {
-      "Name": "Retard",
-      "Steam": "76561198702897614",
+      "Name": "Barber",
+      "Steam": "76561199610984176",
+      "Score": 4,
+      "Time": "01:11"
+    },
+    {
+      "Name": "neverlose fix your resolver",
+      "Steam": "76561198699100288",
+      "Score": 8,
+      "Time": "11:22"
+    },
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "W",
+      "Steam": "76561198407087773",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dikilord",
+      "Steam": "76561198286612643",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "edelweiss",
+      "Steam": "76561199266122963",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wave",
+      "Steam": "76561199737816918",
+      "Score": 25,
+      "Time": "07:23"
     }
   ]
 }
