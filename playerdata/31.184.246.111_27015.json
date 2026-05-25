@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-25T07:37:33.3745904Z",
-  "Players": []
+  "Time": "2026-05-25T07:38:19.9480457Z",
+  "Players": [
+    {
+      "Name": "neverlose fix your resolver",
+      "Steam": "76561198699100288",
+      "Score": 13,
+      "Time": "15:22"
+    },
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dikilord",
+      "Steam": "76561198286612643",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "edelweiss",
+      "Steam": "76561199266122963",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wave",
+      "Steam": "76561199737816918",
+      "Score": 50,
+      "Time": "11:23"
+    }
+  ]
 }
