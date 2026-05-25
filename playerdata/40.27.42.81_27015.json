@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-25T12:20:28.9719796Z",
+  "Time": "2026-05-25T12:22:29.1691073Z",
   "Players": [
+    {
+      "Name": "w speed",
+      "Steam": "76561198746317989",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Lypegx",
       "Steam": "76561199068502372",
-      "Score": 10,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 76,
-      "Time": "67:21"
+      "Score": 82,
+      "Time": "69:21"
     },
     {
       "Name": "jaeychino",
       "Steam": "76561198722865548",
-      "Score": 7,
-      "Time": "260:18"
+      "Score": 13,
+      "Time": "262:18"
     },
     {
       "Name": "eyfl.ne2b5opi",
       "Steam": "76561198698929194",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "fvzm",
       "Steam": "76561198729765649",
-      "Score": 41,
+      "Score": 49,
       "Time": "??:??"
     }
   ]
