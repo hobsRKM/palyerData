@@ -1,41 +1,41 @@
 {
-  "Time": "2026-05-25T01:23:59.7973219Z",
+  "Time": "2026-05-25T01:25:59.8122657Z",
   "Players": [
     {
       "Name": "+",
       "Steam": "76561199882623484",
-      "Score": 67,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "cat with strap",
       "Steam": "76561198697716877",
-      "Score": 50,
+      "Score": 56,
       "Time": "??:??"
+    },
+    {
+      "Name": "nevv",
+      "Steam": "76561198831187015",
+      "Score": 0,
+      "Time": "01:05"
     },
     {
       "Name": "get rich or die tryin",
       "Steam": "76561198864793756",
-      "Score": 8,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "MrPaw",
       "Steam": "76561199046204811",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "True Talent Hidden Within Opsec.",
       "Steam": "76561199580355122",
-      "Score": 43,
-      "Time": "04:24"
-    },
-    {
-      "Name": "IHaveSmollPP",
-      "Steam": "76561199209588405",
-      "Score": 27,
-      "Time": "??:??"
+      "Score": 52,
+      "Time": "06:24"
     },
     {
       "Name": "TungTunghook",
@@ -46,14 +46,26 @@
     {
       "Name": "just smurfing",
       "Steam": "76561199567097190",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 85,
-      "Time": "28:16"
+      "Score": 98,
+      "Time": "30:16"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TEXAS ROADHOUSE 10X CHAMPION",
+      "Steam": "76561198843984436",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
