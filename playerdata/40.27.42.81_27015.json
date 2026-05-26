@@ -1,16 +1,10 @@
 {
-  "Time": "2026-05-26T19:25:03.0731026Z",
+  "Time": "2026-05-26T19:27:03.0800068Z",
   "Players": [
     {
       "Name": "the fucking blueprint",
       "Steam": "76561199141860067",
-      "Score": 42,
-      "Time": "??:??"
-    },
-    {
-      "Name": "codex code grandmaster",
-      "Steam": "76561199880717233",
-      "Score": 53,
+      "Score": 44,
       "Time": "??:??"
     },
     {
@@ -22,8 +16,14 @@
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 26,
+      "Score": 36,
       "Time": "??:??"
+    },
+    {
+      "Name": "Junior .",
+      "Steam": "76561199836886163",
+      "Score": 2,
+      "Time": "00:43"
     }
   ]
 }
