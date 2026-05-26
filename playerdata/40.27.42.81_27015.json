@@ -1,22 +1,28 @@
 {
-  "Time": "2026-05-26T21:09:03.0724239Z",
+  "Time": "2026-05-26T21:11:03.0761086Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 0,
+      "Time": "01:26"
+    },
     {
       "Name": "i'm a loser",
       "Steam": "76561199847868570",
-      "Score": 174,
+      "Score": 187,
       "Time": "??:??"
     },
     {
-      "Name": "Reiko\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Εο ]",
+      "Name": "Reiko\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos. ]",
       "Steam": "76561197996616313",
       "Score": 1,
-      "Time": "02:05"
+      "Time": "04:05"
     },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 49,
+      "Score": 55,
       "Time": "??:??"
     },
     {
@@ -28,25 +34,31 @@
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 69,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "Fredrick fat field",
       "Steam": "76561199321369237",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "ุ",
       "Steam": "76561199634909491",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199083355602",
-      "Score": 4,
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NiKo",
+      "Steam": "76561198790015821",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
