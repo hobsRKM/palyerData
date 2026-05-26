@@ -1,41 +1,35 @@
 {
-  "Time": "2026-05-26T04:08:07.5415942Z",
+  "Time": "2026-05-26T04:10:07.5335052Z",
   "Players": [
+    {
+      "Name": "buggati",
+      "Steam": "76561199050170734",
+      "Score": 0,
+      "Time": "54:59"
+    },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 35,
-      "Time": "310:34"
+      "Score": 39,
+      "Time": "312:34"
     },
     {
       "Name": "i'd die for you",
       "Steam": "76561199847868570",
-      "Score": 115,
-      "Time": "86:03"
+      "Score": 124,
+      "Time": "88:03"
     },
     {
       "Name": "occupancelol",
       "Steam": "76561198699926911",
-      "Score": 60,
-      "Time": "52:30"
-    },
-    {
-      "Name": "lilwalkemdown23",
-      "Steam": "76561198742184205",
-      "Score": 28,
-      "Time": "04:55"
-    },
-    {
-      "Name": "mirenmirenmirenmirenmirenmiren",
-      "Steam": "76561199794937746",
-      "Score": 17,
-      "Time": "??:??"
+      "Score": 70,
+      "Time": "54:30"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 46,
-      "Time": "188:18"
+      "Score": 49,
+      "Time": "190:18"
     }
   ]
 }
