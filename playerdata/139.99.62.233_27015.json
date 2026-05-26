@@ -1,52 +1,58 @@
 {
-  "Time": "2026-05-26T13:51:13.1358325Z",
+  "Time": "2026-05-26T13:53:13.1496102Z",
   "Players": [
+    {
+      "Name": "Banker or Player?",
+      "Steam": "76561199850040081",
+      "Score": 0,
+      "Time": "01:01"
+    },
     {
       "Name": "PIG PING",
       "Steam": "76561199099722473",
-      "Score": 36,
-      "Time": "107:18"
+      "Score": 40,
+      "Time": "109:18"
     },
     {
       "Name": "你说的永远，不属于我",
       "Steam": "76561199496878251",
       "Score": 14,
-      "Time": "85:23"
+      "Time": "87:23"
     },
     {
       "Name": "\uD835\uDC81",
       "Steam": "76561198824890960",
-      "Score": 61,
-      "Time": "112:09"
+      "Score": 65,
+      "Time": "114:09"
     },
     {
       "Name": "疑心病",
       "Steam": "76561199225062095",
-      "Score": 22,
-      "Time": "150:38"
+      "Score": 24,
+      "Time": "152:38"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 54,
-      "Time": "69:19"
+      "Score": 60,
+      "Time": "71:19"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 75,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "IDK",
       "Steam": "76561198734556469",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "Jew Annihilator",
       "Steam": "76561198701311351",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
