@@ -1,6 +1,12 @@
 {
-  "Time": "2026-05-26T19:33:03.0787475Z",
+  "Time": "2026-05-26T19:35:03.0825865Z",
   "Players": [
+    {
+      "Name": "j",
+      "Steam": "76561198704251667",
+      "Score": 9,
+      "Time": "??:??"
+    },
     {
       "Name": "dsc.gg/amiss",
       "Steam": "76561199826005735",
@@ -10,31 +16,37 @@
     {
       "Name": "cheezie",
       "Steam": "76561198743474205",
-      "Score": 10,
-      "Time": "01:53"
+      "Score": 0,
+      "Time": "03:53"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 58,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "00:32"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 26,
-      "Time": "06:43"
+      "Score": 2,
+      "Time": "08:43"
     },
     {
       "Name": "i'm a loser",
       "Steam": "76561199847868570",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "zsoladoo",
       "Steam": "76561199686908948",
-      "Score": 4,
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
