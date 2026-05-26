@@ -1,28 +1,28 @@
 {
-  "Time": "2026-05-26T22:47:03.0695177Z",
+  "Time": "2026-05-26T22:49:03.0757417Z",
   "Players": [
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 0,
+      "Time": "00:33"
+    },
     {
       "Name": "dsc.gg/amiss",
       "Steam": "76561199826005735",
       "Score": 18,
-      "Time": "16:25"
+      "Time": "18:25"
     },
     {
       "Name": "Fredrick fat field",
       "Steam": "76561199321369237",
-      "Score": 39,
-      "Time": "16:24"
+      "Score": 45,
+      "Time": "18:24"
     },
     {
       "Name": "bootytickler332",
       "Steam": "76561199548982521",
-      "Score": 25,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Mooncricket",
-      "Steam": "76561199888627013",
-      "Score": 0,
+      "Score": 35,
       "Time": "??:??"
     }
   ]
