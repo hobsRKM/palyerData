@@ -1,22 +1,28 @@
 {
-  "Time": "2026-05-26T08:49:12.2718777Z",
+  "Time": "2026-05-26T08:51:12.2704862Z",
   "Players": [
+    {
+      "Name": "Banker or Player?",
+      "Steam": "76561199850040081",
+      "Score": 2,
+      "Time": "01:43"
+    },
     {
       "Name": "PIG PING",
       "Steam": "76561199099722473",
-      "Score": 31,
-      "Time": "11:45"
+      "Score": 36,
+      "Time": "13:45"
     },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
-      "Score": 29,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Skeet Crack 2026.Zip",
       "Steam": "76561198707596099",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
