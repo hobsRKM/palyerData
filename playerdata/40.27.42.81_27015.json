@@ -1,29 +1,41 @@
 {
-  "Time": "2026-05-26T23:21:03.0807915Z",
+  "Time": "2026-05-26T23:23:03.0778524Z",
   "Players": [
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 77,
+      "Score": 82,
       "Time": "??:??"
+    },
+    {
+      "Name": "dsc.gg/amiss",
+      "Steam": "76561199826005735",
+      "Score": 4,
+      "Time": "01:25"
+    },
+    {
+      "Name": "stars | NL",
+      "Steam": "76561199847868570",
+      "Score": 0,
+      "Time": "00:37"
     },
     {
       "Name": "水思维",
       "Steam": "76561198772659643",
-      "Score": 80,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "RADALIVE",
       "Steam": "76561198706721079",
-      "Score": 46,
-      "Time": "12:42"
+      "Score": 58,
+      "Time": "14:42"
     },
     {
-      "Name": "friewd44",
+      "Name": "Tem~leWare | friewd44",
       "Steam": "76561198698514906",
-      "Score": 20,
-      "Time": "13:41"
+      "Score": 23,
+      "Time": "15:41"
     }
   ]
 }
