@@ -1,34 +1,46 @@
 {
-  "Time": "2026-05-26T20:11:03.0753095Z",
+  "Time": "2026-05-26T20:13:03.0811216Z",
   "Players": [
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 1,
-      "Time": "02:42"
+      "Score": 6,
+      "Time": "04:42"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 36,
-      "Time": "10:33"
+      "Score": 46,
+      "Time": "12:33"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 7,
-      "Time": "44:43"
+      "Score": 0,
+      "Time": "46:43"
     },
     {
       "Name": "i'm a loser",
       "Steam": "76561199847868570",
-      "Score": 56,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "Roma",
       "Steam": "76561199874070115",
-      "Score": 39,
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Pacmanguns",
+      "Steam": "76561198700464632",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pusheaxret",
+      "Steam": "76561198782287736",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
