@@ -1,4 +1,23 @@
 {
-  "Time": "2026-05-26T19:20:30.5035407Z",
-  "Players": []
+  "Time": "2026-05-26T19:20:50.9866224Z",
+  "Players": [
+    {
+      "Name": "jeevacation",
+      "Steam": "76561198729626959",
+      "Score": 8,
+      "Time": "04:05"
+    },
+    {
+      "Name": "SourceTV",
+      "Steam": "76561198702683627",
+      "Score": 9,
+      "Time": "04:14"
+    },
+    {
+      "Name": "FlameAimwareUser",
+      "Steam": "76561198712159524",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
