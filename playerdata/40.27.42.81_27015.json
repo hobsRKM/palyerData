@@ -1,35 +1,47 @@
 {
-  "Time": "2026-05-26T02:06:07.5440027Z",
+  "Time": "2026-05-26T02:08:07.53741Z",
   "Players": [
+    {
+      "Name": "ScoutMagician",
+      "Steam": "76561198707245185",
+      "Score": 1,
+      "Time": "295:51"
+    },
+    {
+      "Name": "True Talent Hidden Within Opsec.",
+      "Steam": "76561199580355122",
+      "Score": 0,
+      "Time": "117:53"
+    },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC211",
       "Steam": "76561199442814754",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 54,
-      "Time": "16:01"
+      "Score": 58,
+      "Time": "18:01"
     },
     {
       "Name": "nio",
       "Steam": "76561199158419168",
-      "Score": 47,
-      "Time": "13:27"
+      "Score": 51,
+      "Time": "15:27"
     },
     {
-      "Name": "Reiko",
+      "Name": "Reiko\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
       "Steam": "76561197996616313",
-      "Score": 2,
-      "Time": "312:56"
+      "Score": 4,
+      "Time": "314:56"
     },
     {
       "Name": "jelq",
@@ -40,14 +52,8 @@
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 57,
-      "Time": "156:18"
-    },
-    {
-      "Name": "Alexander Thickpockets",
-      "Steam": "76561198943115870",
-      "Score": 22,
-      "Time": "02:20"
+      "Score": 65,
+      "Time": "158:18"
     },
     {
       "Name": "lilwalkemdown23",
@@ -58,25 +64,31 @@
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 0,
-      "Time": "66:18"
+      "Score": 3,
+      "Time": "68:18"
     },
     {
       "Name": "trevon o'ryan echols",
       "Steam": "76561198703392706",
-      "Score": 35,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "sgdrsg a feaf easg",
       "Steam": "76561198749275911",
       "Score": 44,
-      "Time": "11:50"
+      "Time": "13:50"
+    },
+    {
+      "Name": "belial",
+      "Steam": "76561199564746878",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "xkl",
       "Steam": "76561197962433235",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
