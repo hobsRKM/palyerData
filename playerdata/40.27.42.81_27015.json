@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-27T22:16:58.7585231Z",
+  "Time": "2026-05-27T22:18:58.7503204Z",
   "Players": [
     {
       "Name": "Aru",
       "Steam": "76561199711763340",
-      "Score": 12,
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MeatMountain",
+      "Steam": "76561197996523644",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 10,
-      "Time": "195:03"
+      "Score": 17,
+      "Time": "197:03"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 0,
-      "Time": "00:03"
+      "Score": 3,
+      "Time": "02:03"
     },
     {
       "Name": "Kaneki",
       "Steam": "76561198775750125",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Nuke enjoyer",
       "Steam": "76561198701524155",
-      "Score": 5,
-      "Time": "03:16"
+      "Score": 9,
+      "Time": "05:16"
     }
   ]
 }
