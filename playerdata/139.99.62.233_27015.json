@@ -1,41 +1,35 @@
 {
-  "Time": "2026-05-27T15:05:21.9746984Z",
+  "Time": "2026-05-27T15:07:22.0891446Z",
   "Players": [
-    {
-      "Name": "Banker or Player?",
-      "Steam": "76561199850040081",
-      "Score": 20,
-      "Time": "06:34"
-    },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 54,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "Mr Penis",
       "Steam": "76561199729534798",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "ezmappa",
       "Steam": "76561198747845180",
-      "Score": 75,
-      "Time": "31:21"
+      "Score": 83,
+      "Time": "33:21"
+    },
+    {
+      "Name": "xlucid",
+      "Steam": "76561199600391407",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "SiLxnZer",
       "Steam": "76561199002500021",
-      "Score": 14,
-      "Time": "03:45"
-    },
-    {
-      "Name": "plaguedcheesemelts",
-      "Steam": "76561198705100636",
-      "Score": 0,
-      "Time": "18:50"
+      "Score": 17,
+      "Time": "05:45"
     }
   ]
 }
