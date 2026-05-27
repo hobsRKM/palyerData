@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-27T19:22:58.7606547Z",
+  "Time": "2026-05-27T19:24:58.7587829Z",
   "Players": [
+    {
+      "Name": "dawn",
+      "Steam": "76561199811991561",
+      "Score": 7,
+      "Time": "01:53"
+    },
     {
       "Name": "Weave LuckyCharms Aimware",
       "Steam": "76561198701432948",
-      "Score": 0,
-      "Time": "05:27"
+      "Score": 2,
+      "Time": "07:27"
     },
     {
       "Name": "Vela2026",
       "Steam": "76561199847868570",
-      "Score": 120,
+      "Score": 131,
       "Time": "??:??"
     },
     {
       "Name": "fvzm",
       "Steam": "76561198739392798",
-      "Score": 71,
-      "Time": "41:38"
+      "Score": 79,
+      "Time": "43:38"
     },
     {
       "Name": "True Talent Hid by Extrapolation",
@@ -26,34 +32,58 @@
       "Time": "??:??"
     },
     {
+      "Name": "curry",
+      "Steam": "76561198772344386",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "★-H4P3X-★",
+      "Steam": "76561197999178621",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "codex code grandmaster",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "00:51"
+    },
+    {
+      "Name": "Papa",
+      "Steam": "76561199485168545",
+      "Score": 0,
+      "Time": "00:35"
+    },
+    {
       "Name": "Reiko\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
       "Steam": "76561197996616313",
       "Score": 0,
-      "Time": "91:41"
+      "Time": "93:41"
     },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 47,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "x1z",
       "Steam": "76561198727378774",
-      "Score": 50,
-      "Time": "22:01"
+      "Score": 60,
+      "Time": "24:01"
     },
     {
       "Name": "Nuke enjoyer",
       "Steam": "76561198701524155",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Accelerationist",
       "Steam": "76561198996981941",
-      "Score": 13,
-      "Time": "02:44"
+      "Score": 17,
+      "Time": "04:44"
     }
   ]
 }
