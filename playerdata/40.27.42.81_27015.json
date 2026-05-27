@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-27T18:30:58.7513531Z",
+  "Time": "2026-05-27T18:32:58.7553622Z",
   "Players": [
+    {
+      "Name": "funeral",
+      "Steam": "76561199145198962",
+      "Score": 0,
+      "Time": "01:05"
+    },
     {
       "Name": "codex code grandmaster",
       "Steam": "76561199880717233",
-      "Score": 30,
-      "Time": "51:31"
+      "Score": 40,
+      "Time": "53:31"
     },
     {
-      "Name": "Reiko\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.CoΣ ]",
+      "Name": "Reiko\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
       "Steam": "76561197996616313",
       "Score": 0,
-      "Time": "39:41"
+      "Time": "41:41"
     },
     {
       "Name": "Chemical",
@@ -22,19 +28,25 @@
     {
       "Name": "x1z",
       "Steam": "76561198727378774",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Alyssa Liu Cracked @ Village",
       "Steam": "76561197976454047",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "methylenedioxymethamphetamine",
+      "Steam": "76561199480081357",
+      "Score": 3,
+      "Time": "01:50"
     },
     {
       "Name": "Nuke enjoyer",
       "Steam": "76561198701524155",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
