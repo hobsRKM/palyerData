@@ -1,34 +1,46 @@
 {
-  "Time": "2026-05-27T05:01:13.819309Z",
+  "Time": "2026-05-27T05:03:13.8172244Z",
   "Players": [
+    {
+      "Name": "Donk666",
+      "Steam": "76561198700552311",
+      "Score": 32,
+      "Time": "01:38"
+    },
     {
       "Name": "alihka13444",
       "Steam": "76561198713096457",
-      "Score": 0,
-      "Time": "00:35"
+      "Score": 8,
+      "Time": "02:35"
     },
     {
       "Name": "Banker or Player?",
       "Steam": "76561199850040081",
-      "Score": 75,
-      "Time": "36:57"
+      "Score": 82,
+      "Time": "38:57"
+    },
+    {
+      "Name": "carlos_07",
+      "Steam": "76561199271774586",
+      "Score": 21,
+      "Time": "02:00"
     },
     {
       "Name": "kapus",
       "Steam": "76561198711483423",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Manoranjan masala",
       "Steam": "76561198696576464",
       "Score": 9,
-      "Time": "11:00"
+      "Time": "13:00"
     },
     {
       "Name": "SORA",
       "Steam": "76561199262642854",
-      "Score": 36,
+      "Score": 37,
       "Time": "??:??"
     }
   ]
