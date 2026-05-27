@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-27T21:38:58.7555903Z",
+  "Time": "2026-05-27T21:40:58.7593663Z",
   "Players": [
+    {
+      "Name": "Jack",
+      "Steam": "76561198702881176",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198343112799",
-      "Score": 54,
+      "Score": 64,
       "Time": "??:??"
     },
     {
-      "Name": "icanseeya",
-      "Steam": "76561198751103621",
-      "Score": 13,
-      "Time": "??:??"
+      "Name": "i'm cool as biscuits",
+      "Steam": "76561199626903344",
+      "Score": 4,
+      "Time": "00:53"
     },
     {
-      "Name": "buggati",
-      "Steam": "76561199050170734",
-      "Score": 10,
-      "Time": "06:00"
+      "Name": "coma ♡ ≽ •⩊• ≼",
+      "Steam": "76561199805557263",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "happy happy",
       "Steam": "76561199425272329",
-      "Score": 103,
+      "Score": 111,
       "Time": "??:??"
     },
     {
-      "Name": "$      Deags",
+      "Name": "S  Deags",
       "Steam": "76561198335633110",
-      "Score": 17,
-      "Time": "52:54"
+      "Score": 21,
+      "Time": "54:54"
     }
   ]
 }
