@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-27T23:30:38.3183957Z",
-  "Players": []
+  "Time": "2026-05-27T23:31:02.5739179Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ooo",
+      "Steam": "76561199485854808",
+      "Score": 63,
+      "Time": "273:42"
+    },
+    {
+      "Name": "Dimitur berbatov",
+      "Steam": "76561199580618556",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "also known as the easy crew",
+      "Steam": "76561198777608807",
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ooo",
+      "Steam": "76561198702287110",
+      "Score": 75,
+      "Time": "??:??"
+    }
+  ]
 }
