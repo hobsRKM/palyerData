@@ -1,10 +1,16 @@
 {
-  "Time": "2026-05-27T05:20:01.4116648Z",
+  "Time": "2026-05-27T05:22:01.409696Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Madrigal Electromotive GmbH",
       "Steam": "76561199254673723",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
