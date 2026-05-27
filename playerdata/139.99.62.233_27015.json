@@ -1,11 +1,17 @@
 {
-  "Time": "2026-05-27T13:43:18.4734446Z",
+  "Time": "2026-05-27T13:45:18.5756846Z",
   "Players": [
+    {
+      "Name": "tyler.trevitt",
+      "Steam": "76561198700820264",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "ezmappa",
       "Steam": "76561198748016445",
-      "Score": 4,
-      "Time": "01:56"
+      "Score": 8,
+      "Time": "03:56"
     },
     {
       "Name": "MR.BEAT",
@@ -16,7 +22,7 @@
     {
       "Name": "dunsten",
       "Steam": "76561199810865896",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
@@ -26,22 +32,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "SiLxnZer",
-      "Steam": "76561199002500021",
-      "Score": 18,
-      "Time": "224:40"
+      "Name": "TrashHvH",
+      "Steam": "76561198733706007",
+      "Score": 0,
+      "Time": "00:26"
     },
     {
-      "Name": "> AURA | 你说的永远，不属于我",
+      "Name": "SiLxnZer",
+      "Steam": "76561199002500021",
+      "Score": 20,
+      "Time": "226:40"
+    },
+    {
+      "Name": "_ | 你说的永远，不属于我",
       "Steam": "76561199496878251",
       "Score": 20,
-      "Time": "52:03"
+      "Time": "54:03"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 31,
-      "Time": "11:38"
+      "Score": 43,
+      "Time": "13:38"
     }
   ]
 }
