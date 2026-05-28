@@ -1,4 +1,29 @@
 {
-  "Time": "2026-05-28T07:14:43.848346Z",
-  "Players": []
+  "Time": "2026-05-28T07:14:45.832028Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Abdul Osama D.3",
+      "Steam": "76561199613550130",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Marek",
+      "Steam": "76561199835357684",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "99 normal birisi",
+      "Steam": "76561198923939929",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
