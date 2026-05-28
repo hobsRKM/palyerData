@@ -1,35 +1,41 @@
 {
-  "Time": "2026-05-28T08:34:59.2779479Z",
+  "Time": "2026-05-28T08:36:59.2891133Z",
   "Players": [
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 0,
+      "Time": "01:21"
+    },
     {
       "Name": "hail",
       "Steam": "76561199583418405",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "not a catboy",
       "Steam": "76561198695634327",
-      "Score": 7,
-      "Time": "38:56"
+      "Score": 9,
+      "Time": "40:56"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 10,
-      "Time": "19:03"
+      "Score": 16,
+      "Time": "21:03"
     },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 4,
-      "Time": "623:06"
+      "Score": 10,
+      "Time": "625:06"
     },
     {
       "Name": "dawn",
       "Steam": "76561199811991561",
-      "Score": 0,
-      "Time": "00:57"
+      "Score": 6,
+      "Time": "02:57"
     }
   ]
 }
