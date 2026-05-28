@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-28T23:14:26.4054284Z",
+  "Time": "2026-05-28T23:16:26.4058415Z",
   "Players": [
+    {
+      "Name": "qwertyuiop",
+      "Steam": "76561199768964598",
+      "Score": 9,
+      "Time": "01:51"
+    },
     {
       "Name": "skiddy",
       "Steam": "76561198806497985",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "radiant",
       "Steam": "76561198708315607",
-      "Score": 38,
-      "Time": "23:18"
+      "Score": 46,
+      "Time": "25:18"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
       "Score": 0,
-      "Time": "113:29"
+      "Time": "115:29"
     },
     {
       "Name": "vgEr",
@@ -34,62 +40,68 @@
     {
       "Name": "velocity kitty",
       "Steam": "76561199856027303",
-      "Score": 37,
-      "Time": "08:17"
+      "Score": 46,
+      "Time": "10:17"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 83,
+      "Score": 87,
       "Time": "??:??"
     },
     {
-      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Ξ ]",
+      "Name": "KEMAL KILIÇDAROĞLU",
+      "Steam": "76561199653128704",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Co ]",
       "Steam": "76561198705115405",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "silo (worst cs2 player)",
       "Steam": "76561199567691578",
       "Score": 4,
-      "Time": "09:35"
+      "Time": "11:35"
     },
     {
       "Name": "Accelerationist",
       "Steam": "76561198996981941",
-      "Score": 2,
-      "Time": "12:52"
+      "Score": 4,
+      "Time": "14:52"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 21,
-      "Time": "11:28"
+      "Score": 27,
+      "Time": "13:28"
     },
     {
       "Name": "Aru",
       "Steam": "76561199711763340",
-      "Score": 82,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "FortniteBurgerPro",
       "Steam": "76561198698243333",
-      "Score": 37,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "tf",
       "Steam": "76561199830024313",
-      "Score": 126,
+      "Score": 129,
       "Time": "??:??"
     },
     {
       "Name": "RADALIVE",
       "Steam": "76561198706721079",
-      "Score": 9,
-      "Time": "00:55"
+      "Score": 0,
+      "Time": "02:55"
     }
   ]
 }
