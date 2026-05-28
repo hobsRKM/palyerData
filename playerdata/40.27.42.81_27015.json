@@ -1,22 +1,28 @@
 {
-  "Time": "2026-05-28T17:52:26.3953882Z",
+  "Time": "2026-05-28T17:54:26.4031288Z",
   "Players": [
     {
       "Name": "awna",
       "Steam": "76561198772193436",
-      "Score": 19,
-      "Time": "05:45"
+      "Score": 20,
+      "Time": "07:45"
+    },
+    {
+      "Name": "fuze",
+      "Steam": "76561199273977862",
+      "Score": 0,
+      "Time": "00:38"
     },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 33,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 56,
+      "Score": 60,
       "Time": "??:??"
     },
     {
@@ -29,12 +35,12 @@
       "Name": "bad",
       "Steam": "76561198281663381",
       "Score": 2,
-      "Time": "11:40"
+      "Time": "13:40"
     },
     {
       "Name": "Yeat",
       "Steam": "76561199049807914",
-      "Score": 4,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
