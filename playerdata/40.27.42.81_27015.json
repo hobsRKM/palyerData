@@ -1,22 +1,28 @@
 {
-  "Time": "2026-05-28T21:16:26.4043121Z",
+  "Time": "2026-05-28T21:18:26.404135Z",
   "Players": [
     {
       "Name": "skiddy",
       "Steam": "76561198806497985",
-      "Score": 1,
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Henrique Cassiraghi",
       "Steam": "76561198047261409",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "dylanross14@icloud.com",
       "Steam": "76561198777456698",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -28,13 +34,13 @@
     {
       "Name": "missedlmao",
       "Steam": "76561198758675938",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "rain",
       "Steam": "76561199847868570",
-      "Score": 6,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
