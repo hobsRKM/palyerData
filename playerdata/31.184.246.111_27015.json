@@ -1,4 +1,53 @@
 {
-  "Time": "2026-05-28T18:44:43.8353188Z",
-  "Players": []
+  "Time": "2026-05-28T18:44:45.8423918Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Danob",
+      "Steam": "76561198722127737",
+      "Score": 21,
+      "Time": "05:50"
+    },
+    {
+      "Name": "0",
+      "Steam": "76561198741929166",
+      "Score": 61,
+      "Time": "??:??"
+    },
+    {
+      "Name": "R4V3N",
+      "Steam": "76561198746908897",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "St0rm",
+      "Steam": "76561199013172589",
+      "Score": 9,
+      "Time": "03:51"
+    },
+    {
+      "Name": "JewArrestedForEmbryoTrafficking",
+      "Steam": "76561199018171457",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 30,
+      "Time": "93:10"
+    },
+    {
+      "Name": "N WORD",
+      "Steam": "76561199791747353",
+      "Score": 35,
+      "Time": "17:20"
+    }
+  ]
 }
