@@ -1,6 +1,12 @@
 {
-  "Time": "2026-05-28T16:59:20.0962915Z",
+  "Time": "2026-05-28T17:05:20.148246Z",
   "Players": [
+    {
+      "Name": "DigitalCartel",
+      "Steam": "76561199877234702",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
@@ -10,25 +16,31 @@
     {
       "Name": "pro epstein",
       "Steam": "76561198709964095",
-      "Score": 44,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "Svn",
       "Steam": "76561198772969386",
-      "Score": 0,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "gameverse",
       "Steam": "76561198707370969",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Kangaroo máy lọc nước s1",
       "Steam": "76561199151344211",
-      "Score": 12,
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fdafawdfacd",
+      "Steam": "76561198703182717",
+      "Score": 5,
       "Time": "??:??"
     }
   ]
