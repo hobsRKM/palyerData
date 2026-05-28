@@ -1,41 +1,47 @@
 {
-  "Time": "2026-05-28T00:02:58.7556669Z",
+  "Time": "2026-05-28T00:04:58.7566698Z",
   "Players": [
+    {
+      "Name": "Entity",
+      "Steam": "76561199825236538",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 4,
-      "Time": "04:04"
+      "Score": 10,
+      "Time": "06:04"
     },
     {
       "Name": "i'm cool as biscuits",
       "Steam": "76561199626903344",
-      "Score": 39,
-      "Time": "05:17"
+      "Score": 51,
+      "Time": "07:17"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 61,
-      "Time": "19:42"
+      "Score": 64,
+      "Time": "21:42"
     },
     {
       "Name": "acid",
       "Steam": "76561198701107364",
-      "Score": 54,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "\uD83C\uDFF4‍☠️❄",
       "Steam": "76561199825338994",
-      "Score": 16,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 32,
-      "Time": "15:47"
+      "Score": 35,
+      "Time": "17:47"
     }
   ]
 }
