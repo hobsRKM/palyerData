@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-28T20:35:21.5586209Z",
+  "Time": "2026-05-28T20:37:21.607157Z",
   "Players": [
+    {
+      "Name": "ericdbreeze123",
+      "Steam": "76561198696672033",
+      "Score": 0,
+      "Time": "01:41"
+    },
     {
       "Name": "Ntnyh",
       "Steam": "76561198293746101",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "pixe poxi po",
       "Steam": "76561199853634499",
-      "Score": 14,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "SiLxnZer",
       "Steam": "76561199002500021",
-      "Score": 50,
-      "Time": "53:21"
+      "Score": 52,
+      "Time": "55:21"
     }
   ]
 }
