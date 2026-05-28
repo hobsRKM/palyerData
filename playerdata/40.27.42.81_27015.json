@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-28T20:44:26.4050248Z",
+  "Time": "2026-05-28T20:46:26.3969223Z",
   "Players": [
+    {
+      "Name": "亚当不吃南瓜",
+      "Steam": "76561198851662965",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "skiddy",
       "Steam": "76561198806497985",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 53,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "Henrique Cassiraghi",
       "Steam": "76561198047261409",
-      "Score": 15,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "True Talent Hidden Within Opsec.",
       "Steam": "76561199580355122",
-      "Score": 69,
-      "Time": "14:25"
+      "Score": 84,
+      "Time": "16:25"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 33,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -40,38 +46,38 @@
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 57,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Lou1s",
       "Steam": "76561198787721084",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Salty Peen",
       "Steam": "76561199554585961",
-      "Score": 6,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Accelerationist",
       "Steam": "76561198996981941",
-      "Score": 41,
-      "Time": "111:59"
+      "Score": 51,
+      "Time": "113:59"
     },
     {
       "Name": "rain",
       "Steam": "76561199847868570",
-      "Score": 51,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "wock",
       "Steam": "76561198864793756",
-      "Score": 31,
-      "Time": "11:45"
+      "Score": 41,
+      "Time": "13:45"
     }
   ]
 }
