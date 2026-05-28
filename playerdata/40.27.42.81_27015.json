@@ -1,41 +1,41 @@
 {
-  "Time": "2026-05-28T03:44:58.821402Z",
+  "Time": "2026-05-28T03:46:58.8112442Z",
   "Players": [
+    {
+      "Name": "wock",
+      "Steam": "76561198864793756",
+      "Score": 1,
+      "Time": "00:28"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 18,
-      "Time": "10:20"
+      "Score": 24,
+      "Time": "12:20"
     },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 6,
-      "Time": "18:24"
+      "Score": 7,
+      "Time": "20:24"
     },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 56,
-      "Time": "38:34"
-    },
-    {
-      "Name": "triple o",
-      "Steam": "76561198739010018",
-      "Score": 0,
-      "Time": "171:11"
+      "Score": 66,
+      "Time": "40:34"
     },
     {
       "Name": "goose",
       "Steam": "76561198702420747",
-      "Score": 33,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "dawn",
       "Steam": "76561199811991561",
-      "Score": 29,
-      "Time": "365:39"
+      "Score": 37,
+      "Time": "367:39"
     }
   ]
 }
