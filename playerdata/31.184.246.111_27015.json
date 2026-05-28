@@ -1,4 +1,41 @@
 {
-  "Time": "2026-05-28T01:08:38.3184733Z",
-  "Players": []
+  "Time": "2026-05-28T01:09:02.5824822Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561198751726700",
+      "Score": 17,
+      "Time": "14:22"
+    },
+    {
+      "Name": "outside",
+      "Steam": "76561199700444671",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "inferno.vip Beta",
+      "Steam": "76561199816443804",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "educated",
+      "Steam": "76561199485412800",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nanopaladinveil2049",
+      "Steam": "76561198728948339",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
