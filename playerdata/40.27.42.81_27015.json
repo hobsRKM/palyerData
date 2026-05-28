@@ -1,29 +1,41 @@
 {
-  "Time": "2026-05-28T08:10:59.1933179Z",
+  "Time": "2026-05-28T08:12:59.2024259Z",
   "Players": [
+    {
+      "Name": "S4Ens|LEGACY",
+      "Steam": "76561198980920588",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "not a catboy",
       "Steam": "76561198695634327",
-      "Score": 17,
-      "Time": "14:56"
+      "Score": 22,
+      "Time": "16:56"
     },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 23,
-      "Time": "599:06"
+      "Score": 31,
+      "Time": "601:06"
     },
     {
       "Name": "martini♡  ≽^•⩊•^≼",
       "Steam": "76561198700071912",
-      "Score": 19,
-      "Time": "93:28"
+      "Score": 23,
+      "Time": "95:28"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 40,
-      "Time": "29:17"
+      "Score": 48,
+      "Time": "31:17"
+    },
+    {
+      "Name": "Fatality",
+      "Steam": "76561198701186666",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
