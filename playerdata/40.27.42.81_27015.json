@@ -1,35 +1,35 @@
 {
-  "Time": "2026-05-28T00:46:58.7780143Z",
+  "Time": "2026-05-28T00:48:58.7694121Z",
   "Players": [
+    {
+      "Name": "wock",
+      "Steam": "76561198864793756",
+      "Score": 6,
+      "Time": "145:04"
+    },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Aru",
       "Steam": "76561199711763340",
-      "Score": 118,
-      "Time": "27:30"
+      "Score": 128,
+      "Time": "29:30"
     },
     {
       "Name": "Vela2026",
       "Steam": "76561199847868570",
-      "Score": 198,
-      "Time": "39:14"
+      "Score": 208,
+      "Time": "41:14"
     },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 24,
-      "Time": "22:39"
-    },
-    {
-      "Name": "i'm cool as biscuits",
-      "Steam": "76561199626903344",
-      "Score": 64,
-      "Time": "49:17"
+      "Score": 29,
+      "Time": "24:39"
     },
     {
       "Name": "ouch!",
@@ -41,55 +41,55 @@
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 21,
-      "Time": "63:42"
+      "Time": "65:42"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 56,
-      "Time": "27:54"
+      "Score": 62,
+      "Time": "29:54"
     },
     {
       "Name": "oli",
       "Steam": "76561197989735694",
-      "Score": 8,
-      "Time": "22:36"
+      "Score": 10,
+      "Time": "24:36"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 13,
-      "Time": "08:10"
+      "Score": 23,
+      "Time": "10:10"
     },
     {
       "Name": "nevv",
       "Steam": "76561198831187015",
       "Score": 2,
-      "Time": "??:??"
+      "Time": "01:18"
     },
     {
       "Name": "True Talent Hidden Within Opsec.",
       "Steam": "76561199580355122",
-      "Score": 17,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "\uD83C\uDFF4‍☠️❄",
       "Steam": "76561199825338994",
-      "Score": 95,
+      "Score": 97,
       "Time": "??:??"
     },
     {
       "Name": "2",
       "Steam": "76561199842418049",
       "Score": 24,
-      "Time": "01:02"
+      "Time": "03:02"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 53,
-      "Time": "59:47"
+      "Score": 55,
+      "Time": "61:47"
     }
   ]
 }
