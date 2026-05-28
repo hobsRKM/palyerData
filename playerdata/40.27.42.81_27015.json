@@ -1,58 +1,52 @@
 {
-  "Time": "2026-05-28T18:18:26.4079331Z",
+  "Time": "2026-05-28T18:20:26.3978862Z",
   "Players": [
     {
       "Name": "marley",
       "Steam": "76561199626903344",
-      "Score": 11,
-      "Time": "21:20"
+      "Score": 22,
+      "Time": "23:20"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 0,
-      "Time": "06:41"
+      "Score": 6,
+      "Time": "08:41"
     },
     {
       "Name": "awna",
       "Steam": "76561198772193436",
       "Score": 6,
-      "Time": "31:45"
+      "Time": "33:45"
     },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 15,
-      "Time": "24:38"
+      "Score": 23,
+      "Time": "26:38"
     },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Serpent",
-      "Steam": "76561199453255014",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Accelerationist",
       "Steam": "76561198996981941",
-      "Score": 0,
-      "Time": "01:07"
+      "Score": 4,
+      "Time": "03:07"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
