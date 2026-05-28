@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-28T02:34:58.7728339Z",
+  "Time": "2026-05-28T02:36:58.7671568Z",
   "Players": [
     {
       "Name": "Aru",
       "Steam": "76561199711763340",
-      "Score": 53,
-      "Time": "14:23"
+      "Score": 61,
+      "Time": "16:23"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 66,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "Kiyoshi",
       "Steam": "76561199117778799",
-      "Score": 47,
+      "Score": 51,
+      "Time": "??:??"
+    },
+    {
+      "Name": "obj player",
+      "Steam": "76561198070037215",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "buggati",
       "Steam": "76561199050170734",
-      "Score": 25,
-      "Time": "105:17"
+      "Score": 37,
+      "Time": "107:17"
     }
   ]
 }
