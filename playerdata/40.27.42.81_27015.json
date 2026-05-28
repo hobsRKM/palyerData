@@ -1,28 +1,34 @@
 {
-  "Time": "2026-05-28T09:59:10.1404711Z",
+  "Time": "2026-05-28T10:01:10.1419247Z",
   "Players": [
     {
       "Name": "dawn",
       "Steam": "76561199811991561",
       "Score": 0,
-      "Time": "00:21"
+      "Time": "02:21"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 48,
-      "Time": "37:40"
+      "Score": 55,
+      "Time": "39:40"
     },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 30,
-      "Time": "39:19"
+      "Score": 36,
+      "Time": "41:19"
     },
     {
       "Name": "nethook.dll",
       "Steam": "76561198763517260",
-      "Score": 116,
+      "Score": 122,
+      "Time": "??:??"
+    },
+    {
+      "Name": "back to hvh after like 6 months",
+      "Steam": "76561198773057334",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
