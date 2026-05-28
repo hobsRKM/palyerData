@@ -1,58 +1,58 @@
 {
-  "Time": "2026-05-28T18:28:26.4097804Z",
+  "Time": "2026-05-28T18:30:26.3949034Z",
   "Players": [
+    {
+      "Name": "marley",
+      "Steam": "76561199626903344",
+      "Score": 54,
+      "Time": "01:23"
+    },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 23,
-      "Time": "16:41"
+      "Score": 28,
+      "Time": "18:41"
     },
     {
       "Name": "awna",
       "Steam": "76561198772193436",
-      "Score": 22,
-      "Time": "41:45"
+      "Score": 25,
+      "Time": "43:45"
     },
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 56,
-      "Time": "34:38"
+      "Score": 64,
+      "Time": "36:38"
     },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 47,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 5,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
-    },
-    {
-      "Name": "Accelerationist",
-      "Steam": "76561198996981941",
-      "Score": 19,
-      "Time": "11:07"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 15,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "zufinho",
       "Steam": "76561199184244168",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
