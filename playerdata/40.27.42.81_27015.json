@@ -1,46 +1,58 @@
 {
-  "Time": "2026-05-28T21:20:26.4075615Z",
+  "Time": "2026-05-28T21:22:26.3973395Z",
   "Players": [
     {
       "Name": "skiddy",
       "Steam": "76561198806497985",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
+    },
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 2,
+      "Time": "01:29"
     },
     {
       "Name": "Henrique Cassiraghi",
       "Steam": "76561198047261409",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "dylanross14@icloud.com",
       "Steam": "76561198777456698",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Chemical",
-      "Steam": "76561199122146999",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "missedlmao",
       "Steam": "76561198758675938",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "OLLY",
       "Steam": "76561198322362709",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Alwaisi",
+      "Steam": "76561198850906559",
+      "Score": 1,
+      "Time": "45:17"
+    },
+    {
+      "Name": "silo (worst cs2 player)",
+      "Steam": "76561199567691578",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "rain",
       "Steam": "76561199847868570",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     }
   ]
