@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-28T16:34:26.3978656Z",
+  "Time": "2026-05-28T16:36:26.3980872Z",
   "Players": [
+    {
+      "Name": "Alwaisi",
+      "Steam": "76561198850906559",
+      "Score": 0,
+      "Time": "00:39"
+    },
     {
       "Name": "nethook.dll",
       "Steam": "76561198763517260",
-      "Score": 20,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "Reiko\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
       "Steam": "76561197996616313",
-      "Score": 2,
-      "Time": "02:06"
+      "Score": 8,
+      "Time": "04:06"
     },
     {
       "Name": "denz",
@@ -22,13 +28,13 @@
     {
       "Name": "fuze",
       "Steam": "76561199273977862",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "j",
       "Steam": "76561198704251667",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
