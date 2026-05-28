@@ -1,46 +1,52 @@
 {
-  "Time": "2026-05-28T19:46:26.4076861Z",
+  "Time": "2026-05-28T19:48:26.4084061Z",
   "Players": [
+    {
+      "Name": "Terry Terror",
+      "Steam": "76561199871203946",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "hendedenlille",
       "Steam": "76561198864658344",
-      "Score": 26,
-      "Time": "05:25"
+      "Score": 28,
+      "Time": "07:25"
     },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 3,
-      "Time": "05:44"
+      "Score": 4,
+      "Time": "07:44"
     },
     {
       "Name": "Accelerationist",
       "Steam": "76561198996981941",
-      "Score": 16,
-      "Time": "53:59"
+      "Score": 22,
+      "Time": "55:59"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 19,
-      "Time": "19:29"
+      "Score": 21,
+      "Time": "21:29"
     },
     {
       "Name": "rain",
       "Steam": "76561199847868570",
-      "Score": 101,
+      "Score": 109,
       "Time": "??:??"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 71,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "nio",
       "Steam": "76561199158419168",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
