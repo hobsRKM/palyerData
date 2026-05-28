@@ -1,35 +1,35 @@
 {
-  "Time": "2026-05-28T07:54:59.1529149Z",
+  "Time": "2026-05-28T07:56:59.16203Z",
   "Players": [
+    {
+      "Name": "not a catboy",
+      "Steam": "76561198695634327",
+      "Score": 6,
+      "Time": "00:56"
+    },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 64,
-      "Time": "??:??"
-    },
-    {
-      "Name": "*✧･ﾟ: *✧･ﾟ:",
-      "Steam": "76561198716751557",
-      "Score": 0,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "Erosionnnnn",
       "Steam": "76561199520255801",
       "Score": 14,
-      "Time": "08:38"
+      "Time": "10:38"
     },
     {
       "Name": "martini♡  ≽^•⩊•^≼",
       "Steam": "76561198700071912",
-      "Score": 20,
-      "Time": "77:28"
+      "Score": 24,
+      "Time": "79:28"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 43,
-      "Time": "13:17"
+      "Score": 53,
+      "Time": "15:17"
     }
   ]
 }
