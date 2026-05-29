@@ -1,4 +1,23 @@
 {
-  "Time": "2026-05-29T08:10:25.5301191Z",
-  "Players": []
+  "Time": "2026-05-29T08:11:23.000096Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "alexia gatt",
+      "Steam": "76561198773057334",
+      "Score": 2,
+      "Time": "01:11"
+    },
+    {
+      "Name": "aimware.net on top",
+      "Steam": "76561199506925277",
+      "Score": 2,
+      "Time": "01:50"
+    }
+  ]
 }
