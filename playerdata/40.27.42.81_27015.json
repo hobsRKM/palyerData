@@ -1,58 +1,64 @@
 {
-  "Time": "2026-05-29T15:41:01.1496458Z",
+  "Time": "2026-05-29T15:43:01.1445418Z",
   "Players": [
+    {
+      "Name": "oyen",
+      "Steam": "76561199049807914",
+      "Score": 4,
+      "Time": "00:35"
+    },
     {
       "Name": "1",
       "Steam": "76561199680874612",
-      "Score": 30,
-      "Time": "129:36"
+      "Score": 34,
+      "Time": "131:36"
     },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 63,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "TESTING PLAGUECHEAT",
       "Steam": "76561198696791617",
-      "Score": 23,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "CS2 HVH GOD",
       "Steam": "76561198774659014",
-      "Score": 59,
-      "Time": "50:15"
+      "Score": 63,
+      "Time": "52:15"
     },
     {
       "Name": "rasakan abadi",
       "Steam": "76561198372107439",
-      "Score": 46,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "LOL",
       "Steam": "76561198697311862",
-      "Score": 14,
-      "Time": "05:34"
+      "Score": 20,
+      "Time": "07:34"
     },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199846495763",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Кракен",
       "Steam": "76561199156395215",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
@@ -64,7 +70,7 @@
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
