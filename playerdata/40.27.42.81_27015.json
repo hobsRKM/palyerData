@@ -1,28 +1,34 @@
 {
-  "Time": "2026-05-29T11:23:01.1462158Z",
+  "Time": "2026-05-29T11:25:01.1541529Z",
   "Players": [
     {
       "Name": "dawn",
       "Steam": "76561199811991561",
-      "Score": 47,
-      "Time": "40:59"
+      "Score": 57,
+      "Time": "42:59"
     },
     {
       "Name": "marg simpton",
       "Steam": "76561199827242653",
-      "Score": 17,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 30,
+      "Score": 37,
       "Time": "??:??"
     },
     {
-      "Name": "r@d14nc3.lua alice",
+      "Name": "radiance.lua alice",
       "Steam": "76561198803753163",
-      "Score": 31,
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aim",
+      "Steam": "76561199826685794",
+      "Score": 5,
       "Time": "??:??"
     }
   ]
