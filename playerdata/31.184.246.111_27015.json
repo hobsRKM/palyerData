@@ -1,47 +1,59 @@
 {
-  "Time": "2026-05-29T20:17:22.9899344Z",
+  "Time": "2026-05-29T20:18:13.2987986Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Ironic",
+      "Steam": "76561199682137830",
+      "Score": 3,
+      "Time": "199:10"
+    },
+    {
+      "Name": "ᵏᵗ Seiðr",
+      "Steam": "76561198333235279",
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "atte",
+      "Steam": "76561198960818392",
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "was say nima",
+      "Steam": "76561198784082937",
+      "Score": 20,
+      "Time": "245:40"
+    },
+    {
+      "Name": "elegmar",
+      "Steam": "76561199377656100",
+      "Score": 22,
+      "Time": "136:35"
+    },
+    {
+      "Name": "xyniz777",
+      "Steam": "76561199795878042",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "master",
+      "Steam": "76561199889225791",
+      "Score": 20,
+      "Time": "45:14"
+    },
+    {
+      "Name": "\"'",
+      "Steam": "76561199028888055",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Lx",
-      "Steam": "76561199737816918",
-      "Score": 0,
+      "Name": "caccbobby",
+      "Steam": "76561198742092421",
+      "Score": 31,
       "Time": "??:??"
-    },
-    {
-      "Name": "PALESTINE",
-      "Steam": "76561198710074880",
-      "Score": 40,
-      "Time": "08:24"
-    },
-    {
-      "Name": "gime da lighter",
-      "Steam": "76561198402164823",
-      "Score": 59,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Cipri 120hz",
-      "Steam": "76561199197586731",
-      "Score": 28,
-      "Time": "??:??"
-    },
-    {
-      "Name": "NoCheatsDetected",
-      "Steam": "76561198732254499",
-      "Score": 40,
-      "Time": "21:34"
-    },
-    {
-      "Name": "Infantrit",
-      "Steam": "76561199827876555",
-      "Score": 87,
-      "Time": "17:48"
     }
   ]
 }
