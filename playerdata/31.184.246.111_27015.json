@@ -1,4 +1,35 @@
 {
-  "Time": "2026-05-29T14:32:25.5318055Z",
-  "Players": []
+  "Time": "2026-05-29T14:33:23.0012553Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ant1soc1al",
+      "Steam": "76561198703199544",
+      "Score": 8,
+      "Time": "03:58"
+    },
+    {
+      "Name": "therockisthegoat7",
+      "Steam": "76561198699826089",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nikotin_racoon",
+      "Steam": "76561199240373962",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MazniqKrischo",
+      "Steam": "76561199054488671",
+      "Score": 8,
+      "Time": "??:??"
+    }
+  ]
 }
