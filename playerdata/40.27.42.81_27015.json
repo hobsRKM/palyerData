@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-29T16:37:01.1564766Z",
+  "Time": "2026-05-29T16:39:01.1571138Z",
   "Players": [
+    {
+      "Name": "awwna",
+      "Steam": "76561198772193436",
+      "Score": 0,
+      "Time": "00:50"
+    },
     {
       "Name": "members only",
       "Steam": "76561199320146894",
       "Score": 1,
-      "Time": "10:08"
+      "Time": "12:08"
     },
     {
       "Name": "TESTING PLAGUECHEAT",
       "Steam": "76561198696791617",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "CS2 HVH GOD",
       "Steam": "76561198774659014",
-      "Score": 48,
-      "Time": "106:15"
+      "Score": 61,
+      "Time": "108:15"
     },
     {
       "Name": "Deags",
@@ -28,7 +34,7 @@
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 34,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -40,7 +46,7 @@
     {
       "Name": "dylanross14@icloud.com",
       "Steam": "76561198777456698",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
