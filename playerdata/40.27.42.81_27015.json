@@ -1,53 +1,59 @@
 {
-  "Time": "2026-05-29T22:33:01.1571899Z",
+  "Time": "2026-05-29T22:35:01.1508048Z",
   "Players": [
+    {
+      "Name": "astro",
+      "Steam": "76561199823229077",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "skeet.cc",
       "Steam": "76561198699084551",
-      "Score": 3,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 49,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "buggati",
       "Steam": "76561199050170734",
-      "Score": 2,
-      "Time": "01:20"
+      "Score": 14,
+      "Time": "03:20"
     },
     {
       "Name": "martini♡  ≽^•⩊•^≼",
       "Steam": "76561198700071912",
-      "Score": 35,
+      "Score": 43,
       "Time": "??:??"
     },
     {
-      "Name": "mouse user",
-      "Steam": "76561198698549107",
-      "Score": 4,
+      "Name": "nrv",
+      "Steam": "76561198166519466",
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Fluffer Nutter",
       "Steam": "76561199080397143",
-      "Score": 42,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "Крутой",
       "Steam": "76561199648798483",
-      "Score": 18,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Kermit",
       "Steam": "76561199133390791",
-      "Score": 10,
-      "Time": "11:44"
+      "Score": 13,
+      "Time": "13:44"
     }
   ]
 }
