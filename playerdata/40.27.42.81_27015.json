@@ -1,35 +1,47 @@
 {
-  "Time": "2026-05-30T00:53:01.2643837Z",
+  "Time": "2026-05-30T00:55:01.2734408Z",
   "Players": [
+    {
+      "Name": "Kaneki",
+      "Steam": "76561198775750125",
+      "Score": 0,
+      "Time": "00:56"
+    },
     {
       "Name": "astro",
       "Steam": "76561199823229077",
-      "Score": 25,
-      "Time": "02:05"
+      "Score": 0,
+      "Time": "04:05"
     },
     {
       "Name": "One Two Three Four Five SixSeven",
       "Steam": "76561199480435299",
-      "Score": 2,
-      "Time": "18:24"
+      "Score": 0,
+      "Time": "20:24"
+    },
+    {
+      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Ξ. ]",
+      "Steam": "76561198705115405",
+      "Score": 0,
+      "Time": "218:56"
     },
     {
       "Name": "revenant p2c",
       "Steam": "76561199546140339",
-      "Score": 48,
-      "Time": "41:38"
+      "Score": 0,
+      "Time": "43:38"
     },
     {
       "Name": "Junkis",
       "Steam": "76561199675406378",
-      "Score": 60,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "anderdingus",
       "Steam": "76561198343112799",
-      "Score": 87,
-      "Time": "19:43"
+      "Score": 0,
+      "Time": "21:43"
     }
   ]
 }
