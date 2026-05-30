@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-30T12:41:07.2012655Z",
+  "Time": "2026-05-30T12:43:07.2003111Z",
   "Players": [
     {
       "Name": "dsc.gg/amiss",
       "Steam": "76561199826005735",
-      "Score": 8,
-      "Time": "57:48"
+      "Score": 10,
+      "Time": "59:48"
     },
     {
       "Name": "Loser",
       "Steam": "76561199866093711",
-      "Score": 52,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "dawn",
       "Steam": "76561199811991561",
-      "Score": 22,
-      "Time": "23:08"
+      "Score": 28,
+      "Time": "25:08"
+    },
+    {
+      "Name": "yanrewatching",
+      "Steam": "76561198701366920",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
