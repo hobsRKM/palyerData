@@ -1,29 +1,35 @@
 {
-  "Time": "2026-05-30T05:41:01.6982636Z",
+  "Time": "2026-05-30T05:43:01.6866195Z",
   "Players": [
     {
       "Name": "bit",
       "Steam": "76561199031753721",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Kaneki",
       "Steam": "76561198775750125",
-      "Score": 8,
-      "Time": "04:19"
+      "Score": 16,
+      "Time": "06:19"
     },
     {
       "Name": "FortniteBurgerPro",
       "Steam": "76561198698243333",
-      "Score": 52,
-      "Time": "10:35"
+      "Score": 54,
+      "Time": "12:35"
     },
     {
       "Name": "Aru",
       "Steam": "76561199711763340",
-      "Score": 59,
-      "Time": "204:12"
+      "Score": 69,
+      "Time": "206:12"
+    },
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 38,
+      "Time": "01:52"
     },
     {
       "Name": "DeathTune",
@@ -34,32 +40,32 @@
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "just smurfing",
       "Steam": "76561199567097190",
       "Score": 11,
-      "Time": "10:49"
+      "Time": "12:49"
     },
     {
       "Name": "skiddy",
       "Steam": "76561198806497985",
-      "Score": 7,
-      "Time": "371:22"
+      "Score": 9,
+      "Time": "373:21"
     },
     {
       "Name": "Наротадатель",
       "Steam": "76561198860463318",
-      "Score": 18,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Emperor",
       "Steam": "76561198273920000",
-      "Score": 30,
-      "Time": "193:27"
+      "Score": 34,
+      "Time": "195:27"
     }
   ]
 }
