@@ -1,4 +1,29 @@
 {
-  "Time": "2026-05-30T18:58:02.5591619Z",
-  "Players": []
+  "Time": "2026-05-30T18:58:28.3572797Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "retardedPlayer",
+      "Steam": "76561199873455790",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Enz0",
+      "Steam": "76561198708659966",
+      "Score": 1,
+      "Time": "105:12"
+    },
+    {
+      "Name": "happy meme user",
+      "Steam": "76561198779638777",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
