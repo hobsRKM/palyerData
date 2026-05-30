@@ -1,59 +1,65 @@
 {
-  "Time": "2026-05-30T06:07:01.8814291Z",
+  "Time": "2026-05-30T06:09:01.8984859Z",
   "Players": [
     {
       "Name": "1",
       "Steam": "76561199680874612",
-      "Score": 4,
-      "Time": "01:37"
+      "Score": 8,
+      "Time": "03:37"
     },
     {
       "Name": "astro",
       "Steam": "76561199823229077",
-      "Score": 39,
-      "Time": "23:43"
+      "Score": 45,
+      "Time": "25:43"
     },
     {
       "Name": "bit",
       "Steam": "76561199031753721",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
+    },
+    {
+      "Name": "Hood Sheriff",
+      "Steam": "76561199581407714",
+      "Score": 0,
+      "Time": "519:49"
     },
     {
       "Name": "FortniteBurgerPro",
       "Steam": "76561198698243333",
-      "Score": 72,
-      "Time": "36:35"
+      "Score": 73,
+      "Time": "38:35"
     },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 64,
-      "Time": "03:22"
+      "Score": 74,
+      "Time": "05:22"
     },
     {
       "Name": "solidification of lies you told",
       "Steam": "76561199050170734",
-      "Score": 12,
-      "Time": "09:14"
+      "Score": 0,
+      "Time": "11:14"
     },
     {
       "Name": "just smurfing",
       "Steam": "76561199567097190",
       "Score": 21,
-      "Time": "36:49"
+      "Time": "38:49"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
       "Score": 31,
-      "Time": "18:45"
+      "Time": "20:45"
     },
     {
       "Name": "Emperor",
       "Steam": "76561198273920000",
-      "Score": 54,
-      "Time": "219:27"
+      "Score": 60,
+      "Time": "221:27"
     }
   ]
 }
