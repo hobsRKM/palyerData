@@ -1,6 +1,12 @@
 {
-  "Time": "2026-05-30T01:25:01.303497Z",
+  "Time": "2026-05-30T01:27:01.3037488Z",
   "Players": [
+    {
+      "Name": "Kaneki",
+      "Steam": "76561198775750125",
+      "Score": 0,
+      "Time": "00:13"
+    },
     {
       "Name": "drooling",
       "Steam": "76561199681784844",
@@ -10,20 +16,32 @@
     {
       "Name": "astro",
       "Steam": "76561199823229077",
-      "Score": 0,
-      "Time": "34:05"
+      "Score": 9,
+      "Time": "36:05"
     },
     {
       "Name": "R5!",
       "Steam": "76561198783136112",
-      "Score": 0,
-      "Time": "12:50"
+      "Score": 9,
+      "Time": "14:50"
     },
     {
-      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ | ]",
-      "Steam": "76561198705115405",
+      "Name": "send feet  picks",
+      "Steam": "76561198024285728",
       "Score": 0,
-      "Time": "25:23"
+      "Time": "01:05"
+    },
+    {
+      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Εσς ]",
+      "Steam": "76561198705115405",
+      "Score": 4,
+      "Time": "27:23"
+    },
+    {
+      "Name": "caden landry",
+      "Steam": "76561198959798256",
+      "Score": 0,
+      "Time": "01:01"
     },
     {
       "Name": "RedBreezyE",
@@ -34,26 +52,32 @@
     {
       "Name": "Junkis",
       "Steam": "76561199675406378",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Crimson King",
       "Steam": "76561199377615961",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "mucinex00",
+      "Steam": "76561199870756565",
+      "Score": 2,
+      "Time": "01:04"
     },
     {
       "Name": "anderdingus",
       "Steam": "76561198343112799",
-      "Score": 0,
-      "Time": "51:43"
+      "Score": 18,
+      "Time": "53:43"
     },
     {
       "Name": "Kermit",
       "Steam": "76561199133390791",
-      "Score": 0,
-      "Time": "23:29"
+      "Score": 2,
+      "Time": "25:29"
     }
   ]
 }
