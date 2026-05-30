@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-30T06:17:02.0164022Z",
+  "Time": "2026-05-30T06:19:02.0512242Z",
   "Players": [
     {
       "Name": "1",
       "Steam": "76561199680874612",
-      "Score": 21,
-      "Time": "11:37"
+      "Score": 22,
+      "Time": "13:37"
+    },
+    {
+      "Name": "Core",
+      "Steam": "76561198176850869",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "astro",
       "Steam": "76561199823229077",
-      "Score": 59,
-      "Time": "33:43"
+      "Score": 64,
+      "Time": "35:43"
     },
     {
       "Name": "bit",
@@ -22,56 +28,56 @@
     {
       "Name": "Hood Sheriff",
       "Steam": "76561199581407714",
-      "Score": 18,
-      "Time": "527:49"
+      "Score": 21,
+      "Time": "529:49"
     },
     {
       "Name": "FortniteBurgerPro",
       "Steam": "76561198698243333",
-      "Score": 103,
-      "Time": "46:35"
+      "Score": 114,
+      "Time": "48:35"
     },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 109,
-      "Time": "13:22"
+      "Score": 113,
+      "Time": "15:22"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
       "Score": 0,
-      "Time": "00:18"
+      "Time": "02:18"
     },
     {
       "Name": "solidification of lies you told",
       "Steam": "76561199050170734",
-      "Score": 22,
-      "Time": "19:14"
+      "Score": 26,
+      "Time": "21:14"
     },
     {
       "Name": "just smurfing",
       "Steam": "76561199567097190",
       "Score": 25,
-      "Time": "46:50"
+      "Time": "48:50"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 49,
-      "Time": "28:45"
+      "Score": 57,
+      "Time": "30:45"
     },
     {
-      "Name": "[Mon] Snipey",
-      "Steam": "76561199520240630",
-      "Score": 2,
-      "Time": "??:??"
+      "Name": "Наротадатель",
+      "Steam": "76561198860463318",
+      "Score": 20,
+      "Time": "00:34"
     },
     {
       "Name": "Emperor",
       "Steam": "76561198273920000",
-      "Score": 79,
-      "Time": "229:28"
+      "Score": 93,
+      "Time": "231:28"
     }
   ]
 }
