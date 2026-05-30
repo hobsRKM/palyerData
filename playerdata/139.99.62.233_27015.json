@@ -1,35 +1,47 @@
 {
-  "Time": "2026-05-30T20:03:21.7743002Z",
+  "Time": "2026-05-30T20:05:21.9546484Z",
   "Players": [
+    {
+      "Name": "VAGOS",
+      "Steam": "76561198104737678",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Saphirus",
       "Steam": "76561198696925752",
-      "Score": 0,
-      "Time": "53:18"
+      "Score": 14,
+      "Time": "55:18"
     },
     {
-      "Name": "> AURA_ | Skateboard Horse",
+      "Name": "> AU_ | Skateboard Horse",
       "Steam": "76561199496878251",
-      "Score": 2,
-      "Time": "228:36"
+      "Score": 14,
+      "Time": "230:36"
     },
     {
       "Name": "疑心病",
       "Steam": "76561199225062095",
       "Score": 0,
-      "Time": "24:04"
+      "Time": "26:04"
     },
     {
       "Name": "SiLxnZer",
       "Steam": "76561199002500021",
-      "Score": 0,
-      "Time": "02:12"
+      "Score": 2,
+      "Time": "04:13"
     },
     {
       "Name": "BIJLIKABILLTERABAAPBHARYGA",
       "Steam": "76561198696276501",
       "Score": 0,
-      "Time": "09:54"
+      "Time": "11:54"
+    },
+    {
+      "Name": "RYDZU666",
+      "Steam": "76561198720758560",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
