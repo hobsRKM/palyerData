@@ -1,47 +1,59 @@
 {
-  "Time": "2026-05-30T03:23:01.5367192Z",
+  "Time": "2026-05-30T03:25:01.5377009Z",
   "Players": [
     {
       "Name": "urie",
       "Steam": "76561199068573652",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 5,
+      "Time": "00:03"
     },
     {
       "Name": "1",
       "Steam": "76561199680874612",
-      "Score": 6,
-      "Time": "114:56"
+      "Score": 12,
+      "Time": "116:56"
+    },
+    {
+      "Name": "lilwalkemdown23",
+      "Steam": "76561198742184205",
+      "Score": 0,
+      "Time": "335:12"
+    },
+    {
+      "Name": "zerotwo",
+      "Steam": "76561199877650336",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 42,
-      "Time": "10:55"
+      "Score": 51,
+      "Time": "12:55"
     },
     {
       "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
       "Steam": "76561198705115405",
-      "Score": 1,
-      "Time": "02:11"
+      "Score": 5,
+      "Time": "04:11"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 28,
-      "Time": "116:01"
+      "Score": 32,
+      "Time": "118:01"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 9,
-      "Time": "06:52"
+      "Score": 20,
+      "Time": "08:52"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 120,
-      "Time": "91:31"
+      "Score": 122,
+      "Time": "93:31"
     }
   ]
 }
