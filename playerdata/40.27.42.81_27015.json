@@ -1,40 +1,52 @@
 {
-  "Time": "2026-05-30T03:51:01.5480301Z",
+  "Time": "2026-05-30T03:53:01.5466966Z",
   "Players": [
+    {
+      "Name": "1",
+      "Steam": "76561199680874612",
+      "Score": 0,
+      "Time": "00:04"
+    },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 9,
-      "Time": "361:12"
+      "Score": 13,
+      "Time": "363:12"
     },
     {
       "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
       "Steam": "76561198705115405",
-      "Score": 0,
-      "Time": "30:11"
+      "Score": 5,
+      "Time": "32:11"
     },
     {
       "Name": "solidification of lies you told",
       "Steam": "76561199050170734",
       "Score": 9,
-      "Time": "02:02"
+      "Time": "00:50"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 22,
-      "Time": "144:01"
+      "Score": 26,
+      "Time": "146:01"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 23,
-      "Time": "34:52"
+      "Score": 26,
+      "Time": "36:52"
+    },
+    {
+      "Name": "blazashoot",
+      "Steam": "76561199509735682",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Наротадатель",
       "Steam": "76561198860463318",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
