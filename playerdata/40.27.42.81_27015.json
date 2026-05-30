@@ -1,6 +1,12 @@
 {
-  "Time": "2026-05-30T22:55:07.202432Z",
+  "Time": "2026-05-30T23:01:07.2073804Z",
   "Players": [
+    {
+      "Name": "loli",
+      "Steam": "76561198700235207",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
@@ -10,26 +16,32 @@
     {
       "Name": "just smurfing",
       "Steam": "76561199567097190",
-      "Score": 10,
+      "Score": 17,
       "Time": "??:??"
     },
     {
-      "Name": "abctraphouse",
-      "Steam": "76561199480435299",
-      "Score": 7,
-      "Time": "51:03"
+      "Name": "CRAZYCHICKEN",
+      "Steam": "76561198291216619",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "stamiisthebestn\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
+      "Steam": "76561198705115405",
+      "Score": 6,
+      "Time": "01:15"
     },
     {
       "Name": "Gamesensed",
       "Steam": "76561198698744116",
-      "Score": 12,
-      "Time": "21:51"
+      "Score": 24,
+      "Time": "27:51"
     },
     {
       "Name": "Spinning Till we Dizzy",
       "Steam": "76561198174493433",
-      "Score": 7,
-      "Time": "29:41"
+      "Score": 30,
+      "Time": "35:41"
     }
   ]
 }
