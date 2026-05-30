@@ -1,23 +1,29 @@
 {
-  "Time": "2026-05-30T00:41:01.2627878Z",
+  "Time": "2026-05-30T00:43:01.2704739Z",
   "Players": [
+    {
+      "Name": "Kaneki",
+      "Steam": "76561198775750125",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "astro",
+      "Steam": "76561199823229077",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "One Two Three Four Five SixSeven",
       "Steam": "76561199480435299",
-      "Score": 22,
-      "Time": "06:24"
-    },
-    {
-      "Name": "Junior .",
-      "Steam": "76561199836886163",
       "Score": 0,
-      "Time": "07:15"
+      "Time": "08:24"
     },
     {
       "Name": "revenant p2c",
       "Steam": "76561199546140339",
-      "Score": 4,
-      "Time": "29:38"
+      "Score": 10,
+      "Time": "31:38"
     },
     {
       "Name": "Junkis",
@@ -28,14 +34,14 @@
     {
       "Name": "dylanross14@icloud.com",
       "Steam": "76561198777456698",
-      "Score": 0,
-      "Time": "59:05"
+      "Score": 7,
+      "Time": "61:05"
     },
     {
       "Name": "anderdingus",
       "Steam": "76561198343112799",
-      "Score": 47,
-      "Time": "07:43"
+      "Score": 55,
+      "Time": "09:43"
     }
   ]
 }
