@@ -1,47 +1,53 @@
 {
-  "Time": "2026-05-30T03:17:01.5447747Z",
+  "Time": "2026-05-30T03:19:01.5422253Z",
   "Players": [
+    {
+      "Name": "1",
+      "Steam": "76561199680874612",
+      "Score": 0,
+      "Time": "110:56"
+    },
     {
       "Name": "opsecharmfuldox",
       "Steam": "76561198734675804",
-      "Score": 29,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 20,
-      "Time": "04:55"
+      "Score": 28,
+      "Time": "06:55"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 0,
-      "Time": "110:01"
+      "Score": 10,
+      "Time": "112:01"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 0,
-      "Time": "00:52"
+      "Score": 4,
+      "Time": "02:52"
     },
     {
       "Name": "sniper",
       "Steam": "76561198713142450",
       "Score": 4,
-      "Time": "29:07"
+      "Time": "31:07"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 84,
-      "Time": "85:32"
+      "Score": 92,
+      "Time": "87:31"
     },
     {
       "Name": "马思维",
       "Steam": "76561199712427690",
-      "Score": 49,
-      "Time": "201:14"
+      "Score": 53,
+      "Time": "203:14"
     }
   ]
 }
