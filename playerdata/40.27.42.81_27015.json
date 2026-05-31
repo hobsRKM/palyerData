@@ -1,11 +1,17 @@
 {
-  "Time": "2026-05-31T13:50:59.3782309Z",
+  "Time": "2026-05-31T13:52:59.3865569Z",
   "Players": [
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 15,
-      "Time": "82:42"
+      "Score": 16,
+      "Time": "84:42"
+    },
+    {
+      "Name": "Snipey",
+      "Steam": "76561199520240630",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "yanrewatching",
@@ -17,37 +23,37 @@
       "Name": "Kermit",
       "Steam": "76561199133390791",
       "Score": 0,
-      "Time": "00:32"
+      "Time": "02:32"
     },
     {
       "Name": "VeX",
       "Steam": "76561198400720884",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "NotKenny",
       "Steam": "76561199870970905",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Cummer",
       "Steam": "76561199446263993",
-      "Score": 1,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "czm",
       "Steam": "76561197962516811",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "coma",
       "Steam": "76561199805557263",
-      "Score": 17,
-      "Time": "02:55"
+      "Score": 23,
+      "Time": "04:55"
     }
   ]
 }
