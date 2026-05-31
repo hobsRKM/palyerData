@@ -1,35 +1,35 @@
 {
-  "Time": "2026-05-31T19:38:59.3831325Z",
+  "Time": "2026-05-31T19:40:59.3824053Z",
   "Players": [
     {
       "Name": "Serpent NX NXC.. BS_Official",
       "Steam": "76561198748012660",
-      "Score": 16,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zero",
+      "Steam": "76561199616407796",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 11,
-      "Time": "04:36"
+      "Score": 13,
+      "Time": "06:36"
     },
     {
       "Name": "1",
       "Steam": "76561199680874612",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "fenn",
       "Steam": "76561199010808448",
-      "Score": 20,
-      "Time": "198:28"
-    },
-    {
-      "Name": "Serpent",
-      "Steam": "76561199453255014",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 32,
+      "Time": "200:28"
     }
   ]
 }
