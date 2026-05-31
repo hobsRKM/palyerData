@@ -1,34 +1,40 @@
 {
-  "Time": "2026-05-31T12:31:52.5354857Z",
+  "Time": "2026-05-31T12:32:36.9847802Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "226:07"
+    },
+    {
+      "Name": "black water",
+      "Steam": "76561198979210191",
+      "Score": 65,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bex",
+      "Steam": "76561197991177265",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "mreow meow mrrp ;3",
-      "Steam": "76561198700440950",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "Cubacumbucumbada",
+      "Steam": "76561199851159946",
+      "Score": 72,
+      "Time": "18:24"
     },
     {
-      "Name": "GrandSo",
-      "Steam": "76561199407587013",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "SlickDaddy",
+      "Steam": "76561198861973580",
+      "Score": 2,
+      "Time": "14:56"
     },
     {
-      "Name": "Rajloker",
-      "Steam": "76561199613256805",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "anti",
-      "Steam": "76561199036536422",
-      "Score": 0,
+      "Name": "Plexyyys",
+      "Steam": "76561199162395941",
+      "Score": 27,
       "Time": "??:??"
     }
   ]
