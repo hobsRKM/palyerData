@@ -1,46 +1,52 @@
 {
-  "Time": "2026-05-31T22:38:59.3930568Z",
+  "Time": "2026-05-31T22:40:59.3935666Z",
   "Players": [
+    {
+      "Name": "discord.gg/dink",
+      "Steam": "76561198695729939",
+      "Score": 16,
+      "Time": "01:42"
+    },
     {
       "Name": "[H] Peanut-_-.",
       "Steam": "76561199153284750",
-      "Score": 10,
-      "Time": "05:03"
+      "Score": 15,
+      "Time": "07:03"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "luvclassist",
       "Steam": "76561198695257041",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "tea",
       "Steam": "76561198129219406",
-      "Score": 13,
-      "Time": "53:59"
+      "Score": 25,
+      "Time": "55:59"
     },
     {
       "Name": "NotKenny",
       "Steam": "76561199870970905",
       "Score": 0,
-      "Time": "250:56"
+      "Time": "252:56"
     },
     {
       "Name": "czm",
       "Steam": "76561197962516811",
-      "Score": 38,
-      "Time": "57:33"
+      "Score": 43,
+      "Time": "59:33"
     },
     {
       "Name": "Texes",
       "Steam": "76561199885903852",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
