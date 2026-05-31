@@ -1,16 +1,22 @@
 {
-  "Time": "2026-05-31T14:18:47.5617101Z",
+  "Time": "2026-05-31T14:20:47.5717692Z",
   "Players": [
+    {
+      "Name": "Skateboard Horse",
+      "Steam": "76561199496878251",
+      "Score": 0,
+      "Time": "00:02"
+    },
     {
       "Name": "李长生",
       "Steam": "76561199888440055",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     }
   ]
