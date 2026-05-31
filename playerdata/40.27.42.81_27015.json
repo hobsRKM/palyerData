@@ -1,70 +1,82 @@
 {
-  "Time": "2026-05-31T01:07:07.2147327Z",
+  "Time": "2026-05-31T01:09:07.2072263Z",
   "Players": [
+    {
+      "Name": "123",
+      "Steam": "76561198969530926",
+      "Score": 8,
+      "Time": "??:??"
+    },
     {
       "Name": "just conquering everything",
       "Steam": "76561198077496630",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "babylama",
       "Steam": "76561199567097190",
-      "Score": 1,
-      "Time": "03:58"
+      "Score": 7,
+      "Time": "05:58"
+    },
+    {
+      "Name": "Cantalbyte",
+      "Steam": "76561198087573510",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "stamiisthebestn",
       "Steam": "76561198705115405",
       "Score": 0,
-      "Time": "127:15"
-    },
-    {
-      "Name": "ezfn",
-      "Steam": "76561199845654606",
-      "Score": 4,
-      "Time": "??:??"
+      "Time": "129:15"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 55,
-      "Time": "26:38"
+      "Score": 65,
+      "Time": "28:38"
     },
     {
       "Name": "Sh4dow",
       "Steam": "76561198737453660",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 46,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "837",
       "Steam": "76561199685683520",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Gamesensed",
       "Steam": "76561198698744116",
-      "Score": 6,
-      "Time": "03:55"
+      "Score": 2,
+      "Time": "05:55"
+    },
+    {
+      "Name": "LuckyCharms GOD Build",
+      "Steam": "76561199055238878",
+      "Score": 0,
+      "Time": "00:32"
     },
     {
       "Name": "orospu #tap #intellect",
       "Steam": "76561198773547436",
-      "Score": 44,
+      "Score": 54,
       "Time": "??:??"
     }
   ]
