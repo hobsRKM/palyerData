@@ -1,53 +1,53 @@
 {
-  "Time": "2026-05-31T16:32:59.380696Z",
+  "Time": "2026-05-31T16:34:59.3808784Z",
   "Players": [
+    {
+      "Name": "S1MPLE",
+      "Steam": "76561198725093081",
+      "Score": 0,
+      "Time": "00:58"
+    },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 43,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 41,
-      "Time": "74:44"
+      "Score": 48,
+      "Time": "76:44"
     },
     {
       "Name": "the fucking blueprint",
       "Steam": "76561198734185305",
-      "Score": 26,
-      "Time": "07:15"
+      "Score": 5,
+      "Time": "09:15"
     },
     {
       "Name": "Terry A. Davis",
       "Steam": "76561199275680381",
-      "Score": 4,
-      "Time": "09:28"
+      "Score": 6,
+      "Time": "11:28"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 20,
-      "Time": "06:01"
+      "Score": 35,
+      "Time": "08:01"
     },
     {
       "Name": "czm",
       "Steam": "76561197962516811",
-      "Score": 12,
-      "Time": "53:15"
-    },
-    {
-      "Name": "goy",
-      "Steam": "76561199649950870",
-      "Score": 15,
-      "Time": "137:41"
+      "Score": 14,
+      "Time": "55:15"
     }
   ]
 }
