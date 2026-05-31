@@ -1,4 +1,41 @@
 {
-  "Time": "2026-05-31T18:09:33.9371648Z",
-  "Players": []
+  "Time": "2026-05-31T18:09:52.5375246Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "radiance.lua holyaura",
+      "Steam": "76561198782012460",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pdawg",
+      "Steam": "76561198136181489",
+      "Score": 10,
+      "Time": "139:25"
+    },
+    {
+      "Name": "Martin Riemekasten",
+      "Steam": "76561198757143519",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "2016",
+      "Steam": "76561199772965655",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561198755526598",
+      "Score": 1,
+      "Time": "??:??"
+    }
+  ]
 }
