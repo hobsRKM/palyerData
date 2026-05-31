@@ -1,17 +1,23 @@
 {
-  "Time": "2026-05-31T06:23:07.2455351Z",
+  "Time": "2026-05-31T06:25:07.2564893Z",
   "Players": [
+    {
+      "Name": "デモを見る",
+      "Steam": "76561199777348981",
+      "Score": 0,
+      "Time": "00:41"
+    },
     {
       "Name": "tea",
       "Steam": "76561198129219406",
-      "Score": 17,
-      "Time": "17:47"
+      "Score": 21,
+      "Time": "19:47"
     },
     {
       "Name": "1",
       "Steam": "76561199680874612",
-      "Score": 20,
-      "Time": "80:20"
+      "Score": 24,
+      "Time": "82:20"
     },
     {
       "Name": "city boy",
@@ -23,19 +29,19 @@
       "Name": "babylama",
       "Steam": "76561199567097190",
       "Score": 5,
-      "Time": "92:26"
+      "Time": "94:26"
     },
     {
       "Name": "wock",
       "Steam": "76561198864793756",
-      "Score": 2,
-      "Time": "128:13"
+      "Score": 0,
+      "Time": "130:13"
     },
     {
       "Name": "nevv",
       "Steam": "76561198831187015",
-      "Score": 33,
-      "Time": "20:00"
+      "Score": 41,
+      "Time": "22:00"
     },
     {
       "Name": "bit",
@@ -46,38 +52,44 @@
     {
       "Name": ".d.w.2.fb",
       "Steam": "76561198744402588",
-      "Score": 55,
-      "Time": "35:17"
+      "Score": 73,
+      "Time": "37:17"
+    },
+    {
+      "Name": "Lil Shine #GETRICHORDIESIPPING",
+      "Steam": "76561199849050111",
+      "Score": 0,
+      "Time": "00:20"
+    },
+    {
+      "Name": "What İs My Name?",
+      "Steam": "76561198758473295",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 27,
-      "Time": "30:16"
+      "Score": 32,
+      "Time": "32:16"
     },
     {
       "Name": "財富先生餅乾",
       "Steam": "76561197971478593",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
-      "Name": "dwacwel",
-      "Steam": "76561198751762066",
-      "Score": 13,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 28,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "837",
       "Steam": "76561199685683520",
-      "Score": 18,
-      "Time": "71:06"
+      "Score": 24,
+      "Time": "73:06"
     }
   ]
 }
