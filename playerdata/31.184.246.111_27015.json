@@ -1,53 +1,29 @@
 {
-  "Time": "2026-06-01T23:08:12.3832694Z",
+  "Time": "2026-06-01T23:08:20.5420052Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Meisterkitler",
+      "Steam": "76561198699119286",
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bignamer.",
+      "Steam": "76561198725926475",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mega",
+      "Steam": "76561199686882374",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC",
+      "Steam": "76561198693872924",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "_XXX_",
-      "Steam": "76561198743439867",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "lifelover",
-      "Steam": "76561199218153697",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ozicxn",
-      "Steam": "76561198696706543",
-      "Score": 26,
-      "Time": "??:??"
-    },
-    {
-      "Name": "dxcoy",
-      "Steam": "76561199841956078",
-      "Score": 2,
-      "Time": "09:29"
-    },
-    {
-      "Name": "Hologram",
-      "Steam": "76561198735308697",
-      "Score": 2,
-      "Time": "408:04"
-    },
-    {
-      "Name": "Kalahari On Pancakes",
-      "Steam": "76561199120500237",
-      "Score": 119,
-      "Time": "121:59"
-    },
-    {
-      "Name": "PALESTINE",
-      "Steam": "76561198710074880",
-      "Score": 48,
-      "Time": "123:37"
     }
   ]
 }
