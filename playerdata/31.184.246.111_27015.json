@@ -1,4 +1,47 @@
 {
-  "Time": "2026-06-01T13:14:20.5295754Z",
-  "Players": []
+  "Time": "2026-06-01T13:15:16.5694671Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sync_Vxy",
+      "Steam": "76561198785689440",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[vaclife engineer] John McDonald",
+      "Steam": "76561198719636351",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "player",
+      "Steam": "76561198745196734",
+      "Score": 83,
+      "Time": "13:36"
+    },
+    {
+      "Name": "onion",
+      "Steam": "76561199829321351",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "faceoly",
+      "Steam": "76561199661978395",
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "awd",
+      "Steam": "76561199466941921",
+      "Score": 24,
+      "Time": "??:??"
+    }
+  ]
 }
