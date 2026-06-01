@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-01T13:54:20.5295524Z",
-  "Players": []
+  "Time": "2026-06-01T13:55:16.5712535Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDD86\uD835\uDD97\uD835\uDD8E\uD835\uDD9B\uD835\uDD86",
+      "Steam": "76561198700896726",
+      "Score": 2,
+      "Time": "01:57"
+    },
+    {
+      "Name": "Tess Tickles",
+      "Steam": "76561198703448221",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Enigma hvh user",
+      "Steam": "76561198713209121",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bite",
+      "Steam": "76561199035685761",
+      "Score": 26,
+      "Time": "??:??"
+    }
+  ]
 }
