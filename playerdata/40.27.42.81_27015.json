@@ -1,5 +1,5 @@
 {
-  "Time": "2026-06-01T23:21:01.1126008Z",
+  "Time": "2026-06-01T23:23:01.11097Z",
   "Players": [
     {
       "Name": "////////////",
@@ -10,38 +10,44 @@
     {
       "Name": "jackle the bear",
       "Steam": "76561199480435299",
-      "Score": 18,
-      "Time": "04:10"
+      "Score": 23,
+      "Time": "06:10"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 25,
+      "Score": 32,
       "Time": "??:??"
+    },
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 0,
+      "Time": "221:13"
     },
     {
       "Name": "yewzur",
       "Steam": "76561199881308229",
-      "Score": 23,
-      "Time": "41:25"
+      "Score": 31,
+      "Time": "43:25"
     },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 21,
-      "Time": "60:30"
+      "Score": 29,
+      "Time": "62:30"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 60,
-      "Time": "14:24"
+      "Score": 67,
+      "Time": "16:24"
     },
     {
       "Name": "Lucky",
       "Steam": "76561198700894379",
-      "Score": 6,
-      "Time": "779:36"
+      "Score": 11,
+      "Time": "781:36"
     }
   ]
 }
