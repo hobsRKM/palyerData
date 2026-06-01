@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-01T10:14:20.5296485Z",
-  "Players": []
+  "Time": "2026-06-01T10:15:16.5749791Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Interactive Disassembler 64",
+      "Steam": "76561199111568976",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "#4590 DoomBrige",
+      "Steam": "76561198794411072",
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gelato",
+      "Steam": "76561198016561475",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
