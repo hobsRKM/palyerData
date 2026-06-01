@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-01T13:10:02.4791296Z",
+  "Time": "2026-06-01T13:12:02.5389225Z",
   "Players": [
+    {
+      "Name": "FRANKKK",
+      "Steam": "76561199547287223",
+      "Score": 5,
+      "Time": "01:20"
+    },
     {
       "Name": "Symb",
       "Steam": "76561198747676124",
-      "Score": 26,
-      "Time": "31:43"
+      "Score": 40,
+      "Time": "33:43"
     },
     {
       "Name": "kapus",
       "Steam": "76561198711483423",
-      "Score": 8,
-      "Time": "44:52"
+      "Score": 12,
+      "Time": "46:52"
     },
     {
       "Name": "yen7",
       "Steam": "76561199433570526",
-      "Score": 18,
+      "Score": 21,
       "Time": "??:??"
     },
     {
-      "Name": "lylaa",
+      "Name": "LOLIKON",
       "Steam": "76561198992945452",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "笑笑可以變幸運",
       "Steam": "76561198727778744",
-      "Score": 15,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "˶•ᴗ•˶",
       "Steam": "76561198715874923",
-      "Score": 29,
-      "Time": "10:01"
+      "Score": 35,
+      "Time": "12:01"
     },
     {
       "Name": "SiLxnZer",
       "Steam": "76561199002500021",
-      "Score": 18,
-      "Time": "53:31"
+      "Score": 22,
+      "Time": "55:31"
     }
   ]
 }
