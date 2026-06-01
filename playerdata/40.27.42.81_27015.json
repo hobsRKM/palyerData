@@ -1,34 +1,46 @@
 {
-  "Time": "2026-06-01T19:23:01.1131842Z",
+  "Time": "2026-06-01T19:25:01.107098Z",
   "Players": [
+    {
+      "Name": "perecviktor0",
+      "Steam": "76561198701897861",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Hunt Cheater Buster",
       "Steam": "76561199517981445",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 53,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 70,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "Breathe",
       "Steam": "76561198752220948",
-      "Score": 52,
+      "Score": 60,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gustavgarcia023",
+      "Steam": "76561198707170495",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Agony",
       "Steam": "76561198735582746",
-      "Score": 44,
+      "Score": 54,
       "Time": "??:??"
     },
     {
@@ -41,13 +53,13 @@
       "Name": "skiddy",
       "Steam": "76561198806497985",
       "Score": 42,
-      "Time": "26:14"
+      "Time": "28:14"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "139:12"
+      "Time": "141:12"
     }
   ]
 }
