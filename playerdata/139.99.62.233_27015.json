@@ -1,21 +1,27 @@
 {
-  "Time": "2026-06-01T06:40:00.9261512Z",
+  "Time": "2026-06-01T06:42:00.92394Z",
   "Players": [
+    {
+      "Name": "NoHyper",
+      "Steam": "76561199616840976",
+      "Score": 4,
+      "Time": "01:26"
+    },
     {
       "Name": "Z O M B I E",
       "Steam": "76561198698606894",
-      "Score": 32,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "In jenem Winter verlor ich dich",
       "Steam": "76561199060922164",
       "Score": 4,
-      "Time": "00:45"
+      "Time": "02:45"
     },
     {
-      "Name": "runitdown",
-      "Steam": "76561198698437905",
+      "Name": "zz",
+      "Steam": "76561198765472774",
       "Score": 0,
       "Time": "??:??"
     }
