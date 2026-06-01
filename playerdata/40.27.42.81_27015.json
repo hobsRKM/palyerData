@@ -1,6 +1,18 @@
 {
-  "Time": "2026-06-01T14:29:01.1053093Z",
+  "Time": "2026-06-01T14:31:01.1135476Z",
   "Players": [
+    {
+      "Name": "Logan",
+      "Steam": "76561198696379764",
+      "Score": 4,
+      "Time": "01:04"
+    },
+    {
+      "Name": "jaeychino",
+      "Steam": "76561198722865548",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
@@ -10,25 +22,31 @@
     {
       "Name": "Super Layin",
       "Steam": "76561199832666438",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 45,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ScroogeMcDuck",
       "Steam": "76561198756254005",
       "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "czm",
+      "Steam": "76561197962516811",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
