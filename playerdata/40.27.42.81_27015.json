@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-01T21:29:01.1083365Z",
+  "Time": "2026-06-01T21:31:01.1057463Z",
   "Players": [
     {
       "Name": "/despite",
       "Steam": "76561198129219406",
-      "Score": 64,
+      "Score": 77,
       "Time": "??:??"
+    },
+    {
+      "Name": "members only",
+      "Steam": "76561199320146894",
+      "Score": 0,
+      "Time": "116:02"
     },
     {
       "Name": "justin.webster925",
       "Steam": "76561199522917359",
       "Score": 16,
-      "Time": "23:01"
+      "Time": "25:01"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "grief",
       "Steam": "76561199685683520",
-      "Score": 21,
-      "Time": "12:28"
+      "Score": 24,
+      "Time": "14:28"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 20,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
       "Score": 64,
-      "Time": "28:31"
+      "Time": "30:31"
     }
   ]
 }
