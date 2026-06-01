@@ -1,28 +1,34 @@
 {
-  "Time": "2026-06-01T03:18:59.916242Z",
+  "Time": "2026-06-01T03:20:59.9271875Z",
   "Players": [
+    {
+      "Name": "FREYPAS",
+      "Steam": "76561199509560596",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "tryptafein",
       "Steam": "76561198707968235",
-      "Score": 17,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "jaeychino",
       "Steam": "76561198722865548",
-      "Score": 26,
-      "Time": "18:23"
+      "Score": 33,
+      "Time": "20:23"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 47,
-      "Time": "21:15"
+      "Score": 51,
+      "Time": "23:15"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 12,
+      "Score": 13,
       "Time": "??:??"
     },
     {
@@ -30,6 +36,12 @@
       "Steam": "76561199847868570",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "methylenedioxymethamphetamine",
+      "Steam": "76561199480081357",
+      "Score": 4,
+      "Time": "332:08"
     }
   ]
 }
