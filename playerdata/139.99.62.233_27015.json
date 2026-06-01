@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-01T15:14:06.7036192Z",
+  "Time": "2026-06-01T15:16:06.9219816Z",
   "Players": [
+    {
+      "Name": "1",
+      "Steam": "76561198725086068",
+      "Score": 8,
+      "Time": "??:??"
+    },
     {
       "Name": "kapus",
       "Steam": "76561198711483423",
-      "Score": 33,
-      "Time": "168:56"
+      "Score": 38,
+      "Time": "170:57"
     },
     {
       "Name": "skateboard dog",
       "Steam": "76561199303359682",
       "Score": 29,
-      "Time": "114:42"
+      "Time": "116:43"
     },
     {
       "Name": "yen7",
@@ -22,56 +28,56 @@
     {
       "Name": "˶•ᴗ•˶",
       "Steam": "76561198715874923",
-      "Score": 36,
-      "Time": "11:38"
+      "Score": 41,
+      "Time": "13:39"
     },
     {
       "Name": "Saphirus",
       "Steam": "76561198696925752",
       "Score": 37,
-      "Time": "26:41"
+      "Time": "28:41"
     },
     {
       "Name": "nan",
       "Steam": "76561199847533857",
-      "Score": 62,
-      "Time": "383:52"
+      "Score": 66,
+      "Time": "385:52"
     },
     {
       "Name": "kleo.ce.rv.a.no",
       "Steam": "76561198770003791",
-      "Score": 39,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "看你爹爹干啥",
       "Steam": "76561199048024199",
-      "Score": 20,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDCED\uD835\uDCEE\uD835\uDCEA\uD835\uDCFD\uD835\uDCF1",
       "Steam": "76561199640723323",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "XOXO",
       "Steam": "76561199810524131",
-      "Score": 60,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "RxDer",
       "Steam": "76561199002500021",
-      "Score": 0,
-      "Time": "34:21"
+      "Score": 1,
+      "Time": "36:21"
     },
     {
       "Name": "skateboard cow",
       "Steam": "76561199582103015",
-      "Score": 36,
-      "Time": "24:13"
+      "Score": 38,
+      "Time": "26:14"
     }
   ]
 }
