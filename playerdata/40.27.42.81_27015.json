@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-01T03:44:59.9726128Z",
+  "Time": "2026-06-01T03:46:59.999268Z",
   "Players": [
+    {
+      "Name": "kissmelikeyounevermakethatagain",
+      "Steam": "76561198166519466",
+      "Score": 0,
+      "Time": "00:20"
+    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 31,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "members only",
       "Steam": "76561199320146894",
-      "Score": 27,
-      "Time": "152:37"
+      "Score": 30,
+      "Time": "154:37"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 19,
-      "Time": "06:08"
+      "Score": 28,
+      "Time": "08:08"
     },
     {
       "Name": "A Janky Nicca",
       "Steam": "76561198834456840",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "马思维",
       "Steam": "76561199712427690",
-      "Score": 61,
-      "Time": "192:50"
+      "Score": 63,
+      "Time": "194:50"
     }
   ]
 }
