@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-01T04:21:00.2039267Z",
+  "Time": "2026-06-01T04:23:00.2309501Z",
   "Players": [
+    {
+      "Name": "orospu #tap #intellect",
+      "Steam": "76561198773547436",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "tea",
       "Steam": "76561198129219406",
-      "Score": 15,
-      "Time": "05:28"
+      "Score": 20,
+      "Time": "07:28"
     },
     {
-      "Name": "r0x\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Еσς.C ]",
+      "Name": "r0x\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Eos.Core ]",
       "Steam": "76561197970393276",
-      "Score": 12,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "A Janky Nicca",
       "Steam": "76561198834456840",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "DURRRRRRRRRRRR",
       "Steam": "76561199888461077",
-      "Score": 23,
-      "Time": "13:16"
+      "Score": 27,
+      "Time": "15:16"
     },
     {
       "Name": "vroom vroom",
       "Steam": "76561198822261233",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "马思维",
       "Steam": "76561199712427690",
-      "Score": 24,
-      "Time": "228:50"
+      "Score": 34,
+      "Time": "230:50"
     },
     {
       "Name": "mike",
       "Steam": "76561198978796711",
       "Score": 18,
-      "Time": "04:22"
+      "Time": "06:22"
     }
   ]
 }
