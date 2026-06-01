@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-01T14:46:20.5295856Z",
-  "Players": []
+  "Time": "2026-06-01T14:47:16.571529Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tess Tickles",
+      "Steam": "76561198703448221",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "#4590 DoomBrige",
+      "Steam": "76561198794411072",
+      "Score": 4,
+      "Time": "07:18"
+    },
+    {
+      "Name": "Quantum Entropy Candle",
+      "Steam": "76561199018171457",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ft.neversense.cc",
+      "Steam": "76561198697735577",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Петрович",
+      "Steam": "76561198250857398",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
