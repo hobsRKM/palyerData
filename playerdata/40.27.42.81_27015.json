@@ -1,28 +1,34 @@
 {
-  "Time": "2026-06-02T15:53:17.9450049Z",
+  "Time": "2026-06-02T15:55:17.9378731Z",
   "Players": [
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 28,
-      "Time": "10:07"
+      "Score": 31,
+      "Time": "12:07"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Bananchiki",
       "Steam": "76561199619301187",
-      "Score": 11,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "FLazukyy",
       "Steam": "76561199462844325",
-      "Score": 3,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "classist",
+      "Steam": "76561199507611130",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
