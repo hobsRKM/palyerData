@@ -1,89 +1,95 @@
 {
-  "Time": "2026-06-02T23:31:17.9353101Z",
+  "Time": "2026-06-02T23:33:17.9430802Z",
   "Players": [
+    {
+      "Name": "5",
+      "Steam": "76561198692480565",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "////////////",
       "Steam": "76561199717895190",
-      "Score": 8,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "rope",
       "Steam": "76561198332515437",
-      "Score": 67,
-      "Time": "54:14"
+      "Score": 0,
+      "Time": "56:14"
     },
     {
       "Name": "A_me_a",
       "Steam": "76561199436225054",
-      "Score": 26,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bot",
       "Steam": "76561199830024313",
-      "Score": 65,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "castle | Big Namer",
       "Steam": "76561198122916495",
-      "Score": 30,
-      "Time": "50:03"
+      "Score": 0,
+      "Time": "52:03"
     },
     {
       "Name": "hellen keller",
       "Steam": "76561198960721394",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Wet Like Water",
       "Steam": "76561199830118913",
-      "Score": 51,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Кракен",
-      "Steam": "76561199156395215",
-      "Score": 55,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "B I G X A N T R E S",
       "Steam": "76561198693847657",
-      "Score": 13,
-      "Time": "29:15"
+      "Score": 0,
+      "Time": "31:15"
     },
     {
       "Name": "Gravity gun test drive #2",
       "Steam": "76561198166519466",
-      "Score": 42,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Com",
       "Steam": "76561198141093887",
-      "Score": 95,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 162,
-      "Time": "29:19"
+      "Score": 5,
+      "Time": "31:19"
+    },
+    {
+      "Name": "thor",
+      "Steam": "76561199318830390",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Noki",
       "Steam": "76561198729323702",
       "Score": 0,
-      "Time": "259:01"
+      "Time": "261:01"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 26,
-      "Time": "37:43"
+      "Score": 0,
+      "Time": "39:43"
     },
     {
       "Name": "dream1",
@@ -100,14 +106,14 @@
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 29,
-      "Time": "64:41"
+      "Score": 0,
+      "Time": "66:41"
     },
     {
       "Name": "Gonnacry",
       "Steam": "76561198823126559",
       "Score": 0,
-      "Time": "06:08"
+      "Time": "08:08"
     }
   ]
 }
