@@ -1,53 +1,71 @@
 {
-  "Time": "2026-06-02T00:19:01.1098322Z",
+  "Time": "2026-06-02T00:21:01.109722Z",
   "Players": [
     {
       "Name": "Forsaken",
       "Steam": "76561198787721084",
+      "Score": 4,
+      "Time": "82:02"
+    },
+    {
+      "Name": "favelado",
+      "Steam": "76561198988309860",
       "Score": 0,
-      "Time": "80:02"
+      "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 41,
-      "Time": "64:49"
+      "Score": 47,
+      "Time": "66:49"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 41,
-      "Time": "19:40"
+      "Score": 50,
+      "Time": "21:40"
     },
     {
       "Name": "Rei Ayanami",
       "Steam": "76561198700555285",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
+    },
+    {
+      "Name": "dream1",
+      "Steam": "76561198706868502",
+      "Score": 0,
+      "Time": "01:46"
     },
     {
       "Name": "horse cock",
       "Steam": "76561198697504769",
+      "Score": 16,
+      "Time": "133:55"
+    },
+    {
+      "Name": "kad and shit",
+      "Steam": "76561198708886958",
       "Score": 11,
-      "Time": "131:55"
+      "Time": "02:01"
     },
     {
       "Name": "oli",
       "Steam": "76561197989735694",
-      "Score": 26,
-      "Time": "13:18"
+      "Score": 31,
+      "Time": "15:18"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 106,
+      "Score": 113,
       "Time": "??:??"
     },
     {
       "Name": "Gamesensed",
       "Steam": "76561198698744116",
-      "Score": 2,
-      "Time": "55:15"
+      "Score": 9,
+      "Time": "57:15"
     }
   ]
 }
