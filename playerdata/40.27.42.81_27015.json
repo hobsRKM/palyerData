@@ -1,11 +1,11 @@
 {
-  "Time": "2026-06-02T23:17:17.9377162Z",
+  "Time": "2026-06-02T23:19:17.9407837Z",
   "Players": [
     {
       "Name": "rope",
       "Steam": "76561198332515437",
-      "Score": 33,
-      "Time": "40:14"
+      "Score": 39,
+      "Time": "42:14"
     },
     {
       "Name": "A_me_a",
@@ -14,21 +14,27 @@
       "Time": "??:??"
     },
     {
+      "Name": "bot",
+      "Steam": "76561199830024313",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
       "Name": "castle | Big Namer",
       "Steam": "76561198122916495",
-      "Score": 4,
-      "Time": "36:03"
+      "Score": 6,
+      "Time": "38:03"
     },
     {
       "Name": "hellen keller",
       "Steam": "76561198960721394",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Wet Like Water",
       "Steam": "76561199830118913",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
@@ -47,36 +53,42 @@
       "Name": "B I G X A N T R E S",
       "Steam": "76561198693847657",
       "Score": 10,
-      "Time": "15:15"
+      "Time": "17:15"
     },
     {
       "Name": "Com",
       "Steam": "76561198141093887",
-      "Score": 51,
+      "Score": 59,
       "Time": "??:??"
+    },
+    {
+      "Name": "oyen",
+      "Steam": "76561199049807914",
+      "Score": 2,
+      "Time": "79:24"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 83,
-      "Time": "15:19"
+      "Score": 101,
+      "Time": "17:19"
     },
     {
       "Name": "Noki",
       "Steam": "76561198729323702",
       "Score": 0,
-      "Time": "245:01"
+      "Time": "247:01"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 13,
-      "Time": "50:41"
+      "Score": 15,
+      "Time": "52:41"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 42,
+      "Score": 45,
       "Time": "??:??"
     }
   ]
