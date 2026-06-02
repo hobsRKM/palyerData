@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-02T14:39:02.4447246Z",
-  "Players": []
+  "Time": "2026-06-02T14:39:46.3746666Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nikotin_racoon",
+      "Steam": "76561199240373962",
+      "Score": 17,
+      "Time": "06:35"
+    },
+    {
+      "Name": "dirlewangersense.club",
+      "Steam": "76561198703448221",
+      "Score": 0,
+      "Time": "144:08"
+    },
+    {
+      "Name": "TROP",
+      "Steam": "76561198210114543",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cwdlq59767",
+      "Steam": "76561198704391233",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
