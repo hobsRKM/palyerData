@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-02T03:09:01.2121202Z",
+  "Time": "2026-06-02T03:11:01.2184795Z",
   "Players": [
+    {
+      "Name": "kat",
+      "Steam": "76561197961697457",
+      "Score": 2,
+      "Time": "00:56"
+    },
     {
       "Name": "Forsaken",
       "Steam": "76561198787721084",
-      "Score": 22,
-      "Time": "07:37"
+      "Score": 28,
+      "Time": "09:37"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 58,
-      "Time": "461:27"
+      "Score": 65,
+      "Time": "463:27"
     },
     {
       "Name": "Crimson King",
       "Steam": "76561199377615961",
-      "Score": 30,
-      "Time": "395:44"
+      "Score": 33,
+      "Time": "397:44"
     },
     {
       "Name": "awwna",
@@ -28,55 +34,61 @@
     {
       "Name": "Hood Sheriff",
       "Steam": "76561199581407714",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 53,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 78,
-      "Time": "46:07"
+      "Score": 90,
+      "Time": "48:07"
     },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
       "Steam": "76561198694822697",
-      "Score": 85,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "xaxaxaxa",
       "Steam": "76561198700659034",
-      "Score": 105,
+      "Score": 117,
       "Time": "??:??"
+    },
+    {
+      "Name": "rope",
+      "Steam": "76561198332515437",
+      "Score": 0,
+      "Time": "02:01"
     },
     {
       "Name": "grief",
       "Steam": "76561199685683520",
-      "Score": 88,
-      "Time": "59:36"
+      "Score": 91,
+      "Time": "61:36"
     },
     {
       "Name": "Freaky",
       "Steam": "76561197962783847",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Hunt Cheater Buster",
       "Steam": "76561199517981445",
-      "Score": 46,
-      "Time": "269:51"
+      "Score": 48,
+      "Time": "271:51"
     },
     {
       "Name": "All Eyez On Me",
       "Steam": "76561199634909491",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
