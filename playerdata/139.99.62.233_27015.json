@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-02T12:57:49.4015187Z",
+  "Time": "2026-06-02T12:59:49.4081441Z",
   "Players": [
     {
       "Name": "疑心病",
       "Steam": "76561199225062095",
-      "Score": 0,
-      "Time": "00:52"
+      "Score": 2,
+      "Time": "02:52"
     },
     {
       "Name": "Skateboard Horse",
       "Steam": "76561199496878251",
-      "Score": 26,
-      "Time": "00:36"
+      "Score": 28,
+      "Time": "02:36"
     },
     {
       "Name": "Saphirus",
       "Steam": "76561198696925752",
-      "Score": 34,
-      "Time": "44:20"
+      "Score": 36,
+      "Time": "46:20"
     },
     {
       "Name": "kleo.ce.rv.a.no",
       "Steam": "76561198770003791",
-      "Score": 52,
+      "Score": 62,
       "Time": "??:??"
+    },
+    {
+      "Name": "HI",
+      "Steam": "76561199736114870",
+      "Score": 1,
+      "Time": "00:03"
     },
     {
       "Name": "WraithReaper",
       "Steam": "76561199679147350",
       "Score": 0,
-      "Time": "124:44"
+      "Time": "126:44"
     },
     {
       "Name": "kapus",
       "Steam": "76561198711483423",
-      "Score": 16,
-      "Time": "48:36"
+      "Score": 17,
+      "Time": "50:36"
     },
     {
       "Name": "FRANKKK",
       "Steam": "76561199547287223",
       "Score": 33,
-      "Time": "01:56"
+      "Time": "03:56"
     }
   ]
 }
