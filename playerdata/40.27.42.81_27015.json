@@ -1,47 +1,47 @@
 {
-  "Time": "2026-06-02T22:25:17.9459396Z",
+  "Time": "2026-06-02T22:27:17.947664Z",
   "Players": [
+    {
+      "Name": "Kermit",
+      "Steam": "76561199133390791",
+      "Score": 0,
+      "Time": "00:43"
+    },
     {
       "Name": "rope",
       "Steam": "76561198332515437",
-      "Score": 4,
-      "Time": "19:32"
-    },
-    {
-      "Name": "the fucking blueprint",
-      "Steam": "76561198734185305",
-      "Score": 17,
-      "Time": "30:18"
+      "Score": 6,
+      "Time": "21:32"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 17,
-      "Time": "17:31"
+      "Score": 25,
+      "Time": "19:31"
     },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 18,
-      "Time": "03:32"
+      "Score": 28,
+      "Time": "05:32"
     },
     {
       "Name": "Noki",
       "Steam": "76561198729323702",
       "Score": 0,
-      "Time": "193:01"
+      "Time": "195:01"
     },
     {
       "Name": "Agony",
       "Steam": "76561198735582746",
-      "Score": 32,
-      "Time": "10:04"
+      "Score": 37,
+      "Time": "12:04"
     },
     {
       "Name": "1",
       "Steam": "76561199680874612",
-      "Score": 27,
-      "Time": "27:35"
+      "Score": 36,
+      "Time": "29:35"
     },
     {
       "Name": "traerm600",
@@ -50,33 +50,39 @@
       "Time": "??:??"
     },
     {
+      "Name": "skoobert",
+      "Steam": "76561199359618052",
+      "Score": 0,
+      "Time": "00:41"
+    },
+    {
       "Name": "landan",
       "Steam": "76561198169143538",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Gonnacry",
       "Steam": "76561198823126559",
-      "Score": 22,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "LordCota...",
       "Steam": "76561199677683650",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "oli",
       "Steam": "76561197989735694",
-      "Score": 4,
-      "Time": "01:42"
+      "Score": 8,
+      "Time": "03:42"
     },
     {
       "Name": "grief",
       "Steam": "76561199685683520",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
