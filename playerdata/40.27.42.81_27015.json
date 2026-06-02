@@ -1,34 +1,40 @@
 {
-  "Time": "2026-06-02T23:21:17.9428779Z",
+  "Time": "2026-06-02T23:23:17.9409877Z",
   "Players": [
+    {
+      "Name": "////////////",
+      "Steam": "76561199717895190",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "rope",
       "Steam": "76561198332515437",
-      "Score": 49,
-      "Time": "44:14"
+      "Score": 55,
+      "Time": "46:14"
     },
     {
       "Name": "A_me_a",
       "Steam": "76561199436225054",
-      "Score": 21,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "bot",
       "Steam": "76561199830024313",
-      "Score": 21,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "castle | Big Namer",
       "Steam": "76561198122916495",
-      "Score": 14,
-      "Time": "40:03"
+      "Score": 16,
+      "Time": "42:03"
     },
     {
       "Name": "hellen keller",
       "Steam": "76561198960721394",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -40,7 +46,7 @@
     {
       "Name": "Кракен",
       "Steam": "76561199156395215",
-      "Score": 0,
+      "Score": 18,
       "Time": "??:??"
     },
     {
@@ -53,43 +59,43 @@
       "Name": "B I G X A N T R E S",
       "Steam": "76561198693847657",
       "Score": 10,
-      "Time": "19:15"
+      "Time": "21:15"
     },
     {
       "Name": "Com",
       "Steam": "76561198141093887",
-      "Score": 63,
+      "Score": 69,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Woke",
+      "Steam": "76561198757941422",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 18,
-      "Time": "81:24"
+      "Score": 25,
+      "Time": "83:24"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 107,
-      "Time": "19:19"
+      "Score": 114,
+      "Time": "21:19"
     },
     {
       "Name": "Noki",
       "Steam": "76561198729323702",
       "Score": 0,
-      "Time": "249:01"
+      "Time": "251:01"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 15,
-      "Time": "54:41"
-    },
-    {
-      "Name": "Big Bang",
-      "Steam": "76561198739568756",
-      "Score": 45,
-      "Time": "??:??"
+      "Score": 19,
+      "Time": "56:41"
     }
   ]
 }
