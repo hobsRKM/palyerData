@@ -1,17 +1,41 @@
 {
-  "Time": "2026-06-01T23:55:01.1137797Z",
+  "Time": "2026-06-01T23:57:01.1076531Z",
   "Players": [
     {
       "Name": "coma",
       "Steam": "76561199805557263",
-      "Score": 10,
-      "Time": "06:48"
+      "Score": 18,
+      "Time": "08:48"
+    },
+    {
+      "Name": "dream1",
+      "Steam": "76561198706868502",
+      "Score": 2,
+      "Time": "01:10"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 4,
-      "Time": "253:13"
+      "Score": 5,
+      "Time": "255:13"
+    },
+    {
+      "Name": "marg simpton",
+      "Steam": "76561199827242653",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mike",
+      "Steam": "76561198978796711",
+      "Score": 0,
+      "Time": "00:20"
+    },
+    {
+      "Name": "memesense beta UID 823",
+      "Steam": "76561198122916495",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
