@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-02T07:15:26.2331068Z",
+  "Time": "2026-06-02T07:17:26.2505512Z",
   "Players": [
+    {
+      "Name": "Symb",
+      "Steam": "76561198747676124",
+      "Score": 0,
+      "Time": "00:32"
+    },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 16,
-      "Time": "86:59"
+      "Score": 29,
+      "Time": "88:59"
     },
     {
       "Name": "Skateboard Horse",
       "Steam": "76561199496878251",
-      "Score": 11,
-      "Time": "06:35"
+      "Score": 13,
+      "Time": "08:35"
     },
     {
       "Name": "\uD835\uDC75\uD835\uDC6C\uD835\uDC7F\uD835\uDC7C\uD835\uDC7A",
       "Steam": "76561198371441947",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC81",
       "Steam": "76561198824890960",
-      "Score": 46,
-      "Time": "??:??"
-    },
-    {
-      "Name": "kleo.ce.rv.a.no",
-      "Steam": "76561198770003791",
-      "Score": 17,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "seventizz",
       "Steam": "76561199209538066",
-      "Score": 2,
-      "Time": "03:30"
+      "Score": 0,
+      "Time": "05:30"
+    },
+    {
+      "Name": "kapus",
+      "Steam": "76561198711483423",
+      "Score": 0,
+      "Time": "01:05"
     },
     {
       "Name": "疑心病",
@@ -46,7 +52,7 @@
     {
       "Name": "ham",
       "Steam": "76561199755759659",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -58,7 +64,7 @@
     {
       "Name": "zjy",
       "Steam": "76561199782998630",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
