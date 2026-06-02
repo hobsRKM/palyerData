@@ -1,4 +1,23 @@
 {
-  "Time": "2026-06-02T14:17:02.4446597Z",
-  "Players": []
+  "Time": "2026-06-02T14:17:46.3881367Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "KackwurstNascher",
+      "Steam": "76561198707251530",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "spamaccerik",
+      "Steam": "76561199685978760",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
