@@ -1,59 +1,71 @@
 {
-  "Time": "2026-06-02T01:07:01.1180543Z",
+  "Time": "2026-06-02T01:09:01.1165021Z",
   "Players": [
     {
       "Name": "jackle the bear",
       "Steam": "76561199480435299",
-      "Score": 65,
-      "Time": "31:49"
+      "Score": 75,
+      "Time": "33:49"
+    },
+    {
+      "Name": "/despite",
+      "Steam": "76561198129219406",
+      "Score": 0,
+      "Time": "00:15"
+    },
+    {
+      "Name": "jaeychino",
+      "Steam": "76561198722865548",
+      "Score": 0,
+      "Time": "10:26"
     },
     {
       "Name": "nio",
       "Steam": "76561199158419168",
-      "Score": 35,
-      "Time": "112:54"
+      "Score": 50,
+      "Time": "114:54"
     },
     {
       "Name": "El Yahu",
       "Steam": "76561199806697729",
-      "Score": 24,
-      "Time": "62:27"
+      "Score": 25,
+      "Time": "64:27"
     },
     {
       "Name": "skiddy",
       "Steam": "76561198806497985",
-      "Score": 2,
-      "Time": "00:55"
+      "Score": 9,
+      "Time": "02:55"
     },
     {
       "Name": "САНЯ ЧЕКУШКА",
       "Steam": "76561198042763404",
-      "Score": 14,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Kermit",
       "Steam": "76561199133390791",
-      "Score": 28,
-      "Time": "32:39"
+      "Score": 30,
+      "Time": "34:39"
     },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
       "Steam": "76561198694822697",
-      "Score": 22,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "glib",
       "Steam": "76561199881308229",
-      "Score": 36,
-      "Time": "14:08"
+      "Score": 38,
+      "Time": "16:08"
     },
     {
       "Name": "memesense beta UID 823",
       "Steam": "76561198122916495",
-      "Score": 44,
-      "Time": "37:49"
+      "Score": 50,
+      "Time": "39:49"
     }
   ]
 }
