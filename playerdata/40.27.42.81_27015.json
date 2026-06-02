@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-02T00:57:01.1063636Z",
+  "Time": "2026-06-02T00:59:01.1149376Z",
   "Players": [
     {
       "Name": "jackle the bear",
       "Steam": "76561199480435299",
-      "Score": 24,
-      "Time": "21:49"
+      "Score": 32,
+      "Time": "23:49"
+    },
+    {
+      "Name": "nio",
+      "Steam": "76561199158419168",
+      "Score": 0,
+      "Time": "104:54"
     },
     {
       "Name": "El Yahu",
       "Steam": "76561199806697729",
-      "Score": 7,
-      "Time": "52:27"
+      "Score": 11,
+      "Time": "54:27"
     },
     {
       "Name": "САНЯ ЧЕКУШКА",
       "Steam": "76561198042763404",
-      "Score": 6,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Kermit",
       "Steam": "76561199133390791",
-      "Score": 12,
-      "Time": "22:39"
+      "Score": 14,
+      "Time": "24:39"
     },
     {
       "Name": "glib",
       "Steam": "76561199881308229",
-      "Score": 4,
-      "Time": "04:08"
+      "Score": 6,
+      "Time": "06:08"
     },
     {
       "Name": "grief",
       "Steam": "76561199685683520",
-      "Score": 18,
-      "Time": "10:06"
+      "Score": 29,
+      "Time": "12:06"
     },
     {
       "Name": "memesense beta UID 823",
       "Steam": "76561198122916495",
-      "Score": 14,
-      "Time": "27:49"
+      "Score": 22,
+      "Time": "29:49"
     }
   ]
 }
