@@ -1,35 +1,29 @@
 {
-  "Time": "2026-06-02T00:01:01.1160864Z",
+  "Time": "2026-06-02T00:03:01.1135084Z",
   "Players": [
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 10,
-      "Time": "05:10"
+      "Score": 19,
+      "Time": "07:10"
     },
     {
       "Name": "-----------------------------",
       "Steam": "76561199333498597",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 20,
-      "Time": "259:13"
+      "Score": 24,
+      "Time": "261:13"
     },
     {
       "Name": "marg simpton",
       "Steam": "76561199827242653",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
-    },
-    {
-      "Name": "mike",
-      "Steam": "76561198978796711",
-      "Score": 6,
-      "Time": "04:20"
     },
     {
       "Name": "memesense beta UID 823",
@@ -40,8 +34,14 @@
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 8,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "Gamesensed",
+      "Steam": "76561198698744116",
+      "Score": 0,
+      "Time": "39:15"
     }
   ]
 }
