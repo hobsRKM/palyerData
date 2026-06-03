@@ -1,35 +1,65 @@
 {
-  "Time": "2026-06-03T22:37:02.1489522Z",
+  "Time": "2026-06-03T22:37:21.7700734Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "King",
+      "Steam": "76561199547814815",
+      "Score": 45,
+      "Time": "1432:20"
+    },
+    {
+      "Name": "waldemar",
+      "Steam": "76561199821788723",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "372:18"
+    },
+    {
+      "Name": "bartek kaminski",
+      "Steam": "76561199266122963",
+      "Score": 1,
+      "Time": "227:48"
+    },
+    {
+      "Name": "dajo landaros",
+      "Steam": "76561199852336953",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
+      "Steam": "76561199547514723",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "thehonerdone",
-      "Steam": "76561198707941246",
-      "Score": 6,
+      "Name": "dig bick",
+      "Steam": "76561198706881508",
+      "Score": 17,
+      "Time": "109:44"
+    },
+    {
+      "Name": "wilson",
+      "Steam": "76561199173279427",
+      "Score": 18,
       "Time": "??:??"
     },
     {
-      "Name": "Meisterkitler",
-      "Steam": "76561198699119286",
+      "Name": "#СЕЛА-ДАЛА",
+      "Steam": "76561198696536490",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "kawaii whore",
-      "Steam": "76561198697403844",
-      "Score": 6,
-      "Time": "01:37"
-    },
-    {
-      "Name": "hzhv",
-      "Steam": "76561198214788071",
-      "Score": 8,
-      "Time": "??:??"
+      "Name": "2016",
+      "Steam": "76561199772965655",
+      "Score": 37,
+      "Time": "1099:35"
     }
   ]
 }
