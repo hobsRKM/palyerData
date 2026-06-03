@@ -1,28 +1,34 @@
 {
-  "Time": "2026-06-03T08:21:18.0643005Z",
+  "Time": "2026-06-03T08:23:18.0611363Z",
   "Players": [
+    {
+      "Name": "castle",
+      "Steam": "76561198122916495",
+      "Score": 0,
+      "Time": "00:34"
+    },
     {
       "Name": "timsweent83",
       "Steam": "76561198703734642",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Low Cortisol NEXØ",
       "Steam": "76561199876886861",
-      "Score": 10,
-      "Time": "240:37"
+      "Score": 20,
+      "Time": "242:37"
     },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 14,
-      "Time": "02:11"
+      "Score": 21,
+      "Time": "04:11"
     },
     {
       "Name": "Zombsloid",
       "Steam": "76561199445064520",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
