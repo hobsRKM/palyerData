@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-03T08:33:18.0654205Z",
+  "Time": "2026-06-03T08:35:18.0833669Z",
   "Players": [
+    {
+      "Name": "Isaac Newton",
+      "Steam": "76561198694356022",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
-      "Score": 10,
-      "Time": "10:34"
+      "Score": 14,
+      "Time": "12:35"
     },
     {
       "Name": "Low Cortisol NEXØ",
       "Steam": "76561199876886861",
-      "Score": 62,
-      "Time": "252:37"
+      "Score": 74,
+      "Time": "254:37"
     },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 49,
-      "Time": "14:11"
+      "Score": 50,
+      "Time": "16:11"
     }
   ]
 }
