@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-03T18:28:10.4512954Z",
-  "Players": []
+  "Time": "2026-06-03T18:29:02.1517731Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "axure",
+      "Steam": "76561199136389558",
+      "Score": 5,
+      "Time": "455:39"
+    },
+    {
+      "Name": "abs",
+      "Steam": "76561199437779338",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tesla",
+      "Steam": "76561198393977174",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dirlewangersense.club",
+      "Steam": "76561198703448221",
+      "Score": 2,
+      "Time": "53:21"
+    }
+  ]
 }
