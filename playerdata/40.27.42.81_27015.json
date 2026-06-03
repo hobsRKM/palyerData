@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-03T01:11:17.9476425Z",
+  "Time": "2026-06-03T01:13:17.9385129Z",
   "Players": [
     {
       "Name": "5",
       "Steam": "76561198692480565",
       "Score": 2,
-      "Time": "06:50"
+      "Time": "08:50"
     },
     {
       "Name": "////////////",
       "Steam": "76561199717895190",
+      "Score": 1,
+      "Time": "07:59"
+    },
+    {
+      "Name": "rope",
+      "Steam": "76561198332515437",
       "Score": 0,
-      "Time": "05:59"
+      "Time": "00:24"
     },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
       "Steam": "76561198694822697",
-      "Score": 20,
+      "Score": 27,
       "Time": "??:??"
     },
     {
@@ -28,14 +34,14 @@
     {
       "Name": "wB7sAZtNxazS3KIndoXQ1L4jSI6i9C",
       "Steam": "76561198706153957",
-      "Score": 14,
-      "Time": "09:38"
+      "Score": 27,
+      "Time": "11:38"
     },
     {
       "Name": "Gravity gun test drive #2",
       "Steam": "76561198166519466",
-      "Score": 39,
-      "Time": "27:01"
+      "Score": 58,
+      "Time": "29:01"
     },
     {
       "Name": "UKnow69",
@@ -44,10 +50,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "Vex",
+      "Steam": "76561198984848627",
+      "Score": 2,
+      "Time": "45:28"
+    },
+    {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 9,
-      "Time": "02:29"
+      "Score": 11,
+      "Time": "04:29"
     }
   ]
 }
