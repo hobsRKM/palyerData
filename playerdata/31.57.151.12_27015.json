@@ -1,53 +1,65 @@
 {
-  "Time": "2026-06-03T19:01:02.1581739Z",
+  "Time": "2026-06-03T19:01:20.0474076Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "156:16"
+    },
+    {
+      "Name": "< blank >",
+      "Steam": "76561199502422191",
+      "Score": 15,
+      "Time": "43:02"
+    },
+    {
+      "Name": "ℍ\uD835\uDD67ℍ_JoJeK",
+      "Steam": "76561199869459097",
+      "Score": 8,
+      "Time": "149:26"
+    },
+    {
+      "Name": "1234567",
+      "Steam": "76561198753122439",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "iwfc ladidadida",
-      "Steam": "76561198788704450",
-      "Score": 37,
-      "Time": "??:??"
+      "Name": "Ironic",
+      "Steam": "76561199682137830",
+      "Score": 0,
+      "Time": "141:19"
     },
     {
-      "Name": "axure",
-      "Steam": "76561199136389558",
-      "Score": 38,
-      "Time": "487:39"
+      "Name": "peepee sauce",
+      "Steam": "76561198706881508",
+      "Score": 7,
+      "Time": "15:22"
     },
     {
-      "Name": "abs",
-      "Steam": "76561199437779338",
-      "Score": 56,
-      "Time": "??:??"
+      "Name": "Grizly",
+      "Steam": "76561198188465877",
+      "Score": 4,
+      "Time": "108:59"
     },
     {
-      "Name": "tesla",
-      "Steam": "76561198393977174",
-      "Score": 10,
-      "Time": "??:??"
+      "Name": "Lonzzi",
+      "Steam": "76561198706163811",
+      "Score": 1,
+      "Time": "67:35"
     },
     {
-      "Name": "Goongol",
-      "Steam": "76561198750914244",
-      "Score": 13,
-      "Time": "??:??"
+      "Name": "ą",
+      "Steam": "76561199864265258",
+      "Score": 4,
+      "Time": "282:17"
     },
     {
-      "Name": "dirlewangersense.club",
-      "Steam": "76561198703448221",
-      "Score": 38,
-      "Time": "85:21"
-    },
-    {
-      "Name": "ineeddungeons",
-      "Steam": "76561198703755935",
-      "Score": 29,
-      "Time": "??:??"
+      "Name": "TESTING AUTO CFG LAFF",
+      "Steam": "76561199133584383",
+      "Score": 2,
+      "Time": "153:48"
     }
   ]
 }
