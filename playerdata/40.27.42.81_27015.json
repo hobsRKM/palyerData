@@ -1,47 +1,65 @@
 {
-  "Time": "2026-06-03T06:47:17.995285Z",
+  "Time": "2026-06-03T06:49:17.9986674Z",
   "Players": [
     {
       "Name": "otx",
       "Steam": "76561199880717233",
+      "Score": 3,
+      "Time": "28:21"
+    },
+    {
+      "Name": "Entity",
+      "Steam": "76561199825236538",
       "Score": 2,
-      "Time": "26:21"
+      "Time": "495:35"
     },
     {
       "Name": "Crimson King",
       "Steam": "76561199377615961",
-      "Score": 10,
-      "Time": "408:24"
+      "Score": 16,
+      "Time": "410:24"
     },
     {
       "Name": "1",
       "Steam": "76561199680874612",
-      "Score": 3,
-      "Time": "50:41"
+      "Score": 5,
+      "Time": "52:41"
     },
     {
       "Name": "Dragonblade",
       "Steam": "76561199500804669",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "Soulja Boy",
+      "Steam": "76561199849050111",
+      "Score": 7,
+      "Time": "418:25"
     },
     {
       "Name": "MrPaw",
       "Steam": "76561199046204811",
-      "Score": 5,
-      "Time": "00:55"
+      "Score": 9,
+      "Time": "02:55"
     },
     {
       "Name": ".",
       "Steam": "76561198323795548",
-      "Score": 2,
-      "Time": "03:14"
+      "Score": 16,
+      "Time": "05:14"
     },
     {
       "Name": "Com",
       "Steam": "76561198141093887",
-      "Score": 0,
-      "Time": "315:49"
+      "Score": 3,
+      "Time": "317:49"
+    },
+    {
+      "Name": "thats why i love fall",
+      "Steam": "76561199876077209",
+      "Score": 2,
+      "Time": "436:19"
     }
   ]
 }
