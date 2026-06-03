@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-03T02:52:37.6635931Z",
-  "Players": []
+  "Time": "2026-06-03T02:53:16.8501844Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Meisterkitler",
+      "Steam": "76561198699119286",
+      "Score": 50,
+      "Time": "05:58"
+    },
+    {
+      "Name": "Zodak",
+      "Steam": "76561198748425132",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WeLoveFemboys",
+      "Steam": "76561198694871325",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
