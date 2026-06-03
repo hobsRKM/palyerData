@@ -1,29 +1,41 @@
 {
-  "Time": "2026-06-03T11:23:37.6747991Z",
+  "Time": "2026-06-03T11:25:37.6818756Z",
   "Players": [
+    {
+      "Name": "XOXO",
+      "Steam": "76561199810524131",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Neo",
       "Steam": "76561199808928969",
-      "Score": 9,
-      "Time": "06:26"
+      "Score": 13,
+      "Time": "08:26"
     },
     {
       "Name": "kleo.ce.rv.a.no",
       "Steam": "76561198770003791",
-      "Score": 21,
-      "Time": "89:25"
+      "Score": 25,
+      "Time": "91:25"
     },
     {
       "Name": "PIG PING",
       "Steam": "76561199099722473",
-      "Score": 49,
-      "Time": "45:00"
+      "Score": 59,
+      "Time": "47:00"
+    },
+    {
+      "Name": "death",
+      "Steam": "76561199640723323",
+      "Score": 0,
+      "Time": "00:33"
     },
     {
       "Name": "banner",
       "Steam": "76561199843080857",
       "Score": 19,
-      "Time": "55:02"
+      "Time": "57:02"
     },
     {
       "Name": "RxDer",
