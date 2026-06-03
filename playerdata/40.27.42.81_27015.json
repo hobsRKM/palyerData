@@ -1,59 +1,65 @@
 {
-  "Time": "2026-06-03T07:01:18.0061937Z",
+  "Time": "2026-06-03T07:03:18.0025636Z",
   "Players": [
+    {
+      "Name": "Vex",
+      "Steam": "76561198984848627",
+      "Score": 0,
+      "Time": "151:27"
+    },
     {
       "Name": "kad.",
       "Steam": "76561199590377764",
-      "Score": 25,
-      "Time": "11:27"
+      "Score": 30,
+      "Time": "13:27"
     },
     {
-      "Name": "r0x\uDB40\uDC73 \u1CBC\uDB40\uDC21[ Εσς.Cορ ]",
-      "Steam": "76561197970393276",
-      "Score": 5,
-      "Time": "796:40"
+      "Name": "A_me_a",
+      "Steam": "76561199436225054",
+      "Score": 0,
+      "Time": "140:41"
     },
     {
       "Name": "Crimson King",
       "Steam": "76561199377615961",
-      "Score": 42,
-      "Time": "422:24"
+      "Score": 48,
+      "Time": "424:24"
     },
     {
       "Name": "Dragonblade",
       "Steam": "76561199500804669",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Soulja Boy",
       "Steam": "76561199849050111",
-      "Score": 56,
-      "Time": "430:25"
+      "Score": 72,
+      "Time": "432:25"
     },
     {
       "Name": "MrPaw",
       "Steam": "76561199046204811",
-      "Score": 49,
-      "Time": "14:55"
+      "Score": 52,
+      "Time": "16:55"
     },
     {
       "Name": ".",
       "Steam": "76561198323795548",
-      "Score": 45,
-      "Time": "17:14"
+      "Score": 61,
+      "Time": "19:14"
     },
     {
       "Name": "Com",
       "Steam": "76561198141093887",
-      "Score": 22,
-      "Time": "329:49"
+      "Score": 25,
+      "Time": "331:49"
     },
     {
       "Name": "thats why i love fall",
       "Steam": "76561199876077209",
-      "Score": 19,
-      "Time": "09:02"
+      "Score": 2,
+      "Time": "11:02"
     }
   ]
 }
