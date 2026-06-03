@@ -1,16 +1,22 @@
 {
-  "Time": "2026-06-03T12:51:01.3969182Z",
+  "Time": "2026-06-03T12:53:01.40039Z",
   "Players": [
+    {
+      "Name": "Pluto's Knot Home",
+      "Steam": "76561198118346969",
+      "Score": 6,
+      "Time": "00:48"
+    },
     {
       "Name": "Low Cortisol NEXØ",
       "Steam": "76561199876886861",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "i am nothing",
       "Steam": "76561198694549188",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     }
   ]
