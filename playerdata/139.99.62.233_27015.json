@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-03T07:29:36.6410421Z",
+  "Time": "2026-06-03T07:31:36.6388838Z",
   "Players": [
+    {
+      "Name": "J",
+      "Steam": "76561199473467599",
+      "Score": 32,
+      "Time": "00:59"
+    },
     {
       "Name": "kleo.ce.rv.a.no",
       "Steam": "76561198770003791",
       "Score": 0,
-      "Time": "03:53"
+      "Time": "05:53"
     },
     {
       "Name": "WraithReaper",
       "Steam": "76561199679147350",
       "Score": 0,
-      "Time": "68:57"
+      "Time": "70:57"
     },
     {
       "Name": "nan",
       "Steam": "76561199847533857",
-      "Score": 19,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "jamesbhund",
       "Steam": "76561198695249484",
-      "Score": 0,
-      "Time": "06:27"
+      "Score": 9,
+      "Time": "08:27"
     },
     {
       "Name": "PIG PING",
       "Steam": "76561199099722473",
-      "Score": 44,
-      "Time": "08:43"
+      "Score": 53,
+      "Time": "10:43"
     },
     {
-      "Name": "FAFAFAFAFAFAFAFAFAFAFA FAFAF Will Serholt  1337",
+      "Name": "AFAFAFAFAFAFAFAFAFA FAFAFAFA Will Serholt  1337",
       "Steam": "76561199611024142",
-      "Score": 0,
-      "Time": "05:30"
+      "Score": 6,
+      "Time": "07:30"
     }
   ]
 }
