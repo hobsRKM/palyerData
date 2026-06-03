@@ -1,4 +1,47 @@
 {
-  "Time": "2026-06-03T21:35:02.9103446Z",
-  "Players": []
+  "Time": "2026-06-03T21:35:21.4225453Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "310:18"
+    },
+    {
+      "Name": "Ironic",
+      "Steam": "76561199682137830",
+      "Score": 25,
+      "Time": "118:12"
+    },
+    {
+      "Name": "dig bick",
+      "Steam": "76561198706881508",
+      "Score": 0,
+      "Time": "47:44"
+    },
+    {
+      "Name": "Manuellsen",
+      "Steam": "76561199501620322",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "givewaysskeet",
+      "Steam": "76561198693702968",
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[OG] namespace Autowall",
+      "Steam": "76561198726977481",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fakeself",
+      "Steam": "76561198274762589",
+      "Score": 16,
+      "Time": "??:??"
+    }
+  ]
 }
