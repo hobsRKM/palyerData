@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-03T13:32:10.438691Z",
-  "Players": []
+  "Time": "2026-06-03T13:33:02.149886Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bombardilo crocodilo",
+      "Steam": "76561199834383549",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Polish Demolisher",
+      "Steam": "76561198717542751",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "player",
+      "Steam": "76561198745196734",
+      "Score": 14,
+      "Time": "03:14"
+    }
+  ]
 }
