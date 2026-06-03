@@ -1,11 +1,17 @@
 {
-  "Time": "2026-06-03T00:57:17.9347718Z",
+  "Time": "2026-06-03T00:59:17.9452804Z",
   "Players": [
+    {
+      "Name": "otx",
+      "Steam": "76561199880717233",
+      "Score": 85,
+      "Time": "01:25"
+    },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 23,
-      "Time": "142:59"
+      "Score": 9,
+      "Time": "144:59"
     },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
@@ -16,20 +22,20 @@
     {
       "Name": "B I G X A N T R E S",
       "Steam": "76561198693847657",
-      "Score": 18,
-      "Time": "39:23"
+      "Score": 20,
+      "Time": "41:23"
     },
     {
       "Name": "Gravity gun test drive #2",
       "Steam": "76561198166519466",
-      "Score": 63,
-      "Time": "13:01"
+      "Score": 75,
+      "Time": "15:01"
     },
     {
       "Name": "Kermit",
       "Steam": "76561199133390791",
-      "Score": 45,
-      "Time": "18:59"
+      "Score": 49,
+      "Time": "20:59"
     },
     {
       "Name": "UKnow69",
@@ -40,7 +46,7 @@
     {
       "Name": "Forsaken",
       "Steam": "76561198787721084",
-      "Score": 22,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
