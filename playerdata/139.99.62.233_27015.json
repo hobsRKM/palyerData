@@ -1,40 +1,52 @@
 {
-  "Time": "2026-06-03T08:45:36.6299167Z",
+  "Time": "2026-06-03T08:47:36.6433051Z",
   "Players": [
+    {
+      "Name": "WONG CINO",
+      "Steam": "76561199724438702",
+      "Score": 4,
+      "Time": "01:06"
+    },
+    {
+      "Name": "J",
+      "Steam": "76561199473467599",
+      "Score": 0,
+      "Time": "00:13"
+    },
     {
       "Name": "kleo.ce.rv.a.no",
       "Steam": "76561198770003791",
-      "Score": 31,
-      "Time": "09:53"
+      "Score": 35,
+      "Time": "11:53"
     },
     {
       "Name": "WraithReaper",
       "Steam": "76561199679147350",
-      "Score": 23,
-      "Time": "144:57"
+      "Score": 27,
+      "Time": "146:57"
     },
     {
       "Name": "˶•ᴗ•˶",
       "Steam": "76561198715874923",
-      "Score": 4,
-      "Time": "04:33"
+      "Score": 10,
+      "Time": "06:33"
     },
     {
       "Name": "PIG PING",
       "Steam": "76561199099722473",
-      "Score": 28,
-      "Time": "08:17"
+      "Score": 29,
+      "Time": "10:17"
     },
     {
       "Name": "kapus",
       "Steam": "76561198711483423",
-      "Score": 35,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "Svn",
       "Steam": "76561198772969386",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -46,7 +58,7 @@
     {
       "Name": "skateboard teacher",
       "Steam": "76561199760100175",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     }
   ]
