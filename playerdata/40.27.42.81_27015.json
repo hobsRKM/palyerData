@@ -1,47 +1,47 @@
 {
-  "Time": "2026-06-03T06:19:17.9992851Z",
+  "Time": "2026-06-03T06:21:17.9948312Z",
   "Players": [
+    {
+      "Name": "otx",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 0,
-      "Time": "56:56"
+      "Score": 15,
+      "Time": "58:56"
     },
     {
       "Name": "Crimson King",
       "Steam": "76561199377615961",
-      "Score": 0,
-      "Time": "380:24"
+      "Score": 2,
+      "Time": "382:24"
     },
     {
       "Name": "1",
       "Steam": "76561199680874612",
-      "Score": 4,
-      "Time": "22:41"
+      "Score": 6,
+      "Time": "24:41"
     },
     {
       "Name": "Buggy",
       "Steam": "76561198974777067",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
       "Steam": "76561198866188172",
-      "Score": 10,
+      "Score": 17,
       "Time": "??:??"
-    },
-    {
-      "Name": "MrPaw",
-      "Steam": "76561199046204811",
-      "Score": 0,
-      "Time": "237:30"
     },
     {
       "Name": "Com",
       "Steam": "76561198141093887",
-      "Score": 4,
-      "Time": "287:49"
+      "Score": 7,
+      "Time": "289:49"
     }
   ]
 }
