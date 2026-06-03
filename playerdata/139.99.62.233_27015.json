@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-03T13:23:41.7204898Z",
+  "Time": "2026-06-03T13:25:41.7657721Z",
   "Players": [
+    {
+      "Name": "XOXO",
+      "Steam": "76561199810524131",
+      "Score": 0,
+      "Time": "00:17"
+    },
     {
       "Name": "skateboard dog",
       "Steam": "76561199303359682",
-      "Score": 2,
-      "Time": "57:18"
+      "Score": 6,
+      "Time": "59:18"
     },
     {
       "Name": "Ni Hao",
       "Steam": "76561198694444865",
-      "Score": 17,
-      "Time": "22:06"
+      "Score": 19,
+      "Time": "24:07"
     },
     {
       "Name": "˶•ᴗ•˶",
       "Steam": "76561198715874923",
-      "Score": 12,
-      "Time": "02:13"
+      "Score": 20,
+      "Time": "04:13"
     },
     {
       "Name": "bird_chris",
       "Steam": "76561199877375115",
-      "Score": 17,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "杏菜今天輸幾次",
       "Steam": "76561199216728913",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "banner",
       "Steam": "76561199843080857",
-      "Score": 17,
-      "Time": "41:38"
+      "Score": 19,
+      "Time": "43:38"
     },
     {
       "Name": "soso",
       "Steam": "76561198731705668",
-      "Score": 8,
-      "Time": "35:05"
+      "Score": 11,
+      "Time": "37:05"
     }
   ]
 }
