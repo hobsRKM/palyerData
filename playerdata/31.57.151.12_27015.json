@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-03T17:02:10.4510308Z",
-  "Players": []
+  "Time": "2026-06-03T17:03:02.1555255Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kalahari On Pancakes",
+      "Steam": "76561199120500237",
+      "Score": 45,
+      "Time": "36:12"
+    },
+    {
+      "Name": "PALESTINE",
+      "Steam": "76561198710074880",
+      "Score": 14,
+      "Time": "07:49"
+    },
+    {
+      "Name": "typecekk",
+      "Steam": "76561199233058634",
+      "Score": 57,
+      "Time": "??:??"
+    }
+  ]
 }
