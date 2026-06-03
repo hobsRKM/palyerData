@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-03T05:51:18.0013064Z",
+  "Time": "2026-06-03T05:53:18.0018823Z",
   "Players": [
-    {
-      "Name": "1% TR bruh",
-      "Steam": "76561199706418972",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
       "Score": 6,
-      "Time": "120:33"
+      "Time": "122:33"
     },
     {
       "Name": "rope",
       "Steam": "76561198332515437",
-      "Score": 0,
-      "Time": "90:45"
+      "Score": 6,
+      "Time": "92:45"
     },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 17,
-      "Time": "28:56"
+      "Score": 23,
+      "Time": "30:56"
     },
     {
       "Name": "kat",
       "Steam": "76561197961697457",
-      "Score": 16,
-      "Time": "67:19"
+      "Score": 18,
+      "Time": "69:19"
     },
     {
       "Name": "CNC catgirl <3",
       "Steam": "76561198759768216",
-      "Score": 6,
-      "Time": "39:51"
+      "Score": 11,
+      "Time": "41:51"
+    },
+    {
+      "Name": "ELC4C4S",
+      "Steam": "76561198871728146",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Crimson King",
       "Steam": "76561199377615961",
-      "Score": 12,
-      "Time": "352:24"
+      "Score": 28,
+      "Time": "354:24"
+    },
+    {
+      "Name": "Com",
+      "Steam": "76561198141093887",
+      "Score": 0,
+      "Time": "261:49"
     }
   ]
 }
