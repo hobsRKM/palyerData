@@ -1,34 +1,40 @@
 {
-  "Time": "2026-06-04T13:24:43.6339267Z",
+  "Time": "2026-06-04T13:26:43.6258833Z",
   "Players": [
     {
       "Name": "RxDer",
       "Steam": "76561199002500021",
-      "Score": 33,
-      "Time": "59:26"
+      "Score": 35,
+      "Time": "61:26"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
       "Score": 18,
-      "Time": "09:06"
+      "Time": "11:06"
     },
     {
       "Name": "kapus",
       "Steam": "76561198711483423",
-      "Score": 5,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "Saphirus",
+      "Steam": "76561198696925752",
+      "Score": 0,
+      "Time": "00:03"
     },
     {
       "Name": "skateboard dog",
       "Steam": "76561199303359682",
-      "Score": 0,
-      "Time": "01:16"
+      "Score": 2,
+      "Time": "03:16"
     },
     {
       "Name": "PIG PING",
       "Steam": "76561199099722473",
-      "Score": 66,
+      "Score": 78,
       "Time": "??:??"
     },
     {
@@ -40,38 +46,26 @@
     {
       "Name": "XOXO",
       "Steam": "76561199810524131",
-      "Score": 38,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "9米",
       "Steam": "76561198772634330",
-      "Score": 45,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDC81",
       "Steam": "76561198824890960",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "ezmappa",
       "Steam": "76561198751259086",
-      "Score": 29,
-      "Time": "13:47"
-    },
-    {
-      "Name": "\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21 \uDB40\uDC21\uDB40\uDC21\uDB40\uDC21\uDB40\uDC21",
-      "Steam": "76561199633334369",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Despa1Ls",
-      "Steam": "76561199423924172",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 37,
+      "Time": "15:47"
     }
   ]
 }
