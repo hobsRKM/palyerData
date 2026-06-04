@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-04T11:20:43.6205013Z",
+  "Time": "2026-06-04T11:22:43.6216794Z",
   "Players": [
     {
       "Name": "RxDer",
       "Steam": "76561199002500021",
-      "Score": 15,
+      "Score": 25,
       "Time": "??:??"
+    },
+    {
+      "Name": "banner",
+      "Steam": "76561199843080857",
+      "Score": 0,
+      "Time": "00:35"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "未提供信息",
       "Steam": "76561198752931554",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     },
     {
@@ -34,13 +40,19 @@
     {
       "Name": "Tangho_Bu",
       "Steam": "76561199557856957",
-      "Score": 14,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "FRANKKK",
       "Steam": "76561199547287223",
-      "Score": 15,
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "WHO IS THE GOODBOY!",
+      "Steam": "76561198697759726",
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -52,14 +64,8 @@
     {
       "Name": "Neo",
       "Steam": "76561199808928969",
-      "Score": 33,
-      "Time": "06:12"
-    },
-    {
-      "Name": "Saphirus",
-      "Steam": "76561198696925752",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 43,
+      "Time": "08:12"
     }
   ]
 }
