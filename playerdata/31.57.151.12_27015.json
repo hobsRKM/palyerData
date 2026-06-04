@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-04T11:01:25.3842334Z",
-  "Players": []
+  "Time": "2026-06-04T11:01:49.8757642Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "> AURA | Fatality.win HWID Reset Waiter",
+      "Steam": "76561198773057334",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "szym3k",
+      "Steam": "76561198717463102",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hzhv",
+      "Steam": "76561198214788071",
+      "Score": 9,
+      "Time": "07:29"
+    },
+    {
+      "Name": "Oscar Piastri - McLaren Racing",
+      "Steam": "76561198706651823",
+      "Score": 4,
+      "Time": "53:15"
+    }
+  ]
 }
