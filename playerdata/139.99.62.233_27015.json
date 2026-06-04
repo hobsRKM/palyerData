@@ -1,46 +1,58 @@
 {
-  "Time": "2026-06-04T12:24:43.6190682Z",
+  "Time": "2026-06-04T12:26:43.6387805Z",
   "Players": [
+    {
+      "Name": "RxDer",
+      "Steam": "76561199002500021",
+      "Score": 0,
+      "Time": "01:26"
+    },
     {
       "Name": "kapus",
       "Steam": "76561198711483423",
-      "Score": 15,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "FRANKKK",
       "Steam": "76561199547287223",
-      "Score": 43,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "skateboard dog",
       "Steam": "76561199303359682",
-      "Score": 31,
-      "Time": "34:10"
+      "Score": 33,
+      "Time": "36:10"
     },
     {
-      "Name": "Tranny SLUGGA",
+      "Name": "T SLUGGA",
       "Steam": "76561199625017225",
-      "Score": 42,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "˶•ᴗ•˶",
       "Steam": "76561198715874923",
-      "Score": 74,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "菜菜就多練練",
       "Steam": "76561198727778744",
-      "Score": 19,
-      "Time": "10:09"
+      "Score": 27,
+      "Time": "12:09"
     },
     {
       "Name": "nan",
       "Steam": "76561199847533857",
-      "Score": 59,
+      "Score": 66,
+      "Time": "??:??"
+    },
+    {
+      "Name": "srzjap",
+      "Steam": "76561198728191047",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
