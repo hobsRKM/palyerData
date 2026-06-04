@@ -1,28 +1,40 @@
 {
-  "Time": "2026-06-04T19:49:02.5697904Z",
+  "Time": "2026-06-04T19:51:02.5666516Z",
   "Players": [
+    {
+      "Name": "bunny",
+      "Steam": "76561199142849496",
+      "Score": 14,
+      "Time": "02:00"
+    },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 8,
-      "Time": "16:40"
+      "Score": 11,
+      "Time": "18:40"
     },
     {
       "Name": "skiddy™",
       "Steam": "76561198806497985",
-      "Score": 63,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 53,
+      "Score": 67,
       "Time": "??:??"
+    },
+    {
+      "Name": "if im james dean",
+      "Steam": "76561198758736511",
+      "Score": 31,
+      "Time": "01:51"
     },
     {
       "Name": "шахед",
       "Steam": "76561198734517909",
-      "Score": 99,
+      "Score": 106,
       "Time": "??:??"
     },
     {
@@ -38,9 +50,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "lordfred #familyhook 25",
-      "Steam": "76561198767460421",
-      "Score": 16,
+      "Name": "double peek = ur mom dies",
+      "Steam": "76561198736053244",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "1% TR bruh",
+      "Steam": "76561199706418972",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
