@@ -1,34 +1,40 @@
 {
-  "Time": "2026-06-04T15:33:42.9809192Z",
+  "Time": "2026-06-04T15:35:42.97414Z",
   "Players": [
+    {
+      "Name": "9米",
+      "Steam": "76561198772634330",
+      "Score": 4,
+      "Time": "00:59"
+    },
     {
       "Name": "Baii",
       "Steam": "76561198404764395",
-      "Score": 7,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 6,
-      "Time": "52:42"
+      "Score": 7,
+      "Time": "54:42"
     },
     {
       "Name": "Urx63Ns5cLkmHKpf4mdikLL9zZBqxq5m",
       "Steam": "76561198786904680",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Saphirus",
       "Steam": "76561198696925752",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "nan",
       "Steam": "76561199847533857",
-      "Score": 15,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
