@@ -1,40 +1,46 @@
 {
-  "Time": "2026-06-04T15:41:42.9828103Z",
+  "Time": "2026-06-04T15:43:42.9735619Z",
   "Players": [
+    {
+      "Name": "XOXO",
+      "Steam": "76561199810524131",
+      "Score": 0,
+      "Time": "00:17"
+    },
     {
       "Name": "PIG PING",
       "Steam": "76561199099722473",
       "Score": 0,
-      "Time": "01:09"
+      "Time": "03:09"
     },
     {
       "Name": "Baii",
       "Steam": "76561198404764395",
-      "Score": 24,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "lylaa",
       "Steam": "76561199783489133",
-      "Score": 7,
-      "Time": "60:42"
+      "Score": 4,
+      "Time": "62:42"
     },
     {
       "Name": "Saphirus",
       "Steam": "76561198696925752",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "nan",
       "Steam": "76561199847533857",
-      "Score": 33,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "e",
       "Steam": "76561199564752768",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
