@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-04T02:53:01.4096469Z",
+  "Time": "2026-06-04T02:55:01.4013272Z",
   "Players": [
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 66,
+      "Score": 82,
       "Time": "??:??"
+    },
+    {
+      "Name": "dream1",
+      "Steam": "76561198706868502",
+      "Score": 1,
+      "Time": "01:42"
     },
     {
       "Name": "Dimitur berbatov",
       "Steam": "76561199580618556",
-      "Score": 4,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "acesolos",
       "Steam": "76561198722865548",
-      "Score": 50,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "B I G X A N T R E S",
       "Steam": "76561198693847657",
-      "Score": 14,
-      "Time": "18:24"
+      "Score": 21,
+      "Time": "20:24"
     }
   ]
 }
