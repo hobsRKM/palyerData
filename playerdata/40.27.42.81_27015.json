@@ -1,40 +1,46 @@
 {
-  "Time": "2026-06-04T20:17:02.5612507Z",
+  "Time": "2026-06-04T20:19:02.5760399Z",
   "Players": [
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 74,
-      "Time": "28:00"
+      "Score": 86,
+      "Time": "30:00"
     },
     {
       "Name": "sev",
       "Steam": "76561198729634528",
       "Score": 33,
-      "Time": "08:10"
+      "Time": "10:10"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 36,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 40,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "xan",
       "Steam": "76561198792219793",
-      "Score": 0,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ma Drilla",
+      "Steam": "76561198702082399",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
