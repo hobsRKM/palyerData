@@ -1,11 +1,11 @@
 {
-  "Time": "2026-06-04T21:15:02.5640998Z",
+  "Time": "2026-06-04T21:17:02.561532Z",
   "Players": [
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 40,
-      "Time": "86:00"
+      "Score": 46,
+      "Time": "88:00"
     },
     {
       "Name": "skoobert",
@@ -16,7 +16,13 @@
     {
       "Name": "bad person good taste",
       "Steam": "76561198734185305",
-      "Score": 28,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gamesensed",
+      "Steam": "76561198698744116",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
