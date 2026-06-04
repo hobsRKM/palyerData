@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-04T11:51:25.3841662Z",
-  "Players": []
+  "Time": "2026-06-04T11:51:49.8681516Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "uloji",
+      "Steam": "76561199829164736",
+      "Score": 0,
+      "Time": "01:17"
+    },
+    {
+      "Name": "hzhv",
+      "Steam": "76561198214788071",
+      "Score": 22,
+      "Time": "05:58"
+    },
+    {
+      "Name": "KapIK",
+      "Steam": "76561198718665678",
+      "Score": 14,
+      "Time": "06:56"
+    },
+    {
+      "Name": "ceo of red bull",
+      "Steam": "76561198710625840",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Oscar Piastri - McLaren Racing",
+      "Steam": "76561198706651823",
+      "Score": 6,
+      "Time": "07:28"
+    }
+  ]
 }
