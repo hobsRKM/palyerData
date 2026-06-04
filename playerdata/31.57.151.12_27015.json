@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-04T10:03:25.3843289Z",
-  "Players": []
+  "Time": "2026-06-04T10:03:49.8707971Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Polish Demolisher",
+      "Steam": "76561198717542751",
+      "Score": 41,
+      "Time": "06:52"
+    },
+    {
+      "Name": "bombardilo crocodilo",
+      "Steam": "76561199834383549",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SIUREK2137",
+      "Steam": "76561198698338982",
+      "Score": 2,
+      "Time": "96:17"
+    },
+    {
+      "Name": "Fear",
+      "Steam": "76561198754218928",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
