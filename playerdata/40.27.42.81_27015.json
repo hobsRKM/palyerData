@@ -1,58 +1,70 @@
 {
-  "Time": "2026-06-04T00:07:01.4010034Z",
+  "Time": "2026-06-04T00:09:01.4038828Z",
   "Players": [
+    {
+      "Name": "i am nothing",
+      "Steam": "76561198694549188",
+      "Score": 2,
+      "Time": "01:13"
+    },
     {
       "Name": "supremacy femboy (new choker)",
       "Steam": "76561198723301701",
       "Score": 0,
-      "Time": "38:26"
+      "Time": "40:26"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 17,
-      "Time": "16:23"
-    },
-    {
-      "Name": "dream1",
-      "Steam": "76561198706868502",
-      "Score": 6,
-      "Time": "26:58"
+      "Score": 31,
+      "Time": "18:23"
     },
     {
       "Name": "weapon",
       "Steam": "76561198693963960",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Gamesensed",
       "Steam": "76561198698744116",
-      "Score": 8,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "sev",
       "Steam": "76561198729634528",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "justin.webster925",
       "Steam": "76561199522917359",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "coma",
+      "Steam": "76561199805557263",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tsubasi",
+      "Steam": "76561198693663992",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
