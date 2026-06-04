@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-04T11:47:25.3842339Z",
-  "Players": []
+  "Time": "2026-06-04T11:47:49.8614409Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hzhv",
+      "Steam": "76561198214788071",
+      "Score": 6,
+      "Time": "01:58"
+    },
+    {
+      "Name": "KapIK",
+      "Steam": "76561198718665678",
+      "Score": 8,
+      "Time": "02:56"
+    },
+    {
+      "Name": "Oscar Piastri - McLaren Racing",
+      "Steam": "76561198706651823",
+      "Score": 2,
+      "Time": "03:28"
+    }
+  ]
 }
