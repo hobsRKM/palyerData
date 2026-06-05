@@ -1,23 +1,41 @@
 {
-  "Time": "2026-06-05T15:50:30.6519707Z",
+  "Time": "2026-06-05T15:50:50.7032276Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "220:15"
+    },
+    {
+      "Name": "工廾⼕丂乂",
+      "Steam": "76561198448976973",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rajloker",
+      "Steam": "76561199613256805",
+      "Score": 20,
+      "Time": "28:31"
+    },
+    {
+      "Name": "frajer",
+      "Steam": "76561198761932696",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "KennyZeZ",
+      "Steam": "76561198148814710",
+      "Score": 2,
+      "Time": "427:41"
+    },
+    {
+      "Name": "Z O D I",
+      "Steam": "76561198778220813",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "Ironic",
-      "Steam": "76561199682137830",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
-      "Steam": "76561199547514723",
-      "Score": 32,
-      "Time": "12:45"
     }
   ]
 }
