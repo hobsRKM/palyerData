@@ -1,71 +1,77 @@
 {
-  "Time": "2026-06-05T04:47:02.6023171Z",
+  "Time": "2026-06-05T04:49:02.6041636Z",
   "Players": [
     {
       "Name": "sev",
       "Steam": "76561198729634528",
-      "Score": 25,
-      "Time": "42:44"
+      "Score": 32,
+      "Time": "44:44"
     },
     {
       "Name": "rope",
       "Steam": "76561198332515437",
-      "Score": 23,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "mafia.exe",
       "Steam": "76561198735862737",
-      "Score": 30,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "HelloThere",
       "Steam": "76561198791350509",
-      "Score": 20,
-      "Time": "16:43"
-    },
-    {
-      "Name": "crimson_raider69",
-      "Steam": "76561198978796711",
-      "Score": 17,
-      "Time": "??:??"
+      "Score": 21,
+      "Time": "18:43"
     },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 19,
-      "Time": "249:23"
+      "Score": 21,
+      "Time": "251:23"
     },
     {
       "Name": "DIH",
       "Steam": "76561198732415637",
-      "Score": 20,
-      "Time": "11:14"
+      "Score": 24,
+      "Time": "13:14"
     },
     {
       "Name": "shyne",
       "Steam": "76561199685683520",
-      "Score": 21,
-      "Time": "48:49"
+      "Score": 0,
+      "Time": "50:49"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 27,
-      "Time": "31:17"
+      "Score": 38,
+      "Time": "33:17"
+    },
+    {
+      "Name": "weapon",
+      "Steam": "76561198693963960",
+      "Score": 0,
+      "Time": "01:59"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 12,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "occupance",
       "Steam": "76561198693328657",
+      "Score": 4,
+      "Time": "60:27"
+    },
+    {
+      "Name": "folk",
+      "Steam": "76561199872434954",
       "Score": 0,
-      "Time": "58:27"
+      "Time": "??:??"
     }
   ]
 }
