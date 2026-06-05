@@ -1,10 +1,10 @@
 {
-  "Time": "2026-06-05T10:33:53.6972881Z",
+  "Time": "2026-06-05T10:35:53.7000523Z",
   "Players": [
     {
       "Name": "RxDer",
       "Steam": "76561199002500021",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -16,26 +16,32 @@
     {
       "Name": "Neo",
       "Steam": "76561199808928969",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
+    },
+    {
+      "Name": "Kata'ib al-Aqsa",
+      "Steam": "76561198733930573",
+      "Score": 0,
+      "Time": "00:44"
     },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
-      "Score": 52,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "thatguy",
       "Steam": "76561198335255015",
-      "Score": 25,
-      "Time": "39:01"
+      "Score": 33,
+      "Time": "41:01"
     },
     {
       "Name": "banner",
       "Steam": "76561199843080857",
-      "Score": 39,
-      "Time": "18:16"
+      "Score": 45,
+      "Time": "20:16"
     }
   ]
 }
