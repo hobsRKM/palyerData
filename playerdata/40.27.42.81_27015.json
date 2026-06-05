@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-05T23:25:00.6968394Z",
+  "Time": "2026-06-05T23:27:00.7106894Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 16,
+      "Time": "00:41"
+    },
     {
       "Name": "anything",
       "Steam": "76561198754565522",
-      "Score": 87,
+      "Score": 101,
       "Time": "??:??"
     },
     {
       "Name": "babylama",
       "Steam": "76561199567097190",
-      "Score": 34,
-      "Time": "19:37"
+      "Score": 37,
+      "Time": "21:37"
     },
     {
       "Name": "Spinning Till we Dizzy",
       "Steam": "76561198174493433",
-      "Score": 42,
-      "Time": "231:48"
+      "Score": 44,
+      "Time": "233:48"
     },
     {
       "Name": "weapon",
       "Steam": "76561198693963960",
-      "Score": 59,
-      "Time": "06:22"
+      "Score": 67,
+      "Time": "08:22"
     },
     {
       "Name": "3ncore",
       "Steam": "76561199122040433",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
       "Score": 22,
-      "Time": "37:52"
+      "Time": "39:52"
     },
     {
       "Name": "silka",
       "Steam": "76561198910866242",
-      "Score": 8,
-      "Time": "03:42"
+      "Score": 11,
+      "Time": "05:42"
     }
   ]
 }
