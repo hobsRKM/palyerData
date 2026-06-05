@@ -1,5 +1,5 @@
 {
-  "Time": "2026-06-05T04:01:02.6059802Z",
+  "Time": "2026-06-05T04:03:02.6040137Z",
   "Players": [
     {
       "Name": "mafia.exe",
@@ -10,20 +10,26 @@
     {
       "Name": "HelloThere",
       "Steam": "76561198791350509",
-      "Score": 0,
-      "Time": "68:33"
+      "Score": 1,
+      "Time": "70:33"
     },
     {
       "Name": "babylama",
       "Steam": "76561199567097190",
       "Score": 0,
-      "Time": "93:28"
+      "Time": "00:15"
+    },
+    {
+      "Name": "DIH",
+      "Steam": "76561198732415637",
+      "Score": 1,
+      "Time": "340:09"
     },
     {
       "Name": "skiddy™",
       "Steam": "76561198806497985",
-      "Score": 11,
-      "Time": "121:54"
+      "Score": 13,
+      "Time": "123:54"
     },
     {
       "Name": "skoobert",
@@ -34,49 +40,43 @@
     {
       "Name": "otx",
       "Steam": "76561199880717233",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199685683520",
       "Score": 9,
-      "Time": "02:49"
-    },
-    {
-      "Name": "sad sad Breathe.",
-      "Steam": "76561199425272329",
-      "Score": 6,
-      "Time": "125:33"
+      "Time": "04:49"
     },
     {
       "Name": "bot",
       "Steam": "76561199830024313",
-      "Score": 10,
-      "Time": "09:55"
+      "Score": 20,
+      "Time": "11:55"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "occupance",
       "Steam": "76561198693328657",
-      "Score": 9,
-      "Time": "12:27"
+      "Score": 13,
+      "Time": "14:27"
     },
     {
       "Name": "Sophia",
       "Steam": "76561198697494187",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Aru",
       "Steam": "76561199711763340",
-      "Score": 4,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
