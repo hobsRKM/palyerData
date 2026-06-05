@@ -1,29 +1,41 @@
 {
-  "Time": "2026-06-05T07:49:02.748313Z",
+  "Time": "2026-06-05T07:51:02.7436303Z",
   "Players": [
+    {
+      "Name": "CMD SQUAD",
+      "Steam": "76561198744205923",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "skiddy™",
       "Steam": "76561198806497985",
-      "Score": 8,
-      "Time": "08:36"
+      "Score": 15,
+      "Time": "10:36"
     },
     {
       "Name": "Najurus",
       "Steam": "76561198721694173",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "new port 100's",
+      "Steam": "76561198692116392",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "racks",
       "Steam": "76561199882397638",
-      "Score": 0,
-      "Time": "20:46"
+      "Score": 4,
+      "Time": "22:46"
     },
     {
       "Name": "discord.gg/dink",
       "Steam": "76561199052343423",
-      "Score": 4,
-      "Time": "40:30"
+      "Score": 15,
+      "Time": "42:30"
     }
   ]
 }
