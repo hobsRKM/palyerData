@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-05T23:11:13.6187541Z",
-  "Players": []
+  "Time": "2026-06-05T23:11:27.7415712Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cristi2k",
+      "Steam": "76561198059313086",
+      "Score": 17,
+      "Time": "16:52"
+    },
+    {
+      "Name": "Maxim Defusion",
+      "Steam": "76561198780613923",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatali ♱ \uD835\uDD87\uD835\uDD9E\uD835\uDD93\uD835\uDD8E\uD835\uDD8A ♱",
+      "Steam": "76561199473063463",
+      "Score": 8,
+      "Time": "03:41"
+    }
+  ]
 }
