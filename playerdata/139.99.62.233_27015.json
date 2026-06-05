@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-05T16:38:15.1844598Z",
+  "Time": "2026-06-05T16:40:15.292718Z",
   "Players": [
+    {
+      "Name": "RxDer",
+      "Steam": "76561199002500021",
+      "Score": 6,
+      "Time": "01:20"
+    },
     {
       "Name": "gameverse",
       "Steam": "76561198707370969",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "菜菜就多練練",
       "Steam": "76561198727778744",
-      "Score": 0,
-      "Time": "01:08"
+      "Score": 4,
+      "Time": "03:08"
     },
     {
       "Name": "skateboard dog",
       "Steam": "76561199303359682",
-      "Score": 6,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
