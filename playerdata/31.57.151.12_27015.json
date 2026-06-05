@@ -1,4 +1,23 @@
 {
-  "Time": "2026-06-05T15:49:56.4015728Z",
-  "Players": []
+  "Time": "2026-06-05T15:50:30.6519707Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ironic",
+      "Steam": "76561199682137830",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
+      "Steam": "76561199547514723",
+      "Score": 32,
+      "Time": "12:45"
+    }
+  ]
 }
