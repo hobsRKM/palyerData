@@ -1,34 +1,58 @@
 {
-  "Time": "2026-06-05T16:52:30.7340128Z",
+  "Time": "2026-06-05T16:52:50.7004584Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "282:15"
+    },
+    {
+      "Name": "jedencwel",
+      "Steam": "76561198753792807",
+      "Score": 0,
+      "Time": "07:20"
+    },
+    {
+      "Name": "Cute cat",
+      "Steam": "76561198691631161",
+      "Score": 35,
+      "Time": "07:22"
+    },
+    {
+      "Name": "L",
+      "Steam": "76561199573956393",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "G144L_nexiss",
+      "Steam": "76561199054609529",
+      "Score": 11,
+      "Time": "07:05"
+    },
+    {
+      "Name": "jajkodrakula420",
+      "Steam": "76561198714845600",
+      "Score": 25,
+      "Time": "04:51"
+    },
+    {
+      "Name": "tr1pz",
+      "Steam": "76561199659619861",
+      "Score": 37,
+      "Time": "91:44"
+    },
+    {
+      "Name": "Z O D I",
+      "Steam": "76561198778220813",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "sdkhbnf",
-      "Steam": "76561198707306681",
-      "Score": 34,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Bazofia",
-      "Steam": "76561198327405537",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Farm Bot",
-      "Steam": "76561198122829094",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Aquarium",
-      "Steam": "76561198793071006",
-      "Score": 57,
+      "Name": "Teek",
+      "Steam": "76561199856455111",
+      "Score": 17,
       "Time": "??:??"
     }
   ]
