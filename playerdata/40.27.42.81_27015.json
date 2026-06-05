@@ -1,40 +1,46 @@
 {
-  "Time": "2026-06-05T16:35:00.6452305Z",
+  "Time": "2026-06-05T16:37:00.6443171Z",
   "Players": [
+    {
+      "Name": "skiddy™",
+      "Steam": "76561198806497985",
+      "Score": 2,
+      "Time": "01:09"
+    },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
       "Score": 13,
-      "Time": "07:32"
+      "Time": "09:32"
     },
     {
       "Name": "sleek",
       "Steam": "76561198960096355",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 72,
+      "Score": 78,
       "Time": "??:??"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
       "Score": 0,
-      "Time": "56:29"
+      "Time": "58:29"
     },
     {
       "Name": "nice iq",
       "Steam": "76561198693732395",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 40,
+      "Score": 53,
       "Time": "??:??"
     }
   ]
