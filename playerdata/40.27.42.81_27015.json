@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-05T06:41:02.7191453Z",
+  "Time": "2026-06-05T06:43:02.7201673Z",
   "Players": [
+    {
+      "Name": "Trayvon",
+      "Steam": "76561199806697729",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 33,
-      "Time": "20:52"
-    },
-    {
-      "Name": "Super Layin",
-      "Steam": "76561199832666438",
-      "Score": 4,
-      "Time": "514:13"
+      "Score": 43,
+      "Time": "22:52"
     },
     {
       "Name": "skiddy™",
       "Steam": "76561198806497985",
-      "Score": 17,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TemushopperV2",
+      "Steam": "76561199754247379",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
