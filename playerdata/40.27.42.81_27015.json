@@ -1,21 +1,27 @@
 {
-  "Time": "2026-06-05T02:29:02.5636541Z",
+  "Time": "2026-06-05T02:31:02.5814033Z",
   "Players": [
     {
       "Name": "HelloThere",
       "Steam": "76561198791350509",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "babylama",
       "Steam": "76561199567097190",
       "Score": 4,
-      "Time": "01:28"
+      "Time": "03:28"
     },
     {
       "Name": "free my uncle",
       "Steam": "76561199278461869",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Boss",
+      "Steam": "76561199880559713",
       "Score": 0,
       "Time": "??:??"
     },
@@ -28,56 +34,56 @@
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 34,
-      "Time": "03:07"
+      "Score": 42,
+      "Time": "05:07"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "B I G X A N T R E S",
       "Steam": "76561198693847657",
       "Score": 24,
-      "Time": "48:03"
+      "Time": "50:03"
     },
     {
       "Name": "sad sad Breathe.",
       "Steam": "76561199425272329",
-      "Score": 83,
-      "Time": "33:33"
+      "Score": 88,
+      "Time": "35:33"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 30,
-      "Time": "66:13"
+      "Score": 34,
+      "Time": "68:13"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 44,
-      "Time": "21:16"
+      "Score": 48,
+      "Time": "23:16"
     },
     {
       "Name": "bnuy",
       "Steam": "76561199142849496",
-      "Score": 52,
-      "Time": "88:51"
-    },
-    {
-      "Name": "vera",
-      "Steam": "76561199106437621",
-      "Score": 7,
-      "Time": "27:48"
+      "Score": 56,
+      "Time": "90:51"
     },
     {
       "Name": ".",
       "Steam": "76561198323795548",
-      "Score": 10,
-      "Time": "96:36"
+      "Score": 21,
+      "Time": "98:36"
+    },
+    {
+      "Name": "Lotus Biscoff",
+      "Steam": "76561199839709648",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
