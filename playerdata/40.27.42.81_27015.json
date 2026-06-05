@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-05T20:47:00.6465504Z",
+  "Time": "2026-06-05T20:49:00.6583101Z",
   "Players": [
     {
       "Name": "ldap mafia",
       "Steam": "76561199834033575",
-      "Score": 51,
-      "Time": "12:16"
+      "Score": 55,
+      "Time": "14:16"
     },
     {
       "Name": "Richard Consolidator",
       "Steam": "76561198313575221",
-      "Score": 1,
-      "Time": "09:25"
+      "Score": 4,
+      "Time": "11:25"
     },
     {
       "Name": "even demons are gorgeous",
       "Steam": "76561199847868570",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rodrigamer201729",
+      "Steam": "76561198694469273",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 23,
-      "Time": "12:07"
+      "Score": 28,
+      "Time": "14:07"
     },
     {
       "Name": "babylama",
@@ -32,9 +38,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "h",
+      "Steam": "76561198043917000",
+      "Score": 0,
+      "Time": "186:10"
+    },
+    {
       "Name": "Terry Terror",
       "Steam": "76561199871203946",
-      "Score": 17,
+      "Score": 20,
       "Time": "??:??"
     },
     {
@@ -46,26 +58,26 @@
     {
       "Name": "wassup",
       "Steam": "76561199868946157",
-      "Score": 23,
-      "Time": "01:29"
+      "Score": 25,
+      "Time": "03:29"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 43,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "nice iq",
       "Steam": "76561198693732395",
-      "Score": 34,
-      "Time": "112:58"
+      "Score": 40,
+      "Time": "114:58"
     },
     {
-      "Name": "double peek = ur mom dies",
-      "Steam": "76561198736053244",
-      "Score": 89,
-      "Time": "??:??"
+      "Name": "wait no way!",
+      "Steam": "76561199411523950",
+      "Score": 0,
+      "Time": "00:35"
     },
     {
       "Name": "VeX",
@@ -74,16 +86,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "nse user",
+      "Name": "mesense user",
       "Steam": "76561199379573845",
       "Score": 21,
-      "Time": "14:27"
+      "Time": "16:27"
     },
     {
       "Name": "bnuy",
       "Steam": "76561199142849496",
-      "Score": 28,
-      "Time": "06:04"
+      "Score": 38,
+      "Time": "08:04"
     }
   ]
 }
