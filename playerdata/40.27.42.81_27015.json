@@ -1,58 +1,70 @@
 {
-  "Time": "2026-06-05T19:55:00.6500111Z",
+  "Time": "2026-06-05T19:57:00.6599293Z",
   "Players": [
+    {
+      "Name": "Socopotente",
+      "Steam": "76561198723316942",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 75,
-      "Time": "67:00"
+      "Score": 77,
+      "Time": "69:00"
     },
     {
       "Name": "Ji mi Wang",
       "Steam": "76561199409000122",
-      "Score": 84,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "nice iq",
       "Steam": "76561198693732395",
-      "Score": 57,
-      "Time": "60:58"
+      "Score": 60,
+      "Time": "62:58"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 50,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 60,
-      "Time": "13:49"
+      "Score": 72,
+      "Time": "15:49"
     },
     {
       "Name": "acesolos",
       "Steam": "76561198722865548",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "silka",
       "Steam": "76561198910866242",
-      "Score": 96,
-      "Time": "52:35"
+      "Score": 104,
+      "Time": "54:35"
     },
     {
-      "Name": "Kir Cuddlng",
+      "Name": "Kirkware Cuddlng",
       "Steam": "76561199453505494",
-      "Score": 19,
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VeX",
+      "Steam": "76561198400720884",
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Lucky",
       "Steam": "76561198700894379",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
