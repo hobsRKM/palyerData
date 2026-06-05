@@ -1,71 +1,77 @@
 {
-  "Time": "2026-06-05T20:35:00.6560118Z",
+  "Time": "2026-06-05T20:37:00.6475324Z",
   "Players": [
     {
       "Name": "ldap mafia",
       "Steam": "76561199834033575",
+      "Score": 4,
+      "Time": "02:16"
+    },
+    {
+      "Name": "skoobert",
+      "Steam": "76561199359618052",
       "Score": 0,
-      "Time": "00:16"
+      "Time": "02:07"
     },
     {
       "Name": "babylama",
       "Steam": "76561199567097190",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "tsu",
       "Steam": "76561199626903344",
-      "Score": 88,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "Ji mi Wang",
       "Steam": "76561199409000122",
-      "Score": 47,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "wassup",
       "Steam": "76561199868946157",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 8,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "nice iq",
       "Steam": "76561198693732395",
       "Score": 21,
-      "Time": "100:58"
+      "Time": "102:58"
     },
     {
       "Name": "double peek = ur mom dies",
       "Steam": "76561198736053244",
-      "Score": 45,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 31,
-      "Time": "53:49"
+      "Score": 35,
+      "Time": "55:49"
     },
     {
       "Name": "VeX",
       "Steam": "76561198400720884",
-      "Score": 35,
+      "Score": 41,
       "Time": "??:??"
     },
     {
-      "Name": "se user",
+      "Name": "mesense user",
       "Steam": "76561199379573845",
-      "Score": 6,
-      "Time": "02:27"
+      "Score": 10,
+      "Time": "04:27"
     }
   ]
 }
