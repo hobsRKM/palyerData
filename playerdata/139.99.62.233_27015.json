@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-05T18:24:23.3666434Z",
+  "Time": "2026-06-05T18:26:23.5203051Z",
   "Players": [
     {
       "Name": "Yaxir",
       "Steam": "76561198732615770",
-      "Score": 4,
-      "Time": "07:58"
+      "Score": 0,
+      "Time": "09:58"
     },
     {
       "Name": "MR.BEAT",
       "Steam": "76561198771100998",
-      "Score": 15,
-      "Time": "102:32"
+      "Score": 27,
+      "Time": "104:32"
     },
     {
       "Name": "ericdbreeze123",
       "Steam": "76561198696672033",
       "Score": 5,
-      "Time": "90:24"
+      "Time": "92:25"
     },
     {
       "Name": "Saphirus",
       "Steam": "76561198696925752",
+      "Score": 2,
+      "Time": "02:59"
+    },
+    {
+      "Name": "RONALDO",
+      "Steam": "76561199261672791",
       "Score": 0,
-      "Time": "00:59"
+      "Time": "??:??"
     },
     {
       "Name": "banner",
       "Steam": "76561199843080857",
-      "Score": 3,
-      "Time": "07:03"
+      "Score": 7,
+      "Time": "09:03"
     }
   ]
 }
