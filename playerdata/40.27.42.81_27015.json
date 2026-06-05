@@ -1,65 +1,71 @@
 {
-  "Time": "2026-06-05T23:01:00.7096792Z",
+  "Time": "2026-06-05T23:03:00.7067097Z",
   "Players": [
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 23,
-      "Time": "04:40"
+      "Score": 29,
+      "Time": "06:40"
     },
     {
       "Name": "thor",
       "Steam": "76561199318830390",
-      "Score": 73,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "68817273kgs",
       "Steam": "76561198691952340",
-      "Score": 18,
-      "Time": "07:01"
+      "Score": 20,
+      "Time": "09:01"
     },
     {
       "Name": "weapon",
       "Steam": "76561198693963960",
-      "Score": 32,
-      "Time": "341:07"
+      "Score": 38,
+      "Time": "343:07"
+    },
+    {
+      "Name": "queer",
+      "Steam": "76561199020431776",
+      "Score": 3,
+      "Time": "??:??"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 38,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 12,
+      "Score": 15,
       "Time": "??:??"
     },
     {
-      "Name": "aerotek",
-      "Steam": "76561198431691177",
-      "Score": 6,
-      "Time": "40:01"
-    },
-    {
-      "Name": "Kirkw Cuddlng",
+      "Name": "Kir Cuddlng",
       "Steam": "76561199453505494",
-      "Score": 14,
-      "Time": "12:54"
+      "Score": 19,
+      "Time": "14:54"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 31,
-      "Time": "13:52"
+      "Score": 33,
+      "Time": "15:52"
     },
     {
       "Name": "acesolos",
       "Steam": "76561198722865548",
-      "Score": 39,
-      "Time": "07:17"
+      "Score": 44,
+      "Time": "09:17"
+    },
+    {
+      "Name": "silka",
+      "Steam": "76561198910866242",
+      "Score": 0,
+      "Time": "12:35"
     }
   ]
 }
