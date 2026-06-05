@@ -1,6 +1,12 @@
 {
-  "Time": "2026-06-05T18:05:00.6562876Z",
+  "Time": "2026-06-05T18:07:00.643943Z",
   "Players": [
+    {
+      "Name": "Jack",
+      "Steam": "76561198702881176",
+      "Score": 12,
+      "Time": "02:01"
+    },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
@@ -10,43 +16,49 @@
     {
       "Name": "kat",
       "Steam": "76561197961697457",
-      "Score": 22,
-      "Time": "60:04"
+      "Score": 30,
+      "Time": "62:04"
     },
     {
       "Name": "Alyssa Liu Cracked @ Village",
       "Steam": "76561197976454047",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "nice iq",
       "Steam": "76561198693732395",
-      "Score": 13,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
       "Score": 11,
-      "Time": "31:05"
+      "Time": "33:05"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 34,
+      "Score": 44,
       "Time": "??:??"
+    },
+    {
+      "Name": "LastHope",
+      "Steam": "76561199345907245",
+      "Score": 0,
+      "Time": "00:15"
     },
     {
       "Name": "bnuy",
       "Steam": "76561199142849496",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "DIH",
       "Steam": "76561198732415637",
-      "Score": 14,
+      "Score": 27,
       "Time": "??:??"
     }
   ]
