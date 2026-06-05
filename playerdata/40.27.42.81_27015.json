@@ -1,5 +1,5 @@
 {
-  "Time": "2026-06-05T07:51:02.7436303Z",
+  "Time": "2026-06-05T07:53:02.7447508Z",
   "Players": [
     {
       "Name": "CMD SQUAD",
@@ -10,13 +10,19 @@
     {
       "Name": "skiddy™",
       "Steam": "76561198806497985",
-      "Score": 15,
-      "Time": "10:36"
+      "Score": 23,
+      "Time": "12:36"
+    },
+    {
+      "Name": "internetman10",
+      "Steam": "76561198739379665",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Najurus",
       "Steam": "76561198721694173",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -28,14 +34,8 @@
     {
       "Name": "racks",
       "Steam": "76561199882397638",
-      "Score": 4,
-      "Time": "22:46"
-    },
-    {
-      "Name": "discord.gg/dink",
-      "Steam": "76561199052343423",
-      "Score": 15,
-      "Time": "42:30"
+      "Score": 16,
+      "Time": "24:46"
     }
   ]
 }
