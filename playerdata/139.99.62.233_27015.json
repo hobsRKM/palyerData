@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-05T19:06:27.8194378Z",
+  "Time": "2026-06-05T19:08:28.0635425Z",
   "Players": [
+    {
+      "Name": "lylaa",
+      "Steam": "76561199783489133",
+      "Score": 2,
+      "Time": "01:21"
+    },
     {
       "Name": "gamesense.pub",
       "Steam": "76561198693830678",
       "Score": 2,
-      "Time": "138:34"
+      "Time": "140:35"
     },
     {
       "Name": "Yaxir",
       "Steam": "76561198732615770",
       "Score": 4,
-      "Time": "50:03"
+      "Time": "52:03"
     },
     {
       "Name": "Jeff",
       "Steam": "76561199275508437",
-      "Score": 89,
-      "Time": "424:11"
+      "Score": 98,
+      "Time": "426:11"
     },
     {
       "Name": "pfiyou",
       "Steam": "76561199151811109",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
-      "Name": "[Mo] Eric_FTW",
+      "Name": "[1067] Eric_FTW",
       "Steam": "76561198696672033",
-      "Score": 21,
-      "Time": "08:38"
+      "Score": 23,
+      "Time": "10:39"
     },
     {
       "Name": "$$$$$$$",
       "Steam": "76561199229682369",
-      "Score": 76,
-      "Time": "19:46"
+      "Score": 86,
+      "Time": "21:46"
     },
     {
       "Name": "0",
@@ -46,14 +52,14 @@
     {
       "Name": "Saphirus",
       "Steam": "76561198696925752",
-      "Score": 16,
-      "Time": "08:23"
+      "Score": 18,
+      "Time": "10:24"
     },
     {
       "Name": "banner",
       "Steam": "76561199843080857",
-      "Score": 33,
-      "Time": "49:07"
+      "Score": 37,
+      "Time": "51:08"
     }
   ]
 }
