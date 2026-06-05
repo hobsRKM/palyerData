@@ -1,59 +1,41 @@
 {
-  "Time": "2026-06-05T13:32:30.656768Z",
+  "Time": "2026-06-05T13:32:50.6969648Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "82:15"
+    },
+    {
+      "Name": "Steifen98",
+      "Steam": "76561198693508892",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cerny_magor",
+      "Steam": "76561198699068242",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Z O D I",
+      "Steam": "76561198778220813",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "aaaaaaaaaa",
-      "Steam": "76561199132315900",
-      "Score": 0,
+      "Name": "Bite",
+      "Steam": "76561199035685761",
+      "Score": 45,
       "Time": "??:??"
     },
     {
-      "Name": "woods7",
-      "Steam": "76561198707902039",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "eldimir afgnastov",
-      "Steam": "76561199210060787",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "king",
-      "Steam": "76561198838348825",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Těžkej Makáč",
-      "Steam": "76561198722155955",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "anti",
-      "Steam": "76561199036536422",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "INADEQUATE GEOGRAPHICAL LOCATION",
-      "Steam": "76561199547514723",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Buciarz",
-      "Steam": "76561199159390487",
-      "Score": 0,
-      "Time": "46:17"
+      "Name": "Z 3 T",
+      "Steam": "76561199611137580",
+      "Score": 8,
+      "Time": "217:53"
     }
   ]
 }
