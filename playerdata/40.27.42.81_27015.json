@@ -1,53 +1,53 @@
 {
-  "Time": "2026-06-05T22:41:00.6926579Z",
+  "Time": "2026-06-05T22:43:00.7051883Z",
   "Players": [
+    {
+      "Name": "1% TR bruh",
+      "Steam": "76561199706418972",
+      "Score": 0,
+      "Time": "233:47"
+    },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 47,
-      "Time": "104:06"
+      "Score": 2,
+      "Time": "106:06"
+    },
+    {
+      "Name": "thor",
+      "Steam": "76561199318830390",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 15,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "notzonticx",
-      "Steam": "76561199729277028",
-      "Score": 57,
-      "Time": "100:19"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 98,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "wassup",
       "Steam": "76561199868946157",
-      "Score": 36,
-      "Time": "115:29"
+      "Score": 0,
+      "Time": "117:29"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 53,
-      "Time": "20:01"
+      "Score": 0,
+      "Time": "22:01"
     },
     {
       "Name": "nice iq",
       "Steam": "76561198693732395",
-      "Score": 4,
-      "Time": "226:58"
-    },
-    {
-      "Name": "dream1",
-      "Steam": "76561198706868502",
-      "Score": 125,
-      "Time": "??:??"
+      "Score": 1,
+      "Time": "228:58"
     }
   ]
 }
