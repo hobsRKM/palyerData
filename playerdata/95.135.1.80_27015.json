@@ -1,35 +1,35 @@
 {
-  "Time": "2026-06-06T16:00:16.1358241Z",
+  "Time": "2026-06-06T16:00:20.5895046Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "267:23"
+    },
+    {
+      "Name": "dexter morgan",
+      "Steam": "76561198979210191",
+      "Score": 54,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Meisterkitler",
+      "Steam": "76561198699119286",
+      "Score": 55,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bean_",
+      "Steam": "76561199096646407",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDE8D\uD835\uDE8A\uD835\uDE9D \uD835\uDE8A\uD835\uDE8D\uD835\uDE8A\uD835\uDE96",
+      "Steam": "76561198725703409",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "......",
-      "Steam": "76561199230095302",
-      "Score": 57,
-      "Time": "??:??"
-    },
-    {
-      "Name": "pooper5000",
-      "Steam": "76561198201488462",
-      "Score": 67,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fatali sebi1337",
-      "Steam": "76561199319370382",
-      "Score": 17,
-      "Time": "06:46"
-    },
-    {
-      "Name": "ツ",
-      "Steam": "76561198749149649",
-      "Score": 10,
-      "Time": "06:37"
     }
   ]
 }
