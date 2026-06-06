@@ -1,41 +1,29 @@
 {
-  "Time": "2026-06-06T17:30:16.1236839Z",
+  "Time": "2026-06-06T17:30:20.5895464Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
+      "Time": "34:37"
+    },
+    {
+      "Name": "Yaahu",
+      "Steam": "76561198780432253",
+      "Score": 33,
       "Time": "??:??"
     },
     {
-      "Name": "im pidaras",
-      "Steam": "76561198709914592",
-      "Score": 23,
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "FRAME.DEV",
-      "Steam": "76561199648697812",
-      "Score": 32,
+      "Name": "Never",
+      "Steam": "76561199141951154",
+      "Score": 18,
       "Time": "??:??"
-    },
-    {
-      "Name": "ваня супермен288",
-      "Steam": "76561198692498136",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "GooddayWithNeverlose",
-      "Steam": "76561199889630354",
-      "Score": 32,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ツ",
-      "Steam": "76561198749149649",
-      "Score": 0,
-      "Time": "01:45"
     }
   ]
 }
