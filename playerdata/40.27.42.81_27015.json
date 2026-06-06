@@ -1,65 +1,77 @@
 {
-  "Time": "2026-06-06T00:07:00.705666Z",
+  "Time": "2026-06-06T00:09:00.7052548Z",
   "Players": [
+    {
+      "Name": "soda",
+      "Steam": "76561198706110468",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "coma",
       "Steam": "76561199805557263",
-      "Score": 7,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "40:41"
+      "Time": "42:41"
     },
     {
       "Name": "babylama",
       "Steam": "76561199567097190",
-      "Score": 20,
-      "Time": "09:10"
+      "Score": 23,
+      "Time": "11:10"
     },
     {
       "Name": "weapon",
       "Steam": "76561198693963960",
-      "Score": 4,
-      "Time": "04:30"
+      "Score": 11,
+      "Time": "06:30"
     },
     {
       "Name": "Gravity gun test drive #2",
       "Steam": "76561198166519466",
-      "Score": 32,
-      "Time": "603:55"
+      "Score": 38,
+      "Time": "605:55"
     },
     {
       "Name": "Mime",
       "Steam": "76561199229432620",
-      "Score": 9,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "revenant p2c",
       "Steam": "76561199546140339",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "x_x",
       "Steam": "76561198721620443",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "mucinex00",
+      "Steam": "76561199870756565",
+      "Score": 2,
+      "Time": "272:18"
     },
     {
       "Name": "shyne",
       "Steam": "76561199685683520",
-      "Score": 12,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "sev",
       "Steam": "76561198729634528",
-      "Score": 28,
-      "Time": "115:48"
+      "Score": 36,
+      "Time": "117:48"
     }
   ]
 }
