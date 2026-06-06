@@ -1,53 +1,41 @@
 {
-  "Time": "2026-06-06T22:23:12.8035773Z",
+  "Time": "2026-06-06T22:25:12.7923556Z",
   "Players": [
+    {
+      "Name": "ai made this",
+      "Steam": "76561199109713691",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "rawr",
       "Steam": "76561198693732395",
-      "Score": 0,
-      "Time": "69:37"
-    },
-    {
-      "Name": "Shux",
-      "Steam": "76561199170636130",
-      "Score": 10,
-      "Time": "??:??"
+      "Score": 6,
+      "Time": "71:37"
     },
     {
       "Name": "shyne",
       "Steam": "76561199685683520",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Big Bang",
       "Steam": "76561198739568756",
-      "Score": 23,
-      "Time": "10:05"
-    },
-    {
-      "Name": "arrowheads",
-      "Steam": "76561199721284892",
-      "Score": 0,
-      "Time": "02:29"
+      "Score": 25,
+      "Time": "12:05"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 7,
-      "Time": "00:28"
-    },
-    {
-      "Name": "wait no way!",
-      "Steam": "76561199411523950",
-      "Score": 0,
-      "Time": "02:07"
+      "Score": 24,
+      "Time": "02:28"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 59,
-      "Time": "55:46"
+      "Score": 64,
+      "Time": "57:46"
     }
   ]
 }
