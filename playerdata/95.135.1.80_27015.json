@@ -1,41 +1,29 @@
 {
-  "Time": "2026-06-06T12:18:16.1239913Z",
+  "Time": "2026-06-06T12:18:20.5889014Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
+      "Time": "45:23"
+    },
+    {
+      "Name": "hyperx3285",
+      "Steam": "76561198691824940",
+      "Score": 62,
       "Time": "??:??"
     },
     {
-      "Name": "BribeB",
-      "Steam": "76561199405949624",
-      "Score": 12,
+      "Name": "nigarr",
+      "Steam": "76561198281740289",
+      "Score": 45,
       "Time": "??:??"
     },
     {
-      "Name": "megaalchemist09",
-      "Steam": "76561198728933899",
-      "Score": 70,
-      "Time": "??:??"
-    },
-    {
-      "Name": "\uD835\uDCDF⋆\uD80C\uDC85⌯",
-      "Steam": "76561198311329253",
-      "Score": 32,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Swhrark",
-      "Steam": "76561199027978922",
-      "Score": 24,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Deniz",
-      "Steam": "76561199512060828",
-      "Score": 8,
-      "Time": "??:??"
+      "Name": "\uD835\uDD70\uD835\uDD95\uD835\uDD8D\uD835\uDD94\uD835\uDD97\uD835\uDD8A",
+      "Steam": "76561199767711661",
+      "Score": 0,
+      "Time": "01:43"
     }
   ]
 }
