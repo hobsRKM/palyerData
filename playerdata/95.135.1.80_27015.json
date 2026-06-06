@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-06T12:34:15.2449746Z",
-  "Players": []
+  "Time": "2026-06-06T12:34:16.1334586Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fein_Invalid",
+      "Steam": "76561199444305280",
+      "Score": 13,
+      "Time": "05:16"
+    },
+    {
+      "Name": "BribeB",
+      "Steam": "76561199405949624",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "megaalchemist09",
+      "Steam": "76561198728933899",
+      "Score": 48,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Swhrark",
+      "Steam": "76561199027978922",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Deniz",
+      "Steam": "76561199512060828",
+      "Score": 18,
+      "Time": "??:??"
+    }
+  ]
 }
