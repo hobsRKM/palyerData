@@ -1,29 +1,41 @@
 {
-  "Time": "2026-06-06T02:09:01.2529809Z",
+  "Time": "2026-06-06T02:11:01.3004383Z",
   "Players": [
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 39,
-      "Time": "14:35"
+      "Score": 41,
+      "Time": "16:35"
+    },
+    {
+      "Name": "mrpoo5888",
+      "Steam": "76561198691232612",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 65,
-      "Time": "64:07"
+      "Score": 73,
+      "Time": "66:07"
+    },
+    {
+      "Name": "Clancyman",
+      "Steam": "76561198694358169",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "B I G X A N T R E S",
       "Steam": "76561198693847657",
-      "Score": 48,
-      "Time": "33:17"
+      "Score": 49,
+      "Time": "35:17"
     },
     {
       "Name": "even demons are gorgeous",
       "Steam": "76561199847868570",
-      "Score": 37,
-      "Time": "26:20"
+      "Score": 56,
+      "Time": "28:20"
     },
     {
       "Name": "профруинер",
@@ -34,14 +46,14 @@
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 61,
-      "Time": "35:25"
+      "Score": 63,
+      "Time": "37:25"
     },
     {
       "Name": "occupance",
       "Steam": "76561198693328657",
-      "Score": 27,
-      "Time": "217:37"
+      "Score": 41,
+      "Time": "219:37"
     },
     {
       "Name": "HelloThere",
@@ -52,20 +64,20 @@
     {
       "Name": "shyne",
       "Steam": "76561199685683520",
-      "Score": 95,
+      "Score": 108,
       "Time": "??:??"
     },
     {
-      "Name": "bimbel",
-      "Steam": "76561199741486100",
-      "Score": 4,
-      "Time": "??:??"
+      "Name": "silka",
+      "Steam": "76561198910866242",
+      "Score": 33,
+      "Time": "01:19"
     },
     {
       "Name": "bnuy",
       "Steam": "76561199142849496",
-      "Score": 67,
-      "Time": "46:40"
+      "Score": 72,
+      "Time": "48:40"
     }
   ]
 }
