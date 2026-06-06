@@ -1,17 +1,29 @@
 {
-  "Time": "2026-06-06T12:17:12.800746Z",
+  "Time": "2026-06-06T12:19:12.7992333Z",
   "Players": [
+    {
+      "Name": "5413 aspen drive iowa",
+      "Steam": "76561199887239492",
+      "Score": 41,
+      "Time": "00:40"
+    },
     {
       "Name": "BABYDOLL",
       "Steam": "76561198693120844",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "RADALIVE",
       "Steam": "76561198706721079",
-      "Score": 3,
-      "Time": "03:23"
+      "Score": 11,
+      "Time": "05:23"
+    },
+    {
+      "Name": "XINCUNGUNHA",
+      "Steam": "76561198693480993",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
