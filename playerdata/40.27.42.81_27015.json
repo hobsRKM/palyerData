@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-06T18:19:12.8056071Z",
+  "Time": "2026-06-06T18:21:12.8102735Z",
   "Players": [
     {
       "Name": "Wet Like Water",
       "Steam": "76561199830118913",
-      "Score": 19,
-      "Time": "22:20"
+      "Score": 25,
+      "Time": "24:20"
     },
     {
       "Name": "gp",
       "Steam": "76561198691952340",
-      "Score": 60,
+      "Score": 69,
+      "Time": "??:??"
+    },
+    {
+      "Name": "skoobert",
+      "Steam": "76561199359618052",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Liab",
       "Steam": "76561199677683650",
-      "Score": 48,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "babylama",
       "Steam": "76561199567097190",
-      "Score": 36,
-      "Time": "08:09"
+      "Score": 39,
+      "Time": "10:09"
     },
     {
       "Name": "sw1tch",
@@ -34,26 +40,32 @@
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 46,
-      "Time": "27:41"
+      "Score": 48,
+      "Time": "29:41"
+    },
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "nice iq",
       "Steam": "76561198693732395",
-      "Score": 0,
-      "Time": "10:53"
+      "Score": 4,
+      "Time": "12:53"
     },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
       "Score": 1,
-      "Time": "00:08"
+      "Time": "02:08"
     },
     {
       "Name": "joby foster",
       "Steam": "76561199868946157",
-      "Score": 2,
-      "Time": "09:14"
+      "Score": 4,
+      "Time": "11:14"
     }
   ]
 }
