@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-06T12:13:12.7900438Z",
+  "Time": "2026-06-06T12:15:12.8023121Z",
   "Players": [
     {
       "Name": "5413 aspen drive iowa",
       "Steam": "76561199887239492",
-      "Score": 30,
-      "Time": "21:27"
+      "Score": 34,
+      "Time": "23:27"
     },
     {
       "Name": "BABYDOLL",
       "Steam": "76561198693120844",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "RADALIVE",
+      "Steam": "76561198706721079",
+      "Score": 0,
+      "Time": "01:23"
     }
   ]
 }
