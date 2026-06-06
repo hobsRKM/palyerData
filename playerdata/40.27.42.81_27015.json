@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-06T00:37:00.7681586Z",
+  "Time": "2026-06-06T00:39:00.7725996Z",
   "Players": [
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "70:41"
+      "Time": "72:41"
     },
     {
       "Name": "babylama",
       "Steam": "76561199567097190",
-      "Score": 37,
-      "Time": "39:11"
+      "Score": 39,
+      "Time": "41:11"
+    },
+    {
+      "Name": "swag",
+      "Steam": "76561199051899757",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "revenant p2c",
       "Steam": "76561199546140339",
-      "Score": 73,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "mucinex00",
       "Steam": "76561199870756565",
-      "Score": 10,
-      "Time": "02:23"
+      "Score": 16,
+      "Time": "04:23"
     },
     {
       "Name": "shyne",
       "Steam": "76561199685683520",
-      "Score": 38,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "sev",
       "Steam": "76561198729634528",
-      "Score": 51,
-      "Time": "145:48"
+      "Score": 63,
+      "Time": "147:48"
     }
   ]
 }
