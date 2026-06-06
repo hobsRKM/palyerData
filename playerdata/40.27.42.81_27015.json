@@ -1,40 +1,46 @@
 {
-  "Time": "2026-06-06T15:01:12.8008598Z",
+  "Time": "2026-06-06T15:03:12.7994761Z",
   "Players": [
+    {
+      "Name": "otx",
+      "Steam": "76561199880717233",
+      "Score": 4,
+      "Time": "01:03"
+    },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 115,
+      "Score": 125,
       "Time": "??:??"
     },
     {
       "Name": "B I G X A N T R E S",
       "Steam": "76561198690937302",
-      "Score": 49,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "occupance",
       "Steam": "76561198693328657",
-      "Score": 16,
-      "Time": "14:24"
+      "Score": 5,
+      "Time": "16:24"
     },
     {
       "Name": "mrpoo5888",
       "Steam": "76561198691232612",
-      "Score": 12,
-      "Time": "17:13"
+      "Score": 13,
+      "Time": "19:13"
     },
     {
       "Name": "nice iq",
       "Steam": "76561198693732395",
-      "Score": 57,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 128,
+      "Score": 140,
       "Time": "??:??"
     },
     {
@@ -44,15 +50,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "nnr dtp",
-      "Steam": "76561199217940276",
+      "Name": "zero",
+      "Steam": "76561199697775639",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fatality.win f Jindřich Zdráhal",
-      "Steam": "76561199477607847",
-      "Score": 4,
       "Time": "??:??"
     }
   ]
