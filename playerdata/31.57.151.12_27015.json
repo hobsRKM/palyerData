@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-07T15:00:33.6504126Z",
-  "Players": []
+  "Time": "2026-06-07T15:02:27.2888357Z",
+  "Players": [
+    {
+      "Name": "guntherfrankus",
+      "Steam": "76561198692436867",
+      "Score": 9,
+      "Time": "104:19"
+    },
+    {
+      "Name": "faceoly",
+      "Steam": "76561199661978395",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gamesense     draxy",
+      "Steam": "76561199823330532",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Lyubitodin",
+      "Steam": "76561198694356147",
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fantality",
+      "Steam": "76561198692233327",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
