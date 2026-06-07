@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-07T18:25:51.4057672Z",
+  "Time": "2026-06-07T18:25:53.5062559Z",
   "Players": [
     {
-      "Name": "Charles XII",
-      "Steam": "76561199227454951",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
       "Score": 4,
+      "Time": "299:18"
+    },
+    {
+      "Name": "ツ",
+      "Steam": "76561198749149649",
+      "Score": 0,
+      "Time": "91:14"
+    },
+    {
+      "Name": "SM3RF",
+      "Steam": "76561199267532979",
+      "Score": 15,
       "Time": "??:??"
     },
     {
-      "Name": "DEFOLTSTREL'BA",
-      "Steam": "76561199539413273",
-      "Score": 1,
-      "Time": "02:17"
-    },
-    {
-      "Name": "memesense.gg",
-      "Steam": "76561198740054129",
-      "Score": 29,
-      "Time": "41:26"
-    },
-    {
-      "Name": "jajkodrakula420",
-      "Steam": "76561198714845600",
-      "Score": 48,
+      "Name": "fatalit Karl Lauterbach",
+      "Steam": "76561199123351769",
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "Tatical Nukkeeeee1232",
-      "Steam": "76561199558529123",
-      "Score": 39,
-      "Time": "11:47"
+      "Name": "МОНГЕРШТЫЦ",
+      "Steam": "76561198695233040",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
