@@ -1,6 +1,12 @@
 {
-  "Time": "2026-06-07T23:39:02.0556964Z",
+  "Time": "2026-06-07T23:41:02.0515066Z",
   "Players": [
+    {
+      "Name": "Vonrasco",
+      "Steam": "76561199681914198",
+      "Score": 0,
+      "Time": "267:40"
+    },
     {
       "Name": "h (homo) user",
       "Steam": "76561198762105286",
@@ -10,43 +16,31 @@
     {
       "Name": "bad person good taste",
       "Steam": "76561199856290691",
-      "Score": 20,
-      "Time": "21:40"
+      "Score": 22,
+      "Time": "23:40"
     },
     {
       "Name": "Aru",
       "Steam": "76561199711763340",
-      "Score": 54,
+      "Score": 71,
       "Time": "??:??"
     },
     {
-      "Name": "stewbert",
-      "Steam": "76561198799307603",
-      "Score": 15,
+      "Name": "rope",
+      "Steam": "76561198332515437",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Jake",
       "Steam": "76561199844077519",
-      "Score": 2,
-      "Time": "140:54"
+      "Score": 7,
+      "Time": "142:54"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fenn",
-      "Steam": "76561199010808448",
-      "Score": 29,
-      "Time": "226:22"
-    },
-    {
-      "Name": "Israel",
-      "Steam": "76561198343112799",
-      "Score": 35,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
