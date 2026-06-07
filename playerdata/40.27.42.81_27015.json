@@ -1,65 +1,71 @@
 {
-  "Time": "2026-06-07T07:03:14.1983237Z",
+  "Time": "2026-06-07T07:05:14.2258749Z",
   "Players": [
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 13,
+      "Time": "00:31"
+    },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 139,
-      "Time": "80:37"
+      "Score": 145,
+      "Time": "82:37"
     },
     {
       "Name": "osama SON",
       "Steam": "76561199659814460",
       "Score": 35,
-      "Time": "76:33"
+      "Time": "78:33"
     },
     {
       "Name": "neverlose user",
       "Steam": "76561198773770415",
-      "Score": 168,
-      "Time": "26:44"
+      "Score": 190,
+      "Time": "28:44"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 83,
-      "Time": "85:31"
+      "Score": 89,
+      "Time": "87:31"
     },
     {
       "Name": "Linc8ln",
       "Steam": "76561198776685602",
       "Score": 0,
-      "Time": "459:34"
+      "Time": "461:34"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 55,
-      "Time": "575:13"
+      "Score": 56,
+      "Time": "577:13"
     },
     {
       "Name": "shyne",
       "Steam": "76561199685683520",
-      "Score": 95,
-      "Time": "33:47"
+      "Score": 99,
+      "Time": "35:47"
     },
     {
       "Name": "producing",
       "Steam": "76561199083355602",
-      "Score": 68,
-      "Time": "68:50"
+      "Score": 73,
+      "Time": "70:50"
     },
     {
       "Name": "rope",
       "Steam": "76561198332515437",
-      "Score": 73,
-      "Time": "87:44"
+      "Score": 77,
+      "Time": "89:44"
     },
     {
       "Name": "hehe",
       "Steam": "76561199409000122",
-      "Score": 0,
-      "Time": "78:58"
+      "Score": 3,
+      "Time": "80:58"
     }
   ]
 }
