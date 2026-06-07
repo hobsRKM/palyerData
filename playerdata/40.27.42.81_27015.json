@@ -1,11 +1,23 @@
 {
-  "Time": "2026-06-07T19:33:02.0506881Z",
+  "Time": "2026-06-07T19:35:02.0455136Z",
   "Players": [
+    {
+      "Name": "bad",
+      "Steam": "76561198281663381",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "thor",
       "Steam": "76561199318830390",
-      "Score": 45,
-      "Time": "22:59"
+      "Score": 50,
+      "Time": "24:59"
+    },
+    {
+      "Name": "methylenedioxymethamphetamine",
+      "Steam": "76561199480081357",
+      "Score": 0,
+      "Time": "00:20"
     },
     {
       "Name": "Wet Like Water",
@@ -14,34 +26,46 @@
       "Time": "??:??"
     },
     {
-      "Name": "igger hanger  ni 639",
-      "Steam": "76561199628740692",
-      "Score": 22,
+      "Name": "ASXER",
+      "Steam": "76561198692168735",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "cats",
-      "Steam": "76561198074792700",
-      "Score": 54,
+      "Name": "waffle",
+      "Steam": "76561198309670036",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hanger  nigger  639",
+      "Steam": "76561199628740692",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "so looong...",
+      "Steam": "76561199872397549",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Agony",
       "Steam": "76561198735582746",
-      "Score": 6,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
       "Score": 41,
-      "Time": "31:17"
+      "Time": "33:17"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 68,
-      "Time": "20:53"
+      "Score": 85,
+      "Time": "22:53"
     }
   ]
 }
