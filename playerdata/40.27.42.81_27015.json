@@ -1,40 +1,58 @@
 {
-  "Time": "2026-06-07T17:05:02.0428433Z",
+  "Time": "2026-06-07T17:07:02.0469182Z",
   "Players": [
+    {
+      "Name": "\uD835\uDD44\uD835\uDD5A\uD835\uDD54\uD835\uDD59\uD835\uDD52\uD835\uDD56\uD835\uDD5D",
+      "Steam": "76561198403878701",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Wet Like Water",
       "Steam": "76561199830118913",
-      "Score": 11,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Lucy Eats",
+      "Steam": "76561198693685135",
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "zZZ",
       "Steam": "76561199844954358",
-      "Score": 22,
-      "Time": "08:43"
+      "Score": 30,
+      "Time": "10:43"
     },
     {
       "Name": "Infamous Serpent",
       "Steam": "76561199453255014",
-      "Score": 0,
-      "Time": "50:00"
+      "Score": 1,
+      "Time": "52:00"
     },
     {
       "Name": "Pellix 374",
       "Steam": "76561198785725133",
       "Score": 9,
-      "Time": "12:36"
+      "Time": "14:36"
     },
     {
       "Name": "sleek",
       "Steam": "76561198960096355",
-      "Score": 28,
-      "Time": "20:47"
+      "Score": 29,
+      "Time": "22:47"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 63,
+      "Score": 79,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haskz",
+      "Steam": "76561198801685777",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
