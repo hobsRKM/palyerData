@@ -1,58 +1,64 @@
 {
-  "Time": "2026-06-07T02:07:13.2486031Z",
+  "Time": "2026-06-07T02:09:13.2458769Z",
   "Players": [
+    {
+      "Name": "aerotek",
+      "Steam": "76561198431691177",
+      "Score": 0,
+      "Time": "00:49"
+    },
     {
       "Name": "SKRA  |  Fishlover",
       "Steam": "76561198720327784",
-      "Score": 2,
-      "Time": "00:46"
+      "Score": 10,
+      "Time": "02:46"
     },
     {
       "Name": "PP",
       "Steam": "76561199508041394",
       "Score": 15,
-      "Time": "08:22"
+      "Time": "10:22"
     },
     {
       "Name": "jay piggot 1x1 cancer (◣_◢)",
       "Steam": "76561198693732395",
-      "Score": 26,
-      "Time": "51:50"
+      "Score": 30,
+      "Time": "53:50"
     },
     {
-      "Name": "Vonrasco",
-      "Steam": "76561199681914198",
-      "Score": 107,
-      "Time": "387:36"
+      "Name": "oyen",
+      "Steam": "76561199049807914",
+      "Score": 5,
+      "Time": "??:??"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 66,
-      "Time": "16:02"
+      "Score": 81,
+      "Time": "18:02"
     },
     {
       "Name": "s1mple",
       "Steam": "76561198737678932",
-      "Score": 10,
-      "Time": "04:19"
+      "Score": 14,
+      "Time": "06:19"
     },
     {
       "Name": "32",
       "Steam": "76561198691952340",
-      "Score": 53,
-      "Time": "42:49"
+      "Score": 56,
+      "Time": "44:49"
     },
     {
       "Name": "DXVXD",
       "Steam": "76561199442363655",
-      "Score": 16,
-      "Time": "04:07"
+      "Score": 22,
+      "Time": "06:07"
     },
     {
       "Name": "Rainy_",
       "Steam": "76561199133390791",
-      "Score": 28,
+      "Score": 35,
       "Time": "??:??"
     }
   ]
