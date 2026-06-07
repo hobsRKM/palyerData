@@ -1,53 +1,59 @@
 {
-  "Time": "2026-06-07T19:51:02.0415678Z",
+  "Time": "2026-06-07T19:53:02.0363988Z",
   "Players": [
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 10,
-      "Time": "03:03"
-    },
-    {
-      "Name": "bad",
-      "Steam": "76561198281663381",
-      "Score": 1,
-      "Time": "??:??"
+      "Time": "05:03"
     },
     {
       "Name": "thor",
       "Steam": "76561199318830390",
-      "Score": 20,
-      "Time": "40:59"
+      "Score": 23,
+      "Time": "42:59"
     },
     {
-      "Name": "TempleWa | shyne",
+      "Name": "TempleWar | shyne",
       "Steam": "76561199685683520",
-      "Score": 25,
-      "Time": "11:55"
+      "Score": 29,
+      "Time": "13:55"
     },
     {
       "Name": "ASXER",
       "Steam": "76561198692168735",
-      "Score": 14,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xrnix",
+      "Steam": "76561199659805721",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "so looong...",
       "Steam": "76561199872397549",
       "Score": 0,
-      "Time": "03:11"
+      "Time": "05:11"
     },
     {
       "Name": "Agony",
       "Steam": "76561198735582746",
-      "Score": 24,
+      "Score": 34,
       "Time": "??:??"
+    },
+    {
+      "Name": "Spinning Till we Dizzy",
+      "Steam": "76561198174493433",
+      "Score": 0,
+      "Time": "00:26"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 37,
-      "Time": "38:53"
+      "Score": 43,
+      "Time": "40:53"
     }
   ]
 }
