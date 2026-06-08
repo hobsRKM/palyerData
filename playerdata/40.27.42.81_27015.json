@@ -1,41 +1,41 @@
 {
-  "Time": "2026-06-08T02:03:02.0888638Z",
+  "Time": "2026-06-08T02:05:02.1049762Z",
   "Players": [
-    {
-      "Name": "dream1",
-      "Steam": "76561198706868502",
-      "Score": 25,
-      "Time": "06:27"
-    },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 17,
-      "Time": "425:02"
+      "Score": 25,
+      "Time": "427:02"
     },
     {
       "Name": "Woke",
       "Steam": "76561198757941422",
-      "Score": 28,
-      "Time": "143:17"
+      "Score": 32,
+      "Time": "145:17"
     },
     {
       "Name": "hellen wong",
       "Steam": "76561198960721394",
-      "Score": 12,
-      "Time": "03:54"
+      "Score": 16,
+      "Time": "05:54"
     },
     {
-      "Name": "FUZE",
+      "Name": "FUZEWARE FUZE",
       "Steam": "76561198400720884",
-      "Score": 47,
-      "Time": "287:05"
+      "Score": 49,
+      "Time": "289:05"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 34,
-      "Time": "03:58"
+      "Score": 43,
+      "Time": "05:58"
+    },
+    {
+      "Name": "haskz",
+      "Steam": "76561198801685777",
+      "Score": 0,
+      "Time": "01:55"
     }
   ]
 }
