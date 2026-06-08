@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-08T02:47:02.1016281Z",
+  "Time": "2026-06-08T02:49:02.1068735Z",
   "Players": [
     {
       "Name": "okwhatsnew",
       "Steam": "76561199674442809",
-      "Score": 61,
+      "Score": 75,
       "Time": "??:??"
     },
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 66,
-      "Time": "28:54"
+      "Score": 77,
+      "Time": "30:54"
+    },
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 11,
+      "Time": "00:15"
     },
     {
       "Name": "Woke",
       "Steam": "76561198757941422",
       "Score": 14,
-      "Time": "09:06"
+      "Time": "11:06"
     },
     {
       "Name": "hellen wong",
       "Steam": "76561198960721394",
-      "Score": 9,
-      "Time": "02:47"
+      "Score": 11,
+      "Time": "04:47"
     }
   ]
 }
