@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-08T21:15:02.9919993Z",
+  "Time": "2026-06-08T21:17:03.0025142Z",
   "Players": [
+    {
+      "Name": "Slap",
+      "Steam": "76561198692480565",
+      "Score": 2,
+      "Time": "01:25"
+    },
     {
       "Name": "tom the aura farmer",
       "Steam": "76561198691916316",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 19,
-      "Time": "13:50"
+      "Score": 22,
+      "Time": "15:50"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 70,
+      "Score": 79,
       "Time": "??:??"
     },
     {
@@ -32,40 +38,40 @@
       "Time": "??:??"
     },
     {
-      "Name": "mikie4412026",
-      "Steam": "76561198691270936",
+      "Name": "Sippin' Fanta | normal",
+      "Steam": "76561198728482863",
       "Score": 0,
-      "Time": "00:29"
+      "Time": "??:??"
     },
     {
       "Name": "Kimoyi",
       "Steam": "76561199711887613",
-      "Score": 8,
-      "Time": "56:58"
+      "Score": 14,
+      "Time": "58:58"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 51,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 55,
-      "Time": "10:50"
+      "Score": 63,
+      "Time": "12:50"
     },
     {
       "Name": "lily",
       "Steam": "76561199409000122",
-      "Score": 57,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "hellen wong",
       "Steam": "76561198960721394",
-      "Score": 29,
-      "Time": "27:31"
+      "Score": 35,
+      "Time": "29:31"
     }
   ]
 }
