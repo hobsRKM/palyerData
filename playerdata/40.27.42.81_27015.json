@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-08T02:13:02.096688Z",
+  "Time": "2026-06-08T02:15:02.098958Z",
   "Players": [
     {
       "Name": "okwhatsnew",
       "Steam": "76561199674442809",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
+      "Score": 6,
+      "Time": "437:02"
+    },
+    {
+      "Name": "CS2CheaterUndetek",
+      "Steam": "76561198692080290",
       "Score": 0,
-      "Time": "435:02"
+      "Time": "??:??"
     },
     {
       "Name": "Woke",
       "Steam": "76561198757941422",
       "Score": 0,
-      "Time": "153:17"
+      "Time": "155:17"
     },
     {
       "Name": "FUZEWARE FUZE",
       "Steam": "76561198400720884",
-      "Score": 0,
-      "Time": "297:05"
+      "Score": 4,
+      "Time": "299:05"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 0,
-      "Time": "13:58"
+      "Score": 14,
+      "Time": "15:58"
     }
   ]
 }
