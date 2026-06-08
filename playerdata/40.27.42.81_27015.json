@@ -1,59 +1,71 @@
 {
-  "Time": "2026-06-08T01:27:02.0763646Z",
+  "Time": "2026-06-08T01:29:02.0793268Z",
   "Players": [
+    {
+      "Name": "EXKAY",
+      "Steam": "76561198429032790",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Slap",
       "Steam": "76561198692480565",
-      "Score": 6,
-      "Time": "10:27"
+      "Score": 1,
+      "Time": "12:27"
     },
     {
       "Name": "Russia Nacist",
       "Steam": "76561199156716734",
-      "Score": 39,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "mirenmirenmirenmirenmirenmiren",
       "Steam": "76561199794937746",
-      "Score": 8,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "kat",
       "Steam": "76561197961697457",
-      "Score": 41,
-      "Time": "36:54"
+      "Score": 4,
+      "Time": "38:54"
     },
     {
       "Name": "Rainy_",
       "Steam": "76561199133390791",
-      "Score": 27,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 81,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "hellen wong",
       "Steam": "76561198960721394",
       "Score": 2,
-      "Time": "03:11"
+      "Time": "05:11"
+    },
+    {
+      "Name": "ABCTX40",
+      "Steam": "76561199177175660",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 38,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 64,
-      "Time": "17:03"
+      "Score": 2,
+      "Time": "19:03"
     }
   ]
 }
