@@ -1,35 +1,53 @@
 {
-  "Time": "2026-06-07T23:47:02.0548419Z",
+  "Time": "2026-06-07T23:49:02.0512618Z",
   "Players": [
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 15,
-      "Time": "273:40"
+      "Score": 25,
+      "Time": "275:40"
     },
     {
       "Name": "thor",
       "Steam": "76561199318830390",
-      "Score": 35,
-      "Time": "62:18"
+      "Score": 41,
+      "Time": "64:18"
     },
     {
       "Name": "bad person good taste",
       "Steam": "76561199856290691",
-      "Score": 0,
-      "Time": "29:40"
+      "Score": 4,
+      "Time": "31:40"
     },
     {
       "Name": "Aru",
       "Steam": "76561199711763340",
-      "Score": 96,
+      "Score": 102,
       "Time": "??:??"
     },
     {
       "Name": "rope",
       "Steam": "76561198332515437",
       "Score": 0,
+      "Time": "01:14"
+    },
+    {
+      "Name": "fat furry",
+      "Steam": "76561198711716201",
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "sleek",
+      "Steam": "76561198960096355",
+      "Score": 0,
+      "Time": "00:32"
+    },
+    {
+      "Name": "Jack",
+      "Steam": "76561198702881176",
+      "Score": 0,
+      "Time": "00:48"
     }
   ]
 }
