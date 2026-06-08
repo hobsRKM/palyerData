@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-08T06:21:04.4955463Z",
+  "Time": "2026-06-08T06:23:04.5191391Z",
   "Players": [
     {
       "Name": "Raymond Reddington",
       "Steam": "76561198968922012",
-      "Score": 86,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 28,
-      "Time": "09:24"
+      "Score": 0,
+      "Time": "11:24"
+    },
+    {
+      "Name": "Eliza",
+      "Steam": "76561199886101992",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 58,
-      "Time": "96:02"
+      "Score": 0,
+      "Time": "98:02"
     },
     {
       "Name": "yucky",
@@ -28,44 +34,50 @@
     {
       "Name": "Sippin' Fanta | normal",
       "Steam": "76561198728482863",
-      "Score": 94,
-      "Time": "160:52"
+      "Score": 0,
+      "Time": "162:52"
     },
     {
       "Name": "Dih",
       "Steam": "76561198732415637",
-      "Score": 52,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Ansi ;3",
       "Steam": "76561199568150325",
-      "Score": 18,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "free promo",
       "Steam": "76561199876077209",
-      "Score": 164,
-      "Time": "148:09"
+      "Score": 6,
+      "Time": "150:09"
     },
     {
       "Name": "ABCTX40",
       "Steam": "76561199177175660",
-      "Score": 29,
-      "Time": "17:09"
+      "Score": 2,
+      "Time": "19:09"
+    },
+    {
+      "Name": "Shux",
+      "Steam": "76561199170636130",
+      "Score": 0,
+      "Time": "00:42"
+    },
+    {
+      "Name": "Ferox",
+      "Steam": "76561199377440484",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 135,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "notzonticx",
-      "Steam": "76561199729277028",
-      "Score": 99,
-      "Time": "293:36"
     }
   ]
 }
