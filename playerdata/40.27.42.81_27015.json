@@ -1,11 +1,17 @@
 {
-  "Time": "2026-06-09T19:35:00.6902658Z",
+  "Time": "2026-06-09T19:37:00.6878794Z",
   "Players": [
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 78,
-      "Time": "14:59"
+      "Score": 82,
+      "Time": "16:59"
+    },
+    {
+      "Name": "BABAPRO",
+      "Steam": "76561198703777464",
+      "Score": 3,
+      "Time": "??:??"
     },
     {
       "Name": "XiaoZe80416",
@@ -16,19 +22,19 @@
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 51,
+      "Score": 65,
       "Time": "??:??"
     },
     {
-      "Name": "Laced",
-      "Steam": "76561199388560753",
-      "Score": 4,
-      "Time": "??:??"
+      "Name": "bot1k",
+      "Steam": "76561198706721079",
+      "Score": 6,
+      "Time": "00:41"
     },
     {
       "Name": "sev",
       "Steam": "76561198729634528",
-      "Score": 89,
+      "Score": 99,
       "Time": "??:??"
     },
     {
@@ -38,22 +44,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "astro (zp9n on dc)",
-      "Steam": "76561198691243619",
-      "Score": 8,
-      "Time": "13:51"
-    },
-    {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 61,
-      "Time": "41:05"
+      "Score": 65,
+      "Time": "43:05"
     },
     {
       "Name": "Dih",
       "Steam": "76561198732415637",
-      "Score": 44,
-      "Time": "45:22"
+      "Score": 49,
+      "Time": "47:22"
     }
   ]
 }
