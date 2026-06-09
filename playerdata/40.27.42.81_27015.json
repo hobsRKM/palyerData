@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-09T04:55:04.4798795Z",
+  "Time": "2026-06-09T04:57:04.4880246Z",
   "Players": [
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 51,
-      "Time": "58:54"
+      "Score": 61,
+      "Time": "60:54"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
       "Score": 22,
-      "Time": "147:20"
+      "Time": "149:20"
     },
     {
       "Name": "sev",
       "Steam": "76561198729634528",
-      "Score": 75,
-      "Time": "206:26"
+      "Score": 89,
+      "Time": "208:26"
+    },
+    {
+      "Name": "ZeBedeu",
+      "Steam": "76561198014302588",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "del✰",
@@ -26,46 +32,40 @@
       "Time": "??:??"
     },
     {
-      "Name": "durtecam",
-      "Steam": "76561198928789325",
-      "Score": 57,
-      "Time": "??:??"
-    },
-    {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 59,
-      "Time": "01:01"
+      "Score": 64,
+      "Time": "03:01"
     },
     {
       "Name": "зондбе",
       "Steam": "76561199489243882",
-      "Score": 0,
-      "Time": "47:26"
+      "Score": 6,
+      "Time": "49:26"
     },
     {
       "Name": "Ella",
       "Steam": "76561199492693134",
-      "Score": 57,
-      "Time": "24:16"
+      "Score": 61,
+      "Time": "26:16"
+    },
+    {
+      "Name": "kani",
+      "Steam": "76561199700623537",
+      "Score": 3,
+      "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 126,
-      "Time": "55:42"
+      "Score": 134,
+      "Time": "57:42"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 80,
-      "Time": "92:06"
-    },
-    {
-      "Name": "✡RVON THE FAGG0T FURRY ✡",
-      "Steam": "76561198729483284",
-      "Score": 20,
-      "Time": "??:??"
+      "Score": 86,
+      "Time": "94:06"
     }
   ]
 }
