@@ -1,16 +1,22 @@
 {
-  "Time": "2026-06-09T02:35:03.2321993Z",
+  "Time": "2026-06-09T02:37:03.2437388Z",
   "Players": [
+    {
+      "Name": "shyne",
+      "Steam": "76561199096113124",
+      "Score": 32,
+      "Time": "01:33"
+    },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 73,
-      "Time": "244:31"
+      "Score": 80,
+      "Time": "246:31"
     },
     {
       "Name": "Dih",
       "Steam": "76561198732415637",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
@@ -22,32 +28,44 @@
     {
       "Name": "dream1",
       "Steam": "76561198706868502",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "coma",
       "Steam": "76561199805557263",
-      "Score": 1,
-      "Time": "29:46"
+      "Score": 7,
+      "Time": "31:46"
     },
     {
       "Name": "bestest player",
       "Steam": "76561199552174880",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 104,
-      "Time": "113:01"
+      "Score": 110,
+      "Time": "115:01"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 67,
-      "Time": "124:58"
+      "Score": 75,
+      "Time": "126:58"
+    },
+    {
+      "Name": "haskz",
+      "Steam": "76561198801685777",
+      "Score": 1,
+      "Time": "00:55"
+    },
+    {
+      "Name": "eLita Awp",
+      "Steam": "76561198711085002",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
