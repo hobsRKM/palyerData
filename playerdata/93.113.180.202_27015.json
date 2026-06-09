@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-09T15:34:25.4558947Z",
+  "Time": "2026-06-09T15:34:38.8463638Z",
   "Players": [
     {
-      "Name": "Rs1",
-      "Steam": "76561198728907394",
+      "Name": "Yaahu",
+      "Steam": "76561198780432253",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "andreicoroana1",
+      "Steam": "76561198692644990",
       "Score": 10,
+      "Time": "17:42"
+    },
+    {
+      "Name": "creepy",
+      "Steam": "76561199494319073",
+      "Score": 5,
+      "Time": "18:23"
+    },
+    {
+      "Name": "smiler",
+      "Steam": "76561198758338643",
+      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "Head Hunter",
-      "Steam": "76561199334969958",
-      "Score": 12,
+      "Name": "\"'",
+      "Steam": "76561199028888055",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "robert.gagiuu",
-      "Steam": "76561198783529373",
-      "Score": 10,
+      "Name": "LLJW 999",
+      "Steam": "76561199404049760",
+      "Score": 1,
       "Time": "??:??"
-    },
-    {
-      "Name": "Kobato",
-      "Steam": "76561197963110447",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "vasiebosuvostrubaicainilor",
-      "Steam": "76561198701667986",
-      "Score": 11,
-      "Time": "37:59"
     }
   ]
 }
