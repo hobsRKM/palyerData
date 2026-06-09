@@ -1,5 +1,5 @@
 {
-  "Time": "2026-06-09T15:00:19.1684687Z",
+  "Time": "2026-06-09T15:02:19.1676Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,31 +10,43 @@
     {
       "Name": "fatality.win Karl Lauterbach",
       "Steam": "76561199123351769",
-      "Score": 28,
+      "Score": 35,
       "Time": "??:??"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 21,
+      "Time": "01:16"
     },
     {
       "Name": "Bazofia",
       "Steam": "76561198327405537",
-      "Score": 59,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "Twinqp",
       "Steam": "76561198721349342",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Istv",
-      "Steam": "76561199381810676",
-      "Score": 0,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Head Hunter",
       "Steam": "76561199334969958",
-      "Score": 8,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dj Karuzdjathë",
+      "Steam": "76561199559283256",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "awareness",
+      "Steam": "76561198700098627",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
