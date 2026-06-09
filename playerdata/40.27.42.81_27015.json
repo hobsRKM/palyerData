@@ -1,64 +1,82 @@
 {
-  "Time": "2026-06-09T16:59:00.6880045Z",
+  "Time": "2026-06-09T17:01:00.6816945Z",
   "Players": [
+    {
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
+      "Score": 7,
+      "Time": "01:20"
+    },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 72,
-      "Time": "15:31"
+      "Score": 78,
+      "Time": "17:31"
     },
     {
       "Name": "lzx",
       "Steam": "76561199834410706",
       "Score": 9,
-      "Time": "09:14"
+      "Time": "11:14"
+    },
+    {
+      "Name": "bad",
+      "Steam": "76561198281663381",
+      "Score": 3,
+      "Time": "01:32"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 65,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 51,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 49,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "flyshot demon",
       "Steam": "76561198005082787",
-      "Score": 22,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 30,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "mikie4412026",
       "Steam": "76561198691270936",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Slap",
       "Steam": "76561198692480565",
-      "Score": 0,
-      "Time": "01:03"
+      "Score": 4,
+      "Time": "03:03"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 1,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "大爱仙尊",
+      "Steam": "76561198689433220",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
