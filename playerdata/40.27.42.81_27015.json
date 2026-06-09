@@ -1,10 +1,16 @@
 {
-  "Time": "2026-06-09T16:37:00.6900846Z",
+  "Time": "2026-06-09T16:39:00.6924176Z",
   "Players": [
+    {
+      "Name": "otx",
+      "Steam": "76561199880717233",
+      "Score": 2,
+      "Time": "01:22"
+    },
     {
       "Name": "sleek",
       "Steam": "76561198960096355",
-      "Score": 91,
+      "Score": 105,
       "Time": "??:??"
     },
     {
@@ -16,30 +22,30 @@
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 26,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 23,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 5,
-      "Time": "??:??"
-    },
-    {
-      "Name": "TheCrypton",
-      "Steam": "76561198309564256",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
       "Score": 0,
       "Time": "??:??"
     }
