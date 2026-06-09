@@ -1,28 +1,34 @@
 {
-  "Time": "2026-06-09T19:01:00.6867182Z",
+  "Time": "2026-06-09T19:03:00.6961963Z",
   "Players": [
+    {
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
+      "Score": 1,
+      "Time": "01:06"
+    },
     {
       "Name": "coma",
       "Steam": "76561199805557263",
-      "Score": 64,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "XiaoZe80416",
       "Steam": "76561199721331065",
-      "Score": 13,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 33,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "heaven.",
       "Steam": "76561199112552242",
-      "Score": 2,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -32,10 +38,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "bako7",
+      "Steam": "76561198988309860",
+      "Score": 1,
+      "Time": "00:37"
+    },
+    {
       "Name": "Dexy",
       "Steam": "76561199541005297",
-      "Score": 5,
-      "Time": "04:49"
+      "Score": 9,
+      "Time": "06:49"
     },
     {
       "Name": "bot1k",
@@ -52,20 +64,20 @@
     {
       "Name": "forcedrop.top | Dimasik165",
       "Steam": "76561198257181885",
-      "Score": 20,
-      "Time": "11:24"
+      "Score": 24,
+      "Time": "13:24"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 30,
-      "Time": "07:05"
+      "Score": 34,
+      "Time": "09:05"
     },
     {
       "Name": "Dih",
       "Steam": "76561198732415637",
-      "Score": 48,
-      "Time": "11:22"
+      "Score": 58,
+      "Time": "13:22"
     }
   ]
 }
