@@ -1,29 +1,41 @@
 {
-  "Time": "2026-06-09T22:59:00.69103Z",
+  "Time": "2026-06-09T23:01:00.6895914Z",
   "Players": [
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "SpacemanIgloo",
       "Steam": "76561198776685602",
-      "Score": 22,
-      "Time": "12:01"
+      "Score": 26,
+      "Time": "14:01"
     },
     {
       "Name": "one+",
       "Steam": "76561199442363655",
-      "Score": 27,
-      "Time": "217:12"
+      "Score": 33,
+      "Time": "219:12"
+    },
+    {
+      "Name": "#sweep",
+      "Steam": "76561198720109899",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "yanrewatching",
+      "Steam": "76561198701366920",
+      "Score": 0,
+      "Time": "163:04"
     },
     {
       "Name": "black trump",
       "Steam": "76561198764305903",
-      "Score": 57,
-      "Time": "20:42"
+      "Score": 63,
+      "Time": "22:42"
     }
   ]
 }
