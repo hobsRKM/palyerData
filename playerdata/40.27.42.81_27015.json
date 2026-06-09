@@ -1,53 +1,47 @@
 {
-  "Time": "2026-06-09T01:09:02.9965954Z",
+  "Time": "2026-06-09T01:11:03.0072165Z",
   "Players": [
+    {
+      "Name": "Antaa Pusuhupparin Heittää",
+      "Steam": "76561199040145806",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "bot1k",
       "Steam": "76561198706721079",
-      "Score": 70,
-      "Time": "54:18"
-    },
-    {
-      "Name": "All Eyez On Me",
-      "Steam": "76561199634909491",
-      "Score": 78,
-      "Time": "??:??"
+      "Score": 72,
+      "Time": "56:18"
     },
     {
       "Name": "KiKi (Pedo)",
       "Steam": "76561198701497975",
-      "Score": 80,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 0,
-      "Time": "27:01"
-    },
-    {
-      "Name": "Cocaine",
-      "Steam": "76561197967573665",
-      "Score": 1,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "29:01"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 54,
-      "Time": "37:20"
+      "Score": 55,
+      "Time": "39:20"
     },
     {
       "Name": "Liab",
       "Steam": "76561199677683650",
-      "Score": 45,
-      "Time": "12:07"
-    },
-    {
-      "Name": "Kayyaa",
-      "Steam": "76561198964836382",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 48,
+      "Time": "14:07"
     }
   ]
 }
