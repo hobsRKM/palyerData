@@ -1,52 +1,64 @@
 {
-  "Time": "2026-06-09T20:19:00.6901696Z",
+  "Time": "2026-06-09T20:21:00.6894257Z",
   "Players": [
     {
-      "Name": "1MinDmg",
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
+      "Score": 9,
+      "Time": "00:52"
+    },
+    {
+      "Name": "Baimware.cc 1",
       "Steam": "76561198698744116",
-      "Score": 3,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 13,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "sev",
       "Steam": "76561198729634528",
-      "Score": 27,
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aerotek",
+      "Steam": "76561198431691177",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Linc8ln",
       "Steam": "76561198776685602",
       "Score": 17,
-      "Time": "13:44"
+      "Time": "15:44"
     },
     {
       "Name": "Sketched",
       "Steam": "76561199855212141",
       "Score": 6,
-      "Time": "18:16"
+      "Time": "20:16"
     },
     {
       "Name": "Luv2FCK",
       "Steam": "76561198693001781",
-      "Score": 24,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "EYEseeyou",
       "Steam": "76561198690196247",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
