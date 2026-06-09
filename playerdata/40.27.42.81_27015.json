@@ -1,16 +1,10 @@
 {
-  "Time": "2026-06-09T20:41:00.6840238Z",
+  "Time": "2026-06-09T20:43:00.6929514Z",
   "Players": [
     {
-      "Name": "Vicious",
-      "Steam": "76561198700071912",
-      "Score": 81,
-      "Time": "20:52"
-    },
-    {
-      "Name": "Baimware. 1MinDmg",
+      "Name": "Baimware.cc 1MinDmg",
       "Steam": "76561198698744116",
-      "Score": 57,
+      "Score": 58,
       "Time": "??:??"
     },
     {
@@ -28,38 +22,44 @@
     {
       "Name": "sev",
       "Steam": "76561198729634528",
-      "Score": 120,
+      "Score": 134,
       "Time": "??:??"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 87,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "Linc8ln",
       "Steam": "76561198776685602",
       "Score": 87,
-      "Time": "35:44"
+      "Time": "37:44"
     },
     {
       "Name": "Sketched",
       "Steam": "76561199855212141",
       "Score": 20,
-      "Time": "40:16"
+      "Time": "42:16"
     },
     {
       "Name": "Luv2FCK",
       "Steam": "76561198693001781",
-      "Score": 67,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "EYEseeyou",
       "Steam": "76561198690196247",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "Jack",
+      "Steam": "76561198702881176",
+      "Score": 0,
+      "Time": "00:18"
     },
     {
       "Name": "birb",
@@ -70,19 +70,19 @@
     {
       "Name": "Painstar",
       "Steam": "76561198094451136",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Liab",
       "Steam": "76561199677683650",
-      "Score": 30,
+      "Score": 35,
       "Time": "??:??"
     },
     {
@@ -92,16 +92,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "$$$$$$     | shyne",
+      "Name": "TempleWare | shyne",
       "Steam": "76561199096113124",
-      "Score": 3,
-      "Time": "12:23"
+      "Score": 4,
+      "Time": "14:23"
     },
     {
       "Name": "hellen wong",
       "Steam": "76561198960721394",
       "Score": 46,
-      "Time": "14:25"
+      "Time": "16:25"
     }
   ]
 }
