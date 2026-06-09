@@ -1,34 +1,40 @@
 {
-  "Time": "2026-06-09T00:19:02.9947175Z",
+  "Time": "2026-06-09T00:21:02.9962227Z",
   "Players": [
+    {
+      "Name": "Il Predestinato",
+      "Steam": "76561199208332345",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "soda",
       "Steam": "76561198706110468",
-      "Score": 0,
-      "Time": "04:25"
+      "Score": 6,
+      "Time": "06:25"
     },
     {
       "Name": "bot1k",
       "Steam": "76561198706721079",
-      "Score": 0,
-      "Time": "04:18"
+      "Score": 5,
+      "Time": "06:18"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 0,
-      "Time": "72:59"
+      "Score": 8,
+      "Time": "74:59"
     },
     {
       "Name": "Spontaneous Gamer",
       "Steam": "76561198210600653",
-      "Score": 0,
-      "Time": "22:27"
+      "Score": 4,
+      "Time": "24:27"
     },
     {
       "Name": "KiKi (Pedo)",
       "Steam": "76561198701497975",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -38,22 +44,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "Hage Reborn",
-      "Steam": "76561199754918087",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "mirenmirenmirenmirenmirenmiren",
       "Steam": "76561199794937746",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 0,
-      "Time": "11:15"
+      "Score": 4,
+      "Time": "13:15"
     }
   ]
 }
