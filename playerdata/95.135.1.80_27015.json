@@ -1,5 +1,5 @@
 {
-  "Time": "2026-06-09T14:06:19.1622243Z",
+  "Time": "2026-06-09T14:08:19.1686015Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,32 +10,38 @@
     {
       "Name": "Strat",
       "Steam": "76561198706552273",
-      "Score": 52,
+      "Score": 60,
       "Time": "??:??"
+    },
+    {
+      "Name": "xxxxxxxxxxx",
+      "Steam": "76561198719703493",
+      "Score": 19,
+      "Time": "01:05"
     },
     {
       "Name": "Bogdanuq",
       "Steam": "76561199550122482",
-      "Score": 66,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "Nifty I Skill I Issue",
       "Steam": "76561198691666015",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "turkey mention",
       "Steam": "76561198753915770",
       "Score": 23,
-      "Time": "02:50"
+      "Time": "04:50"
     },
     {
       "Name": "Vipro",
       "Steam": "76561199847330336",
-      "Score": 8,
-      "Time": "03:46"
+      "Score": 9,
+      "Time": "05:46"
     }
   ]
 }
