@@ -1,46 +1,52 @@
 {
-  "Time": "2026-06-09T00:29:03.0007397Z",
+  "Time": "2026-06-09T00:31:02.9929089Z",
   "Players": [
     {
       "Name": "soda",
       "Steam": "76561198706110468",
-      "Score": 26,
-      "Time": "14:25"
+      "Score": 30,
+      "Time": "16:25"
+    },
+    {
+      "Name": "Frames",
+      "Steam": "76561199017431616",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "bot1k",
       "Steam": "76561198706721079",
       "Score": 27,
-      "Time": "14:18"
+      "Time": "16:18"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 48,
-      "Time": "82:59"
+      "Score": 50,
+      "Time": "84:59"
     },
     {
       "Name": "Spontaneous Gamer",
       "Steam": "76561198210600653",
       "Score": 14,
-      "Time": "32:27"
+      "Time": "34:27"
     },
     {
       "Name": "Slap",
       "Steam": "76561198692480565",
       "Score": 6,
-      "Time": "01:52"
+      "Time": "03:52"
     },
     {
       "Name": "lalalalala",
       "Steam": "76561199386813509",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "KiKi (Pedo)",
       "Steam": "76561198701497975",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
@@ -52,14 +58,20 @@
     {
       "Name": "mirenmirenmirenmirenmirenmiren",
       "Steam": "76561199794937746",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 29,
-      "Time": "21:15"
+      "Score": 41,
+      "Time": "23:15"
+    },
+    {
+      "Name": "Ella",
+      "Steam": "76561199492693134",
+      "Score": 0,
+      "Time": "170:12"
     }
   ]
 }
