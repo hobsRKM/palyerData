@@ -1,23 +1,23 @@
 {
-  "Time": "2026-06-09T23:33:00.6788402Z",
+  "Time": "2026-06-09T23:35:00.6819004Z",
   "Players": [
+    {
+      "Name": "yourshitlmao",
+      "Steam": "76561198692896687",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "SpacemanIgloo",
       "Steam": "76561198776685602",
-      "Score": 13,
-      "Time": "46:01"
+      "Score": 15,
+      "Time": "48:01"
     },
     {
-      "Name": "one+",
-      "Steam": "76561199442363655",
-      "Score": 18,
-      "Time": "251:12"
-    },
-    {
-      "Name": "yanrewatching",
-      "Steam": "76561198701366920",
-      "Score": 19,
-      "Time": "195:04"
+      "Name": "dream1",
+      "Steam": "76561198706868502",
+      "Score": 8,
+      "Time": "??:??"
     }
   ]
 }
