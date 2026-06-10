@@ -1,41 +1,41 @@
 {
-  "Time": "2026-06-10T17:52:56.6213004Z",
+  "Time": "2026-06-10T17:54:56.619716Z",
   "Players": [
     {
-      "Name": "[Mon] orso1",
+      "Name": "[Monolith] orso1",
       "Steam": "76561198776685602",
       "Score": 1,
-      "Time": "01:32"
+      "Time": "03:32"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 11,
-      "Time": "12:45"
+      "Score": 15,
+      "Time": "14:45"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 5,
-      "Time": "04:21"
+      "Score": 12,
+      "Time": "06:21"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 11,
-      "Time": "20:58"
+      "Score": 15,
+      "Time": "22:58"
     },
     {
       "Name": "Vicious Beta",
       "Steam": "76561198700071912",
-      "Score": 25,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Serpent",
       "Steam": "76561199453255014",
-      "Score": 15,
-      "Time": "13:40"
+      "Score": 21,
+      "Time": "15:40"
     },
     {
       "Name": "Shux",
@@ -46,8 +46,14 @@
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
+    },
+    {
+      "Name": "Кракен",
+      "Steam": "76561199156395215",
+      "Score": 3,
+      "Time": "01:57"
     },
     {
       "Name": "sqqrky",
@@ -58,19 +64,13 @@
     {
       "Name": "swag",
       "Steam": "76561199051899757",
-      "Score": 15,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "good guy bad life",
       "Steam": "76561198722126597",
       "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Jab Jabich",
-      "Steam": "76561198299586555",
-      "Score": 0,
       "Time": "??:??"
     }
   ]
