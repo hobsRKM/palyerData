@@ -1,40 +1,40 @@
 {
-  "Time": "2026-06-10T13:12:29.3273722Z",
+  "Time": "2026-06-10T13:14:29.3273723Z",
   "Players": [
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 0,
+      "Time": "06:55"
+    },
     {
       "Name": ".",
       "Steam": "76561199757503197",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Джентельмен",
       "Steam": "76561198764426123",
-      "Score": 10,
-      "Time": "05:12"
+      "Score": 17,
+      "Time": "07:12"
     },
     {
       "Name": "S0RO [PT]",
       "Steam": "76561199165947463",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "viktor reznov",
       "Steam": "76561198439174555",
-      "Score": 2,
-      "Time": "66:59"
-    },
-    {
-      "Name": "adamsj",
-      "Steam": "76561199543202791",
-      "Score": 8,
-      "Time": "??:??"
+      "Score": 6,
+      "Time": "68:59"
     },
     {
       "Name": "Kalahari On Pancakes",
       "Steam": "76561199120500237",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
