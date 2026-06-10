@@ -1,71 +1,65 @@
 {
-  "Time": "2026-06-10T13:44:29.3205611Z",
+  "Time": "2026-06-10T13:46:29.3205403Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561199757503197",
+      "Score": 12,
+      "Time": "01:17"
+    },
     {
       "Name": "Джентельмен",
       "Steam": "76561198764426123",
-      "Score": 7,
-      "Time": "37:12"
+      "Score": 10,
+      "Time": "39:12"
     },
     {
       "Name": "BribeB",
       "Steam": "76561199405949624",
-      "Score": 8,
-      "Time": "53:20"
+      "Score": 12,
+      "Time": "55:20"
     },
     {
       "Name": "kill all botiks",
       "Steam": "76561199842002650",
-      "Score": 0,
-      "Time": "64:49"
-    },
-    {
-      "Name": "Eliksirios",
-      "Steam": "76561198084072746",
-      "Score": 7,
-      "Time": "??:??"
+      "Score": 6,
+      "Time": "66:49"
     },
     {
       "Name": "acc35",
       "Steam": "76561198725774722",
       "Score": 2,
-      "Time": "00:40"
+      "Time": "01:00"
     },
     {
       "Name": "qq",
       "Steam": "76561198707104373",
-      "Score": 19,
-      "Time": "09:22"
-    },
-    {
-      "Name": "zelka",
-      "Steam": "76561198709259281",
-      "Score": 6,
-      "Time": "??:??"
+      "Score": 21,
+      "Time": "11:22"
     },
     {
       "Name": "never me",
       "Steam": "76561199441402363",
-      "Score": 14,
-      "Time": "38:36"
+      "Score": 16,
+      "Time": "40:36"
     },
     {
-      "Name": "76561198772946379",
-      "Steam": "76561198772946379",
+      "Name": "LoadingSPZ",
+      "Steam": "76561198772975396",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "C",
       "Steam": "76561199867367978",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "^_^",
       "Steam": "76561199414308967",
-      "Score": 22,
-      "Time": "22:54"
+      "Score": 36,
+      "Time": "24:54"
     },
     {
       "Name": "ALE_NEEEE",
@@ -76,19 +70,19 @@
     {
       "Name": "viktor reznov",
       "Steam": "76561198439174555",
-      "Score": 8,
-      "Time": "98:59"
+      "Score": 19,
+      "Time": "100:59"
     },
     {
       "Name": "adamsj",
       "Steam": "76561199543202791",
-      "Score": 13,
-      "Time": "02:55"
+      "Score": 0,
+      "Time": "04:55"
     },
     {
       "Name": "bmw enjoyer",
       "Steam": "76561198018874793",
-      "Score": 4,
+      "Score": 11,
       "Time": "??:??"
     },
     {
@@ -100,7 +94,7 @@
     {
       "Name": "Kalahari On Pancakes",
       "Steam": "76561199120500237",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
