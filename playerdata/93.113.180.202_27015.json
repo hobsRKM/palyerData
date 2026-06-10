@@ -1,64 +1,70 @@
 {
-  "Time": "2026-06-10T20:22:29.3270736Z",
+  "Time": "2026-06-10T20:24:29.323459Z",
   "Players": [
     {
       "Name": "rigbo",
       "Steam": "76561198706881508",
       "Score": 0,
-      "Time": "45:18"
+      "Time": "47:18"
     },
     {
       "Name": "alwayswin",
       "Steam": "76561198300018831",
-      "Score": 19,
-      "Time": "59:25"
+      "Score": 22,
+      "Time": "61:25"
     },
     {
       "Name": "akela",
       "Steam": "76561197995324447",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 70,
+      "Score": 75,
       "Time": "??:??"
     },
     {
       "Name": "demencja",
       "Steam": "76561199055496444",
-      "Score": 15,
-      "Time": "409:00"
+      "Score": 20,
+      "Time": "411:00"
     },
     {
       "Name": "ᵏᵗ Seiðr",
       "Steam": "76561198333235279",
-      "Score": 60,
-      "Time": "22:22"
+      "Score": 71,
+      "Time": "24:22"
     },
     {
       "Name": "Fein_Invalid",
       "Steam": "76561199444305280",
-      "Score": 31,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "A'S",
       "Steam": "76561199060896908",
       "Score": 1,
-      "Time": "106:05"
+      "Time": "108:05"
     },
     {
       "Name": "Ironic",
       "Steam": "76561199682137830",
-      "Score": 38,
-      "Time": "156:38"
+      "Score": 5,
+      "Time": "158:38"
+    },
+    {
+      "Name": "occupance",
+      "Steam": "76561198693328657",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Spermabandit2137",
       "Steam": "76561198728024362",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     }
   ]
