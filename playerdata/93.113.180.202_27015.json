@@ -1,34 +1,46 @@
 {
-  "Time": "2026-06-10T09:52:29.322556Z",
+  "Time": "2026-06-10T09:54:29.3243923Z",
   "Players": [
+    {
+      "Name": "dude",
+      "Steam": "76561199850713322",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Agutin",
       "Steam": "76561198711201838",
-      "Score": 14,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "qq",
       "Steam": "76561198707104373",
-      "Score": 23,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "draxy",
       "Steam": "76561199823330532",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "xdtf :3",
       "Steam": "76561199820026340",
-      "Score": 11,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Tundara",
       "Steam": "76561198801361948",
-      "Score": 2,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ironic",
+      "Steam": "76561199682137830",
+      "Score": 6,
       "Time": "??:??"
     }
   ]
