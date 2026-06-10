@@ -1,11 +1,23 @@
 {
-  "Time": "2026-06-10T23:10:56.6189719Z",
+  "Time": "2026-06-10T23:12:56.626486Z",
   "Players": [
+    {
+      "Name": "r0d0",
+      "Steam": "76561198717079223",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 0,
+      "Time": "00:41"
+    },
     {
       "Name": "Liab",
       "Steam": "76561199677683650",
-      "Score": 75,
-      "Time": "85:38"
+      "Score": 85,
+      "Time": "87:38"
     },
     {
       "Name": "Ely",
@@ -14,52 +26,52 @@
       "Time": "??:??"
     },
     {
-      "Name": "Vicious Beta",
-      "Steam": "76561198700071912",
-      "Score": 58,
-      "Time": "00:41"
+      "Name": "Slap",
+      "Steam": "76561198692480565",
+      "Score": 1,
+      "Time": "01:14"
     },
     {
       "Name": "claw",
       "Steam": "76561199811991561",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "TrashHvH",
       "Steam": "76561198737061691",
-      "Score": 34,
-      "Time": "51:48"
+      "Score": 38,
+      "Time": "53:48"
     },
     {
       "Name": "Luv2FCK",
       "Steam": "76561198693001781",
-      "Score": 42,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "okwhatsnew",
       "Steam": "76561199674442809",
-      "Score": 102,
-      "Time": "16:19"
+      "Score": 109,
+      "Time": "18:19"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 28,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 42,
-      "Time": "23:49"
+      "Score": 52,
+      "Time": "25:49"
     }
   ]
 }
