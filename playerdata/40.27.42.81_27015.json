@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-10T16:34:56.6192117Z",
+  "Time": "2026-06-10T16:36:56.6186599Z",
   "Players": [
     {
       "Name": "SpacemanIgloo",
       "Steam": "76561198776685602",
-      "Score": 0,
-      "Time": "00:28"
+      "Score": 8,
+      "Time": "02:28"
+    },
+    {
+      "Name": "nyanity.club",
+      "Steam": "76561198737061691",
+      "Score": 1,
+      "Time": "01:11"
     },
     {
       "Name": "bobby",
       "Steam": "76561199443649557",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 10,
+      "Time": "01:19"
     }
   ]
 }
