@@ -1,23 +1,35 @@
 {
-  "Time": "2026-06-10T16:38:56.6200784Z",
+  "Time": "2026-06-10T16:40:56.6106997Z",
   "Players": [
     {
       "Name": "SpacemanIgloo",
       "Steam": "76561198776685602",
-      "Score": 12,
-      "Time": "04:28"
+      "Score": 18,
+      "Time": "06:28"
     },
     {
       "Name": "nyanity.club",
       "Steam": "76561198737061691",
-      "Score": 3,
-      "Time": "03:11"
+      "Score": 9,
+      "Time": "05:11"
     },
     {
       "Name": "bobby",
       "Steam": "76561199443649557",
       "Score": 12,
-      "Time": "03:19"
+      "Time": "05:19"
+    },
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lilwalkemdown23",
+      "Steam": "76561198742184205",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
