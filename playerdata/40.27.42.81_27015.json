@@ -1,58 +1,76 @@
 {
-  "Time": "2026-06-10T22:10:56.6125863Z",
+  "Time": "2026-06-10T22:12:56.6218356Z",
   "Players": [
     {
-      "Name": "fatality.w Liab",
+      "Name": "Raymond Reddington",
+      "Steam": "76561198968922012",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jarlie Epirk",
+      "Steam": "76561198738201223",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fa Liab",
       "Steam": "76561199677683650",
-      "Score": 72,
-      "Time": "25:38"
+      "Score": 8,
+      "Time": "27:38"
     },
     {
       "Name": "Ely",
       "Steam": "76561199091350260",
-      "Score": 12,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Woke",
       "Steam": "76561198757941422",
-      "Score": 18,
-      "Time": "09:58"
-    },
-    {
-      "Name": "Боря",
-      "Steam": "76561199565961410",
-      "Score": 0,
-      "Time": "00:03"
+      "Score": 7,
+      "Time": "11:58"
     },
     {
       "Name": "Slap",
       "Steam": "76561198692480565",
-      "Score": 21,
-      "Time": "14:04"
+      "Score": 8,
+      "Time": "16:04"
+    },
+    {
+      "Name": "black trump",
+      "Steam": "76561198764305903",
+      "Score": 0,
+      "Time": "00:51"
     },
     {
       "Name": "Deags",
       "Steam": "76561198335633110",
-      "Score": 49,
-      "Time": "27:49"
+      "Score": 0,
+      "Time": "29:49"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 84,
-      "Time": "30:24"
+      "Score": 11,
+      "Time": "32:24"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 10,
-      "Time": "07:51"
+      "Score": 0,
+      "Time": "09:51"
     },
     {
       "Name": "6k0n",
       "Steam": "76561198255254845",
-      "Score": 50,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fenn",
+      "Steam": "76561199010808448",
+      "Score": 5,
       "Time": "??:??"
     }
   ]
