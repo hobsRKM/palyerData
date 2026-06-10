@@ -1,16 +1,22 @@
 {
-  "Time": "2026-06-10T15:52:29.3322172Z",
+  "Time": "2026-06-10T15:54:29.3202595Z",
   "Players": [
+    {
+      "Name": "Lumen",
+      "Steam": "76561199491603608",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Nope",
       "Steam": "76561198141397226",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "mortify",
       "Steam": "76561199442967085",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
@@ -22,32 +28,38 @@
     {
       "Name": "rieju rr enjoyer",
       "Steam": "76561198756774114",
-      "Score": 9,
+      "Score": 19,
       "Time": "??:??"
+    },
+    {
+      "Name": "atar",
+      "Steam": "76561199057992282",
+      "Score": 2,
+      "Time": "75:56"
     },
     {
       "Name": "King von",
       "Steam": "76561198785169413",
-      "Score": 3,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "mock",
       "Steam": "76561198755398524",
-      "Score": 8,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "kad and shit",
       "Steam": "76561198708886958",
-      "Score": 8,
-      "Time": "148:29"
+      "Score": 4,
+      "Time": "150:29"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 21,
-      "Time": "25:42"
+      "Score": 25,
+      "Time": "27:42"
     },
     {
       "Name": "MyMateIsCheating",
@@ -58,25 +70,25 @@
     {
       "Name": "sktcht",
       "Steam": "76561198692584710",
-      "Score": 24,
-      "Time": "41:30"
+      "Score": 30,
+      "Time": "43:30"
     },
     {
       "Name": "LoadingSPZ",
       "Steam": "76561198772975396",
-      "Score": 31,
-      "Time": "85:28"
+      "Score": 35,
+      "Time": "87:28"
     },
     {
       "Name": "Zoli",
       "Steam": "76561198733842354",
       "Score": 2,
-      "Time": "78:49"
+      "Time": "80:49"
     },
     {
       "Name": "skeet is not gamesense",
       "Steam": "76561199756507474",
-      "Score": 31,
+      "Score": 38,
       "Time": "??:??"
     },
     {
@@ -88,8 +100,8 @@
     {
       "Name": "qwqwqwqwqwqwqwqwqwqwqwqw",
       "Steam": "76561198315409635",
-      "Score": 6,
-      "Time": "21:20"
+      "Score": 0,
+      "Time": "23:20"
     }
   ]
 }
