@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-11T22:26:33.3534594Z",
-  "Players": []
+  "Time": "2026-06-11T22:27:01.4226999Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "315:47"
+    },
+    {
+      "Name": "AfiRat17",
+      "Steam": "76561199682475020",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SM3RF",
+      "Steam": "76561199267532979",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fortnite puff",
+      "Steam": "76561198257671287",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LORD FLAMINGO",
+      "Steam": "76561199558014198",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
