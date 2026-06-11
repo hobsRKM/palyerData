@@ -1,6 +1,12 @@
 {
-  "Time": "2026-06-11T06:56:57.5292822Z",
+  "Time": "2026-06-11T06:58:57.5449591Z",
   "Players": [
+    {
+      "Name": "Homyak",
+      "Steam": "76561198705525398",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
@@ -10,62 +16,68 @@
     {
       "Name": "atos",
       "Steam": "76561198219761864",
-      "Score": 84,
-      "Time": "21:39"
+      "Score": 90,
+      "Time": "23:39"
     },
     {
       "Name": "\uDB40\uDC73 ⁧lovesick",
       "Steam": "76561199258689499",
-      "Score": 96,
+      "Score": 104,
       "Time": "??:??"
     },
     {
       "Name": "Microsoft Word",
       "Steam": "76561198701739309",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "333",
       "Steam": "76561199725613843",
-      "Score": 16,
-      "Time": "19:25"
+      "Score": 24,
+      "Time": "21:25"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 80,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "Chungas",
       "Steam": "76561198335633110",
       "Score": 51,
-      "Time": "78:28"
+      "Time": "80:28"
     },
     {
       "Name": "dont rage against me please",
       "Steam": "76561198728001369",
-      "Score": 31,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "phasz",
       "Steam": "76561199617278612",
-      "Score": 10,
-      "Time": "06:01"
+      "Score": 0,
+      "Time": "08:01"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198692390463",
-      "Score": 65,
-      "Time": "384:54"
+      "Score": 71,
+      "Time": "386:54"
+    },
+    {
+      "Name": "VACNET official",
+      "Steam": "76561198689360831",
+      "Score": 2,
+      "Time": "01:32"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 12,
-      "Time": "67:22"
+      "Score": 16,
+      "Time": "69:22"
     }
   ]
 }
