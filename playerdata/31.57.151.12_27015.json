@@ -1,4 +1,23 @@
 {
-  "Time": "2026-06-11T19:06:33.3535595Z",
-  "Players": []
+  "Time": "2026-06-11T19:07:01.4278188Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "115:47"
+    },
+    {
+      "Name": "\u1CBC\u1CBC\u1CBC\u1CBC\u1CBCJewsmoker",
+      "Steam": "76561198724619804",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "RJKBB",
+      "Steam": "76561198690205283",
+      "Score": 40,
+      "Time": "??:??"
+    }
+  ]
 }
