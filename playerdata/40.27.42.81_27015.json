@@ -1,107 +1,113 @@
 {
-  "Time": "2026-06-11T03:02:56.6911237Z",
+  "Time": "2026-06-11T03:04:56.6856566Z",
   "Players": [
+    {
+      "Name": "theft",
+      "Steam": "76561198787632877",
+      "Score": 0,
+      "Time": "01:03"
+    },
     {
       "Name": "XiaoZe80416",
       "Steam": "76561199721331065",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Hood Sheriff",
       "Steam": "76561199581407714",
-      "Score": 59,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "leidhr",
       "Steam": "76561198728840802",
-      "Score": 65,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "Matty_Ice",
       "Steam": "76561199834410706",
-      "Score": 40,
-      "Time": "18:59"
+      "Score": 48,
+      "Time": "20:59"
     },
     {
       "Name": "Soulja Boy",
       "Steam": "76561199849050111",
-      "Score": 63,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "25max333iqlarp",
       "Steam": "76561199717387062",
-      "Score": 45,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "mirenmirenmirenmirenmirenmiren",
       "Steam": "76561199794937746",
-      "Score": 79,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 107,
-      "Time": "55:35"
+      "Score": 114,
+      "Time": "57:35"
     },
     {
       "Name": "shit resolver",
       "Steam": "76561199546640605",
-      "Score": 55,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "catitude",
       "Steam": "76561199875793823",
-      "Score": 18,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
       "Score": 10,
-      "Time": "332:36"
+      "Time": "334:36"
     },
     {
       "Name": "GaKH",
       "Steam": "76561198366003463",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Gurbasch",
       "Steam": "76561198691215062",
       "Score": 0,
-      "Time": "155:17"
+      "Time": "157:17"
     },
     {
       "Name": "swag",
       "Steam": "76561199051899757",
-      "Score": 43,
-      "Time": "387:33"
+      "Score": 49,
+      "Time": "389:33"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 39,
-      "Time": "301:05"
+      "Score": 44,
+      "Time": "303:05"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198692390463",
-      "Score": 112,
-      "Time": "150:53"
+      "Score": 123,
+      "Time": "152:53"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 67,
-      "Time": "371:42"
+      "Score": 76,
+      "Time": "373:42"
     }
   ]
 }
