@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-11T15:01:20.1532115Z",
+  "Time": "2026-06-11T15:03:20.1513868Z",
   "Players": [
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
       "Score": 14,
-      "Time": "16:47"
+      "Time": "18:47"
     },
     {
       "Name": "STE mlet",
       "Steam": "76561198776685602",
-      "Score": 58,
-      "Time": "33:48"
+      "Score": 64,
+      "Time": "35:48"
     },
     {
       "Name": "TrashHvH",
       "Steam": "76561198737061691",
-      "Score": 37,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "havoc wreaker",
       "Steam": "76561199797570268",
-      "Score": 6,
-      "Time": "12:00"
+      "Score": 8,
+      "Time": "14:00"
+    },
+    {
+      "Name": "Chungas",
+      "Steam": "76561198335633110",
+      "Score": 1,
+      "Time": "??:??"
     }
   ]
 }
