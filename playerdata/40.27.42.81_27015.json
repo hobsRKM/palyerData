@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-11T11:37:20.1422317Z",
+  "Time": "2026-06-11T11:39:20.1494794Z",
   "Players": [
     {
       "Name": "Phillip",
       "Steam": "76561199268768275",
-      "Score": 6,
-      "Time": "05:33"
+      "Score": 8,
+      "Time": "07:34"
     },
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "SpacemanIgloo",
+      "Steam": "76561198776685602",
+      "Score": 0,
+      "Time": "01:34"
     }
   ]
 }
