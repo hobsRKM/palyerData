@@ -1,10 +1,16 @@
 {
-  "Time": "2026-06-11T05:44:57.3892651Z",
+  "Time": "2026-06-11T05:46:57.3805626Z",
   "Players": [
+    {
+      "Name": "⍟",
+      "Steam": "76561199383205382",
+      "Score": 0,
+      "Time": "00:05"
+    },
     {
       "Name": "\"your so shit see you in 2 days\"",
       "Steam": "76561199050170734",
-      "Score": 6,
+      "Score": 18,
       "Time": "??:??"
     },
     {
@@ -16,32 +22,32 @@
     {
       "Name": "Running With Scissors >,_,<",
       "Steam": "76561199877771124",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "333",
       "Steam": "76561199725613843",
-      "Score": 4,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Chungas",
       "Steam": "76561198335633110",
-      "Score": 9,
-      "Time": "06:28"
+      "Score": 10,
+      "Time": "08:28"
+    },
+    {
+      "Name": "phasz",
+      "Steam": "76561199617278612",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198692390463",
-      "Score": 11,
-      "Time": "312:54"
-    },
-    {
-      "Name": "VACED IN 6 ROUNDS",
-      "Steam": "76561198688744622",
-      "Score": 6,
-      "Time": "??:??"
+      "Score": 14,
+      "Time": "314:54"
     }
   ]
 }
