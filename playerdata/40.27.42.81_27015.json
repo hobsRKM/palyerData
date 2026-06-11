@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-11T08:52:57.9820769Z",
+  "Time": "2026-06-11T08:54:57.987446Z",
   "Players": [
     {
       "Name": "hb",
       "Steam": "76561199020431776",
-      "Score": 6,
+      "Score": 21,
       "Time": "??:??"
+    },
+    {
+      "Name": "CEOofCS",
+      "Steam": "76561199827148907",
+      "Score": 0,
+      "Time": "00:49"
     },
     {
       "Name": "sw1tch",
       "Steam": "76561199752451086",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "ezzy",
       "Steam": "76561198690435769",
       "Score": 0,
-      "Time": "53:51"
+      "Time": "55:51"
     },
     {
       "Name": "snibbies",
       "Steam": "76561199229644466",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198692390463",
-      "Score": 2,
-      "Time": "500:54"
+      "Score": 4,
+      "Time": "502:54"
     }
   ]
 }
