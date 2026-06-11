@@ -1,6 +1,12 @@
 {
-  "Time": "2026-06-11T10:35:20.1537856Z",
+  "Time": "2026-06-11T10:37:20.1413623Z",
   "Players": [
+    {
+      "Name": "Phillip",
+      "Steam": "76561199268768275",
+      "Score": 0,
+      "Time": "00:24"
+    },
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
@@ -10,19 +16,25 @@
     {
       "Name": "SpacemanIgloo",
       "Steam": "76561198776685602",
-      "Score": 19,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "Xmrig",
       "Steam": "76561199082563086",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "femmy alaska",
       "Steam": "76561199803595505",
-      "Score": 17,
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VibeGAMES Helper",
+      "Steam": "76561198071462476",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
