@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-11T02:24:56.6171253Z",
+  "Time": "2026-06-11T02:26:56.618399Z",
   "Players": [
+    {
+      "Name": "XiaoZe80416",
+      "Steam": "76561199721331065",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "mirenmirenmirenmirenmirenmiren",
       "Steam": "76561199794937746",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 60,
-      "Time": "17:35"
+      "Score": 68,
+      "Time": "19:35"
     },
     {
       "Name": "haskz",
       "Steam": "76561198801685777",
       "Score": 30,
-      "Time": "08:22"
+      "Time": "10:22"
     },
     {
       "Name": "coma",
       "Steam": "76561199805557263",
-      "Score": 4,
-      "Time": "123:01"
+      "Score": 6,
+      "Time": "125:01"
     },
     {
       "Name": "Gurbasch",
       "Steam": "76561198691215062",
       "Score": 0,
-      "Time": "117:17"
+      "Time": "119:17"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198692390463",
-      "Score": 52,
-      "Time": "112:53"
+      "Score": 60,
+      "Time": "114:53"
     }
   ]
 }
