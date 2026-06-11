@@ -1,28 +1,34 @@
 {
-  "Time": "2026-06-11T21:35:20.1497725Z",
+  "Time": "2026-06-11T21:37:20.1513704Z",
   "Players": [
+    {
+      "Name": "smokeniggasforfun2016",
+      "Steam": "76561198281663381",
+      "Score": 0,
+      "Time": "01:31"
+    },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 29,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 23,
-      "Time": "45:25"
+      "Score": 29,
+      "Time": "47:25"
     },
     {
       "Name": "sweephvh3",
       "Steam": "76561198737061691",
-      "Score": 18,
-      "Time": "28:22"
+      "Score": 22,
+      "Time": "30:22"
     },
     {
       "Name": "swag",
       "Steam": "76561199051899757",
-      "Score": 33,
+      "Score": 38,
       "Time": "??:??"
     },
     {
@@ -35,13 +41,7 @@
       "Name": "Ely",
       "Steam": "76561199091350260",
       "Score": 13,
-      "Time": "06:39"
-    },
-    {
-      "Name": "one+",
-      "Steam": "76561199442363655",
-      "Score": 18,
-      "Time": "46:43"
+      "Time": "08:39"
     }
   ]
 }
