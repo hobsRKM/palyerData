@@ -1,28 +1,28 @@
 {
-  "Time": "2026-06-11T10:53:20.1528068Z",
+  "Time": "2026-06-11T10:55:20.1438793Z",
   "Players": [
+    {
+      "Name": "Phillip",
+      "Steam": "76561199268768275",
+      "Score": 7,
+      "Time": "01:02"
+    },
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
-      "Score": 51,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "SpacemanIgloo",
       "Steam": "76561198776685602",
-      "Score": 41,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "Xmrig",
       "Steam": "76561199082563086",
-      "Score": 54,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Gillberte",
-      "Steam": "76561199055081732",
-      "Score": 0,
+      "Score": 64,
       "Time": "??:??"
     }
   ]
