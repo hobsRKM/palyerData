@@ -1,23 +1,41 @@
 {
-  "Time": "2026-06-11T03:24:56.7317796Z",
+  "Time": "2026-06-11T03:26:56.7397702Z",
   "Players": [
+    {
+      "Name": "notzonticx",
+      "Steam": "76561199729277028",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "leidhr",
+      "Steam": "76561198728840802",
+      "Score": 12,
+      "Time": "01:16"
+    },
+    {
+      "Name": "Matty_Ice",
+      "Steam": "76561199834410706",
+      "Score": 8,
+      "Time": "01:22"
+    },
     {
       "Name": "one+",
       "Steam": "76561199442363655",
-      "Score": 54,
-      "Time": "40:24"
+      "Score": 68,
+      "Time": "42:24"
     },
     {
       "Name": "25max333iqlarp",
       "Steam": "76561199717387062",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Chungas",
       "Steam": "76561198335633110",
-      "Score": 0,
-      "Time": "32:08"
+      "Score": 2,
+      "Time": "34:08"
     },
     {
       "Name": "yAbLe",
@@ -28,44 +46,44 @@
     {
       "Name": "catitude",
       "Steam": "76561199875793823",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "high speed",
       "Steam": "76561198756626989",
-      "Score": 49,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 35,
-      "Time": "354:36"
+      "Score": 43,
+      "Time": "356:36"
     },
     {
       "Name": "Gurbasch",
       "Steam": "76561198691215062",
       "Score": 0,
-      "Time": "177:17"
+      "Time": "179:17"
     },
     {
       "Name": "swag",
       "Steam": "76561199051899757",
-      "Score": 42,
-      "Time": "409:33"
+      "Score": 49,
+      "Time": "411:33"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 36,
-      "Time": "323:05"
+      "Score": 51,
+      "Time": "325:05"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198692390463",
-      "Score": 43,
-      "Time": "172:53"
+      "Score": 66,
+      "Time": "174:53"
     },
     {
       "Name": "stewbert",
@@ -76,8 +94,8 @@
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 30,
-      "Time": "393:42"
+      "Score": 34,
+      "Time": "395:42"
     }
   ]
 }
