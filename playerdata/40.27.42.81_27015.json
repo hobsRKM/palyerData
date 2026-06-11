@@ -1,76 +1,88 @@
 {
-  "Time": "2026-06-11T19:25:20.1554763Z",
+  "Time": "2026-06-11T19:27:20.1491567Z",
   "Players": [
+    {
+      "Name": "r0x",
+      "Steam": "76561197970393276",
+      "Score": 0,
+      "Time": "02:35"
+    },
     {
       "Name": "STE mlet",
       "Steam": "76561198776685602",
       "Score": 25,
-      "Time": "113:06"
+      "Time": "115:06"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 17,
-      "Time": "22:47"
+      "Score": 18,
+      "Time": "24:47"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "risk taker / roadrunner",
       "Steam": "76561199856290691",
-      "Score": 41,
-      "Time": "32:26"
+      "Score": 43,
+      "Time": "34:26"
     },
     {
       "Name": "sweephvh3",
       "Steam": "76561198737061691",
-      "Score": 9,
-      "Time": "31:26"
+      "Score": 13,
+      "Time": "33:26"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 23,
+      "Score": 35,
       "Time": "??:??"
+    },
+    {
+      "Name": "Miroo",
+      "Steam": "76561199873638239",
+      "Score": 0,
+      "Time": "01:26"
     },
     {
       "Name": "Chungas",
       "Steam": "76561198335633110",
-      "Score": 14,
-      "Time": "22:13"
+      "Score": 16,
+      "Time": "24:13"
     },
     {
       "Name": "1R9K7S9PL",
       "Steam": "76561198690150567",
       "Score": 4,
-      "Time": "10:01"
+      "Time": "12:01"
     },
     {
-      "Name": "ankoma",
-      "Steam": "76561199850907774",
-      "Score": 1,
+      "Name": "cuffs",
+      "Steam": "76561199379573845",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 54,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "Goonrape",
       "Steam": "76561199864681420",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "vfx",
       "Steam": "76561199254673723",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
