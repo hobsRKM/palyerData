@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-11T22:43:20.1535325Z",
+  "Time": "2026-06-11T22:45:20.1491149Z",
   "Players": [
+    {
+      "Name": "Shangus",
+      "Steam": "76561198079498565",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "risk taker / roadrunner",
       "Steam": "76561199856290691",
-      "Score": 38,
-      "Time": "43:37"
+      "Score": 39,
+      "Time": "45:37"
     },
     {
       "Name": "profaceitplayeriamnotcheating",
@@ -22,32 +28,32 @@
     {
       "Name": "big daddy orange",
       "Steam": "76561198728203186",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Velas",
       "Steam": "76561199120538639",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "tree",
       "Steam": "76561198372313615",
-      "Score": 20,
-      "Time": "09:38"
+      "Score": 24,
+      "Time": "11:38"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 63,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "coma",
       "Steam": "76561199805557263",
-      "Score": 5,
-      "Time": "10:55"
+      "Score": 13,
+      "Time": "12:55"
     }
   ]
 }
