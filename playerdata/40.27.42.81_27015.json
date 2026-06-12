@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-12T17:45:00.2494185Z",
+  "Time": "2026-06-12T17:47:00.2555862Z",
   "Players": [
     {
       "Name": "Gravity gun test drive #2",
       "Steam": "76561198166519466",
       "Score": 67,
-      "Time": "38:00"
+      "Time": "40:00"
+    },
+    {
+      "Name": "regurt",
+      "Steam": "76561198690518029",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "coma",
       "Steam": "76561199805557263",
-      "Score": 16,
-      "Time": "04:17"
+      "Score": 26,
+      "Time": "06:17"
     },
     {
       "Name": "fata beta",
       "Steam": "76561198776685602",
-      "Score": 29,
-      "Time": "201:10"
+      "Score": 33,
+      "Time": "203:10"
     },
     {
       "Name": "sleek",
       "Steam": "76561198960096355",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 59,
-      "Time": "26:41"
+      "Score": 63,
+      "Time": "28:41"
     },
     {
       "Name": "Bloggo",
@@ -41,13 +47,13 @@
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
       "Score": 9,
-      "Time": "59:53"
+      "Time": "61:53"
     },
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 21,
-      "Time": "58:46"
+      "Score": 25,
+      "Time": "60:46"
     }
   ]
 }
