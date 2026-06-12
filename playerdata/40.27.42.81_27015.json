@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-12T08:45:23.8684688Z",
+  "Time": "2026-06-12T08:47:23.9657574Z",
   "Players": [
+    {
+      "Name": "catitude",
+      "Steam": "76561199881464916",
+      "Score": 2,
+      "Time": "00:27"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 27,
-      "Time": "99:11"
+      "Score": 39,
+      "Time": "101:11"
     },
     {
       "Name": "swag",
       "Steam": "76561199051899757",
-      "Score": 25,
-      "Time": "68:43"
+      "Score": 30,
+      "Time": "70:43"
     },
     {
       "Name": "Just some kid on adderall",
       "Steam": "76561199851242843",
       "Score": 1,
-      "Time": "01:23"
+      "Time": "03:23"
     },
     {
       "Name": "333",
       "Steam": "76561199725613843",
-      "Score": 14,
-      "Time": "93:44"
+      "Score": 20,
+      "Time": "95:44"
     }
   ]
 }
