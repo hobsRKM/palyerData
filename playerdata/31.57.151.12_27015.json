@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-12T12:58:21.5935138Z",
-  "Players": []
+  "Time": "2026-06-12T12:58:29.9395745Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ツ",
+      "Steam": "76561198749149649",
+      "Score": 8,
+      "Time": "03:50"
+    },
+    {
+      "Name": "Chud Life Forever",
+      "Steam": "76561199685733063",
+      "Score": 123,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Monkey",
+      "Steam": "76561198712790870",
+      "Score": 40,
+      "Time": "07:07"
+    },
+    {
+      "Name": "Scrüptoos#Bestrust",
+      "Steam": "76561199864090769",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
