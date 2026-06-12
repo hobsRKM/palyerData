@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-12T22:53:00.4475083Z",
+  "Time": "2026-06-12T22:55:00.4445635Z",
   "Players": [
     {
       "Name": "847291560183974625018436729105",
       "Steam": "76561199828036664",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "arf",
       "Steam": "76561198728274003",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "TempleWa | catitude",
+      "Steam": "76561199881464916",
+      "Score": 0,
+      "Time": "00:37"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 0,
-      "Time": "42:01"
+      "Score": 4,
+      "Time": "44:01"
     },
     {
       "Name": "NLMPEEK | hellen wong",
       "Steam": "76561198960721394",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
       "Score": 4,
-      "Time": "08:56"
+      "Time": "10:56"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 2,
-      "Time": "234:48"
+      "Score": 8,
+      "Time": "236:48"
     }
   ]
 }
