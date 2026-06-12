@@ -1,35 +1,47 @@
 {
-  "Time": "2026-06-12T18:51:00.251797Z",
+  "Time": "2026-06-12T18:53:00.2535178Z",
   "Players": [
+    {
+      "Name": "methylenedioxymethamphetamine",
+      "Steam": "76561199480081357",
+      "Score": 32,
+      "Time": "01:36"
+    },
     {
       "Name": "Gurt",
       "Steam": "76561198692390463",
-      "Score": 70,
-      "Time": "39:30"
+      "Score": 80,
+      "Time": "41:30"
+    },
+    {
+      "Name": "Chungas",
+      "Steam": "76561198335633110",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 96,
-      "Time": "20:25"
+      "Score": 101,
+      "Time": "22:25"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 46,
-      "Time": "16:59"
+      "Score": 54,
+      "Time": "18:59"
     },
     {
       "Name": "angel",
       "Steam": "76561199798812373",
-      "Score": 79,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
-      "Score": 10,
-      "Time": "125:53"
+      "Score": 12,
+      "Time": "127:53"
     },
     {
       "Name": "67",
@@ -41,25 +53,19 @@
       "Name": "I'm cheating",
       "Steam": "76561199871423268",
       "Score": 0,
-      "Time": "513:52"
+      "Time": "515:52"
     },
     {
       "Name": "person",
       "Steam": "76561198691509476",
-      "Score": 107,
+      "Score": 119,
       "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 107,
+      "Score": 116,
       "Time": "??:??"
-    },
-    {
-      "Name": "Liab",
-      "Steam": "76561199677683650",
-      "Score": 21,
-      "Time": "03:16"
     },
     {
       "Name": "JAJUB_PL",
@@ -70,13 +76,13 @@
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 45,
-      "Time": "124:46"
+      "Score": 51,
+      "Time": "126:46"
     },
     {
       "Name": "Soulja Boy",
       "Steam": "76561199849050111",
-      "Score": 98,
+      "Score": 103,
       "Time": "??:??"
     },
     {
@@ -88,26 +94,20 @@
     {
       "Name": ".benz",
       "Steam": "76561199540714501",
-      "Score": 11,
-      "Time": "04:47"
+      "Score": 16,
+      "Time": "06:47"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "black trump",
-      "Steam": "76561198764305903",
-      "Score": 1,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 95,
-      "Time": "24:27"
+      "Score": 111,
+      "Time": "26:27"
     }
   ]
 }
