@@ -1,59 +1,65 @@
 {
-  "Time": "2026-06-12T22:21:00.4578825Z",
+  "Time": "2026-06-12T22:23:00.4486923Z",
   "Players": [
     {
       "Name": "847291560183974625018436729105",
       "Steam": "76561199828036664",
-      "Score": 94,
+      "Score": 102,
       "Time": "??:??"
+    },
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 0,
+      "Time": "00:51"
     },
     {
       "Name": "producing",
       "Steam": "76561199083355602",
-      "Score": 138,
+      "Score": 150,
       "Time": "??:??"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
       "Score": 40,
-      "Time": "10:01"
-    },
-    {
-      "Name": "wasterbeconburgermcdonalsbrking",
-      "Steam": "76561199158419168",
-      "Score": 132,
-      "Time": "179:44"
+      "Time": "12:01"
     },
     {
       "Name": "one+",
       "Steam": "76561199442363655",
-      "Score": 34,
-      "Time": "11:47"
+      "Score": 40,
+      "Time": "13:47"
     },
     {
       "Name": "Sippin Fanta' | normal",
       "Steam": "76561198728482863",
-      "Score": 95,
+      "Score": 100,
       "Time": "??:??"
     },
     {
       "Name": "porn",
       "Steam": "76561198703392706",
-      "Score": 197,
-      "Time": "44:50"
+      "Score": 204,
+      "Time": "46:50"
     },
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
-      "Score": 28,
-      "Time": "335:54"
+      "Score": 29,
+      "Time": "337:54"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 22,
-      "Time": "202:48"
+      "Score": 26,
+      "Time": "204:48"
+    },
+    {
+      "Name": "美国人",
+      "Steam": "76561198802572057",
+      "Score": 0,
+      "Time": "02:01"
     }
   ]
 }
