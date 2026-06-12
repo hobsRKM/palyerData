@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-12T11:25:00.2429925Z",
+  "Time": "2026-06-12T11:27:00.239185Z",
   "Players": [
     {
       "Name": "fata beta",
       "Steam": "76561198776685602",
       "Score": 10,
-      "Time": "119:40"
+      "Time": "121:40"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 8,
-      "Time": "38:23"
+      "Score": 22,
+      "Time": "40:23"
+    },
+    {
+      "Name": "yanrewatching",
+      "Steam": "76561198701366920",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
