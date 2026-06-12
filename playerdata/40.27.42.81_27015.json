@@ -1,47 +1,59 @@
 {
-  "Time": "2026-06-12T01:33:20.1560556Z",
+  "Time": "2026-06-12T01:35:20.1447526Z",
   "Players": [
     {
       "Name": "Vicious Beta",
       "Steam": "76561198700071912",
-      "Score": 87,
-      "Time": "48:58"
+      "Score": 0,
+      "Time": "50:58"
     },
     {
       "Name": "fenn",
       "Steam": "76561199010808448",
-      "Score": 4,
-      "Time": "02:36"
+      "Score": 0,
+      "Time": "04:36"
     },
     {
       "Name": "Pancake",
       "Steam": "76561199491079980",
-      "Score": 28,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "KiKi (Pedo)",
       "Steam": "76561198701497975",
-      "Score": 31,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "r0x",
+      "Steam": "76561197970393276",
+      "Score": 0,
+      "Time": "171:29"
     },
     {
       "Name": "fata beta",
       "Steam": "76561198776685602",
-      "Score": 19,
-      "Time": "98:01"
+      "Score": 0,
+      "Time": "100:01"
     },
     {
       "Name": "MaDoG",
       "Steam": "76561198690233197",
-      "Score": 43,
-      "Time": "54:01"
+      "Score": 0,
+      "Time": "56:01"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 53,
-      "Time": "302:34"
+      "Score": 0,
+      "Time": "304:34"
+    },
+    {
+      "Name": "HitboxInvalid",
+      "Steam": "76561199876077209",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
