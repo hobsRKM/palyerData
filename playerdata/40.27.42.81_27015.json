@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-12T19:21:00.2541899Z",
+  "Time": "2026-06-12T19:23:00.2583423Z",
   "Players": [
+    {
+      "Name": "qtayvious",
+      "Steam": "76561198689426666",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 49,
-      "Time": "10:22"
-    },
-    {
-      "Name": "Chungas",
-      "Steam": "76561198335633110",
-      "Score": 63,
-      "Time": "??:??"
+      "Score": 58,
+      "Time": "12:22"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 92,
-      "Time": "50:25"
+      "Score": 95,
+      "Time": "52:25"
+    },
+    {
+      "Name": "MK.SKINS",
+      "Steam": "76561198721547756",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "angel",
@@ -28,43 +34,37 @@
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
-      "Score": 25,
-      "Time": "155:53"
+      "Score": 27,
+      "Time": "157:53"
     },
     {
       "Name": "67",
       "Steam": "76561199569938885",
-      "Score": 89,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "I'm cheating",
       "Steam": "76561199871423268",
       "Score": 0,
-      "Time": "543:52"
+      "Time": "545:52"
     },
     {
       "Name": "Liab",
       "Steam": "76561199677683650",
-      "Score": 50,
-      "Time": "19:32"
+      "Score": 56,
+      "Time": "21:32"
     },
     {
       "Name": "risk taker / roadrunner",
       "Steam": "76561199856290691",
-      "Score": 47,
-      "Time": "17:45"
+      "Score": 51,
+      "Time": "19:45"
     },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
       "Steam": "76561198694822697",
-      "Score": 33,
-      "Time": "??:??"
-    },
-    {
-      "Name": "poophead",
-      "Steam": "76561199580676396",
-      "Score": 34,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -76,20 +76,20 @@
     {
       "Name": "HitboxInvalid | forget me too",
       "Steam": "76561199876077209",
-      "Score": 16,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "black trump",
       "Steam": "76561198764305903",
-      "Score": 44,
-      "Time": "07:46"
+      "Score": 46,
+      "Time": "09:46"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 118,
-      "Time": "54:27"
+      "Score": 119,
+      "Time": "56:27"
     }
   ]
 }
