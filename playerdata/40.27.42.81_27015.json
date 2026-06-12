@@ -1,28 +1,46 @@
 {
-  "Time": "2026-06-12T14:23:00.2387886Z",
+  "Time": "2026-06-12T14:25:00.244204Z",
   "Players": [
+    {
+      "Name": "fata beta",
+      "Steam": "76561198776685602",
+      "Score": 2,
+      "Time": "01:10"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 83,
-      "Time": "122:26"
+      "Score": 85,
+      "Time": "124:26"
     },
     {
       "Name": "FLazukyy",
       "Steam": "76561199462844325",
-      "Score": 19,
-      "Time": "06:16"
+      "Score": 21,
+      "Time": "08:16"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 38,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "HVH KINGPEN NN BLASTER",
       "Steam": "76561198786948282",
-      "Score": 33,
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "DejaVu",
+      "Steam": "76561199680083874",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Скайлайнер",
+      "Steam": "76561199803595505",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
