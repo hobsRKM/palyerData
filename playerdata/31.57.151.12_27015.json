@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-12T07:00:29.9370935Z",
-  "Players": []
+  "Time": "2026-06-12T07:02:12.5941158Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "john coleslaw#astralheadhunter",
+      "Steam": "76561198806792145",
+      "Score": 60,
+      "Time": "03:19"
+    },
+    {
+      "Name": "Topeczkaa",
+      "Steam": "76561199814946715",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Big Yahu",
+      "Steam": "76561198781459530",
+      "Score": 1,
+      "Time": "??:??"
+    }
+  ]
 }
