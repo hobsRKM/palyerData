@@ -1,4 +1,23 @@
 {
-  "Time": "2026-06-12T07:02:29.9372992Z",
-  "Players": []
+  "Time": "2026-06-12T07:04:12.5884107Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "john coleslaw#astralheadhunter",
+      "Steam": "76561198806792145",
+      "Score": 64,
+      "Time": "05:19"
+    },
+    {
+      "Name": "Topeczkaa",
+      "Steam": "76561199814946715",
+      "Score": 26,
+      "Time": "??:??"
+    }
+  ]
 }
