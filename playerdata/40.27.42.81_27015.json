@@ -1,35 +1,47 @@
 {
-  "Time": "2026-06-12T06:29:21.6986372Z",
+  "Time": "2026-06-12T06:31:21.6907107Z",
   "Players": [
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
+      "Score": 1,
+      "Time": "19:04"
+    },
+    {
+      "Name": "DRUNK2kELO",
+      "Steam": "76561197968857102",
       "Score": 0,
-      "Time": "17:04"
+      "Time": "00:19"
     },
     {
       "Name": "okwhatsnew",
       "Steam": "76561199674442809",
-      "Score": 6,
-      "Time": "118:28"
+      "Score": 18,
+      "Time": "120:28"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 8,
-      "Time": "300:53"
+      "Score": 14,
+      "Time": "302:53"
     },
     {
       "Name": "711",
       "Steam": "76561199252675494",
-      "Score": 0,
-      "Time": "14:09"
+      "Score": 2,
+      "Time": "16:09"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198692390463",
-      "Score": 4,
-      "Time": "01:10"
+      "Score": 13,
+      "Time": "03:10"
+    },
+    {
+      "Name": "Sit✰",
+      "Steam": "76561199017457986",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
