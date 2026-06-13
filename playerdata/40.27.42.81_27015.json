@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-13T00:41:00.61011Z",
+  "Time": "2026-06-13T00:43:00.612546Z",
   "Players": [
     {
       "Name": "847291560183974625018436729105",
       "Steam": "76561199828036664",
-      "Score": 46,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 87,
-      "Time": "17:57"
+      "Score": 100,
+      "Time": "19:57"
     },
     {
-      "Name": "eWareTempl | catitude",
+      "Name": "empleWareT | catitude",
       "Steam": "76561199881464916",
       "Score": 4,
-      "Time": "35:34"
+      "Time": "37:34"
     },
     {
       "Name": "one+",
       "Steam": "76561199442363655",
-      "Score": 64,
-      "Time": "14:33"
+      "Score": 72,
+      "Time": "16:33"
+    },
+    {
+      "Name": "profit",
+      "Steam": "76561199677060188",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Sippin Fanta' | normal",
       "Steam": "76561198728482863",
-      "Score": 31,
-      "Time": "60:05"
+      "Score": 34,
+      "Time": "62:05"
     },
     {
       "Name": "CEOofCS",
@@ -40,32 +46,38 @@
     {
       "Name": "Vicious Beta",
       "Steam": "76561198700071912",
-      "Score": 8,
-      "Time": "04:13"
+      "Score": 13,
+      "Time": "06:13"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 4,
-      "Time": "171:31"
+      "Score": 6,
+      "Time": "173:31"
     },
     {
       "Name": "watermelon felon",
       "Steam": "76561198729634528",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
-      "Score": 37,
-      "Time": "48:01"
+      "Score": 39,
+      "Time": "50:01"
     },
     {
       "Name": "arrowheads",
       "Steam": "76561199721284892",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Merlin",
+      "Steam": "76561199888487981",
+      "Score": 4,
+      "Time": "00:35"
     }
   ]
 }
