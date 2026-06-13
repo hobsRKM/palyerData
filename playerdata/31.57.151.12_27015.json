@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-13T19:10:50.3840859Z",
-  "Players": []
+  "Time": "2026-06-13T19:12:22.4634043Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "546:35"
+    },
+    {
+      "Name": "YagmurWare YagmurMelek YagmurWare.cc",
+      "Steam": "76561198715730040",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MEADOW",
+      "Steam": "76561198692208424",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "resort",
+      "Steam": "76561198843327189",
+      "Score": 20,
+      "Time": "03:07"
+    },
+    {
+      "Name": "SM3RF",
+      "Steam": "76561199267532979",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "turkey mention",
+      "Steam": "76561198753915770",
+      "Score": 19,
+      "Time": "07:19"
+    }
+  ]
 }
