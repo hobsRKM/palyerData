@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-13T17:49:04.2399349Z",
+  "Time": "2026-06-13T17:51:04.2366847Z",
   "Players": [
+    {
+      "Name": "CalebIsElite",
+      "Steam": "76561199587098568",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "DejaVu",
       "Steam": "76561199680083874",
-      "Score": 59,
-      "Time": "59:40"
+      "Score": 62,
+      "Time": "61:40"
     },
     {
       "Name": "333",
       "Steam": "76561199725613843",
-      "Score": 68,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 21,
-      "Time": "11:35"
+      "Score": 23,
+      "Time": "13:35"
     },
     {
       "Name": "ørin",
@@ -26,46 +32,52 @@
       "Time": "??:??"
     },
     {
+      "Name": "soli",
+      "Steam": "76561198687049341",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "tigothy",
       "Steam": "76561199175351405",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "ezzy xiter",
       "Steam": "76561198693563016",
       "Score": 0,
-      "Time": "01:33"
+      "Time": "03:33"
     },
     {
       "Name": "taa",
       "Steam": "76561198262213787",
-      "Score": 18,
-      "Time": "07:09"
+      "Score": 25,
+      "Time": "09:09"
     },
     {
       "Name": "LuckyCharms GOD Build",
       "Steam": "76561199055238878",
-      "Score": 96,
+      "Score": 109,
       "Time": "??:??"
     },
     {
       "Name": "Hey There Delilah",
       "Steam": "76561199884720018",
-      "Score": 65,
-      "Time": "18:34"
+      "Score": 79,
+      "Time": "20:34"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 66,
-      "Time": "63:50"
+      "Score": 70,
+      "Time": "65:50"
     },
     {
       "Name": "spxzely",
       "Steam": "76561198690987216",
-      "Score": 58,
-      "Time": "39:34"
+      "Score": 62,
+      "Time": "41:34"
     }
   ]
 }
