@@ -1,34 +1,40 @@
 {
-  "Time": "2026-06-13T16:01:04.22936Z",
+  "Time": "2026-06-13T16:03:04.2406685Z",
   "Players": [
     {
       "Name": "edrgov",
       "Steam": "76561198734697840",
-      "Score": 11,
-      "Time": "94:12"
+      "Score": 13,
+      "Time": "96:12"
+    },
+    {
+      "Name": "Raymond Reddington",
+      "Steam": "76561198968922012",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gravity gun test drive #2",
+      "Steam": "76561198166519466",
+      "Score": 9,
+      "Time": "26:32"
     },
     {
       "Name": "Ra0ra",
       "Steam": "76561198703188619",
-      "Score": 4,
-      "Time": "02:27"
+      "Score": 10,
+      "Time": "04:27"
     },
     {
       "Name": "Israel",
       "Steam": "76561198343112799",
       "Score": 57,
-      "Time": "50:50"
-    },
-    {
-      "Name": "George droid",
-      "Steam": "76561198690519022",
-      "Score": 4,
-      "Time": "??:??"
+      "Time": "52:50"
     },
     {
       "Name": "/avenge",
       "Steam": "76561198129219406",
-      "Score": 20,
+      "Score": 30,
       "Time": "??:??"
     },
     {
@@ -52,7 +58,7 @@
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
