@@ -1,4 +1,23 @@
 {
-  "Time": "2026-06-13T19:48:50.3839028Z",
-  "Players": []
+  "Time": "2026-06-13T19:50:22.4758969Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "584:35"
+    },
+    {
+      "Name": "YagmurWare YagmurMelek YagmurWare.cc",
+      "Steam": "76561198715730040",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "resort",
+      "Steam": "76561198843327189",
+      "Score": 23,
+      "Time": "06:28"
+    }
+  ]
 }
