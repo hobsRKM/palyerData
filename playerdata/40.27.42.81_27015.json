@@ -1,53 +1,65 @@
 {
-  "Time": "2026-06-13T05:41:05.0893309Z",
+  "Time": "2026-06-13T05:43:05.1304827Z",
   "Players": [
+    {
+      "Name": "all praise VACNET",
+      "Steam": "76561198690456729",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 87,
-      "Time": "443:37"
+      "Score": 90,
+      "Time": "445:37"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 76,
-      "Time": "78:35"
+      "Score": 78,
+      "Time": "80:35"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 9,
-      "Time": "152:00"
+      "Score": 24,
+      "Time": "154:00"
     },
     {
       "Name": "⍟",
       "Steam": "76561199383205382",
-      "Score": 24,
-      "Time": "12:24"
+      "Score": 25,
+      "Time": "14:24"
     },
     {
       "Name": "H4TR3D",
       "Steam": "76561198256573849",
-      "Score": 49,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "cashaargutierrezmore",
       "Steam": "76561198691817601",
-      "Score": 45,
-      "Time": "34:14"
+      "Score": 50,
+      "Time": "36:14"
     },
     {
       "Name": "★ РЫЦАРЬ ★",
       "Steam": "76561199550717798",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "b",
+      "Steam": "76561199830024313",
+      "Score": 2,
+      "Time": "01:02"
     },
     {
       "Name": "SantaHvH",
       "Steam": "76561199884720018",
-      "Score": 12,
-      "Time": "08:13"
+      "Score": 3,
+      "Time": "10:13"
     }
   ]
 }
