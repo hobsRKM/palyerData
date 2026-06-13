@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-13T07:19:06.9814385Z",
+  "Time": "2026-06-13T07:21:06.9932707Z",
   "Players": [
     {
       "Name": "Claude Opus 4.8",
       "Steam": "76561199859777341",
-      "Score": 33,
-      "Time": "70:09"
+      "Score": 39,
+      "Time": "72:09"
     },
     {
       "Name": "sleek",
       "Steam": "76561198960096355",
       "Score": 8,
-      "Time": "694:26"
+      "Time": "696:26"
     },
     {
       "Name": "Claude Fable 5",
       "Steam": "76561198728274003",
-      "Score": 18,
-      "Time": "58:34"
+      "Score": 24,
+      "Time": "60:34"
+    },
+    {
+      "Name": "2",
+      "Steam": "76561199842418049",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "MaDoG",
       "Steam": "76561198690233197",
-      "Score": 16,
-      "Time": "54:40"
+      "Score": 20,
+      "Time": "56:40"
     },
     {
       "Name": "VAN PLAYER' lily",
       "Steam": "76561199409000122",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198689913909",
-      "Score": 20,
-      "Time": "755:27"
+      "Score": 26,
+      "Time": "757:27"
     },
     {
       "Name": "m",
       "Steam": "76561198689384054",
       "Score": 9,
-      "Time": "27:03"
+      "Time": "29:03"
     }
   ]
 }
