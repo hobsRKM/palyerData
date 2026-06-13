@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-13T20:02:50.3842582Z",
-  "Players": []
+  "Time": "2026-06-13T20:04:22.4771096Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "598:35"
+    },
+    {
+      "Name": "YagmurWare YagmurMelek YagmurWare.cc",
+      "Steam": "76561198715730040",
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Mon] Trop",
+      "Steam": "76561198210114543",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Drippy",
+      "Steam": "76561199369453721",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "__",
+      "Steam": "76561199042168803",
+      "Score": 9,
+      "Time": "??:??"
+    }
+  ]
 }
