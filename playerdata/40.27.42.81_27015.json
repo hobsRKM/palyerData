@@ -1,47 +1,53 @@
 {
-  "Time": "2026-06-13T06:51:06.3329282Z",
+  "Time": "2026-06-13T06:53:06.3557046Z",
   "Players": [
     {
       "Name": "swag",
       "Steam": "76561199051899757",
-      "Score": 32,
-      "Time": "266:30"
+      "Score": 33,
+      "Time": "268:30"
     },
     {
       "Name": "racks",
       "Steam": "76561199881648943",
-      "Score": 9,
-      "Time": "06:06"
+      "Score": 13,
+      "Time": "08:06"
     },
     {
       "Name": "Claude Opus 4.8",
       "Steam": "76561199859777341",
-      "Score": 5,
-      "Time": "42:08"
+      "Score": 9,
+      "Time": "44:08"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 3,
-      "Time": "01:28"
+      "Score": 7,
+      "Time": "03:28"
     },
     {
       "Name": "Claude Fable 5",
       "Steam": "76561198728274003",
-      "Score": 17,
-      "Time": "30:33"
+      "Score": 26,
+      "Time": "32:33"
     },
     {
       "Name": "MaDoG",
       "Steam": "76561198690233197",
-      "Score": 6,
-      "Time": "26:39"
+      "Score": 15,
+      "Time": "28:39"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198689913909",
-      "Score": 26,
-      "Time": "727:26"
+      "Score": 36,
+      "Time": "729:26"
+    },
+    {
+      "Name": "m",
+      "Steam": "76561198689384054",
+      "Score": 0,
+      "Time": "01:02"
     }
   ]
 }
