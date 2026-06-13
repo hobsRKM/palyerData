@@ -1,10 +1,16 @@
 {
-  "Time": "2026-06-13T19:47:04.2241963Z",
+  "Time": "2026-06-13T19:49:04.2285832Z",
   "Players": [
+    {
+      "Name": "yanrewatching",
+      "Steam": "76561198701366920",
+      "Score": 0,
+      "Time": "91:01"
+    },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
       "Steam": "76561198694822697",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
@@ -12,6 +18,12 @@
       "Steam": "76561199729277028",
       "Score": 70,
       "Time": "??:??"
+    },
+    {
+      "Name": "otx",
+      "Steam": "76561199880717233",
+      "Score": 26,
+      "Time": "02:02"
     },
     {
       "Name": "nipoto",
@@ -23,24 +35,24 @@
       "Name": "ben",
       "Steam": "76561199548061679",
       "Score": 26,
-      "Time": "23:59"
+      "Time": "25:59"
     },
     {
       "Name": "The smurfer",
       "Steam": "76561199830443314",
-      "Score": 60,
-      "Time": "55:39"
+      "Score": 61,
+      "Time": "57:39"
     },
     {
       "Name": "spxzely",
       "Steam": "76561198690987216",
-      "Score": 10,
-      "Time": "10:56"
+      "Score": 11,
+      "Time": "12:56"
     },
     {
       "Name": "one+",
       "Steam": "76561199442363655",
-      "Score": 90,
+      "Score": 92,
       "Time": "??:??"
     }
   ]
