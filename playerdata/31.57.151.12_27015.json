@@ -1,28 +1,34 @@
 {
-  "Time": "2026-06-13T14:00:07.2073694Z",
+  "Time": "2026-06-13T14:00:22.4740002Z",
   "Players": [
     {
-      "Name": "Bite",
-      "Steam": "76561199035685761",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "234:35"
+    },
+    {
+      "Name": "vodix",
+      "Steam": "76561199616783507",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jarda",
+      "Steam": "76561199864263776",
+      "Score": 2,
+      "Time": "02:12"
+    },
+    {
+      "Name": "ESXLegacy_",
+      "Steam": "76561199616429675",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "KpaccHbIY XaMaM",
-      "Steam": "76561198781325627",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "atar",
-      "Steam": "76561199057992282",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "arisen",
-      "Steam": "76561199460374443",
-      "Score": 0,
+      "Name": "BalensY",
+      "Steam": "76561199643049900",
+      "Score": 13,
       "Time": "??:??"
     }
   ]
