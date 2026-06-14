@@ -1,22 +1,34 @@
 {
-  "Time": "2026-06-14T19:17:00.3753095Z",
+  "Time": "2026-06-14T19:19:00.3785935Z",
   "Players": [
+    {
+      "Name": "Nguyap",
+      "Steam": "76561198388069343",
+      "Score": 2,
+      "Time": "01:34"
+    },
     {
       "Name": "(◣_◢)",
       "Steam": "76561199014766648",
       "Score": 3,
-      "Time": "44:35"
+      "Time": "46:35"
+    },
+    {
+      "Name": "folk",
+      "Steam": "76561198686937505",
+      "Score": 2,
+      "Time": "01:07"
     },
     {
       "Name": "JAKE",
       "Steam": "76561198343112799",
-      "Score": 13,
-      "Time": "46:33"
+      "Score": 22,
+      "Time": "48:33"
     },
     {
       "Name": "XiaoZe80416",
       "Steam": "76561199721331065",
-      "Score": 11,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -28,38 +40,50 @@
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
       "Score": 2,
-      "Time": "73:20"
+      "Time": "75:20"
     },
     {
       "Name": "black trump",
       "Steam": "76561198764305903",
-      "Score": 2,
-      "Time": "54:58"
+      "Score": 7,
+      "Time": "56:58"
     },
     {
-      "Name": "Steelo",
-      "Steam": "76561198707913629",
+      "Name": "адмирал ясенхуй",
+      "Steam": "76561198784028078",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jellynewfn",
+      "Steam": "76561198686860482",
+      "Score": 0,
+      "Time": "01:11"
+    },
+    {
+      "Name": "Woah",
+      "Steam": "76561199680083874",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Mike Johnson",
       "Steam": "76561198801685777",
-      "Score": 4,
-      "Time": "05:39"
+      "Score": 22,
+      "Time": "07:39"
     },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
       "Steam": "76561198694822697",
-      "Score": 3,
-      "Time": "111:08"
+      "Score": 5,
+      "Time": "113:08"
     }
   ]
 }
