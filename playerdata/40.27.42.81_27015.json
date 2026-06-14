@@ -1,29 +1,29 @@
 {
-  "Time": "2026-06-14T22:45:00.4114337Z",
+  "Time": "2026-06-14T22:47:00.4142004Z",
   "Players": [
     {
       "Name": "Hood Hokage",
       "Steam": "76561199661292068",
-      "Score": 31,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "cuffs",
       "Steam": "76561199379573845",
-      "Score": 80,
+      "Score": 84,
       "Time": "??:??"
     },
     {
-      "Name": "Eversio $Y$KEY",
+      "Name": "Eversio.Dev $Y$KEY",
       "Steam": "76561199544645033",
-      "Score": 46,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "folk",
       "Steam": "76561198686937505",
       "Score": 15,
-      "Time": "48:03"
+      "Time": "50:03"
     },
     {
       "Name": "CEOofCS",
@@ -46,20 +46,32 @@
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 27,
-      "Time": "05:06"
+      "Score": 28,
+      "Time": "07:06"
     },
     {
       "Name": "Vicious Beta",
       "Steam": "76561198700071912",
-      "Score": 98,
-      "Time": "23:13"
+      "Score": 110,
+      "Time": "25:13"
+    },
+    {
+      "Name": "Steelo",
+      "Steam": "76561198707913629",
+      "Score": 0,
+      "Time": "01:00"
     },
     {
       "Name": "snibbies",
       "Steam": "76561199229644466",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "ghoul",
+      "Steam": "76561198689132532",
+      "Score": 6,
+      "Time": "01:17"
     }
   ]
 }
