@@ -1,77 +1,77 @@
 {
-  "Time": "2026-06-14T22:47:00.4142004Z",
+  "Time": "2026-06-14T22:49:00.4065285Z",
   "Players": [
+    {
+      "Name": "risk taker / roadrunner",
+      "Steam": "76561199856290691",
+      "Score": 0,
+      "Time": "01:35"
+    },
     {
       "Name": "Hood Hokage",
       "Steam": "76561199661292068",
-      "Score": 32,
+      "Score": 35,
       "Time": "??:??"
+    },
+    {
+      "Name": "Ra0ra",
+      "Steam": "76561198703188619",
+      "Score": 0,
+      "Time": "140:12"
     },
     {
       "Name": "cuffs",
       "Steam": "76561199379573845",
-      "Score": 84,
+      "Score": 92,
       "Time": "??:??"
     },
     {
-      "Name": "Eversio.Dev $Y$KEY",
+      "Name": "Ever $Y$KEY",
       "Steam": "76561199544645033",
-      "Score": 52,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "folk",
       "Steam": "76561198686937505",
       "Score": 15,
-      "Time": "50:03"
+      "Time": "52:03"
     },
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
-      "Score": 11,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 84,
-      "Time": "??:??"
-    },
-    {
-      "Name": "piotrekrdm65",
-      "Steam": "76561198737364756",
-      "Score": 1,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 28,
-      "Time": "07:06"
+      "Score": 35,
+      "Time": "09:06"
     },
     {
       "Name": "Vicious Beta",
       "Steam": "76561198700071912",
-      "Score": 110,
-      "Time": "25:13"
+      "Score": 122,
+      "Time": "27:13"
     },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 0,
-      "Time": "01:00"
+      "Score": 7,
+      "Time": "03:00"
     },
     {
       "Name": "snibbies",
       "Steam": "76561199229644466",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
-    },
-    {
-      "Name": "ghoul",
-      "Steam": "76561198689132532",
-      "Score": 6,
-      "Time": "01:17"
     }
   ]
 }
