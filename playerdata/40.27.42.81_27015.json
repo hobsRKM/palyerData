@@ -1,11 +1,17 @@
 {
-  "Time": "2026-06-14T02:53:04.78587Z",
+  "Time": "2026-06-14T02:55:04.7924256Z",
   "Players": [
     {
       "Name": "folk",
       "Steam": "76561198686937505",
       "Score": 2,
-      "Time": "03:56"
+      "Time": "05:56"
+    },
+    {
+      "Name": "poophead",
+      "Steam": "76561199580676396",
+      "Score": 0,
+      "Time": "00:43"
     },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
@@ -16,7 +22,7 @@
     {
       "Name": "OEmt | Peanut",
       "Steam": "76561199154138785",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -28,26 +34,20 @@
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 12,
-      "Time": "08:13"
+      "Score": 21,
+      "Time": "10:14"
     },
     {
       "Name": "The smurfer",
       "Steam": "76561199830443314",
-      "Score": 20,
-      "Time": "274:25"
+      "Score": 32,
+      "Time": "276:25"
     },
     {
       "Name": "JAKE",
       "Steam": "76561198343112799",
-      "Score": 24,
-      "Time": "13:58"
-    },
-    {
-      "Name": "skoobert",
-      "Steam": "76561199359618052",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 27,
+      "Time": "15:58"
     },
     {
       "Name": "Sabrina Carpenter's #1 fan <3",
@@ -58,13 +58,13 @@
     {
       "Name": "Кракен",
       "Steam": "76561199156395215",
-      "Score": 12,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 7,
+      "Score": 15,
       "Time": "??:??"
     }
   ]
