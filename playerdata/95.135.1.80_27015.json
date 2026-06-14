@@ -1,6 +1,12 @@
 {
-  "Time": "2026-06-14T10:17:04.8639647Z",
+  "Time": "2026-06-14T10:19:04.8658223Z",
   "Players": [
+    {
+      "Name": "あなたの所有者",
+      "Steam": "76561198692952854",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "how the fuck do i config this",
       "Steam": "76561198767699942",
@@ -8,16 +14,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "sell inv .gg/fberurVUw6",
-      "Steam": "76561198694131141",
-      "Score": 16,
-      "Time": "789:19"
-    },
-    {
       "Name": "topeczkaaaa owner",
       "Steam": "76561199542710060",
-      "Score": 12,
-      "Time": "793:53"
+      "Score": 16,
+      "Time": "795:53"
     }
   ]
 }
