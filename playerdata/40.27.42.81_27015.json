@@ -1,6 +1,12 @@
 {
-  "Time": "2026-06-14T08:09:13.9535377Z",
+  "Time": "2026-06-14T08:11:14.0361928Z",
   "Players": [
+    {
+      "Name": "Claude Opus 4.8",
+      "Steam": "76561199859777341",
+      "Score": 10,
+      "Time": "01:41"
+    },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
       "Steam": "76561198694822697",
@@ -11,24 +17,24 @@
       "Name": "Mr.HvH LORD ALEX 7264 ON SKET NN",
       "Steam": "76561199155611839",
       "Score": 75,
-      "Time": "20:41"
+      "Time": "22:41"
     },
     {
       "Name": "burnbridges",
       "Steam": "76561198350431391",
-      "Score": 63,
-      "Time": "39:37"
+      "Score": 68,
+      "Time": "41:37"
     },
     {
       "Name": "Ely",
       "Steam": "76561199091350260",
-      "Score": 42,
-      "Time": "216:01"
+      "Score": 51,
+      "Time": "218:01"
     },
     {
       "Name": "Gita Pathak",
       "Steam": "76561199043470869",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
