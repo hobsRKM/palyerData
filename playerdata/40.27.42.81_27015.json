@@ -1,5 +1,5 @@
 {
-  "Time": "2026-06-14T03:11:04.9010297Z",
+  "Time": "2026-06-14T03:13:04.9029075Z",
   "Players": [
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
@@ -10,7 +10,13 @@
     {
       "Name": "B",
       "Steam": "76561199188286882",
-      "Score": 2,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Linkmail",
+      "Steam": "76561198416354674",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -22,19 +28,19 @@
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 2,
-      "Time": "02:59"
+      "Score": 4,
+      "Time": "04:59"
     },
     {
       "Name": "JAKE",
       "Steam": "76561198343112799",
-      "Score": 7,
-      "Time": "31:58"
+      "Score": 13,
+      "Time": "33:58"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
