@@ -1,16 +1,28 @@
 {
-  "Time": "2026-06-14T17:49:00.3768196Z",
+  "Time": "2026-06-14T17:51:00.3778435Z",
   "Players": [
+    {
+      "Name": "risk taker / roadrunner",
+      "Steam": "76561199856290691",
+      "Score": 0,
+      "Time": "00:28"
+    },
+    {
+      "Name": "123",
+      "Steam": "76561198688042238",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     },
     {
@@ -22,32 +34,20 @@
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 10,
-      "Time": "04:01"
+      "Score": 16,
+      "Time": "06:01"
     },
     {
       "Name": "LuckyCharms GOD Build",
       "Steam": "76561199055238878",
-      "Score": 26,
-      "Time": "02:54"
-    },
-    {
-      "Name": "extracheesebaconburgerdeluxexx",
-      "Steam": "76561199158419168",
-      "Score": 86,
-      "Time": "??:??"
-    },
-    {
-      "Name": "methylenedioxymethamphetamine",
-      "Steam": "76561199480081357",
-      "Score": 19,
-      "Time": "09:14"
+      "Score": 34,
+      "Time": "04:54"
     },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
       "Steam": "76561198694822697",
-      "Score": 10,
-      "Time": "23:08"
+      "Score": 18,
+      "Time": "25:08"
     }
   ]
 }
