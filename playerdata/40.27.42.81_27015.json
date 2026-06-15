@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-15T19:11:08.4322121Z",
+  "Time": "2026-06-15T19:13:08.4321335Z",
   "Players": [
     {
       "Name": "otx",
       "Steam": "76561199880717233",
-      "Score": 50,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "(◣_◢)",
       "Steam": "76561199014766648",
-      "Score": 17,
+      "Score": 25,
       "Time": "??:??"
+    },
+    {
+      "Name": "gynophobia",
+      "Steam": "76561199033568973",
+      "Score": 0,
+      "Time": "41:03"
     },
     {
       "Name": "Loirinha Safadinha",
@@ -28,13 +34,19 @@
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 30,
-      "Time": "134:20"
+      "Score": 38,
+      "Time": "136:20"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
       "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bad",
+      "Steam": "76561198281663381",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
