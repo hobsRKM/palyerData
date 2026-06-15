@@ -1,59 +1,65 @@
 {
-  "Time": "2026-06-15T23:33:08.4391395Z",
+  "Time": "2026-06-15T23:35:08.4438135Z",
   "Players": [
     {
       "Name": "Vicious Beta",
       "Steam": "76561198700071912",
-      "Score": 25,
-      "Time": "07:35"
+      "Score": 30,
+      "Time": "09:35"
     },
     {
       "Name": "mucinex00",
       "Steam": "76561199870756565",
-      "Score": 17,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Lumen",
       "Steam": "76561199491603608",
-      "Score": 13,
+      "Score": 29,
       "Time": "??:??"
     },
     {
-      "Name": "läskinekry",
-      "Steam": "76561198723148934",
-      "Score": 5,
-      "Time": "07:12"
+      "Name": "Chinese Skeet",
+      "Steam": "76561199055238878",
+      "Score": 2,
+      "Time": "00:48"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 94,
-      "Time": "49:58"
+      "Score": 99,
+      "Time": "51:58"
     },
     {
       "Name": "stamiisthebestn",
       "Steam": "76561198705115405",
-      "Score": 44,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 37,
-      "Time": "125:35"
+      "Score": 53,
+      "Time": "127:35"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 4,
-      "Time": "30:55"
+      "Score": 9,
+      "Time": "32:55"
     },
     {
-      "Name": "fatality.wi sayso",
+      "Name": "fata beta",
+      "Steam": "76561198776685602",
+      "Score": 0,
+      "Time": "00:46"
+    },
+    {
+      "Name": "sayso",
       "Steam": "76561198690729557",
-      "Score": 16,
-      "Time": "57:18"
+      "Score": 19,
+      "Time": "59:18"
     }
   ]
 }
