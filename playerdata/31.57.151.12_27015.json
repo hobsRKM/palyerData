@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-15T18:18:41.0848095Z",
-  "Players": []
+  "Time": "2026-06-15T18:18:46.6542721Z",
+  "Players": [
+    {
+      "Name": "says0",
+      "Steam": "76561198730101311",
+      "Score": 36,
+      "Time": "08:00"
+    },
+    {
+      "Name": "Lean Expert",
+      "Steam": "76561198689125954",
+      "Score": 31,
+      "Time": "23:06"
+    },
+    {
+      "Name": "Plaguecheese",
+      "Steam": "76561198690086258",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mr.Meowers",
+      "Steam": "76561198414554416",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Who Is That",
+      "Steam": "76561199883336732",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
