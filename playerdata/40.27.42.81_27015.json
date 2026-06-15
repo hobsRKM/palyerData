@@ -1,58 +1,64 @@
 {
-  "Time": "2026-06-15T17:09:08.4290124Z",
+  "Time": "2026-06-15T17:11:08.4381298Z",
   "Players": [
+    {
+      "Name": "Soulja Boy",
+      "Steam": "76561199849050111",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Woah",
       "Steam": "76561199680083874",
-      "Score": 5,
-      "Time": "02:39"
+      "Score": 15,
+      "Time": "04:39"
     },
     {
       "Name": "CEOisGOAT",
       "Steam": "76561199863679739",
-      "Score": 15,
-      "Time": "15:32"
+      "Score": 21,
+      "Time": "17:32"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 58,
-      "Time": "12:20"
+      "Score": 66,
+      "Time": "14:20"
     },
     {
       "Name": "boys are just placeholders",
       "Steam": "76561199876077209",
-      "Score": 92,
-      "Time": "138:01"
+      "Score": 95,
+      "Time": "140:01"
     },
     {
       "Name": "Tom",
       "Steam": "76561199864616819",
-      "Score": 49,
-      "Time": "12:55"
+      "Score": 60,
+      "Time": "14:55"
     },
     {
       "Name": "Hood Hokage",
       "Steam": "76561199661292068",
-      "Score": 23,
-      "Time": "18:59"
+      "Score": 27,
+      "Time": "20:59"
     },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 0,
-      "Time": "00:10"
+      "Score": 6,
+      "Time": "02:10"
     },
     {
-      "Name": "vac developer",
-      "Steam": "76561198689467600",
-      "Score": 4,
-      "Time": "09:38"
+      "Name": "Nah",
+      "Steam": "76561198723445690",
+      "Score": 18,
+      "Time": "01:35"
     },
     {
       "Name": "stamiisthebestn",
       "Steam": "76561198705115405",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
