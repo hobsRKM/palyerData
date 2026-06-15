@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-15T03:35:01.2045926Z",
+  "Time": "2026-06-15T03:37:01.2268134Z",
   "Players": [
+    {
+      "Name": "AceOfSpades | Freaky",
+      "Steam": "76561199440340596",
+      "Score": 8,
+      "Time": "??:??"
+    },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 28,
-      "Time": "18:38"
+      "Score": 31,
+      "Time": "20:38"
     },
     {
       "Name": "Lotus Biscoff",
       "Steam": "76561199839709648",
-      "Score": 14,
-      "Time": "51:25"
+      "Score": 15,
+      "Time": "53:25"
     },
     {
       "Name": "Stupid CLANKER",
@@ -22,31 +28,31 @@
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 29,
-      "Time": "41:40"
+      "Score": 37,
+      "Time": "43:40"
     },
     {
       "Name": "Ely",
       "Steam": "76561199091350260",
-      "Score": 47,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "popshubbit",
       "Steam": "76561198860976255",
-      "Score": 24,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 38,
+      "Score": 46,
       "Time": "??:??"
     },
     {
-      "Name": "[Mon] Gurt",
+      "Name": "[Monolith] Gurt",
       "Steam": "76561198692390463",
-      "Score": 31,
+      "Score": 39,
       "Time": "??:??"
     }
   ]
