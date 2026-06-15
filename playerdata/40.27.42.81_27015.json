@@ -1,34 +1,40 @@
 {
-  "Time": "2026-06-15T03:17:01.0888891Z",
+  "Time": "2026-06-15T03:19:01.101174Z",
   "Players": [
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 55,
-      "Time": "249:14"
+      "Score": 65,
+      "Time": "251:14"
     },
     {
       "Name": "Hage Reborn",
       "Steam": "76561199754918087",
-      "Score": 7,
-      "Time": "00:37"
+      "Score": 21,
+      "Time": "02:37"
     },
     {
       "Name": "Lotus Biscoff",
       "Steam": "76561199839709648",
-      "Score": 20,
-      "Time": "33:25"
+      "Score": 22,
+      "Time": "35:25"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 65,
-      "Time": "23:40"
+      "Score": 69,
+      "Time": "25:40"
+    },
+    {
+      "Name": "Donk",
+      "Steam": "76561198758556290",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Ely",
       "Steam": "76561199091350260",
-      "Score": 30,
+      "Score": 42,
       "Time": "??:??"
     },
     {
@@ -40,32 +46,32 @@
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 77,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 55,
-      "Time": "57:31"
+      "Score": 61,
+      "Time": "59:31"
     },
     {
-      "Name": "glv apehurt",
-      "Steam": "76561199148432787",
-      "Score": 2,
-      "Time": "01:56"
-    },
-    {
-      "Name": "[Mon] Gurt",
+      "Name": "[Monolith] Gurt",
       "Steam": "76561198692390463",
-      "Score": 82,
+      "Score": 97,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 78,
-      "Time": "69:01"
+      "Score": 84,
+      "Time": "71:01"
+    },
+    {
+      "Name": "Catdog",
+      "Steam": "76561199616370697",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
