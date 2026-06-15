@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-15T17:57:08.4331199Z",
+  "Time": "2026-06-15T17:59:08.4387076Z",
   "Players": [
+    {
+      "Name": "szeretemacs2tebuziallat",
+      "Steam": "76561198694020130",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Vicious Beta",
       "Steam": "76561198700071912",
-      "Score": 53,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
       "Score": 40,
-      "Time": "42:52"
+      "Time": "44:52"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 44,
-      "Time": "60:20"
+      "Score": 48,
+      "Time": "62:20"
     },
     {
       "Name": "$Y$KEY",
       "Steam": "76561199544645033",
       "Score": 37,
-      "Time": "21:40"
+      "Time": "23:40"
     },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 0,
-      "Time": "07:39"
+      "Score": 6,
+      "Time": "09:39"
     }
   ]
 }
