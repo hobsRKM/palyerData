@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-15T01:05:00.6531611Z",
+  "Time": "2026-06-15T01:07:00.7301431Z",
   "Players": [
+    {
+      "Name": "Hood Sheriff",
+      "Steam": "76561199581407714",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Claude Fable 5",
       "Steam": "76561198728274003",
-      "Score": 35,
-      "Time": "431:54"
+      "Score": 38,
+      "Time": "433:54"
     },
     {
-      "Name": "Ev $Y$KEY",
+      "Name": "Ever $Y$KEY",
       "Steam": "76561199544645033",
-      "Score": 19,
-      "Time": "93:42"
+      "Score": 21,
+      "Time": "95:42"
     },
     {
       "Name": "CEOofCS",
@@ -22,49 +28,49 @@
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 35,
-      "Time": "??:??"
-    },
-    {
-      "Name": "chris",
-      "Steam": "76561198041707533",
-      "Score": 6,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "Renatti??®",
       "Steam": "76561198748749117",
       "Score": 10,
-      "Time": "06:08"
+      "Time": "08:08"
     },
     {
       "Name": "HoHoHo",
       "Steam": "76561198755417759",
+      "Score": 1,
+      "Time": "01:32"
+    },
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199837114653",
       "Score": 0,
-      "Time": "359:11"
+      "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "ghoul",
       "Steam": "76561198689132532",
-      "Score": 0,
-      "Time": "00:46"
+      "Score": 6,
+      "Time": "02:46"
     },
     {
       "Name": "one+",
       "Steam": "76561199442363655",
-      "Score": 42,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "durdurdur",
       "Steam": "76561199870910260",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
