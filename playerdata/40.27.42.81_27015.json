@@ -1,53 +1,59 @@
 {
-  "Time": "2026-06-15T02:13:00.8083791Z",
+  "Time": "2026-06-15T02:15:00.843293Z",
   "Players": [
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 6,
-      "Time": "185:14"
+      "Score": 8,
+      "Time": "187:14"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 20,
-      "Time": "55:54"
+      "Score": 23,
+      "Time": "57:54"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 61,
-      "Time": "01:51"
+      "Score": 65,
+      "Time": "03:51"
     },
     {
-      "Name": "Soulja Boy",
-      "Steam": "76561199849050111",
-      "Score": 57,
+      "Name": "ishi",
+      "Steam": "76561199580957442",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 17,
-      "Time": "05:13"
+      "Score": 21,
+      "Time": "07:13"
     },
     {
       "Name": "Renatti??®",
       "Steam": "76561198748749117",
-      "Score": 14,
-      "Time": "41:09"
+      "Score": 17,
+      "Time": "43:09"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 43,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 40,
-      "Time": "05:01"
+      "Score": 53,
+      "Time": "07:01"
+    },
+    {
+      "Name": "ghoul",
+      "Steam": "76561198689132532",
+      "Score": 0,
+      "Time": "00:08"
     }
   ]
 }
