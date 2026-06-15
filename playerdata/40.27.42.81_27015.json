@@ -1,11 +1,17 @@
 {
-  "Time": "2026-06-15T05:07:01.4965036Z",
+  "Time": "2026-06-15T05:09:01.4972139Z",
   "Players": [
     {
       "Name": "jamer",
       "Steam": "76561198852456147",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "+1 917 984 9120",
+      "Steam": "76561199520600605",
+      "Score": 39,
+      "Time": "00:37"
     },
     {
       "Name": "notaniceguy",
@@ -20,34 +26,34 @@
       "Time": "??:??"
     },
     {
-      "Name": "\uD835\uDE2C\uD835\uDE30\uD835\uDE35\uD835\uDE22\uD835\uDE33\uD835\uDE30~",
-      "Steam": "76561199394210240",
-      "Score": 46,
-      "Time": "??:??"
-    },
-    {
       "Name": "(◣_◢)",
       "Steam": "76561199014766648",
-      "Score": 34,
-      "Time": "142:27"
+      "Score": 36,
+      "Time": "144:27"
     },
     {
-      "Name": "[Monolith] Gurt",
+      "Name": "[128] Gurt",
       "Steam": "76561198692390463",
-      "Score": 58,
-      "Time": "16:47"
+      "Score": 62,
+      "Time": "18:47"
     },
     {
       "Name": "Hidden",
       "Steam": "76561198689816963",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "ESTK",
       "Steam": "76561199884720018",
-      "Score": 25,
+      "Score": 35,
       "Time": "??:??"
+    },
+    {
+      "Name": "ghoul",
+      "Steam": "76561198689132532",
+      "Score": 0,
+      "Time": "01:50"
     }
   ]
 }
