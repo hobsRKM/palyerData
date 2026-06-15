@@ -1,47 +1,47 @@
 {
-  "Time": "2026-06-15T17:05:08.4378457Z",
+  "Time": "2026-06-15T17:07:08.4398225Z",
   "Players": [
+    {
+      "Name": "Woah",
+      "Steam": "76561199680083874",
+      "Score": 0,
+      "Time": "00:39"
+    },
     {
       "Name": "CEOisGOAT",
       "Steam": "76561199863679739",
       "Score": 14,
-      "Time": "11:32"
+      "Time": "13:32"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 40,
-      "Time": "08:20"
+      "Score": 50,
+      "Time": "10:20"
     },
     {
       "Name": "boys are just placeholders",
       "Steam": "76561199876077209",
-      "Score": 68,
-      "Time": "134:01"
+      "Score": 76,
+      "Time": "136:01"
     },
     {
       "Name": "Tom",
       "Steam": "76561199864616819",
-      "Score": 26,
-      "Time": "08:55"
+      "Score": 36,
+      "Time": "10:55"
     },
     {
       "Name": "Hood Hokage",
       "Steam": "76561199661292068",
-      "Score": 22,
-      "Time": "14:59"
+      "Score": 23,
+      "Time": "16:59"
     },
     {
       "Name": "vac developer",
       "Steam": "76561198689467600",
       "Score": 4,
-      "Time": "05:38"
-    },
-    {
-      "Name": "Nah",
-      "Steam": "76561198723445690",
-      "Score": 18,
-      "Time": "??:??"
+      "Time": "07:38"
     }
   ]
 }
