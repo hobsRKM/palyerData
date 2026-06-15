@@ -1,28 +1,34 @@
 {
-  "Time": "2026-06-15T16:45:08.4297571Z",
+  "Time": "2026-06-15T16:47:08.439221Z",
   "Players": [
     {
       "Name": "poopcock.xyz",
       "Steam": "76561199782973135",
-      "Score": 21,
-      "Time": "68:54"
+      "Score": 23,
+      "Time": "70:54"
     },
     {
       "Name": "boys are just placeholders",
       "Steam": "76561199876077209",
-      "Score": 31,
-      "Time": "114:01"
+      "Score": 46,
+      "Time": "116:01"
     },
     {
       "Name": "BS_Official",
       "Steam": "76561198748012660",
-      "Score": 52,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 10,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vac developer",
+      "Steam": "76561198689467600",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
