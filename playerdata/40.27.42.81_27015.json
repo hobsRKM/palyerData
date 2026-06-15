@@ -1,29 +1,41 @@
 {
-  "Time": "2026-06-15T23:23:08.4470934Z",
+  "Time": "2026-06-15T23:25:08.438901Z",
   "Players": [
+    {
+      "Name": "läskinekry",
+      "Steam": "76561198723148934",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 64,
-      "Time": "39:58"
+      "Score": 68,
+      "Time": "41:58"
     },
     {
       "Name": "stamiisthebestn",
       "Steam": "76561198705115405",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "Vonrasco",
+      "Steam": "76561199681914198",
+      "Score": 2,
+      "Time": "117:35"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 35,
-      "Time": "20:55"
+      "Score": 39,
+      "Time": "22:55"
     },
     {
-      "Name": "ty.win sayso",
+      "Name": "fatalit sayso",
       "Steam": "76561198690729557",
-      "Score": 41,
-      "Time": "47:18"
+      "Score": 45,
+      "Time": "49:18"
     }
   ]
 }
