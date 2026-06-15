@@ -1,53 +1,41 @@
 {
-  "Time": "2026-06-15T02:19:00.8327843Z",
+  "Time": "2026-06-15T02:21:00.8439046Z",
   "Players": [
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 22,
-      "Time": "191:14"
-    },
-    {
-      "Name": "skoobert",
-      "Steam": "76561199359618052",
-      "Score": 32,
-      "Time": "61:54"
-    },
-    {
-      "Name": "Lotus Biscoff",
-      "Steam": "76561199839709648",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "shyne",
-      "Steam": "76561199096113124",
-      "Score": 34,
-      "Time": "11:13"
+      "Score": 28,
+      "Time": "193:14"
     },
     {
       "Name": "Renatti??®",
       "Steam": "76561198748749117",
       "Score": 21,
-      "Time": "47:09"
+      "Time": "49:09"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 74,
+      "Score": 84,
       "Time": "??:??"
+    },
+    {
+      "Name": "bloggo",
+      "Steam": "76561198712611951",
+      "Score": 0,
+      "Time": "01:30"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 71,
-      "Time": "11:01"
+      "Score": 79,
+      "Time": "13:01"
     },
     {
       "Name": "ghoul",
       "Steam": "76561198689132532",
-      "Score": 4,
-      "Time": "04:08"
+      "Score": 10,
+      "Time": "06:08"
     }
   ]
 }
