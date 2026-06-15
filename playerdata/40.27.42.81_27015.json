@@ -1,16 +1,22 @@
 {
-  "Time": "2026-06-15T19:51:08.4267232Z",
+  "Time": "2026-06-15T19:53:08.4379551Z",
   "Players": [
+    {
+      "Name": "333",
+      "Steam": "76561199725613843",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Vicious Beta",
       "Steam": "76561198700071912",
-      "Score": 54,
-      "Time": "31:21"
+      "Score": 2,
+      "Time": "33:21"
     },
     {
       "Name": "(◣_◢)",
       "Steam": "76561199014766648",
-      "Score": 74,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -22,80 +28,56 @@
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 13,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "krasivaya kak zvezdy",
       "Steam": "76561198077496630",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "LuckyCharms GOD Build",
       "Steam": "76561199055238878",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "bloggo",
-      "Steam": "76561198712611951",
-      "Score": 53,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "extracheesebaconburgerdeluxexx",
       "Steam": "76561199158419168",
-      "Score": 103,
-      "Time": "14:48"
+      "Score": 0,
+      "Time": "16:48"
     },
     {
       "Name": "txa",
       "Steam": "76561198691198196",
-      "Score": 50,
-      "Time": "12:05"
+      "Score": 0,
+      "Time": "14:05"
     },
     {
       "Name": "Tom",
       "Steam": "76561199864616819",
-      "Score": 9,
-      "Time": "04:53"
+      "Score": 0,
+      "Time": "06:53"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 13,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Im gonna win :P",
       "Steam": "76561199852062209",
-      "Score": 56,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "i drink soda and i eat pizza",
-      "Steam": "76561198691897119",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "PND.lㅤ Gurt",
+      "Name": "PND.luaㅤ Gurt",
       "Steam": "76561198692390463",
-      "Score": 7,
-      "Time": "06:04"
-    },
-    {
-      "Name": "TAGE",
-      "Steam": "76561198901744600",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "vac developer",
-      "Steam": "76561198689467600",
-      "Score": 0,
-      "Time": "01:07"
+      "Time": "08:04"
     }
   ]
 }
