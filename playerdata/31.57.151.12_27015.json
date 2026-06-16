@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-16T13:22:33.3969189Z",
-  "Players": []
+  "Time": "2026-06-16T13:22:57.6012927Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "03:43"
+    },
+    {
+      "Name": "ᴢᴇɴsɪᴇʀᴛ",
+      "Steam": "76561199079000505",
+      "Score": 71,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VisiON",
+      "Steam": "76561198687076656",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gamesense  BigNigRandy",
+      "Steam": "76561198741610045",
+      "Score": 53,
+      "Time": "??:??"
+    },
+    {
+      "Name": "genius.dll",
+      "Steam": "76561199567729042",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zalensky",
+      "Steam": "76561198687456982",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
