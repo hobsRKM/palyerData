@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-16T13:46:33.3970965Z",
-  "Players": []
+  "Time": "2026-06-16T13:46:57.6047749Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VisiON",
+      "Steam": "76561198687076656",
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "genius.dll",
+      "Steam": "76561199567729042",
+      "Score": 55,
+      "Time": "??:??"
+    },
+    {
+      "Name": "peter",
+      "Steam": "76561199837767108",
+      "Score": 68,
+      "Time": "06:31"
+    },
+    {
+      "Name": "Wise Old Man",
+      "Steam": "76561198706163811",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Steifenbrecher",
+      "Steam": "76561198987886020",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
