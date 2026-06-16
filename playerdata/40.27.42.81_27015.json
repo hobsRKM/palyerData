@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-16T04:55:09.6640622Z",
+  "Time": "2026-06-16T04:57:09.6740598Z",
   "Players": [
     {
       "Name": "awesomecat61",
       "Steam": "76561198719863736",
       "Score": 20,
-      "Time": "12:24"
+      "Time": "01:15"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 97,
-      "Time": "39:42"
+      "Score": 103,
+      "Time": "41:42"
+    },
+    {
+      "Name": "Hidden",
+      "Steam": "76561198689816963",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 77,
-      "Time": "45:15"
+      "Score": 83,
+      "Time": "47:15"
     },
     {
       "Name": "Velas",
@@ -34,26 +40,32 @@
     {
       "Name": "idiot",
       "Steam": "76561198685984022",
-      "Score": 8,
-      "Time": "08:26"
+      "Score": 12,
+      "Time": "10:26"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 86,
-      "Time": "42:22"
+      "Score": 93,
+      "Time": "44:22"
     },
     {
       "Name": "hello ✌",
       "Steam": "76561199014766648",
-      "Score": 18,
-      "Time": "09:45"
+      "Score": 33,
+      "Time": "11:45"
     },
     {
       "Name": "bobby",
       "Steam": "76561199487753165",
-      "Score": 36,
+      "Score": 44,
       "Time": "??:??"
+    },
+    {
+      "Name": "Ella",
+      "Steam": "76561199045713645",
+      "Score": 59,
+      "Time": "01:42"
     }
   ]
 }
