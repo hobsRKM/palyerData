@@ -1,53 +1,59 @@
 {
-  "Time": "2026-06-16T08:03:12.9990886Z",
+  "Time": "2026-06-16T08:05:13.0349448Z",
   "Players": [
     {
       "Name": "awesomecat61",
       "Steam": "76561198719863736",
-      "Score": 6,
-      "Time": "16:48"
+      "Score": 8,
+      "Time": "18:48"
     },
     {
       "Name": "Nuclear Nadal",
       "Steam": "76561198697218368",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 0,
+      "Time": "496:33"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 10,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "KIKI",
       "Steam": "76561199367247291",
       "Score": 0,
-      "Time": "73:26"
+      "Time": "75:26"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 22,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "swag",
       "Steam": "76561199051899757",
-      "Score": 2,
-      "Time": "15:43"
+      "Score": 8,
+      "Time": "17:43"
     },
     {
       "Name": "hello ✌",
       "Steam": "76561199014766648",
-      "Score": 12,
-      "Time": "197:48"
+      "Score": 15,
+      "Time": "199:48"
     },
     {
       "Name": "Gurt",
       "Steam": "76561198692390463",
-      "Score": 4,
-      "Time": "31:34"
+      "Score": 8,
+      "Time": "33:34"
     }
   ]
 }
