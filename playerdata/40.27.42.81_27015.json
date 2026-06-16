@@ -1,35 +1,47 @@
 {
-  "Time": "2026-06-16T02:49:08.9043169Z",
+  "Time": "2026-06-16T02:51:08.887689Z",
   "Players": [
+    {
+      "Name": "methylenedioxymethamphetamine",
+      "Steam": "76561199480081357",
+      "Score": 1,
+      "Time": "360:27"
+    },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 13,
-      "Time": "96:28"
+      "Score": 20,
+      "Time": "98:28"
     },
     {
       "Name": "b",
       "Steam": "76561199830024313",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "r0x",
+      "Steam": "76561197970393276",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Ouu shiii",
       "Steam": "76561198141093887",
-      "Score": 18,
-      "Time": "80:01"
+      "Score": 24,
+      "Time": "82:01"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 24,
-      "Time": "11:08"
+      "Score": 30,
+      "Time": "13:08"
     },
     {
       "Name": "Claude Fable 5",
       "Steam": "76561198728274003",
-      "Score": 15,
-      "Time": "36:54"
+      "Score": 29,
+      "Time": "38:54"
     },
     {
       "Name": "TØXIC",
@@ -40,20 +52,14 @@
     {
       "Name": "hello ✌",
       "Steam": "76561199014766648",
-      "Score": 16,
-      "Time": "13:38"
+      "Score": 18,
+      "Time": "15:38"
     },
     {
       "Name": "333",
       "Steam": "76561199725613843",
-      "Score": 8,
-      "Time": "139:22"
-    },
-    {
-      "Name": "linc8ln",
-      "Steam": "76561198776685602",
-      "Score": 9,
-      "Time": "42:15"
+      "Score": 16,
+      "Time": "141:22"
     }
   ]
 }
