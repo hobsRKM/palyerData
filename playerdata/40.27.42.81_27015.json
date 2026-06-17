@@ -1,28 +1,34 @@
 {
-  "Time": "2026-06-17T07:21:02.3442841Z",
+  "Time": "2026-06-17T07:23:02.3552604Z",
   "Players": [
+    {
+      "Name": "Fujino",
+      "Steam": "76561198695257041",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 55,
-      "Time": "220:55"
+      "Score": 70,
+      "Time": "222:55"
     },
     {
       "Name": "TSOWC | Tyrone",
       "Steam": "76561199845093091",
-      "Score": 20,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "swag",
       "Steam": "76561199051899757",
-      "Score": 49,
-      "Time": "237:42"
+      "Score": 55,
+      "Time": "239:42"
     },
     {
       "Name": "awesomecat61",
       "Steam": "76561198719863736",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
