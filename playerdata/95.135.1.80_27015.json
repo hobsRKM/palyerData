@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-17T08:26:09.7485144Z",
-  "Players": []
+  "Time": "2026-06-17T08:26:59.7561025Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LustHVH",
+      "Steam": "76561199049938602",
+      "Score": 2,
+      "Time": "00:24"
+    },
+    {
+      "Name": "hi",
+      "Steam": "76561198716412774",
+      "Score": 52,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDC8E\uD835\uDC86\uD835\uDC8E\uD835\uDC86\uD835\uDC94\uD835\uDC86\uD835\uDC8F\uD835\uDC94\uD835\uDC86",
+      "Steam": "76561198036840586",
+      "Score": 41,
+      "Time": "??:??"
+    }
+  ]
 }
