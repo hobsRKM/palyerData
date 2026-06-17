@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-16T23:43:01.893245Z",
+  "Time": "2026-06-16T23:45:01.8943338Z",
   "Players": [
+    {
+      "Name": "one+",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Liab",
       "Steam": "76561199677683650",
-      "Score": 70,
-      "Time": "27:52"
+      "Score": 82,
+      "Time": "29:52"
     },
     {
       "Name": "Renatti??®",
       "Steam": "76561198748749117",
-      "Score": 8,
-      "Time": "216:55"
+      "Score": 10,
+      "Time": "218:55"
     },
     {
       "Name": "Suicidal Femboy",
       "Steam": "76561199853596142",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 6,
-      "Time": "108:47"
+      "Score": 8,
+      "Time": "110:47"
     },
     {
       "Name": "Çapsız Abidin",
       "Steam": "76561198307642297",
-      "Score": 37,
-      "Time": "17:05"
+      "Score": 43,
+      "Time": "19:05"
     }
   ]
 }
