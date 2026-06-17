@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-17T04:41:02.2383554Z",
+  "Time": "2026-06-17T04:43:02.2406762Z",
   "Players": [
     {
       "Name": "613611325532",
       "Steam": "76561199020431776",
-      "Score": 117,
-      "Time": "26:55"
+      "Score": 118,
+      "Time": "28:55"
     },
     {
       "Name": "Running With Scissors >,_,<",
       "Steam": "76561199877771124",
-      "Score": 40,
-      "Time": "06:13"
+      "Score": 48,
+      "Time": "08:13"
+    },
+    {
+      "Name": "Mixer",
+      "Steam": "76561199196276497",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "E39 ÜST KAPAK CONTASI PEEK",
       "Steam": "76561198689031369",
       "Score": 8,
-      "Time": "15:36"
+      "Time": "17:36"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 63,
-      "Time": "217:30"
+      "Score": 69,
+      "Time": "219:30"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 31,
-      "Time": "03:26"
+      "Score": 41,
+      "Time": "05:26"
     },
     {
       "Name": "Ella",
       "Steam": "76561199492693134",
-      "Score": 0,
-      "Time": "24:44"
+      "Score": 5,
+      "Time": "26:44"
     },
     {
       "Name": "Chungas",
@@ -46,32 +52,20 @@
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
-    },
-    {
-      "Name": "coma",
-      "Steam": "76561199536026155",
-      "Score": 0,
-      "Time": "06:04"
     },
     {
       "Name": "Velas",
       "Steam": "76561199120538639",
-      "Score": 48,
-      "Time": "92:02"
-    },
-    {
-      "Name": "r0x",
-      "Steam": "76561197970393276",
-      "Score": 83,
-      "Time": "181:18"
+      "Score": 54,
+      "Time": "94:02"
     },
     {
       "Name": "2",
       "Steam": "76561199842418049",
-      "Score": 69,
-      "Time": "09:22"
+      "Score": 77,
+      "Time": "11:22"
     }
   ]
 }
