@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-17T04:50:09.7486908Z",
-  "Players": []
+  "Time": "2026-06-17T04:50:59.757304Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mipp",
+      "Steam": "76561199877313798",
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "oh",
+      "Steam": "76561198783599993",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MayorWolf",
+      "Steam": "76561199230406140",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDD3C\uD835\uDD54\uD835\uDD64\uD835\uDD65\uD835\uDD52\uD835\uDD64\uD835\uDD6A",
+      "Steam": "76561198691891581",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
