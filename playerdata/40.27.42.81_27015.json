@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-16T23:53:01.8966903Z",
+  "Time": "2026-06-16T23:55:01.8934945Z",
   "Players": [
+    {
+      "Name": "one+",
+      "Steam": "76561199442363655",
+      "Score": 42,
+      "Time": "02:01"
+    },
     {
       "Name": "Liab",
       "Steam": "76561199677683650",
-      "Score": 124,
-      "Time": "37:52"
+      "Score": 136,
+      "Time": "39:52"
     },
     {
       "Name": "Renatti??®",
       "Steam": "76561198748749117",
-      "Score": 2,
-      "Time": "226:55"
+      "Score": 6,
+      "Time": "228:55"
     },
     {
       "Name": "Suicidal Femboy",
@@ -22,20 +28,20 @@
     {
       "Name": "Jay",
       "Steam": "76561199624382024",
-      "Score": 29,
-      "Time": "05:39"
+      "Score": 33,
+      "Time": "07:39"
     },
     {
       "Name": "Çapsız Abidin",
       "Steam": "76561198307642297",
-      "Score": 59,
-      "Time": "27:05"
+      "Score": 60,
+      "Time": "29:05"
     },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 6,
-      "Time": "06:49"
+      "Score": 2,
+      "Time": "08:49"
     }
   ]
 }
