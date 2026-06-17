@@ -1,40 +1,46 @@
 {
-  "Time": "2026-06-17T03:23:02.1098273Z",
+  "Time": "2026-06-17T03:25:02.0919542Z",
   "Players": [
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
+      "Score": 1,
+      "Time": "22:26"
+    },
+    {
+      "Name": "mero",
+      "Steam": "76561198705120365",
       "Score": 0,
-      "Time": "20:26"
+      "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 0,
-      "Time": "139:30"
+      "Score": 2,
+      "Time": "141:30"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 0,
-      "Time": "33:56"
+      "Score": 2,
+      "Time": "35:56"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 0,
-      "Time": "08:42"
+      "Score": 1,
+      "Time": "10:42"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 0,
-      "Time": "04:05"
+      "Score": 3,
+      "Time": "06:05"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -46,14 +52,14 @@
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 0,
-      "Time": "08:39"
+      "Score": 1,
+      "Time": "10:39"
     },
     {
       "Name": "Babka v HaukoBckux keDax",
       "Steam": "76561199655672166",
       "Score": 0,
-      "Time": "62:13"
+      "Time": "64:13"
     },
     {
       "Name": "Emi",
@@ -64,7 +70,7 @@
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -76,20 +82,20 @@
     {
       "Name": "durdur",
       "Steam": "76561199844077519",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "one+",
       "Steam": "76561199442363655",
-      "Score": 0,
-      "Time": "86:32"
+      "Score": 2,
+      "Time": "88:32"
     },
     {
       "Name": "angelica",
       "Steam": "76561199798812373",
-      "Score": 0,
-      "Time": "410:10"
+      "Score": 12,
+      "Time": "412:10"
     }
   ]
 }
