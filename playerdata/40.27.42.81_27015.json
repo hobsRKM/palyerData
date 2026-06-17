@@ -1,46 +1,64 @@
 {
-  "Time": "2026-06-17T21:55:55.6712218Z",
+  "Time": "2026-06-17T21:57:55.6677094Z",
   "Players": [
+    {
+      "Name": "balenciagha",
+      "Steam": "76561198688484001",
+      "Score": 4,
+      "Time": "01:44"
+    },
+    {
+      "Name": "bad",
+      "Steam": "76561198281663381",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "mea",
       "Steam": "76561198690518029",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "⋆ \uD835\uDE8C\uD835\uDE8A\uD835\uDE9B\uD835\uDE9B\uD835\uDE92\uD835\uDE98\uD835\uDE97",
       "Steam": "76561198694822697",
-      "Score": 20,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 22,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "OEmt Dusty",
       "Steam": "76561199873638239",
-      "Score": 8,
-      "Time": "05:09"
+      "Score": 15,
+      "Time": "07:09"
     },
     {
       "Name": "CR7MENTALITY",
       "Steam": "76561199839870930",
-      "Score": 12,
-      "Time": "45:13"
+      "Score": 16,
+      "Time": "47:13"
     },
     {
       "Name": "Toolsack",
       "Steam": "76561199121822237",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 22,
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SS",
+      "Steam": "76561198349088383",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
