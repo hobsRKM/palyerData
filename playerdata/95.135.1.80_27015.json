@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-17T08:52:09.7434828Z",
-  "Players": []
+  "Time": "2026-06-17T08:52:59.765802Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "king",
+      "Steam": "76561198687251835",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "onetap beta tester",
+      "Steam": "76561198685093903",
+      "Score": 8,
+      "Time": "01:27"
+    },
+    {
+      "Name": "hi",
+      "Steam": "76561198716412774",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDC8E\uD835\uDC86\uD835\uDC8E\uD835\uDC86\uD835\uDC94\uD835\uDC86\uD835\uDC8F\uD835\uDC94\uD835\uDC86",
+      "Steam": "76561198036840586",
+      "Score": 1,
+      "Time": "??:??"
+    }
+  ]
 }
