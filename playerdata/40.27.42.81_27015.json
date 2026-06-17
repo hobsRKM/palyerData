@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-17T05:33:02.2547059Z",
+  "Time": "2026-06-17T05:35:02.2606509Z",
   "Players": [
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
+      "Score": 4,
+      "Time": "02:39"
+    },
+    {
+      "Name": "Running With Scissors >,_,<",
+      "Steam": "76561199877771124",
       "Score": 2,
-      "Time": "00:39"
+      "Time": "01:56"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Ella",
       "Steam": "76561199492693134",
-      "Score": 3,
-      "Time": "76:44"
+      "Score": 5,
+      "Time": "78:44"
     },
     {
       "Name": "HI HELLO WHART I S YOUR CONFG",
@@ -28,8 +34,8 @@
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 8,
-      "Time": "19:29"
+      "Score": 16,
+      "Time": "21:29"
     }
   ]
 }
