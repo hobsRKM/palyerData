@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-18T21:52:31.0287494Z",
-  "Players": []
+  "Time": "2026-06-18T21:53:54.4003599Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Happy",
+      "Steam": "76561198716540760",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "draxy",
+      "Steam": "76561199823330532",
+      "Score": 14,
+      "Time": "51:21"
+    },
+    {
+      "Name": "Al4n",
+      "Steam": "76561199060137558",
+      "Score": 77,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Purple Aki \uD83D\uDFE5\uD83D\uDFE7\uD83D\uDFE8\uD83D\uDFE9\uD83D\uDFE6",
+      "Steam": "76561199093153566",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
