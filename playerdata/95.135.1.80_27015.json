@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-18T17:58:31.0340112Z",
-  "Players": []
+  "Time": "2026-06-18T17:59:29.824452Z",
+  "Players": [
+    {
+      "Name": "\uD835\uDD70\uD835\uDD95\uD835\uDD8D\uD835\uDD94\uD835\uDD97\uD835\uDD8A",
+      "Steam": "76561199767711661",
+      "Score": 2,
+      "Time": "03:27"
+    },
+    {
+      "Name": "\uD835\uDD9C\uD835\uDD94\uD835\uDD92\uD835\uDD95 \uD835\uDD9C\uD835\uDD94\uD835\uDD92",
+      "Steam": "76561198090603926",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ScottishRoss",
+      "Steam": "76561197996436771",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GeekedEngine",
+      "Steam": "76561198686692378",
+      "Score": 6,
+      "Time": "??:??"
+    }
+  ]
 }
