@@ -1,40 +1,52 @@
 {
-  "Time": "2026-06-18T06:27:55.6925876Z",
+  "Time": "2026-06-18T06:29:55.6948864Z",
   "Players": [
     {
       "Name": "1tap",
       "Steam": "76561199010124305",
-      "Score": 60,
+      "Score": 64,
       "Time": "??:??"
+    },
+    {
+      "Name": "swag",
+      "Steam": "76561199051899757",
+      "Score": 0,
+      "Time": "58:11"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 32,
-      "Time": "16:35"
+      "Score": 36,
+      "Time": "18:35"
+    },
+    {
+      "Name": "Emi",
+      "Steam": "76561199335921447",
+      "Score": 0,
+      "Time": "71:54"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 64,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 54,
-      "Time": "17:08"
+      "Score": 64,
+      "Time": "19:08"
     },
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 52,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "me",
       "Steam": "76561198694064431",
-      "Score": 60,
+      "Score": 63,
       "Time": "??:??"
     }
   ]
