@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-18T07:31:55.6934647Z",
+  "Time": "2026-06-18T07:33:55.6951152Z",
   "Players": [
     {
       "Name": "otx",
       "Steam": "76561199880717233",
-      "Score": 2,
-      "Time": "02:11"
+      "Score": 6,
+      "Time": "04:11"
     },
     {
       "Name": ".gg/sofaleague",
       "Steam": "76561199531695282",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 3,
+      "Time": "200:57"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
       "Score": 2,
-      "Time": "23:38"
+      "Time": "25:38"
     }
   ]
 }
