@@ -1,4 +1,23 @@
 {
-  "Time": "2026-06-18T06:42:09.7474289Z",
-  "Players": []
+  "Time": "2026-06-18T06:43:54.4054978Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "atomicfraust815",
+      "Steam": "76561198719636351",
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[fatality] Missed due to death",
+      "Steam": "76561199384589920",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
