@@ -1,40 +1,52 @@
 {
-  "Time": "2026-06-18T03:29:55.6716552Z",
+  "Time": "2026-06-18T03:31:55.6659336Z",
   "Players": [
+    {
+      "Name": "bad",
+      "Steam": "76561198281663381",
+      "Score": 0,
+      "Time": "01:38"
+    },
     {
       "Name": "pimpnameslick78",
       "Steam": "76561198684935733",
-      "Score": 13,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "tapped #stayfatal",
       "Steam": "76561199209513284",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
+      "Score": 2,
+      "Time": "02:12"
     },
     {
       "Name": "LEGEND | donkey666",
       "Steam": "76561198689485444",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Cohrs",
       "Steam": "76561198094259899",
-      "Score": 0,
-      "Time": "14:51"
+      "Score": 5,
+      "Time": "16:51"
     },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 93,
-      "Time": "17:28"
+      "Score": 105,
+      "Time": "19:28"
     },
     {
       "Name": "CarlWheezer",
       "Steam": "76561198746548001",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     }
   ]
