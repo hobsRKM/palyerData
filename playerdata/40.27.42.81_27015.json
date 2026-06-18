@@ -1,21 +1,27 @@
 {
-  "Time": "2026-06-18T05:07:55.6698937Z",
+  "Time": "2026-06-18T05:09:55.6655861Z",
   "Players": [
     {
       "Name": "reWind^",
       "Steam": "76561198713506496",
-      "Score": 0,
-      "Time": "31:50"
+      "Score": 10,
+      "Time": "33:50"
     },
     {
       "Name": "soon",
       "Steam": "76561199889408603",
-      "Score": 0,
-      "Time": "21:29"
+      "Score": 3,
+      "Time": "23:29"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kebab maker",
+      "Steam": "76561198687637488",
       "Score": 0,
       "Time": "??:??"
     },
@@ -28,8 +34,8 @@
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 4,
-      "Time": "08:43"
+      "Score": 11,
+      "Time": "10:43"
     },
     {
       "Name": "poophead",
@@ -47,19 +53,19 @@
       "Name": "Vicious",
       "Steam": "76561198700071912",
       "Score": 2,
-      "Time": "98:12"
+      "Time": "100:12"
     },
     {
       "Name": "asd",
       "Steam": "76561199126522121",
       "Score": 0,
-      "Time": "00:05"
+      "Time": "02:05"
     },
     {
       "Name": "CarlWheezer",
       "Steam": "76561198746548001",
       "Score": 0,
-      "Time": "19:09"
+      "Time": "21:09"
     }
   ]
 }
