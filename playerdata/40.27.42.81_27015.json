@@ -1,10 +1,16 @@
 {
-  "Time": "2026-06-18T17:05:02.7347115Z",
+  "Time": "2026-06-18T17:07:02.7449171Z",
   "Players": [
+    {
+      "Name": "Google(search)",
+      "Steam": "76561199700940932",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Enigma Cheat x Sywix",
       "Steam": "76561199858445449",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
