@@ -1,5 +1,5 @@
 {
-  "Time": "2026-06-19T23:28:30.1543147Z",
+  "Time": "2026-06-19T23:30:30.1645585Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -8,21 +8,27 @@
       "Time": "??:??"
     },
     {
+      "Name": "Fein_Invalid",
+      "Steam": "76561199444305280",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "wuwuuuu",
       "Steam": "76561198745113678",
-      "Score": 4,
-      "Time": "73:32"
+      "Score": 6,
+      "Time": "75:32"
     },
     {
       "Name": "Speko",
       "Steam": "76561199831679325",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Gilmore",
       "Steam": "76561198395857528",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     },
     {
@@ -34,14 +40,14 @@
     {
       "Name": "battlefield enjoyer",
       "Steam": "76561198692584710",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Baba Yaga",
       "Steam": "76561198163926486",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:55"
     }
   ]
 }
