@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-19T11:45:06.6456797Z",
+  "Time": "2026-06-19T11:47:06.6493051Z",
   "Players": [
+    {
+      "Name": "Quantum Entropy Candle",
+      "Steam": "76561198763517260",
+      "Score": 0,
+      "Time": "00:20"
+    },
     {
       "Name": "linc8ln",
       "Steam": "76561198776685602",
       "Score": 0,
-      "Time": "04:13"
+      "Time": "06:13"
     },
     {
       "Name": "B",
       "Steam": "76561197973605723",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "OEmt Dusty",
       "Steam": "76561199873638239",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
