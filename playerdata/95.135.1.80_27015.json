@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-19T09:16:21.710573Z",
-  "Players": []
+  "Time": "2026-06-19T09:16:29.0191063Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GOATSIK",
+      "Steam": "76561199691492611",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Pescador di Kilos",
+      "Steam": "76561198789169060",
+      "Score": 36,
+      "Time": "19:01"
+    },
+    {
+      "Name": "hamudicalifornia",
+      "Steam": "76561199731740115",
+      "Score": 61,
+      "Time": "137:20"
+    },
+    {
+      "Name": "SM3RF",
+      "Steam": "76561199267532979",
+      "Score": 6,
+      "Time": "165:32"
+    }
+  ]
 }
