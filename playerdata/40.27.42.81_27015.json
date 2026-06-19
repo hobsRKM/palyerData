@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-19T20:03:06.6472575Z",
+  "Time": "2026-06-19T20:05:06.6419642Z",
   "Players": [
+    {
+      "Name": "tsundere!",
+      "Steam": "76561198696514541",
+      "Score": 0,
+      "Time": "00:17"
+    },
     {
       "Name": "r",
       "Steam": "76561199876077209",
-      "Score": 49,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "pimpnameslick78",
       "Steam": "76561198684935733",
       "Score": 10,
-      "Time": "39:49"
+      "Time": "41:49"
     },
     {
       "Name": "Jetpack Jew",
       "Steam": "76561199381837511",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
@@ -28,26 +34,26 @@
     {
       "Name": "vac developer",
       "Steam": "76561198689467600",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Poke",
       "Steam": "76561199677724992",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "profit",
       "Steam": "76561199677060188",
-      "Score": 3,
-      "Time": "07:36"
+      "Score": 7,
+      "Time": "09:36"
     },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 34,
-      "Time": "72:07"
+      "Score": 40,
+      "Time": "74:07"
     }
   ]
 }
