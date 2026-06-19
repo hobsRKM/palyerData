@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-19T04:30:09.7531887Z",
-  "Players": []
+  "Time": "2026-06-19T04:30:29.0294317Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "version with errors",
+      "Steam": "76561198791908446",
+      "Score": 27,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VenomPL",
+      "Steam": "76561198846614694",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wizard",
+      "Steam": "76561199558774474",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ta3laon",
+      "Steam": "76561198759041038",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hamudicalifornia",
+      "Steam": "76561199731740115",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
