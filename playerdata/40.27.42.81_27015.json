@@ -1,34 +1,34 @@
 {
-  "Time": "2026-06-19T05:21:02.7463164Z",
+  "Time": "2026-06-19T05:23:02.7500029Z",
   "Players": [
+    {
+      "Name": "asd",
+      "Steam": "76561199126522121",
+      "Score": 2,
+      "Time": "01:08"
+    },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 25,
-      "Time": "10:52"
+      "Score": 35,
+      "Time": "12:52"
     },
     {
       "Name": "Hidden",
       "Steam": "76561198689816963",
-      "Score": 76,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "one+",
       "Steam": "76561199442363655",
-      "Score": 25,
-      "Time": "07:04"
-    },
-    {
-      "Name": "Dr. Shrimp Puerto Rico",
-      "Steam": "76561199054947617",
-      "Score": 5,
-      "Time": "??:??"
+      "Score": 32,
+      "Time": "09:04"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
