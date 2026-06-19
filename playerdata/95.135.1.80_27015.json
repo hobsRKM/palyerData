@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-19T03:08:09.7532036Z",
-  "Players": []
+  "Time": "2026-06-19T03:08:29.0168497Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "version with errors",
+      "Steam": "76561198791908446",
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SM3RF",
+      "Steam": "76561199267532979",
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nemaqrac",
+      "Steam": "76561199582385010",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Syntx",
+      "Steam": "76561199853788330",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
