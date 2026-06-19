@@ -1,29 +1,41 @@
 {
-  "Time": "2026-06-19T06:39:02.7826244Z",
+  "Time": "2026-06-19T06:41:02.7828837Z",
   "Players": [
     {
       "Name": "n",
       "Steam": "76561198145723049",
-      "Score": 73,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "sem",
+      "Steam": "76561198685845441",
+      "Score": 2,
+      "Time": "00:48"
     },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 106,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "coma",
       "Steam": "76561199604698135",
-      "Score": 32,
-      "Time": "27:05"
+      "Score": 0,
+      "Time": "29:05"
     },
     {
       "Name": "Hidden",
       "Steam": "76561198689816963",
-      "Score": 71,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "whyyoubullymeh67",
+      "Steam": "76561198685898821",
+      "Score": 0,
+      "Time": "01:52"
     }
   ]
 }
