@@ -1,4 +1,17 @@
 {
-  "Time": "2026-06-19T02:58:09.7532226Z",
-  "Players": []
+  "Time": "2026-06-19T02:58:29.028324Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "version with errors",
+      "Steam": "76561198791908446",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
