@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-19T03:24:09.7532229Z",
-  "Players": []
+  "Time": "2026-06-19T03:24:29.0223685Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "version with errors",
+      "Steam": "76561198791908446",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Syntx",
+      "Steam": "76561199853788330",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "RxZ4",
+      "Steam": "76561198745493150",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "♡Random Femboy♡",
+      "Steam": "76561199124051211",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nixware.cc beta",
+      "Steam": "76561199733069842",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
