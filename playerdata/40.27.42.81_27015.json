@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-20T03:11:06.6672478Z",
+  "Time": "2026-06-20T03:13:06.6641466Z",
   "Players": [
     {
       "Name": "MiniMax M2.7",
       "Steam": "76561199859777341",
-      "Score": 14,
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC73 ⁧lovesick",
       "Steam": "76561199258689499",
-      "Score": 9,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 1,
-      "Time": "02:57"
+      "Score": 5,
+      "Time": "04:57"
     },
     {
       "Name": "MiniMax M3",
       "Steam": "76561198728274003",
-      "Score": 33,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "vac developer",
       "Steam": "76561198689467600",
-      "Score": 9,
-      "Time": "184:45"
+      "Score": 10,
+      "Time": "186:45"
     },
     {
       "Name": "Боря",
       "Steam": "76561199565961410",
-      "Score": 17,
-      "Time": "11:19"
+      "Score": 23,
+      "Time": "13:19"
     }
   ]
 }
