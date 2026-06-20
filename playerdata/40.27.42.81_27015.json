@@ -1,65 +1,77 @@
 {
-  "Time": "2026-06-20T00:17:06.6509513Z",
+  "Time": "2026-06-20T00:19:06.6687995Z",
   "Players": [
+    {
+      "Name": "Innocent bystander",
+      "Steam": "76561198747392408",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 75,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "Lapicito",
       "Steam": "76561199241945555",
       "Score": 41,
-      "Time": "129:58"
+      "Time": "131:58"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 144,
+      "Score": 149,
       "Time": "??:??"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 53,
+      "Score": 68,
+      "Time": "??:??"
+    },
+    {
+      "Name": "IHaveSmollPP",
+      "Steam": "76561199209588405",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "JAKE",
       "Steam": "76561198343112799",
-      "Score": 104,
+      "Score": 119,
       "Time": "??:??"
     },
     {
       "Name": "zero",
       "Steam": "76561199697775639",
       "Score": 26,
-      "Time": "71:12"
+      "Time": "73:12"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Charlie Dompler",
       "Steam": "76561199864570959",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "lanza.fig",
       "Steam": "76561198687653741",
       "Score": 9,
-      "Time": "10:22"
+      "Time": "12:22"
     },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 57,
-      "Time": "19:30"
+      "Score": 1,
+      "Time": "21:30"
     },
     {
       "Name": "BenZeeter",
@@ -70,19 +82,19 @@
     {
       "Name": "asd",
       "Steam": "76561199126522121",
-      "Score": 19,
-      "Time": "05:52"
+      "Score": 21,
+      "Time": "07:52"
     },
     {
       "Name": "MaDoG",
       "Steam": "76561198690233197",
-      "Score": 57,
-      "Time": "41:35"
+      "Score": 60,
+      "Time": "43:35"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 28,
+      "Score": 48,
       "Time": "??:??"
     },
     {
@@ -95,7 +107,7 @@
       "Name": "poophead",
       "Steam": "76561199580676396",
       "Score": 7,
-      "Time": "53:37"
+      "Time": "55:37"
     }
   ]
 }
