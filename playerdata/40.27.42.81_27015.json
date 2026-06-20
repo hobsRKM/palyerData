@@ -1,40 +1,46 @@
 {
-  "Time": "2026-06-20T01:45:06.6593062Z",
+  "Time": "2026-06-20T01:47:06.6609174Z",
   "Players": [
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 24,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 18,
-      "Time": "40:52"
+      "Score": 20,
+      "Time": "42:52"
     },
     {
       "Name": "V3r1CU",
       "Steam": "76561199139183917",
       "Score": 11,
-      "Time": "75:47"
+      "Time": "77:47"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 14,
-      "Time": "19:59"
+      "Score": 20,
+      "Time": "21:59"
+    },
+    {
+      "Name": ":/",
+      "Steam": "76561198986140781",
+      "Score": 4,
+      "Time": "219:54"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 22,
-      "Time": "40:56"
+      "Score": 26,
+      "Time": "42:56"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 26,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
