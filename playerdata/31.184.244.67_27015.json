@@ -1,4 +1,29 @@
 {
-  "Time": "2026-06-20T18:24:20.2179213Z",
-  "Players": []
+  "Time": "2026-06-20T18:24:30.1490923Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Strat",
+      "Steam": "76561198706552273",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "watch me shine",
+      "Steam": "76561199551107439",
+      "Score": 0,
+      "Time": "155:53"
+    },
+    {
+      "Name": "https://ezfrags.online/",
+      "Steam": "76561198695692300",
+      "Score": 20,
+      "Time": "62:58"
+    }
+  ]
 }
