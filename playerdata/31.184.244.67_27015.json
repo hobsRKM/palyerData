@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-21T17:45:10.8179166Z",
+  "Time": "2026-06-21T17:47:10.8198963Z",
   "Players": [
+    {
+      "Name": "NIXWARE USER",
+      "Steam": "76561198710640093",
+      "Score": 6,
+      "Time": "23:49"
+    },
     {
       "Name": "signal",
       "Steam": "76561199666064385",
-      "Score": 10,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "skeet user",
       "Steam": "76561198753096417",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Never | Lose",
       "Steam": "76561198694141067",
-      "Score": 2,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
