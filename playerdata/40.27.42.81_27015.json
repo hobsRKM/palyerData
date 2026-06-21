@@ -1,46 +1,52 @@
 {
-  "Time": "2026-06-21T04:09:02.4373157Z",
+  "Time": "2026-06-21T04:11:02.4528793Z",
   "Players": [
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 104,
-      "Time": "52:45"
+      "Score": 108,
+      "Time": "54:45"
+    },
+    {
+      "Name": "Geralt de Rivia",
+      "Steam": "76561198334353515",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 37,
-      "Time": "151:11"
+      "Score": 41,
+      "Time": "153:11"
     },
     {
       "Name": "youtube.com/informing",
       "Steam": "76561199581523318",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 18,
-      "Time": "71:18"
+      "Score": 22,
+      "Time": "73:18"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 91,
-      "Time": "22:31"
+      "Score": 95,
+      "Time": "24:31"
     },
     {
       "Name": "linc8ln",
       "Steam": "76561198776685602",
-      "Score": 24,
-      "Time": "96:08"
+      "Score": 25,
+      "Time": "98:08"
     },
     {
       "Name": "Ely",
       "Steam": "76561199091350260",
-      "Score": 45,
+      "Score": 47,
       "Time": "??:??"
     }
   ]
