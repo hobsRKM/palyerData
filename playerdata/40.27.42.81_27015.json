@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-21T18:20:57.1178934Z",
+  "Time": "2026-06-21T18:22:57.1114359Z",
   "Players": [
+    {
+      "Name": "kiki",
+      "Steam": "76561198691175241",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 10,
-      "Time": "01:04"
+      "Score": 16,
+      "Time": "03:04"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 20,
-      "Time": "12:57"
+      "Score": 27,
+      "Time": "14:57"
     },
     {
       "Name": "Shux",
@@ -22,43 +28,37 @@
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 28,
-      "Time": "51:04"
-    },
-    {
-      "Name": "big ass penguin",
-      "Steam": "76561199387058491",
       "Score": 39,
-      "Time": "14:15"
+      "Time": "53:04"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 83,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "rain likes young boys",
       "Steam": "76561199490489548",
-      "Score": 51,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "angelica",
       "Steam": "76561199798812373",
-      "Score": 84,
+      "Score": 91,
       "Time": "??:??"
     },
     {
       "Name": "Travis",
       "Steam": "76561198686860482",
-      "Score": 26,
-      "Time": "30:28"
+      "Score": 29,
+      "Time": "32:28"
     },
     {
       "Name": "airlagger",
       "Steam": "76561199845181435",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
