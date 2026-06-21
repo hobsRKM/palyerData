@@ -1,28 +1,40 @@
 {
-  "Time": "2026-06-21T14:34:57.1173762Z",
+  "Time": "2026-06-21T14:36:57.1194772Z",
   "Players": [
+    {
+      "Name": "https://gamesense.pub/",
+      "Steam": "76561199336704615",
+      "Score": 22,
+      "Time": "01:23"
+    },
     {
       "Name": "JAKE",
       "Steam": "76561198343112799",
-      "Score": 19,
-      "Time": "04:17"
+      "Score": 29,
+      "Time": "06:17"
     },
     {
       "Name": "big ass penguin",
       "Steam": "76561199387058491",
-      "Score": 38,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "对不起，清美",
       "Steam": "76561198687653741",
-      "Score": 7,
-      "Time": "05:23"
+      "Score": 9,
+      "Time": "07:23"
     },
     {
-      "Name": "☆Estro☆ TwinkySuccubus!",
+      "Name": "Good luck",
+      "Steam": "76561198687350626",
+      "Score": 0,
+      "Time": "00:41"
+    },
+    {
+      "Name": "☆Estrogen.wtf☆ TwinkySuccubus!",
       "Steam": "76561198741678145",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
@@ -34,13 +46,19 @@
     {
       "Name": "Ducky ✞",
       "Steam": "76561199519306868",
-      "Score": 47,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "sentinel",
       "Steam": "76561198695256583",
-      "Score": 2,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "soon",
+      "Steam": "76561199889408603",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
