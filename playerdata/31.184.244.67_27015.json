@@ -1,16 +1,28 @@
 {
-  "Time": "2026-06-21T18:39:10.8160811Z",
+  "Time": "2026-06-21T18:41:10.8105826Z",
   "Players": [
+    {
+      "Name": "Lars",
+      "Steam": "76561199082073582",
+      "Score": 2,
+      "Time": "30:18"
+    },
     {
       "Name": "koiso",
       "Steam": "76561198696715726",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "lightningspeed.xyz",
       "Steam": "76561199234790896",
-      "Score": 16,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "https://ezfrags.online/",
+      "Steam": "76561198695692300",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
