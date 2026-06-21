@@ -1,6 +1,12 @@
 {
-  "Time": "2026-06-21T13:24:57.1131848Z",
+  "Time": "2026-06-21T13:26:57.120595Z",
   "Players": [
+    {
+      "Name": "B",
+      "Steam": "76561197973605723",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Xero",
       "Steam": "76561199703387534",
@@ -10,26 +16,20 @@
     {
       "Name": "对不起，清美",
       "Steam": "76561198687653741",
-      "Score": 2,
-      "Time": "02:34"
+      "Score": 4,
+      "Time": "04:34"
     },
     {
       "Name": "linc8ln",
       "Steam": "76561198776685602",
-      "Score": 36,
-      "Time": "14:59"
-    },
-    {
-      "Name": "Lord Cota",
-      "Steam": "76561198886680803",
-      "Score": 64,
-      "Time": "??:??"
+      "Score": 1,
+      "Time": "16:59"
     },
     {
       "Name": "Spinning Till we Dizzy",
       "Steam": "76561198174493433",
-      "Score": 40,
-      "Time": "11:39"
+      "Score": 12,
+      "Time": "13:39"
     },
     {
       "Name": "profit",
@@ -40,7 +40,7 @@
     {
       "Name": "enigma hvh 2.0 user",
       "Steam": "76561198764305903",
-      "Score": 77,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
