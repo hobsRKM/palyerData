@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-21T21:16:34.2951976Z",
-  "Players": []
+  "Time": "2026-06-21T21:18:03.3046547Z",
+  "Players": [
+    {
+      "Name": "hocus pocus",
+      "Steam": "76561199888197236",
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mr.newtown",
+      "Steam": "76561198288472875",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Monkey",
+      "Steam": "76561198712790870",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "caccbobby",
+      "Steam": "76561198742092421",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "plaguemogger",
+      "Steam": "76561198684006261",
+      "Score": 17,
+      "Time": "35:52"
+    },
+    {
+      "Name": "AKH",
+      "Steam": "76561197971640439",
+      "Score": 36,
+      "Time": "??:??"
+    }
+  ]
 }
