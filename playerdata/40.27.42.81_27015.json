@@ -1,46 +1,70 @@
 {
-  "Time": "2026-06-21T10:34:57.1125948Z",
+  "Time": "2026-06-21T10:36:57.1167382Z",
   "Players": [
+    {
+      "Name": "B",
+      "Steam": "76561197973605723",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "https://gamesense.pub/",
       "Steam": "76561199336704615",
       "Score": 9,
-      "Time": "18:34"
+      "Time": "20:34"
     },
     {
       "Name": "Xero",
       "Steam": "76561199703387534",
-      "Score": 21,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "1tap",
       "Steam": "76561199010124305",
-      "Score": 25,
+      "Score": 37,
       "Time": "??:??"
+    },
+    {
+      "Name": "Pilaf",
+      "Steam": "76561198768350810",
+      "Score": 0,
+      "Time": "01:30"
     },
     {
       "Name": "2k17nxilo",
       "Steam": "76561199642061793",
-      "Score": 37,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "0q84",
       "Steam": "76561198686729579",
-      "Score": 0,
-      "Time": "02:14"
+      "Score": 2,
+      "Time": "04:14"
     },
     {
       "Name": "Akhmed",
       "Steam": "76561198097644982",
-      "Score": 21,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "meow",
       "Steam": "76561198766896867",
-      "Score": 2,
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "yanrewatching",
+      "Steam": "76561198701366920",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Woah",
+      "Steam": "76561199680083874",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
