@@ -1,35 +1,29 @@
 {
-  "Time": "2026-06-21T20:22:03.3003481Z",
+  "Time": "2026-06-21T20:22:25.7400192Z",
   "Players": [
     {
-      "Name": ".",
-      "Steam": "76561198693112111",
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 39,
+      "Time": "28:10"
+    },
+    {
+      "Name": "says0",
+      "Steam": "76561198730101311",
+      "Score": 36,
+      "Time": "33:49"
+    },
+    {
+      "Name": "Istv",
+      "Steam": "76561199381810676",
+      "Score": 0,
+      "Time": "00:03"
+    },
+    {
+      "Name": "Donk",
+      "Steam": "76561198682967612",
       "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "TheHolyHolocaust",
-      "Steam": "76561199871315640",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Albert Wesker",
-      "Steam": "76561199506246946",
-      "Score": 49,
-      "Time": "??:??"
-    },
-    {
-      "Name": "meow",
-      "Steam": "76561198785976863",
-      "Score": 56,
-      "Time": "??:??"
-    },
-    {
-      "Name": "lilith best nightmare",
-      "Steam": "76561198683235871",
-      "Score": 30,
-      "Time": "310:35"
     }
   ]
 }
