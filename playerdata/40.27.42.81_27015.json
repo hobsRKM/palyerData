@@ -1,71 +1,77 @@
 {
-  "Time": "2026-06-21T01:23:02.3629076Z",
+  "Time": "2026-06-21T01:25:02.3557319Z",
   "Players": [
+    {
+      "Name": "BS_Official",
+      "Steam": "76561198748012660",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 27,
-      "Time": "09:14"
+      "Score": 35,
+      "Time": "11:14"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 8,
-      "Time": "66:59"
+      "Score": 2,
+      "Time": "68:59"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
-      "Score": 31,
-      "Time": "111:13"
+      "Score": 43,
+      "Time": "113:13"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 27,
-      "Time": "14:02"
+      "Score": 28,
+      "Time": "16:02"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 9,
-      "Time": "10:22"
+      "Score": 15,
+      "Time": "12:21"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 31,
-      "Time": "32:41"
+      "Score": 38,
+      "Time": "34:41"
     },
     {
       "Name": "JAKE",
       "Steam": "76561198343112799",
-      "Score": 4,
-      "Time": "01:09"
-    },
-    {
-      "Name": "Vonrasco",
-      "Steam": "76561199681914198",
-      "Score": 52,
-      "Time": "??:??"
+      "Score": 15,
+      "Time": "03:09"
     },
     {
       "Name": "KERPETEN ALİ",
       "Steam": "76561198413619077",
-      "Score": 58,
-      "Time": "206:07"
+      "Score": 4,
+      "Time": "208:07"
     },
     {
       "Name": "pimpnameslick78",
       "Steam": "76561198684935733",
-      "Score": 8,
-      "Time": "26:19"
+      "Score": 10,
+      "Time": "28:19"
     },
     {
       "Name": "coma",
       "Steam": "76561199604698135",
       "Score": 5,
-      "Time": "45:05"
+      "Time": "47:05"
     }
   ]
 }
