@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-21T22:52:03.2946759Z",
+  "Time": "2026-06-21T22:52:34.1530963Z",
   "Players": [
     {
-      "Name": "vladislav roslyakov",
-      "Steam": "76561199660700950",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
       "Score": 0,
+      "Time": "311:14"
+    },
+    {
+      "Name": "Frogzx",
+      "Steam": "76561198689860501",
+      "Score": 62,
+      "Time": "07:09"
+    },
+    {
+      "Name": "onajjtamo2",
+      "Steam": "76561198684461667",
+      "Score": 1,
       "Time": "??:??"
     },
     {
-      "Name": "taci caine",
-      "Steam": "76561198978980360",
-      "Score": 36,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Kirk",
-      "Steam": "76561198691523234",
-      "Score": 26,
+      "Name": "zyqr",
+      "Steam": "76561199103153074",
+      "Score": 6,
       "Time": "??:??"
     }
   ]
