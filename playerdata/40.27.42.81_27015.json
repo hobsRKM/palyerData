@@ -1,95 +1,107 @@
 {
-  "Time": "2026-06-21T22:06:57.2250439Z",
+  "Time": "2026-06-21T22:08:57.2237103Z",
   "Players": [
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 0,
+      "Time": "79:20"
+    },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 48,
-      "Time": "80:59"
+      "Score": 64,
+      "Time": "82:59"
     },
     {
       "Name": "lol",
       "Steam": "76561198744402588",
-      "Score": 13,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "otter",
       "Steam": "76561198690518029",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 57,
-      "Time": "251:57"
+      "Score": 65,
+      "Time": "253:57"
     },
     {
       "Name": "profit",
       "Steam": "76561199677060188",
-      "Score": 22,
-      "Time": "97:02"
+      "Score": 23,
+      "Time": "99:02"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 42,
-      "Time": "12:46"
+      "Score": 48,
+      "Time": "14:46"
     },
     {
       "Name": "i suck alot",
       "Steam": "76561199852157645",
       "Score": 8,
-      "Time": "48:13"
+      "Time": "50:13"
     },
     {
       "Name": "Bot Fred",
       "Steam": "76561199013242171",
-      "Score": 9,
+      "Score": 14,
       "Time": "??:??"
+    },
+    {
+      "Name": "muller",
+      "Steam": "76561199158419168",
+      "Score": 0,
+      "Time": "00:07"
     },
     {
       "Name": "Dima",
       "Steam": "76561198774939645",
-      "Score": 10,
-      "Time": "69:04"
+      "Score": 17,
+      "Time": "71:04"
     },
     {
       "Name": "Waller White",
       "Steam": "76561198691560983",
-      "Score": 0,
-      "Time": "02:32"
+      "Score": 1,
+      "Time": "04:32"
     },
     {
       "Name": "ObimihLefttestih",
       "Steam": "76561199388856594",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 33,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 47,
-      "Time": "30:50"
+      "Score": 61,
+      "Time": "32:50"
     },
     {
       "Name": "angelica",
       "Steam": "76561199798812373",
-      "Score": 22,
-      "Time": "124:19"
+      "Score": 37,
+      "Time": "126:19"
     },
     {
       "Name": "BS_Official",
@@ -100,8 +112,8 @@
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 5,
-      "Time": "91:45"
+      "Score": 9,
+      "Time": "93:45"
     }
   ]
 }
