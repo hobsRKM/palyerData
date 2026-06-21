@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-21T01:15:02.3623931Z",
+  "Time": "2026-06-21T01:17:02.3571772Z",
   "Players": [
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
+      "Score": 1,
+      "Time": "03:14"
+    },
+    {
+      "Name": "Razzy~ #Femboy~",
+      "Steam": "76561199653289551",
       "Score": 0,
-      "Time": "01:14"
+      "Time": "??:??"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 19,
-      "Time": "58:59"
+      "Score": 21,
+      "Time": "60:59"
     },
     {
       "Name": "no",
@@ -23,49 +29,49 @@
       "Name": "castle",
       "Steam": "76561198122916495",
       "Score": 16,
-      "Time": "103:13"
+      "Time": "105:13"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 2,
-      "Time": "06:02"
+      "Score": 4,
+      "Time": "08:02"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 0,
-      "Time": "02:22"
+      "Score": 4,
+      "Time": "04:21"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 16,
-      "Time": "24:41"
+      "Score": 27,
+      "Time": "26:41"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 19,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198413619077",
-      "Score": 33,
-      "Time": "198:07"
+      "Score": 43,
+      "Time": "200:07"
     },
     {
       "Name": "pimpnameslick78",
       "Steam": "76561198684935733",
       "Score": 2,
-      "Time": "18:19"
+      "Time": "20:19"
     },
     {
       "Name": "coma",
       "Steam": "76561199604698135",
-      "Score": 0,
-      "Time": "37:05"
+      "Score": 4,
+      "Time": "39:05"
     }
   ]
 }
