@@ -1,53 +1,59 @@
 {
-  "Time": "2026-06-21T04:43:02.4572333Z",
+  "Time": "2026-06-21T04:45:02.4524916Z",
   "Players": [
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 29,
+      "Score": 35,
       "Time": "??:??"
+    },
+    {
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
+      "Score": 8,
+      "Time": "01:56"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 95,
-      "Time": "185:11"
+      "Score": 100,
+      "Time": "187:11"
     },
     {
       "Name": "youtube.com/informing",
       "Steam": "76561199581523318",
-      "Score": 78,
+      "Score": 83,
       "Time": "??:??"
     },
     {
       "Name": "no",
       "Steam": "76561198683897126",
-      "Score": 34,
-      "Time": "23:04"
+      "Score": 36,
+      "Time": "25:04"
     },
     {
       "Name": "333",
       "Steam": "76561199725613843",
-      "Score": 5,
-      "Time": "03:39"
+      "Score": 12,
+      "Time": "05:39"
+    },
+    {
+      "Name": "Soulja Boy",
+      "Steam": "76561199849050111",
+      "Score": 12,
+      "Time": "??:??"
     },
     {
       "Name": "one+",
       "Steam": "76561199442363655",
-      "Score": 35,
-      "Time": "178:23"
+      "Score": 41,
+      "Time": "180:23"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 69,
-      "Time": "105:18"
-    },
-    {
-      "Name": "absolute skywhywalker",
-      "Steam": "76561198730269510",
-      "Score": 3,
-      "Time": "00:56"
+      "Score": 75,
+      "Time": "107:18"
     }
   ]
 }
