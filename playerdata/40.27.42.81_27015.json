@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-21T04:01:02.4321557Z",
+  "Time": "2026-06-21T04:03:02.4338065Z",
   "Players": [
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 75,
-      "Time": "44:45"
+      "Score": 86,
+      "Time": "46:45"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
       "Score": 32,
-      "Time": "143:11"
+      "Time": "145:11"
     },
     {
       "Name": "youtube.com/informing",
       "Steam": "76561199581523318",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "xxx",
+      "Steam": "76561199062058744",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "skoobert",
+      "Steam": "76561199359618052",
+      "Score": 8,
+      "Time": "65:18"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 62,
-      "Time": "14:31"
-    },
-    {
-      "Name": "absolute skywhywalker",
-      "Steam": "76561198730269510",
-      "Score": 7,
-      "Time": "??:??"
+      "Score": 70,
+      "Time": "16:31"
     },
     {
       "Name": "linc8ln",
       "Steam": "76561198776685602",
-      "Score": 14,
-      "Time": "88:08"
+      "Score": 18,
+      "Time": "90:08"
     },
     {
       "Name": "Zhong An Zu Zhi Hu",
@@ -46,7 +52,13 @@
     {
       "Name": "Ely",
       "Steam": "76561199091350260",
-      "Score": 16,
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "weaponized autism",
+      "Steam": "76561198162353986",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
