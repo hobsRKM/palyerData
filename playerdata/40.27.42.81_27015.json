@@ -1,89 +1,101 @@
 {
-  "Time": "2026-06-21T01:41:02.3688914Z",
+  "Time": "2026-06-21T01:43:02.3624443Z",
   "Players": [
+    {
+      "Name": "Gold",
+      "Steam": "76561198948968431",
+      "Score": 0,
+      "Time": "01:08"
+    },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 102,
-      "Time": "27:14"
+      "Score": 110,
+      "Time": "29:14"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 0,
-      "Time": "84:59"
+      "Score": 10,
+      "Time": "86:59"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 87,
+      "Score": 93,
       "Time": "??:??"
     },
     {
-      "Name": "333",
-      "Steam": "76561199725613843",
-      "Score": 0,
-      "Time": "02:43"
+      "Name": "Phillip",
+      "Steam": "76561199268768275",
+      "Score": 2,
+      "Time": "01:40"
     },
     {
-      "Name": "muller",
-      "Steam": "76561199158419168",
-      "Score": 62,
-      "Time": "09:57"
+      "Name": "angelica",
+      "Steam": "76561199798812373",
+      "Score": 0,
+      "Time": "01:26"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 66,
-      "Time": "32:02"
+      "Score": 72,
+      "Time": "34:02"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 4,
-      "Time": "28:22"
+      "Score": 6,
+      "Time": "30:22"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 75,
-      "Time": "50:41"
+      "Score": 79,
+      "Time": "52:41"
     },
     {
       "Name": "JAKE",
       "Steam": "76561198343112799",
-      "Score": 68,
-      "Time": "19:09"
+      "Score": 78,
+      "Time": "21:09"
+    },
+    {
+      "Name": "Боря",
+      "Steam": "76561199565961410",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "keelaware.cc",
       "Steam": "76561198697413492",
-      "Score": 1,
-      "Time": "03:31"
+      "Score": 5,
+      "Time": "05:31"
     },
     {
       "Name": "Woke",
       "Steam": "76561198757941422",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 4,
-      "Time": "00:35"
+      "Score": 6,
+      "Time": "02:35"
     },
     {
       "Name": "coma",
       "Steam": "76561199604698135",
       "Score": 30,
-      "Time": "63:05"
+      "Time": "65:05"
     }
   ]
 }
