@@ -1,23 +1,35 @@
 {
-  "Time": "2026-06-21T00:15:02.3558763Z",
+  "Time": "2026-06-21T00:17:02.3595924Z",
   "Players": [
     {
       "Name": "Ely",
       "Steam": "76561199091350260",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Bot Fred",
       "Steam": "76561199013242171",
-      "Score": 2,
-      "Time": "00:48"
+      "Score": 4,
+      "Time": "02:48"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 32,
+      "Score": 49,
       "Time": "??:??"
+    },
+    {
+      "Name": "Xero",
+      "Steam": "76561199703387534",
+      "Score": 2,
+      "Time": "02:02"
+    },
+    {
+      "Name": "illinios™",
+      "Steam": "76561198787031314",
+      "Score": 3,
+      "Time": "00:59"
     },
     {
       "Name": "Waller White",
@@ -28,62 +40,56 @@
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "linc8ln",
       "Steam": "76561198776685602",
       "Score": 11,
-      "Time": "14:28"
+      "Time": "16:28"
     },
     {
       "Name": "lanza.fig",
       "Steam": "76561198687653741",
       "Score": 4,
-      "Time": "19:29"
-    },
-    {
-      "Name": "Chinese Skeet",
-      "Steam": "76561199055238878",
-      "Score": 10,
-      "Time": "07:43"
+      "Time": "21:29"
     },
     {
       "Name": "angelica",
       "Steam": "76561199798812373",
-      "Score": 20,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "tiger woods",
       "Steam": "76561198707902039",
-      "Score": 30,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "keelaware.cc",
       "Steam": "76561198697413492",
-      "Score": 0,
-      "Time": "06:42"
+      "Score": 6,
+      "Time": "08:42"
     },
     {
       "Name": "Spinning Till we Dizzy",
       "Steam": "76561198174493433",
-      "Score": 0,
-      "Time": "73:08"
+      "Score": 2,
+      "Time": "75:08"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 25,
-      "Time": "14:30"
+      "Score": 47,
+      "Time": "16:30"
     },
     {
       "Name": "pimpnameslick78",
       "Steam": "76561198684935733",
       "Score": 5,
-      "Time": "14:23"
+      "Time": "16:23"
     }
   ]
 }
