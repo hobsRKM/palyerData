@@ -1,6 +1,12 @@
 {
-  "Time": "2026-06-22T14:01:24.0350712Z",
+  "Time": "2026-06-22T14:03:24.0348906Z",
   "Players": [
+    {
+      "Name": "Overwatch",
+      "Steam": "76561198733133567",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "turtle master III",
       "Steam": "76561199522394440",
@@ -8,39 +14,27 @@
       "Time": "??:??"
     },
     {
-      "Name": "riiju",
-      "Steam": "76561198756774114",
-      "Score": 10,
-      "Time": "03:35"
-    },
-    {
       "Name": "Ironic",
       "Steam": "76561199682137830",
-      "Score": 32,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Zoli",
-      "Steam": "76561198733842354",
-      "Score": 27,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "h3w",
       "Steam": "76561198258012633",
-      "Score": 10,
-      "Time": "16:09"
+      "Score": 17,
+      "Time": "18:09"
     },
     {
       "Name": "Hyper",
       "Steam": "76561198767432334",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "aimware ambassador",
       "Steam": "76561198307793152",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     }
   ]
