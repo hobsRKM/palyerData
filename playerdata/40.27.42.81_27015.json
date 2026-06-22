@@ -1,71 +1,77 @@
 {
-  "Time": "2026-06-22T01:14:58.0149031Z",
+  "Time": "2026-06-22T01:16:58.0194045Z",
   "Players": [
     {
       "Name": "neck",
       "Steam": "76561199336704615",
-      "Score": 8,
-      "Time": "42:12"
+      "Score": 2,
+      "Time": "44:12"
     },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 29,
-      "Time": "08:14"
+      "Score": 36,
+      "Time": "10:14"
+    },
+    {
+      "Name": "dream",
+      "Steam": "76561198706868502",
+      "Score": 0,
+      "Time": "00:08"
     },
     {
       "Name": "urboi111231",
       "Steam": "76561198729208506",
-      "Score": 8,
-      "Time": "07:26"
+      "Score": 10,
+      "Time": "09:26"
     },
     {
       "Name": "1tap",
       "Steam": "76561199010124305",
-      "Score": 20,
-      "Time": "28:08"
+      "Score": 22,
+      "Time": "30:08"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 44,
-      "Time": "105:43"
+      "Score": 52,
+      "Time": "107:43"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 37,
-      "Time": "46:40"
+      "Score": 57,
+      "Time": "48:40"
     },
     {
       "Name": "saratoga",
       "Steam": "76561198684854759",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "DoBRiY",
       "Steam": "76561198808436908",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "N1GGARHUNTER",
       "Steam": "76561198774939645",
-      "Score": 16,
-      "Time": "07:51"
+      "Score": 17,
+      "Time": "09:51"
     },
     {
       "Name": "Waller White",
       "Steam": "76561198691560983",
       "Score": 2,
-      "Time": "31:02"
+      "Time": "33:02"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 16,
-      "Time": "185:19"
+      "Score": 28,
+      "Time": "187:19"
     }
   ]
 }
