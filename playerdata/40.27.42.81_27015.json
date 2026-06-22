@@ -1,23 +1,23 @@
 {
-  "Time": "2026-06-22T01:58:58.3314004Z",
+  "Time": "2026-06-22T02:00:58.3683281Z",
   "Players": [
+    {
+      "Name": "Savior",
+      "Steam": "76561198748732304",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 4,
-      "Time": "06:05"
+      "Score": 8,
+      "Time": "08:05"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 30,
-      "Time": "149:44"
-    },
-    {
-      "Name": "ObimihLefttestih",
-      "Steam": "76561199388856594",
-      "Score": 17,
-      "Time": "228:36"
+      "Score": 39,
+      "Time": "151:44"
     },
     {
       "Name": "CEOofCS",
@@ -34,38 +34,38 @@
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 60,
-      "Time": "89:30"
+      "Score": 75,
+      "Time": "91:30"
     },
     {
       "Name": "xopiwal980",
       "Steam": "76561198686128799",
-      "Score": 0,
-      "Time": "19:53"
+      "Score": 4,
+      "Time": "21:53"
     },
     {
       "Name": "Waller White",
       "Steam": "76561198691560983",
-      "Score": 9,
-      "Time": "75:03"
+      "Score": 11,
+      "Time": "77:03"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 39,
-      "Time": "07:57"
+      "Score": 43,
+      "Time": "09:57"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 30,
-      "Time": "06:06"
+      "Score": 46,
+      "Time": "08:06"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
       "Score": 0,
-      "Time": "55:18"
+      "Time": "57:18"
     }
   ]
 }
