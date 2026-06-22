@@ -1,65 +1,71 @@
 {
-  "Time": "2026-06-22T02:14:58.5434791Z",
+  "Time": "2026-06-22T02:16:58.559909Z",
   "Players": [
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 72,
-      "Time": "22:05"
+      "Score": 85,
+      "Time": "24:05"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
       "Score": 102,
-      "Time": "165:44"
+      "Time": "167:44"
+    },
+    {
+      "Name": "Bot Fred",
+      "Steam": "76561199013242171",
+      "Score": 5,
+      "Time": "114:26"
     },
     {
       "Name": "CEOofCS",
       "Steam": "76561199827148907",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 159,
-      "Time": "105:30"
+      "Score": 164,
+      "Time": "107:30"
     },
     {
       "Name": "xopiwal980",
       "Steam": "76561198686128799",
       "Score": 14,
-      "Time": "35:53"
+      "Time": "37:53"
     },
     {
       "Name": "Waller White",
       "Steam": "76561198691560983",
-      "Score": 20,
-      "Time": "91:03"
+      "Score": 22,
+      "Time": "93:03"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 0,
-      "Time": "194:58"
+      "Score": 5,
+      "Time": "196:58"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 79,
-      "Time": "23:58"
+      "Score": 84,
+      "Time": "25:58"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 98,
-      "Time": "22:06"
+      "Score": 112,
+      "Time": "24:06"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 2,
-      "Time": "09:13"
+      "Score": 4,
+      "Time": "11:13"
     }
   ]
 }
