@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-22T19:00:26.2547458Z",
-  "Players": []
+  "Time": "2026-06-22T19:00:48.4454566Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "card;",
+      "Steam": "76561197976232132",
+      "Score": 35,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nothing ever happens",
+      "Steam": "76561198700981102",
+      "Score": 8,
+      "Time": "12:28"
+    },
+    {
+      "Name": "Dimitur berbatov",
+      "Steam": "76561199580618556",
+      "Score": 56,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vance",
+      "Steam": "76561199467504399",
+      "Score": 52,
+      "Time": "06:27"
+    }
+  ]
 }
