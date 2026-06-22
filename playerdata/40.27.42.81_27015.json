@@ -1,28 +1,28 @@
 {
-  "Time": "2026-06-22T14:29:02.6552961Z",
+  "Time": "2026-06-22T14:31:02.648416Z",
   "Players": [
+    {
+      "Name": "r",
+      "Steam": "76561199876077209",
+      "Score": 6,
+      "Time": "01:13"
+    },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Waller White",
       "Steam": "76561198691560983",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "r",
       "Steam": "76561199269423017",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "wowowowowowowowowow",
-      "Steam": "76561198687374799",
-      "Score": 6,
       "Time": "??:??"
     }
   ]
