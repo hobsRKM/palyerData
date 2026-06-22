@@ -1,17 +1,29 @@
 {
-  "Time": "2026-06-22T22:05:24.8556778Z",
+  "Time": "2026-06-22T22:06:26.3517806Z",
   "Players": [
+    {
+      "Name": "tel aviv",
+      "Steam": "76561198752046299",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Israeli Warrior",
+      "Steam": "76561199568496038",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "andreicoroana1",
       "Steam": "76561198683501794",
-      "Score": 18,
-      "Time": "2026-06-22T22:05:24.8556778Z"
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "andreicoroana1",
       "Steam": "76561198684718862",
-      "Score": 12,
-      "Time": "2026-06-22T22:05:24.8556778Z"
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
