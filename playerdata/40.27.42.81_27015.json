@@ -1,65 +1,65 @@
 {
-  "Time": "2026-06-22T18:59:02.6515164Z",
+  "Time": "2026-06-22T19:01:02.6491993Z",
   "Players": [
+    {
+      "Name": "xrc",
+      "Steam": "76561198765332850",
+      "Score": 1,
+      "Time": "01:14"
+    },
     {
       "Name": "pendrblx",
       "Steam": "76561199242698406",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ツ\uD835\uDC6F\uD835\uDC80\uD835\uDC77\uD835\uDC6C\uD835\uDE4Dツ",
-      "Steam": "76561199865495251",
-      "Score": 0,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "r",
       "Steam": "76561199876077209",
-      "Score": 21,
-      "Time": "12:22"
+      "Score": 27,
+      "Time": "14:22"
     },
     {
       "Name": "AceOfSpades | Freaky",
       "Steam": "76561199440340596",
-      "Score": 17,
-      "Time": "04:12"
+      "Score": 19,
+      "Time": "06:12"
     },
     {
       "Name": "I'm hella tight bro",
       "Steam": "76561199453505494",
-      "Score": 1,
-      "Time": "59:09"
+      "Score": 13,
+      "Time": "61:09"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 1,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "rjrjrjrwqrjqwrjqrjwrjarjarjw",
       "Steam": "76561198687374799",
-      "Score": 5,
-      "Time": "06:00"
+      "Score": 2,
+      "Time": "08:00"
+    },
+    {
+      "Name": "Chinese Skeet",
+      "Steam": "76561199055238878",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "gift me NL sub",
       "Steam": "76561199677060188",
       "Score": 0,
-      "Time": "83:56"
+      "Time": "85:56"
     },
     {
       "Name": "Vonrasco",
       "Steam": "76561199681914198",
-      "Score": 17,
-      "Time": "04:57"
-    },
-    {
-      "Name": "muller",
-      "Steam": "76561199158419168",
-      "Score": 110,
-      "Time": "47:08"
+      "Score": 23,
+      "Time": "06:57"
     }
   ]
 }
