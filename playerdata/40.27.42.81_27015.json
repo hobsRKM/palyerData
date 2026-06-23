@@ -1,71 +1,47 @@
 {
-  "Time": "2026-06-23T08:59:05.3825781Z",
+  "Time": "2026-06-23T09:03:04.8608359Z",
   "Players": [
+    {
+      "Name": "Porky fan",
+      "Steam": "76561198339774997",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Waller White",
       "Steam": "76561198691560983",
-      "Score": 4,
-      "Time": "24:34"
+      "Score": 2,
+      "Time": "??:??"
     },
     {
-      "Name": "vitornicolas3007",
-      "Steam": "76561198683515586",
-      "Score": 7,
+      "Name": "r0x",
+      "Steam": "76561197970393276",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "(^-人-^)",
       "Steam": "76561199014766648",
-      "Score": 50,
-      "Time": "46:51"
-    },
-    {
-      "Name": "Low Volume Fapper",
-      "Steam": "76561198278457185",
-      "Score": 7,
-      "Time": "688:53"
-    },
-    {
-      "Name": "Porky fan",
-      "Steam": "76561198339774997",
-      "Score": 53,
-      "Time": "132:13"
-    },
-    {
-      "Name": "Razzy~ #Femboy~",
-      "Steam": "76561199653289551",
-      "Score": 39,
-      "Time": "31:29"
-    },
-    {
-      "Name": "digga",
-      "Steam": "76561198743761579",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
-      "Name": "dead",
-      "Steam": "76561198107434242",
-      "Score": 18,
-      "Time": "??:??"
-    },
-    {
-      "Name": "˗ˏˋ ★ ˎˊ˗",
-      "Steam": "76561199104237724",
-      "Score": 33,
-      "Time": "??:??"
-    },
-    {
-      "Name": "skeet",
-      "Steam": "76561199570311735",
       "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "iyvq",
-      "Steam": "76561199825886598",
-      "Score": 70,
-      "Time": "188:20"
+      "Name": "Razzy~ #Femboy~",
+      "Steam": "76561199653289551",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Low Volume Fapper",
+      "Steam": "76561198278457185",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Боря",
+      "Steam": "76561199565961410",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
