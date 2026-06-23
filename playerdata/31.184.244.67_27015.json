@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-23T20:16:58.8555777Z",
-  "Players": []
+  "Time": "2026-06-23T20:17:14.8082008Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "339:29"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 80,
+      "Time": "30:15"
+    },
+    {
+      "Name": "Ezekiel",
+      "Steam": "76561199873678097",
+      "Score": 32,
+      "Time": "628:38"
+    },
+    {
+      "Name": "NL Bean_",
+      "Steam": "76561199096646407",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Istv",
+      "Steam": "76561199381810676",
+      "Score": 37,
+      "Time": "353:40"
+    },
+    {
+      "Name": "Yoshi finds himself dead",
+      "Steam": "76561199470174099",
+      "Score": 22,
+      "Time": "??:??"
+    }
+  ]
 }
