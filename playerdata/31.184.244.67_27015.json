@@ -1,4 +1,53 @@
 {
-  "Time": "2026-06-23T10:14:58.8450932Z",
-  "Players": []
+  "Time": "2026-06-23T10:15:14.8028022Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "31:38"
+    },
+    {
+      "Name": "Botik",
+      "Steam": "76561199230019305",
+      "Score": 48,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Zoli",
+      "Steam": "76561198733842354",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hamudicalifornia",
+      "Steam": "76561199731740115",
+      "Score": 11,
+      "Time": "59:51"
+    },
+    {
+      "Name": "\uD835\uDE45\uD835\uDE56\uD835\uDE6E",
+      "Steam": "76561198741244592",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ironic",
+      "Steam": "76561199682137830",
+      "Score": 2,
+      "Time": "82:17"
+    },
+    {
+      "Name": "ta3laon",
+      "Steam": "76561198759041038",
+      "Score": 22,
+      "Time": "158:27"
+    },
+    {
+      "Name": "sleep",
+      "Steam": "76561197969086266",
+      "Score": 2,
+      "Time": "63:16"
+    }
+  ]
 }
