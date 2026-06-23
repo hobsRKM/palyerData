@@ -1,4 +1,53 @@
 {
-  "Time": "2026-06-23T06:54:58.8450393Z",
-  "Players": []
+  "Time": "2026-06-23T06:55:14.8110816Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ETERA",
+      "Steam": "76561198769290934",
+      "Score": 45,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ezekiel",
+      "Steam": "76561199873678097",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Flipper23",
+      "Steam": "76561198806792145",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ironic",
+      "Steam": "76561199682137830",
+      "Score": 90,
+      "Time": "??:??"
+    },
+    {
+      "Name": "charlie kirk",
+      "Steam": "76561198682658049",
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Star Ladislav",
+      "Steam": "76561199611423507",
+      "Score": 8,
+      "Time": "04:27"
+    },
+    {
+      "Name": "Hockey Star James",
+      "Steam": "76561199821529132",
+      "Score": 1,
+      "Time": "01:07"
+    }
+  ]
 }
