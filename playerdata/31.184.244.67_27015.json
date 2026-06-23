@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-23T16:32:58.8554984Z",
-  "Players": []
+  "Time": "2026-06-23T16:33:14.8006567Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "115:29"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 8,
+      "Time": "37:06"
+    },
+    {
+      "Name": "Johnny_Sins44",
+      "Steam": "76561199311042991",
+      "Score": 2,
+      "Time": "155:59"
+    },
+    {
+      "Name": "Head Hunter",
+      "Steam": "76561199334969958",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SoftGlow",
+      "Steam": "76561198706976946",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "opice na parnu",
+      "Steam": "76561198751496317",
+      "Score": 8,
+      "Time": "??:??"
+    }
+  ]
 }
