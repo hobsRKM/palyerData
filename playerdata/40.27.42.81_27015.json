@@ -1,71 +1,77 @@
 {
-  "Time": "2026-06-23T06:03:03.4582016Z",
+  "Time": "2026-06-23T06:05:03.4531604Z",
   "Players": [
+    {
+      "Name": "333",
+      "Steam": "76561199725613843",
+      "Score": 26,
+      "Time": "00:16"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 89,
-      "Time": "28:11"
+      "Score": 96,
+      "Time": "30:11"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 33,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "Waller White",
       "Steam": "76561198691560983",
-      "Score": 5,
-      "Time": "17:20"
+      "Score": 9,
+      "Time": "19:20"
     },
     {
-      "Name": "KOTIK",
-      "Steam": "76561198741560496",
+      "Name": "(^-人-^)",
+      "Steam": "76561199014766648",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:06"
     },
     {
       "Name": "zt",
       "Steam": "76561199025057865",
-      "Score": 60,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "Porky fan",
       "Steam": "76561198339774997",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "7",
       "Steam": "76561198776685602",
       "Score": 0,
-      "Time": "88:57"
+      "Time": "90:57"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 77,
-      "Time": "242:35"
+      "Score": 81,
+      "Time": "244:35"
+    },
+    {
+      "Name": "Kone",
+      "Steam": "76561198741057778",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 62,
+      "Score": 67,
       "Time": "??:??"
-    },
-    {
-      "Name": "why",
-      "Steam": "76561198766554190",
-      "Score": 15,
-      "Time": "13:12"
     },
     {
       "Name": "zido",
       "Steam": "76561198685033667",
-      "Score": 54,
-      "Time": "270:56"
+      "Score": 73,
+      "Time": "272:56"
     }
   ]
 }
