@@ -1,40 +1,40 @@
 {
-  "Time": "2026-06-23T14:13:04.8546349Z",
+  "Time": "2026-06-23T14:15:04.9011584Z",
   "Players": [
+    {
+      "Name": "Mr. Rager",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "00:11"
+    },
     {
       "Name": "zero",
       "Steam": "76561199697775639",
       "Score": 18,
-      "Time": "25:03"
+      "Time": "27:03"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 35,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
-      "Score": 27,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "1tap",
       "Steam": "76561199010124305",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "i sit when i ;3",
-      "Steam": "76561198688698762",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
