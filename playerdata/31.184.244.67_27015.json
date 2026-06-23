@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-23T20:20:58.855672Z",
-  "Players": []
+  "Time": "2026-06-23T20:21:14.794378Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "343:29"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 97,
+      "Time": "34:15"
+    },
+    {
+      "Name": "we cool for the summer",
+      "Steam": "76561199699181728",
+      "Score": 0,
+      "Time": "00:53"
+    },
+    {
+      "Name": "dariusake",
+      "Steam": "76561198321287962",
+      "Score": 3,
+      "Time": "635:01"
+    },
+    {
+      "Name": "Yoshi finds himself dead",
+      "Steam": "76561199470174099",
+      "Score": 28,
+      "Time": "??:??"
+    }
+  ]
 }
