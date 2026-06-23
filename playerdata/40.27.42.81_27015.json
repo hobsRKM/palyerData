@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-23T14:15:04.9011584Z",
+  "Time": "2026-06-23T14:17:04.8674761Z",
   "Players": [
     {
       "Name": "Mr. Rager",
       "Steam": "76561199880717233",
-      "Score": 0,
-      "Time": "00:11"
+      "Score": 5,
+      "Time": "02:11"
     },
     {
       "Name": "zero",
       "Steam": "76561199697775639",
-      "Score": 18,
-      "Time": "27:03"
+      "Score": 22,
+      "Time": "29:03"
+    },
+    {
+      "Name": "finn",
+      "Steam": "76561198929413703",
+      "Score": 2,
+      "Time": "00:32"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 40,
+      "Score": 50,
       "Time": "??:??"
     },
     {
@@ -28,12 +34,18 @@
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 44,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "1tap",
       "Steam": "76561199010124305",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "methylenedioxymethamphetamine",
+      "Steam": "76561199480081357",
       "Score": 2,
       "Time": "??:??"
     }
