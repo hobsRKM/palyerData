@@ -1,95 +1,101 @@
 {
-  "Time": "2026-06-22T23:59:02.6636272Z",
+  "Time": "2026-06-23T00:01:02.6667585Z",
   "Players": [
+    {
+      "Name": "1",
+      "Steam": "76561199533217886",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "1tap",
       "Steam": "76561199010124305",
-      "Score": 34,
-      "Time": "20:43"
+      "Score": 46,
+      "Time": "22:43"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 40,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "1TapMonkey",
       "Steam": "76561198734925560",
-      "Score": 10,
-      "Time": "345:39"
+      "Score": 14,
+      "Time": "347:39"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 57,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 30,
-      "Time": "49:36"
+      "Score": 37,
+      "Time": "51:36"
+    },
+    {
+      "Name": "♿︎ keela",
+      "Steam": "76561198697413492",
+      "Score": 0,
+      "Time": "00:18"
     },
     {
       "Name": "Brinda",
       "Steam": "76561199014766648",
-      "Score": 21,
-      "Time": "53:07"
+      "Score": 28,
+      "Time": "55:07"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 34,
-      "Time": "140:34"
+      "Score": 36,
+      "Time": "142:34"
     },
     {
       "Name": "skoobert",
       "Steam": "76561199359618052",
-      "Score": 10,
-      "Time": "15:04"
+      "Score": 17,
+      "Time": "17:04"
     },
     {
       "Name": "dave",
       "Steam": "76561198801685777",
-      "Score": 10,
-      "Time": "05:26"
+      "Score": 12,
+      "Time": "07:26"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
-      "Score": 1,
-      "Time": "67:32"
+      "Score": 2,
+      "Time": "69:32"
     },
     {
       "Name": ":3 nolegit.club",
       "Steam": "76561198684439753",
       "Score": 9,
-      "Time": "08:10"
-    },
-    {
-      "Name": "Verity™",
-      "Steam": "76561198780857663",
-      "Score": 6,
-      "Time": "63:14"
+      "Time": "10:10"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 25,
-      "Time": "157:07"
+      "Score": 28,
+      "Time": "159:07"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 23,
-      "Time": "17:11"
+      "Score": 28,
+      "Time": "19:11"
     }
   ]
 }
