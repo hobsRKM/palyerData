@@ -1,71 +1,77 @@
 {
-  "Time": "2026-06-23T16:13:04.8689017Z",
+  "Time": "2026-06-23T16:15:04.866967Z",
   "Players": [
     {
       "Name": "JPEG",
       "Steam": "76561199827911841",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Phillip",
       "Steam": "76561199268768275",
-      "Score": 1,
-      "Time": "02:11"
+      "Score": 4,
+      "Time": "04:11"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 56,
-      "Time": "21:24"
+      "Score": 62,
+      "Time": "23:24"
     },
     {
       "Name": "gej",
       "Steam": "76561199667484685",
-      "Score": 52,
-      "Time": "57:29"
+      "Score": 66,
+      "Time": "59:29"
     },
     {
       "Name": "Krovler",
       "Steam": "76561198261709145",
-      "Score": 38,
+      "Score": 52,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bianchi",
+      "Steam": "76561199100529786",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Renatti.",
       "Steam": "76561198780713834",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "High_ping_enjöyer420_697",
       "Steam": "76561198689975089",
-      "Score": 31,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Xero",
       "Steam": "76561199703387534",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "zero",
       "Steam": "76561199697775639",
-      "Score": 18,
-      "Time": "32:34"
+      "Score": 19,
+      "Time": "34:34"
     },
     {
       "Name": "finn",
       "Steam": "76561198929413703",
-      "Score": 31,
-      "Time": "116:32"
+      "Score": 40,
+      "Time": "118:32"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 27,
-      "Time": "16:21"
+      "Score": 35,
+      "Time": "18:21"
     }
   ]
 }
