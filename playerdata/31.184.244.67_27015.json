@@ -1,4 +1,23 @@
 {
-  "Time": "2026-06-23T12:32:58.8555318Z",
-  "Players": []
+  "Time": "2026-06-23T12:33:14.7976702Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "169:38"
+    },
+    {
+      "Name": "\uD835\uDD70\uD835\uDD95\uD835\uDD8D\uD835\uDD94\uD835\uDD97\uD835\uDD8A",
+      "Steam": "76561199767711661",
+      "Score": 0,
+      "Time": "03:23"
+    },
+    {
+      "Name": ";unbindadd;quit;disconnect",
+      "Steam": "76561198697735577",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
