@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-23T20:07:04.860148Z",
+  "Time": "2026-06-23T20:09:04.8666898Z",
   "Players": [
-    {
-      "Name": "castle",
-      "Steam": "76561198122916495",
-      "Score": 0,
-      "Time": "01:07"
-    },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 30,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Phillip",
       "Steam": "76561199268768275",
-      "Score": 17,
-      "Time": "19:16"
+      "Score": 18,
+      "Time": "21:16"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561199887239492",
+      "Score": 14,
+      "Time": "01:33"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
+    },
+    {
+      "Name": "methylenedioxymethamphetamine",
+      "Steam": "76561199480081357",
+      "Score": 0,
+      "Time": "01:40"
     }
   ]
 }
