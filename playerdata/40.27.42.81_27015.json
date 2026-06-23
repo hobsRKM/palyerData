@@ -1,71 +1,83 @@
 {
-  "Time": "2026-06-22T23:43:02.6486836Z",
+  "Time": "2026-06-22T23:45:02.6576056Z",
   "Players": [
     {
       "Name": "1tap",
       "Steam": "76561199010124305",
-      "Score": 0,
-      "Time": "04:43"
+      "Score": 8,
+      "Time": "06:43"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "1TapMonkey",
       "Steam": "76561198734925560",
       "Score": 24,
-      "Time": "329:39"
+      "Time": "331:39"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 107,
+      "Score": 113,
       "Time": "??:??"
+    },
+    {
+      "Name": "yanrewatching",
+      "Steam": "76561198701366920",
+      "Score": 0,
+      "Time": "35:36"
     },
     {
       "Name": "Brinda",
       "Steam": "76561199014766648",
       "Score": 80,
-      "Time": "37:07"
+      "Time": "39:07"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 41,
-      "Time": "124:34"
+      "Score": 47,
+      "Time": "126:34"
+    },
+    {
+      "Name": "skoobert",
+      "Steam": "76561199359618052",
+      "Score": 18,
+      "Time": "01:04"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
-      "Score": 6,
-      "Time": "51:32"
+      "Score": 8,
+      "Time": "53:32"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 98,
+      "Score": 109,
       "Time": "??:??"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 3,
-      "Time": "141:07"
+      "Score": 5,
+      "Time": "143:07"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 132,
+      "Score": 135,
       "Time": "??:??"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 5,
-      "Time": "01:11"
+      "Score": 9,
+      "Time": "03:11"
     }
   ]
 }
