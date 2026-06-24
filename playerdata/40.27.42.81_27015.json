@@ -1,59 +1,65 @@
 {
-  "Time": "2026-06-24T13:53:21.3261068Z",
+  "Time": "2026-06-24T13:55:21.4336803Z",
   "Players": [
     {
       "Name": "arianna",
       "Steam": "76561199853965628",
-      "Score": 35,
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rjrjrjrwqrjqwrjqrjwrjrjrjr",
+      "Steam": "76561198687374799",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "yanrewatching",
       "Steam": "76561198701366920",
-      "Score": 49,
-      "Time": "1263:50"
+      "Score": 50,
+      "Time": "1265:50"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 8,
-      "Time": "564:10"
+      "Score": 13,
+      "Time": "566:10"
+    },
+    {
+      "Name": "ella",
+      "Steam": "76561198710887226",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "tree",
       "Steam": "76561198372313615",
-      "Score": 0,
-      "Time": "312:54"
-    },
-    {
-      "Name": "memesense< \uD835\uDD95\uD835\uDD97\uD835\uDD94\uD835\uDD8B\uD835\uDD8E\uD835\uDD99",
-      "Steam": "76561199677060188",
-      "Score": 17,
-      "Time": "779:35"
+      "Score": 10,
+      "Time": "314:54"
     },
     {
       "Name": "r",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "540:14"
+      "Time": "542:14"
     },
     {
       "Name": "hanginonnacrane",
       "Steam": "76561199096269503",
-      "Score": 0,
-      "Time": "1035:16"
+      "Score": 2,
+      "Time": "1037:16"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
-      "Score": 32,
-      "Time": "26:16"
+      "Score": 36,
+      "Time": "28:17"
     },
     {
       "Name": "chinese sweat shop worker",
       "Steam": "76561198685506573",
-      "Score": 73,
-      "Time": "21:36"
+      "Score": 75,
+      "Time": "23:36"
     }
   ]
 }
