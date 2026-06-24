@@ -1,71 +1,83 @@
 {
-  "Time": "2026-06-24T15:27:27.9417175Z",
+  "Time": "2026-06-24T15:29:28.1266564Z",
   "Players": [
+    {
+      "Name": "Mr. Rager",
+      "Steam": "76561199880717233",
+      "Score": 5,
+      "Time": "1164:09"
+    },
     {
       "Name": "first time on gamesense.pub",
       "Steam": "76561198687374799",
-      "Score": 14,
-      "Time": "02:48"
+      "Score": 20,
+      "Time": "04:48"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 98,
-      "Time": "384:08"
+      "Score": 100,
+      "Time": "386:08"
+    },
+    {
+      "Name": "silk",
+      "Steam": "76561198734736041",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "zero",
       "Steam": "76561199697775639",
-      "Score": 13,
-      "Time": "06:29"
+      "Score": 14,
+      "Time": "08:29"
     },
     {
       "Name": "Low Volume Fapper",
       "Steam": "76561198278457185",
-      "Score": 46,
-      "Time": "13:22"
+      "Score": 52,
+      "Time": "15:22"
     },
     {
       "Name": "dark",
       "Steam": "76561199840010586",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 50,
-      "Time": "400:40"
+      "Score": 54,
+      "Time": "402:40"
     },
     {
       "Name": "Guro",
       "Steam": "76561198684646074",
-      "Score": 0,
-      "Time": "814:20"
+      "Score": 3,
+      "Time": "816:20"
     },
     {
       "Name": "kat",
       "Steam": "76561197961697457",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": ":3 nolegit.club",
       "Steam": "76561198684439753",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Mucilaginous",
       "Steam": "76561199148432787",
       "Score": 41,
-      "Time": "37:14"
+      "Time": "39:14"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
       "Score": 39,
-      "Time": "39:13"
+      "Time": "41:14"
     }
   ]
 }
