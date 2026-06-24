@@ -1,6 +1,24 @@
 {
-  "Time": "2026-06-24T01:11:07.1226482Z",
+  "Time": "2026-06-24T01:13:07.1690849Z",
   "Players": [
+    {
+      "Name": "hyphen",
+      "Steam": "76561199082563086",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 6,
+      "Time": "01:33"
+    },
+    {
+      "Name": "https://foid.city",
+      "Steam": "76561199829164814",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Adolf Sphincter",
       "Steam": "76561199588789377",
@@ -10,44 +28,38 @@
     {
       "Name": "marshmallow",
       "Steam": "76561198685104733",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 16,
-      "Time": "90:22"
+      "Score": 23,
+      "Time": "92:22"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
       "Score": 2,
-      "Time": "16:52"
+      "Time": "18:52"
     },
     {
       "Name": ".",
       "Steam": "76561199887239492",
-      "Score": 0,
-      "Time": "00:40"
+      "Score": 10,
+      "Time": "02:40"
     },
     {
       "Name": "hello :3",
       "Steam": "76561199882962470",
-      "Score": 0,
-      "Time": "00:47"
+      "Score": 8,
+      "Time": "02:47"
     },
     {
       "Name": "Akhmed",
       "Steam": "76561198097644982",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "dream",
-      "Steam": "76561198706868502",
-      "Score": 7,
-      "Time": "06:58"
     }
   ]
 }
