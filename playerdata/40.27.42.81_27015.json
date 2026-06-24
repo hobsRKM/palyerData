@@ -1,52 +1,40 @@
 {
-  "Time": "2026-06-24T01:03:07.0821416Z",
+  "Time": "2026-06-24T01:05:07.1023229Z",
   "Players": [
-    {
-      "Name": "Fujino",
-      "Steam": "76561198695257041",
-      "Score": 35,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Naruto Uzumaki",
-      "Steam": "76561199053048408",
-      "Score": 15,
-      "Time": "10:33"
-    },
     {
       "Name": "NXC | ShadowSpecter",
       "Steam": "76561198748012660",
       "Score": 62,
-      "Time": "35:31"
+      "Time": "37:31"
     },
     {
       "Name": "marshmallow",
       "Steam": "76561198685104733",
-      "Score": 81,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 52,
-      "Time": "82:22"
+      "Score": 62,
+      "Time": "84:22"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 80,
-      "Time": "111:30"
+      "Score": 91,
+      "Time": "113:30"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 27,
-      "Time": "08:52"
+      "Score": 29,
+      "Time": "10:52"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -54,6 +42,12 @@
       "Steam": "76561199882962470",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "dream",
+      "Steam": "76561198706868502",
+      "Score": 51,
+      "Time": "00:58"
     }
   ]
 }
