@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-24T16:26:08.7479314Z",
-  "Players": []
+  "Time": "2026-06-24T16:26:14.9880541Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sila",
+      "Steam": "76561198710640093",
+      "Score": 2,
+      "Time": "06:28"
+    },
+    {
+      "Name": "draxy",
+      "Steam": "76561199823330532",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDCDD\uD835\uDCEE\uD835\uDCEC\uD835\uDCFB\uD835\uDCF8\uD835\uDCFC",
+      "Steam": "76561198171738903",
+      "Score": 0,
+      "Time": "01:16"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LEZ",
+      "Steam": "76561198137959702",
+      "Score": 6,
+      "Time": "10:10"
+    }
+  ]
 }
