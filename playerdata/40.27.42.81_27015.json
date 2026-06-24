@@ -1,65 +1,71 @@
 {
-  "Time": "2026-06-24T02:05:07.9619411Z",
+  "Time": "2026-06-24T02:07:08.0508775Z",
   "Players": [
     {
       "Name": "r",
       "Steam": "76561199876077209",
-      "Score": 62,
-      "Time": "40:57"
+      "Score": 66,
+      "Time": "42:58"
+    },
+    {
+      "Name": "hyphen",
+      "Steam": "76561199082563086",
+      "Score": 5,
+      "Time": "00:30"
     },
     {
       "Name": "ducky",
       "Steam": "76561199041919222",
-      "Score": 49,
-      "Time": "09:11"
+      "Score": 53,
+      "Time": "11:11"
     },
     {
       "Name": "https://foid.city",
       "Steam": "76561199829164814",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 79,
-      "Time": "09:40"
+      "Score": 87,
+      "Time": "11:40"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 47,
-      "Time": "144:23"
+      "Score": 52,
+      "Time": "146:23"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 66,
-      "Time": "35:38"
+      "Score": 77,
+      "Time": "37:38"
     },
     {
       "Name": "dis wigga",
       "Steam": "76561198778858191",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 56,
-      "Time": "70:52"
+      "Score": 66,
+      "Time": "72:53"
     },
     {
       "Name": ".",
       "Steam": "76561199887239492",
-      "Score": 16,
-      "Time": "21:38"
+      "Score": 3,
+      "Time": "23:38"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 18,
-      "Time": "16:57"
+      "Score": 28,
+      "Time": "18:57"
     },
     {
       "Name": "Archasis",
@@ -70,20 +76,20 @@
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 66,
-      "Time": "20:17"
+      "Score": 68,
+      "Time": "22:17"
     },
     {
       "Name": "occupance",
       "Steam": "76561198693328657",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "decode67",
       "Steam": "76561199803595505",
-      "Score": 3,
-      "Time": "03:00"
+      "Score": 5,
+      "Time": "05:00"
     }
   ]
 }
