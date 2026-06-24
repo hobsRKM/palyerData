@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-24T02:56:58.8484771Z",
-  "Players": []
+  "Time": "2026-06-24T02:57:14.7965558Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "739:29"
+    },
+    {
+      "Name": "Opelkin",
+      "Steam": "76561199613834140",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Source 2 Scientist",
+      "Steam": "76561198696743797",
+      "Score": 164,
+      "Time": "152:45"
+    },
+    {
+      "Name": "hatip19071",
+      "Steam": "76561198698325760",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Buggy",
+      "Steam": "76561198974777067",
+      "Score": 25,
+      "Time": "149:52"
+    },
+    {
+      "Name": "opsec demon",
+      "Steam": "76561199516426085",
+      "Score": 4,
+      "Time": "50:21"
+    }
+  ]
 }
