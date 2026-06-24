@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-24T03:43:09.5128926Z",
+  "Time": "2026-06-24T03:45:09.5516565Z",
   "Players": [
+    {
+      "Name": "justsinbigdog",
+      "Steam": "76561198710255640",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "pendrblx",
       "Steam": "76561199242698406",
-      "Score": 19,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 36,
-      "Time": "116:14"
+      "Score": 48,
+      "Time": "118:14"
     },
     {
       "Name": "Autorun",
@@ -29,19 +35,25 @@
       "Name": "tuff eboy",
       "Steam": "76561198681915731",
       "Score": 7,
-      "Time": "59:11"
+      "Time": "61:11"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 78,
-      "Time": "133:40"
+      "Score": 83,
+      "Time": "135:40"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 23,
+      "Score": 39,
       "Time": "??:??"
+    },
+    {
+      "Name": "methylenedioxymethamphetamine",
+      "Steam": "76561199480081357",
+      "Score": 6,
+      "Time": "00:33"
     }
   ]
 }
