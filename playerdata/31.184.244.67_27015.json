@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-25T23:02:01.4700567Z",
-  "Players": []
+  "Time": "2026-06-25T23:03:02.3258788Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "411:19"
+    },
+    {
+      "Name": "Mr.Meowers",
+      "Steam": "76561198414554416",
+      "Score": 0,
+      "Time": "224:32"
+    },
+    {
+      "Name": "JPEG",
+      "Steam": "76561199827911841",
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "netsu",
+      "Steam": "76561199861560889",
+      "Score": 50,
+      "Time": "51:04"
+    },
+    {
+      "Name": "fatality.win BUSKIMANO",
+      "Steam": "76561199217772695",
+      "Score": 0,
+      "Time": "17:09"
+    },
+    {
+      "Name": "swe.hvh",
+      "Steam": "76561199516412968",
+      "Score": 58,
+      "Time": "??:??"
+    }
+  ]
 }
