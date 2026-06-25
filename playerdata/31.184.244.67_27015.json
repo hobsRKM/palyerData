@@ -1,4 +1,41 @@
 {
-  "Time": "2026-06-25T21:10:01.4700094Z",
-  "Players": []
+  "Time": "2026-06-25T21:11:02.3250648Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "299:19"
+    },
+    {
+      "Name": "Japocoaie",
+      "Steam": "76561199172819056",
+      "Score": 0,
+      "Time": "12:04"
+    },
+    {
+      "Name": "† χ₤₦⌀ † Tbbツ",
+      "Steam": "76561199867012215",
+      "Score": 82,
+      "Time": "??:??"
+    },
+    {
+      "Name": "anacarolina",
+      "Steam": "76561198258182579",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vladimir Vladimirovich",
+      "Steam": "76561199573143107",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cat",
+      "Steam": "76561198966983794",
+      "Score": 3,
+      "Time": "??:??"
+    }
+  ]
 }
