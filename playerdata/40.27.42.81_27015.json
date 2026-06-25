@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-25T03:55:04.5378416Z",
+  "Time": "2026-06-25T03:57:04.537644Z",
   "Players": [
+    {
+      "Name": "oouu shiii",
+      "Steam": "76561198141093887",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "marshmallow",
       "Steam": "76561198685104733",
-      "Score": 70,
-      "Time": "59:03"
+      "Score": 78,
+      "Time": "61:03"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 56,
-      "Time": "43:29"
+      "Score": 71,
+      "Time": "45:29"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 33,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 15,
-      "Time": "19:40"
+      "Score": 21,
+      "Time": "21:40"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 2,
-      "Time": "01:55"
+      "Score": 10,
+      "Time": "03:55"
     },
     {
       "Name": "boom",
@@ -40,32 +46,26 @@
     {
       "Name": "Xin Lỗi Vì Đã Đến",
       "Steam": "76561198727250881",
-      "Score": 28,
-      "Time": "09:56"
+      "Score": 31,
+      "Time": "11:56"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 42,
+      "Score": 50,
       "Time": "??:??"
-    },
-    {
-      "Name": "big ass penguin",
-      "Steam": "76561199387058491",
-      "Score": 0,
-      "Time": "01:08"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 74,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "Adolf Sphincter",
       "Steam": "76561199588789377",
-      "Score": 17,
-      "Time": "04:29"
+      "Score": 21,
+      "Time": "06:29"
     }
   ]
 }
