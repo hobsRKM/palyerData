@@ -1,22 +1,40 @@
 {
-  "Time": "2026-06-25T16:22:01.4680845Z",
+  "Time": "2026-06-25T16:23:02.3164874Z",
   "Players": [
     {
-      "Name": "JPEG",
-      "Steam": "76561199827911841",
-      "Score": 54,
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "11:19"
+    },
+    {
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 60,
       "Time": "??:??"
     },
     {
-      "Name": "Melvola | NlGGER",
-      "Steam": "76561198707454215",
-      "Score": 10,
-      "Time": "31:43"
+      "Name": "Sourcerer",
+      "Steam": "76561199876829872",
+      "Score": 62,
+      "Time": "??:??"
     },
     {
-      "Name": "Apostle♛",
-      "Steam": "76561199684356210",
-      "Score": 15,
+      "Name": "srn",
+      "Steam": "76561198709514675",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Keycappuller",
+      "Steam": "76561198756935918",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "THOMAS",
+      "Steam": "76561198710640093",
+      "Score": 30,
       "Time": "??:??"
     }
   ]
