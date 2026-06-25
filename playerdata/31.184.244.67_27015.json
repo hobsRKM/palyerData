@@ -1,41 +1,83 @@
 {
-  "Time": "2026-06-25T16:37:02.3247676Z",
+  "Time": "2026-06-25T16:38:00.6475884Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
       "Score": 0,
+      "Time": "26:13"
+    },
+    {
+      "Name": "Rs1",
+      "Steam": "76561198728907394",
+      "Score": 29,
+      "Time": "28:32"
+    },
+    {
+      "Name": "WinRAR",
+      "Steam": "76561198684716714",
+      "Score": 11,
+      "Time": "117:18"
+    },
+    {
+      "Name": "murphy",
+      "Steam": "76561199521149106",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Istv",
+      "Steam": "76561199381810676",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198866188172",
+      "Score": 0,
+      "Time": "85:30"
+    },
+    {
+      "Name": "ᵏᵗ Seiðr",
+      "Steam": "76561198333235279",
+      "Score": 113,
       "Time": "25:19"
     },
     {
-      "Name": "FireTVStick",
-      "Steam": "76561199079991406",
-      "Score": 105,
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 88,
+      "Time": "334:37"
+    },
+    {
+      "Name": "Driller 5",
+      "Steam": "76561199853128516",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Sourcerer",
-      "Steam": "76561199876829872",
-      "Score": 152,
+      "Name": "Ironic",
+      "Steam": "76561199682137830",
+      "Score": 1,
+      "Time": "148:49"
+    },
+    {
+      "Name": "w o o d s",
+      "Steam": "76561198707902039",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "srn",
-      "Steam": "76561198709514675",
-      "Score": 43,
+      "Name": "Flipper23",
+      "Steam": "76561198806792145",
+      "Score": 74,
       "Time": "??:??"
     },
     {
-      "Name": "Keycappuller",
-      "Steam": "76561198756935918",
-      "Score": 25,
-      "Time": "??:??"
-    },
-    {
-      "Name": "THOMAS",
-      "Steam": "76561198710640093",
-      "Score": 76,
-      "Time": "??:??"
+      "Name": "Lulleee",
+      "Steam": "76561198701860044",
+      "Score": 9,
+      "Time": "116:30"
     }
   ]
 }
