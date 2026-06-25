@@ -1,29 +1,47 @@
 {
-  "Time": "2026-06-25T23:14:00.665052Z",
+  "Time": "2026-06-25T23:15:02.3178022Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "423:19"
+    },
+    {
+      "Name": "Ksodin",
+      "Steam": "76561199204274952",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "macropeak",
+      "Steam": "76561199774310641",
+      "Score": 11,
+      "Time": "09:58"
+    },
+    {
+      "Name": "srn",
+      "Steam": "76561198709514675",
+      "Score": 15,
+      "Time": "11:03"
+    },
+    {
+      "Name": "Vac Live Agent",
+      "Steam": "76561199856993815",
+      "Score": 26,
+      "Time": "05:01"
+    },
+    {
+      "Name": "netsu",
+      "Steam": "76561199861560889",
+      "Score": 11,
+      "Time": "63:04"
+    },
+    {
+      "Name": "swe.hvh",
+      "Steam": "76561199516412968",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "J O N",
-      "Steam": "76561198888503675",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Rubina",
-      "Steam": "76561199579037683",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Hockey Star James",
-      "Steam": "76561199821529132",
-      "Score": 8,
-      "Time": "135:46"
     }
   ]
 }
