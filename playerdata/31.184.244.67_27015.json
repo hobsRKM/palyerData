@@ -1,34 +1,40 @@
 {
-  "Time": "2026-06-25T16:30:01.4653021Z",
+  "Time": "2026-06-25T16:31:02.3184584Z",
   "Players": [
     {
-      "Name": "JPEG",
-      "Steam": "76561199827911841",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "19:19"
+    },
+    {
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 90,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sourcerer",
+      "Steam": "76561199876829872",
       "Score": 104,
       "Time": "??:??"
     },
     {
-      "Name": "Melvola | NlGGER",
-      "Steam": "76561198707454215",
-      "Score": 14,
-      "Time": "39:43"
-    },
-    {
-      "Name": "[Mon] Trop",
-      "Steam": "76561198210114543",
-      "Score": 4,
+      "Name": "srn",
+      "Steam": "76561198709514675",
+      "Score": 39,
       "Time": "??:??"
     },
     {
-      "Name": "[Mon] nikotin_racoon",
-      "Steam": "76561199240373962",
-      "Score": 12,
+      "Name": "Keycappuller",
+      "Steam": "76561198756935918",
+      "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "jixobo9788",
-      "Steam": "76561198687034939",
-      "Score": 0,
+      "Name": "THOMAS",
+      "Steam": "76561198710640093",
+      "Score": 52,
       "Time": "??:??"
     }
   ]
