@@ -1,41 +1,53 @@
 {
-  "Time": "2026-06-25T04:03:04.5377173Z",
+  "Time": "2026-06-25T04:05:04.5356007Z",
   "Players": [
+    {
+      "Name": "Emi",
+      "Steam": "76561198732187275",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "osu!ri oouu shiii",
       "Steam": "76561198141093887",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 25,
+      "Time": "01:12"
     },
     {
       "Name": "marshmallow",
       "Steam": "76561198685104733",
-      "Score": 95,
-      "Time": "67:03"
+      "Score": 102,
+      "Time": "69:03"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 107,
-      "Time": "51:29"
+      "Score": 116,
+      "Time": "53:29"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 47,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
       "Score": 23,
-      "Time": "27:40"
+      "Time": "29:40"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 24,
-      "Time": "09:55"
+      "Score": 34,
+      "Time": "11:55"
     },
     {
       "Name": "boom",
@@ -47,25 +59,25 @@
       "Name": "Xin Lỗi Vì Đã Đến",
       "Steam": "76561198727250881",
       "Score": 36,
-      "Time": "17:56"
+      "Time": "19:56"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 70,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 112,
+      "Score": 128,
       "Time": "??:??"
     },
     {
       "Name": "Adolf Sphincter",
       "Steam": "76561199588789377",
-      "Score": 29,
-      "Time": "12:29"
+      "Score": 35,
+      "Time": "14:29"
     }
   ]
 }
