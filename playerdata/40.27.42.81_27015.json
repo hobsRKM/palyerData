@@ -1,52 +1,58 @@
 {
-  "Time": "2026-06-25T04:25:04.5381063Z",
+  "Time": "2026-06-25T04:27:04.540984Z",
   "Players": [
     {
-      "Name": "osu!r oouu shiii",
+      "Name": "microsoft word",
+      "Steam": "76561198792568098",
+      "Score": 0,
+      "Time": "01:07"
+    },
+    {
+      "Name": "osu!ri oouu shiii",
       "Steam": "76561198141093887",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 88,
-      "Time": "21:12"
+      "Score": 101,
+      "Time": "23:12"
     },
     {
       "Name": "я бедный",
       "Steam": "76561198699775366",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 41,
-      "Time": "73:29"
+      "Score": 46,
+      "Time": "75:29"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 76,
-      "Time": "31:55"
+      "Score": 78,
+      "Time": "33:55"
     },
     {
       "Name": "low cortisol",
       "Steam": "76561199843239390",
-      "Score": 16,
-      "Time": "11:59"
+      "Score": 19,
+      "Time": "13:59"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 43,
+      "Score": 45,
       "Time": "??:??"
     }
   ]
