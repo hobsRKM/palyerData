@@ -1,53 +1,59 @@
 {
-  "Time": "2026-06-25T23:04:00.6528337Z",
+  "Time": "2026-06-25T23:05:02.3267805Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
+      "Time": "413:19"
+    },
+    {
+      "Name": "Mr.Meowers",
+      "Steam": "76561198414554416",
+      "Score": 9,
+      "Time": "226:32"
+    },
+    {
+      "Name": "Ch4rutOUzUCracK",
+      "Steam": "76561199047597911",
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "bliss",
-      "Steam": "76561199062980285",
-      "Score": 19,
+      "Name": "JPEG",
+      "Steam": "76561199827911841",
+      "Score": 53,
       "Time": "??:??"
     },
     {
-      "Name": "J O N",
-      "Steam": "76561198888503675",
+      "Name": "srn",
+      "Steam": "76561198709514675",
       "Score": 0,
+      "Time": "01:03"
+    },
+    {
+      "Name": "Vac Live Agent",
+      "Steam": "76561199856993815",
+      "Score": 6,
+      "Time": "00:41"
+    },
+    {
+      "Name": "netsu",
+      "Steam": "76561199861560889",
+      "Score": 55,
+      "Time": "53:04"
+    },
+    {
+      "Name": "fatality.win 交易员",
+      "Steam": "76561199217772695",
+      "Score": 0,
+      "Time": "19:09"
+    },
+    {
+      "Name": "swe.hvh",
+      "Steam": "76561199516412968",
+      "Score": 70,
       "Time": "??:??"
-    },
-    {
-      "Name": "ᵏᵗ Seiðr",
-      "Steam": "76561198333235279",
-      "Score": 4,
-      "Time": "52:04"
-    },
-    {
-      "Name": "биньямин нетанья",
-      "Steam": "76561198730260193",
-      "Score": 25,
-      "Time": "104:13"
-    },
-    {
-      "Name": "Rubina",
-      "Steam": "76561199579037683",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "youtube.com/vektus1337",
-      "Steam": "76561199629184110",
-      "Score": 106,
-      "Time": "28:35"
-    },
-    {
-      "Name": "Hockey Star James",
-      "Steam": "76561199821529132",
-      "Score": 107,
-      "Time": "125:46"
     }
   ]
 }
