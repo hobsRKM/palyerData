@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-26T03:35:01.5412955Z",
+  "Time": "2026-06-26T03:37:01.5505353Z",
   "Players": [
     {
       "Name": "cap.a.cit.y.nm.w",
       "Steam": "76561198680699503",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 44,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 31,
-      "Time": "184:56"
+      "Score": 38,
+      "Time": "186:56"
     },
     {
       "Name": "KosMo",
       "Steam": "76561199494175680",
-      "Score": 2,
-      "Time": "01:09"
+      "Score": 4,
+      "Time": "03:09"
     },
     {
       "Name": "ALL IN DRAM",
@@ -34,20 +40,20 @@
     {
       "Name": "stik",
       "Steam": "76561198772709108",
-      "Score": 20,
-      "Time": "13:56"
+      "Score": 21,
+      "Time": "15:56"
     },
     {
       "Name": "methylenedioxymethamphetamine",
       "Steam": "76561199480081357",
-      "Score": 1,
-      "Time": "410:32"
+      "Score": 6,
+      "Time": "412:32"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 20,
-      "Time": "66:43"
+      "Score": 27,
+      "Time": "68:43"
     }
   ]
 }
