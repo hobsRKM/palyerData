@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-26T08:07:02.5596276Z",
+  "Time": "2026-06-26T08:09:02.5994261Z",
   "Players": [
     {
       "Name": "pointlessguy",
       "Steam": "76561198713673806",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 42,
-      "Time": "807:45"
+      "Score": 52,
+      "Time": "809:45"
+    },
+    {
+      "Name": "bunny.wtf",
+      "Steam": "76561199142849496",
+      "Score": 2,
+      "Time": "134:13"
     },
     {
       "Name": "MoVIK",
       "Steam": "76561199105531332",
-      "Score": 5,
-      "Time": "40:33"
+      "Score": 13,
+      "Time": "42:33"
     }
   ]
 }
