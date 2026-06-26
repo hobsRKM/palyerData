@@ -1,59 +1,65 @@
 {
-  "Time": "2026-06-25T23:13:00.9835475Z",
+  "Time": "2026-06-25T23:15:00.9861128Z",
   "Players": [
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 0,
-      "Time": "46:08"
+      "Score": 9,
+      "Time": "48:08"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 1,
-      "Time": "48:18"
+      "Score": 2,
+      "Time": "50:18"
     },
     {
-      "Name": "4M 7κɪɴɢ.  †",
-      "Steam": "76561199207806584",
-      "Score": 0,
+      "Name": "Bobo da Corte",
+      "Steam": "76561198699039272",
+      "Score": 1,
       "Time": "??:??"
+    },
+    {
+      "Name": "Angel",
+      "Steam": "76561199603484458",
+      "Score": 0,
+      "Time": "00:05"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 6,
-      "Time": "46:08"
+      "Score": 10,
+      "Time": "48:08"
     },
     {
       "Name": "saratoga",
       "Steam": "76561198684854759",
+      "Score": 8,
+      "Time": "06:54"
+    },
+    {
+      "Name": "riotsurge",
+      "Steam": "76561198734560736",
       "Score": 2,
-      "Time": "04:54"
+      "Time": "01:24"
     },
     {
       "Name": "Ansi",
       "Steam": "76561199568150325",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 1,
-      "Time": "01:16"
+      "Score": 8,
+      "Time": "03:16"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 0,
-      "Time": "93:16"
-    },
-    {
-      "Name": "anthonywin219",
-      "Steam": "76561198768850609",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 6,
+      "Time": "95:16"
     }
   ]
 }
