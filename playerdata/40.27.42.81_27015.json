@@ -1,71 +1,71 @@
 {
-  "Time": "2026-06-25T23:59:01.0010278Z",
+  "Time": "2026-06-26T00:01:00.989619Z",
   "Players": [
+    {
+      "Name": "xewexclnbux",
+      "Steam": "76561199748840433",
+      "Score": 0,
+      "Time": "122:36"
+    },
     {
       "Name": "Travis",
       "Steam": "76561198686860482",
-      "Score": 3,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "swag",
       "Steam": "76561199051899757",
-      "Score": 46,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "castle",
       "Steam": "76561198129219406",
-      "Score": 18,
-      "Time": "15:03"
+      "Score": 22,
+      "Time": "17:03"
     },
     {
       "Name": "soon",
       "Steam": "76561199889408603",
-      "Score": 10,
-      "Time": "180:21"
+      "Score": 12,
+      "Time": "182:21"
+    },
+    {
+      "Name": "Angel",
+      "Steam": "76561199603484458",
+      "Score": 0,
+      "Time": "01:28"
     },
     {
       "Name": "1TapMonkey",
       "Steam": "76561198734925560",
-      "Score": 23,
-      "Time": "14:53"
+      "Score": 25,
+      "Time": "16:53"
     },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 0,
-      "Time": "02:22"
+      "Score": 2,
+      "Time": "01:50"
     },
     {
       "Name": "NXC | ShadowSpecter",
       "Steam": "76561198748012660",
-      "Score": 2,
-      "Time": "01:55"
-    },
-    {
-      "Name": "bidonnnn.edlp",
-      "Steam": "76561199810642608",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 14,
+      "Time": "03:55"
     },
     {
       "Name": "Боря",
       "Steam": "76561199565961410",
-      "Score": 60,
-      "Time": "19:13"
+      "Score": 71,
+      "Time": "21:13"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 102,
-      "Time": "139:16"
-    },
-    {
-      "Name": "Mr. Rager",
-      "Steam": "76561199880717233",
-      "Score": 6,
-      "Time": "09:23"
+      "Score": 108,
+      "Time": "141:16"
     }
   ]
 }
