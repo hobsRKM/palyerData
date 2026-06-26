@@ -1,47 +1,59 @@
 {
-  "Time": "2026-06-26T02:53:01.4948673Z",
+  "Time": "2026-06-26T02:55:01.5082861Z",
   "Players": [
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 73,
-      "Time": "85:35"
+      "Score": 82,
+      "Time": "87:35"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
       "Score": 56,
-      "Time": "96:46"
+      "Time": "98:46"
     },
     {
       "Name": "bubbas",
       "Steam": "76561199013242171",
-      "Score": 47,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "castle",
       "Steam": "76561198129219406",
-      "Score": 23,
-      "Time": "02:17"
+      "Score": 28,
+      "Time": "04:17"
     },
     {
       "Name": "Pine",
       "Steam": "76561199521162489",
-      "Score": 10,
-      "Time": "03:52"
+      "Score": 11,
+      "Time": "05:52"
     },
     {
       "Name": "анчутка",
       "Steam": "76561198738554709",
-      "Score": 79,
+      "Score": 92,
+      "Time": "??:??"
+    },
+    {
+      "Name": "big ass penguin",
+      "Steam": "76561199387058491",
+      "Score": 0,
+      "Time": "01:43"
+    },
+    {
+      "Name": "dsc.gg/schoolproxies",
+      "Steam": "76561198682760421",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 30,
-      "Time": "24:43"
+      "Score": 36,
+      "Time": "26:43"
     }
   ]
 }
