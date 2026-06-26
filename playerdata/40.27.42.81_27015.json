@@ -1,16 +1,22 @@
 {
-  "Time": "2026-06-26T20:09:08.6712406Z",
+  "Time": "2026-06-26T20:11:08.6766199Z",
   "Players": [
+    {
+      "Name": "wait no way!",
+      "Steam": "76561199411523950",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Karen",
       "Steam": "76561199781553603",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 5,
+      "Score": 11,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 35,
-      "Time": "26:30"
+      "Score": 42,
+      "Time": "28:30"
     },
     {
       "Name": "gamesense",
       "Steam": "76561198353045025",
-      "Score": 28,
+      "Score": 33,
       "Time": "??:??"
     },
     {
@@ -40,7 +46,7 @@
     {
       "Name": "joe",
       "Steam": "76561199724770499",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
@@ -58,19 +64,19 @@
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 50,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 8,
-      "Time": "133:37"
+      "Score": 14,
+      "Time": "135:37"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
