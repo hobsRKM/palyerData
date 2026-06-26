@@ -1,4 +1,53 @@
 {
-  "Time": "2026-06-26T12:01:43.0123187Z",
-  "Players": []
+  "Time": "2026-06-26T12:02:33.1414924Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rudolf",
+      "Steam": "76561198688980037",
+      "Score": 16,
+      "Time": "04:00"
+    },
+    {
+      "Name": "JPEG",
+      "Steam": "76561199827911841",
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Apostle♛",
+      "Steam": "76561199684356210",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Reset",
+      "Steam": "76561199010254074",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "!gamesense",
+      "Steam": "76561198684057349",
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "agent",
+      "Steam": "76561198684713772",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "alUs\uD835\uDCDA\uD835\uDCF2\uD835\uDCF5\uD835\uDCF5\uD835\uDCEE\uD835\uDCFB",
+      "Steam": "76561199405962852",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
