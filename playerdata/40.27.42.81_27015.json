@@ -1,6 +1,12 @@
 {
-  "Time": "2026-06-26T18:13:08.6772419Z",
+  "Time": "2026-06-26T18:15:08.6801729Z",
   "Players": [
+    {
+      "Name": "niko",
+      "Steam": "76561199671799255",
+      "Score": 23,
+      "Time": "01:00"
+    },
     {
       "Name": "castle",
       "Steam": "76561198129219406",
@@ -10,55 +16,55 @@
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 85,
+      "Score": 92,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199837114653",
+      "Score": 100,
+      "Time": "00:02"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 102,
-      "Time": "122:10"
+      "Score": 104,
+      "Time": "124:10"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 69,
-      "Time": "30:10"
+      "Score": 75,
+      "Time": "32:10"
     },
     {
       "Name": "https://foid.city",
       "Steam": "76561199829164814",
-      "Score": 53,
-      "Time": "24:05"
+      "Score": 59,
+      "Time": "26:05"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 32,
-      "Time": "??:??"
-    },
-    {
-      "Name": "IMMORTAL",
-      "Steam": "76561199809736872",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 93,
-      "Time": "72:57"
+      "Score": 95,
+      "Time": "74:57"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 61,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "rain #goatedarab",
       "Steam": "76561199876077209",
-      "Score": 109,
+      "Score": 122,
       "Time": "??:??"
     }
   ]
