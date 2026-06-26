@@ -1,12 +1,6 @@
 {
-  "Time": "2026-06-26T20:15:08.6712763Z",
+  "Time": "2026-06-26T20:17:08.6782205Z",
   "Players": [
-    {
-      "Name": "wait no way!",
-      "Steam": "76561199411523950",
-      "Score": 4,
-      "Time": "??:??"
-    },
     {
       "Name": "Karen",
       "Steam": "76561199781553603",
@@ -16,67 +10,73 @@
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 19,
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "малси лабе",
+      "Steam": "76561198833933247",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 60,
-      "Time": "32:30"
+      "Score": 63,
+      "Time": "34:30"
     },
     {
       "Name": "Steelo",
       "Steam": "76561198707913629",
-      "Score": 0,
-      "Time": "01:13"
+      "Score": 10,
+      "Time": "03:13"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 1,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 1,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "gamesense",
       "Steam": "76561198353045025",
-      "Score": 11,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "No chet",
       "Steam": "76561198683798241",
-      "Score": 21,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "Боря",
       "Steam": "76561199565961410",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 73,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 29,
-      "Time": "139:37"
+      "Score": 39,
+      "Time": "141:37"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     }
   ]
