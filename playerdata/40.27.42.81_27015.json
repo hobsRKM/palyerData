@@ -1,71 +1,53 @@
 {
-  "Time": "2026-06-26T00:01:00.989619Z",
+  "Time": "2026-06-26T00:03:00.9906156Z",
   "Players": [
+    {
+      "Name": "xrc",
+      "Steam": "76561198765332850",
+      "Score": 0,
+      "Time": "00:40"
+    },
     {
       "Name": "xewexclnbux",
       "Steam": "76561199748840433",
       "Score": 0,
-      "Time": "122:36"
-    },
-    {
-      "Name": "Travis",
-      "Steam": "76561198686860482",
-      "Score": 11,
-      "Time": "??:??"
-    },
-    {
-      "Name": "swag",
-      "Steam": "76561199051899757",
-      "Score": 49,
-      "Time": "??:??"
+      "Time": "124:36"
     },
     {
       "Name": "castle",
       "Steam": "76561198129219406",
-      "Score": 22,
-      "Time": "17:03"
+      "Score": 0,
+      "Time": "19:03"
     },
     {
       "Name": "soon",
       "Steam": "76561199889408603",
-      "Score": 12,
-      "Time": "182:21"
+      "Score": 4,
+      "Time": "184:21"
     },
     {
       "Name": "Angel",
       "Steam": "76561199603484458",
-      "Score": 0,
-      "Time": "01:28"
-    },
-    {
-      "Name": "1TapMonkey",
-      "Steam": "76561198734925560",
-      "Score": 25,
-      "Time": "16:53"
-    },
-    {
-      "Name": "Steelo",
-      "Steam": "76561198707913629",
-      "Score": 2,
-      "Time": "01:50"
+      "Score": 4,
+      "Time": "03:28"
     },
     {
       "Name": "NXC | ShadowSpecter",
       "Steam": "76561198748012660",
-      "Score": 14,
-      "Time": "03:55"
+      "Score": 4,
+      "Time": "05:55"
     },
     {
       "Name": "Боря",
       "Steam": "76561199565961410",
-      "Score": 71,
-      "Time": "21:13"
+      "Score": 0,
+      "Time": "23:13"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 108,
-      "Time": "141:16"
+      "Score": 10,
+      "Time": "143:16"
     }
   ]
 }
