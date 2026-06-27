@@ -1,83 +1,89 @@
 {
-  "Time": "2026-06-27T04:33:09.2311976Z",
+  "Time": "2026-06-27T04:35:09.226119Z",
   "Players": [
+    {
+      "Name": "BunkerBro",
+      "Steam": "76561198684355218",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Gonnacry",
       "Steam": "76561198823126559",
-      "Score": 2,
-      "Time": "00:41"
+      "Score": 16,
+      "Time": "02:41"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 51,
-      "Time": "399:48"
+      "Score": 53,
+      "Time": "401:48"
     },
     {
       "Name": "Sadly",
       "Steam": "76561198094259899",
-      "Score": 62,
-      "Time": "178:47"
+      "Score": 66,
+      "Time": "180:47"
     },
     {
       "Name": "333",
       "Steam": "76561199725613843",
-      "Score": 2,
-      "Time": "19:51"
+      "Score": 6,
+      "Time": "21:51"
     },
     {
       "Name": "MoVIK",
       "Steam": "76561199105531332",
-      "Score": 12,
-      "Time": "699:26"
+      "Score": 16,
+      "Time": "701:26"
     },
     {
       "Name": "Daniil",
       "Steam": "76561198797132220",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 87,
-      "Time": "10:42"
+      "Score": 92,
+      "Time": "12:42"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 91,
-      "Time": "262:45"
+      "Score": 96,
+      "Time": "264:45"
     },
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 58,
-      "Time": "225:21"
+      "Score": 60,
+      "Time": "227:21"
     },
     {
       "Name": "s1muas",
       "Steam": "76561198719703493",
-      "Score": 71,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 107,
+      "Score": 112,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 100,
-      "Time": "123:21"
+      "Score": 111,
+      "Time": "125:21"
     }
   ]
 }
