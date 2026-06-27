@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-27T11:04:14.1755367Z",
+  "Time": "2026-06-27T11:06:14.1798974Z",
   "Players": [
+    {
+      "Name": "eses",
+      "Steam": "76561198726214296",
+      "Score": 0,
+      "Time": "00:55"
+    },
     {
       "Name": "PRIVET",
       "Steam": "76561198691804763",
-      "Score": 69,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "User ✡",
       "Steam": "76561198735098292",
-      "Score": 47,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "mars ✡",
       "Steam": "76561198849685336",
-      "Score": 41,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Infantrit",
       "Steam": "76561199827876555",
       "Score": 27,
-      "Time": "09:48"
+      "Time": "11:48"
     },
     {
       "Name": "bl@nk",
@@ -32,15 +38,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "SosiskiKolbaski",
-      "Steam": "76561199745257693",
-      "Score": 17,
-      "Time": "??:??"
-    },
-    {
       "Name": "vacuum cleaner ⛟",
       "Steam": "76561199643232728",
-      "Score": 6,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
