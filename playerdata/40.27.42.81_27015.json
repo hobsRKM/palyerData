@@ -1,47 +1,59 @@
 {
-  "Time": "2026-06-26T23:29:08.6791185Z",
+  "Time": "2026-06-26T23:31:08.6742829Z",
   "Players": [
     {
       "Name": "⋆.*･｡⛧ baz",
       "Steam": "76561199014766648",
-      "Score": 114,
+      "Score": 116,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 78,
-      "Time": "58:12"
+      "Score": 80,
+      "Time": "60:12"
     },
     {
       "Name": "marshmallow",
       "Steam": "76561198685104733",
-      "Score": 76,
+      "Score": 85,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jay",
+      "Steam": "76561199624382024",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 21,
-      "Time": "72:30"
+      "Score": 23,
+      "Time": "74:30"
     },
     {
       "Name": "noxx_",
       "Steam": "76561199884560588",
       "Score": 53,
-      "Time": "37:47"
+      "Time": "39:47"
     },
     {
       "Name": "aerotek",
       "Steam": "76561198431691177",
-      "Score": 74,
-      "Time": "17:52"
+      "Score": 86,
+      "Time": "19:52"
     },
     {
       "Name": "Sadly",
       "Steam": "76561198094259899",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
+    },
+    {
+      "Name": "Woah",
+      "Steam": "76561199680083874",
+      "Score": 2,
+      "Time": "385:38"
     },
     {
       "Name": "soda",
@@ -52,20 +64,20 @@
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 102,
-      "Time": "127:44"
+      "Score": 106,
+      "Time": "129:44"
     },
     {
       "Name": "penthouse",
       "Steam": "76561198122916495",
-      "Score": 2,
-      "Time": "345:10"
+      "Score": 11,
+      "Time": "347:10"
     },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
       "Score": 28,
-      "Time": "84:48"
+      "Time": "86:48"
     },
     {
       "Name": "NXC | ShadowSpecter",
@@ -76,14 +88,14 @@
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 153,
+      "Score": 159,
       "Time": "??:??"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 30,
-      "Time": "10:07"
+      "Score": 32,
+      "Time": "12:07"
     }
   ]
 }
