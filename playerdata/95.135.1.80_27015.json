@@ -1,34 +1,46 @@
 {
-  "Time": "2026-06-27T11:42:14.1761311Z",
+  "Time": "2026-06-27T11:44:14.1750922Z",
   "Players": [
+    {
+      "Name": "Kriebbel",
+      "Steam": "76561198015865781",
+      "Score": 0,
+      "Time": "00:14"
+    },
     {
       "Name": "User ✡",
       "Steam": "76561198735098292",
-      "Score": 57,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "mars ✡",
       "Steam": "76561198849685336",
-      "Score": 38,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "Infantrit",
       "Steam": "76561199827876555",
       "Score": 0,
-      "Time": "47:48"
+      "Time": "49:48"
     },
     {
       "Name": "Vekovniq",
       "Steam": "76561198779886552",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "randomgardd",
       "Steam": "76561198688223017",
-      "Score": 29,
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LastHope",
+      "Steam": "76561199345907245",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
