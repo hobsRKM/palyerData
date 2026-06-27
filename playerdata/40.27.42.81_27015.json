@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-27T03:39:09.0180628Z",
+  "Time": "2026-06-27T03:41:09.059886Z",
   "Players": [
+    {
+      "Name": ">.<",
+      "Steam": "76561198707233563",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "wtf.skoobert.kia",
       "Steam": "76561199359618052",
-      "Score": 31,
-      "Time": "12:44"
+      "Score": 33,
+      "Time": "14:44"
     },
     {
       "Name": "illinios™",
       "Steam": "76561198787031314",
-      "Score": 56,
-      "Time": "345:48"
+      "Score": 66,
+      "Time": "347:48"
     },
     {
       "Name": "Sadly",
       "Steam": "76561198094259899",
       "Score": 23,
-      "Time": "124:47"
+      "Time": "126:47"
     },
     {
       "Name": "Woah",
       "Steam": "76561199680083874",
-      "Score": 51,
-      "Time": "153:29"
+      "Score": 57,
+      "Time": "155:29"
     },
     {
       "Name": "defiye",
@@ -32,22 +38,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "dasggddgsdg",
+      "Steam": "76561199751746252",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 59,
-      "Time": "208:45"
+      "Score": 67,
+      "Time": "210:45"
     },
     {
       "Name": "kaiju764",
       "Steam": "76561199375775741",
-      "Score": 22,
-      "Time": "38:11"
+      "Score": 28,
+      "Time": "40:11"
     },
     {
       "Name": "vduhdddf",
       "Steam": "76561198682731679",
-      "Score": 19,
-      "Time": "161:00"
+      "Score": 22,
+      "Time": "163:00"
     },
     {
       "Name": "aerotek",
@@ -58,14 +70,14 @@
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 58,
-      "Time": "69:21"
+      "Score": 66,
+      "Time": "71:21"
     },
     {
       "Name": "Huh?",
       "Steam": "76561198733635580",
-      "Score": 15,
-      "Time": "10:43"
+      "Score": 19,
+      "Time": "12:43"
     }
   ]
 }
