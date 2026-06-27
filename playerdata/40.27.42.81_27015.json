@@ -1,77 +1,89 @@
 {
-  "Time": "2026-06-27T21:01:08.5450076Z",
+  "Time": "2026-06-27T21:03:08.5614235Z",
   "Players": [
+    {
+      "Name": "blissserocat",
+      "Steam": "76561198683916383",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 65,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 88,
-      "Time": "87:49"
+      "Score": 104,
+      "Time": "89:49"
     },
     {
       "Name": "BS NayZunTheBest",
       "Steam": "76561199239469507",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 14,
-      "Time": "03:59"
+      "Score": 17,
+      "Time": "05:59"
     },
     {
       "Name": "rain #GoatedArab",
       "Steam": "76561199876077209",
-      "Score": 0,
-      "Time": "17:51"
+      "Score": 5,
+      "Time": "19:51"
     },
     {
       "Name": "Piracy.",
       "Steam": "76561198087545900",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
+    },
+    {
+      "Name": "bako7",
+      "Steam": "76561198688683175",
+      "Score": 2,
+      "Time": "00:15"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 87,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "Hood Hokage",
       "Steam": "76561199661292068",
-      "Score": 52,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "Woah",
       "Steam": "76561199680083874",
-      "Score": 60,
-      "Time": "226:55"
+      "Score": 64,
+      "Time": "228:55"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 73,
-      "Time": "84:48"
+      "Score": 75,
+      "Time": "86:48"
     },
     {
       "Name": "7",
       "Steam": "76561198776685602",
-      "Score": 77,
-      "Time": "102:08"
+      "Score": 80,
+      "Time": "104:08"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
-      "Score": 0,
-      "Time": "40:33"
+      "Score": 2,
+      "Time": "42:33"
     }
   ]
 }
