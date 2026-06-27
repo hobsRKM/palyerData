@@ -1,52 +1,58 @@
 {
-  "Time": "2026-06-27T22:37:08.5529908Z",
+  "Time": "2026-06-27T22:39:08.5550252Z",
   "Players": [
+    {
+      "Name": "sdb",
+      "Steam": "76561198703392706",
+      "Score": 3,
+      "Time": "00:50"
+    },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 96,
-      "Time": "183:49"
+      "Score": 2,
+      "Time": "185:49"
+    },
+    {
+      "Name": "Guro",
+      "Steam": "76561199834410706",
+      "Score": 0,
+      "Time": "01:29"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 123,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Ogait",
       "Steam": "76561198312867447",
-      "Score": 5,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "fenn",
       "Steam": "76561199010808448",
-      "Score": 2,
-      "Time": "33:45"
+      "Score": 1,
+      "Time": "35:45"
     },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
-      "Score": 7,
-      "Time": "17:01"
+      "Score": 1,
+      "Time": "01:19"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 27,
-      "Time": "28:12"
+      "Score": 3,
+      "Time": "30:12"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "xrc",
-      "Steam": "76561198765332850",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -58,20 +64,20 @@
     {
       "Name": "haribolar",
       "Steam": "76561199880348072",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 83,
+      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "castle",
-      "Steam": "76561198122916495",
-      "Score": 0,
-      "Time": "16:29"
+      "Name": "7",
+      "Steam": "76561198776685602",
+      "Score": 4,
+      "Time": "01:36"
     }
   ]
 }
