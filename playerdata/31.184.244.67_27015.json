@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-27T13:54:20.9421203Z",
-  "Players": []
+  "Time": "2026-06-27T13:54:34.7802511Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tiity",
+      "Steam": "76561197988528256",
+      "Score": 93,
+      "Time": "41:12"
+    },
+    {
+      "Name": "SinBladi",
+      "Steam": "76561199419758375",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "salatik aggressive",
+      "Steam": "76561199383131377",
+      "Score": 52,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kriebbel",
+      "Steam": "76561198015865781",
+      "Score": 10,
+      "Time": "04:01"
+    }
+  ]
 }
