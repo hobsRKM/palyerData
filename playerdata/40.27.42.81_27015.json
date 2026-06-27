@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-27T17:09:08.5456758Z",
+  "Time": "2026-06-27T17:11:08.5530164Z",
   "Players": [
+    {
+      "Name": "Malus",
+      "Steam": "76561197984646808",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "rain #goatedarab",
       "Steam": "76561199876077209",
-      "Score": 114,
+      "Score": 128,
       "Time": "??:??"
     },
     {
       "Name": "sxo666",
       "Steam": "76561198693001781",
-      "Score": 38,
-      "Time": "65:33"
+      "Score": 42,
+      "Time": "67:33"
     },
     {
       "Name": "illinois™",
@@ -22,7 +28,7 @@
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 122,
+      "Score": 127,
       "Time": "??:??"
     },
     {
@@ -34,7 +40,7 @@
     {
       "Name": "[peterhook] [peterhook] castle",
       "Steam": "76561198122916495",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
