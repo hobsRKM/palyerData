@@ -1,65 +1,59 @@
 {
-  "Time": "2026-06-27T21:43:08.5523716Z",
+  "Time": "2026-06-27T21:45:08.5532994Z",
   "Players": [
+    {
+      "Name": "sdb",
+      "Steam": "76561198703392706",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 57,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 63,
-      "Time": "129:49"
-    },
-    {
-      "Name": "Butter Dad",
-      "Steam": "76561198255960462",
-      "Score": 2,
-      "Time": "11:13"
+      "Score": 67,
+      "Time": "131:49"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 64,
-      "Time": "45:59"
+      "Score": 77,
+      "Time": "47:59"
     },
     {
       "Name": "Renatti??®",
       "Steam": "76561198748749117",
-      "Score": 20,
-      "Time": "09:56"
+      "Score": 28,
+      "Time": "11:56"
     },
     {
       "Name": "kad?",
       "Steam": "76561199590377764",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
-    },
-    {
-      "Name": "Piracy.",
-      "Steam": "76561198087545900",
-      "Score": 6,
-      "Time": "04:25"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 9,
-      "Time": "04:39"
+      "Score": 15,
+      "Time": "06:39"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
-      "Score": 4,
-      "Time": "35:05"
+      "Score": 0,
+      "Time": "37:05"
     }
   ]
 }
