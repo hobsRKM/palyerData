@@ -1,46 +1,52 @@
 {
-  "Time": "2026-06-27T15:51:08.5500409Z",
+  "Time": "2026-06-27T15:53:08.5510531Z",
   "Players": [
+    {
+      "Name": "Guro",
+      "Steam": "76561199834410706",
+      "Score": 0,
+      "Time": "00:39"
+    },
     {
       "Name": "rain #goatedarab",
       "Steam": "76561199876077209",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 21,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 23,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "7",
       "Steam": "76561198776685602",
-      "Score": 24,
-      "Time": "14:30"
+      "Score": 38,
+      "Time": "16:30"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 35,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "wyatt",
       "Steam": "76561198712611951",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Loner",
       "Steam": "76561199832666438",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
@@ -52,14 +58,14 @@
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Forsaken",
       "Steam": "76561198690501035",
-      "Score": 0,
-      "Time": "01:11"
+      "Score": 2,
+      "Time": "03:11"
     }
   ]
 }
