@@ -1,22 +1,28 @@
 {
-  "Time": "2026-06-27T11:54:14.1787568Z",
+  "Time": "2026-06-27T11:56:14.1817268Z",
   "Players": [
+    {
+      "Name": "oK \uD83D\uDD76",
+      "Steam": "76561199810149143",
+      "Score": 2,
+      "Time": "01:13"
+    },
     {
       "Name": "Infantrit",
       "Steam": "76561199827876555",
       "Score": 0,
-      "Time": "59:48"
+      "Time": "61:48"
     },
     {
       "Name": "Vekovniq",
       "Steam": "76561198779886552",
-      "Score": 38,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "LastHope",
       "Steam": "76561199345907245",
-      "Score": 37,
+      "Score": 47,
       "Time": "??:??"
     }
   ]
