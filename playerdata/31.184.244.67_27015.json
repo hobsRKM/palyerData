@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-28T11:12:09.8934986Z",
-  "Players": []
+  "Time": "2026-06-28T11:12:23.5833676Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "160:39"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ga Spiderman_HVH",
+      "Steam": "76561199362281016",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dextropical",
+      "Steam": "76561198679461483",
+      "Score": 20,
+      "Time": "??:??"
+    }
+  ]
 }
