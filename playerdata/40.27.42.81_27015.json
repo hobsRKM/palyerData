@@ -1,59 +1,71 @@
 {
-  "Time": "2026-06-28T22:18:59.7283023Z",
+  "Time": "2026-06-28T22:20:59.7228714Z",
   "Players": [
+    {
+      "Name": "Woah",
+      "Steam": "76561199680083874",
+      "Score": 22,
+      "Time": "01:30"
+    },
+    {
+      "Name": "riotsurge",
+      "Steam": "76561198734560736",
+      "Score": 0,
+      "Time": "01:24"
+    },
     {
       "Name": "fenn",
       "Steam": "76561199010808448",
-      "Score": 50,
-      "Time": "13:40"
+      "Score": 52,
+      "Time": "15:40"
     },
     {
       "Name": "Ganka",
       "Steam": "76561199685793926",
-      "Score": 38,
-      "Time": "29:16"
+      "Score": 44,
+      "Time": "31:16"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 35,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "⋆.*･｡⛧ baz",
       "Steam": "76561199014766648",
-      "Score": 97,
+      "Score": 106,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 62,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
       "Score": 43,
-      "Time": "47:05"
+      "Time": "49:05"
     },
     {
       "Name": "kẻ sát hại người Do Thá",
       "Steam": "76561198685251277",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 59,
+      "Score": 64,
       "Time": "??:??"
     },
     {
-      "Name": "peace.loose",
-      "Steam": "76561198679887468",
-      "Score": 15,
-      "Time": "??:??"
+      "Name": "fatality Fujino",
+      "Steam": "76561198695257041",
+      "Score": 17,
+      "Time": "00:44"
     }
   ]
 }
