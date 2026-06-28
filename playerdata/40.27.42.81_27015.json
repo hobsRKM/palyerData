@@ -1,40 +1,52 @@
 {
-  "Time": "2026-06-28T16:52:59.7199708Z",
+  "Time": "2026-06-28T16:54:59.7239545Z",
   "Players": [
+    {
+      "Name": "ducky",
+      "Steam": "76561199041919222",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 19,
-      "Time": "27:48"
+      "Score": 21,
+      "Time": "29:48"
+    },
+    {
+      "Name": "um",
+      "Steam": "76561198058972905",
+      "Score": 7,
+      "Time": "00:09"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 0,
-      "Time": "01:11"
+      "Score": 3,
+      "Time": "03:11"
     },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 18,
-      "Time": "10:29"
+      "Score": 26,
+      "Time": "12:29"
     },
     {
       "Name": "fenn",
       "Steam": "76561199010808448",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:18"
     },
     {
       "Name": "skiddy ™ skid.gg <3",
       "Steam": "76561198806497985",
-      "Score": 15,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 10,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
