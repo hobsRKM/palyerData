@@ -1,23 +1,35 @@
 {
-  "Time": "2026-06-28T05:13:08.848343Z",
+  "Time": "2026-06-28T05:15:08.8395151Z",
   "Players": [
     {
-      "Name": "fat Ogait",
+      "Name": "lol",
+      "Steam": "76561198680732763",
+      "Score": 4,
+      "Time": "01:29"
+    },
+    {
+      "Name": "fatality Ogait",
       "Steam": "76561198312867447",
-      "Score": 45,
-      "Time": "04:42"
+      "Score": 50,
+      "Time": "06:42"
+    },
+    {
+      "Name": "brad.",
+      "Steam": "76561198443688642",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 2,
-      "Time": "00:44"
+      "Score": 15,
+      "Time": "02:44"
     },
     {
       "Name": "i_love_vac_bans",
       "Steam": "76561198680699503",
-      "Score": 9,
-      "Time": "650:53"
+      "Score": 15,
+      "Time": "652:53"
     }
   ]
 }
