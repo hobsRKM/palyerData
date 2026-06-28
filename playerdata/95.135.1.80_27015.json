@@ -1,4 +1,35 @@
 {
-  "Time": "2026-06-28T15:25:44.8694084Z",
-  "Players": []
+  "Time": "2026-06-28T15:27:20.1144807Z",
+  "Players": [
+    {
+      "Name": "Liam",
+      "Steam": "76561198745332088",
+      "Score": 7,
+      "Time": "15:41"
+    },
+    {
+      "Name": "PALESTINE",
+      "Steam": "76561198710640093",
+      "Score": 9,
+      "Time": "17:21"
+    },
+    {
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "twitch.tv/flop1x1337",
+      "Steam": "76561199359146855",
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Lisaudid",
+      "Steam": "76561199163039055",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
