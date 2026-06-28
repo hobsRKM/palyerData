@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-28T03:25:08.6344438Z",
+  "Time": "2026-06-28T03:27:08.6419004Z",
   "Players": [
+    {
+      "Name": "1352",
+      "Steam": "76561199013003492",
+      "Score": 4,
+      "Time": "01:39"
+    },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 20,
-      "Time": "38:05"
+      "Score": 25,
+      "Time": "40:05"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 38,
-      "Time": "09:02"
+      "Score": 49,
+      "Time": "11:02"
     },
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 12,
-      "Time": "22:07"
+      "Score": 13,
+      "Time": "24:07"
     },
     {
-      "Name": "fatal Ogait",
+      "Name": "fat Ogait",
       "Steam": "76561198312867447",
       "Score": 0,
-      "Time": "19:16"
+      "Time": "21:16"
     },
     {
       "Name": "144Hz",
       "Steam": "76561198773538295",
-      "Score": 23,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 24,
-      "Time": "18:32"
+      "Score": 32,
+      "Time": "20:32"
     }
   ]
 }
