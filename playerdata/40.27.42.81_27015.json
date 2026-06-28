@@ -1,40 +1,46 @@
 {
-  "Time": "2026-06-28T06:23:08.9502219Z",
+  "Time": "2026-06-28T06:25:08.9545088Z",
   "Players": [
+    {
+      "Name": "microsoft word",
+      "Steam": "76561198792568098",
+      "Score": 0,
+      "Time": "667:48"
+    },
     {
       "Name": "Agony",
       "Steam": "76561198735582746",
-      "Score": 3,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "123",
       "Steam": "76561199830024313",
-      "Score": 81,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 65,
-      "Time": "245:08"
+      "Score": 74,
+      "Time": "247:08"
     },
     {
       "Name": "bunny.wtf",
       "Steam": "76561199142849496",
-      "Score": 86,
-      "Time": "227:59"
+      "Score": 92,
+      "Time": "229:59"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 21,
-      "Time": "42:32"
+      "Score": 24,
+      "Time": "44:32"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 70,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
