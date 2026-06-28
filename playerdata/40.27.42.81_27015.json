@@ -1,53 +1,59 @@
 {
-  "Time": "2026-06-28T04:05:08.731771Z",
+  "Time": "2026-06-28T04:07:08.7420642Z",
   "Players": [
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 85,
-      "Time": "49:02"
+      "Score": 87,
+      "Time": "51:02"
     },
     {
       "Name": "KJVNT",
       "Steam": "76561199242698406",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
-      "Name": "fa Ogait",
+      "Name": "Thieu Ma",
+      "Steam": "76561199181844236",
+      "Score": 1,
+      "Time": "373:21"
+    },
+    {
+      "Name": "fatality Ogait",
       "Steam": "76561198312867447",
       "Score": 21,
-      "Time": "59:16"
+      "Time": "61:16"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "вернулся",
       "Steam": "76561198682365302",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 80,
-      "Time": "58:32"
+      "Score": 84,
+      "Time": "60:32"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 16,
-      "Time": "06:15"
+      "Score": 21,
+      "Time": "08:15"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
       "Score": 0,
-      "Time": "31:13"
+      "Time": "33:13"
     }
   ]
 }
