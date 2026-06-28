@@ -1,4 +1,47 @@
 {
-  "Time": "2026-06-28T11:20:09.8934842Z",
-  "Players": []
+  "Time": "2026-06-28T11:20:23.5895535Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "168:39"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "HABIBI FALIN",
+      "Steam": "76561199754622242",
+      "Score": 42,
+      "Time": "06:47"
+    },
+    {
+      "Name": "dextropical",
+      "Steam": "76561198679461483",
+      "Score": 45,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ᛏᚺᚢᛚᛖ ᛣ\uD83D\uDDE1",
+      "Steam": "76561199814804866",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ach synku, synku\uD83D\uDE2D\uD83D\uDE2D",
+      "Steam": "76561198697190767",
+      "Score": 9,
+      "Time": "??:??"
+    }
+  ]
 }
