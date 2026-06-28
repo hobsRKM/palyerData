@@ -1,35 +1,41 @@
 {
-  "Time": "2026-06-28T06:37:09.00224Z",
+  "Time": "2026-06-28T06:39:09.0013073Z",
   "Players": [
+    {
+      "Name": ".Razzy! #ilikeitupthebutt",
+      "Steam": "76561199653289551",
+      "Score": 0,
+      "Time": "00:23"
+    },
     {
       "Name": "Agony",
       "Steam": "76561198735582746",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "123",
       "Steam": "76561199830024313",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 14,
-      "Time": "259:08"
+      "Score": 18,
+      "Time": "261:08"
     },
     {
       "Name": "bunny.wtf",
       "Steam": "76561199142849496",
-      "Score": 26,
-      "Time": "241:59"
+      "Score": 34,
+      "Time": "243:59"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 15,
-      "Time": "56:32"
+      "Score": 19,
+      "Time": "58:32"
     }
   ]
 }
