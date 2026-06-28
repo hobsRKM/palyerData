@@ -1,34 +1,52 @@
 {
-  "Time": "2026-06-28T15:20:59.7200716Z",
+  "Time": "2026-06-28T15:22:59.7215021Z",
   "Players": [
+    {
+      "Name": "Woah",
+      "Steam": "76561199680083874",
+      "Score": 4,
+      "Time": "01:30"
+    },
     {
       "Name": "B",
       "Steam": "76561197973605723",
-      "Score": 0,
-      "Time": "00:02"
+      "Score": 5,
+      "Time": "02:02"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 64,
-      "Time": "18:52"
+      "Score": 76,
+      "Time": "20:52"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 53,
-      "Time": "65:56"
+      "Score": 61,
+      "Time": "67:56"
     },
     {
       "Name": "wait no way!",
       "Steam": "76561199411523950",
-      "Score": 57,
+      "Score": 60,
       "Time": "??:??"
+    },
+    {
+      "Name": "Jeffrey Epstein",
+      "Steam": "76561197960465034",
+      "Score": 0,
+      "Time": "01:27"
     },
     {
       "Name": "um",
       "Steam": "76561198058972905",
-      "Score": 6,
+      "Score": 0,
+      "Time": "01:07"
+    },
+    {
+      "Name": "cashaargutierrezmore",
+      "Steam": "76561198691817601",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
