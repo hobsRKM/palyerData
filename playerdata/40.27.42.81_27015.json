@@ -1,5 +1,5 @@
 {
-  "Time": "2026-06-28T01:03:08.568541Z",
+  "Time": "2026-06-28T01:05:08.5664232Z",
   "Players": [
     {
       "Name": "Huh?",
@@ -10,25 +10,31 @@
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 19,
-      "Time": "29:02"
+      "Score": 21,
+      "Time": "31:02"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 24,
-      "Time": "08:31"
+      "Score": 30,
+      "Time": "10:31"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 103,
+      "Score": 109,
+      "Time": "??:??"
+    },
+    {
+      "Name": "demouser",
+      "Steam": "76561198821087440",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 60,
+      "Score": 69,
       "Time": "??:??"
     },
     {
@@ -40,32 +46,32 @@
     {
       "Name": "ESTK",
       "Steam": "76561199884720018",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
-      "Name": "um",
-      "Steam": "76561198058972905",
-      "Score": 10,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Cute Spongebob",
       "Steam": "76561198682414626",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "peace.loose",
       "Steam": "76561198679887468",
+      "Score": 2,
+      "Time": "05:09"
+    },
+    {
+      "Name": "shyne",
+      "Steam": "76561199096113124",
       "Score": 0,
-      "Time": "03:09"
+      "Time": "00:34"
     },
     {
       "Name": "haribolar",
       "Steam": "76561199880348072",
       "Score": 4,
-      "Time": "24:24"
+      "Time": "26:24"
     }
   ]
 }
