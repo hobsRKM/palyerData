@@ -1,71 +1,95 @@
 {
-  "Time": "2026-06-28T22:20:59.7228714Z",
+  "Time": "2026-06-28T22:22:59.7335184Z",
   "Players": [
+    {
+      "Name": "jazzer",
+      "Steam": "76561199880348072",
+      "Score": 5,
+      "Time": "01:49"
+    },
     {
       "Name": "Woah",
       "Steam": "76561199680083874",
-      "Score": 22,
-      "Time": "01:30"
+      "Score": 27,
+      "Time": "03:30"
     },
     {
       "Name": "riotsurge",
       "Steam": "76561198734560736",
-      "Score": 0,
-      "Time": "01:24"
+      "Score": 3,
+      "Time": "03:24"
+    },
+    {
+      "Name": "hvh.st",
+      "Steam": "76561199043343049",
+      "Score": 11,
+      "Time": "01:37"
     },
     {
       "Name": "fenn",
       "Steam": "76561199010808448",
-      "Score": 52,
-      "Time": "15:40"
+      "Score": 56,
+      "Time": "17:40"
     },
     {
       "Name": "Ganka",
       "Steam": "76561199685793926",
-      "Score": 44,
-      "Time": "31:16"
+      "Score": 46,
+      "Time": "33:16"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 49,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "⋆.*･｡⛧ baz",
       "Steam": "76561199014766648",
-      "Score": 106,
+      "Score": 124,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 79,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
       "Score": 43,
-      "Time": "49:05"
+      "Time": "51:05"
+    },
+    {
+      "Name": "Plague User",
+      "Steam": "76561198684416569",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "kẻ sát hại người Do Thá",
       "Steam": "76561198685251277",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 64,
+      "Score": 66,
       "Time": "??:??"
     },
     {
-      "Name": "fatality Fujino",
+      "Name": "Chemical",
+      "Steam": "76561199122146999",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "f Fujino",
       "Steam": "76561198695257041",
-      "Score": 17,
-      "Time": "00:44"
+      "Score": 25,
+      "Time": "02:44"
     }
   ]
 }
