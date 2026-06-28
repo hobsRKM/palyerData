@@ -1,4 +1,47 @@
 {
-  "Time": "2026-06-28T10:04:09.8934584Z",
-  "Players": []
+  "Time": "2026-06-28T10:04:23.5943554Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "92:39"
+    },
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Drea GOATSIK",
+      "Steam": "76561199691492611",
+      "Score": 3,
+      "Time": "06:20"
+    },
+    {
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "genius.dll",
+      "Steam": "76561199567729042",
+      "Score": 8,
+      "Time": "02:19"
+    },
+    {
+      "Name": "Lisaudid",
+      "Steam": "76561199163039055",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "draxy",
+      "Steam": "76561199823330532",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
