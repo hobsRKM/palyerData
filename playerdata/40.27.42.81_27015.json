@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-28T19:08:59.721657Z",
+  "Time": "2026-06-28T19:10:59.7126415Z",
   "Players": [
     {
       "Name": "bloggo!",
       "Steam": "76561198712611951",
-      "Score": 37,
+      "Score": 45,
       "Time": "??:??"
+    },
+    {
+      "Name": "bomb squad",
+      "Steam": "76561198697413492",
+      "Score": 0,
+      "Time": "00:21"
     },
     {
       "Name": "asura",
       "Steam": "76561198683380013",
-      "Score": 57,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "rain #GoatedArab",
       "Steam": "76561199876077209",
-      "Score": 70,
-      "Time": "45:20"
+      "Score": 0,
+      "Time": "47:20"
     },
     {
       "Name": "Боря",
@@ -28,38 +34,32 @@
     {
       "Name": "Kiyoshi",
       "Steam": "76561199117778799",
-      "Score": 27,
-      "Time": "11:39"
+      "Score": 32,
+      "Time": "13:39"
     },
     {
       "Name": "coloca o endrick mister",
       "Steam": "76561198684648879",
       "Score": 0,
-      "Time": "13:18"
+      "Time": "15:18"
     },
     {
       "Name": "MistaAuraPeek",
       "Steam": "76561199782650033",
-      "Score": 40,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 33,
-      "Time": "??:??"
-    },
-    {
-      "Name": "disneyy1488",
-      "Steam": "76561199843675081",
-      "Score": 0,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "zero",
       "Steam": "76561199697775639",
-      "Score": 2,
-      "Time": "15:13"
+      "Score": 6,
+      "Time": "17:13"
     }
   ]
 }
