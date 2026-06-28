@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-28T04:55:08.8022711Z",
+  "Time": "2026-06-28T04:57:08.7975222Z",
   "Players": [
     {
       "Name": "gamesense",
       "Steam": "76561199043343049",
-      "Score": 132,
+      "Score": 133,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 73,
+      "Score": 95,
       "Time": "??:??"
     },
     {
-      "Name": "fatality Ogait",
+      "Name": "f Ogait",
       "Steam": "76561198312867447",
       "Score": 0,
-      "Time": "109:16"
+      "Time": "111:16"
+    },
+    {
+      "Name": "Боря",
+      "Steam": "76561199565961410",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "atos",
@@ -28,20 +34,14 @@
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 127,
-      "Time": "108:32"
+      "Score": 133,
+      "Time": "110:32"
     },
     {
       "Name": "xrc",
       "Steam": "76561198765332850",
-      "Score": 92,
-      "Time": "56:16"
-    },
-    {
-      "Name": "yes",
-      "Steam": "76561198122916495",
-      "Score": 0,
-      "Time": "81:13"
+      "Score": 99,
+      "Time": "58:16"
     }
   ]
 }
