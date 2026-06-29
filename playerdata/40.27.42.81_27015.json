@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-29T05:39:01.3874889Z",
+  "Time": "2026-06-29T05:41:01.3916683Z",
   "Players": [
+    {
+      "Name": "johnathon",
+      "Steam": "76561199336126493",
+      "Score": 0,
+      "Time": "00:09"
+    },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 37,
-      "Time": "570:25"
+      "Score": 39,
+      "Time": "572:25"
     },
     {
       "Name": "marshmallow",
       "Steam": "76561198685104733",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 31,
-      "Time": "538:00"
+      "Score": 40,
+      "Time": "540:00"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 50,
-      "Time": "25:51"
+      "Score": 52,
+      "Time": "27:51"
     }
   ]
 }
