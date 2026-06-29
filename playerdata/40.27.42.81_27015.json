@@ -1,23 +1,29 @@
 {
-  "Time": "2026-06-29T16:37:08.3139001Z",
+  "Time": "2026-06-29T16:39:08.3150236Z",
   "Players": [
+    {
+      "Name": "arab",
+      "Steam": "76561198711014843",
+      "Score": 0,
+      "Time": "00:31"
+    },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 0,
-      "Time": "49:19"
+      "Score": 4,
+      "Time": "51:19"
     },
     {
       "Name": "rain #GoatedArab",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "24:32"
+      "Time": "26:32"
     },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
       "Score": 0,
-      "Time": "00:24"
+      "Time": "02:24"
     }
   ]
 }
