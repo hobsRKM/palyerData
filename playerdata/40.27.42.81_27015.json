@@ -1,40 +1,52 @@
 {
-  "Time": "2026-06-29T16:53:08.3029375Z",
+  "Time": "2026-06-29T16:55:08.3112861Z",
   "Players": [
+    {
+      "Name": "Drum and Bass Father",
+      "Steam": "76561199880717233",
+      "Score": 4,
+      "Time": "128:14"
+    },
     {
       "Name": "arab",
       "Steam": "76561198711014843",
-      "Score": 58,
-      "Time": "14:31"
+      "Score": 69,
+      "Time": "16:31"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 44,
-      "Time": "65:19"
+      "Score": 47,
+      "Time": "67:19"
     },
     {
       "Name": "castle",
       "Steam": "76561198122916495",
-      "Score": 8,
-      "Time": "11:24"
+      "Score": 4,
+      "Time": "13:24"
     },
     {
       "Name": "rain #GoatedArab",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "40:32"
+      "Time": "42:32"
     },
     {
       "Name": "7",
       "Steam": "76561198776685602",
-      "Score": 25,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Hello :3",
       "Steam": "76561199882962470",
-      "Score": 4,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "crystal strawberry",
+      "Steam": "76561198756760269",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
