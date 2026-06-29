@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-29T13:21:08.3127936Z",
+  "Time": "2026-06-29T13:23:08.3037463Z",
   "Players": [
     {
       "Name": "bunny.wtf",
       "Steam": "76561199142849496",
-      "Score": 32,
-      "Time": "21:41"
+      "Score": 44,
+      "Time": "23:41"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
+    },
+    {
+      "Name": "troyan.trayanskic",
+      "Steam": "76561198678973691",
+      "Score": 4,
+      "Time": "01:24"
     }
   ]
 }
