@@ -1,34 +1,40 @@
 {
-  "Time": "2026-06-29T16:23:08.3082906Z",
+  "Time": "2026-06-29T16:25:08.3057434Z",
   "Players": [
+    {
+      "Name": "bunny.wtf",
+      "Steam": "76561199142849496",
+      "Score": 2,
+      "Time": "01:18"
+    },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 0,
-      "Time": "35:19"
+      "Score": 5,
+      "Time": "37:19"
     },
     {
       "Name": "rain #GoatedArab",
       "Steam": "76561199876077209",
       "Score": 0,
-      "Time": "10:32"
+      "Time": "12:32"
     },
     {
       "Name": "Redacted",
       "Steam": "76561198262940943",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
       "Score": 2,
-      "Time": "41:51"
+      "Time": "43:51"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 27,
+      "Score": 37,
       "Time": "??:??"
     }
   ]
