@@ -1,76 +1,82 @@
 {
-  "Time": "2026-06-28T23:22:59.7330043Z",
+  "Time": "2026-06-28T23:24:59.7225445Z",
   "Players": [
+    {
+      "Name": "7",
+      "Steam": "76561198776685602",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lilwalkemdown23",
+      "Steam": "76561198742184205",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 3,
-      "Time": "00:39"
+      "Score": 14,
+      "Time": "02:39"
     },
     {
       "Name": "1352",
       "Steam": "76561199013003492",
-      "Score": 6,
-      "Time": "110:21"
+      "Score": 13,
+      "Time": "112:21"
     },
     {
       "Name": "Woah",
       "Steam": "76561199680083874",
-      "Score": 42,
-      "Time": "63:30"
+      "Score": 46,
+      "Time": "65:30"
     },
     {
       "Name": "fenn",
       "Steam": "76561199010808448",
-      "Score": 61,
-      "Time": "77:40"
+      "Score": 70,
+      "Time": "79:40"
     },
     {
       "Name": "Ganka",
       "Steam": "76561199685793926",
       "Score": 54,
-      "Time": "47:55"
+      "Time": "49:55"
     },
     {
       "Name": "Drum and Bass Father",
       "Steam": "76561199880717233",
-      "Score": 15,
-      "Time": "05:59"
+      "Score": 21,
+      "Time": "07:59"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 55,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 99,
-      "Time": "111:05"
+      "Score": 103,
+      "Time": "113:05"
     },
     {
       "Name": "NXC | ShadowSpecter",
       "Steam": "76561198748012660",
-      "Score": 20,
-      "Time": "05:36"
+      "Score": 23,
+      "Time": "07:36"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 51,
+      "Score": 56,
       "Time": "??:??"
-    },
-    {
-      "Name": "peace.loose",
-      "Steam": "76561198679887468",
-      "Score": 25,
-      "Time": "27:09"
     },
     {
       "Name": "Chemical",
       "Steam": "76561199122146999",
-      "Score": 61,
+      "Score": 63,
       "Time": "??:??"
     }
   ]
