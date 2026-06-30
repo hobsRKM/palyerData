@@ -1,29 +1,35 @@
 {
-  "Time": "2026-06-30T11:16:56.7648893Z",
+  "Time": "2026-06-30T11:18:56.7808365Z",
   "Players": [
+    {
+      "Name": "jistu",
+      "Steam": "76561198681411595",
+      "Score": 1,
+      "Time": "01:14"
+    },
     {
       "Name": "M T_z",
       "Steam": "76561198679921962",
-      "Score": 0,
-      "Time": "00:26"
+      "Score": 4,
+      "Time": "02:26"
     },
     {
       "Name": "Student (gyno,skoob,woah,mi)",
       "Steam": "76561198681112584",
-      "Score": 25,
-      "Time": "12:07"
+      "Score": 33,
+      "Time": "14:07"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 106,
+      "Score": 117,
       "Time": "??:??"
     },
     {
       "Name": "10",
       "Steam": "76561198776685602",
-      "Score": 70,
-      "Time": "61:28"
+      "Score": 73,
+      "Time": "63:28"
     },
     {
       "Name": "Fatstoners",
@@ -34,7 +40,19 @@
     {
       "Name": "2012",
       "Steam": "76561198681939111",
-      "Score": 54,
+      "Score": 57,
+      "Time": "??:??"
+    },
+    {
+      "Name": "toilett263",
+      "Steam": "76561199816187575",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "I Am A Deaf Gamer",
+      "Steam": "76561198368861055",
+      "Score": 6,
       "Time": "??:??"
     }
   ]
