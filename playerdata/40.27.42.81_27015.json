@@ -1,16 +1,22 @@
 {
-  "Time": "2026-06-30T22:32:56.7774671Z",
+  "Time": "2026-06-30T22:34:56.7816666Z",
   "Players": [
     {
       "Name": "KAD.",
       "Steam": "76561198767297943",
-      "Score": 13,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Carbon Monoxide v4",
+      "Steam": "76561198722828488",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 9,
+      "Score": 24,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "normal",
       "Steam": "76561199866446233",
-      "Score": 21,
+      "Score": 30,
       "Time": "??:??"
     },
     {
-      "Name": "noxx_",
-      "Steam": "76561199884560588",
-      "Score": 5,
+      "Name": "George Droid",
+      "Steam": "76561199261504232",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -40,19 +46,19 @@
     {
       "Name": "sohyperboi0",
       "Steam": "76561198680325556",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "jazzer (plague alpha)",
       "Steam": "76561199373106234",
-      "Score": 4,
-      "Time": "187:56"
+      "Score": 2,
+      "Time": "189:56"
     },
     {
       "Name": "Jasper",
       "Steam": "76561199049574313",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
