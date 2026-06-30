@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-30T06:37:08.457437Z",
+  "Time": "2026-06-30T06:39:08.448357Z",
   "Players": [
+    {
+      "Name": "Mr",
+      "Steam": "76561199678708032",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 19,
-      "Time": "690:46"
+      "Score": 28,
+      "Time": "692:46"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 24,
-      "Time": "55:46"
+      "Score": 38,
+      "Time": "57:46"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 54,
-      "Time": "381:04"
+      "Score": 58,
+      "Time": "383:04"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 43,
-      "Time": "112:29"
+      "Score": 51,
+      "Time": "114:29"
     },
     {
       "Name": "Guro",
       "Steam": "76561198684646074",
       "Score": 24,
-      "Time": "07:05"
+      "Time": "09:05"
     },
     {
       "Name": "Bob Schneider",
       "Steam": "76561198733311105",
       "Score": 0,
-      "Time": "385:15"
+      "Time": "387:15"
     }
   ]
 }
