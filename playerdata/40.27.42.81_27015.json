@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-30T14:28:56.7750861Z",
+  "Time": "2026-06-30T14:30:56.7708998Z",
   "Players": [
+    {
+      "Name": "bunny.wtf",
+      "Steam": "76561199142849496",
+      "Score": 0,
+      "Time": "00:26"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 6,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "sxo666",
       "Steam": "76561198693001781",
-      "Score": 0,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 2,
-      "Time": "00:54"
+      "Score": 7,
+      "Time": "02:54"
     },
     {
       "Name": "big ass penguin",
       "Steam": "76561199387058491",
-      "Score": 0,
-      "Time": "19:48"
+      "Score": 8,
+      "Time": "21:48"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 4,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": ".//.",
       "Steam": "76561199211502486",
       "Score": 2,
-      "Time": "04:26"
+      "Time": "06:26"
     }
   ]
 }
