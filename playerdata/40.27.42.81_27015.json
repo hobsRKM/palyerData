@@ -1,40 +1,52 @@
 {
-  "Time": "2026-06-30T13:04:56.7722048Z",
+  "Time": "2026-06-30T13:06:56.7759964Z",
   "Players": [
+    {
+      "Name": "M T_z",
+      "Steam": "76561198679921962",
+      "Score": 2,
+      "Time": "00:48"
+    },
+    {
+      "Name": "rorrrrep",
+      "Steam": "76561198775046807",
+      "Score": 1,
+      "Time": "01:33"
+    },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 72,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "10",
       "Steam": "76561198776685602",
-      "Score": 42,
-      "Time": "05:43"
+      "Score": 47,
+      "Time": "07:43"
     },
     {
       "Name": "day",
       "Steam": "76561198685073196",
-      "Score": 41,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 137,
+      "Score": 139,
       "Time": "??:??"
     },
     {
       "Name": "zero",
       "Steam": "76561199697775639",
-      "Score": 56,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "fenn",
       "Steam": "76561199010808448",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     }
   ]
