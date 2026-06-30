@@ -1,28 +1,28 @@
 {
-  "Time": "2026-06-30T15:06:56.7644409Z",
+  "Time": "2026-06-30T15:08:56.7709386Z",
   "Players": [
+    {
+      "Name": "person",
+      "Steam": "76561198698903831",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 32,
-      "Time": "17:13"
-    },
-    {
-      "Name": "silk",
-      "Steam": "76561198734736041",
-      "Score": 27,
-      "Time": "??:??"
+      "Score": 38,
+      "Time": "19:13"
     },
     {
       "Name": "mucinex00",
       "Steam": "76561199870756565",
-      "Score": 16,
-      "Time": "15:26"
+      "Score": 24,
+      "Time": "17:26"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 6,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
