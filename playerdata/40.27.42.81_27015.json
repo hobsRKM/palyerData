@@ -1,17 +1,23 @@
 {
-  "Time": "2026-06-30T19:20:56.771092Z",
+  "Time": "2026-06-30T19:22:56.7734961Z",
   "Players": [
+    {
+      "Name": "vacybabyilove",
+      "Steam": "76561198679327731",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Santiag0",
       "Steam": "76561198127366781",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 7,
-      "Time": "44:05"
+      "Score": 2,
+      "Time": "46:05"
     }
   ]
 }
