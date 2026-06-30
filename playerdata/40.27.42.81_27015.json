@@ -1,46 +1,40 @@
 {
-  "Time": "2026-06-30T11:14:56.7743409Z",
+  "Time": "2026-06-30T11:16:56.7648893Z",
   "Players": [
+    {
+      "Name": "M T_z",
+      "Steam": "76561198679921962",
+      "Score": 0,
+      "Time": "00:26"
+    },
     {
       "Name": "Student (gyno,skoob,woah,mi)",
       "Steam": "76561198681112584",
-      "Score": 19,
-      "Time": "10:07"
-    },
-    {
-      "Name": "Woah",
-      "Steam": "76561199680083874",
-      "Score": 74,
-      "Time": "??:??"
+      "Score": 25,
+      "Time": "12:07"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 100,
+      "Score": 106,
       "Time": "??:??"
     },
     {
       "Name": "10",
       "Steam": "76561198776685602",
-      "Score": 62,
-      "Time": "59:28"
+      "Score": 70,
+      "Time": "61:28"
     },
     {
       "Name": "Fatstoners",
       "Steam": "76561199207830256",
-      "Score": 17,
-      "Time": "??:??"
-    },
-    {
-      "Name": "LastHope",
-      "Steam": "76561199345907245",
-      "Score": 81,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "2012",
       "Steam": "76561198681939111",
-      "Score": 48,
+      "Score": 54,
       "Time": "??:??"
     }
   ]
