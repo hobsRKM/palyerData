@@ -1,16 +1,22 @@
 {
-  "Time": "2026-06-30T19:54:56.768842Z",
+  "Time": "2026-06-30T19:56:56.7790523Z",
   "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561199833397686",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "////////////",
       "Steam": "76561199717470867",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Lord Cota",
       "Steam": "76561198886680803",
-      "Score": 42,
+      "Score": 52,
       "Time": "??:??"
     },
     {
@@ -22,31 +28,31 @@
     {
       "Name": "野牛牛",
       "Steam": "76561199028166126",
-      "Score": 35,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Santiag0",
       "Steam": "76561198127366781",
-      "Score": 46,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
-      "Score": 41,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "john eversio",
       "Steam": "76561199559490329",
-      "Score": 45,
-      "Time": "14:08"
+      "Score": 50,
+      "Time": "16:08"
     },
     {
       "Name": "MistaAuraPeek",
       "Steam": "76561199782650033",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
