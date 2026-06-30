@@ -1,40 +1,64 @@
 {
-  "Time": "2026-06-30T20:36:56.7678961Z",
+  "Time": "2026-06-30T20:38:56.7777592Z",
   "Players": [
     {
       "Name": "Lord Cota",
       "Steam": "76561198886680803",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Quantum Entropy Candle",
+      "Steam": "76561198763517260",
       "Score": 7,
       "Time": "??:??"
     },
     {
+      "Name": "Bazinga!!!",
+      "Steam": "76561198739338949",
+      "Score": 0,
+      "Time": "00:07"
+    },
+    {
+      "Name": "10",
+      "Steam": "76561198776685602",
+      "Score": 0,
+      "Time": "71:25"
+    },
+    {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 28,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 12,
-      "Time": "09:03"
+      "Score": 20,
+      "Time": "11:03"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 5,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kiyoshi",
+      "Steam": "76561199117778799",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
