@@ -1,41 +1,47 @@
 {
-  "Time": "2026-06-30T06:27:08.4359877Z",
+  "Time": "2026-06-30T06:29:08.4239204Z",
   "Players": [
     {
       "Name": "LLL",
       "Steam": "76561198773335872",
-      "Score": 19,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "r0x",
+      "Steam": "76561197970393276",
+      "Score": 0,
+      "Time": "682:46"
     },
     {
       "Name": "jazzer (claude cfg)",
       "Steam": "76561199373106234",
-      "Score": 5,
-      "Time": "22:21"
+      "Score": 7,
+      "Time": "24:21"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 7,
-      "Time": "45:46"
+      "Score": 10,
+      "Time": "47:46"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 16,
-      "Time": "371:04"
+      "Score": 19,
+      "Time": "373:04"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 7,
-      "Time": "102:29"
+      "Score": 15,
+      "Time": "104:29"
     },
     {
       "Name": "Боря",
       "Steam": "76561199565961410",
-      "Score": 2,
-      "Time": "705:02"
+      "Score": 11,
+      "Time": "707:02"
     }
   ]
 }
