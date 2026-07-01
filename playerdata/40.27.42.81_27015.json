@@ -1,46 +1,52 @@
 {
-  "Time": "2026-07-01T20:15:11.5891266Z",
+  "Time": "2026-07-01T20:17:11.5867284Z",
   "Players": [
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 50,
-      "Time": "90:18"
+      "Score": 56,
+      "Time": "92:18"
+    },
+    {
+      "Name": "shyne",
+      "Steam": "76561199096113124",
+      "Score": 0,
+      "Time": "00:22"
     },
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
-      "Score": 6,
-      "Time": "03:33"
+      "Score": 16,
+      "Time": "05:33"
     },
     {
       "Name": "Lord Cota",
       "Steam": "76561198886680803",
-      "Score": 23,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 33,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 23,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 46,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "hell",
       "Steam": "76561198682242874",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -53,7 +59,7 @@
       "Name": "concerning",
       "Steam": "76561198734668878",
       "Score": 0,
-      "Time": "51:05"
+      "Time": "53:05"
     },
     {
       "Name": "Junior .",
@@ -70,14 +76,14 @@
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 31,
-      "Time": "94:48"
+      "Score": 33,
+      "Time": "96:48"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 15,
-      "Time": "04:34"
+      "Score": 23,
+      "Time": "06:34"
     }
   ]
 }
