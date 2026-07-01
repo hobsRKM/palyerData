@@ -1,77 +1,65 @@
 {
-  "Time": "2026-07-01T01:40:57.1751875Z",
+  "Time": "2026-07-01T01:42:57.1871162Z",
   "Players": [
+    {
+      "Name": "Carbon Monoxide v4",
+      "Steam": "76561198722828488",
+      "Score": 0,
+      "Time": "00:54"
+    },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
       "Score": 0,
-      "Time": "00:57"
-    },
-    {
-      "Name": "Bazinga!!!",
-      "Steam": "76561198739338949",
-      "Score": 0,
-      "Time": "10:08"
+      "Time": "02:57"
     },
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
-      "Score": 14,
-      "Time": "07:35"
-    },
-    {
-      "Name": "Q1h0z",
-      "Steam": "76561198179777375",
-      "Score": 10,
-      "Time": "06:34"
+      "Score": 16,
+      "Time": "09:35"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 23,
-      "Time": "08:21"
+      "Score": 29,
+      "Time": "10:21"
     },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "cry yourself to sleep",
       "Steam": "76561198744712586",
-      "Score": 31,
-      "Time": "??:??"
-    },
-    {
-      "Name": "TEXAS ROADHOUSE 10X CHAMPION",
-      "Steam": "76561198843984436",
-      "Score": 10,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "dave",
       "Steam": "76561198801685777",
-      "Score": 0,
-      "Time": "00:14"
+      "Score": 2,
+      "Time": "02:14"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 29,
-      "Time": "14:32"
+      "Score": 33,
+      "Time": "16:32"
     },
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 20,
-      "Time": "12:21"
+      "Score": 23,
+      "Time": "14:21"
     }
   ]
 }
