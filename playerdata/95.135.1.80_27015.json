@@ -1,23 +1,41 @@
 {
-  "Time": "2026-07-01T15:15:12.7744104Z",
+  "Time": "2026-07-01T15:16:00.8955645Z",
   "Players": [
     {
-      "Name": ">",
-      "Steam": "76561198317100810",
+      "Name": "[1337] WinRAR",
+      "Steam": "76561199217772695",
+      "Score": 14,
+      "Time": "18:11"
+    },
+    {
+      "Name": "VoidWanderer",
+      "Steam": "76561199838003965",
+      "Score": 10,
+      "Time": "57:12"
+    },
+    {
+      "Name": "Bogi",
+      "Steam": "76561198841518924",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "YourMommy <3",
+      "Steam": "76561199834725191",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "stastogejus nigerus",
-      "Steam": "76561198679877824",
-      "Score": 0,
+      "Name": "s3rx333",
+      "Steam": "76561198000088733",
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "twizzer✞",
-      "Steam": "76561199882479418",
-      "Score": 23,
-      "Time": "??:??"
+      "Name": "donk922",
+      "Steam": "76561199565553608",
+      "Score": 0,
+      "Time": "57:34"
     }
   ]
 }
