@@ -1,40 +1,46 @@
 {
-  "Time": "2026-07-01T17:01:11.5764668Z",
+  "Time": "2026-07-01T17:03:11.5820829Z",
   "Players": [
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 29,
-      "Time": "14:47"
+      "Score": 33,
+      "Time": "16:47"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 19,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 18,
-      "Time": "20:16"
+      "Score": 19,
+      "Time": "22:16"
     },
     {
       "Name": "arianna",
       "Steam": "76561199853965628",
-      "Score": 18,
-      "Time": "05:09"
+      "Score": 30,
+      "Time": "07:09"
     },
     {
       "Name": "Versed",
       "Steam": "76561199230287839",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Hello :3",
       "Steam": "76561199882962470",
-      "Score": 6,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Randy Butternubs",
+      "Steam": "76561198728274003",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
