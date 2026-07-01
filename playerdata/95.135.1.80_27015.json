@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-01T12:10:02.1985697Z",
-  "Players": []
+  "Time": "2026-07-01T12:10:24.9516123Z",
+  "Players": [
+    {
+      "Name": "деко",
+      "Steam": "76561198686087855",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nikotin_racoon",
+      "Steam": "76561199240373962",
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "amesense        srsregele",
+      "Steam": "76561199784671107",
+      "Score": 3,
+      "Time": "01:43"
+    },
+    {
+      "Name": "Japonezu",
+      "Steam": "76561198856410557",
+      "Score": 2,
+      "Time": "04:31"
+    },
+    {
+      "Name": "pc",
+      "Steam": "76561198735627334",
+      "Score": 75,
+      "Time": "16:59"
+    },
+    {
+      "Name": "suvizzy",
+      "Steam": "76561198730989719",
+      "Score": 17,
+      "Time": "236:55"
+    }
+  ]
 }
