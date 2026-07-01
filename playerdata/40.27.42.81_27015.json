@@ -1,47 +1,53 @@
 {
-  "Time": "2026-07-01T18:49:11.5813633Z",
+  "Time": "2026-07-01T18:51:11.590371Z",
   "Players": [
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 26,
-      "Time": "04:18"
+      "Score": 32,
+      "Time": "06:18"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 25,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "NXC | ShadowSpecter",
       "Steam": "76561198748012660",
-      "Score": 46,
+      "Score": 58,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198708944645",
+      "Score": 0,
+      "Time": "01:27"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 2,
-      "Time": "08:48"
+      "Score": 7,
+      "Time": "10:48"
     },
     {
       "Name": "cry yourself to sleep",
       "Steam": "76561198744712586",
-      "Score": 19,
-      "Time": "13:26"
+      "Score": 23,
+      "Time": "15:26"
     },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
-      "Score": 17,
-      "Time": "12:42"
+      "Score": 23,
+      "Time": "14:42"
     },
     {
       "Name": "mommys son",
       "Steam": "76561199230287839",
-      "Score": 27,
-      "Time": "09:34"
+      "Score": 31,
+      "Time": "11:34"
     }
   ]
 }
