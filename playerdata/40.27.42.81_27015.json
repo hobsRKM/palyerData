@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-01T22:53:11.5977769Z",
+  "Time": "2026-07-01T22:55:11.5963091Z",
   "Players": [
+    {
+      "Name": "paris hilton",
+      "Steam": "76561198681071568",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 4,
-      "Time": "19:03"
+      "Score": 0,
+      "Time": "21:03"
     },
     {
       "Name": "kitcat",
@@ -16,31 +22,37 @@
     {
       "Name": "cherx",
       "Steam": "76561198680993770",
-      "Score": 0,
-      "Time": "193:37"
+      "Score": 1,
+      "Time": "195:37"
+    },
+    {
+      "Name": "Toxic_Waste_Ace",
+      "Steam": "76561199700382906",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561198166519466",
-      "Score": 45,
-      "Time": "49:01"
+      "Score": 47,
+      "Time": "51:01"
     },
     {
       "Name": "marshmallow",
       "Steam": "76561198685104733",
-      "Score": 24,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "rain444.xyz",
       "Steam": "76561199876077209",
-      "Score": 22,
+      "Score": 32,
       "Time": "??:??"
     },
     {
-      "Name": "Bobby",
-      "Steam": "76561199411523950",
-      "Score": 28,
+      "Name": "GooseTip",
+      "Steam": "76561198981342007",
+      "Score": 3,
       "Time": "??:??"
     }
   ]
