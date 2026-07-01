@@ -1,47 +1,47 @@
 {
-  "Time": "2026-07-01T01:16:56.9253178Z",
+  "Time": "2026-07-01T01:18:56.9215128Z",
   "Players": [
+    {
+      "Name": "vacybabyilove",
+      "Steam": "76561198679327731",
+      "Score": 7,
+      "Time": "01:50"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 43,
-      "Time": "30:09"
+      "Score": 50,
+      "Time": "32:09"
     },
     {
       "Name": "riotsurge",
       "Steam": "76561198734560736",
       "Score": 2,
-      "Time": "01:54"
+      "Time": "03:54"
     },
     {
       "Name": "A C E",
       "Steam": "76561198683798241",
-      "Score": 14,
-      "Time": "55:58"
+      "Score": 18,
+      "Time": "57:58"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
       "Score": 0,
-      "Time": "535:57"
+      "Time": "537:57"
     },
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 31,
-      "Time": "109:28"
-    },
-    {
-      "Name": "Jasper",
-      "Steam": "76561199049574313",
-      "Score": 18,
-      "Time": "12:13"
+      "Score": 36,
+      "Time": "111:28"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 30,
-      "Time": "32:35"
+      "Score": 32,
+      "Time": "34:35"
     }
   ]
 }
