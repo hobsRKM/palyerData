@@ -1,22 +1,28 @@
 {
-  "Time": "2026-07-01T16:49:12.7720011Z",
+  "Time": "2026-07-01T16:50:00.8861206Z",
   "Players": [
     {
-      "Name": ">",
-      "Steam": "76561198317100810",
-      "Score": 0,
+      "Name": "VoidWanderer",
+      "Steam": "76561199838003965",
+      "Score": 54,
+      "Time": "151:12"
+    },
+    {
+      "Name": "ShadowStalker",
+      "Steam": "76561199828172512",
+      "Score": 12,
+      "Time": "05:45"
+    },
+    {
+      "Name": "7ky_z",
+      "Steam": "76561199239177178",
+      "Score": 66,
       "Time": "??:??"
     },
     {
-      "Name": "mafia",
-      "Steam": "76561198796729903",
+      "Name": "2001 a hursehorn was born",
+      "Steam": "76561198160940623",
       "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "politician",
-      "Steam": "76561199571154189",
-      "Score": 34,
       "Time": "??:??"
     }
   ]
