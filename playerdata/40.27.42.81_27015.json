@@ -1,71 +1,71 @@
 {
-  "Time": "2026-07-02T00:51:11.6674868Z",
+  "Time": "2026-07-02T00:53:11.6529365Z",
   "Players": [
+    {
+      "Name": "ken_barnacle",
+      "Steam": "76561199667484685",
+      "Score": 3,
+      "Time": "01:37"
+    },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
       "Score": 17,
-      "Time": "111:21"
+      "Time": "113:21"
     },
     {
       "Name": "paris hilton",
       "Steam": "76561198681071568",
-      "Score": 6,
-      "Time": "10:36"
+      "Score": 7,
+      "Time": "12:36"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 20,
-      "Time": "07:45"
+      "Score": 21,
+      "Time": "09:45"
     },
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 24,
-      "Time": "41:54"
+      "Score": 28,
+      "Time": "43:54"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 10,
-      "Time": "117:58"
+      "Score": 24,
+      "Time": "119:58"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 22,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "kaiju764",
       "Steam": "76561199375775741",
       "Score": 0,
-      "Time": "09:13"
+      "Time": "11:13"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 21,
-      "Time": "85:54"
-    },
-    {
-      "Name": "silk",
-      "Steam": "76561198734736041",
-      "Score": 10,
-      "Time": "21:11"
+      "Score": 22,
+      "Time": "87:54"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 8,
-      "Time": "99:52"
+      "Score": 18,
+      "Time": "101:52"
     }
   ]
 }
