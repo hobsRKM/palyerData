@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-02T15:30:48.6668997Z",
-  "Players": []
+  "Time": "2026-07-02T15:31:13.1793653Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "334:21"
+    },
+    {
+      "Name": "Yeet_Felix",
+      "Steam": "76561199566837007",
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Shoutout Hellen Wong",
+      "Steam": "76561198726656380",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bean",
+      "Steam": "76561198447689301",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
