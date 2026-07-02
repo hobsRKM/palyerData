@@ -1,10 +1,16 @@
 {
-  "Time": "2026-07-02T00:21:11.5954431Z",
+  "Time": "2026-07-02T00:23:11.5886957Z",
   "Players": [
+    {
+      "Name": "Guro",
+      "Steam": "76561199834410706",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "ok",
       "Steam": "76561198372988791",
-      "Score": 36,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -23,7 +29,7 @@
       "Name": "paris hilton",
       "Steam": "76561198681071568",
       "Score": 2,
-      "Time": "04:07"
+      "Time": "06:07"
     },
     {
       "Name": "ashtray228",
@@ -34,37 +40,49 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198682636303",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "qyxni",
       "Steam": "76561199233330611",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
+    },
+    {
+      "Name": "mint",
+      "Steam": "76561199867707949",
+      "Score": 6,
+      "Time": "13:53"
     },
     {
       "Name": "Kiyoshi",
       "Steam": "76561199117778799",
-      "Score": 17,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 6,
-      "Time": "214:30"
+      "Score": 7,
+      "Time": "216:30"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 18,
-      "Time": "55:54"
+      "Score": 19,
+      "Time": "57:54"
     },
     {
       "Name": "brandon",
       "Steam": "76561199081156949",
-      "Score": 14,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "johnathon",
+      "Steam": "76561199336126493",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
