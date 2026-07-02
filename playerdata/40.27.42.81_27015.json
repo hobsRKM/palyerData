@@ -1,59 +1,65 @@
 {
-  "Time": "2026-07-02T05:03:12.6766631Z",
+  "Time": "2026-07-02T05:05:12.6790082Z",
   "Players": [
     {
       "Name": "paris hilton",
       "Steam": "76561198681071568",
+      "Score": 2,
+      "Time": "02:13"
+    },
+    {
+      "Name": "Kernal",
+      "Steam": "76561198051548384",
       "Score": 0,
-      "Time": "00:13"
+      "Time": "??:??"
     },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 6,
-      "Time": "21:02"
+      "Score": 0,
+      "Time": "23:02"
     },
     {
       "Name": "13 benadryls and a four loko",
       "Steam": "76561197961697457",
-      "Score": 7,
-      "Time": "15:50"
-    },
-    {
-      "Name": "larping larry 24",
-      "Steam": "76561198711799912",
       "Score": 2,
-      "Time": "??:??"
+      "Time": "17:50"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 36,
-      "Time": "95:22"
+      "Score": 53,
+      "Time": "97:22"
     },
     {
       "Name": "wait",
       "Steam": "76561198680309363",
-      "Score": 0,
-      "Time": "515:28"
+      "Score": 2,
+      "Time": "517:28"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 15,
+      "Score": 23,
       "Time": "??:??"
+    },
+    {
+      "Name": "00",
+      "Steam": "76561198744402588",
+      "Score": 2,
+      "Time": "02:01"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 29,
-      "Time": "464:27"
+      "Score": 37,
+      "Time": "466:27"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 6,
-      "Time": "84:21"
+      "Score": 10,
+      "Time": "86:21"
     }
   ]
 }
