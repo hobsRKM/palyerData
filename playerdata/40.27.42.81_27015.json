@@ -1,52 +1,64 @@
 {
-  "Time": "2026-07-02T22:07:21.7258591Z",
+  "Time": "2026-07-02T22:09:21.7309556Z",
   "Players": [
+    {
+      "Name": "dream",
+      "Steam": "76561198706868502",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Istv",
       "Steam": "76561199381810676",
-      "Score": 2,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "rain444.xyz",
       "Steam": "76561199876077209",
-      "Score": 103,
+      "Score": 106,
       "Time": "??:??"
     },
     {
       "Name": "ุ",
       "Steam": "76561198697301039",
-      "Score": 3,
-      "Time": "21:58"
+      "Score": 6,
+      "Time": "23:58"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 84,
-      "Time": "151:36"
+      "Score": 90,
+      "Time": "153:36"
+    },
+    {
+      "Name": "muller",
+      "Steam": "76561199158419168",
+      "Score": 0,
+      "Time": "00:12"
     },
     {
       "Name": "baz",
       "Steam": "76561199014766648",
-      "Score": 55,
-      "Time": "70:45"
+      "Score": 59,
+      "Time": "72:45"
     },
     {
       "Name": "FumaPorro_",
       "Steam": "76561199862073954",
-      "Score": 22,
-      "Time": "78:44"
+      "Score": 26,
+      "Time": "80:44"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 80,
+      "Score": 82,
       "Time": "??:??"
     },
     {
@@ -58,13 +70,13 @@
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 28,
-      "Time": "121:04"
+      "Score": 29,
+      "Time": "123:04"
     },
     {
       "Name": "Rio Garcia",
       "Steam": "76561198693328657",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
