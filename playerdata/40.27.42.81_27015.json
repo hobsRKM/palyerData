@@ -1,11 +1,23 @@
 {
-  "Time": "2026-07-02T02:09:11.983594Z",
+  "Time": "2026-07-02T02:11:12.040527Z",
   "Players": [
+    {
+      "Name": "poophead",
+      "Steam": "76561199580676396",
+      "Score": 0,
+      "Time": "00:42"
+    },
     {
       "Name": "STUDENT",
       "Steam": "76561198679936401",
       "Score": 20,
       "Time": "??:??"
+    },
+    {
+      "Name": "isis",
+      "Steam": "76561199482511279",
+      "Score": 5,
+      "Time": "131:20"
     },
     {
       "Name": "Mr.Squirrel_Man",
@@ -17,49 +29,43 @@
       "Name": "shyne",
       "Steam": "76561199096113124",
       "Score": 67,
-      "Time": "29:34"
+      "Time": "31:34"
     },
     {
       "Name": "\uD83C\uDDF9\uD83C\uDDFD\uD83C\uDDE6",
       "Steam": "76561198691198196",
-      "Score": 33,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 44,
-      "Time": "163:55"
+      "Score": 52,
+      "Time": "165:55"
     },
     {
       "Name": "noxx_",
       "Steam": "76561199884560588",
-      "Score": 65,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "finn",
       "Steam": "76561198929413703",
-      "Score": 69,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 90,
-      "Time": "45:39"
-    },
-    {
-      "Name": "hawkpunches",
-      "Steam": "76561198681436643",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 96,
+      "Time": "47:39"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 46,
-      "Time": "146:18"
+      "Score": 55,
+      "Time": "148:18"
     }
   ]
 }
