@@ -1,16 +1,28 @@
 {
-  "Time": "2026-07-02T17:57:21.7109553Z",
+  "Time": "2026-07-02T17:59:21.7122489Z",
   "Players": [
     {
       "Name": "kat",
       "Steam": "76561197961697457",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 14,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "teapot",
+      "Steam": "76561199014766648",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wasa y sus amigos",
+      "Steam": "76561198399048830",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
