@@ -1,23 +1,29 @@
 {
-  "Time": "2026-07-02T03:11:12.122673Z",
+  "Time": "2026-07-02T03:13:12.1790471Z",
   "Players": [
+    {
+      "Name": "FumaPorro_",
+      "Steam": "76561199862073954",
+      "Score": 0,
+      "Time": "00:09"
+    },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 121,
-      "Time": "191:20"
+      "Score": 126,
+      "Time": "193:21"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 53,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 100,
-      "Time": "91:34"
+      "Score": 104,
+      "Time": "93:34"
     },
     {
       "Name": "ibefancy",
@@ -26,40 +32,40 @@
       "Time": "??:??"
     },
     {
-      "Name": "dave",
-      "Steam": "76561198801685777",
-      "Score": 16,
-      "Time": "04:40"
-    },
-    {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 14,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "die",
       "Steam": "76561199125572569",
-      "Score": 4,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Jack",
       "Steam": "76561198702881176",
-      "Score": 27,
-      "Time": "45:37"
+      "Score": 34,
+      "Time": "47:37"
+    },
+    {
+      "Name": "jazzer (plague alpha)",
+      "Steam": "76561199373106234",
+      "Score": 6,
+      "Time": "00:09"
     },
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 75,
-      "Time": "28:01"
+      "Score": 83,
+      "Time": "30:01"
     }
   ]
 }
