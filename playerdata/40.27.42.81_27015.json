@@ -1,40 +1,46 @@
 {
-  "Time": "2026-07-02T06:17:13.0309496Z",
+  "Time": "2026-07-02T06:19:13.0516889Z",
   "Players": [
+    {
+      "Name": "ok",
+      "Steam": "76561198372988791",
+      "Score": 0,
+      "Time": "185:29"
+    },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 28,
-      "Time": "21:48"
+      "Score": 35,
+      "Time": "23:48"
     },
     {
       "Name": "Loner",
       "Steam": "76561199832666438",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 30,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "oyen",
       "Steam": "76561199049807914",
-      "Score": 10,
-      "Time": "06:03"
+      "Score": 17,
+      "Time": "08:03"
     },
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 4,
-      "Time": "05:54"
+      "Score": 5,
+      "Time": "07:54"
     },
     {
       "Name": "CNMB",
       "Steam": "76561198775764765",
-      "Score": 27,
+      "Score": 33,
       "Time": "??:??"
     }
   ]
