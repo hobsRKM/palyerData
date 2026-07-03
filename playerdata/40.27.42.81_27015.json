@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-03T06:37:21.8765215Z",
+  "Time": "2026-07-03T06:39:21.8760378Z",
   "Players": [
+    {
+      "Name": "silver teeth, like im jaws",
+      "Steam": "76561199096113124",
+      "Score": 1,
+      "Time": "01:09"
+    },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
       "Score": 9,
-      "Time": "04:50"
+      "Time": "06:50"
     },
     {
       "Name": "erm",
       "Steam": "76561198703392706",
-      "Score": 30,
-      "Time": "21:57"
+      "Score": 38,
+      "Time": "23:57"
     },
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 19,
-      "Time": "31:40"
+      "Score": 23,
+      "Time": "33:40"
     },
     {
       "Name": "wait",
       "Steam": "76561198680309363",
-      "Score": 63,
-      "Time": "618:03"
+      "Score": 65,
+      "Time": "620:03"
     },
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
-      "Score": 71,
-      "Time": "27:13"
+      "Score": 73,
+      "Time": "29:13"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 56,
-      "Time": "43:54"
+      "Score": 67,
+      "Time": "45:54"
     }
   ]
 }
