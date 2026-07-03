@@ -1,28 +1,34 @@
 {
-  "Time": "2026-07-03T10:19:10.6817167Z",
+  "Time": "2026-07-03T10:21:10.6789543Z",
   "Players": [
+    {
+      "Name": "1 STUDENT Florencio",
+      "Steam": "76561198682261109",
+      "Score": 0,
+      "Time": "00:06"
+    },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "wait",
       "Steam": "76561198680309363",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\uD83D\uDDFF⃤⃢ B",
       "Steam": "76561197973605723",
-      "Score": 3,
-      "Time": "17:19"
+      "Score": 7,
+      "Time": "19:19"
     },
     {
       "Name": "Woah",
       "Steam": "76561199680083874",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     }
   ]
