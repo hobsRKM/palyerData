@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-03T06:21:21.8390261Z",
+  "Time": "2026-07-03T06:23:21.8545992Z",
   "Players": [
     {
       "Name": "erm",
       "Steam": "76561198703392706",
-      "Score": 14,
-      "Time": "05:57"
+      "Score": 0,
+      "Time": "07:57"
+    },
+    {
+      "Name": "paris hilton",
+      "Steam": "76561198681071568",
+      "Score": 3,
+      "Time": "01:50"
     },
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 12,
-      "Time": "15:40"
+      "Score": 13,
+      "Time": "17:40"
     },
     {
       "Name": "wait",
       "Steam": "76561198680309363",
-      "Score": 19,
-      "Time": "602:03"
+      "Score": 25,
+      "Time": "604:03"
     },
     {
       "Name": "bxmito.",
       "Steam": "76561199230260830",
-      "Score": 10,
-      "Time": "19:52"
+      "Score": 13,
+      "Time": "21:52"
     },
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
-      "Score": 31,
-      "Time": "11:13"
+      "Score": 34,
+      "Time": "13:13"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 4,
-      "Time": "27:54"
+      "Score": 9,
+      "Time": "29:54"
     }
   ]
 }
