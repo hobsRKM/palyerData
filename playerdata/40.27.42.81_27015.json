@@ -1,46 +1,52 @@
 {
-  "Time": "2026-07-03T18:59:10.6852376Z",
+  "Time": "2026-07-03T19:01:10.6829165Z",
   "Players": [
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 68,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 1,
-      "Time": "01:51"
+      "Score": 3,
+      "Time": "03:51"
     },
     {
       "Name": "bv",
       "Steam": "76561199830024313",
-      "Score": 17,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ARK2006",
-      "Steam": "76561198682526882",
-      "Score": 0,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Woah",
       "Steam": "76561199680083874",
-      "Score": 51,
-      "Time": "111:27"
+      "Score": 57,
+      "Time": "113:27"
+    },
+    {
+      "Name": "big ass penguin",
+      "Steam": "76561199387058491",
+      "Score": 1,
+      "Time": "00:06"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 38,
-      "Time": "37:58"
+      "Score": 42,
+      "Time": "39:58"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 62,
+      "Score": 69,
       "Time": "??:??"
     },
     {
@@ -52,32 +58,32 @@
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
-      "Score": 38,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "chinese sweat shop worker",
       "Steam": "76561198685506573",
-      "Score": 18,
-      "Time": "24:38"
+      "Score": 2,
+      "Time": "26:38"
     },
     {
       "Name": "marshmallow",
       "Steam": "76561198685104733",
-      "Score": 58,
-      "Time": "17:31"
+      "Score": 61,
+      "Time": "19:31"
     },
     {
       "Name": "mr5b8c7iw5df",
       "Steam": "76561198680885974",
-      "Score": 33,
-      "Time": "12:43"
+      "Score": 36,
+      "Time": "14:43"
     }
   ]
 }
