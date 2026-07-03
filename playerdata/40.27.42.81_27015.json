@@ -1,59 +1,65 @@
 {
-  "Time": "2026-07-03T01:11:21.7265521Z",
+  "Time": "2026-07-03T01:13:21.7197793Z",
   "Players": [
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 15,
-      "Time": "08:48"
+      "Score": 4,
+      "Time": "10:48"
     },
     {
       "Name": "kindnessmaxxing",
       "Steam": "76561199076297280",
-      "Score": 10,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
       "Score": 31,
-      "Time": "39:17"
+      "Time": "41:17"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 17,
-      "Time": "21:30"
+      "Score": 27,
+      "Time": "23:30"
+    },
+    {
+      "Name": "baz",
+      "Steam": "76561199014766648",
+      "Score": 0,
+      "Time": "00:35"
     },
     {
       "Name": "B I G X A N T R E S",
       "Steam": "76561198693847657",
-      "Score": 3,
-      "Time": "01:18"
+      "Score": 5,
+      "Time": "03:18"
     },
     {
       "Name": "FumaPorro_",
       "Steam": "76561199862073954",
-      "Score": 14,
-      "Time": "262:44"
+      "Score": 26,
+      "Time": "264:44"
     },
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
-      "Score": 13,
-      "Time": "65:14"
+      "Score": 0,
+      "Time": "67:14"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 16,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
       "Score": 0,
-      "Time": "97:58"
+      "Time": "99:58"
     }
   ]
 }
