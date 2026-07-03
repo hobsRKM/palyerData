@@ -1,4 +1,59 @@
 {
-  "Time": "2026-07-03T17:20:15.2735389Z",
-  "Players": []
+  "Time": "2026-07-03T17:20:37.380921Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Akame",
+      "Steam": "76561198995725062",
+      "Score": 53,
+      "Time": "19:30"
+    },
+    {
+      "Name": "Sourcerer",
+      "Steam": "76561199876829872",
+      "Score": 6,
+      "Time": "1492:22"
+    },
+    {
+      "Name": "NL Bean_",
+      "Steam": "76561199096646407",
+      "Score": 32,
+      "Time": "1175:23"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198708944645",
+      "Score": 2,
+      "Time": "313:15"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 38,
+      "Time": "11:28"
+    },
+    {
+      "Name": "WinRAR",
+      "Steam": "76561199217772695",
+      "Score": 16,
+      "Time": "12:28"
+    },
+    {
+      "Name": "\uD835\uDD41\uD835\uDD52\uD835\uDD6A",
+      "Steam": "76561198707115285",
+      "Score": 10,
+      "Time": "204:29"
+    },
+    {
+      "Name": "CS2 Prime Experience",
+      "Steam": "76561198682518402",
+      "Score": 16,
+      "Time": "43:55"
+    }
+  ]
 }
