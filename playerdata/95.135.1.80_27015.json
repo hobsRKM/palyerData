@@ -1,29 +1,35 @@
 {
-  "Time": "2026-07-03T20:10:04.6377918Z",
+  "Time": "2026-07-03T20:10:11.776493Z",
   "Players": [
     {
-      "Name": "Bean",
-      "Steam": "76561198447689301",
+      "Name": "L",
+      "Steam": "76561199502422191",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "meowwarev2",
+      "Steam": "76561198705098633",
+      "Score": 4,
+      "Time": "11:42"
+    },
+    {
+      "Name": "jAmal",
+      "Steam": "76561198963830393",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "\uD835\uDCF9\uD835\uDCEE\uD835\uDCF9\uD835\uDCF9\uD835\uDCF2\uD835\uDCF7",
-      "Steam": "76561198687262105",
-      "Score": 0,
-      "Time": "11:29"
-    },
-    {
-      "Name": "希望",
-      "Steam": "76561198735627334",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "FireHook(C5 E4 4A F3 ??)",
-      "Steam": "76561198710641830",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "bolacha do ultimo pacote",
+      "Steam": "76561199617295558",
+      "Score": 1,
+      "Time": "22:44"
     }
   ]
 }
