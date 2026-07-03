@@ -1,40 +1,46 @@
 {
-  "Time": "2026-07-03T04:51:21.8432901Z",
+  "Time": "2026-07-03T04:53:21.84625Z",
   "Players": [
+    {
+      "Name": "erm",
+      "Steam": "76561198703392706",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "P",
       "Steam": "76561198311329253",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "paris hilton",
       "Steam": "76561198681071568",
-      "Score": 4,
-      "Time": "51:07"
+      "Score": 5,
+      "Time": "53:07"
     },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 0,
-      "Time": "22:51"
+      "Score": 6,
+      "Time": "24:51"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 12,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
       "Score": 0,
-      "Time": "62:17"
+      "Time": "64:17"
     },
     {
       "Name": "骚逼",
       "Steam": "76561198772135454",
-      "Score": 27,
+      "Score": 28,
       "Time": "??:??"
     }
   ]
