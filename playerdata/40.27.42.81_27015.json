@@ -1,53 +1,53 @@
 {
-  "Time": "2026-07-04T22:53:00.7099714Z",
+  "Time": "2026-07-04T22:55:00.701806Z",
   "Players": [
+    {
+      "Name": "wait",
+      "Steam": "76561198684627471",
+      "Score": 0,
+      "Time": "01:34"
+    },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 25,
-      "Time": "16:26"
+      "Score": 4,
+      "Time": "18:26"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 11,
-      "Time": "195:01"
+      "Score": 3,
+      "Time": "197:01"
     },
     {
       "Name": "ุ",
       "Steam": "76561198697301039",
-      "Score": 110,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "zombie",
       "Steam": "76561198756777371",
-      "Score": 36,
-      "Time": "268:17"
+      "Score": 0,
+      "Time": "270:17"
     },
     {
       "Name": "ENDLESS。一定不会。(NYLI)",
       "Steam": "76561199344219380",
-      "Score": 39,
-      "Time": "16:18"
+      "Score": 0,
+      "Time": "18:18"
     },
     {
       "Name": "keela",
       "Steam": "76561198697413492",
-      "Score": 13,
-      "Time": "10:19"
+      "Score": 0,
+      "Time": "12:19"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 22,
+      "Score": 4,
       "Time": "??:??"
-    },
-    {
-      "Name": "pradaa",
-      "Steam": "76561198682242874",
-      "Score": 40,
-      "Time": "34:31"
     },
     {
       "Name": "bb",
@@ -56,10 +56,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "defiye",
+      "Steam": "76561198691835436",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 112,
-      "Time": "96:01"
+      "Score": 2,
+      "Time": "98:01"
     }
   ]
 }
