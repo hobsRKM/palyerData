@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-04T17:05:00.7091894Z",
+  "Time": "2026-07-04T17:07:00.6986825Z",
   "Players": [
+    {
+      "Name": "WinRAR",
+      "Steam": "76561199217772695",
+      "Score": 1,
+      "Time": "00:43"
+    },
     {
       "Name": "hischvh",
       "Steam": "76561199230287839",
-      "Score": 9,
-      "Time": "09:20"
+      "Score": 13,
+      "Time": "11:20"
     },
     {
       "Name": "Ely",
       "Steam": "76561199091350260",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 14,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "meow",
       "Steam": "76561198251652152",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Xin Lỗi Vì Đã Đến",
       "Steam": "76561198727250881",
-      "Score": 11,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
