@@ -1,53 +1,71 @@
 {
-  "Time": "2026-07-04T22:17:00.7090441Z",
+  "Time": "2026-07-04T22:19:00.7108922Z",
   "Players": [
     {
       "Name": "wait",
       "Steam": "76561198684627471",
-      "Score": 10,
-      "Time": "06:00"
+      "Score": 20,
+      "Time": "08:00"
+    },
+    {
+      "Name": "gynophobia",
+      "Steam": "76561199033568973",
+      "Score": 2,
+      "Time": "99:23"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 57,
-      "Time": "159:01"
+      "Score": 63,
+      "Time": "161:01"
+    },
+    {
+      "Name": "ุ",
+      "Steam": "76561198697301039",
+      "Score": 6,
+      "Time": "??:??"
     },
     {
       "Name": "zombie",
       "Steam": "76561198756777371",
       "Score": 40,
-      "Time": "232:17"
+      "Time": "234:17"
     },
     {
       "Name": "pupl1nk",
       "Steam": "76561199800613045",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "100ping 1taps",
       "Steam": "76561198044261674",
-      "Score": 61,
-      "Time": "29:41"
+      "Score": 69,
+      "Time": "31:41"
     },
     {
       "Name": "jazzer",
       "Steam": "76561199373106234",
-      "Score": 41,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 128,
-      "Time": "78:23"
+      "Score": 139,
+      "Time": "80:23"
+    },
+    {
+      "Name": "pradaa",
+      "Steam": "76561198682242874",
+      "Score": 0,
+      "Time": "00:31"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 76,
-      "Time": "60:01"
+      "Score": 81,
+      "Time": "62:01"
     }
   ]
 }
