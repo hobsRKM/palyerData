@@ -1,46 +1,52 @@
 {
-  "Time": "2026-07-04T22:11:00.7064936Z",
+  "Time": "2026-07-04T22:13:00.7128516Z",
   "Players": [
+    {
+      "Name": "wait",
+      "Steam": "76561198684627471",
+      "Score": 0,
+      "Time": "02:00"
+    },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 34,
-      "Time": "153:01"
+      "Score": 42,
+      "Time": "155:01"
     },
     {
       "Name": "zombie",
       "Steam": "76561198756777371",
-      "Score": 26,
-      "Time": "226:17"
+      "Score": 32,
+      "Time": "228:17"
     },
     {
       "Name": "keela",
       "Steam": "76561198697413492",
-      "Score": 18,
-      "Time": "147:29"
+      "Score": 20,
+      "Time": "149:29"
     },
     {
       "Name": "100ping 1taps",
       "Steam": "76561198044261674",
       "Score": 47,
-      "Time": "23:41"
+      "Time": "25:41"
     },
     {
       "Name": "jazzer",
       "Steam": "76561199373106234",
-      "Score": 22,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 107,
-      "Time": "72:23"
+      "Score": 110,
+      "Time": "74:23"
     },
     {
       "Name": "rain444.xyz",
       "Steam": "76561199876077209",
-      "Score": 65,
+      "Score": 73,
       "Time": "??:??"
     },
     {
@@ -52,8 +58,8 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 67,
-      "Time": "54:01"
+      "Score": 70,
+      "Time": "56:01"
     }
   ]
 }
