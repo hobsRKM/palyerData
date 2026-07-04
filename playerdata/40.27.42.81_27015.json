@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-04T18:21:00.7117739Z",
+  "Time": "2026-07-04T18:23:00.7058764Z",
   "Players": [
+    {
+      "Name": "00",
+      "Steam": "76561198744402588",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": ":3 nolegit.club",
       "Steam": "76561198684439753",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 36,
-      "Time": "28:22"
+      "Score": 2,
+      "Time": "30:22"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 14,
-      "Time": "06:50"
+      "Score": 15,
+      "Time": "08:50"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 50,
-      "Time": "14:38"
+      "Score": 67,
+      "Time": "16:38"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 69,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "die",
       "Steam": "76561199125572569",
-      "Score": 9,
-      "Time": "56:33"
+      "Score": 21,
+      "Time": "58:33"
     },
     {
       "Name": "$Yoshida",
@@ -46,13 +52,13 @@
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 36,
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "$femboy",
+      "Name": "$femboytap$",
       "Steam": "76561198779285230",
-      "Score": 10,
+      "Score": 11,
       "Time": "??:??"
     },
     {
@@ -62,15 +68,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "Yakub",
-      "Steam": "76561199594039131",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
       "Name": "marshmallow",
       "Steam": "76561198685104733",
-      "Score": 25,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
