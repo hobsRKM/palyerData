@@ -1,21 +1,33 @@
 {
-  "Time": "2026-07-04T16:55:00.6982815Z",
+  "Time": "2026-07-04T16:57:00.712019Z",
   "Players": [
+    {
+      "Name": "hischvh",
+      "Steam": "76561199230287839",
+      "Score": 2,
+      "Time": "01:20"
+    },
     {
       "Name": "Ely",
       "Steam": "76561199091350260",
-      "Score": 17,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 42,
+      "Score": 50,
       "Time": "??:??"
     },
     {
-      "Name": "BluntzWare (BetaTesting)",
-      "Steam": "76561198694302269",
+      "Name": "meow",
+      "Steam": "76561198251652152",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Xin Lỗi Vì Đã Đến",
+      "Steam": "76561198727250881",
       "Score": 0,
       "Time": "??:??"
     }
