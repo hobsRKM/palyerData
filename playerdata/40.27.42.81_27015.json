@@ -1,47 +1,53 @@
 {
-  "Time": "2026-07-04T08:34:23.6695067Z",
+  "Time": "2026-07-04T08:36:23.6635272Z",
   "Players": [
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 14,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "wait",
       "Steam": "76561198682365302",
-      "Score": 65,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "1 STUDENT Florencio",
       "Steam": "76561198682261109",
-      "Score": 39,
+      "Score": 48,
       "Time": "??:??"
+    },
+    {
+      "Name": "Mousetrap // Testing Moneybot",
+      "Steam": "76561199887239492",
+      "Score": 3,
+      "Time": "01:50"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 97,
+      "Score": 105,
       "Time": "??:??"
     },
     {
       "Name": "kindnessmaxxing",
       "Steam": "76561199076297280",
-      "Score": 10,
-      "Time": "31:11"
+      "Score": 15,
+      "Time": "33:11"
     },
     {
       "Name": "Orange Sprite",
       "Steam": "76561198677427392",
-      "Score": 65,
-      "Time": "118:19"
+      "Score": 70,
+      "Time": "120:19"
     },
     {
       "Name": "die",
       "Steam": "76561199125572569",
-      "Score": 155,
-      "Time": "68:51"
+      "Score": 164,
+      "Time": "70:51"
     }
   ]
 }
