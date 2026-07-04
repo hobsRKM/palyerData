@@ -1,58 +1,76 @@
 {
-  "Time": "2026-07-04T02:58:23.6658542Z",
+  "Time": "2026-07-04T03:00:23.6752651Z",
   "Players": [
+    {
+      "Name": "bb",
+      "Steam": "76561198041862999",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "silver teeth, like im jaws",
       "Steam": "76561199096113124",
-      "Score": 26,
-      "Time": "36:45"
+      "Score": 31,
+      "Time": "38:45"
+    },
+    {
+      "Name": "2012",
+      "Steam": "76561198681939111",
+      "Score": 0,
+      "Time": "01:51"
     },
     {
       "Name": "pradaa",
       "Steam": "76561198682242874",
-      "Score": 5,
-      "Time": "22:09"
+      "Score": 9,
+      "Time": "24:09"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 24,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "bunni <3",
       "Steam": "76561199846074284",
-      "Score": 25,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
-      "Score": 21,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Orange Sprite",
       "Steam": "76561198677427392",
-      "Score": 14,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 36,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 1,
-      "Time": "01:40"
+      "Score": 7,
+      "Time": "03:40"
     },
     {
       "Name": "puntchmadedev",
       "Steam": "76561198721806199",
       "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lost",
+      "Steam": "76561199126522121",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
