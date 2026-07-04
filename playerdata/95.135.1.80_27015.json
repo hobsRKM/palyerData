@@ -1,4 +1,35 @@
 {
-  "Time": "2026-07-04T16:04:15.5965423Z",
-  "Players": []
+  "Time": "2026-07-04T16:04:44.0345042Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sıradan birisi",
+      "Steam": "76561198788412234",
+      "Score": 37,
+      "Time": "38:08"
+    },
+    {
+      "Name": "Swayzy",
+      "Steam": "76561199566896718",
+      "Score": 76,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Liam",
+      "Steam": "76561198745332088",
+      "Score": 4,
+      "Time": "02:12"
+    },
+    {
+      "Name": "\uD835\uDCF9\uD835\uDCEE\uD835\uDCF9\uD835\uDCF9\uD835\uDCF2\uD835\uDCF7",
+      "Steam": "76561198687262105",
+      "Score": 2,
+      "Time": "15:06"
+    }
+  ]
 }
