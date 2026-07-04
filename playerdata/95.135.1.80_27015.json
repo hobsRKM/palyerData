@@ -1,4 +1,53 @@
 {
-  "Time": "2026-07-04T08:00:37.3010935Z",
-  "Players": []
+  "Time": "2026-07-04T08:00:44.0300749Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "jakashmeka",
+      "Steam": "76561198685041557",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "youtube.com/@5xp9",
+      "Steam": "76561199805090764",
+      "Score": 40,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Troike",
+      "Steam": "76561199422678718",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ionut",
+      "Steam": "76561198301092878",
+      "Score": 109,
+      "Time": "17:55"
+    },
+    {
+      "Name": "genuine",
+      "Steam": "76561198691537963",
+      "Score": 79,
+      "Time": "36:17"
+    },
+    {
+      "Name": "Wojti",
+      "Steam": "76561199357006447",
+      "Score": 87,
+      "Time": "29:12"
+    },
+    {
+      "Name": "Gosho rezachkata",
+      "Steam": "76561199823130174",
+      "Score": 16,
+      "Time": "12:52"
+    }
+  ]
 }
