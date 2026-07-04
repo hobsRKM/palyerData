@@ -1,53 +1,59 @@
 {
-  "Time": "2026-07-04T05:58:23.6611392Z",
+  "Time": "2026-07-04T06:00:23.6672752Z",
   "Players": [
     {
       "Name": "The Legend",
       "Steam": "76561198754313791",
       "Score": 0,
-      "Time": "09:14"
+      "Time": "11:14"
     },
     {
       "Name": "moneybot",
       "Steam": "76561199887239492",
-      "Score": 22,
-      "Time": "07:11"
+      "Score": 34,
+      "Time": "09:11"
     },
     {
       "Name": "Loner",
       "Steam": "76561199832666438",
-      "Score": 7,
-      "Time": "06:44"
+      "Score": 11,
+      "Time": "08:44"
+    },
+    {
+      "Name": "kubi",
+      "Steam": "76561199867394442",
+      "Score": 1,
+      "Time": "??:??"
     },
     {
       "Name": "bunni <3",
       "Steam": "76561199846074284",
-      "Score": 54,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "Shaq",
       "Steam": "76561198735615192",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
       "Score": 28,
-      "Time": "18:02"
+      "Time": "20:02"
     },
     {
       "Name": "JP",
       "Steam": "76561198679306941",
-      "Score": 13,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "paris hilton",
       "Steam": "76561198681071568",
-      "Score": 8,
-      "Time": "42:38"
+      "Score": 10,
+      "Time": "44:38"
     }
   ]
 }
