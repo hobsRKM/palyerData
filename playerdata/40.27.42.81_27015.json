@@ -1,15 +1,15 @@
 {
-  "Time": "2026-07-04T08:06:23.6673282Z",
+  "Time": "2026-07-04T08:08:23.6745546Z",
   "Players": [
-    {
-      "Name": "ADOR",
-      "Steam": "76561199198364836",
-      "Score": 6,
-      "Time": "00:15"
-    },
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wait",
+      "Steam": "76561198682365302",
       "Score": 2,
       "Time": "??:??"
     },
@@ -17,31 +17,31 @@
       "Name": "moneybot",
       "Steam": "76561199887239492",
       "Score": 2,
-      "Time": "09:56"
+      "Time": "01:35"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "kindnessmaxxing",
       "Steam": "76561199076297280",
-      "Score": 3,
-      "Time": "03:11"
+      "Score": 7,
+      "Time": "05:11"
     },
     {
       "Name": "Orange Sprite",
       "Steam": "76561198677427392",
-      "Score": 8,
-      "Time": "90:19"
+      "Score": 14,
+      "Time": "92:19"
     },
     {
       "Name": "die",
       "Steam": "76561199125572569",
-      "Score": 14,
-      "Time": "40:51"
+      "Score": 28,
+      "Time": "42:51"
     }
   ]
 }
