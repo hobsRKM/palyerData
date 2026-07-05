@@ -1,23 +1,35 @@
 {
-  "Time": "2026-07-05T18:03:03.6700992Z",
+  "Time": "2026-07-05T18:05:03.682119Z",
   "Players": [
+    {
+      "Name": "ik",
+      "Steam": "76561198708710130",
+      "Score": 0,
+      "Time": "00:45"
+    },
     {
       "Name": "S1lent HvH",
       "Steam": "76561198775403035",
-      "Score": 50,
-      "Time": "19:38"
+      "Score": 0,
+      "Time": "21:38"
     },
     {
       "Name": "why so blue",
       "Steam": "76561199859777341",
-      "Score": 39,
-      "Time": "42:29"
+      "Score": 3,
+      "Time": "44:29"
     },
     {
       "Name": "Randy Butternubs",
       "Steam": "76561198728274003",
-      "Score": 29,
-      "Time": "47:01"
+      "Score": 2,
+      "Time": "49:01"
+    },
+    {
+      "Name": "Loner",
+      "Steam": "76561199832666438",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
