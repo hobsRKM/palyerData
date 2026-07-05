@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-05T13:29:56.037622Z",
+  "Time": "2026-07-05T13:30:01.3901832Z",
   "Players": [
     {
-      "Name": "[1187] shad0w1337",
-      "Steam": "76561198740529856",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "301:11"
+    },
+    {
+      "Name": "gioi",
+      "Steam": "76561199511689431",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mohammadalbatsh908",
+      "Steam": "76561199564753849",
+      "Score": 0,
+      "Time": "26:03"
+    },
+    {
+      "Name": "evilmane",
+      "Steam": "76561199835990893",
+      "Score": 48,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aki",
+      "Steam": "76561198712084190",
       "Score": 20,
-      "Time": "15:36"
-    },
-    {
-      "Name": "m0i",
-      "Steam": "76561198758778362",
-      "Score": 36,
       "Time": "??:??"
     },
     {
-      "Name": "NL Bean_",
-      "Steam": "76561199096646407",
-      "Score": 77,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Kriebbel",
-      "Steam": "76561198015865781",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Morten madsen",
-      "Steam": "76561199321787008",
-      "Score": 4,
+      "Name": "jakashmeka",
+      "Steam": "76561198685041557",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
