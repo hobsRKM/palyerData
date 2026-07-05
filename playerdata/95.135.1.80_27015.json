@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-05T23:17:10.314581Z",
-  "Players": []
+  "Time": "2026-07-05T23:18:01.3800845Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "225:21"
+    },
+    {
+      "Name": "plague emperor",
+      "Steam": "76561198720362972",
+      "Score": 0,
+      "Time": "04:07"
+    },
+    {
+      "Name": "Jugga™ t.me/BigFemboyPower",
+      "Steam": "76561199538446621",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Frogzx",
+      "Steam": "76561198689860501",
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sierra",
+      "Steam": "76561198205140055",
+      "Score": 31,
+      "Time": "46:52"
+    },
+    {
+      "Name": "harrowing",
+      "Steam": "76561198705639029",
+      "Score": 20,
+      "Time": "06:43"
+    }
+  ]
 }
