@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-05T05:57:02.0299153Z",
+  "Time": "2026-07-05T05:59:02.0173646Z",
   "Players": [
     {
       "Name": "die",
       "Steam": "76561199125572569",
-      "Score": 18,
-      "Time": "05:00"
+      "Score": 23,
+      "Time": "07:00"
     },
     {
       "Name": "sokeela",
       "Steam": "76561198697413492",
       "Score": 19,
-      "Time": "17:50"
+      "Time": "19:50"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 28,
-      "Time": "11:18"
+      "Score": 34,
+      "Time": "13:18"
     },
     {
       "Name": "snixty snevny porfavor",
       "Steam": "76561198765805440",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "resent",
       "Steam": "76561198682242874",
-      "Score": 25,
-      "Time": "70:46"
+      "Score": 26,
+      "Time": "72:45"
+    },
+    {
+      "Name": "jazzer",
+      "Steam": "76561199373106234",
+      "Score": 0,
+      "Time": "263:09"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 32,
-      "Time": "130:42"
+      "Score": 40,
+      "Time": "132:42"
     }
   ]
 }
