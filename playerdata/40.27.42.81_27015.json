@@ -1,22 +1,28 @@
 {
-  "Time": "2026-07-05T07:15:02.4092038Z",
+  "Time": "2026-07-05T07:17:02.4160339Z",
   "Players": [
+    {
+      "Name": "Age Play Makes My Aim Better",
+      "Steam": "76561199585422889",
+      "Score": 4,
+      "Time": "01:44"
+    },
     {
       "Name": "paris hilton",
       "Steam": "76561198681071568",
-      "Score": 23,
-      "Time": "35:51"
+      "Score": 36,
+      "Time": "37:51"
     },
     {
       "Name": "Thieu Ma",
       "Steam": "76561198100655287",
       "Score": 0,
-      "Time": "00:57"
+      "Time": "02:57"
     },
     {
       "Name": "fgdgdgdgdfgdfggdfg",
       "Steam": "76561198685039726",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -28,8 +34,8 @@
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 42,
-      "Time": "72:55"
+      "Score": 62,
+      "Time": "74:55"
     }
   ]
 }
