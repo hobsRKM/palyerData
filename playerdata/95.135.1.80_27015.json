@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-05T13:51:10.319001Z",
-  "Players": []
+  "Time": "2026-07-05T13:51:56.0334Z",
+  "Players": [
+    {
+      "Name": ".",
+      "Steam": "76561198746983935",
+      "Score": 13,
+      "Time": "16:27"
+    },
+    {
+      "Name": "Kriebbel",
+      "Steam": "76561198015865781",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Morten madsen",
+      "Steam": "76561199321787008",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jezykhere",
+      "Steam": "76561199068587496",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Yashchyk",
+      "Steam": "76561199502014089",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[OG]Mariya",
+      "Steam": "76561198743294659",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
