@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-05T14:45:03.6768884Z",
+  "Time": "2026-07-05T14:47:03.6757611Z",
   "Players": [
+    {
+      "Name": "wait",
+      "Steam": "76561198684627471",
+      "Score": 0,
+      "Time": "01:03"
+    },
     {
       "Name": "S1lent HvH",
       "Steam": "76561198775403035",
-      "Score": 37,
-      "Time": "26:14"
+      "Score": 39,
+      "Time": "28:14"
     },
     {
       "Name": "FROST | Zenox #TastyCrousty",
       "Steam": "76561198774253123",
-      "Score": 22,
-      "Time": "08:54"
+      "Score": 25,
+      "Time": "10:54"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 74,
-      "Time": "17:51"
+      "Score": 88,
+      "Time": "19:51"
     },
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "deffici1e",
+      "Name": "Love  deffici1e",
       "Steam": "76561198695257041",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
