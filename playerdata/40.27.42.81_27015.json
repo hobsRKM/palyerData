@@ -1,59 +1,65 @@
 {
-  "Time": "2026-07-05T05:25:01.6210336Z",
+  "Time": "2026-07-05T05:27:01.6657424Z",
   "Players": [
+    {
+      "Name": "die",
+      "Steam": "76561199125572569",
+      "Score": 4,
+      "Time": "01:31"
+    },
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 7,
-      "Time": "610:21"
+      "Score": 4,
+      "Time": "612:21"
     },
     {
       "Name": "paris hilton",
       "Steam": "76561198681071568",
-      "Score": 29,
-      "Time": "09:03"
+      "Score": 3,
+      "Time": "11:03"
     },
     {
       "Name": "sokeela",
       "Steam": "76561198697413492",
-      "Score": 31,
-      "Time": "11:29"
+      "Score": 5,
+      "Time": "13:29"
     },
     {
       "Name": "big ass penguin",
       "Steam": "76561199387058491",
-      "Score": 6,
-      "Time": "04:06"
+      "Score": 3,
+      "Time": "06:06"
     },
     {
       "Name": "zombie",
       "Steam": "76561198756777371",
-      "Score": 69,
-      "Time": "61:24"
+      "Score": 0,
+      "Time": "63:24"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
       "Score": 10,
-      "Time": "01:55"
+      "Time": "03:55"
     },
     {
       "Name": "resent",
       "Steam": "76561198682242874",
-      "Score": 73,
-      "Time": "38:45"
+      "Score": 4,
+      "Time": "40:45"
     },
     {
       "Name": "2012",
       "Steam": "76561198681939111",
-      "Score": 10,
-      "Time": "590:23"
+      "Score": 4,
+      "Time": "592:23"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 163,
-      "Time": "98:42"
+      "Score": 11,
+      "Time": "100:42"
     }
   ]
 }
