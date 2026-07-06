@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-06T04:37:10.3146893Z",
-  "Players": []
+  "Time": "2026-07-06T04:38:01.3849221Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "545:21"
+    },
+    {
+      "Name": "|IMA| twitch.tv/habibiheadshots",
+      "Steam": "76561199781632215",
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lolz",
+      "Steam": "76561198679747902",
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "awd",
+      "Steam": "76561199888479456",
+      "Score": 16,
+      "Time": "02:53"
+    },
+    {
+      "Name": "denso",
+      "Steam": "76561199833010597",
+      "Score": 35,
+      "Time": "08:13"
+    },
+    {
+      "Name": "ejyfzrf697",
+      "Steam": "76561198676300582",
+      "Score": 8,
+      "Time": "??:??"
+    }
+  ]
 }
