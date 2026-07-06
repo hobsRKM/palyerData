@@ -1,22 +1,28 @@
 {
-  "Time": "2026-07-06T01:03:03.7555268Z",
+  "Time": "2026-07-06T01:05:03.7411165Z",
   "Players": [
+    {
+      "Name": "shyne",
+      "Steam": "76561199096113124",
+      "Score": 5,
+      "Time": "01:43"
+    },
     {
       "Name": "Ayato",
       "Steam": "76561198880441588",
-      "Score": 6,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "ameersayeh74",
       "Steam": "76561198676787150",
-      "Score": 0,
-      "Time": "01:45"
+      "Score": 6,
+      "Time": "03:45"
     },
     {
       "Name": "q",
       "Steam": "76561198703392706",
-      "Score": 26,
+      "Score": 35,
       "Time": "??:??"
     },
     {
@@ -26,46 +32,40 @@
       "Time": "??:??"
     },
     {
-      "Name": "bubbas",
-      "Steam": "76561199013242171",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 19,
-      "Time": "08:18"
+      "Score": 33,
+      "Time": "10:18"
     },
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 0,
-      "Time": "345:02"
+      "Score": 4,
+      "Time": "347:02"
     },
     {
       "Name": "qyxni",
       "Steam": "76561199233330611",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "S1lent HvH",
       "Steam": "76561198775403035",
-      "Score": 11,
-      "Time": "25:56"
+      "Score": 12,
+      "Time": "27:56"
     },
     {
       "Name": "dave",
       "Steam": "76561198801685777",
       "Score": 0,
-      "Time": "17:13"
+      "Time": "19:13"
     },
     {
       "Name": "memesens",
       "Steam": "76561198399339662",
       "Score": 5,
-      "Time": "02:46"
+      "Time": "04:46"
     },
     {
       "Name": "whynot",
@@ -76,20 +76,14 @@
     {
       "Name": "mousetrap // first day on eax",
       "Steam": "76561199887239492",
-      "Score": 13,
+      "Score": 23,
       "Time": "??:??"
-    },
-    {
-      "Name": "merkish",
-      "Steam": "76561198697816713",
-      "Score": 0,
-      "Time": "00:22"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 18,
-      "Time": "12:30"
+      "Score": 38,
+      "Time": "14:30"
     }
   ]
 }
