@@ -1,35 +1,35 @@
 {
-  "Time": "2026-07-06T21:13:06.9081108Z",
+  "Time": "2026-07-06T21:15:06.9189Z",
   "Players": [
     {
       "Name": "kitcat",
       "Steam": "76561198680827320",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 29,
-      "Time": "414:57"
+      "Score": 34,
+      "Time": "416:57"
+    },
+    {
+      "Name": "gynophobia",
+      "Steam": "76561199033568973",
+      "Score": 2,
+      "Time": "01:22"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
-    },
-    {
-      "Name": "mucinex00",
-      "Steam": "76561199870756565",
-      "Score": 7,
-      "Time": "03:43"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 34,
-      "Time": "36:21"
+      "Score": 43,
+      "Time": "38:21"
     }
   ]
 }
