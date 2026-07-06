@@ -1,4 +1,35 @@
 {
-  "Time": "2026-07-06T06:46:34.7748672Z",
-  "Players": []
+  "Time": "2026-07-06T06:48:01.3802928Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "675:21"
+    },
+    {
+      "Name": "Phreshboyswag",
+      "Steam": "76561197963637479",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VitalityZywOo",
+      "Steam": "76561198688630255",
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "NL Bean_",
+      "Steam": "76561199096646407",
+      "Score": 39,
+      "Time": "993:18"
+    },
+    {
+      "Name": "baimless",
+      "Steam": "76561198688980037",
+      "Score": 56,
+      "Time": "03:46"
+    }
+  ]
 }
