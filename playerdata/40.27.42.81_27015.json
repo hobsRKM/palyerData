@@ -1,40 +1,46 @@
 {
-  "Time": "2026-07-06T06:21:04.7967254Z",
+  "Time": "2026-07-06T06:23:04.8001492Z",
   "Players": [
     {
       "Name": "P1",
       "Steam": "76561198734074070",
-      "Score": 34,
-      "Time": "38:18"
+      "Score": 40,
+      "Time": "40:18"
+    },
+    {
+      "Name": "\uD835\uDE56\uD835\uDE60\uD835\uDE5E",
+      "Steam": "76561198708944645",
+      "Score": 4,
+      "Time": "866:49"
     },
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 0,
-      "Time": "09:02"
+      "Score": 2,
+      "Time": "11:02"
     },
     {
       "Name": "Soulja Boy",
       "Steam": "76561199849050111",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Goofy",
       "Steam": "76561199868256397",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198678098081",
-      "Score": 27,
-      "Time": "30:16"
+      "Score": 33,
+      "Time": "32:16"
     },
     {
       "Name": "Hello :3",
       "Steam": "76561199882962470",
-      "Score": 17,
+      "Score": 31,
       "Time": "??:??"
     }
   ]
