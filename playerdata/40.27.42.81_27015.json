@@ -1,27 +1,33 @@
 {
-  "Time": "2026-07-06T14:13:06.9172371Z",
+  "Time": "2026-07-06T14:15:06.9216711Z",
   "Players": [
+    {
+      "Name": "Quantum Entropy Candle",
+      "Steam": "76561198763517260",
+      "Score": 2,
+      "Time": "01:59"
+    },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 25,
-      "Time": "22:06"
+      "Score": 4,
+      "Time": "24:06"
     },
     {
       "Name": "hischvh",
       "Steam": "76561199230287839",
-      "Score": 32,
-      "Time": "??:??"
-    },
-    {
-      "Name": "silk",
-      "Steam": "76561198734736041",
-      "Score": 43,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "wasd",
       "Steam": "76561198704778597",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BOT Joseph",
+      "Steam": "76561199855733276",
       "Score": 0,
       "Time": "??:??"
     }
