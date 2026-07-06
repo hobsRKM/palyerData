@@ -1,47 +1,53 @@
 {
-  "Time": "2026-07-06T08:55:05.0992649Z",
+  "Time": "2026-07-06T08:57:05.1165969Z",
   "Players": [
     {
       "Name": "VineLimeCrime",
       "Steam": "76561199235008268",
-      "Score": 29,
+      "Score": 39,
       "Time": "??:??"
+    },
+    {
+      "Name": "STUDENT",
+      "Steam": "76561198682261109",
+      "Score": 10,
+      "Time": "01:31"
     },
     {
       "Name": "Leon",
       "Steam": "76561198741400570",
       "Score": 0,
-      "Time": "02:25"
+      "Time": "04:25"
     },
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 33,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 35,
+      "Score": 56,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "paris hilton",
       "Steam": "76561198681071568",
-      "Score": 6,
-      "Time": "835:55"
+      "Score": 9,
+      "Time": "837:55"
     },
     {
       "Name": "Bobby Jr. On Onlyfans",
       "Steam": "76561199098752257",
-      "Score": 18,
-      "Time": "31:33"
-    },
-    {
-      "Name": "Richard the Rapist #LoveTelAviv",
-      "Steam": "76561199480435299",
-      "Score": 22,
-      "Time": "21:50"
+      "Score": 26,
+      "Time": "33:33"
     }
   ]
 }
