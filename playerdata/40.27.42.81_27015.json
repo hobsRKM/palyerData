@@ -1,5 +1,5 @@
 {
-  "Time": "2026-07-06T21:33:06.9130761Z",
+  "Time": "2026-07-06T21:35:06.9187895Z",
   "Players": [
     {
       "Name": "kitcat",
@@ -10,20 +10,26 @@
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 12,
-      "Time": "434:57"
-    },
-    {
-      "Name": "gynophobia",
-      "Steam": "76561199033568973",
-      "Score": 4,
-      "Time": "00:15"
+      "Score": 21,
+      "Time": "436:57"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 12,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "soon",
+      "Steam": "76561199889408603",
+      "Score": 0,
+      "Time": "01:40"
+    },
+    {
+      "Name": "cry yourself to sleep",
+      "Steam": "76561198744712586",
+      "Score": 9,
+      "Time": "01:37"
     }
   ]
 }
