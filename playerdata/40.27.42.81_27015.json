@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-06T17:01:06.906612Z",
+  "Time": "2026-07-06T17:03:06.9121821Z",
   "Players": [
+    {
+      "Name": "neverlose user",
+      "Steam": "76561199864616819",
+      "Score": 0,
+      "Time": "00:11"
+    },
     {
       "Name": "wait",
       "Steam": "76561198682365302",
-      "Score": 20,
-      "Time": "57:30"
+      "Score": 34,
+      "Time": "59:30"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "cry yourself to sleep",
       "Steam": "76561198744712586",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "meow",
       "Steam": "76561198251652152",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "baz",
       "Steam": "76561199014766648",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     }
   ]
