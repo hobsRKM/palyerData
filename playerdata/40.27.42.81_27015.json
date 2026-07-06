@@ -1,28 +1,40 @@
 {
-  "Time": "2026-07-06T17:07:06.9171558Z",
+  "Time": "2026-07-06T17:09:06.918967Z",
   "Players": [
+    {
+      "Name": "lilwalkemdown23",
+      "Steam": "76561198742184205",
+      "Score": 0,
+      "Time": "00:26"
+    },
     {
       "Name": "neverlose user",
       "Steam": "76561199864616819",
-      "Score": 16,
-      "Time": "04:11"
+      "Score": 27,
+      "Time": "06:11"
     },
     {
       "Name": "cry yourself to sleep",
       "Steam": "76561198744712586",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "meow",
       "Steam": "76561198251652152",
-      "Score": 17,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "baz",
       "Steam": "76561199014766648",
-      "Score": 36,
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "llm",
+      "Steam": "76561198759762055",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
