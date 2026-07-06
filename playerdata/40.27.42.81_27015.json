@@ -1,29 +1,35 @@
 {
-  "Time": "2026-07-06T20:11:06.918025Z",
+  "Time": "2026-07-06T20:13:06.9058628Z",
   "Players": [
     {
       "Name": "MarkHack",
       "Steam": "76561198678098081",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561198166519466",
+      "Score": 0,
+      "Time": "00:24"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 16,
-      "Time": "24:21"
+      "Score": 22,
+      "Time": "26:21"
     },
     {
       "Name": "mucinex00",
       "Steam": "76561199870756565",
-      "Score": 13,
-      "Time": "05:39"
+      "Score": 15,
+      "Time": "07:39"
     },
     {
       "Name": "Daylyt (◣_◢)",
       "Steam": "76561199063655334",
-      "Score": 7,
-      "Time": "02:51"
+      "Score": 16,
+      "Time": "04:51"
     }
   ]
 }
