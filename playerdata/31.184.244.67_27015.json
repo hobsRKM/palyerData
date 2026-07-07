@@ -1,4 +1,35 @@
 {
-  "Time": "2026-07-07T23:24:31.6300501Z",
-  "Players": []
+  "Time": "2026-07-07T23:24:52.3258603Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bite",
+      "Steam": "76561199035685761",
+      "Score": 63,
+      "Time": "250:14"
+    },
+    {
+      "Name": "❶\uD83C\uDD5C\uD83C\uDD64\uD83C\uDD62\uD83C\uDD62\uD83C\uDD50❶\uD83C\uDD5C",
+      "Steam": "76561198719703493",
+      "Score": 57,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cutefemboy",
+      "Steam": "76561198791245073",
+      "Score": 27,
+      "Time": "02:37"
+    },
+    {
+      "Name": "fatality.win",
+      "Steam": "76561198681258528",
+      "Score": 67,
+      "Time": "235:33"
+    }
+  ]
 }
