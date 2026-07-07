@@ -1,52 +1,34 @@
 {
-  "Time": "2026-07-07T19:34:52.3246684Z",
+  "Time": "2026-07-07T19:35:10.8052951Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Rocketman",
+      "Steam": "76561198982659606",
+      "Score": 39,
+      "Time": "16:38"
+    },
+    {
+      "Name": "Benjamin Kenabar",
+      "Steam": "76561198714583743",
+      "Score": 14,
+      "Time": "16:12"
+    },
+    {
+      "Name": "dzonNIKI",
+      "Steam": "76561199601906570",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:22"
     },
     {
-      "Name": "pregabalin",
-      "Steam": "76561198741244592",
-      "Score": 22,
-      "Time": "??:??"
+      "Name": "Gleb",
+      "Steam": "76561198785290050",
+      "Score": 18,
+      "Time": "16:31"
     },
     {
-      "Name": "lukefs095",
-      "Steam": "76561198699862637",
-      "Score": 7,
-      "Time": "161:51"
-    },
-    {
-      "Name": "m0i",
-      "Steam": "76561198758778362",
+      "Name": "@outside1337 - YT",
+      "Steam": "76561198697726960",
       "Score": 16,
-      "Time": "31:08"
-    },
-    {
-      "Name": "Troike",
-      "Steam": "76561199422678718",
-      "Score": 5,
-      "Time": "70:35"
-    },
-    {
-      "Name": "Neverlose / Null 404",
-      "Steam": "76561198680278768",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "BribeB",
-      "Steam": "76561199405949624",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Qilin",
-      "Steam": "76561198981466508",
-      "Score": 12,
       "Time": "??:??"
     }
   ]
