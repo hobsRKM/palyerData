@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-07T00:55:06.9777598Z",
+  "Time": "2026-07-07T00:57:06.9663729Z",
   "Players": [
+    {
+      "Name": "x",
+      "Steam": "76561198763517260",
+      "Score": 0,
+      "Time": "06:19"
+    },
     {
       "Name": "repyhon",
       "Steam": "76561198693956404",
@@ -10,26 +16,32 @@
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 30,
-      "Time": "65:01"
+      "Score": 36,
+      "Time": "67:01"
     },
     {
       "Name": "hischvh",
       "Steam": "76561199230287839",
-      "Score": 4,
-      "Time": "02:34"
+      "Score": 11,
+      "Time": "04:34"
     },
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 26,
-      "Time": "290:46"
+      "Score": 28,
+      "Time": "292:46"
     },
     {
       "Name": "serenitygeometrydash",
       "Steam": "76561198145723049",
-      "Score": 14,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "713",
+      "Steam": "76561198774027597",
+      "Score": 2,
+      "Time": "01:40"
     }
   ]
 }
