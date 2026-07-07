@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-07T22:28:31.6325189Z",
-  "Players": []
+  "Time": "2026-07-07T22:28:52.3175977Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bite",
+      "Steam": "76561199035685761",
+      "Score": 20,
+      "Time": "194:14"
+    },
+    {
+      "Name": "welikeprimordialss",
+      "Steam": "76561198676090828",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatality.win",
+      "Steam": "76561198681258528",
+      "Score": 18,
+      "Time": "179:33"
+    }
+  ]
 }
