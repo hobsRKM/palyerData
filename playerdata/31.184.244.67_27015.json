@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-07T23:45:10.8129394Z",
-  "Players": []
+  "Time": "2026-07-07T23:45:42.9587146Z",
+  "Players": [
+    {
+      "Name": ">",
+      "Steam": "76561198317100810",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jewsmoker",
+      "Steam": "76561198724619804",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Neverlose / Null 404",
+      "Steam": "76561198680278768",
+      "Score": 2,
+      "Time": "710:38"
+    },
+    {
+      "Name": "Judensene Kreki",
+      "Steam": "76561198739819743",
+      "Score": 2,
+      "Time": "00:32"
+    }
+  ]
 }
