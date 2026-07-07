@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-07T00:35:06.9255429Z",
+  "Time": "2026-07-07T00:37:06.9304922Z",
   "Players": [
+    {
+      "Name": "repyhon",
+      "Steam": "76561198693956404",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 23,
-      "Time": "45:01"
+      "Score": 37,
+      "Time": "47:01"
     },
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 28,
-      "Time": "270:46"
+      "Score": 33,
+      "Time": "272:46"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 12,
-      "Time": "11:43"
+      "Score": 18,
+      "Time": "13:43"
     },
     {
-      "Name": "~Love me deffici1e",
+      "Name": "~ deffici1e",
       "Steam": "76561198695257041",
-      "Score": 17,
-      "Time": "06:09"
+      "Score": 27,
+      "Time": "08:09"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
       "Score": 6,
-      "Time": "68:21"
+      "Time": "70:21"
     }
   ]
 }
