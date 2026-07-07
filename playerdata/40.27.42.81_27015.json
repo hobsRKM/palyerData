@@ -1,29 +1,35 @@
 {
-  "Time": "2026-07-06T23:13:06.910865Z",
+  "Time": "2026-07-06T23:15:06.9147983Z",
   "Players": [
+    {
+      "Name": "SleepingWithShyne",
+      "Steam": "76561199480435299",
+      "Score": 6,
+      "Time": "493:56"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 71,
-      "Time": "19:27"
+      "Score": 73,
+      "Time": "21:27"
     },
     {
-      "Name": "ashtray228",
-      "Steam": "76561199889783306",
-      "Score": 4,
+      "Name": "Useless Rari (day 8 estrogen)",
+      "Steam": "76561199853596142",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 6,
-      "Time": "02:54"
+      "Score": 12,
+      "Time": "04:54"
     },
     {
       "Name": "P1",
       "Steam": "76561198734074070",
-      "Score": 25,
-      "Time": "54:54"
+      "Score": 27,
+      "Time": "56:54"
     }
   ]
 }
