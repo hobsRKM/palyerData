@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-07T19:15:10.8175313Z",
-  "Players": []
+  "Time": "2026-07-07T19:15:15.5086864Z",
+  "Players": [
+    {
+      "Name": "Rocketman",
+      "Steam": "76561198982659606",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gleb",
+      "Steam": "76561198785290050",
+      "Score": 9,
+      "Time": "02:37"
+    },
+    {
+      "Name": "Benjamin Kenabar",
+      "Steam": "76561198714583743",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dzonNIKI",
+      "Steam": "76561199601906570",
+      "Score": 14,
+      "Time": "??:??"
+    }
+  ]
 }
