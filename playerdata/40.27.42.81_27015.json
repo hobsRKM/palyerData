@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-07T06:39:10.3755264Z",
+  "Time": "2026-07-07T06:41:10.3685426Z",
   "Players": [
+    {
+      "Name": "Soulja Boy",
+      "Steam": "76561199849050111",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 41,
-      "Time": "47:41"
+      "Score": 54,
+      "Time": "49:41"
     },
     {
       "Name": "\uD835\uDDF6\uD835\uDDF9\uD835\uDDF9\uD835\uDDF6\uD835\uDDFB\uD835\uDDFC\uD835\uDDF6\uD835\uDE00",
       "Steam": "76561198787031314",
-      "Score": 12,
-      "Time": "58:15"
+      "Score": 14,
+      "Time": "60:15"
     },
     {
       "Name": "silk",
@@ -23,7 +29,7 @@
       "Name": "LoomyLizard_573",
       "Steam": "76561198756777371",
       "Score": 0,
-      "Time": "49:06"
+      "Time": "51:06"
     },
     {
       "Name": "♥RaZii♥",
@@ -34,25 +40,25 @@
     {
       "Name": "Adolf Rizzler",
       "Steam": "76561198775870007",
-      "Score": 1,
-      "Time": "08:49"
+      "Score": 3,
+      "Time": "10:49"
     },
     {
       "Name": "ЧЕЧИК",
       "Steam": "76561198445447886",
       "Score": 12,
-      "Time": "21:11"
+      "Time": "23:11"
     },
     {
       "Name": "пицца с кряком",
       "Steam": "76561199806232223",
-      "Score": 5,
-      "Time": "194:21"
+      "Score": 7,
+      "Time": "196:21"
     },
     {
       "Name": "yoquaxxd",
       "Steam": "76561198078737160",
-      "Score": 14,
+      "Score": 21,
       "Time": "??:??"
     }
   ]
