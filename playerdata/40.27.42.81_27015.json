@@ -1,47 +1,53 @@
 {
-  "Time": "2026-07-07T08:01:11.3410032Z",
+  "Time": "2026-07-07T08:03:11.3621568Z",
   "Players": [
     {
       "Name": "die",
       "Steam": "76561199125572569",
-      "Score": 44,
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dryna",
+      "Steam": "76561198288062983",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDDF6\uD835\uDDF9\uD835\uDDF9\uD835\uDDF6\uD835\uDDFB\uD835\uDDFC\uD835\uDDF6\uD835\uDE00",
       "Steam": "76561198787031314",
-      "Score": 84,
-      "Time": "140:16"
+      "Score": 88,
+      "Time": "142:16"
     },
     {
       "Name": "paris hilton #chalice",
       "Steam": "76561198681071568",
       "Score": 3,
-      "Time": "326:10"
+      "Time": "328:10"
     },
     {
       "Name": "prada",
       "Steam": "76561199821529132",
-      "Score": 58,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "PALESTINE",
       "Steam": "76561198710640093",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "пицца с кряком",
       "Steam": "76561199806232223",
-      "Score": 30,
-      "Time": "276:22"
+      "Score": 31,
+      "Time": "278:22"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 136,
-      "Time": "65:24"
+      "Score": 144,
+      "Time": "67:24"
     }
   ]
 }
