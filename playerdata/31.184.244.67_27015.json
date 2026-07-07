@@ -1,41 +1,53 @@
 {
-  "Time": "2026-07-07T17:16:34.2131707Z",
+  "Time": "2026-07-07T17:16:52.3174075Z",
   "Players": [
     {
-      "Name": "mybgod",
-      "Steam": "76561198447689301",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatality.win",
+      "Steam": "76561198681258528",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bite",
+      "Steam": "76561199035685761",
       "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "Rm#CSGOSKINS",
-      "Steam": "76561199801024316",
-      "Score": 37,
+      "Name": "HARAMBAL",
+      "Steam": "76561198691537963",
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "Stream",
-      "Steam": "76561199835637057",
-      "Score": 9,
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 24,
+      "Time": "06:06"
+    },
+    {
+      "Name": "гикаю",
+      "Steam": "76561198744866392",
+      "Score": 2,
+      "Time": "28:43"
+    },
+    {
+      "Name": "evilmane",
+      "Steam": "76561199835990893",
+      "Score": 1,
       "Time": "??:??"
     },
     {
-      "Name": "d28pvhfl7n",
-      "Steam": "76561198676659749",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "nwm ktow",
-      "Steam": "76561198676830630",
-      "Score": 21,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Wojti",
-      "Steam": "76561199357006447",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "Kasti",
+      "Steam": "76561199833286399",
+      "Score": 6,
+      "Time": "01:22"
     }
   ]
 }
