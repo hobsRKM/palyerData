@@ -1,4 +1,17 @@
 {
-  "Time": "2026-07-08T20:58:28.0635897Z",
-  "Players": []
+  "Time": "2026-07-08T20:58:36.0703925Z",
+  "Players": [
+    {
+      "Name": "TESTING INHERITANCE.CC ALPHA",
+      "Steam": "76561199040324369",
+      "Score": 42,
+      "Time": "45:08"
+    },
+    {
+      "Name": "TESTING INHERITANCE.CC ALPHA",
+      "Steam": "76561199549794474",
+      "Score": 19,
+      "Time": "33:22"
+    }
+  ]
 }
