@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-08T19:02:28.0636056Z",
-  "Players": []
+  "Time": "2026-07-08T19:02:55.3551464Z",
+  "Players": [
+    {
+      "Name": "AHZY",
+      "Steam": "76561198884105044",
+      "Score": 9,
+      "Time": "40:00"
+    },
+    {
+      "Name": "Neverlose / Null 404",
+      "Steam": "76561198680278768",
+      "Score": 17,
+      "Time": "05:44"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 44,
+      "Time": "24:55"
+    },
+    {
+      "Name": "mybgod",
+      "Steam": "76561198447689301",
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dimitur berbatov",
+      "Steam": "76561199580618556",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cutefemboy",
+      "Steam": "76561198791245073",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
