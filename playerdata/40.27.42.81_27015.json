@@ -1,22 +1,28 @@
 {
-  "Time": "2026-07-08T14:33:10.1934328Z",
+  "Time": "2026-07-08T14:35:10.2038883Z",
   "Players": [
+    {
+      "Name": "eyeso",
+      "Steam": "76561198756777371",
+      "Score": 18,
+      "Time": "00:36"
+    },
     {
       "Name": "100ping 1taps",
       "Steam": "76561198044261674",
-      "Score": 38,
-      "Time": "16:08"
+      "Score": 45,
+      "Time": "18:09"
     },
     {
       "Name": "cry yourself to sleep",
       "Steam": "76561198744712586",
-      "Score": 28,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Xavier",
       "Steam": "76561198709930363",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
