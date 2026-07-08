@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-08T08:29:01.9257678Z",
+  "Time": "2026-07-08T08:31:01.926318Z",
   "Players": [
+    {
+      "Name": "third eye closed",
+      "Steam": "76561199049807914",
+      "Score": 0,
+      "Time": "00:03"
+    },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 27,
-      "Time": "19:28"
+      "Score": 35,
+      "Time": "21:28"
     },
     {
       "Name": "eyeso",
@@ -14,16 +20,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "George Droid",
+      "Steam": "76561199261504232",
+      "Score": 0,
+      "Time": "00:44"
+    },
+    {
       "Name": "LONG horn RAM",
       "Steam": "76561198686477051",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 54,
-      "Time": "17:23"
+      "Score": 57,
+      "Time": "19:23"
     }
   ]
 }
