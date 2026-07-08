@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-08T20:36:28.0636956Z",
-  "Players": []
+  "Time": "2026-07-08T20:36:36.0809176Z",
+  "Players": [
+    {
+      "Name": "TESTING INHERITANCE.CC ALPHA",
+      "Steam": "76561199040324369",
+      "Score": 38,
+      "Time": "23:08"
+    },
+    {
+      "Name": "says0",
+      "Steam": "76561198730101311",
+      "Score": 64,
+      "Time": "23:10"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 90,
+      "Time": "38:49"
+    },
+    {
+      "Name": "TESTING INHERITANCE.CC ALPHA",
+      "Steam": "76561199549794474",
+      "Score": 32,
+      "Time": "11:22"
+    },
+    {
+      "Name": "traceless nr1",
+      "Steam": "76561198747718827",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "abemand04",
+      "Steam": "76561198745394617",
+      "Score": 32,
+      "Time": "00:46"
+    }
+  ]
 }
