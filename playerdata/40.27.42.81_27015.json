@@ -1,23 +1,29 @@
 {
-  "Time": "2026-07-08T01:23:01.8405224Z",
+  "Time": "2026-07-08T01:25:01.8515606Z",
   "Players": [
+    {
+      "Name": "skiddy ™",
+      "Steam": "76561198806497985",
+      "Score": 0,
+      "Time": "00:35"
+    },
     {
       "Name": "BRIS",
       "Steam": "76561198166519466",
-      "Score": 28,
-      "Time": "33:43"
+      "Score": 36,
+      "Time": "35:43"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 35,
-      "Time": "40:51"
+      "Score": 56,
+      "Time": "42:51"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 38,
-      "Time": "25:37"
+      "Score": 40,
+      "Time": "27:37"
     },
     {
       "Name": "\uD835\uDDF6\uD835\uDDF9\uD835\uDDF9\uD835\uDDF6\uD835\uDDFB\uD835\uDDFC\uD835\uDDF6\uD835\uDE00",
@@ -28,32 +34,32 @@
     {
       "Name": "BRIS",
       "Steam": "76561198685104733",
-      "Score": 84,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 31,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 8,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 47,
-      "Time": "31:19"
+      "Score": 50,
+      "Time": "33:19"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 49,
-      "Time": "29:33"
+      "Score": 55,
+      "Time": "31:33"
     }
   ]
 }
