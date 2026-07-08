@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-08T06:25:01.8487934Z",
+  "Time": "2026-07-08T06:27:01.8416607Z",
   "Players": [
     {
       "Name": "paris",
       "Steam": "76561198681071568",
-      "Score": 4,
-      "Time": "08:12"
+      "Score": 5,
+      "Time": "10:12"
+    },
+    {
+      "Name": ">.<",
+      "Steam": "76561198707233563",
+      "Score": 0,
+      "Time": "00:33"
     },
     {
       "Name": "BRIS",
       "Steam": "76561198166519466",
-      "Score": 108,
-      "Time": "75:22"
+      "Score": 124,
+      "Time": "77:22"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 106,
+      "Score": 110,
       "Time": "??:??"
     },
     {
       "Name": "die",
       "Steam": "76561199125572569",
-      "Score": 51,
-      "Time": "63:11"
+      "Score": 53,
+      "Time": "65:11"
     },
     {
       "Name": "ٴ",
       "Steam": "76561199727242699",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
@@ -40,25 +46,25 @@
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 53,
-      "Time": "26:07"
+      "Score": 55,
+      "Time": "28:07"
     },
     {
       "Name": "Nicolas Robson",
       "Steam": "76561199862159233",
-      "Score": 10,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 107,
+      "Score": 115,
       "Time": "??:??"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 35,
+      "Score": 38,
       "Time": "??:??"
     }
   ]
