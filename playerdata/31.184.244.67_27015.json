@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-08T17:34:25.0660338Z",
-  "Players": []
+  "Time": "2026-07-08T17:34:28.0692176Z",
+  "Players": [
+    {
+      "Name": "TESTING INHERITANCE ALPHA | Dark",
+      "Steam": "76561199549794474",
+      "Score": 10,
+      "Time": "02:22"
+    },
+    {
+      "Name": "di",
+      "Steam": "76561198239154884",
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 2,
+      "Time": "12:17"
+    },
+    {
+      "Name": "pspspsps",
+      "Steam": "76561198679924051",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dimitur berbatov",
+      "Steam": "76561199580618556",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "adrianelicopter23",
+      "Steam": "76561198677245744",
+      "Score": 34,
+      "Time": "??:??"
+    }
+  ]
 }
