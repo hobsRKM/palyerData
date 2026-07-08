@@ -1,40 +1,46 @@
 {
-  "Time": "2026-07-08T01:57:01.8426251Z",
+  "Time": "2026-07-08T01:59:01.8441858Z",
   "Players": [
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
+      "Score": 0,
+      "Time": "00:06"
+    },
     {
       "Name": "die",
       "Steam": "76561199125572569",
-      "Score": 7,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "um",
       "Steam": "76561198058972905",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "killua",
       "Steam": "76561199724770499",
-      "Score": 1,
-      "Time": "02:45"
+      "Score": 11,
+      "Time": "04:45"
     },
     {
       "Name": "eyeso",
       "Steam": "76561198756777371",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "bunni <3",
       "Steam": "76561199846074284",
-      "Score": 10,
-      "Time": "12:16"
+      "Score": 15,
+      "Time": "14:16"
     },
     {
       "Name": "sexmaster:)",
       "Steam": "76561199618416684",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
