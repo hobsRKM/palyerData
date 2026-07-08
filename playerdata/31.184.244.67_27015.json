@@ -1,23 +1,35 @@
 {
-  "Time": "2026-07-08T19:16:36.08261Z",
+  "Time": "2026-07-08T19:16:55.348551Z",
   "Players": [
     {
-      "Name": "HVH",
-      "Steam": "76561199823924368",
+      "Name": "Ezekiel",
+      "Steam": "76561199873678097",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Wojti",
+      "Steam": "76561199357006447",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bam1ch",
+      "Steam": "76561198687975967",
       "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "AHZY",
-      "Steam": "76561198884105044",
-      "Score": 0,
-      "Time": "04:00"
+      "Name": "Samu",
+      "Steam": "76561198676864116",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
-      "Name": "Neverlose / Null 404",
-      "Steam": "76561198680278768",
-      "Score": 2,
-      "Time": "01:50"
+      "Name": "GreenPlague",
+      "Steam": "76561198703388092",
+      "Score": 3,
+      "Time": "??:??"
     }
   ]
 }
