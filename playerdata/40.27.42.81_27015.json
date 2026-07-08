@@ -1,23 +1,35 @@
 {
-  "Time": "2026-07-07T23:59:01.8460155Z",
+  "Time": "2026-07-08T00:01:01.8469697Z",
   "Players": [
+    {
+      "Name": "shyne",
+      "Steam": "76561199096113124",
+      "Score": 0,
+      "Time": "00:36"
+    },
     {
       "Name": "mofem76350",
       "Steam": "76561198681087024",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 28,
-      "Time": "10:01"
+      "Score": 42,
+      "Time": "12:01"
+    },
+    {
+      "Name": "keela cant aim",
+      "Steam": "76561198697413492",
+      "Score": 1,
+      "Time": "00:42"
     },
     {
       "Name": "cry yourself to sleep",
       "Steam": "76561198744712586",
-      "Score": 21,
-      "Time": "07:04"
+      "Score": 23,
+      "Time": "09:04"
     }
   ]
 }
