@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-07T23:53:01.8481562Z",
+  "Time": "2026-07-07T23:55:01.843765Z",
   "Players": [
+    {
+      "Name": "mofem76350",
+      "Steam": "76561198681087024",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 0,
-      "Time": "04:01"
+      "Score": 8,
+      "Time": "06:01"
     },
     {
       "Name": "cry yourself to sleep",
       "Steam": "76561198744712586",
-      "Score": 4,
-      "Time": "01:04"
+      "Score": 6,
+      "Time": "03:04"
     }
   ]
 }
