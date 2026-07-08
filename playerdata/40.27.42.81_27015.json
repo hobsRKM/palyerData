@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-08T08:57:01.9678625Z",
+  "Time": "2026-07-08T08:59:01.9722718Z",
   "Players": [
+    {
+      "Name": "paris",
+      "Steam": "76561198681071568",
+      "Score": 0,
+      "Time": "00:48"
+    },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 62,
-      "Time": "47:28"
+      "Score": 66,
+      "Time": "49:28"
     },
     {
       "Name": "eyeso",
@@ -16,13 +22,13 @@
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 28,
-      "Time": "15:50"
+      "Score": 35,
+      "Time": "17:50"
     },
     {
       "Name": "Unknown Player",
       "Steam": "76561198686477051",
-      "Score": 30,
+      "Score": 33,
       "Time": "??:??"
     }
   ]
