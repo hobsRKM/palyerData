@@ -1,22 +1,28 @@
 {
-  "Time": "2026-07-08T14:07:10.2016823Z",
+  "Time": "2026-07-08T14:09:10.1999399Z",
   "Players": [
+    {
+      "Name": "eyeso",
+      "Steam": "76561198756777371",
+      "Score": 0,
+      "Time": "01:24"
+    },
     {
       "Name": "gamesense",
       "Steam": "76561199851751579",
-      "Score": 42,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "Staburags",
       "Steam": "76561198165139054",
-      "Score": 5,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "cry yourself to sleep",
       "Steam": "76561198744712586",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
