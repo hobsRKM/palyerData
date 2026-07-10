@@ -1,29 +1,35 @@
 {
-  "Time": "2026-07-10T20:18:01.9301189Z",
+  "Time": "2026-07-10T20:20:01.9296227Z",
   "Players": [
     {
       "Name": "pol pot did nothing wrong",
       "Steam": "76561198751738439",
-      "Score": 64,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "a",
       "Steam": "76561199874344781",
-      "Score": 20,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "noloheadshot",
       "Steam": "76561198708875603",
-      "Score": 27,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 14,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "TESTING INHERITANCE.CC ALPHA",
+      "Steam": "76561199549794474",
+      "Score": 8,
+      "Time": "01:20"
     },
     {
       "Name": "sigma papa",
@@ -34,7 +40,13 @@
     {
       "Name": "M",
       "Steam": "76561199730649284",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "s",
+      "Steam": "76561199702414075",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
