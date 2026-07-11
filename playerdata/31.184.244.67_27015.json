@@ -1,53 +1,59 @@
 {
-  "Time": "2026-07-11T20:58:03.7739581Z",
+  "Time": "2026-07-11T20:58:43.4074698Z",
   "Players": [
     {
-      "Name": "Jolt",
-      "Steam": "76561198793546616",
+      "Name": ">",
+      "Steam": "76561198317100810",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AHZY",
+      "Steam": "76561198884105044",
+      "Score": 2,
+      "Time": "372:43"
+    },
+    {
+      "Name": "m0i",
+      "Steam": "76561198758778362",
+      "Score": 4,
+      "Time": "50:43"
+    },
+    {
+      "Name": "gostek",
+      "Steam": "76561198720412063",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "⸜(｡˃ ᵕ ˂ )⸝♡",
+      "Steam": "76561198719345867",
+      "Score": 0,
+      "Time": "24:35"
+    },
+    {
+      "Name": "NL Bean_",
+      "Steam": "76561199096646407",
+      "Score": 6,
+      "Time": "06:46"
+    },
+    {
+      "Name": "harrowing",
+      "Steam": "76561198705639029",
       "Score": 5,
-      "Time": "??:??"
+      "Time": "97:11"
     },
     {
-      "Name": "BribeB",
-      "Steam": "76561199405949624",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Kevva",
-      "Steam": "76561198778461081",
+      "Name": "aimware ambassador",
+      "Steam": "76561198307793152",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "youtube.com/@zzylo12",
-      "Steam": "76561198677875772",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ㄥ\uD835\uDCCAⓃⓄ_x",
-      "Steam": "76561198731979717",
-      "Score": 110,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Tarikatus",
-      "Steam": "76561199405899059",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Alien",
-      "Steam": "76561198794411072",
-      "Score": 75,
-      "Time": "164:53"
-    },
-    {
-      "Name": "TESTING INHERITANCE.CC ALPHA",
-      "Steam": "76561199549794474",
-      "Score": 10,
-      "Time": "??:??"
+      "Name": "Brian",
+      "Steam": "76561198691337778",
+      "Score": 1,
+      "Time": "200:01"
     }
   ]
 }
