@@ -1,35 +1,47 @@
 {
-  "Time": "2026-07-11T17:26:55.5281749Z",
+  "Time": "2026-07-11T17:28:55.5357468Z",
   "Players": [
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 66,
-      "Time": "47:30"
+      "Score": 82,
+      "Time": "49:30"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 36,
-      "Time": "18:01"
+      "Score": 42,
+      "Time": "20:01"
+    },
+    {
+      "Name": "kynimen",
+      "Steam": "76561199841465277",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "owner @ keelaware.cc",
+      "Steam": "76561198697413492",
+      "Score": 3,
+      "Time": "01:53"
     },
     {
       "Name": "LAMA",
       "Steam": "76561199842166149",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 55,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 17,
-      "Time": "11:47"
+      "Score": 23,
+      "Time": "13:47"
     },
     {
       "Name": "Riberlick",
@@ -40,26 +52,20 @@
     {
       "Name": "lotsofcries",
       "Steam": "76561198735857559",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
-    },
-    {
-      "Name": "MarkHack",
-      "Steam": "76561198679830854",
-      "Score": 35,
-      "Time": "21:31"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 87,
-      "Time": "18:38"
+      "Score": 94,
+      "Time": "20:38"
     },
     {
       "Name": "zzz",
       "Steam": "76561199499319541",
-      "Score": 56,
-      "Time": "36:14"
+      "Score": 59,
+      "Time": "38:14"
     }
   ]
 }
