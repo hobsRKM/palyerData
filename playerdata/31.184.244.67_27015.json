@@ -1,46 +1,40 @@
 {
-  "Time": "2026-07-11T20:08:43.401288Z",
+  "Time": "2026-07-11T20:08:48.6728249Z",
   "Players": [
     {
-      "Name": ">",
-      "Steam": "76561198317100810",
+      "Name": "Rocketman",
+      "Steam": "76561198982659606",
+      "Score": 30,
+      "Time": "06:42"
+    },
+    {
+      "Name": "能豆儿",
+      "Steam": "76561199381010725",
+      "Score": 8,
+      "Time": "06:34"
+    },
+    {
+      "Name": "Stream",
+      "Steam": "76561199835637057",
+      "Score": 2,
+      "Time": "01:21"
+    },
+    {
+      "Name": "lennox1161",
+      "Steam": "76561198674581106",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pussydestroyer1161",
+      "Steam": "76561198677474934",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "m0i",
-      "Steam": "76561198758778362",
-      "Score": 2,
-      "Time": "00:43"
-    },
-    {
-      "Name": "ay(hvh police)",
-      "Steam": "76561198677527542",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
-      "Name": "gostek",
-      "Steam": "76561198720412063",
-      "Score": 51,
-      "Time": "??:??"
-    },
-    {
-      "Name": "NL Bean_",
-      "Steam": "76561199096646407",
-      "Score": 64,
-      "Time": "31:04"
-    },
-    {
-      "Name": "memories",
-      "Steam": "76561199183954876",
-      "Score": 41,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Terratink",
-      "Steam": "76561199262411838",
-      "Score": 8,
+      "Name": "Palm Beach Pete",
+      "Steam": "76561198679895564",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
