@@ -1,59 +1,59 @@
 {
-  "Time": "2026-07-12T05:16:58.868742Z",
+  "Time": "2026-07-12T05:18:58.9023171Z",
   "Players": [
+    {
+      "Name": "hush.xo",
+      "Steam": "76561198680242043",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "eco",
       "Steam": "76561199781390261",
-      "Score": 14,
-      "Time": "02:00"
+      "Score": 19,
+      "Time": "04:00"
     },
     {
       "Name": "LAMA",
       "Steam": "76561199842166149",
-      "Score": 21,
-      "Time": "422:55"
+      "Score": 23,
+      "Time": "424:55"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 56,
-      "Time": "66:21"
+      "Score": 70,
+      "Time": "68:21"
     },
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 45,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "All Eyez On Me",
       "Steam": "76561199634909491",
-      "Score": 41,
-      "Time": "14:51"
-    },
-    {
-      "Name": "maybach",
-      "Steam": "76561198800316163",
-      "Score": 20,
-      "Time": "39:35"
+      "Score": 46,
+      "Time": "16:51"
     },
     {
       "Name": "spazoffza",
       "Steam": "76561198747516669",
-      "Score": 14,
-      "Time": "61:27"
+      "Score": 16,
+      "Time": "63:27"
     },
     {
       "Name": "s",
       "Steam": "76561199702414075",
-      "Score": 30,
-      "Time": "357:15"
+      "Score": 36,
+      "Time": "359:15"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 83,
-      "Time": "81:21"
+      "Score": 94,
+      "Time": "83:21"
     }
   ]
 }
