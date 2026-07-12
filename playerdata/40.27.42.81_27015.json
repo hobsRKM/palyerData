@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-12T02:28:56.7578274Z",
+  "Time": "2026-07-12T02:30:56.7828598Z",
   "Players": [
+    {
+      "Name": "lalalala",
+      "Steam": "76561199229839885",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
       "Score": 8,
-      "Time": "218:46"
+      "Time": "220:46"
     },
     {
       "Name": "Serial Killer Vibes",
@@ -16,62 +22,62 @@
     {
       "Name": "Daylyt (◣_◢)",
       "Steam": "76561199063655334",
-      "Score": 21,
-      "Time": "08:53"
+      "Score": 29,
+      "Time": "10:53"
     },
     {
       "Name": "bunny",
       "Steam": "76561199142849496",
-      "Score": 54,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 54,
-      "Time": "63:41"
+      "Score": 63,
+      "Time": "65:41"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 48,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
       "Score": 78,
-      "Time": "362:58"
+      "Time": "364:58"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 47,
-      "Time": "377:39"
+      "Score": 51,
+      "Time": "379:39"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 10,
-      "Time": "03:41"
+      "Score": 11,
+      "Time": "05:41"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 96,
-      "Time": "33:23"
+      "Score": 109,
+      "Time": "35:23"
     },
     {
       "Name": "qyxni",
       "Steam": "76561199233330611",
-      "Score": 65,
-      "Time": "53:51"
+      "Score": 67,
+      "Time": "55:51"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
       "Score": 0,
-      "Time": "01:15"
+      "Time": "03:15"
     }
   ]
 }
