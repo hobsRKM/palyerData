@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-12T05:48:59.1667815Z",
+  "Time": "2026-07-12T05:50:59.2227882Z",
   "Players": [
+    {
+      "Name": "Hello :3",
+      "Steam": "76561199882962470",
+      "Score": 4,
+      "Time": "435:14"
+    },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 69,
-      "Time": "98:21"
+      "Score": 76,
+      "Time": "100:21"
     },
     {
       "Name": "All Eyez On Me",
       "Steam": "76561199634909491",
-      "Score": 9,
-      "Time": "46:51"
+      "Score": 15,
+      "Time": "48:51"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 51,
-      "Time": "113:21"
+      "Score": 61,
+      "Time": "115:21"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 43,
-      "Time": "11:54"
+      "Score": 49,
+      "Time": "13:54"
     },
     {
       "Name": "eyeso",
       "Steam": "76561198756777371",
-      "Score": 3,
-      "Time": "02:53"
+      "Score": 7,
+      "Time": "04:53"
     }
   ]
 }
