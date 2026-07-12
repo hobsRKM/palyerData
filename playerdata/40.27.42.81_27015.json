@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-12T00:18:55.6055321Z",
+  "Time": "2026-07-12T00:20:55.6087387Z",
   "Players": [
+    {
+      "Name": "tlireks",
+      "Steam": "76561198778308140",
+      "Score": 4,
+      "Time": "23:51"
+    },
     {
       "Name": "skateboard dog",
       "Steam": "76561199303359682",
-      "Score": 25,
-      "Time": "276:30"
+      "Score": 28,
+      "Time": "278:30"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 78,
-      "Time": "143:41"
+      "Score": 96,
+      "Time": "145:41"
     },
     {
       "Name": "Wizard Goose",
@@ -22,20 +28,26 @@
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 6,
-      "Time": "338:21"
+      "Score": 8,
+      "Time": "340:21"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "defiye",
+      "Steam": "76561198691835436",
+      "Score": 0,
+      "Time": "01:45"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 35,
-      "Time": "83:03"
+      "Score": 40,
+      "Time": "85:03"
     }
   ]
 }
