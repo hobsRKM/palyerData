@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-12T19:19:51.5769027Z",
+  "Time": "2026-07-12T19:21:51.5873286Z",
   "Players": [
+    {
+      "Name": "Bobby THE BAIMING BOT",
+      "Steam": "76561199411523950",
+      "Score": 2,
+      "Time": "00:37"
+    },
     {
       "Name": "quit.the.game",
       "Steam": "76561199702236660",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "d4rk",
       "Steam": "76561199239366630",
-      "Score": 18,
-      "Time": "40:09"
+      "Score": 27,
+      "Time": "42:09"
     },
     {
       "Name": "ToddY_03",
@@ -22,19 +28,19 @@
     {
       "Name": "All Eyez On Me",
       "Steam": "76561199634909491",
-      "Score": 21,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "meep",
       "Steam": "76561198714457522",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
