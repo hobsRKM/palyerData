@@ -1,28 +1,28 @@
 {
-  "Time": "2026-07-12T00:58:55.6350893Z",
+  "Time": "2026-07-12T01:00:55.6503361Z",
   "Players": [
     {
       "Name": "White Man",
       "Steam": "76561198287152179",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 11,
-      "Time": "40:00"
+      "Score": 23,
+      "Time": "42:00"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 14,
-      "Time": "183:41"
+      "Score": 16,
+      "Time": "185:41"
     },
     {
       "Name": "blueberrypielol",
       "Steam": "76561198675012005",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -34,32 +34,38 @@
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 8,
-      "Time": "378:21"
+      "Score": 10,
+      "Time": "380:21"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 19,
-      "Time": "01:43"
+      "Score": 32,
+      "Time": "03:44"
     },
     {
       "Name": "Valter",
       "Steam": "76561199757408765",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 15,
-      "Time": "26:55"
+      "Score": 22,
+      "Time": "28:55"
+    },
+    {
+      "Name": "2tuka",
+      "Steam": "76561199672685695",
+      "Score": 0,
+      "Time": "00:25"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 11,
-      "Time": "04:46"
+      "Score": 2,
+      "Time": "06:46"
     }
   ]
 }
