@@ -1,4 +1,35 @@
 {
-  "Time": "2026-07-12T16:50:21.103762Z",
-  "Players": []
+  "Time": "2026-07-12T16:50:56.9758164Z",
+  "Players": [
+    {
+      "Name": "Fatality /  Null",
+      "Steam": "76561198745493150",
+      "Score": 10,
+      "Time": "271:33"
+    },
+    {
+      "Name": "Grand Regent Thragg",
+      "Steam": "76561198725304745",
+      "Score": 16,
+      "Time": "03:21"
+    },
+    {
+      "Name": "Ekul",
+      "Steam": "76561198328574925",
+      "Score": 13,
+      "Time": "75:28"
+    },
+    {
+      "Name": "cashserxus",
+      "Steam": "76561198396926179",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nelegal",
+      "Steam": "76561199635705268",
+      "Score": 24,
+      "Time": "65:41"
+    }
+  ]
 }
