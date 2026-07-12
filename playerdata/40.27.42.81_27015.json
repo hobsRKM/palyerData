@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-12T02:08:56.4557082Z",
+  "Time": "2026-07-12T02:10:56.4677048Z",
   "Players": [
+    {
+      "Name": "Peka",
+      "Steam": "76561199353545213",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "White Man",
       "Steam": "76561198287152179",
@@ -10,8 +16,14 @@
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
+      "Score": 2,
+      "Time": "200:46"
+    },
+    {
+      "Name": "skiddy ™",
+      "Steam": "76561198806497985",
       "Score": 8,
-      "Time": "198:46"
+      "Time": "00:57"
     },
     {
       "Name": "Serial Killer Vibes",
@@ -22,8 +34,8 @@
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 2,
-      "Time": "253:42"
+      "Score": 6,
+      "Time": "255:42"
     },
     {
       "Name": "Wizard Goose",
@@ -32,28 +44,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "bunny",
+      "Steam": "76561199142849496",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
       "Score": 19,
-      "Time": "43:41"
+      "Time": "45:41"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
       "Score": 23,
-      "Time": "342:57"
+      "Time": "344:57"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 3,
-      "Time": "357:39"
+      "Score": 5,
+      "Time": "359:39"
     },
     {
       "Name": "smiler",
@@ -65,19 +83,19 @@
       "Name": "2tuka",
       "Steam": "76561199672685695",
       "Score": 12,
-      "Time": "06:45"
+      "Time": "08:45"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 32,
-      "Time": "13:23"
+      "Score": 38,
+      "Time": "15:23"
     },
     {
       "Name": "qyxni",
       "Steam": "76561199233330611",
-      "Score": 14,
-      "Time": "33:51"
+      "Score": 16,
+      "Time": "35:51"
     }
   ]
 }
