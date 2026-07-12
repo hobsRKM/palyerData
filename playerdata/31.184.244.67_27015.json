@@ -1,4 +1,47 @@
 {
-  "Time": "2026-07-12T23:24:21.1037456Z",
-  "Players": []
+  "Time": "2026-07-12T23:25:26.4498978Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Alberto",
+      "Steam": "76561198676435423",
+      "Score": 79,
+      "Time": "67:33"
+    },
+    {
+      "Name": "Coco Jambo",
+      "Steam": "76561199856627922",
+      "Score": 39,
+      "Time": "??:??"
+    },
+    {
+      "Name": "trying.",
+      "Steam": "76561198979208432",
+      "Score": 23,
+      "Time": "93:23"
+    },
+    {
+      "Name": "nicusorsign",
+      "Steam": "76561198710818219",
+      "Score": 48,
+      "Time": "270:03"
+    },
+    {
+      "Name": "EZ4 Eversio.dev",
+      "Steam": "76561198791245073",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Popeyes Paladin",
+      "Steam": "76561199467405858",
+      "Score": 2,
+      "Time": "02:36"
+    }
+  ]
 }
