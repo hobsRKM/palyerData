@@ -1,23 +1,29 @@
 {
-  "Time": "2026-07-12T08:41:00.7730697Z",
+  "Time": "2026-07-12T08:43:00.7688385Z",
   "Players": [
     {
       "Name": "LAMA",
       "Steam": "76561199842166149",
-      "Score": 34,
-      "Time": "65:29"
+      "Score": 36,
+      "Time": "67:29"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 48,
-      "Time": "64:20"
+      "Score": 52,
+      "Time": "66:20"
+    },
+    {
+      "Name": "victarionsss",
+      "Steam": "76561198676536297",
+      "Score": 3,
+      "Time": "01:37"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 43,
-      "Time": "16:45"
+      "Score": 63,
+      "Time": "18:45"
     },
     {
       "Name": "noloheadshot",
@@ -29,7 +35,7 @@
       "Name": "eyeso",
       "Steam": "76561198756777371",
       "Score": 0,
-      "Time": "174:54"
+      "Time": "176:54"
     }
   ]
 }
