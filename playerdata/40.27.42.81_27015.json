@@ -1,40 +1,40 @@
 {
-  "Time": "2026-07-12T15:31:51.5838713Z",
+  "Time": "2026-07-12T15:33:51.5765461Z",
   "Players": [
     {
       "Name": "2tuka",
       "Steam": "76561199672685695",
+      "Score": 10,
+      "Time": "35:37"
+    },
+    {
+      "Name": "Naruto Uzumaki",
+      "Steam": "76561199053048408",
       "Score": 2,
-      "Time": "33:37"
+      "Time": "01:43"
     },
     {
       "Name": "wait",
       "Steam": "76561198682365302",
-      "Score": 10,
-      "Time": "07:09"
+      "Score": 20,
+      "Time": "09:09"
     },
     {
       "Name": "lotsofcries",
       "Steam": "76561198735857559",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 7,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "d4rk <3",
       "Steam": "76561198679029331",
-      "Score": 19,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mucinex00",
-      "Steam": "76561199870756565",
-      "Score": 0,
+      "Score": 23,
       "Time": "??:??"
     }
   ]
