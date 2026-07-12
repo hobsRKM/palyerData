@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-12T07:08:59.683989Z",
+  "Time": "2026-07-12T07:10:59.7055958Z",
   "Players": [
+    {
+      "Name": "xajtgzl",
+      "Steam": "76561199711775778",
+      "Score": 10,
+      "Time": "??:??"
+    },
     {
       "Name": "im on ezfrags",
       "Steam": "76561198714457522",
-      "Score": 26,
-      "Time": "407:35"
+      "Score": 32,
+      "Time": "409:35"
     },
     {
       "Name": "[KCO]Memchik.",
@@ -16,14 +22,14 @@
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 47,
-      "Time": "13:07"
+      "Score": 55,
+      "Time": "15:07"
     },
     {
       "Name": "eyeso",
       "Steam": "76561198756777371",
       "Score": 0,
-      "Time": "82:53"
+      "Time": "84:53"
     }
   ]
 }
