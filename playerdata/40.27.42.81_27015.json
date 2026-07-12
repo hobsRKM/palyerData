@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-12T04:30:58.2555747Z",
+  "Time": "2026-07-12T04:32:58.2772029Z",
   "Players": [
+    {
+      "Name": "PizzaThief",
+      "Steam": "76561199834410706",
+      "Score": 0,
+      "Time": "728:00"
+    },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 0,
-      "Time": "217:13"
+      "Score": 4,
+      "Time": "219:13"
     },
     {
       "Name": "LAMA",
       "Steam": "76561199842166149",
-      "Score": 0,
-      "Time": "376:54"
+      "Score": 4,
+      "Time": "378:54"
     },
     {
       "Name": "spazoffza",
       "Steam": "76561198747516669",
       "Score": 0,
-      "Time": "15:27"
+      "Time": "17:27"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "85eab1",
       "Steam": "76561198674541046",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
