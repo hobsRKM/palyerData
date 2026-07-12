@@ -1,41 +1,53 @@
 {
-  "Time": "2026-07-12T08:43:00.7688385Z",
+  "Time": "2026-07-12T08:45:00.8131198Z",
   "Players": [
+    {
+      "Name": "Zenoo_zx",
+      "Steam": "76561199009603000",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "LAMA",
       "Steam": "76561199842166149",
-      "Score": 36,
-      "Time": "67:29"
+      "Score": 42,
+      "Time": "69:29"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 52,
-      "Time": "66:20"
+      "Score": 58,
+      "Time": "68:20"
     },
     {
       "Name": "victarionsss",
       "Steam": "76561198676536297",
       "Score": 3,
-      "Time": "01:37"
+      "Time": "03:37"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 63,
-      "Time": "18:45"
+      "Score": 83,
+      "Time": "20:45"
+    },
+    {
+      "Name": "[?] Aspect",
+      "Steam": "76561199133501826",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "noloheadshot",
       "Steam": "76561198708875603",
-      "Score": 7,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "eyeso",
       "Steam": "76561198756777371",
       "Score": 0,
-      "Time": "176:54"
+      "Time": "178:54"
     }
   ]
 }
