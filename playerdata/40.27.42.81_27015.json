@@ -1,52 +1,58 @@
 {
-  "Time": "2026-07-12T04:08:57.8861514Z",
+  "Time": "2026-07-12T04:10:57.8817895Z",
   "Players": [
+    {
+      "Name": "Sofa.pub",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "197:13"
+    },
     {
       "Name": "LAMA",
       "Steam": "76561199842166149",
-      "Score": 5,
-      "Time": "354:54"
+      "Score": 10,
+      "Time": "356:54"
     },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 10,
-      "Time": "578:35"
+      "Score": 24,
+      "Time": "580:35"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 17,
-      "Time": "11:56"
+      "Score": 20,
+      "Time": "13:56"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 52,
-      "Time": "67:47"
+      "Score": 57,
+      "Time": "69:47"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 38,
-      "Time": "44:16"
+      "Score": 46,
+      "Time": "46:16"
     },
     {
       "Name": "qyxni",
       "Steam": "76561199233330611",
       "Score": 6,
-      "Time": "01:31"
+      "Time": "03:31"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 30,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "ุ",
       "Steam": "76561198697301039",
-      "Score": 40,
+      "Score": 48,
       "Time": "??:??"
     }
   ]
