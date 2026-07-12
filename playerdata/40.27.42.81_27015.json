@@ -1,5 +1,5 @@
 {
-  "Time": "2026-07-12T01:58:56.2265217Z",
+  "Time": "2026-07-12T02:00:56.2962332Z",
   "Players": [
     {
       "Name": "White Man",
@@ -10,26 +10,32 @@
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 42,
-      "Time": "188:46"
+      "Score": 44,
+      "Time": "190:46"
+    },
+    {
+      "Name": "jistu",
+      "Steam": "76561198681411595",
+      "Score": 0,
+      "Time": "353:26"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 56,
-      "Time": "11:05"
+      "Score": 67,
+      "Time": "13:05"
     },
     {
       "Name": "Serial Killer Vibes",
       "Steam": "76561198425753214",
-      "Score": 10,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 12,
-      "Time": "243:41"
+      "Score": 14,
+      "Time": "245:41"
     },
     {
       "Name": "Wizard Goose",
@@ -40,14 +46,20 @@
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 23,
-      "Time": "13:17"
+      "Score": 32,
+      "Time": "15:17"
     },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 63,
-      "Time": "33:41"
+      "Score": 73,
+      "Time": "35:41"
+    },
+    {
+      "Name": "Kvz6",
+      "Steam": "76561199509049278",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "durtecam",
@@ -58,32 +70,38 @@
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 91,
-      "Time": "332:57"
+      "Score": 92,
+      "Time": "334:57"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 9,
-      "Time": "347:39"
+      "Score": 14,
+      "Time": "349:39"
+    },
+    {
+      "Name": "fake kult",
+      "Steam": "76561199806232223",
+      "Score": 0,
+      "Time": "484:53"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 104,
-      "Time": "64:47"
+      "Score": 115,
+      "Time": "66:47"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 59,
-      "Time": "03:23"
+      "Score": 63,
+      "Time": "05:23"
     },
     {
       "Name": "qyxni",
       "Steam": "76561199233330611",
-      "Score": 16,
-      "Time": "23:51"
+      "Score": 18,
+      "Time": "25:51"
     }
   ]
 }
