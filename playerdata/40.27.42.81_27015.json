@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-12T02:36:56.8031276Z",
+  "Time": "2026-07-12T02:38:56.8050864Z",
   "Players": [
+    {
+      "Name": "Maliclipse",
+      "Steam": "76561197965312196",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "lalalala",
       "Steam": "76561199229839885",
@@ -10,32 +16,26 @@
     {
       "Name": "Daylyt (◣_◢)",
       "Steam": "76561199063655334",
-      "Score": 66,
-      "Time": "16:53"
+      "Score": 5,
+      "Time": "18:53"
     },
     {
-      "Name": "bunny",
-      "Steam": "76561199142849496",
-      "Score": 75,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mavix",
-      "Steam": "76561199325780497",
+      "Name": "DreamyBeaver",
+      "Steam": "76561198095933458",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Bobby THE BAIMING BOT",
-      "Steam": "76561199411523950",
-      "Score": 90,
-      "Time": "71:41"
+      "Name": "bunny",
+      "Steam": "76561199142849496",
+      "Score": 10,
+      "Time": "??:??"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 59,
-      "Time": "385:39"
+      "Score": 3,
+      "Time": "387:39"
     },
     {
       "Name": "kato",
@@ -46,26 +46,26 @@
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 35,
-      "Time": "11:41"
+      "Score": 13,
+      "Time": "13:41"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 130,
-      "Time": "41:23"
+      "Score": 4,
+      "Time": "43:23"
     },
     {
       "Name": "qyxni",
       "Steam": "76561199233330611",
-      "Score": 83,
-      "Time": "61:51"
+      "Score": 2,
+      "Time": "63:51"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 15,
-      "Time": "09:15"
+      "Score": 0,
+      "Time": "11:15"
     }
   ]
 }
