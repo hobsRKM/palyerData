@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-13T08:02:22.7273723Z",
-  "Players": []
+  "Time": "2026-07-13T08:03:00.1015285Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mine",
+      "Steam": "76561199208553401",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dimitur berbatov",
+      "Steam": "76561199580618556",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Neverlose /  Null",
+      "Steam": "76561198745493150",
+      "Score": 43,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ano",
+      "Steam": "76561198447689301",
+      "Score": 18,
+      "Time": "06:39"
+    },
+    {
+      "Name": "Ezekiel",
+      "Steam": "76561199873678097",
+      "Score": 10,
+      "Time": "03:37"
+    }
+  ]
 }
