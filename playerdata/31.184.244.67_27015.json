@@ -1,4 +1,35 @@
 {
-  "Time": "2026-07-13T19:26:22.714625Z",
-  "Players": []
+  "Time": "2026-07-13T19:27:00.1079903Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ryōsuke Takahashi",
+      "Steam": "76561198793472658",
+      "Score": 8,
+      "Time": "22:51"
+    },
+    {
+      "Name": "KontKriebbelSpin",
+      "Steam": "76561198015865781",
+      "Score": 10,
+      "Time": "241:25"
+    },
+    {
+      "Name": "Ceo of Red Bull",
+      "Steam": "76561198720749501",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gscrack.dll",
+      "Steam": "76561198740529856",
+      "Score": 11,
+      "Time": "??:??"
+    }
+  ]
 }
