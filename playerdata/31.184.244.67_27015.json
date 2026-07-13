@@ -1,53 +1,71 @@
 {
-  "Time": "2026-07-13T21:25:00.1129777Z",
+  "Time": "2026-07-13T21:25:50.6331974Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Marek",
+      "Steam": "76561199835357684",
+      "Score": 36,
+      "Time": "??:??"
+    },
+    {
+      "Name": "クイニー",
+      "Steam": "76561198776011069",
+      "Score": 0,
+      "Time": "00:24"
+    },
+    {
+      "Name": "EYSAR",
+      "Steam": "76561198740523887",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "s48441",
+      "Steam": "76561198676459069",
+      "Score": 14,
+      "Time": "06:04"
+    },
+    {
+      "Name": "ta3laon",
+      "Steam": "76561198759041038",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VersaceGOD",
+      "Steam": "76561198417411623",
+      "Score": 0,
+      "Time": "297:02"
+    },
+    {
+      "Name": "netsu suagee",
+      "Steam": "76561199861560889",
+      "Score": 72,
+      "Time": "182:00"
+    },
+    {
+      "Name": "zakim",
+      "Steam": "76561199525663916",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "malepwn",
-      "Steam": "76561198708944645",
-      "Score": 34,
-      "Time": "267:32"
+      "Name": "ALABUGA POLITEH",
+      "Steam": "76561199473666779",
+      "Score": 38,
+      "Time": "60:26"
     },
     {
-      "Name": "bccayatto",
-      "Steam": "76561199889531555",
+      "Name": "funny man",
+      "Steam": "76561198200007954",
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "恶魔 GyyhciR",
+      "Steam": "76561198681570644",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Kasti",
-      "Steam": "76561199833286399",
-      "Score": 40,
-      "Time": "??:??"
-    },
-    {
-      "Name": "GhostBoy",
-      "Steam": "76561199478144325",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "WinRAR",
-      "Steam": "76561199217772695",
-      "Score": 12,
-      "Time": "00:23"
-    },
-    {
-      "Name": "magura",
-      "Steam": "76561199492563531",
-      "Score": 33,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mega",
-      "Steam": "76561199686882374",
-      "Score": 8,
-      "Time": "??:??"
+      "Time": "226:41"
     }
   ]
 }
