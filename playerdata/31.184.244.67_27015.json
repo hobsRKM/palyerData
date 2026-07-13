@@ -1,40 +1,76 @@
 {
-  "Time": "2026-07-13T21:23:00.0999513Z",
+  "Time": "2026-07-13T21:23:50.6400345Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "badwalk",
+      "Steam": "76561198691098273",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Marek",
+      "Steam": "76561199835357684",
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kamikaze",
+      "Steam": "76561199501139675",
+      "Score": 34,
+      "Time": "167:22"
+    },
+    {
+      "Name": "EYSAR",
+      "Steam": "76561198740523887",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "s48441",
+      "Steam": "76561198676459069",
+      "Score": 6,
+      "Time": "04:04"
+    },
+    {
+      "Name": "ta3laon",
+      "Steam": "76561198759041038",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VersaceGOD",
+      "Steam": "76561198417411623",
+      "Score": 14,
+      "Time": "295:02"
+    },
+    {
+      "Name": "netsu suagee",
+      "Steam": "76561199861560889",
+      "Score": 70,
+      "Time": "180:00"
+    },
+    {
+      "Name": "zakim",
+      "Steam": "76561199525663916",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "malepwn",
-      "Steam": "76561198708944645",
-      "Score": 26,
-      "Time": "265:32"
+      "Name": "ALABUGA POLITEH",
+      "Steam": "76561199473666779",
+      "Score": 34,
+      "Time": "58:26"
     },
     {
-      "Name": "Kasti",
-      "Steam": "76561199833286399",
-      "Score": 35,
-      "Time": "??:??"
+      "Name": "BribeB",
+      "Steam": "76561199405949624",
+      "Score": 8,
+      "Time": "281:33"
     },
     {
-      "Name": "GhostBoy",
-      "Steam": "76561199478144325",
-      "Score": 5,
-      "Time": "??:??"
-    },
-    {
-      "Name": "magura",
-      "Steam": "76561199492563531",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mega",
-      "Steam": "76561199686882374",
-      "Score": 6,
+      "Name": "funny man",
+      "Steam": "76561198200007954",
+      "Score": 11,
       "Time": "??:??"
     }
   ]
