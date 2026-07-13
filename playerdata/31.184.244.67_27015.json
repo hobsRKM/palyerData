@@ -1,47 +1,35 @@
 {
-  "Time": "2026-07-13T11:17:00.108663Z",
+  "Time": "2026-07-13T11:17:50.6278582Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Null?",
+      "Steam": "76561198674316256",
       "Score": 0,
+      "Time": "09:31"
+    },
+    {
+      "Name": "patryk",
+      "Steam": "76561198694222376",
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "cid",
-      "Steam": "76561199193028780",
-      "Score": 0,
-      "Time": "00:42"
-    },
-    {
-      "Name": "@ alsapbax",
-      "Steam": "76561198287802734",
-      "Score": 18,
+      "Name": "you",
+      "Steam": "76561198681475405",
+      "Score": 13,
       "Time": "??:??"
     },
     {
-      "Name": "^Flips^",
-      "Steam": "76561198782434117",
-      "Score": 17,
-      "Time": "??:??"
-    },
-    {
-      "Name": "SENTHR",
-      "Steam": "76561199565850971",
-      "Score": 29,
-      "Time": "??:??"
-    },
-    {
-      "Name": "&<2&m?;65kMwxt+j",
-      "Steam": "76561199854445518",
+      "Name": "t.me/nevermissserver",
+      "Steam": "76561198682430636",
       "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "67",
-      "Steam": "76561198676636823",
-      "Score": 10,
-      "Time": "53:37"
+      "Name": "MezzoMixxer",
+      "Steam": "76561198080126733",
+      "Score": 15,
+      "Time": "??:??"
     }
   ]
 }
