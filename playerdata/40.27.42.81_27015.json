@@ -1,59 +1,71 @@
 {
-  "Time": "2026-07-12T23:37:51.5898699Z",
+  "Time": "2026-07-12T23:39:51.5811976Z",
   "Players": [
+    {
+      "Name": "puntchmadedev",
+      "Steam": "76561198721806199",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 42,
-      "Time": "30:22"
+      "Score": 44,
+      "Time": "32:22"
     },
     {
       "Name": "wzfjqjjfjarj3fafadafcafa",
       "Steam": "76561199880717233",
       "Score": 6,
-      "Time": "02:27"
+      "Time": "04:27"
     },
     {
       "Name": "Istv",
       "Steam": "76561199381810676",
       "Score": 2,
-      "Time": "342:22"
+      "Time": "344:22"
     },
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 3,
-      "Time": "175:53"
+      "Score": 5,
+      "Time": "177:53"
     },
     {
       "Name": "wde",
       "Steam": "76561198676763505",
-      "Score": 17,
-      "Time": "02:57"
+      "Score": 19,
+      "Time": "04:57"
     },
     {
       "Name": "ุ",
       "Steam": "76561199020431776",
-      "Score": 12,
-      "Time": "10:53"
+      "Score": 16,
+      "Time": "12:53"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 32,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "si papi si papi",
       "Steam": "76561198723445690",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "d4rk",
       "Steam": "76561199239366630",
-      "Score": 2,
-      "Time": "67:27"
+      "Score": 3,
+      "Time": "69:27"
+    },
+    {
+      "Name": "гандончик",
+      "Steam": "76561198947896786",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
@@ -65,7 +77,13 @@
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
       "Score": 0,
-      "Time": "161:20"
+      "Time": "163:20"
+    },
+    {
+      "Name": "Anime Avatar",
+      "Steam": "76561197968689453",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
