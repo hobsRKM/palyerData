@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-13T20:34:22.7146652Z",
-  "Players": []
+  "Time": "2026-07-13T20:35:00.1025901Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "malepwn",
+      "Steam": "76561198708944645",
+      "Score": 21,
+      "Time": "217:32"
+    },
+    {
+      "Name": "sharkhack user",
+      "Steam": "76561199816187575",
+      "Score": 0,
+      "Time": "01:12"
+    },
+    {
+      "Name": "Ceo of Red Bull",
+      "Steam": "76561198720749501",
+      "Score": 34,
+      "Time": "20:38"
+    }
+  ]
 }
