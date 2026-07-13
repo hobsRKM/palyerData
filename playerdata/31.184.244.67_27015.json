@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-13T19:14:22.7146528Z",
-  "Players": []
+  "Time": "2026-07-13T19:15:00.1118627Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dexter Morgan",
+      "Steam": "76561199855894016",
+      "Score": 12,
+      "Time": "03:26"
+    },
+    {
+      "Name": "Ryōsuke Takahashi",
+      "Steam": "76561198793472658",
+      "Score": 34,
+      "Time": "10:51"
+    },
+    {
+      "Name": "poured up a 4",
+      "Steam": "76561198678080899",
+      "Score": 14,
+      "Time": "04:27"
+    },
+    {
+      "Name": "尊贵的SK用户",
+      "Steam": "76561199209499992",
+      "Score": 53,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gscrack.dll",
+      "Steam": "76561198740529856",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
