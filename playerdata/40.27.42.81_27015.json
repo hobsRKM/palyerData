@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-14T20:53:00.6444791Z",
+  "Time": "2026-07-14T20:55:00.6458771Z",
   "Players": [
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 54,
+      "Score": 64,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ˣᵉᶻ",
+      "Steam": "76561198689527514",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "eva",
       "Steam": "76561199828092473",
-      "Score": 4,
-      "Time": "03:51"
+      "Score": 2,
+      "Time": "05:51"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
       "Score": 6,
-      "Time": "326:33"
+      "Time": "328:33"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 62,
-      "Time": "31:42"
+      "Score": 64,
+      "Time": "33:42"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 43,
-      "Time": "206:50"
+      "Score": 54,
+      "Time": "208:50"
     }
   ]
 }
