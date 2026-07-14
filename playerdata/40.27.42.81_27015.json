@@ -1,53 +1,65 @@
 {
-  "Time": "2026-07-14T22:41:00.9650578Z",
+  "Time": "2026-07-14T22:43:00.9657377Z",
   "Players": [
+    {
+      "Name": "Ansi >:3",
+      "Steam": "76561199568150325",
+      "Score": 9,
+      "Time": "00:09"
+    },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 12,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 7,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 15,
-      "Time": "10:14"
+      "Score": 16,
+      "Time": "12:14"
+    },
+    {
+      "Name": "2bossedup22",
+      "Steam": "76561198762411614",
+      "Score": 0,
+      "Time": "01:14"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 46,
-      "Time": "21:37"
+      "Score": 54,
+      "Time": "23:37"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 52,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "wzfjqjjfjarj3fafadafcafa",
       "Steam": "76561199880717233",
-      "Score": 9,
-      "Time": "670:18"
+      "Score": 19,
+      "Time": "672:18"
     },
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
-      "Score": 11,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 0,
-      "Time": "79:57"
+      "Score": 5,
+      "Time": "81:57"
     },
     {
       "Name": "Sharby2010",
@@ -59,19 +71,13 @@
       "Name": "poophead",
       "Steam": "76561199580676396",
       "Score": 8,
-      "Time": "37:29"
+      "Time": "39:29"
     },
     {
       "Name": "True Talent Hidden Within Opsec.",
       "Steam": "76561199580355122",
-      "Score": 39,
-      "Time": "19:14"
-    },
-    {
-      "Name": "Windown 11",
-      "Steam": "76561198793633197",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 49,
+      "Time": "21:14"
     }
   ]
 }
