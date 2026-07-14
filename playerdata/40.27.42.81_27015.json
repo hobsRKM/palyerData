@@ -1,41 +1,53 @@
 {
-  "Time": "2026-07-14T19:37:00.6401871Z",
+  "Time": "2026-07-14T19:39:00.6380146Z",
   "Players": [
     {
       "Name": "Lord Cota",
       "Steam": "76561198886680803",
-      "Score": 10,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 5,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 20,
-      "Time": "113:47"
+      "Score": 23,
+      "Time": "115:47"
+    },
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 0,
+      "Time": "35:18"
+    },
+    {
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 4,
+      "Time": "00:28"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 15,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 29,
-      "Time": "130:50"
+      "Score": 40,
+      "Time": "132:50"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 19,
-      "Time": "06:00"
+      "Score": 26,
+      "Time": "08:00"
     }
   ]
 }
