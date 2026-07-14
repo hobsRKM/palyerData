@@ -1,59 +1,65 @@
 {
-  "Time": "2026-07-14T22:17:00.8985925Z",
+  "Time": "2026-07-14T22:19:00.8969602Z",
   "Players": [
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 16,
-      "Time": "38:12"
+      "Score": 25,
+      "Time": "40:12"
     },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 24,
-      "Time": "29:16"
+      "Score": 25,
+      "Time": "00:03"
     },
     {
       "Name": "oldmanwithalot2learn",
       "Steam": "76561198713378262",
-      "Score": 20,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 37,
+      "Score": 49,
       "Time": "??:??"
-    },
-    {
-      "Name": "gynophobia",
-      "Steam": "76561199033568973",
-      "Score": 22,
-      "Time": "54:49"
     },
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "qyxni",
+      "Steam": "76561199233330611",
+      "Score": 9,
+      "Time": "01:00"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 6,
-      "Time": "55:57"
+      "Score": 15,
+      "Time": "57:57"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 4,
-      "Time": "13:29"
+      "Score": 7,
+      "Time": "15:29"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
       "Score": 21,
-      "Time": "27:33"
+      "Time": "29:33"
+    },
+    {
+      "Name": "mucinex00",
+      "Steam": "76561199870756565",
+      "Score": 0,
+      "Time": "00:18"
     }
   ]
 }
