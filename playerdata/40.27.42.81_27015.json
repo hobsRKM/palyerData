@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-14T16:17:00.6441401Z",
+  "Time": "2026-07-14T16:19:00.6476378Z",
   "Players": [
+    {
+      "Name": "Ansi >:3",
+      "Steam": "76561199568150325",
+      "Score": 5,
+      "Time": "01:06"
+    },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 45,
-      "Time": "16:03"
+      "Score": 55,
+      "Time": "18:03"
     },
     {
       "Name": "\uD835\uDCE5\uD835\uDCF2\uD835\uDCF7\uD835\uDCF2  ★",
@@ -16,50 +22,56 @@
     {
       "Name": "d4rk",
       "Steam": "76561199239366630",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "gs employee",
       "Steam": "76561199492834313",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "soon",
       "Steam": "76561199889408603",
-      "Score": 0,
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "muller",
+      "Steam": "76561199158419168",
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "ken_barnacle",
       "Steam": "76561199667484685",
-      "Score": 53,
-      "Time": "13:38"
+      "Score": 57,
+      "Time": "15:38"
     },
     {
       "Name": ".gg/sofaleague",
       "Steam": "76561199531695282",
-      "Score": 78,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "True Talent Hidden Within Opsec.",
       "Steam": "76561199580355122",
-      "Score": 86,
+      "Score": 94,
       "Time": "??:??"
     },
     {
       "Name": "Daylyt (◣_◢)",
       "Steam": "76561199063655334",
-      "Score": 0,
-      "Time": "11:49"
+      "Score": 2,
+      "Time": "13:49"
     }
   ]
 }
