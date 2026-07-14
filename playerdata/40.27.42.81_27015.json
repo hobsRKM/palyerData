@@ -1,40 +1,52 @@
 {
-  "Time": "2026-07-14T20:39:00.6404039Z",
+  "Time": "2026-07-14T20:41:00.6395567Z",
   "Players": [
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 26,
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "eva",
+      "Steam": "76561199828092473",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 13,
-      "Time": "04:44"
+      "Score": 19,
+      "Time": "06:44"
+    },
+    {
+      "Name": "GabeGoffinIsSoUgly!",
+      "Steam": "76561198725613017",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 48,
-      "Time": "17:42"
+      "Score": 52,
+      "Time": "19:42"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 3,
-      "Time": "02:52"
+      "Score": 10,
+      "Time": "04:52"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
       "Score": 17,
-      "Time": "192:50"
+      "Time": "194:50"
     },
     {
       "Name": "Jasper",
       "Steam": "76561199049574313",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
