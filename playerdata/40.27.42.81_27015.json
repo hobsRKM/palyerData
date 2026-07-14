@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-14T00:54:49.4367795Z",
+  "Time": "2026-07-14T00:56:49.4371495Z",
   "Players": [
     {
       "Name": "Akru",
       "Steam": "76561198326500017",
-      "Score": 2,
-      "Time": "03:09"
+      "Score": 0,
+      "Time": "05:09"
     },
     {
       "Name": "playmaker qk baim bot",
       "Steam": "76561199856290691",
-      "Score": 28,
-      "Time": "15:52"
+      "Score": 2,
+      "Time": "17:52"
+    },
+    {
+      "Name": "Vicious #Pingbot Walkbot",
+      "Steam": "76561198700071912",
+      "Score": 8,
+      "Time": "01:32"
     }
   ]
 }
