@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-14T01:04:49.4456685Z",
+  "Time": "2026-07-14T01:06:49.4427122Z",
   "Players": [
     {
       "Name": "Akru",
       "Steam": "76561198326500017",
-      "Score": 5,
-      "Time": "13:09"
+      "Score": 8,
+      "Time": "15:09"
+    },
+    {
+      "Name": "luke14days",
+      "Steam": "76561198740895191",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "playmaker qk baim bot",
       "Steam": "76561199856290691",
-      "Score": 4,
-      "Time": "25:52"
+      "Score": 12,
+      "Time": "27:52"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 43,
-      "Time": "09:32"
+      "Score": 53,
+      "Time": "11:32"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 0,
-      "Time": "03:37"
+      "Score": 2,
+      "Time": "05:37"
     },
     {
       "Name": "owner @ keelaware.cc",
       "Steam": "76561198697413492",
-      "Score": 18,
-      "Time": "07:56"
+      "Score": 23,
+      "Time": "09:56"
     }
   ]
 }
