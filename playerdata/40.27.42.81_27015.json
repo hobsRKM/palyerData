@@ -1,22 +1,40 @@
 {
-  "Time": "2026-07-14T05:36:49.4480987Z",
+  "Time": "2026-07-14T05:38:49.4455167Z",
   "Players": [
+    {
+      "Name": "parties {room}",
+      "Steam": "76561199548350350",
+      "Score": 0,
+      "Time": "102:04"
+    },
+    {
+      "Name": "-",
+      "Steam": "76561199702116655",
+      "Score": 0,
+      "Time": "00:30"
+    },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 6,
-      "Time": "112:28"
+      "Score": 11,
+      "Time": "114:28"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 18,
-      "Time": "104:07"
+      "Score": 22,
+      "Time": "106:07"
+    },
+    {
+      "Name": "hvh.config I'm From Turkiye",
+      "Steam": "76561198675073353",
+      "Score": 0,
+      "Time": "00:28"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 21,
+      "Score": 29,
       "Time": "??:??"
     }
   ]
