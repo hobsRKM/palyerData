@@ -1,64 +1,88 @@
 {
-  "Time": "2026-07-14T23:29:01.1948004Z",
+  "Time": "2026-07-14T23:31:01.2180374Z",
   "Players": [
+    {
+      "Name": "Istv",
+      "Steam": "76561199381810676",
+      "Score": 0,
+      "Time": "31:07"
+    },
     {
       "Name": "djulia_eightkushfreestyle 2013]]",
       "Steam": "76561199344219380",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "justino",
       "Steam": "76561198872833222",
-      "Score": 10,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "apoxlwatjtabmfka",
       "Steam": "76561199802620156",
+      "Score": 2,
+      "Time": "261:02"
+    },
+    {
+      "Name": "Void",
+      "Steam": "76561198783947375",
       "Score": 1,
-      "Time": "259:02"
+      "Time": "??:??"
+    },
+    {
+      "Name": "Efe",
+      "Steam": "76561199177693015",
+      "Score": 6,
+      "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 0,
-      "Time": "24:02"
+      "Score": 4,
+      "Time": "26:02"
     },
     {
       "Name": "yhicker6",
       "Steam": "76561198720943498",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "38",
+      "Steam": "76561198714457522",
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Running With Scissors >,_,<",
       "Steam": "76561199877771124",
-      "Score": 10,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 21,
-      "Time": "32:09"
+      "Score": 28,
+      "Time": "34:09"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
       "Score": 4,
-      "Time": "85:29"
+      "Time": "87:29"
     },
     {
       "Name": "shyne",
       "Steam": "76561199096113124",
-      "Score": 11,
-      "Time": "40:59"
+      "Score": 18,
+      "Time": "42:59"
     },
     {
       "Name": "LeaLea",
       "Steam": "76561199319414622",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
