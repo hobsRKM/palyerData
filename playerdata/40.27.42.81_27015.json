@@ -1,16 +1,22 @@
 {
-  "Time": "2026-07-15T21:06:49.4758336Z",
+  "Time": "2026-07-15T21:08:49.4690503Z",
   "Players": [
+    {
+      "Name": "escort",
+      "Steam": "76561199221879432",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "wop",
       "Steam": "76561199188735797",
-      "Score": 5,
-      "Time": "119:02"
+      "Score": 7,
+      "Time": "121:02"
     },
     {
       "Name": "neverlose",
       "Steam": "76561198674636684",
-      "Score": 16,
+      "Score": 23,
       "Time": "??:??"
     },
     {
@@ -22,43 +28,49 @@
     {
       "Name": "lotsofcries",
       "Steam": "76561198735857559",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Lord Cota",
       "Steam": "76561198886680803",
-      "Score": 33,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ifuckniggger67",
+      "Steam": "76561199860616212",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
       "Score": 16,
-      "Time": "30:50"
+      "Time": "32:50"
     },
     {
       "Name": ":>",
       "Steam": "76561199230061000",
-      "Score": 0,
-      "Time": "29:56"
+      "Score": 2,
+      "Time": "31:56"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 42,
-      "Time": "51:34"
+      "Score": 50,
+      "Time": "53:34"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 60,
+      "Score": 66,
       "Time": "??:??"
     }
   ]
