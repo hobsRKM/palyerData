@@ -1,40 +1,52 @@
 {
-  "Time": "2026-07-15T12:50:49.4794112Z",
+  "Time": "2026-07-15T12:52:49.4718177Z",
   "Players": [
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 6,
+      "Time": "02:00"
+    },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
       "Score": 14,
-      "Time": "21:54"
+      "Time": "23:54"
     },
     {
       "Name": "PerfecMan",
       "Steam": "76561198751816619",
-      "Score": 1,
-      "Time": "68:08"
+      "Score": 3,
+      "Time": "70:08"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 46,
-      "Time": "11:46"
+      "Score": 58,
+      "Time": "13:46"
     },
     {
       "Name": "justino",
       "Steam": "76561198872833222",
-      "Score": 7,
-      "Time": "55:55"
+      "Score": 11,
+      "Time": "57:55"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 24,
-      "Time": "13:14"
+      "Score": 29,
+      "Time": "15:14"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 21,
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "youtube.com/@zzylo12",
+      "Steam": "76561198677875772",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
