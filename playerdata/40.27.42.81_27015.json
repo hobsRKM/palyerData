@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-15T14:10:49.4654941Z",
+  "Time": "2026-07-15T14:12:49.4747567Z",
   "Players": [
+    {
+      "Name": "luke14days",
+      "Steam": "76561198740895191",
+      "Score": 33,
+      "Time": "01:39"
+    },
     {
       "Name": "Mr Meow",
       "Steam": "76561198684938119",
-      "Score": 50,
-      "Time": "73:12"
+      "Score": 54,
+      "Time": "75:12"
     },
     {
       "Name": "fvzm",
       "Steam": "76561198682426618",
       "Score": 34,
-      "Time": "44:06"
-    },
-    {
-      "Name": "uwukitten18",
-      "Steam": "76561199849988273",
-      "Score": 2,
-      "Time": "??:??"
+      "Time": "46:06"
     },
     {
       "Name": "-_$",
       "Steam": "76561198380825009",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "djulia_eightkushfreestyle 2013]]",
       "Steam": "76561199344219380",
-      "Score": 0,
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "d4rk",
+      "Steam": "76561199239366630",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
