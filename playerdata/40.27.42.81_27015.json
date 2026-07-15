@@ -1,16 +1,22 @@
 {
-  "Time": "2026-07-15T06:34:16.582963Z",
+  "Time": "2026-07-15T06:36:16.5825805Z",
   "Players": [
+    {
+      "Name": "lol",
+      "Steam": "76561198680732763",
+      "Score": 6,
+      "Time": "01:18"
+    },
     {
       "Name": "hate me.",
       "Steam": "76561199524854903",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 40,
+      "Score": 50,
       "Time": "??:??"
     },
     {
@@ -22,38 +28,44 @@
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 21,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 47,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "filipmilicevic116",
       "Steam": "76561199802043440",
-      "Score": 44,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "love skiddy",
       "Steam": "76561199887239492",
-      "Score": 0,
-      "Time": "06:38"
+      "Score": 9,
+      "Time": "08:38"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 9,
+      "Score": 19,
       "Time": "??:??"
+    },
+    {
+      "Name": "silk",
+      "Steam": "76561198734736041",
+      "Score": 5,
+      "Time": "01:32"
     },
     {
       "Name": "Jibe Gaming",
       "Steam": "76561198839108892",
-      "Score": 2,
-      "Time": "02:06"
+      "Score": 4,
+      "Time": "04:06"
     }
   ]
 }
