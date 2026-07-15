@@ -1,41 +1,41 @@
 {
-  "Time": "2026-07-15T12:28:49.4735709Z",
+  "Time": "2026-07-15T12:30:49.4746625Z",
   "Players": [
+    {
+      "Name": "luke14days",
+      "Steam": "76561198740895191",
+      "Score": 4,
+      "Time": "01:54"
+    },
     {
       "Name": "PerfecMan",
       "Steam": "76561198751816619",
-      "Score": 12,
-      "Time": "46:08"
+      "Score": 13,
+      "Time": "48:08"
     },
     {
       "Name": "justino",
       "Steam": "76561198872833222",
-      "Score": 37,
-      "Time": "33:55"
+      "Score": 47,
+      "Time": "35:55"
     },
     {
       "Name": "Codaxy",
       "Steam": "76561198751369935",
-      "Score": 20,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Sheriff",
       "Steam": "76561199707300006",
-      "Score": 21,
-      "Time": "30:25"
+      "Score": 25,
+      "Time": "32:25"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 50,
+      "Score": 63,
       "Time": "??:??"
-    },
-    {
-      "Name": "Bergamota",
-      "Steam": "76561199430267456",
-      "Score": 0,
-      "Time": "13:17"
     }
   ]
 }
