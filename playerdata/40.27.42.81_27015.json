@@ -1,59 +1,65 @@
 {
-  "Time": "2026-07-15T07:06:16.5783797Z",
+  "Time": "2026-07-15T07:08:16.5938161Z",
   "Players": [
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 35,
-      "Time": "31:18"
+      "Score": 36,
+      "Time": "33:18"
+    },
+    {
+      "Name": "wzfjqjjfjarj3fafadafcafa",
+      "Steam": "76561199880717233",
+      "Score": 2,
+      "Time": "147:50"
     },
     {
       "Name": "Wizard Goose",
       "Steam": "76561198841275520",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 0,
-      "Time": "120:47"
+      "Score": 7,
+      "Time": "122:47"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 84,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": ":>",
       "Steam": "76561199230061000",
-      "Score": 25,
-      "Time": "13:33"
+      "Score": 29,
+      "Time": "15:33"
     },
     {
       "Name": "third eye closed",
       "Steam": "76561199049807914",
-      "Score": 0,
-      "Time": "120:49"
+      "Score": 2,
+      "Time": "122:49"
     },
     {
       "Name": "rabid",
       "Steam": "76561198714457522",
       "Score": 0,
-      "Time": "146:14"
+      "Time": "148:14"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
       "Score": 36,
-      "Time": "31:32"
+      "Time": "33:32"
     }
   ]
 }
