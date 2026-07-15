@@ -1,70 +1,82 @@
 {
-  "Time": "2026-07-15T22:44:49.6932342Z",
+  "Time": "2026-07-15T22:46:49.6978505Z",
   "Players": [
     {
       "Name": "wop",
       "Steam": "76561199188735797",
-      "Score": 50,
-      "Time": "217:02"
+      "Score": 52,
+      "Time": "219:02"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
       "Score": 55,
-      "Time": "59:45"
+      "Time": "61:45"
     },
     {
       "Name": "notzonticx",
       "Steam": "76561199729277028",
-      "Score": 74,
-      "Time": "30:03"
+      "Score": 75,
+      "Time": "32:03"
     },
     {
       "Name": "lotsofcries",
       "Steam": "76561198735857559",
-      "Score": 0,
-      "Time": "11:37"
+      "Score": 6,
+      "Time": "13:37"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 13,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 112,
-      "Time": "63:49"
+      "Score": 118,
+      "Time": "65:49"
     },
     {
       "Name": "toy o mi pollo!",
       "Steam": "76561198800316163",
-      "Score": 29,
+      "Score": 31,
       "Time": "??:??"
+    },
+    {
+      "Name": "shyne",
+      "Steam": "76561199096113124",
+      "Score": 1,
+      "Time": "00:25"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 63,
-      "Time": "36:42"
+      "Score": 71,
+      "Time": "38:42"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 98,
-      "Time": "37:22"
+      "Score": 102,
+      "Time": "39:22"
+    },
+    {
+      "Name": "david",
+      "Steam": "76561199718005346",
+      "Score": 4,
+      "Time": "00:28"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 153,
+      "Score": 158,
       "Time": "??:??"
     }
   ]
