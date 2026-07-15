@@ -1,52 +1,64 @@
 {
-  "Time": "2026-07-15T19:30:49.4679525Z",
+  "Time": "2026-07-15T19:32:49.4812439Z",
   "Players": [
+    {
+      "Name": "the nixware grim reaper",
+      "Steam": "76561199524854903",
+      "Score": 33,
+      "Time": "01:35"
+    },
     {
       "Name": "wop",
       "Steam": "76561199188735797",
-      "Score": 47,
-      "Time": "23:02"
+      "Score": 50,
+      "Time": "25:02"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 51,
-      "Time": "48:04"
+      "Score": 53,
+      "Time": "50:04"
+    },
+    {
+      "Name": "Ket Addict",
+      "Steam": "76561198792579999",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 86,
-      "Time": "31:57"
+      "Score": 88,
+      "Time": "33:57"
     },
     {
       "Name": "akardopompeppqu",
       "Steam": "76561198685223996",
-      "Score": 70,
-      "Time": "39:52"
+      "Score": 76,
+      "Time": "41:52"
     },
     {
-      "Name": "XEV",
+      "Name": "n",
       "Steam": "76561198984848627",
       "Score": 32,
-      "Time": "08:49"
+      "Time": "10:49"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 95,
+      "Score": 104,
       "Time": "??:??"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 36,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "i am insane",
       "Steam": "76561199118334811",
-      "Score": 11,
+      "Score": 21,
       "Time": "??:??"
     },
     {
@@ -58,13 +70,13 @@
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 27,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 3,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
