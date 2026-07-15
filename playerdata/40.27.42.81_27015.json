@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-15T04:56:16.5903241Z",
+  "Time": "2026-07-15T04:58:16.5787387Z",
   "Players": [
+    {
+      "Name": "lol",
+      "Steam": "76561198680732763",
+      "Score": 0,
+      "Time": "01:58"
+    },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 27,
-      "Time": "15:29"
+      "Score": 35,
+      "Time": "17:29"
     },
     {
       "Name": "Wizard Goose",
@@ -22,49 +28,37 @@
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 8,
-      "Time": "07:46"
+      "Score": 10,
+      "Time": "09:46"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 42,
-      "Time": "??:??"
-    },
-    {
-      "Name": "r0x",
-      "Steam": "76561197970393276",
-      "Score": 8,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "sasuke",
       "Steam": "76561198673021575",
-      "Score": 32,
-      "Time": "12:50"
+      "Score": 35,
+      "Time": "14:50"
     },
     {
       "Name": "illinois™",
       "Steam": "76561198787031314",
-      "Score": 31,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Alyssa Liu Cracked @ Village",
-      "Steam": "76561197976454047",
-      "Score": 9,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "EasyAF",
       "Steam": "76561198417239008",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
