@@ -1,35 +1,35 @@
 {
-  "Time": "2026-07-15T18:40:49.4777536Z",
+  "Time": "2026-07-15T18:42:49.4747161Z",
   "Players": [
+    {
+      "Name": "luke14days",
+      "Steam": "76561198740895191",
+      "Score": 0,
+      "Time": "00:04"
+    },
     {
       "Name": "justino",
       "Steam": "76561198872833222",
-      "Score": 11,
-      "Time": "170:21"
+      "Score": 23,
+      "Time": "172:21"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 20,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "a heartwell ending",
       "Steam": "76561199873925813",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "aknji?",
       "Steam": "76561199344219380",
-      "Score": 7,
-      "Time": "72:16"
-    },
-    {
-      "Name": "lilwalkemdown23",
-      "Steam": "76561198742184205",
-      "Score": 10,
-      "Time": "06:41"
+      "Score": 14,
+      "Time": "74:16"
     }
   ]
 }
