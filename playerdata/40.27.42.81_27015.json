@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-15T00:17:01.5621368Z",
+  "Time": "2026-07-15T00:23:01.6274383Z",
   "Players": [
+    {
+      "Name": "d4rk",
+      "Steam": "76561199239366630",
+      "Score": 14,
+      "Time": "01:34"
+    },
     {
       "Name": "justino",
       "Steam": "76561198872833222",
-      "Score": 22,
+      "Score": 47,
       "Time": "??:??"
     },
     {
-      "Name": "getkaiju.c getkaiju.cc",
+      "Name": "getkaij_ getkaiju.cc",
       "Steam": "76561199375775741",
-      "Score": 7,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 30,
-      "Time": "29:54"
+      "Score": 40,
+      "Time": "35:54"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 36,
-      "Time": "72:02"
+      "Score": 56,
+      "Time": "78:02"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 7,
-      "Time": "26:47"
+      "Score": 30,
+      "Time": "32:47"
     }
   ]
 }
