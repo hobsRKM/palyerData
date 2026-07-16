@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-16T20:25:02.7180076Z",
+  "Time": "2026-07-16T20:27:02.7171159Z",
   "Players": [
+    {
+      "Name": "faidonios",
+      "Steam": "76561198885546059",
+      "Score": 2,
+      "Time": "01:37"
+    },
     {
       "Name": "Not Mr Meow",
       "Steam": "76561198683369951",
-      "Score": 25,
-      "Time": "07:18"
+      "Score": 29,
+      "Time": "09:18"
     },
     {
       "Name": "\uD80C\uDDA9ȾĦɆ ȺꞤĐ",
       "Steam": "76561199530392626",
-      "Score": 23,
-      "Time": "176:01"
+      "Score": 31,
+      "Time": "178:01"
     },
     {
       "Name": "tek zevkim 31",
@@ -22,13 +28,13 @@
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 107,
-      "Time": "49:40"
+      "Score": 111,
+      "Time": "51:40"
     },
     {
       "Name": "жопа кота",
       "Steam": "76561199005511137",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -40,20 +46,20 @@
     {
       "Name": "Ulquiorra",
       "Steam": "76561198765968367",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 54,
-      "Time": "27:10"
+      "Score": 57,
+      "Time": "29:10"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 149,
-      "Time": "43:34"
+      "Score": 161,
+      "Time": "45:34"
     }
   ]
 }
