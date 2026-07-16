@@ -1,47 +1,53 @@
 {
-  "Time": "2026-07-16T07:31:05.2504334Z",
+  "Time": "2026-07-16T07:33:05.2993855Z",
   "Players": [
+    {
+      "Name": "< blank >",
+      "Steam": "76561198677694945",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Alyssa Liu Cracked @ Village",
+      "Steam": "76561197976454047",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "gitan0",
       "Steam": "76561199611378559",
       "Score": 2,
-      "Time": "47:28"
+      "Time": "49:28"
     },
     {
       "Name": "smeshnici",
       "Steam": "76561199863937965",
-      "Score": 2,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "roofieGOD6769",
       "Steam": "76561199503682247",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21Scav",
       "Steam": "76561198689816963",
-      "Score": 6,
-      "Time": "15:47"
+      "Score": 10,
+      "Time": "17:47"
     },
     {
       "Name": "White Man",
       "Steam": "76561198287152179",
-      "Score": 1,
-      "Time": "14:11"
+      "Score": 5,
+      "Time": "16:11"
     },
     {
       "Name": "true pedo",
       "Steam": "76561198680732763",
-      "Score": 6,
-      "Time": "49:25"
-    },
-    {
-      "Name": "Junior .",
-      "Steam": "76561199836886163",
-      "Score": 2,
-      "Time": "53:25"
+      "Score": 7,
+      "Time": "51:25"
     }
   ]
 }
