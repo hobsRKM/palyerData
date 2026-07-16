@@ -1,65 +1,71 @@
 {
-  "Time": "2026-07-16T01:08:50.3675607Z",
+  "Time": "2026-07-16T01:10:50.3601232Z",
   "Players": [
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 15,
-      "Time": "07:37"
+      "Score": 27,
+      "Time": "09:37"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 24,
-      "Time": "11:37"
+      "Score": 28,
+      "Time": "13:37"
     },
     {
       "Name": "2012 back",
       "Steam": "76561199524854903",
-      "Score": 4,
-      "Time": "85:45"
+      "Score": 5,
+      "Time": "87:44"
+    },
+    {
+      "Name": ".",
+      "Steam": "76561198888520557",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 0,
-      "Time": "02:39"
+      "Time": "04:39"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 11,
-      "Time": "05:49"
+      "Score": 15,
+      "Time": "07:49"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 10,
-      "Time": "02:44"
+      "Score": 22,
+      "Time": "04:44"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 10,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "TuberOP",
       "Steam": "76561199661968277",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 47,
-      "Time": "37:19"
+      "Score": 53,
+      "Time": "39:19"
     }
   ]
 }
