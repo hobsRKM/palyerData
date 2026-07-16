@@ -1,22 +1,22 @@
 {
-  "Time": "2026-07-16T00:50:50.3338708Z",
+  "Time": "2026-07-16T00:52:50.3370476Z",
   "Players": [
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 10,
-      "Time": "09:14"
+      "Score": 19,
+      "Time": "11:14"
     },
     {
       "Name": "aq",
       "Steam": "76561199293307882",
       "Score": 14,
-      "Time": "160:40"
+      "Time": "162:40"
     },
     {
       "Name": "parties",
       "Steam": "76561199548350350",
-      "Score": 65,
+      "Score": 68,
       "Time": "??:??"
     },
     {
@@ -28,32 +28,26 @@
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 1,
-      "Time": "07:32"
+      "Score": 2,
+      "Time": "09:32"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 91,
-      "Time": "86:12"
-    },
-    {
-      "Name": "escort",
-      "Steam": "76561199221879432",
-      "Score": 4,
-      "Time": "24:48"
+      "Score": 99,
+      "Time": "88:12"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 14,
-      "Time": "23:38"
+      "Score": 20,
+      "Time": "25:38"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 74,
-      "Time": "19:19"
+      "Score": 83,
+      "Time": "21:19"
     }
   ]
 }
