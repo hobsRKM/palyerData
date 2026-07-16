@@ -1,22 +1,28 @@
 {
-  "Time": "2026-07-16T17:17:02.7193826Z",
+  "Time": "2026-07-16T17:19:02.7120389Z",
   "Players": [
+    {
+      "Name": "zora97964",
+      "Steam": "76561198674190636",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "faidonios",
       "Steam": "76561198885546059",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Not Mr Meow",
       "Steam": "76561198683369951",
-      "Score": 38,
-      "Time": "04:30"
+      "Score": 48,
+      "Time": "06:30"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 56,
+      "Score": 57,
       "Time": "??:??"
     },
     {
@@ -28,25 +34,25 @@
     {
       "Name": "PizzaThief",
       "Steam": "76561199834410706",
-      "Score": 93,
+      "Score": 105,
       "Time": "??:??"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 52,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 52,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "Kryptec",
       "Steam": "76561199131303778",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
