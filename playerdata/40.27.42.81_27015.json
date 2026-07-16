@@ -1,23 +1,41 @@
 {
-  "Time": "2026-07-16T20:31:02.7157484Z",
+  "Time": "2026-07-16T20:33:02.7109996Z",
   "Players": [
+    {
+      "Name": "poophead",
+      "Steam": "76561199580676396",
+      "Score": 0,
+      "Time": "02:00"
+    },
     {
       "Name": "Not Mr Meow",
       "Steam": "76561198683369951",
-      "Score": 6,
-      "Time": "13:18"
+      "Score": 12,
+      "Time": "15:18"
+    },
+    {
+      "Name": "skiddy ™",
+      "Steam": "76561198806497985",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 11,
-      "Time": "55:40"
+      "Score": 17,
+      "Time": "57:40"
     },
     {
       "Name": "жопа кота",
       "Steam": "76561199005511137",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
+    },
+    {
+      "Name": "Bobby THE BAIMING BOT",
+      "Steam": "76561199411523950",
+      "Score": 0,
+      "Time": "01:07"
     },
     {
       "Name": "yes",
@@ -28,14 +46,14 @@
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 12,
-      "Time": "33:10"
+      "Score": 21,
+      "Time": "35:10"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 9,
-      "Time": "49:34"
+      "Score": 4,
+      "Time": "51:34"
     }
   ]
 }
