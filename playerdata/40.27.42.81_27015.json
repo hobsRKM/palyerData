@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-16T04:46:56.9238688Z",
+  "Time": "2026-07-16T04:48:56.9669133Z",
   "Players": [
+    {
+      "Name": "UR LOCAL RADIO",
+      "Steam": "76561198724431804",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "des",
       "Steam": "76561199170738859",
@@ -17,43 +23,37 @@
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 0,
-      "Time": "91:32"
+      "Time": "93:32"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 10,
-      "Time": "171:29"
+      "Score": 12,
+      "Time": "173:29"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 84,
-      "Time": "267:07"
+      "Score": 90,
+      "Time": "269:07"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 46,
-      "Time": "11:59"
+      "Score": 51,
+      "Time": "13:59"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 75,
+      "Score": 85,
       "Time": "??:??"
-    },
-    {
-      "Name": "gynophobia",
-      "Steam": "76561199033568973",
-      "Score": 0,
-      "Time": "554:56"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 37,
-      "Time": "51:47"
+      "Score": 45,
+      "Time": "53:47"
     }
   ]
 }
