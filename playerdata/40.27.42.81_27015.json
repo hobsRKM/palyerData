@@ -1,28 +1,34 @@
 {
-  "Time": "2026-07-16T18:43:02.7017662Z",
+  "Time": "2026-07-16T18:45:02.700267Z",
   "Players": [
     {
       "Name": "Z",
       "Steam": "76561199708520028",
-      "Score": 80,
+      "Score": 85,
       "Time": "??:??"
+    },
+    {
+      "Name": "poophead",
+      "Steam": "76561199580676396",
+      "Score": 0,
+      "Time": "00:17"
     },
     {
       "Name": "i know seed",
       "Steam": "76561199537084466",
-      "Score": 7,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 41,
-      "Time": "12:23"
+      "Score": 54,
+      "Time": "14:23"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 24,
+      "Score": 27,
       "Time": "??:??"
     }
   ]
