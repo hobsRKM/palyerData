@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-16T00:36:50.2317289Z",
+  "Time": "2026-07-16T00:38:50.2278716Z",
   "Players": [
+    {
+      "Name": "aq",
+      "Steam": "76561199293307882",
+      "Score": 0,
+      "Time": "148:40"
+    },
     {
       "Name": "parties",
       "Steam": "76561199548350350",
-      "Score": 36,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 31,
-      "Time": "72:12"
+      "Score": 35,
+      "Time": "74:12"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 33,
-      "Time": "10:35"
+      "Score": 39,
+      "Time": "12:35"
     },
     {
       "Name": "lol",
       "Steam": "76561198680732763",
       "Score": 10,
-      "Time": "09:38"
+      "Time": "11:38"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 14,
-      "Time": "05:19"
+      "Score": 22,
+      "Time": "07:19"
     }
   ]
 }
