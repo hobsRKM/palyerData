@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-16T06:37:01.8251316Z",
+  "Time": "2026-07-16T06:39:01.9217459Z",
   "Players": [
     {
       "Name": "paul",
       "Steam": "76561199725913337",
-      "Score": 84,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "personal",
+      "Steam": "76561198679424729",
+      "Score": 0,
+      "Time": "00:18"
+    },
+    {
+      "Name": "True Talent Hidden Within Opsec.",
+      "Steam": "76561199580355122",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "mouse // first day on ot update",
       "Steam": "76561199887239492",
-      "Score": 0,
-      "Time": "00:10"
+      "Score": 2,
+      "Time": "02:10"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 65,
-      "Time": "281:33"
+      "Score": 0,
+      "Time": "283:34"
     },
     {
       "Name": "White Man",
       "Steam": "76561198287152179",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
-      "Name": "IfYouArentNIGaYouAreNotNIGA",
-      "Steam": "76561198673409723",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "lol",
-      "Steam": "76561198680732763",
-      "Score": 31,
-      "Time": "38:18"
+      "Name": "Junior .",
+      "Steam": "76561199836886163",
+      "Score": 0,
+      "Time": "01:21"
     }
   ]
 }
