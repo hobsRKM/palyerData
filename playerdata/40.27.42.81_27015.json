@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-16T06:35:01.7521167Z",
+  "Time": "2026-07-16T06:37:01.8251316Z",
   "Players": [
     {
       "Name": "paul",
       "Steam": "76561199725913337",
-      "Score": 76,
+      "Score": 84,
       "Time": "??:??"
+    },
+    {
+      "Name": "mouse // first day on ot update",
+      "Steam": "76561199887239492",
+      "Score": 0,
+      "Time": "00:10"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 59,
-      "Time": "279:33"
+      "Score": 65,
+      "Time": "281:33"
     },
     {
       "Name": "White Man",
@@ -28,8 +34,8 @@
     {
       "Name": "lol",
       "Steam": "76561198680732763",
-      "Score": 25,
-      "Time": "36:18"
+      "Score": 31,
+      "Time": "38:18"
     }
   ]
 }
