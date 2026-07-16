@@ -1,29 +1,47 @@
 {
-  "Time": "2026-07-16T18:37:02.7149944Z",
+  "Time": "2026-07-16T18:39:02.7173491Z",
   "Players": [
     {
       "Name": "Z",
       "Steam": "76561199708520028",
-      "Score": 60,
+      "Score": 69,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Not Mr Meow",
+      "Steam": "76561198683369951",
+      "Score": 0,
+      "Time": "00:28"
+    },
+    {
+      "Name": "hvh.config I'm From Turkiye",
+      "Steam": "76561198675073353",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "i know seed",
+      "Steam": "76561199537084466",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 11,
-      "Time": "06:23"
+      "Score": 23,
+      "Time": "08:23"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 59,
-      "Time": "41:35"
+      "Score": 66,
+      "Time": "43:35"
     }
   ]
 }
