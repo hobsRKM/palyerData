@@ -1,59 +1,65 @@
 {
-  "Time": "2026-07-16T01:54:50.8161355Z",
+  "Time": "2026-07-16T01:56:50.8381854Z",
   "Players": [
     {
       "Name": "oldmanwithalot2learn",
       "Steam": "76561198713378262",
-      "Score": 36,
+      "Score": 41,
       "Time": "??:??"
+    },
+    {
+      "Name": "Enzo Fernández",
+      "Steam": "76561198694283985",
+      "Score": 0,
+      "Time": "181:18"
     },
     {
       "Name": "Ansi Owo",
       "Steam": "76561199865641250",
-      "Score": 34,
-      "Time": "29:55"
+      "Score": 39,
+      "Time": "31:55"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 44,
-      "Time": "16:08"
+      "Score": 47,
+      "Time": "18:08"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 51,
-      "Time": "12:40"
+      "Score": 60,
+      "Time": "14:40"
     },
     {
       "Name": "asz",
       "Steam": "76561198675659143",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "keela sexy 6’4 hellcat driver",
       "Steam": "76561198697413492",
-      "Score": 12,
-      "Time": "04:44"
+      "Score": 14,
+      "Time": "06:44"
     },
     {
       "Name": "si papi si papi",
       "Steam": "76561198723445690",
-      "Score": 33,
-      "Time": "25:05"
-    },
-    {
-      "Name": "- Swag",
-      "Steam": "76561199887186198",
-      "Score": 3,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "27:05"
     },
     {
       "Name": "silk",
       "Steam": "76561198734736041",
-      "Score": 21,
-      "Time": "08:30"
+      "Score": 27,
+      "Time": "10:30"
+    },
+    {
+      "Name": "Istv",
+      "Steam": "76561199381810676",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "Junior .",
@@ -64,14 +70,14 @@
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 56,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 94,
-      "Time": "83:20"
+      "Score": 102,
+      "Time": "85:20"
     }
   ]
 }
