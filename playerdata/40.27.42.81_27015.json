@@ -1,71 +1,77 @@
 {
-  "Time": "2026-07-16T01:42:50.5936427Z",
+  "Time": "2026-07-16T01:44:50.6000082Z",
   "Players": [
+    {
+      "Name": "oldmanwithalot2learn",
+      "Steam": "76561198713378262",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Ansi Owo",
       "Steam": "76561199865641250",
-      "Score": 6,
-      "Time": "17:54"
+      "Score": 10,
+      "Time": "19:54"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 8,
-      "Time": "04:07"
+      "Score": 12,
+      "Time": "06:07"
     },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 8,
-      "Time": "146:45"
+      "Score": 11,
+      "Time": "148:45"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 0,
-      "Time": "00:40"
+      "Score": 16,
+      "Time": "02:40"
     },
     {
       "Name": "si papi si papi",
       "Steam": "76561198723445690",
-      "Score": 7,
-      "Time": "13:05"
+      "Score": 9,
+      "Time": "15:05"
     },
     {
       "Name": "PerfecMan",
       "Steam": "76561198751816619",
       "Score": 0,
-      "Time": "360:22"
+      "Time": "362:22"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 22,
-      "Time": "13:06"
+      "Score": 26,
+      "Time": "15:06"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 6,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 21,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 29,
-      "Time": "71:20"
+      "Score": 41,
+      "Time": "73:20"
     }
   ]
 }
