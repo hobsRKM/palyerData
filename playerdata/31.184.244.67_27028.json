@@ -1,5 +1,5 @@
 {
-  "Time": "2026-07-17T13:39:35.9420222Z",
+  "Time": "2026-07-17T13:41:35.9403354Z",
   "Players": [
     {
       "Name": "Nim",
@@ -10,31 +10,37 @@
     {
       "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 0,
-      "Time": "12:42"
+      "Score": 12,
+      "Time": "14:42"
     },
     {
       "Name": "LastHope",
       "Steam": "76561199345907245",
-      "Score": 0,
+      "Score": 12,
       "Time": "??:??"
+    },
+    {
+      "Name": "Reset",
+      "Steam": "76561199010254074",
+      "Score": 9,
+      "Time": "01:45"
     },
     {
       "Name": "skeet skeet",
       "Steam": "76561199223163779",
       "Score": 0,
-      "Time": "33:30"
+      "Time": "35:30"
     },
     {
       "Name": "baviolie",
       "Steam": "76561199060037081",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "johnfishing@yahoo.com",
       "Steam": "76561199523130413",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
