@@ -1,5 +1,5 @@
 {
-  "Time": "2026-07-17T04:01:35.9314878Z",
+  "Time": "2026-07-17T04:03:35.9408073Z",
   "Players": [
     {
       "Name": "Nim",
@@ -8,28 +8,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "sensei",
+      "Steam": "76561199831711491",
+      "Score": 0,
+      "Time": "00:25"
+    },
+    {
       "Name": "Candy Man",
       "Steam": "76561199142822378",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "PerfecMan",
       "Steam": "76561198751816619",
-      "Score": 20,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "\uD800\uDC83\uD800\uDC83",
       "Steam": "76561198680415612",
-      "Score": 29,
-      "Time": "57:49"
+      "Score": 33,
+      "Time": "59:49"
     },
     {
       "Name": "\uD835\uDC2E\uD835\uDC1F\uD835\uDC1F \uD835\uDC32\uD835\uDC1A Hilarious",
       "Steam": "76561198759917687",
-      "Score": 24,
-      "Time": "08:57"
+      "Score": 25,
+      "Time": "10:57"
     },
     {
       "Name": "h3ntai",
@@ -40,20 +46,26 @@
     {
       "Name": "haha",
       "Steam": "76561198864955857",
-      "Score": 45,
-      "Time": "15:45"
+      "Score": 53,
+      "Time": "17:45"
     },
     {
       "Name": "enterprise",
       "Steam": "76561198974425215",
-      "Score": 16,
-      "Time": "05:34"
+      "Score": 20,
+      "Time": "07:34"
     },
     {
       "Name": "sammy",
       "Steam": "76561198678213087",
       "Score": 9,
-      "Time": "24:33"
+      "Time": "26:33"
+    },
+    {
+      "Name": "wynn",
+      "Steam": "76561199870060661",
+      "Score": 0,
+      "Time": "00:32"
     }
   ]
 }
