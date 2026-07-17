@@ -1,16 +1,28 @@
 {
-  "Time": "2026-07-17T11:44:54.126138Z",
+  "Time": "2026-07-17T11:46:54.1308608Z",
   "Players": [
+    {
+      "Name": "aim",
+      "Steam": "76561199826685794",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": ":>",
+      "Steam": "76561199230061000",
+      "Score": 0,
+      "Time": "00:20"
+    },
     {
       "Name": "mouse // first day on ot update",
       "Steam": "76561199887239492",
-      "Score": 5,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 30,
+      "Score": 34,
       "Time": "??:??"
     },
     {
@@ -22,19 +34,25 @@
     {
       "Name": "2012 back",
       "Steam": "76561199524854903",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 30,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "RAZE",
       "Steam": "76561199806232223",
-      "Score": 5,
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Zajda.",
+      "Steam": "76561199223329608",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
