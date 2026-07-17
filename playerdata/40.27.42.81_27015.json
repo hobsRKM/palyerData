@@ -1,23 +1,29 @@
 {
-  "Time": "2026-07-17T14:06:54.1264318Z",
+  "Time": "2026-07-17T14:08:54.1269792Z",
   "Players": [
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 8,
+      "Time": "02:03"
+    },
     {
       "Name": "Simply",
       "Steam": "76561199889163804",
-      "Score": 21,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Nobodyknowme",
       "Steam": "76561198772966672",
       "Score": 3,
-      "Time": "01:35"
+      "Time": "03:35"
     }
   ]
 }
