@@ -1,53 +1,59 @@
 {
-  "Time": "2026-07-17T21:18:54.1356295Z",
+  "Time": "2026-07-17T21:20:54.1340349Z",
   "Players": [
+    {
+      "Name": "Lego Yoda",
+      "Steam": "76561199499051767",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Kaori <3",
       "Steam": "76561198050195107",
-      "Score": 46,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "Alyssa Liu Cracked @ Village",
       "Steam": "76561197976454047",
-      "Score": 103,
+      "Score": 127,
       "Time": "??:??"
     },
     {
       "Name": "Stéphanie",
       "Steam": "76561199567801764",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 21,
-      "Time": "76:26"
+      "Score": 25,
+      "Time": "78:26"
     },
     {
       "Name": "[]",
       "Steam": "76561198691875886",
-      "Score": 38,
-      "Time": "251:17"
+      "Score": 40,
+      "Time": "253:17"
     },
     {
       "Name": "Nobodyknowme",
       "Steam": "76561198772966672",
-      "Score": 0,
-      "Time": "01:03"
+      "Score": 4,
+      "Time": "03:03"
     },
     {
       "Name": "muller",
       "Steam": "76561199158419168",
-      "Score": 11,
-      "Time": "34:14"
+      "Score": 17,
+      "Time": "36:14"
     },
     {
       "Name": "Viking",
       "Steam": "76561199718005346",
-      "Score": 36,
-      "Time": "53:14"
+      "Score": 38,
+      "Time": "55:14"
     }
   ]
 }
