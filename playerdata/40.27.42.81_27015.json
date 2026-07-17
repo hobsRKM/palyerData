@@ -1,41 +1,35 @@
 {
-  "Time": "2026-07-17T07:05:09.1953618Z",
+  "Time": "2026-07-17T07:07:09.2009151Z",
   "Players": [
-    {
-      "Name": "Kapi",
-      "Steam": "76561198690225442",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "baz",
       "Steam": "76561199014766648",
-      "Score": 2,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 2,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "backtrackeado1337",
       "Steam": "76561199617667550",
       "Score": 0,
-      "Time": "02:52"
+      "Time": "04:52"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 1,
-      "Time": "22:45"
+      "Score": 3,
+      "Time": "24:45"
     }
   ]
 }
