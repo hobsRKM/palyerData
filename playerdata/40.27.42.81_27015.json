@@ -1,16 +1,22 @@
 {
-  "Time": "2026-07-17T17:46:54.1346004Z",
+  "Time": "2026-07-17T17:48:54.1388435Z",
   "Players": [
     {
       "Name": "wow",
       "Steam": "76561199227491568",
-      "Score": 65,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "Donald Trump",
       "Steam": "76561198673256491",
-      "Score": 18,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cry yourself to sleep",
+      "Steam": "76561198744712586",
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -22,38 +28,32 @@
     {
       "Name": "toy o mi pollo!",
       "Steam": "76561198800316163",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 30,
-      "Time": "07:12"
+      "Score": 43,
+      "Time": "09:12"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 129,
-      "Time": "12:27"
+      "Score": 139,
+      "Time": "14:27"
     },
     {
       "Name": "lilwalkemdown23",
       "Steam": "76561198742184205",
-      "Score": 20,
-      "Time": "07:10"
+      "Score": 30,
+      "Time": "09:10"
     },
     {
       "Name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAV7",
       "Steam": "76561198673154037",
-      "Score": 21,
-      "Time": "66:36"
-    },
-    {
-      "Name": "muller",
-      "Steam": "76561199158419168",
-      "Score": 111,
-      "Time": "??:??"
+      "Score": 22,
+      "Time": "68:36"
     }
   ]
 }
