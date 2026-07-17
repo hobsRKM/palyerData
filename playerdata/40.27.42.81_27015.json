@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-17T21:56:54.132347Z",
+  "Time": "2026-07-17T21:58:54.1336015Z",
   "Players": [
+    {
+      "Name": "getkaiju.cc",
+      "Steam": "76561199375775741",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "pomaran",
       "Steam": "76561198688678599",
-      "Score": 11,
-      "Time": "10:54"
+      "Score": 13,
+      "Time": "12:54"
     },
     {
       "Name": "Stéphanie",
       "Steam": "76561199567801764",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 11,
-      "Time": "02:56"
+      "Score": 21,
+      "Time": "04:56"
     },
     {
       "Name": "[]",
       "Steam": "76561198691875886",
-      "Score": 23,
-      "Time": "17:06"
+      "Score": 33,
+      "Time": "19:06"
     },
     {
       "Name": "Nobodyknowme",
       "Steam": "76561198772966672",
-      "Score": 42,
-      "Time": "09:18"
+      "Score": 44,
+      "Time": "11:18"
     }
   ]
 }
