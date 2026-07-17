@@ -1,5 +1,5 @@
 {
-  "Time": "2026-07-17T05:11:35.9306665Z",
+  "Time": "2026-07-17T05:13:35.9318634Z",
   "Players": [
     {
       "Name": "Nim",
@@ -8,9 +8,21 @@
       "Time": "??:??"
     },
     {
+      "Name": "PerfecMan",
+      "Steam": "76561198751816619",
+      "Score": 4,
+      "Time": "00:46"
+    },
+    {
+      "Name": "❶\uD83C\uDD5C\uD83C\uDD64\uD83C\uDD62\uD83C\uDD62\uD83C\uDD50❶\uD83C\uDD5C",
+      "Steam": "76561198719703493",
+      "Score": 0,
+      "Time": "00:24"
+    },
+    {
       "Name": "bomber",
       "Steam": "76561198699525852",
-      "Score": 4,
+      "Score": 18,
       "Time": "??:??"
     },
     {
@@ -23,7 +35,7 @@
       "Name": "czew",
       "Steam": "76561199849697227",
       "Score": 0,
-      "Time": "93:05"
+      "Time": "95:05"
     }
   ]
 }
