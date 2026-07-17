@@ -1,22 +1,28 @@
 {
-  "Time": "2026-07-17T11:20:54.1349002Z",
+  "Time": "2026-07-17T11:22:54.1301969Z",
   "Players": [
+    {
+      "Name": "fl",
+      "Steam": "76561199737815705",
+      "Score": 8,
+      "Time": "02:01"
+    },
     {
       "Name": ":>",
       "Steam": "76561199230061000",
-      "Score": 22,
-      "Time": "24:10"
+      "Score": 25,
+      "Time": "26:09"
     },
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 50,
-      "Time": "12:46"
+      "Score": 60,
+      "Time": "14:46"
     },
     {
       "Name": "CPEnthusiast764",
       "Steam": "76561198677497146",
-      "Score": 18,
+      "Score": 19,
       "Time": "??:??"
     },
     {
@@ -28,25 +34,31 @@
     {
       "Name": "mouse // first day on ot update",
       "Steam": "76561199887239492",
-      "Score": 58,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "pomaran21",
       "Steam": "76561198684904152",
-      "Score": 14,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
-      "Name": "aleksandrik228",
-      "Steam": "76561199862890808",
+      "Name": "Malaj",
+      "Steam": "76561198733439672",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Katie noel",
+      "Steam": "76561198714934861",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
