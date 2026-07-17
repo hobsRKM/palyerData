@@ -1,35 +1,35 @@
 {
-  "Time": "2026-07-17T06:43:09.2018456Z",
+  "Time": "2026-07-17T06:45:09.1955206Z",
   "Players": [
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 47,
-      "Time": "62:28"
+      "Score": 54,
+      "Time": "64:28"
     },
     {
       "Name": "baz",
       "Steam": "76561199014766648",
-      "Score": 38,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "RAZE",
       "Steam": "76561199806232223",
-      "Score": 18,
-      "Time": "87:36"
+      "Score": 26,
+      "Time": "89:36"
+    },
+    {
+      "Name": "joj",
+      "Steam": "76561198680732763",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 12,
-      "Time": "00:45"
-    },
-    {
-      "Name": "Serial Killer Vibes",
-      "Steam": "76561198425753214",
-      "Score": 15,
-      "Time": "??:??"
+      "Score": 2,
+      "Time": "02:45"
     }
   ]
 }
