@@ -1,53 +1,47 @@
 {
-  "Time": "2026-07-18T05:54:58.7425037Z",
+  "Time": "2026-07-18T05:56:58.7779078Z",
   "Players": [
+    {
+      "Name": "mauler",
+      "Steam": "76561198792103440",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "-",
       "Steam": "76561199702116655",
-      "Score": 41,
-      "Time": "17:23"
+      "Score": 51,
+      "Time": "19:23"
     },
     {
       "Name": "Loxa Alright",
       "Steam": "76561198415405965",
-      "Score": 30,
-      "Time": "09:01"
+      "Score": 34,
+      "Time": "11:01"
     },
     {
       "Name": "spykids",
       "Steam": "76561198779681448",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "[]",
       "Steam": "76561198691875886",
-      "Score": 25,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 7,
-      "Time": "00:54"
-    },
-    {
-      "Name": "si papi si papi",
-      "Steam": "76561198723445690",
-      "Score": 39,
-      "Time": "544:44"
+      "Score": 13,
+      "Time": "02:54"
     },
     {
       "Name": "R Kelly",
       "Steam": "76561198762051156",
       "Score": 18,
-      "Time": "19:31"
-    },
-    {
-      "Name": "Sofa.pub",
-      "Steam": "76561199442363655",
-      "Score": 96,
-      "Time": "12:46"
+      "Time": "21:31"
     }
   ]
 }
