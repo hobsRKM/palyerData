@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-18T10:26:23.1513762Z",
-  "Players": []
+  "Time": "2026-07-18T10:26:39.370176Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Matkice",
+      "Steam": "76561199632881639",
+      "Score": 6,
+      "Time": "07:48"
+    },
+    {
+      "Name": "NL Bean_",
+      "Steam": "76561199096646407",
+      "Score": 6,
+      "Time": "01:23"
+    },
+    {
+      "Name": "Primordial Beta Update",
+      "Steam": "76561198788072509",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
