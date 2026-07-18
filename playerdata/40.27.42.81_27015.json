@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-18T00:06:54.151218Z",
+  "Time": "2026-07-18T00:08:54.1560003Z",
   "Players": [
+    {
+      "Name": "zuhn from ebay",
+      "Steam": "76561198735857559",
+      "Score": 4,
+      "Time": "00:55"
+    },
     {
       "Name": "Stéphanie",
       "Steam": "76561199567801764",
-      "Score": 99,
-      "Time": "78:11"
+      "Score": 115,
+      "Time": "80:11"
     },
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 10,
-      "Time": "101:45"
+      "Score": 17,
+      "Time": "103:45"
     },
     {
       "Name": "memesense.gg | Larp",
@@ -23,24 +29,18 @@
       "Name": "sonwater",
       "Steam": "76561199687541705",
       "Score": 6,
-      "Time": "02:42"
+      "Time": "04:42"
     },
     {
       "Name": "so0ven",
       "Steam": "76561199631624861",
-      "Score": 56,
+      "Score": 58,
       "Time": "??:??"
-    },
-    {
-      "Name": "mustafamamed",
-      "Steam": "76561198673943136",
-      "Score": 4,
-      "Time": "10:19"
     },
     {
       "Name": "rake",
       "Steam": "76561198672057099",
-      "Score": 14,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
