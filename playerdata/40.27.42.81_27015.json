@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-18T03:58:56.1842563Z",
+  "Time": "2026-07-18T04:00:56.2558985Z",
   "Players": [
     {
       "Name": "Hello :3",
       "Steam": "76561199882962470",
-      "Score": 10,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 21,
-      "Time": "48:47"
+      "Score": 25,
+      "Time": "50:47"
     },
     {
       "Name": "chinese sweat shop worker",
       "Steam": "76561198685506573",
-      "Score": 56,
+      "Score": 73,
       "Time": "??:??"
+    },
+    {
+      "Name": "P1IMPLE",
+      "Steam": "76561198689992791",
+      "Score": 0,
+      "Time": "00:59"
     },
     {
       "Name": "meeshysan",
       "Steam": "76561199174891460",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "memesense.gg | Larp",
-      "Steam": "76561198672025250",
-      "Score": 1,
-      "Time": "04:09"
+      "Name": "viconf2",
+      "Steam": "76561198673483386",
+      "Score": 0,
+      "Time": "00:08"
     },
     {
       "Name": "Loxa Alright",
@@ -44,9 +50,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 0,
+      "Time": "87:27"
+    },
+    {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 13,
+      "Score": 22,
       "Time": "??:??"
     },
     {
@@ -56,34 +68,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "✗ˑ\uD835\uDE30",
-      "Steam": "76561198180065165",
-      "Score": 0,
-      "Time": "124:26"
-    },
-    {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 46,
-      "Time": "39:28"
+      "Score": 69,
+      "Time": "41:28"
     },
     {
       "Name": "ducky",
       "Steam": "76561199041919222",
-      "Score": 14,
-      "Time": "37:51"
+      "Score": 22,
+      "Time": "39:51"
     },
     {
       "Name": "sharkbait",
       "Steam": "76561199199297162",
-      "Score": 14,
-      "Time": "05:25"
+      "Score": 22,
+      "Time": "07:25"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 13,
-      "Time": "06:26"
+      "Score": 0,
+      "Time": "08:26"
     }
   ]
 }
