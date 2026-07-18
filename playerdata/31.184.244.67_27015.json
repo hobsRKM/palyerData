@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-18T13:46:23.1513115Z",
-  "Players": []
+  "Time": "2026-07-18T13:46:39.3681116Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Traceless",
+      "Steam": "76561198675721225",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jeffrey larp",
+      "Steam": "76561198741981446",
+      "Score": 2,
+      "Time": "03:25"
+    },
+    {
+      "Name": "primoridal.D Primordial Beta Update",
+      "Steam": "76561198788072509",
+      "Score": 18,
+      "Time": "04:31"
+    }
+  ]
 }
