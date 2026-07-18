@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-18T20:31:57.3667968Z",
+  "Time": "2026-07-18T20:33:57.3597223Z",
   "Players": [
+    {
+      "Name": "Mr.Squirrel_Man",
+      "Steam": "76561198161326655",
+      "Score": 0,
+      "Time": "00:58"
+    },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 42,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "baphomet",
       "Steam": "76561198717821838",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "wow",
       "Steam": "76561199227491568",
-      "Score": 24,
-      "Time": "30:05"
+      "Score": 31,
+      "Time": "32:04"
     },
     {
       "Name": "Agony",
       "Steam": "76561198735582746",
-      "Score": 42,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
