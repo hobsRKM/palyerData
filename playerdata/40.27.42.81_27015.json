@@ -1,29 +1,35 @@
 {
-  "Time": "2026-07-17T23:48:54.1526437Z",
+  "Time": "2026-07-17T23:50:54.1406681Z",
   "Players": [
     {
       "Name": "Stéphanie",
       "Steam": "76561199567801764",
-      "Score": 120,
-      "Time": "60:11"
+      "Score": 5,
+      "Time": "62:11"
     },
     {
       "Name": "sonwater",
       "Steam": "76561199687541705",
-      "Score": 25,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "so0ven",
       "Steam": "76561199631624861",
-      "Score": 26,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 1,
-      "Time": "285:52"
+      "Score": 0,
+      "Time": "287:52"
+    },
+    {
+      "Name": "mustafamamed",
+      "Steam": "76561198673943136",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
