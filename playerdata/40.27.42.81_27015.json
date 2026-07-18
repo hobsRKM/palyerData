@@ -1,47 +1,53 @@
 {
-  "Time": "2026-07-18T18:59:57.360707Z",
+  "Time": "2026-07-18T19:01:57.358586Z",
   "Players": [
+    {
+      "Name": "Mr.Squirrel_Man",
+      "Steam": "76561198161326655",
+      "Score": 0,
+      "Time": "00:28"
+    },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 4,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 8,
+      "Time": "00:44"
     },
     {
       "Name": "zuh",
       "Steam": "76561199395603923",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 7,
+      "Score": 17,
       "Time": "??:??"
-    },
-    {
-      "Name": "vjn",
-      "Steam": "76561198701949041",
-      "Score": 0,
-      "Time": "10:40"
     },
     {
       "Name": "ze pilantra",
       "Steam": "76561199786815591",
-      "Score": 2,
+      "Score": 3,
       "Time": "??:??"
+    },
+    {
+      "Name": "sonwater",
+      "Steam": "76561199687541705",
+      "Score": 0,
+      "Time": "00:07"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 3,
-      "Time": "23:47"
+      "Score": 1,
+      "Time": "25:47"
     }
   ]
 }
