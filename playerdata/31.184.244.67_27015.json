@@ -1,4 +1,35 @@
 {
-  "Time": "2026-07-18T16:52:23.1501059Z",
-  "Players": []
+  "Time": "2026-07-18T16:52:39.367665Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "owo",
+      "Steam": "76561199860561550",
+      "Score": 74,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDCB8\uD835\uDCCF\uD835\uDC52\uD835\uDCCC #neverlose",
+      "Steam": "76561199849697227",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SAO  Primordial Beta",
+      "Steam": "76561198788072509",
+      "Score": 55,
+      "Time": "49:15"
+    },
+    {
+      "Name": "harrowing",
+      "Steam": "76561198705639029",
+      "Score": 56,
+      "Time": "??:??"
+    }
+  ]
 }
