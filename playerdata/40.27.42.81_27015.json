@@ -1,29 +1,23 @@
 {
-  "Time": "2026-07-17T23:04:54.1450185Z",
+  "Time": "2026-07-17T23:06:54.1555828Z",
   "Players": [
-    {
-      "Name": "Volminter",
-      "Steam": "76561198147996215",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 3,
-      "Time": "37:19"
+      "Score": 1,
+      "Time": "39:19"
     },
     {
       "Name": "Stéphanie",
       "Steam": "76561199567801764",
-      "Score": 43,
-      "Time": "16:11"
+      "Score": 51,
+      "Time": "18:11"
     },
     {
       "Name": "....",
       "Steam": "76561199768964598",
-      "Score": 10,
-      "Time": "38:17"
+      "Score": 15,
+      "Time": "40:17"
     },
     {
       "Name": "sonwater",
@@ -34,14 +28,14 @@
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 58,
-      "Time": "41:46"
+      "Score": 64,
+      "Time": "43:46"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 41,
-      "Time": "07:29"
+      "Score": 57,
+      "Time": "09:29"
     }
   ]
 }
