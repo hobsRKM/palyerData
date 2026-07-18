@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-18T22:53:57.3773904Z",
+  "Time": "2026-07-18T22:55:57.3686298Z",
   "Players": [
+    {
+      "Name": "muller",
+      "Steam": "76561199158419168",
+      "Score": 0,
+      "Time": "00:07"
+    },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 61,
-      "Time": "36:50"
+      "Score": 71,
+      "Time": "38:50"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 5,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 60,
-      "Time": "24:29"
+      "Score": 69,
+      "Time": "26:29"
     },
     {
       "Name": "damn i love miami",
       "Steam": "76561198734668878",
-      "Score": 57,
-      "Time": "27:46"
+      "Score": 64,
+      "Time": "29:46"
     },
     {
       "Name": "[]",
       "Steam": "76561198691875886",
-      "Score": 14,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "cuddlng",
       "Steam": "76561199453505494",
-      "Score": 46,
-      "Time": "274:04"
+      "Score": 48,
+      "Time": "276:04"
     },
     {
       "Name": "Hello :3",
@@ -46,8 +52,20 @@
     {
       "Name": "cry yourself to sleep",
       "Steam": "76561198744712586",
-      "Score": 23,
+      "Score": 29,
       "Time": "??:??"
+    },
+    {
+      "Name": "kept",
+      "Steam": "76561198673582222",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "isis",
+      "Steam": "76561199482511279",
+      "Score": 0,
+      "Time": "04:51"
     }
   ]
 }
