@@ -1,4 +1,35 @@
 {
-  "Time": "2026-07-18T21:12:23.1478843Z",
-  "Players": []
+  "Time": "2026-07-18T21:12:39.3669034Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "i love poland",
+      "Steam": "76561199140180145",
+      "Score": 75,
+      "Time": "457:02"
+    },
+    {
+      "Name": "skampikk  :3",
+      "Steam": "76561199813162020",
+      "Score": 31,
+      "Time": "328:56"
+    },
+    {
+      "Name": "TheFallenOne",
+      "Steam": "76561199812529098",
+      "Score": 52,
+      "Time": "01:27"
+    },
+    {
+      "Name": "frostbitecs2",
+      "Steam": "76561198681467060",
+      "Score": 57,
+      "Time": "??:??"
+    }
+  ]
 }
