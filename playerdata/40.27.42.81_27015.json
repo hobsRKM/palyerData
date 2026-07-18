@@ -1,83 +1,101 @@
 {
-  "Time": "2026-07-18T03:34:55.81721Z",
+  "Time": "2026-07-18T03:36:55.8466342Z",
   "Players": [
+    {
+      "Name": "AdolfNigler",
+      "Steam": "76561198678257318",
+      "Score": 7,
+      "Time": "00:29"
+    },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 30,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 8,
-      "Time": "24:47"
+      "Score": 4,
+      "Time": "26:47"
     },
     {
       "Name": "viconf2",
       "Steam": "76561198673483386",
       "Score": 0,
-      "Time": "72:29"
+      "Time": "74:29"
     },
     {
       "Name": "-",
       "Steam": "76561199702116655",
-      "Score": 6,
-      "Time": "02:38"
+      "Score": 9,
+      "Time": "04:39"
+    },
+    {
+      "Name": "< blank >",
+      "Steam": "76561198675121896",
+      "Score": 2,
+      "Time": "01:15"
     },
     {
       "Name": "Jajajjaajajajajajajaj",
       "Steam": "76561198671382581",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Loxa Alright",
       "Steam": "76561198415405965",
-      "Score": 45,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 36,
-      "Time": "11:48"
+      "Score": 42,
+      "Time": "13:48"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 12,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[]",
+      "Steam": "76561198691875886",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "✗ˑ\uD835\uDE30",
       "Steam": "76561198180065165",
-      "Score": 49,
-      "Time": "100:25"
+      "Score": 50,
+      "Time": "102:25"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 48,
-      "Time": "397:23"
+      "Score": 54,
+      "Time": "399:23"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 62,
-      "Time": "15:28"
+      "Score": 66,
+      "Time": "17:28"
     },
     {
       "Name": "ducky",
       "Steam": "76561199041919222",
-      "Score": 22,
-      "Time": "13:51"
+      "Score": 30,
+      "Time": "15:51"
     }
   ]
 }
