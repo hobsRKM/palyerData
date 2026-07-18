@@ -1,71 +1,77 @@
 {
-  "Time": "2026-07-18T00:52:54.2635639Z",
+  "Time": "2026-07-18T00:54:54.2544031Z",
   "Players": [
+    {
+      "Name": "poophead",
+      "Steam": "76561199580676396",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Ansi OwO",
       "Steam": "76561199865641250",
-      "Score": 5,
-      "Time": "138:48"
+      "Score": 10,
+      "Time": "140:48"
     },
     {
       "Name": "zuhn from ebay",
       "Steam": "76561198735857559",
-      "Score": 3,
-      "Time": "44:55"
+      "Score": 11,
+      "Time": "46:55"
     },
     {
       "Name": "viconf2",
       "Steam": "76561198673483386",
       "Score": 2,
-      "Time": "40:00"
+      "Time": "42:00"
     },
     {
       "Name": "V",
       "Steam": "76561199708520028",
-      "Score": 4,
-      "Time": "02:45"
+      "Score": 8,
+      "Time": "04:45"
     },
     {
       "Name": "Kaori <3",
       "Steam": "76561198050195107",
-      "Score": 0,
-      "Time": "26:49"
+      "Score": 2,
+      "Time": "28:49"
     },
     {
       "Name": "Donald Trump",
       "Steam": "76561198673256491",
-      "Score": 0,
-      "Time": "16:28"
+      "Score": 5,
+      "Time": "18:28"
     },
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 7,
-      "Time": "147:45"
+      "Score": 8,
+      "Time": "149:45"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 14,
-      "Time": "26:48"
+      "Score": 31,
+      "Time": "28:48"
     },
     {
       "Name": "memesense.gg | Larp",
       "Steam": "76561198672025250",
       "Score": 0,
-      "Time": "40:36"
+      "Time": "42:36"
     },
     {
       "Name": "sonwater",
       "Steam": "76561199687541705",
-      "Score": 1,
-      "Time": "19:33"
+      "Score": 4,
+      "Time": "21:33"
     },
     {
       "Name": "[]",
       "Steam": "76561198691875886",
-      "Score": 0,
-      "Time": "19:26"
+      "Score": 4,
+      "Time": "21:26"
     }
   ]
 }
