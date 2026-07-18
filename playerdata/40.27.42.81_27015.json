@@ -1,47 +1,65 @@
 {
-  "Time": "2026-07-18T01:08:54.2663213Z",
+  "Time": "2026-07-18T01:10:54.2646779Z",
   "Players": [
+    {
+      "Name": "toy o mi pollo!",
+      "Steam": "76561198800316163",
+      "Score": 1,
+      "Time": "245:44"
+    },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "zuhn from ebay",
       "Steam": "76561198735857559",
-      "Score": 63,
-      "Time": "60:55"
+      "Score": 70,
+      "Time": "62:55"
+    },
+    {
+      "Name": "nocries",
+      "Steam": "76561198967593842",
+      "Score": 0,
+      "Time": "00:41"
     },
     {
       "Name": "viconf2",
       "Steam": "76561198673483386",
       "Score": 6,
-      "Time": "56:00"
+      "Time": "58:00"
     },
     {
       "Name": "Kaori <3",
       "Steam": "76561198050195107",
-      "Score": 31,
-      "Time": "42:49"
+      "Score": 33,
+      "Time": "44:49"
     },
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 71,
-      "Time": "163:45"
+      "Score": 79,
+      "Time": "165:45"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 95,
-      "Time": "42:48"
+      "Score": 103,
+      "Time": "44:48"
+    },
+    {
+      "Name": "cloxid",
+      "Steam": "76561198166519466",
+      "Score": 13,
+      "Time": "01:47"
     },
     {
       "Name": "[]",
       "Steam": "76561198691875886",
       "Score": 14,
-      "Time": "35:26"
+      "Time": "37:26"
     },
     {
       "Name": "totiezorti",
@@ -50,21 +68,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "Buranaphim",
-      "Steam": "76561197998110141",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "Pedał Kot",
       "Steam": "76561199066114930",
-      "Score": 18,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 91,
+      "Score": 102,
       "Time": "??:??"
     }
   ]
