@@ -1,28 +1,22 @@
 {
-  "Time": "2026-07-18T18:47:57.3654462Z",
+  "Time": "2026-07-18T18:49:57.3594925Z",
   "Players": [
-    {
-      "Name": "muller",
-      "Steam": "76561199158419168",
-      "Score": 7,
-      "Time": "??:??"
-    },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 68,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 71,
+      "Score": 75,
       "Time": "??:??"
     },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     },
     {
@@ -32,10 +26,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "vjn",
+      "Steam": "76561198701949041",
+      "Score": 0,
+      "Time": "00:40"
+    },
+    {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 38,
-      "Time": "11:47"
+      "Score": 46,
+      "Time": "13:47"
     }
   ]
 }
