@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-19T03:39:57.9350001Z",
+  "Time": "2026-07-19T03:41:57.9310366Z",
   "Players": [
+    {
+      "Name": "khara",
+      "Steam": "76561198161181102",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Bat Boy",
       "Steam": "76561198674470761",
@@ -10,25 +16,31 @@
     {
       "Name": "Marquise",
       "Steam": "76561198742289487",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Alyssa Liu Cracked @ Village",
       "Steam": "76561197976454047",
       "Score": 22,
-      "Time": "144:15"
+      "Time": "146:15"
     },
     {
       "Name": "sexmaster:)",
       "Steam": "76561199618416684",
       "Score": 12,
-      "Time": "46:42"
+      "Time": "48:42"
     },
     {
       "Name": "zZZ",
       "Steam": "76561199844954358",
       "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "terapaladin010",
+      "Steam": "76561198745769286",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -40,44 +52,44 @@
     {
       "Name": "Yaeger",
       "Steam": "76561198043166986",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "rental",
       "Steam": "76561198728274003",
-      "Score": 20,
-      "Time": "19:26"
+      "Score": 22,
+      "Time": "21:26"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 13,
-      "Time": "97:46"
+      "Score": 15,
+      "Time": "99:46"
     },
     {
       "Name": "Jingala",
       "Steam": "76561199877198194",
       "Score": 2,
-      "Time": "34:25"
+      "Time": "36:25"
     },
     {
       "Name": "Victor Wembanyama",
       "Steam": "76561198956860409",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 42,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
       "Score": 7,
-      "Time": "79:23"
+      "Time": "81:23"
     }
   ]
 }
