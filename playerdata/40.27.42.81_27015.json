@@ -1,59 +1,65 @@
 {
-  "Time": "2026-07-19T02:25:57.6297867Z",
+  "Time": "2026-07-19T02:27:57.6451046Z",
   "Players": [
+    {
+      "Name": "not serv",
+      "Steam": "76561199826858318",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "misanthropy",
       "Steam": "76561199002693872",
-      "Score": 74,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 27,
-      "Time": "106:38"
+      "Score": 35,
+      "Time": "108:38"
     },
     {
       "Name": "zZZ",
       "Steam": "76561199844954358",
-      "Score": 54,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "ponk",
       "Steam": "76561198744402588",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
       "Score": 42,
-      "Time": "23:14"
+      "Time": "25:14"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 39,
-      "Time": "23:46"
-    },
-    {
-      "Name": "George Droid",
-      "Steam": "76561199261504232",
-      "Score": 24,
-      "Time": "??:??"
+      "Score": 40,
+      "Time": "25:46"
     },
     {
       "Name": "ken_barnacle",
       "Steam": "76561199667484685",
-      "Score": 73,
+      "Score": 74,
       "Time": "??:??"
+    },
+    {
+      "Name": "isis",
+      "Steam": "76561199482511279",
+      "Score": 0,
+      "Time": "00:36"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 24,
-      "Time": "05:22"
+      "Score": 29,
+      "Time": "07:22"
     }
   ]
 }
