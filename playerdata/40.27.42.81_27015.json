@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-19T08:26:00.8797002Z",
+  "Time": "2026-07-19T08:28:00.8750048Z",
   "Players": [
+    {
+      "Name": "johnathon",
+      "Steam": "76561199336126493",
+      "Score": 1,
+      "Time": "01:48"
+    },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 10,
-      "Time": "05:40"
+      "Score": 18,
+      "Time": "07:40"
     },
     {
       "Name": "wizard",
       "Steam": "76561198750925717",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "[]",
       "Steam": "76561198691875886",
-      "Score": 3,
-      "Time": "05:11"
+      "Score": 10,
+      "Time": "07:11"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 0,
-      "Time": "55:03"
+      "Score": 2,
+      "Time": "57:03"
     },
     {
       "Name": "cutie patootie :3",
       "Steam": "76561198685223996",
-      "Score": 2,
-      "Time": "80:28"
+      "Score": 4,
+      "Time": "82:28"
     }
   ]
 }
