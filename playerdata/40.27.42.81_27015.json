@@ -1,53 +1,65 @@
 {
-  "Time": "2026-07-19T00:17:57.3770515Z",
+  "Time": "2026-07-19T00:19:57.3705983Z",
   "Players": [
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 22,
-      "Time": "104:47"
+      "Score": 28,
+      "Time": "106:47"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 82,
-      "Time": "22:22"
+      "Score": 89,
+      "Time": "24:22"
+    },
+    {
+      "Name": "baphomet",
+      "Steam": "76561198717821838",
+      "Score": 0,
+      "Time": "00:19"
     },
     {
       "Name": "sensei",
       "Steam": "76561199831711491",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bangerz",
+      "Steam": "76561198050682900",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "damn i love miami",
       "Steam": "76561198734668878",
-      "Score": 68,
-      "Time": "111:46"
+      "Score": 72,
+      "Time": "113:46"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 46,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 0,
-      "Time": "07:51"
+      "Time": "09:51"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 83,
-      "Time": "62:38"
+      "Score": 89,
+      "Time": "64:38"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
       "Score": 33,
-      "Time": "25:49"
+      "Time": "27:49"
     }
   ]
 }
