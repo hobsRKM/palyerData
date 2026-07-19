@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-19T02:39:57.6775625Z",
+  "Time": "2026-07-19T02:41:57.6855309Z",
   "Players": [
+    {
+      "Name": "Gavotron Newsimus",
+      "Steam": "76561199536287864",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "misanthropy",
       "Steam": "76561199002693872",
@@ -10,38 +16,44 @@
     {
       "Name": "zZZ",
       "Steam": "76561199844954358",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 51,
-      "Time": "37:14"
+      "Score": 55,
+      "Time": "39:14"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
       "Score": 15,
-      "Time": "37:46"
+      "Time": "39:46"
     },
     {
       "Name": "ken_barnacle",
       "Steam": "76561199667484685",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 18,
-      "Time": "12:36"
+      "Score": 32,
+      "Time": "14:36"
+    },
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 7,
+      "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 31,
-      "Time": "19:22"
+      "Score": 39,
+      "Time": "21:22"
     }
   ]
 }
