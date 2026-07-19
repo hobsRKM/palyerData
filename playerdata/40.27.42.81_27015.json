@@ -1,40 +1,46 @@
 {
-  "Time": "2026-07-19T06:38:00.1936889Z",
+  "Time": "2026-07-19T06:40:00.1977322Z",
   "Players": [
+    {
+      "Name": "-",
+      "Steam": "76561199702116655",
+      "Score": 0,
+      "Time": "00:38"
+    },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 23,
-      "Time": "63:34"
+      "Score": 30,
+      "Time": "01:03"
     },
     {
       "Name": "Alyssa Liu Cracked @ Village",
       "Steam": "76561197976454047",
-      "Score": 54,
-      "Time": "24:52"
+      "Score": 58,
+      "Time": "26:52"
     },
     {
       "Name": "CHWIS",
       "Steam": "76561198750100698",
-      "Score": 14,
-      "Time": "145:41"
+      "Score": 22,
+      "Time": "147:41"
     },
     {
       "Name": "Victor Wembanyama",
       "Steam": "76561198956860409",
       "Score": 4,
-      "Time": "05:12"
+      "Time": "07:12"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 68,
-      "Time": "140:14"
+      "Score": 81,
+      "Time": "142:14"
     },
     {
-      "Name": "Shar mush",
+      "Name": "SharkH mush",
       "Steam": "76561198682713649",
-      "Score": 13,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
