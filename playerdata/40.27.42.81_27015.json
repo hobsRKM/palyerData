@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-19T08:42:01.1279353Z",
+  "Time": "2026-07-19T08:44:01.1738955Z",
   "Players": [
+    {
+      "Name": "CP Lover",
+      "Steam": "76561199501031499",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 30,
-      "Time": "15:48"
+      "Score": 38,
+      "Time": "17:48"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 83,
-      "Time": "21:40"
+      "Score": 96,
+      "Time": "23:40"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 54,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "[]",
       "Steam": "76561198691875886",
-      "Score": 41,
-      "Time": "21:12"
+      "Score": 47,
+      "Time": "23:12"
     },
     {
       "Name": "cutie patootie :3",
       "Steam": "76561198685223996",
-      "Score": 28,
-      "Time": "96:29"
+      "Score": 29,
+      "Time": "98:29"
     }
   ]
 }
