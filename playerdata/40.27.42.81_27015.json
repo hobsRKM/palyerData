@@ -1,23 +1,23 @@
 {
-  "Time": "2026-07-19T21:53:07.8242085Z",
+  "Time": "2026-07-19T21:55:07.8253631Z",
   "Players": [
+    {
+      "Name": "Vicious #Pingbot Walkbot",
+      "Steam": "76561198700071912",
+      "Score": 15,
+      "Time": "??:??"
+    },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 0,
-      "Time": "234:28"
+      "Score": 10,
+      "Time": "236:28"
     },
     {
       "Name": "sonwater",
       "Steam": "76561199687541705",
       "Score": 0,
-      "Time": "27:16"
-    },
-    {
-      "Name": "TuberOP",
-      "Steam": "76561199661968277",
-      "Score": 2,
-      "Time": "??:??"
+      "Time": "29:16"
     },
     {
       "Name": "fat",
@@ -26,16 +26,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "James",
+      "Steam": "76561199121215178",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
       "Name": "[]",
       "Steam": "76561198691875886",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561199158419168",
-      "Score": 9,
-      "Time": "08:32"
+      "Score": 13,
+      "Time": "10:32"
     },
     {
       "Name": "spykids",
@@ -46,26 +52,38 @@
     {
       "Name": "Hype",
       "Steam": "76561198803460840",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "неверлуз безумие",
       "Steam": "76561199806232223",
-      "Score": 0,
-      "Time": "147:25"
+      "Score": 1,
+      "Time": "149:25"
     },
     {
       "Name": "zZZ",
       "Steam": "76561199844954358",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "cuddlng",
       "Steam": "76561199453505494",
-      "Score": 5,
-      "Time": "02:29"
+      "Score": 13,
+      "Time": "04:29"
+    },
+    {
+      "Name": "CallMeSpoofer",
+      "Steam": "76561199026396251",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "its not a rat bro",
+      "Steam": "76561199725613843",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
