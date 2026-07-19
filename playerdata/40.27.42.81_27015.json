@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-19T18:39:07.8199809Z",
+  "Time": "2026-07-19T18:41:07.8223268Z",
   "Players": [
     {
       "Name": "im not cheating",
       "Steam": "76561198711667549",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "2012",
+      "Steam": "76561199524854903",
+      "Score": 3,
+      "Time": "01:44"
     },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 48,
-      "Time": "16:30"
+      "Score": 6,
+      "Time": "18:30"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 4,
-      "Time": "40:28"
+      "Score": 16,
+      "Time": "42:28"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 50,
-      "Time": "10:58"
+      "Score": 59,
+      "Time": "12:58"
     },
     {
       "Name": "rental",
       "Steam": "76561198728274003",
-      "Score": 62,
+      "Score": 64,
       "Time": "??:??"
     }
   ]
