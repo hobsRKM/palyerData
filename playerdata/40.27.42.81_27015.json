@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-19T01:15:57.41441Z",
+  "Time": "2026-07-19T01:17:57.4171499Z",
   "Players": [
     {
       "Name": "cats",
       "Steam": "76561198074792700",
-      "Score": 49,
+      "Score": 54,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nyris",
+      "Steam": "76561198780468319",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 52,
-      "Time": "35:34"
+      "Score": 60,
+      "Time": "37:34"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 40,
-      "Time": "36:38"
+      "Score": 42,
+      "Time": "38:38"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 15,
-      "Time": "80:22"
+      "Score": 0,
+      "Time": "82:22"
     },
     {
       "Name": "«D4RKZZZ»",
       "Steam": "76561198675120253",
-      "Score": 2,
-      "Time": "01:27"
+      "Score": 5,
+      "Time": "00:10"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 42,
-      "Time": "11:37"
+      "Score": 46,
+      "Time": "13:37"
     },
     {
       "Name": "Bazinga!!!",
@@ -46,14 +52,14 @@
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 46,
-      "Time": "19:45"
+      "Score": 51,
+      "Time": "21:45"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 4,
-      "Time": "11:17"
+      "Score": 7,
+      "Time": "13:17"
     },
     {
       "Name": "burberry ss24",
@@ -62,22 +68,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "poophead",
-      "Steam": "76561199580676396",
-      "Score": 10,
-      "Time": "82:31"
-    },
-    {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 56,
-      "Time": "52:13"
+      "Score": 68,
+      "Time": "54:13"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 30,
-      "Time": "120:38"
+      "Score": 38,
+      "Time": "122:38"
     }
   ]
 }
