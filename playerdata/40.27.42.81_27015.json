@@ -1,5 +1,5 @@
 {
-  "Time": "2026-07-19T02:59:57.7128573Z",
+  "Time": "2026-07-19T03:01:57.7793537Z",
   "Players": [
     {
       "Name": "misanthropy",
@@ -10,56 +10,62 @@
     {
       "Name": "zZZ",
       "Steam": "76561199844954358",
-      "Score": 52,
+      "Score": 54,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kali Linux",
+      "Steam": "76561198671830987",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 33,
-      "Time": "522:02"
+      "Score": 38,
+      "Time": "524:02"
     },
     {
       "Name": "ponk",
       "Steam": "76561198744402588",
-      "Score": 15,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 133,
-      "Time": "57:14"
+      "Score": 138,
+      "Time": "59:14"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 59,
-      "Time": "57:46"
+      "Score": 62,
+      "Time": "59:46"
     },
     {
       "Name": "Ansi OwO",
       "Steam": "76561199865641250",
-      "Score": 24,
-      "Time": "13:13"
+      "Score": 25,
+      "Time": "15:13"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 3,
-      "Time": "01:31"
+      "Score": 16,
+      "Time": "03:31"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 48,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 28,
-      "Time": "39:22"
+      "Score": 32,
+      "Time": "41:22"
     }
   ]
 }
