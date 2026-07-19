@@ -1,65 +1,77 @@
 {
-  "Time": "2026-07-19T00:47:57.3728294Z",
+  "Time": "2026-07-19T00:49:57.3852036Z",
   "Players": [
+    {
+      "Name": "cats",
+      "Steam": "76561198074792700",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
       "Score": 13,
-      "Time": "05:25"
+      "Time": "07:25"
     },
     {
       "Name": "Vicious #Pingbot Walkbot",
       "Steam": "76561198700071912",
-      "Score": 30,
-      "Time": "07:34"
+      "Score": 36,
+      "Time": "09:34"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
       "Score": 19,
-      "Time": "08:37"
+      "Time": "10:37"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 62,
-      "Time": "52:22"
+      "Score": 60,
+      "Time": "54:22"
     },
     {
       "Name": "damn i love miami",
       "Steam": "76561198734668878",
-      "Score": 75,
-      "Time": "141:46"
+      "Score": 87,
+      "Time": "143:46"
     },
     {
       "Name": "IHaveSmollPP",
       "Steam": "76561199209588405",
-      "Score": 7,
-      "Time": "04:50"
+      "Score": 9,
+      "Time": "06:50"
     },
     {
       "Name": "Spontaneous Gamer",
       "Steam": "76561198210600653",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
+    },
+    {
+      "Name": "poophead",
+      "Steam": "76561199580676396",
+      "Score": 0,
+      "Time": "56:31"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 62,
-      "Time": "24:13"
+      "Score": 63,
+      "Time": "26:13"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
       "Score": 71,
-      "Time": "92:38"
+      "Time": "94:38"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 51,
-      "Time": "55:49"
+      "Score": 57,
+      "Time": "57:49"
     }
   ]
 }
