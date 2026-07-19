@@ -1,53 +1,59 @@
 {
-  "Time": "2026-07-19T03:13:57.8086051Z",
+  "Time": "2026-07-19T03:15:57.8295134Z",
   "Players": [
+    {
+      "Name": "im on bussyware",
+      "Steam": "76561198762051156",
+      "Score": 0,
+      "Time": "171:52"
+    },
     {
       "Name": "sexmaster:)",
       "Steam": "76561199618416684",
-      "Score": 3,
-      "Time": "20:42"
+      "Score": 9,
+      "Time": "22:42"
     },
     {
       "Name": "zZZ",
       "Steam": "76561199844954358",
-      "Score": 21,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 30,
-      "Time": "536:02"
+      "Score": 33,
+      "Time": "538:02"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
       "Score": 17,
-      "Time": "71:46"
+      "Time": "73:46"
     },
     {
       "Name": "Jingala",
       "Steam": "76561199877198194",
       "Score": 4,
-      "Time": "08:25"
+      "Time": "10:25"
     },
     {
       "Name": "Ansi OwO",
       "Steam": "76561199865641250",
-      "Score": 31,
-      "Time": "27:13"
+      "Score": 42,
+      "Time": "29:13"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 37,
-      "Time": "15:31"
+      "Score": 44,
+      "Time": "17:31"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 44,
-      "Time": "53:22"
+      "Score": 56,
+      "Time": "55:22"
     }
   ]
 }
