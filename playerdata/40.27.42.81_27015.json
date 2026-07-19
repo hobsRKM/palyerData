@@ -1,47 +1,53 @@
 {
-  "Time": "2026-07-19T03:09:57.808699Z",
+  "Time": "2026-07-19T03:11:57.8049205Z",
   "Players": [
+    {
+      "Name": "sexmaster:)",
+      "Steam": "76561199618416684",
+      "Score": 0,
+      "Time": "18:42"
+    },
     {
       "Name": "zZZ",
       "Steam": "76561199844954358",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 16,
-      "Time": "532:02"
+      "Score": 23,
+      "Time": "534:02"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 6,
-      "Time": "67:46"
+      "Score": 11,
+      "Time": "69:46"
     },
     {
       "Name": "Jingala",
       "Steam": "76561199877198194",
       "Score": 4,
-      "Time": "04:25"
+      "Time": "06:25"
     },
     {
       "Name": "Ansi OwO",
       "Steam": "76561199865641250",
-      "Score": 22,
-      "Time": "23:13"
+      "Score": 28,
+      "Time": "25:13"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 24,
-      "Time": "11:31"
+      "Score": 36,
+      "Time": "13:31"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 30,
-      "Time": "49:22"
+      "Score": 38,
+      "Time": "51:22"
     }
   ]
 }
