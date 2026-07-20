@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-20T20:04:37.6060658Z",
+  "Time": "2026-07-20T20:06:37.5977612Z",
   "Players": [
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 49,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "Bobby THE BAIMING BOT",
       "Steam": "76561199411523950",
-      "Score": 41,
+      "Score": 45,
       "Time": "??:??"
+    },
+    {
+      "Name": "Kilian",
+      "Steam": "76561198724131305",
+      "Score": 4,
+      "Time": "00:08"
     }
   ]
 }
