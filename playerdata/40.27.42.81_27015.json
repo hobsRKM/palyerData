@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-20T07:47:09.2277409Z",
+  "Time": "2026-07-20T07:49:09.2312721Z",
   "Players": [
+    {
+      "Name": "Ali g",
+      "Steam": "76561198784742746",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "George Droid",
       "Steam": "76561199261504232",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Desvey",
       "Steam": "76561198741935061",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 65,
-      "Time": "12:40"
+      "Score": 74,
+      "Time": "14:40"
     },
     {
       "Name": "Eucharist",
       "Steam": "76561199192124509",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 27,
-      "Time": "138:48"
+      "Score": 34,
+      "Time": "140:48"
     }
   ]
 }
