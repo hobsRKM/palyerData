@@ -1,40 +1,46 @@
 {
-  "Time": "2026-07-19T23:13:07.8439368Z",
+  "Time": "2026-07-19T23:15:07.8266405Z",
   "Players": [
+    {
+      "Name": "Vicious #Pingbot Walkbot",
+      "Steam": "76561198700071912",
+      "Score": 8,
+      "Time": "01:59"
+    },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 69,
+      "Score": 75,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 59,
-      "Time": "118:27"
+      "Score": 70,
+      "Time": "120:27"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 54,
-      "Time": "21:44"
+      "Score": 57,
+      "Time": "23:44"
     },
     {
       "Name": "sonwater",
       "Steam": "76561199687541705",
-      "Score": 0,
-      "Time": "02:14"
+      "Score": 2,
+      "Time": "04:14"
     },
     {
       "Name": "cat",
       "Steam": "76561198672531774",
-      "Score": 20,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "business cat",
       "Steam": "76561198701059110",
-      "Score": 22,
+      "Score": 33,
       "Time": "??:??"
     },
     {
@@ -46,7 +52,7 @@
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 12,
+      "Score": 17,
       "Time": "??:??"
     },
     {
@@ -58,25 +64,25 @@
     {
       "Name": "XEV",
       "Steam": "76561198984848627",
-      "Score": 31,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "spykids",
       "Steam": "76561198779681448",
-      "Score": 18,
-      "Time": "48:28"
+      "Score": 20,
+      "Time": "50:28"
     },
     {
       "Name": "zZZ",
       "Steam": "76561199844954358",
-      "Score": 22,
-      "Time": "01:38"
+      "Score": 30,
+      "Time": "03:38"
     },
     {
       "Name": "its not a rat bro",
       "Steam": "76561199725613843",
-      "Score": 29,
+      "Score": 34,
       "Time": "??:??"
     }
   ]
