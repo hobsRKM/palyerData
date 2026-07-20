@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-20T19:30:21.0599941Z",
-  "Players": []
+  "Time": "2026-07-20T19:30:22.4343033Z",
+  "Players": [
+    {
+      "Name": "speydarmen",
+      "Steam": "76561198719703493",
+      "Score": 10,
+      "Time": "11:00"
+    },
+    {
+      "Name": "ugotscouted",
+      "Steam": "76561198693840913",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Peter Griffin",
+      "Steam": "76561198670221150",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "yuna",
+      "Steam": "76561198690353573",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
