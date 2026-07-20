@@ -1,16 +1,34 @@
 {
-  "Time": "2026-07-20T23:24:43.0632622Z",
+  "Time": "2026-07-20T23:26:19.8272742Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Simon G",
+      "Steam": "76561199484641787",
+      "Score": 36,
+      "Time": "20:44"
+    },
+    {
+      "Name": "maniak",
+      "Steam": "76561199375448360",
+      "Score": 7,
+      "Time": "04:04"
+    },
+    {
+      "Name": "yuno gasai",
+      "Steam": "76561198777385515",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "V0xeira",
+      "Steam": "76561199641970960",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "BYTE",
-      "Steam": "76561199797769888",
-      "Score": 0,
+      "Name": "[Monolith] Snofla",
+      "Steam": "76561199556180585",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
