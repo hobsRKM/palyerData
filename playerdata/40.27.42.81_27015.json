@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-20T07:45:09.213554Z",
+  "Time": "2026-07-20T07:47:09.2277409Z",
   "Players": [
+    {
+      "Name": "George Droid",
+      "Steam": "76561199261504232",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Desvey",
       "Steam": "76561198741935061",
-      "Score": 27,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 55,
-      "Time": "10:40"
+      "Score": 65,
+      "Time": "12:40"
     },
     {
       "Name": "Eucharist",
@@ -22,8 +28,8 @@
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 26,
-      "Time": "136:48"
+      "Score": 27,
+      "Time": "138:48"
     }
   ]
 }
