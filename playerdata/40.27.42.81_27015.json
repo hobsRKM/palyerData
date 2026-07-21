@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-21T04:22:44.1382881Z",
+  "Time": "2026-07-21T04:24:44.131563Z",
   "Players": [
+    {
+      "Name": "parisencio",
+      "Steam": "76561198681071568",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Never Win",
       "Steam": "76561199373196253",
@@ -10,20 +16,26 @@
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 7,
-      "Time": "65:53"
+      "Score": 9,
+      "Time": "67:52"
+    },
+    {
+      "Name": "Agony",
+      "Steam": "76561198735582746",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 55,
-      "Time": "07:28"
+      "Score": 65,
+      "Time": "09:28"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 73,
-      "Time": "192:16"
+      "Score": 87,
+      "Time": "194:16"
     },
     {
       "Name": "mush",
@@ -34,26 +46,26 @@
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 52,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "V",
       "Steam": "76561199708520028",
-      "Score": 73,
-      "Time": "18:01"
+      "Score": 75,
+      "Time": "20:01"
     },
     {
       "Name": "2.01ct oval padparadscha",
       "Steam": "76561198742289487",
       "Score": 11,
-      "Time": "06:47"
+      "Time": "08:47"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 17,
-      "Time": "04:36"
+      "Score": 27,
+      "Time": "06:36"
     }
   ]
 }
