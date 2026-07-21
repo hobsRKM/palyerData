@@ -1,29 +1,47 @@
 {
-  "Time": "2026-07-21T18:56:52.0851515Z",
+  "Time": "2026-07-21T18:58:52.0831665Z",
   "Players": [
+    {
+      "Name": "rabid",
+      "Steam": "76561198714457522",
+      "Score": 6,
+      "Time": "01:52"
+    },
     {
       "Name": "Blondie 444",
       "Steam": "76561199835439346",
-      "Score": 8,
+      "Score": 11,
       "Time": "??:??"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 4,
+      "Time": "01:27"
     },
     {
       "Name": "hostage",
       "Steam": "76561198672653618",
       "Score": 24,
-      "Time": "09:02"
+      "Time": "11:02"
     },
     {
       "Name": "sonwater",
       "Steam": "76561199687541705",
       "Score": 0,
-      "Time": "08:34"
+      "Time": "10:34"
+    },
+    {
+      "Name": "YOUR SKEETLESS <3",
+      "Steam": "76561199581523318",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "mousetrap // i love skiddy",
       "Steam": "76561199887239492",
-      "Score": 40,
-      "Time": "07:20"
+      "Score": 60,
+      "Time": "09:20"
     }
   ]
 }
