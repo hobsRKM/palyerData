@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-21T16:05:35.3228881Z",
+  "Time": "2026-07-21T16:07:35.3239159Z",
   "Players": [
+    {
+      "Name": "ivanzolo.net",
+      "Steam": "76561199824127068",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Nim",
       "Steam": "76561199647822907",
@@ -10,25 +16,25 @@
     {
       "Name": "Ooo",
       "Steam": "76561198673810339",
-      "Score": 62,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "m0i",
       "Steam": "76561198758778362",
-      "Score": 17,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "YZY | PRIME",
       "Steam": "76561199850578471",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "yuno gasai",
       "Steam": "76561199827911841",
-      "Score": 33,
+      "Score": 47,
       "Time": "??:??"
     },
     {
@@ -47,6 +53,12 @@
       "Name": "VAC Ban Testing",
       "Steam": "76561199235317594",
       "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tsundere10",
+      "Steam": "76561198671657693",
+      "Score": 4,
       "Time": "??:??"
     }
   ]
