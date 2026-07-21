@@ -1,16 +1,22 @@
 {
-  "Time": "2026-07-21T08:08:44.1276658Z",
+  "Time": "2026-07-21T08:10:44.1349071Z",
   "Players": [
+    {
+      "Name": "BMW enjoyer",
+      "Steam": "76561198737046759",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "its not a rat bro",
       "Steam": "76561199725613843",
-      "Score": 4,
-      "Time": "25:19"
+      "Score": 9,
+      "Time": "27:19"
     },
     {
       "Name": "Cat",
       "Steam": "76561198687303495",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
