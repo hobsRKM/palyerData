@@ -1,4 +1,23 @@
 {
-  "Time": "2026-07-21T09:38:18.4586738Z",
-  "Players": []
+  "Time": "2026-07-21T09:38:21.1376728Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDDF9\uD835\uDDF6\uD835\uDE01\uD835\uDE06 \uD835\uDDF3\uD835\uDDEE\uD835\uDE01\uD835\uDDEE 0x23A4238",
+      "Steam": "76561199815770868",
+      "Score": 66,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cat",
+      "Steam": "76561199799152318",
+      "Score": 44,
+      "Time": "??:??"
+    }
+  ]
 }
