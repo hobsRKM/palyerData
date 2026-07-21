@@ -1,65 +1,89 @@
 {
-  "Time": "2026-07-21T21:08:52.0834577Z",
+  "Time": "2026-07-21T21:10:52.084734Z",
   "Players": [
+    {
+      "Name": "real_batman",
+      "Steam": "76561198956539029",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 51,
-      "Time": "49:10"
+      "Score": 60,
+      "Time": "51:10"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 18,
-      "Time": "125:54"
+      "Score": 26,
+      "Time": "127:54"
+    },
+    {
+      "Name": "Chinese Skeet",
+      "Steam": "76561199055238878",
+      "Score": 3,
+      "Time": "01:54"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 58,
-      "Time": "51:15"
+      "Score": 61,
+      "Time": "53:15"
+    },
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561198767744854",
+      "Score": 32,
+      "Time": "01:41"
     },
     {
       "Name": "poophead",
       "Steam": "76561199580676396",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": ":>",
       "Steam": "76561199230061000",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Quantum Entropy Candle",
       "Steam": "76561198763517260",
-      "Score": 37,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "kaine",
       "Steam": "76561199634909491",
-      "Score": 6,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 39,
-      "Time": "131:27"
+      "Score": 45,
+      "Time": "133:27"
     },
     {
       "Name": "sonwater",
       "Steam": "76561199687541705",
       "Score": 2,
-      "Time": "140:34"
+      "Time": "142:34"
+    },
+    {
+      "Name": "[]",
+      "Steam": "76561198691875886",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "mousetrap // i love skiddy",
       "Steam": "76561199887239492",
-      "Score": 48,
-      "Time": "33:59"
+      "Score": 56,
+      "Time": "35:59"
     }
   ]
 }
