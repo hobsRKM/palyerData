@@ -1,23 +1,53 @@
 {
-  "Time": "2026-07-21T07:22:44.1309946Z",
+  "Time": "2026-07-21T07:24:44.1310596Z",
   "Players": [
     {
       "Name": "nwvdrpeyms521rj0",
       "Steam": "76561198669129847",
-      "Score": 0,
+      "Score": 2,
+      "Time": "01:04"
+    },
+    {
+      "Name": "Bot Fred",
+      "Steam": "76561198759135689",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dan",
+      "Steam": "76561199525834485",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 0,
-      "Time": "153:30"
+      "Score": 8,
+      "Time": "155:30"
+    },
+    {
+      "Name": "benjamin cranklin",
+      "Steam": "76561199809565338",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bot Dead",
+      "Steam": "76561199686629350",
+      "Score": 6,
+      "Time": "??:??"
     },
     {
       "Name": "z",
       "Steam": "76561198855087875",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
+    },
+    {
+      "Name": "MarkHack",
+      "Steam": "76561198679830854",
+      "Score": 1,
+      "Time": "00:32"
     }
   ]
 }
