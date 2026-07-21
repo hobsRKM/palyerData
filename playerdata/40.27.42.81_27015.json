@@ -1,28 +1,40 @@
 {
-  "Time": "2026-07-21T15:26:52.0833108Z",
+  "Time": "2026-07-21T15:28:52.0765461Z",
   "Players": [
+    {
+      "Name": "zZZ",
+      "Steam": "76561199844954358",
+      "Score": 0,
+      "Time": "01:33"
+    },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 56,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 28,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "hostage",
       "Steam": "76561198672653618",
-      "Score": 4,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sonwater",
+      "Steam": "76561199687541705",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
