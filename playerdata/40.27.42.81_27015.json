@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-21T20:38:52.0843374Z",
+  "Time": "2026-07-21T20:40:52.0826951Z",
   "Players": [
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 60,
-      "Time": "19:10"
+      "Score": 65,
+      "Time": "21:10"
+    },
+    {
+      "Name": "MarkHack",
+      "Steam": "76561198679830854",
+      "Score": 0,
+      "Time": "97:54"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 71,
-      "Time": "21:15"
+      "Score": 80,
+      "Time": "23:15"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 83,
-      "Time": "101:27"
+      "Score": 89,
+      "Time": "103:27"
     },
     {
       "Name": "sonwater",
       "Steam": "76561199687541705",
       "Score": 24,
-      "Time": "110:34"
+      "Time": "112:34"
     },
     {
       "Name": "mousetrap // i love skiddy",
       "Steam": "76561199887239492",
-      "Score": 19,
-      "Time": "03:59"
+      "Score": 22,
+      "Time": "05:59"
     }
   ]
 }
