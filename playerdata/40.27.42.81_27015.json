@@ -1,35 +1,47 @@
 {
-  "Time": "2026-07-22T20:33:09.0331743Z",
+  "Time": "2026-07-22T20:35:09.0369329Z",
   "Players": [
+    {
+      "Name": "MarkHack",
+      "Steam": "76561198679830854",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
       "Score": 69,
-      "Time": "37:22"
+      "Time": "39:22"
+    },
+    {
+      "Name": "KALEM",
+      "Steam": "76561199667484685",
+      "Score": 0,
+      "Time": "00:02"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 26,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "Eucharist",
       "Steam": "76561199192124509",
-      "Score": 3,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "JonathanGames2007",
       "Steam": "76561198726705361",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 75,
-      "Time": "25:20"
+      "Score": 81,
+      "Time": "27:20"
     }
   ]
 }
