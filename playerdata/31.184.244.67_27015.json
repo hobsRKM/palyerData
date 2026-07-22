@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-22T01:14:18.4812285Z",
-  "Players": []
+  "Time": "2026-07-22T01:14:21.1370742Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vac on vacation",
+      "Steam": "76561198677234717",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Kasti",
+      "Steam": "76561199833286399",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "V stepped into the c",
+      "Steam": "76561198806792145",
+      "Score": 106,
+      "Time": "25:14"
+    },
+    {
+      "Name": "LARP SKEET",
+      "Steam": "76561199128654283",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Frogx",
+      "Steam": "76561198691771599",
+      "Score": 35,
+      "Time": "11:27"
+    }
+  ]
 }
