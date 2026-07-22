@@ -1,58 +1,64 @@
 {
-  "Time": "2026-07-22T21:33:09.031476Z",
+  "Time": "2026-07-22T21:35:09.0428762Z",
   "Players": [
+    {
+      "Name": "MarkHack",
+      "Steam": "76561198679830854",
+      "Score": 2,
+      "Time": "01:26"
+    },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 10,
-      "Time": "03:26"
+      "Score": 0,
+      "Time": "05:26"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 99,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cocaine ghost \uD806\uDCF2",
       "Steam": "76561198724709704",
-      "Score": 39,
-      "Time": "15:15"
+      "Score": 4,
+      "Time": "17:15"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 58,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "\uD83C\uDDF9\uD83C\uDDFD\uD83C\uDDE6",
       "Steam": "76561198691198196",
-      "Score": 0,
-      "Time": "01:15"
+      "Score": 7,
+      "Time": "03:15"
     },
     {
       "Name": "cncpuppi",
       "Steam": "76561199820215253",
-      "Score": 33,
-      "Time": "34:41"
+      "Score": 0,
+      "Time": "36:41"
     },
     {
       "Name": "rabid",
       "Steam": "76561198714457522",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "Vicious",
-      "Steam": "76561198700071912",
-      "Score": 136,
-      "Time": "22:00"
+      "Name": "dopamine",
+      "Steam": "76561198770772802",
+      "Score": 5,
+      "Time": "147:55"
     },
     {
       "Name": "Hades",
       "Steam": "76561198216574768",
-      "Score": 9,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
