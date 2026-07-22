@@ -1,23 +1,35 @@
 {
-  "Time": "2026-07-22T13:41:09.0317192Z",
+  "Time": "2026-07-22T13:43:09.0393282Z",
   "Players": [
+    {
+      "Name": "hostage",
+      "Steam": "76561198672653618",
+      "Score": 28,
+      "Time": "00:39"
+    },
+    {
+      "Name": "mousetrap // i love skiddy",
+      "Steam": "76561199887239492",
+      "Score": 0,
+      "Time": "00:58"
+    },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 68,
+      "Score": 74,
       "Time": "??:??"
     },
     {
       "Name": "Average Faceit Player",
       "Steam": "76561198679368971",
-      "Score": 62,
-      "Time": "45:07"
+      "Score": 64,
+      "Time": "47:07"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 53,
-      "Time": "36:16"
+      "Score": 55,
+      "Time": "38:16"
     }
   ]
 }
