@@ -1,28 +1,28 @@
 {
-  "Time": "2026-07-22T16:21:09.0338889Z",
+  "Time": "2026-07-22T16:23:09.0469438Z",
   "Players": [
+    {
+      "Name": ":>",
+      "Steam": "76561199230061000",
+      "Score": 0,
+      "Time": "01:56"
+    },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 28,
-      "Time": "34:17"
+      "Score": 38,
+      "Time": "36:17"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 54,
-      "Time": "40:49"
-    },
-    {
-      "Name": "ragor",
-      "Steam": "76561198742544701",
-      "Score": 19,
-      "Time": "??:??"
+      "Score": 62,
+      "Time": "42:49"
     },
     {
       "Name": "Vicious #Beefbot Pingbot",
       "Steam": "76561198700071912",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -34,25 +34,25 @@
     {
       "Name": "mint",
       "Steam": "76561199867707949",
-      "Score": 18,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Chungalias",
       "Steam": "76561199318530609",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 15,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
