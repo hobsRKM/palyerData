@@ -1,29 +1,29 @@
 {
-  "Time": "2026-07-22T19:55:09.0438444Z",
+  "Time": "2026-07-22T19:57:09.038788Z",
   "Players": [
+    {
+      "Name": "skiddy ™",
+      "Steam": "76561198806497985",
+      "Score": 5,
+      "Time": "01:22"
+    },
     {
       "Name": "Gary",
       "Steam": "76561198765229839",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
-    },
-    {
-      "Name": "hostage",
-      "Steam": "76561198672653618",
-      "Score": 0,
-      "Time": "52:23"
     },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "hentai",
       "Steam": "76561198745194531",
-      "Score": 12,
-      "Time": "36:52"
+      "Score": 20,
+      "Time": "38:52"
     }
   ]
 }
