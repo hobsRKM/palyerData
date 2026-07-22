@@ -1,16 +1,28 @@
 {
-  "Time": "2026-07-22T09:31:09.0374482Z",
+  "Time": "2026-07-22T09:33:09.0362036Z",
   "Players": [
+    {
+      "Name": "couhfin",
+      "Steam": "76561198671750755",
+      "Score": 15,
+      "Time": "01:55"
+    },
     {
       "Name": "shelby",
       "Steam": "76561199841326371",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "cncpuppi",
       "Steam": "76561199820215253",
-      "Score": 48,
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "MacTyrbek",
+      "Steam": "76561199824369489",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
