@@ -1,29 +1,35 @@
 {
-  "Time": "2026-07-22T13:17:09.0441498Z",
+  "Time": "2026-07-22T13:19:09.0359236Z",
   "Players": [
     {
       "Name": "bluerockethow #Bestrust",
       "Steam": "76561199630901029",
-      "Score": 18,
-      "Time": "13:18"
+      "Score": 2,
+      "Time": "15:18"
+    },
+    {
+      "Name": "hostage",
+      "Steam": "76561198672653618",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 81,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Average Faceit Player",
       "Steam": "76561198679368971",
-      "Score": 49,
-      "Time": "21:07"
+      "Score": 0,
+      "Time": "23:07"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 24,
-      "Time": "12:16"
+      "Score": 0,
+      "Time": "14:16"
     }
   ]
 }
