@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-22T16:49:09.0405869Z",
+  "Time": "2026-07-22T16:51:09.0333214Z",
   "Players": [
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Vicious #Beefbot Pingbot",
       "Steam": "76561198700071912",
-      "Score": 40,
-      "Time": "07:26"
+      "Score": 15,
+      "Time": "09:26"
     },
     {
       "Name": "Chungalias",
       "Steam": "76561199318530609",
-      "Score": 14,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 40,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Face It Level 10",
       "Steam": "76561199864295314",
-      "Score": 7,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Flexorz",
       "Steam": "76561199503006146",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
