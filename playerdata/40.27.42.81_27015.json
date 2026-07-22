@@ -1,17 +1,47 @@
 {
-  "Time": "2026-07-21T23:46:52.0752079Z",
+  "Time": "2026-07-21T23:48:52.0774074Z",
   "Players": [
+    {
+      "Name": "MarkHack",
+      "Steam": "76561198679830854",
+      "Score": 4,
+      "Time": "02:04"
+    },
+    {
+      "Name": "rari.",
+      "Steam": "76561197987887335",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "okami #rawinput",
+      "Steam": "76561199820215253",
+      "Score": 0,
+      "Time": "00:32"
+    },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 18,
-      "Time": "08:44"
+      "Score": 22,
+      "Time": "10:44"
+    },
+    {
+      "Name": "JustLoveWaifus | bunni ❤",
+      "Steam": "76561199493562021",
+      "Score": 2,
+      "Time": "01:12"
+    },
+    {
+      "Name": "du bist gut genug",
+      "Steam": "76561199390488836",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 6,
-      "Time": "108:42"
+      "Score": 12,
+      "Time": "110:42"
     }
   ]
 }
