@@ -1,22 +1,22 @@
 {
-  "Time": "2026-07-22T03:04:52.0751736Z",
+  "Time": "2026-07-22T03:06:52.0848901Z",
   "Players": [
+    {
+      "Name": "Jurma Koontio",
+      "Steam": "76561199546899441",
+      "Score": 0,
+      "Time": "01:05"
+    },
     {
       "Name": "burger and fries",
       "Steam": "76561199563719199",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "pidr",
-      "Steam": "76561198716540041",
       "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Whiff",
       "Steam": "76561198366429223",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
