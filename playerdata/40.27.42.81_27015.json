@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-21T23:54:52.0775871Z",
+  "Time": "2026-07-21T23:56:52.0818314Z",
   "Players": [
+    {
+      "Name": "parisencio",
+      "Steam": "76561198681071568",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 15,
-      "Time": "08:04"
-    },
-    {
-      "Name": "rari.",
-      "Steam": "76561197987887335",
-      "Score": 23,
-      "Time": "??:??"
+      "Score": 19,
+      "Time": "10:04"
     },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
+    },
+    {
+      "Name": "okami #rawinput",
+      "Steam": "76561199820215253",
+      "Score": 6,
+      "Time": "01:40"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 39,
-      "Time": "16:44"
+      "Score": 45,
+      "Time": "18:44"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 1,
-      "Time": "02:56"
+      "Time": "04:56"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 35,
-      "Time": "116:42"
+      "Score": 43,
+      "Time": "118:42"
     }
   ]
 }
