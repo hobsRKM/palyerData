@@ -1,41 +1,53 @@
 {
-  "Time": "2026-07-23T00:23:09.1143028Z",
+  "Time": "2026-07-23T00:25:09.115901Z",
   "Players": [
     {
       "Name": "Ella",
       "Steam": "76561199045713645",
-      "Score": 23,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "cat",
       "Steam": "76561198672531774",
-      "Score": 17,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "hischvh",
       "Steam": "76561199230287839",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "XEV",
       "Steam": "76561198984848627",
-      "Score": 16,
-      "Time": "60:27"
+      "Score": 20,
+      "Time": "62:27"
+    },
+    {
+      "Name": "SOLID",
+      "Steam": "76561199127501029",
+      "Score": 3,
+      "Time": "??:??"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 28,
-      "Time": "35:20"
+      "Score": 38,
+      "Time": "37:20"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 9,
-      "Time": "62:17"
+      "Score": 19,
+      "Time": "64:17"
+    },
+    {
+      "Name": "walkemdown",
+      "Steam": "76561198680779721",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
