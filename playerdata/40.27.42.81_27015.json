@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-24T02:20:07.5067235Z",
+  "Time": "2026-07-24T02:22:07.5443465Z",
   "Players": [
+    {
+      "Name": "wish 007",
+      "Steam": "76561198772341745",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 31,
-      "Time": "14:10"
+      "Score": 39,
+      "Time": "16:10"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 31,
-      "Time": "73:04"
+      "Score": 36,
+      "Time": "75:04"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 37,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 33,
-      "Time": "130:21"
+      "Score": 43,
+      "Time": "132:21"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 22,
-      "Time": "14:29"
+      "Score": 26,
+      "Time": "16:29"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 0,
-      "Time": "02:02"
+      "Score": 4,
+      "Time": "04:02"
     }
   ]
 }
