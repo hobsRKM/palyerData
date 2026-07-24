@@ -1,23 +1,29 @@
 {
-  "Time": "2026-07-24T02:42:08.1292478Z",
+  "Time": "2026-07-24T02:44:08.1363946Z",
   "Players": [
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 0,
+      "Time": "01:57"
+    },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 96,
-      "Time": "36:11"
+      "Score": 99,
+      "Time": "38:11"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 55,
-      "Time": "04:01"
+      "Score": 58,
+      "Time": "06:01"
     },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 92,
-      "Time": "152:21"
+      "Score": 94,
+      "Time": "154:21"
     },
     {
       "Name": "f1rtya4",
@@ -28,50 +34,44 @@
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 47,
-      "Time": "24:03"
+      "Score": 51,
+      "Time": "26:03"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 26,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Vac Anti Cheat",
       "Steam": "76561198737511050",
       "Score": 3,
-      "Time": "01:21"
+      "Time": "03:21"
     },
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 10,
-      "Time": "00:12"
+      "Score": 12,
+      "Time": "02:12"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 50,
-      "Time": "27:40"
-    },
-    {
-      "Name": "Pharisaical",
-      "Steam": "76561198690648463",
-      "Score": 7,
-      "Time": "??:??"
+      "Score": 56,
+      "Time": "29:40"
     },
     {
       "Name": "x",
       "Steam": "76561199724770499",
-      "Score": 20,
-      "Time": "406:03"
+      "Score": 22,
+      "Time": "408:03"
     }
   ]
 }
