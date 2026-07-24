@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-24T04:22:11.5150109Z",
+  "Time": "2026-07-24T04:24:11.5830031Z",
   "Players": [
+    {
+      "Name": "rondo",
+      "Steam": "76561198188433587",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "wish 007",
       "Steam": "76561198772341745",
-      "Score": 25,
-      "Time": "37:14"
+      "Score": 41,
+      "Time": "39:14"
     },
     {
       "Name": "Asi_lukasekk",
       "Steam": "76561198744180789",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "its not a rat bro",
       "Steam": "76561199725613843",
-      "Score": 20,
-      "Time": "46:51"
+      "Score": 22,
+      "Time": "48:51"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 19,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 12,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "israeli hack",
       "Steam": "76561198667749911",
       "Score": 6,
-      "Time": "10:59"
+      "Time": "13:00"
     }
   ]
 }
