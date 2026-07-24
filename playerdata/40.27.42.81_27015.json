@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-24T00:00:04.9413901Z",
+  "Time": "2026-07-24T00:02:04.95293Z",
   "Players": [
+    {
+      "Name": "luke14days",
+      "Steam": "76561198740895191",
+      "Score": 0,
+      "Time": "47:37"
+    },
     {
       "Name": "\uD83D\uDCA4",
       "Steam": "76561199805503727",
-      "Score": 9,
-      "Time": "65:50"
+      "Score": 12,
+      "Time": "67:50"
     },
     {
       "Name": "playmaker qk",
       "Steam": "76561198676207007",
-      "Score": 28,
-      "Time": "74:54"
+      "Score": 35,
+      "Time": "76:54"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
       "Score": 0,
-      "Time": "25:03"
+      "Time": "27:03"
     },
     {
       "Name": "student tapped in",
       "Steam": "76561198682261109",
-      "Score": 22,
-      "Time": "15:24"
+      "Score": 34,
+      "Time": "17:24"
     },
     {
       "Name": "pablitro",
       "Steam": "76561197997969836",
-      "Score": 4,
-      "Time": "31:27"
+      "Score": 8,
+      "Time": "33:27"
     }
   ]
 }
