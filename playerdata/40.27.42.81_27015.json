@@ -1,34 +1,46 @@
 {
-  "Time": "2026-07-24T02:04:06.9617809Z",
+  "Time": "2026-07-24T02:06:07.0367023Z",
   "Players": [
+    {
+      "Name": "peterF",
+      "Steam": "76561198679180572",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "almenia",
+      "Steam": "76561199820215253",
+      "Score": 0,
+      "Time": "00:10"
+    },
     {
       "Name": "plaguecheat.cc",
       "Steam": "76561198671255827",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
+    },
+    {
+      "Name": "MarkHack",
+      "Steam": "76561198679830854",
+      "Score": 3,
+      "Time": "59:04"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 57,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 34,
-      "Time": "114:20"
-    },
-    {
-      "Name": "cry",
-      "Steam": "76561198678515982",
-      "Score": 22,
-      "Time": "??:??"
+      "Score": 6,
+      "Time": "116:20"
     },
     {
       "Name": "Oxy!",
       "Steam": "76561198671328829",
-      "Score": 7,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
