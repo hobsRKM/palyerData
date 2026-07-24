@@ -1,29 +1,35 @@
 {
-  "Time": "2026-07-24T23:55:24.7688434Z",
+  "Time": "2026-07-24T23:56:21.6001685Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "MyNameIsGod",
+      "Steam": "76561199269858697",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] xzcb",
+      "Steam": "76561199869430003",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Jacethesnake",
-      "Steam": "76561199837535361",
-      "Score": 0,
+      "Name": "cat",
+      "Steam": "76561199799152318",
+      "Score": 15,
       "Time": "??:??"
     },
     {
-      "Name": "kero",
-      "Steam": "76561198680780556",
-      "Score": 2,
+      "Name": "ghostY",
+      "Steam": "76561199591486018",
+      "Score": 25,
       "Time": "??:??"
     },
     {
-      "Name": "BBL_Bandit",
-      "Steam": "76561198188398761",
-      "Score": 0,
-      "Time": "??:??"
+      "Name": "Simon G",
+      "Steam": "76561199484641787",
+      "Score": 5,
+      "Time": "18:37"
     }
   ]
 }
