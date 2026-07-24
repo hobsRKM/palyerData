@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-24T06:20:22.6446476Z",
-  "Players": []
+  "Time": "2026-07-24T06:21:24.7692437Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Simon G",
+      "Steam": "76561199484641787",
+      "Score": 14,
+      "Time": "21:16"
+    },
+    {
+      "Name": "$$$",
+      "Steam": "76561199548504034",
+      "Score": 5,
+      "Time": "13:17"
+    },
+    {
+      "Name": "neverlos sensei",
+      "Steam": "76561199831711491",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "buenos dias",
+      "Steam": "76561199842369196",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kanye was right",
+      "Steam": "76561198702195618",
+      "Score": 13,
+      "Time": "??:??"
+    }
+  ]
 }
