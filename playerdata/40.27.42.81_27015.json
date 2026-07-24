@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-24T04:54:13.1820932Z",
+  "Time": "2026-07-24T04:56:13.2752799Z",
   "Players": [
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 0,
+      "Time": "516:00"
+    },
     {
       "Name": "rondo",
       "Steam": "76561198188433587",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 36,
-      "Time": "07:12"
+      "Score": 47,
+      "Time": "09:12"
     },
     {
       "Name": "vac ban tester764/1414",
@@ -23,37 +29,37 @@
       "Name": "WOW",
       "Steam": "76561198689541054",
       "Score": 0,
-      "Time": "80:33"
+      "Time": "82:33"
     },
     {
       "Name": "its not a rat bro",
       "Steam": "76561199725613843",
-      "Score": 41,
-      "Time": "78:52"
+      "Score": 55,
+      "Time": "80:53"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 19,
-      "Time": "17:50"
+      "Score": 31,
+      "Time": "19:50"
     },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 61,
-      "Time": "26:56"
+      "Score": 65,
+      "Time": "28:56"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 60,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "israeli hack",
       "Steam": "76561198667749911",
-      "Score": 28,
-      "Time": "43:01"
+      "Score": 30,
+      "Time": "45:01"
     }
   ]
 }
