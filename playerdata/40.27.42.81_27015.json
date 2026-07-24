@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-23T23:14:04.4159171Z",
+  "Time": "2026-07-23T23:16:04.523044Z",
   "Players": [
+    {
+      "Name": "Cookie",
+      "Steam": "76561199652410817",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "skiddy ™",
       "Steam": "76561199045713645",
       "Score": 17,
-      "Time": "44:22"
+      "Time": "46:22"
     },
     {
       "Name": "\uD83D\uDCA4",
       "Steam": "76561199805503727",
-      "Score": 19,
-      "Time": "19:49"
+      "Score": 20,
+      "Time": "21:49"
     },
     {
       "Name": "playmaker qk",
       "Steam": "76561198676207007",
-      "Score": 30,
-      "Time": "28:54"
+      "Score": 34,
+      "Time": "30:54"
     },
     {
       "Name": "Donk",
       "Steam": "76561199867156594",
-      "Score": 3,
-      "Time": "00:57"
+      "Score": 7,
+      "Time": "02:57"
     },
     {
       "Name": "skiddy ™",
       "Steam": "76561198806497985",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 46,
-      "Time": "27:33"
+      "Score": 59,
+      "Time": "29:33"
     },
     {
       "Name": "real_batman",
@@ -46,20 +52,20 @@
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 17,
-      "Time": "21:06"
+      "Score": 24,
+      "Time": "23:06"
     },
     {
       "Name": "student tapped in",
       "Steam": "76561198682261109",
-      "Score": 14,
-      "Time": "09:38"
+      "Score": 16,
+      "Time": "11:38"
     },
     {
       "Name": "escort",
       "Steam": "76561199221879432",
-      "Score": 0,
-      "Time": "01:10"
+      "Score": 2,
+      "Time": "03:10"
     }
   ]
 }
