@@ -1,77 +1,83 @@
 {
-  "Time": "2026-07-24T06:20:17.8083843Z",
+  "Time": "2026-07-24T06:22:18.0031492Z",
   "Players": [
     {
       "Name": "Dark",
       "Steam": "76561199100368388",
-      "Score": 38,
+      "Score": 46,
       "Time": "??:??"
+    },
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 0,
+      "Time": "01:42"
     },
     {
       "Name": "Ｓｍ０ｋｅ Ｄ４ｔ \uD83C\uDF3F",
       "Steam": "76561198702399136",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
-    },
-    {
-      "Name": "ssist",
-      "Steam": "76561198695257041",
-      "Score": 14,
-      "Time": "155:34"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 89,
-      "Time": "93:17"
+      "Score": 96,
+      "Time": "95:17"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 37,
-      "Time": "17:35"
+      "Score": 43,
+      "Time": "19:35"
     },
     {
       "Name": "Hades",
       "Steam": "76561199015635680",
-      "Score": 2,
-      "Time": "01:58"
+      "Score": 4,
+      "Time": "03:58"
     },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 87,
-      "Time": "72:01"
+      "Score": 89,
+      "Time": "74:02"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 59,
-      "Time": "33:03"
+      "Score": 63,
+      "Time": "35:03"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 78,
-      "Time": "38:11"
+      "Score": 85,
+      "Time": "40:11"
     },
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 18,
-      "Time": "07:34"
+      "Score": 29,
+      "Time": "09:34"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 47,
-      "Time": "57:20"
+      "Score": 54,
+      "Time": "59:20"
     },
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 2,
-      "Time": "420:21"
+      "Score": 6,
+      "Time": "422:21"
+    },
+    {
+      "Name": "aquakey",
+      "Steam": "76561198773264038",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
