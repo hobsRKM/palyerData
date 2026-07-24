@@ -1,47 +1,53 @@
 {
-  "Time": "2026-07-24T08:42:26.9949356Z",
+  "Time": "2026-07-24T08:44:27.0605305Z",
   "Players": [
+    {
+      "Name": "leo.luqu3",
+      "Steam": "76561198680111738",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 19,
-      "Time": "10:52"
+      "Score": 21,
+      "Time": "12:52"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 3,
-      "Time": "02:34"
+      "Score": 9,
+      "Time": "04:34"
     },
     {
       "Name": "SO_MA_Y_A",
       "Steam": "76561198719703493",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Hades",
       "Steam": "76561199015635680",
-      "Score": 24,
-      "Time": "102:03"
+      "Score": 30,
+      "Time": "104:03"
     },
     {
       "Name": "80/?",
       "Steam": "76561199760508751",
-      "Score": 7,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 83,
-      "Time": "19:48"
+      "Score": 96,
+      "Time": "21:48"
     },
     {
       "Name": "BIGBALLS",
       "Steam": "76561199881883642",
       "Score": 1,
-      "Time": "05:28"
+      "Time": "07:28"
     }
   ]
 }
