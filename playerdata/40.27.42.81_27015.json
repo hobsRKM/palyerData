@@ -1,23 +1,35 @@
 {
-  "Time": "2026-07-24T01:30:06.616139Z",
+  "Time": "2026-07-24T01:32:06.6216035Z",
   "Players": [
+    {
+      "Name": "Mimi",
+      "Steam": "76561199105843168",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "conduct disorder",
+      "Steam": "76561199629022583",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 34,
-      "Time": "24:15"
+      "Score": 38,
+      "Time": "26:15"
     },
     {
       "Name": "\uD83D\uDCA4",
       "Steam": "76561199805503727",
-      "Score": 17,
-      "Time": "155:51"
+      "Score": 18,
+      "Time": "157:51"
     },
     {
       "Name": "the fucking blueprint",
       "Steam": "76561198676207007",
-      "Score": 13,
-      "Time": "13:43"
+      "Score": 0,
+      "Time": "15:43"
     },
     {
       "Name": "Shux",
@@ -28,20 +40,20 @@
     {
       "Name": "Junior .",
       "Steam": "76561199836886163",
-      "Score": 95,
-      "Time": "74:05"
+      "Score": 107,
+      "Time": "76:05"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 147,
+      "Score": 155,
       "Time": "??:??"
     },
     {
       "Name": "student tapped in",
       "Steam": "76561198682261109",
-      "Score": 37,
-      "Time": "16:00"
+      "Score": 40,
+      "Time": "18:00"
     }
   ]
 }
