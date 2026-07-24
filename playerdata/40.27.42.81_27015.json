@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-24T03:30:09.4554164Z",
+  "Time": "2026-07-24T03:32:09.5283613Z",
   "Players": [
+    {
+      "Name": "trackmaster",
+      "Steam": "76561198668499739",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "cats",
       "Steam": "76561198074792700",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "vexi1337",
       "Steam": "76561199747824672",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 7,
-      "Time": "08:52"
+      "Score": 14,
+      "Time": "10:52"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 16,
-      "Time": "48:13"
+      "Score": 20,
+      "Time": "50:13"
     },
     {
       "Name": "Bobby",
       "Steam": "76561199411523950",
-      "Score": 3,
-      "Time": "75:41"
+      "Score": 9,
+      "Time": "77:41"
     },
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 10,
-      "Time": "304:52"
+      "Score": 11,
+      "Time": "306:52"
     }
   ]
 }
