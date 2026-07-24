@@ -1,4 +1,35 @@
 {
-  "Time": "2026-07-24T12:00:12.6842457Z",
-  "Players": []
+  "Time": "2026-07-24T12:00:21.6065969Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Requie Lumen",
+      "Steam": "76561199491603608",
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "enigma",
+      "Steam": "76561198671996904",
+      "Score": 75,
+      "Time": "27:30"
+    },
+    {
+      "Name": "xi jin ping",
+      "Steam": "76561199882951220",
+      "Score": 73,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Dontlookatmypfp",
+      "Steam": "76561198730895556",
+      "Score": 10,
+      "Time": "03:48"
+    }
+  ]
 }
