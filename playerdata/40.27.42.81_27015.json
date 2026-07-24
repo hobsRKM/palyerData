@@ -1,65 +1,77 @@
 {
-  "Time": "2026-07-24T07:04:20.7894108Z",
+  "Time": "2026-07-24T07:06:20.8635414Z",
   "Players": [
+    {
+      "Name": "⋆˚⭒⋆ M1RtiN4o ⋆˚⭒⋆",
+      "Steam": "76561198794087367",
+      "Score": 2,
+      "Time": "425:01"
+    },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 11,
-      "Time": "137:20"
+      "Score": 14,
+      "Time": "139:20"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 12,
-      "Time": "24:47"
+      "Score": 14,
+      "Time": "26:47"
     },
     {
       "Name": "Hades",
       "Steam": "76561199015635680",
-      "Score": 10,
-      "Time": "03:57"
+      "Score": 12,
+      "Time": "05:57"
     },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 24,
-      "Time": "116:04"
+      "Score": 35,
+      "Time": "118:04"
     },
     {
       "Name": "va1uxx",
       "Steam": "76561198685136858",
-      "Score": 0,
-      "Time": "05:18"
+      "Score": 1,
+      "Time": "07:18"
     },
     {
       "Name": "zappolsky",
       "Steam": "76561198770848212",
-      "Score": 8,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": ".gg/v",
       "Steam": "76561199864358038",
-      "Score": 13,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 17,
-      "Time": "101:23"
+      "Score": 19,
+      "Time": "103:23"
     },
     {
       "Name": "dopamine",
       "Steam": "76561198770772802",
       "Score": 6,
-      "Time": "384:03"
+      "Time": "386:03"
     },
     {
       "Name": "Eucharist",
       "Steam": "76561199192124509",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
+    },
+    {
+      "Name": "aquakey",
+      "Steam": "76561198773264038",
+      "Score": 0,
+      "Time": "00:35"
     }
   ]
 }
