@@ -1,17 +1,29 @@
 {
-  "Time": "2026-07-24T23:47:24.7634023Z",
+  "Time": "2026-07-24T23:48:21.6016041Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "MyNameIsGod",
+      "Steam": "76561199269858697",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Mon] xzcb",
+      "Steam": "76561199869430003",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Jacethesnake",
-      "Steam": "76561199837535361",
-      "Score": 0,
+      "Name": "ghostY",
+      "Steam": "76561199591486018",
+      "Score": 64,
       "Time": "??:??"
+    },
+    {
+      "Name": "Simon G",
+      "Steam": "76561199484641787",
+      "Score": 58,
+      "Time": "10:37"
     }
   ]
 }
