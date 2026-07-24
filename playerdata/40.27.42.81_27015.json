@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-24T05:48:16.1125098Z",
+  "Time": "2026-07-24T05:50:16.2824898Z",
   "Players": [
+    {
+      "Name": "Dark",
+      "Steam": "76561199100368388",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 103,
-      "Time": "61:15"
+      "Score": 109,
+      "Time": "63:15"
     },
     {
       "Name": "extortion mob",
@@ -16,8 +22,8 @@
     {
       "Name": "Hades",
       "Steam": "76561199015635680",
-      "Score": 37,
-      "Time": "181:52"
+      "Score": 39,
+      "Time": "183:52"
     },
     {
       "Name": "WOW",
@@ -28,32 +34,32 @@
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 71,
-      "Time": "40:00"
+      "Score": 75,
+      "Time": "42:00"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 4,
-      "Time": "01:01"
+      "Score": 6,
+      "Time": "03:01"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 12,
-      "Time": "06:09"
+      "Score": 23,
+      "Time": "08:09"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 12,
-      "Time": "25:18"
+      "Score": 18,
+      "Time": "27:18"
     },
     {
       "Name": "israeli hack",
       "Steam": "76561198667749911",
-      "Score": 16,
-      "Time": "17:24"
+      "Score": 22,
+      "Time": "19:24"
     }
   ]
 }
