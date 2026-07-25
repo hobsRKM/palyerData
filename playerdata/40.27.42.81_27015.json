@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-25T19:21:12.0865423Z",
+  "Time": "2026-07-25T19:23:12.0938743Z",
   "Players": [
     {
       "Name": "parties",
       "Steam": "76561199548350350",
-      "Score": 1,
+      "Score": 7,
       "Time": "??:??"
+    },
+    {
+      "Name": "Average Faceit Player",
+      "Steam": "76561198679368971",
+      "Score": 0,
+      "Time": "00:56"
     },
     {
       "Name": "muteall.",
@@ -16,25 +22,25 @@
     {
       "Name": "missware.cc",
       "Steam": "76561198672653618",
-      "Score": 67,
-      "Time": "61:07"
+      "Score": 74,
+      "Time": "63:07"
     },
     {
       "Name": "SO_MA_Y_A",
       "Steam": "76561198719703493",
-      "Score": 20,
-      "Time": "00:55"
+      "Score": 26,
+      "Time": "02:55"
     },
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Willi4m Mic4el",
       "Steam": "76561198297700251",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
