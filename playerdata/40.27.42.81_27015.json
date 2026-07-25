@@ -1,23 +1,29 @@
 {
-  "Time": "2026-07-25T19:37:12.0923207Z",
+  "Time": "2026-07-25T19:39:12.0888223Z",
   "Players": [
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
-      "Score": 1,
-      "Time": "02:18"
+      "Score": 2,
+      "Time": "04:18"
+    },
+    {
+      "Name": "Butter Dad",
+      "Steam": "76561198683240159",
+      "Score": 0,
+      "Time": "00:18"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 26,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "boof 3.5",
       "Steam": "76561198676207007",
-      "Score": 6,
-      "Time": "05:16"
+      "Score": 12,
+      "Time": "07:16"
     },
     {
       "Name": "des",
@@ -26,16 +32,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "Fatali Mr.Squirrel_Man",
+      "Name": "Fata Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 33,
-      "Time": "10:32"
+      "Score": 39,
+      "Time": "12:32"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 35,
-      "Time": "08:23"
+      "Score": 44,
+      "Time": "10:23"
     }
   ]
 }
