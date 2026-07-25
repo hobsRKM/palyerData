@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-25T22:11:12.381177Z",
+  "Time": "2026-07-25T22:13:12.3745472Z",
   "Players": [
+    {
+      "Name": "Bobby The Federal Investigator",
+      "Steam": "76561199411523950",
+      "Score": 6,
+      "Time": "05:36"
+    },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 29,
-      "Time": "05:21"
+      "Score": 34,
+      "Time": "07:21"
     },
     {
       "Name": "mousetrap // i love skiddy",
       "Steam": "76561199887239492",
-      "Score": 39,
-      "Time": "12:50"
+      "Score": 50,
+      "Time": "14:49"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 46,
-      "Time": "42:19"
+      "Score": 49,
+      "Time": "44:19"
     },
     {
       "Name": "qk",
       "Steam": "76561198676207007",
-      "Score": 46,
-      "Time": "36:57"
+      "Score": 53,
+      "Time": "38:57"
     },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
-      "Score": 16,
-      "Time": "99:02"
+      "Score": 19,
+      "Time": "101:01"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 54,
-      "Time": "06:43"
+      "Score": 64,
+      "Time": "08:43"
     }
   ]
 }
