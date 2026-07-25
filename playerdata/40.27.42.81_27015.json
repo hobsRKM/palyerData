@@ -1,34 +1,46 @@
 {
-  "Time": "2026-07-25T20:41:12.145798Z",
+  "Time": "2026-07-25T20:43:12.1479996Z",
   "Players": [
+    {
+      "Name": "неизвестныйлегит",
+      "Steam": "76561199839471492",
+      "Score": 4,
+      "Time": "111:05"
+    },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 8,
-      "Time": "166:43"
+      "Score": 12,
+      "Time": "168:43"
     },
     {
       "Name": "rental",
       "Steam": "76561198728274003",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "mousetrap // i love skiddy",
       "Steam": "76561199887239492",
-      "Score": 70,
-      "Time": "14:42"
+      "Score": 76,
+      "Time": "16:42"
+    },
+    {
+      "Name": "1TapMonkey",
+      "Steam": "76561198734925560",
+      "Score": 0,
+      "Time": "00:45"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 66,
-      "Time": "16:17"
+      "Score": 72,
+      "Time": "18:17"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
@@ -40,37 +52,25 @@
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
-      "Score": 21,
-      "Time": "12:52"
-    },
-    {
-      "Name": "Ultrix",
-      "Steam": "76561199525267938",
-      "Score": 14,
-      "Time": "??:??"
+      "Score": 23,
+      "Time": "14:52"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 66,
+      "Score": 76,
       "Time": "??:??"
-    },
-    {
-      "Name": "Никита",
-      "Steam": "76561199212056265",
-      "Score": 42,
-      "Time": "125:27"
     },
     {
       "Name": "boof 3.5",
       "Steam": "76561198676207007",
-      "Score": 6,
-      "Time": "04:45"
+      "Score": 8,
+      "Time": "06:45"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 54,
+      "Score": 62,
       "Time": "??:??"
     }
   ]
