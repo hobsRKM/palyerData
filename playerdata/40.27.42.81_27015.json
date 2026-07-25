@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-25T14:25:12.0913742Z",
+  "Time": "2026-07-25T14:27:12.0856795Z",
   "Players": [
+    {
+      "Name": "pioneer",
+      "Steam": "76561198676340972",
+      "Score": 0,
+      "Time": "00:11"
+    },
     {
       "Name": "XERNACS",
       "Steam": "76561198713816111",
@@ -10,44 +16,32 @@
     {
       "Name": "mousetrap // i love skiddy",
       "Steam": "76561199887239492",
-      "Score": 90,
-      "Time": "41:36"
+      "Score": 94,
+      "Time": "43:36"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 16,
-      "Time": "16:28"
+      "Score": 32,
+      "Time": "18:28"
     },
     {
       "Name": "Jamming Jerry",
       "Steam": "76561199055238878",
-      "Score": 18,
-      "Time": "18:56"
+      "Score": 23,
+      "Time": "20:56"
     },
     {
       "Name": "Average Faceit Player",
       "Steam": "76561198679368971",
-      "Score": 51,
-      "Time": "33:49"
+      "Score": 53,
+      "Time": "35:49"
     },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 18,
-      "Time": "42:09"
-    },
-    {
-      "Name": "marusEnse.cc T I M E",
-      "Steam": "76561199706485757",
-      "Score": 65,
-      "Time": "??:??"
-    },
-    {
-      "Name": "r1neverl",
-      "Steam": "76561199839471492",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 22,
+      "Time": "44:09"
     }
   ]
 }
