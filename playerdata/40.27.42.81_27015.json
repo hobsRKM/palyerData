@@ -1,28 +1,34 @@
 {
-  "Time": "2026-07-25T20:07:12.0910747Z",
+  "Time": "2026-07-25T20:09:12.1009698Z",
   "Players": [
+    {
+      "Name": "ุ",
+      "Steam": "76561199020431776",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "mousetrap // i love skiddy",
       "Steam": "76561199887239492",
-      "Score": 7,
-      "Time": "17:38"
+      "Score": 13,
+      "Time": "19:38"
     },
     {
       "Name": "Average Faceit Player",
       "Steam": "76561198679368971",
-      "Score": 14,
-      "Time": "18:04"
+      "Score": 22,
+      "Time": "20:04"
     },
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
       "Score": 10,
-      "Time": "09:40"
+      "Time": "11:40"
     },
     {
       "Name": "kitty",
       "Steam": "76561199800809526",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     },
     {
@@ -34,19 +40,19 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "boof 3.5",
       "Steam": "76561198676207007",
-      "Score": 15,
-      "Time": "35:16"
+      "Score": 21,
+      "Time": "37:16"
     },
     {
       "Name": "True Talent Hidden Within Opsec.",
       "Steam": "76561199580355122",
-      "Score": 12,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
