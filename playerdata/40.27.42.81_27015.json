@@ -1,70 +1,82 @@
 {
-  "Time": "2026-07-25T20:35:12.0957199Z",
+  "Time": "2026-07-25T20:37:12.0987756Z",
   "Players": [
     {
       "Name": "jok",
       "Steam": "76561199569938885",
-      "Score": 6,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rental",
+      "Steam": "76561198728274003",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "mousetrap // i love skiddy",
       "Steam": "76561199887239492",
-      "Score": 50,
-      "Time": "08:42"
+      "Score": 59,
+      "Time": "10:42"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 45,
-      "Time": "10:17"
+      "Score": 50,
+      "Time": "12:17"
+    },
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "meowi",
       "Steam": "76561199873629982",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
-      "Score": 13,
-      "Time": "06:52"
+      "Score": 15,
+      "Time": "08:52"
     },
     {
       "Name": "Ultrix",
       "Steam": "76561199525267938",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 54,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "Никита",
       "Steam": "76561199212056265",
-      "Score": 32,
-      "Time": "119:27"
+      "Score": 33,
+      "Time": "121:27"
     },
     {
-      "Name": "robertoparker3248",
-      "Steam": "76561198666684233",
-      "Score": 1,
-      "Time": "??:??"
+      "Name": "boof 3.5",
+      "Steam": "76561198676207007",
+      "Score": 0,
+      "Time": "00:45"
     },
     {
       "Name": "hischvh",
       "Steam": "76561199230287839",
-      "Score": 8,
-      "Time": "18:37"
+      "Score": 10,
+      "Time": "20:37"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 28,
+      "Score": 38,
       "Time": "??:??"
     }
   ]
