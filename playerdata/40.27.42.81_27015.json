@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-25T19:49:12.089616Z",
+  "Time": "2026-07-25T19:51:12.0874951Z",
   "Players": [
+    {
+      "Name": "mousetrap // i love skiddy",
+      "Steam": "76561199887239492",
+      "Score": 6,
+      "Time": "01:38"
+    },
     {
       "Name": "Average Faceit Player",
       "Steam": "76561198679368971",
-      "Score": 20,
-      "Time": "00:04"
+      "Score": 24,
+      "Time": "02:04"
     },
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
-      "Score": 22,
-      "Time": "14:18"
+      "Score": 28,
+      "Time": "16:18"
     },
     {
       "Name": "Ultrix",
@@ -22,14 +28,14 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 84,
+      "Score": 98,
       "Time": "??:??"
     },
     {
       "Name": "boof 3.5",
       "Steam": "76561198676207007",
-      "Score": 41,
-      "Time": "17:16"
+      "Score": 0,
+      "Time": "19:16"
     }
   ]
 }
