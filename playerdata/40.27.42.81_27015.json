@@ -1,65 +1,71 @@
 {
-  "Time": "2026-07-25T22:27:12.604238Z",
+  "Time": "2026-07-25T22:29:12.6070777Z",
   "Players": [
+    {
+      "Name": "Via",
+      "Steam": "76561199141167475",
+      "Score": 3,
+      "Time": "??:??"
+    },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 17,
-      "Time": "19:37"
+      "Score": 23,
+      "Time": "21:37"
     },
     {
       "Name": "Vidblainn",
       "Steam": "76561198174811159",
-      "Score": 1,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 19,
-      "Time": "21:21"
+      "Score": 23,
+      "Time": "23:21"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 4,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "israeli hack",
       "Steam": "76561198667749911",
       "Score": 4,
-      "Time": "73:17"
+      "Time": "75:17"
     },
     {
       "Name": "qk",
       "Steam": "76561198676207007",
-      "Score": 45,
-      "Time": "52:57"
+      "Score": 52,
+      "Time": "54:57"
     },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
-      "Score": 4,
-      "Time": "01:37"
+      "Score": 6,
+      "Time": "03:37"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 32,
-      "Time": "22:44"
+      "Score": 37,
+      "Time": "24:44"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 28,
-      "Time": "80:12"
+      "Score": 35,
+      "Time": "82:12"
     }
   ]
 }
