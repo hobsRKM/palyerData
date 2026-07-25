@@ -1,59 +1,65 @@
 {
-  "Time": "2026-07-25T01:09:05.8408721Z",
+  "Time": "2026-07-25T01:11:05.8468195Z",
   "Players": [
+    {
+      "Name": "rack osama",
+      "Steam": "76561198668232624",
+      "Score": 0,
+      "Time": "00:10"
+    },
     {
       "Name": "meowi",
       "Steam": "76561199873629982",
-      "Score": 43,
-      "Time": "138:22"
+      "Score": 45,
+      "Time": "140:22"
     },
     {
       "Name": "1TapMonkey",
       "Steam": "76561198734925560",
-      "Score": 30,
-      "Time": "??:??"
-    },
-    {
-      "Name": "die",
-      "Steam": "76561199125572569",
-      "Score": 68,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 76,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 41,
-      "Time": "33:45"
+      "Score": 49,
+      "Time": "35:45"
     },
     {
       "Name": "femboylover67",
       "Steam": "76561198773395039",
-      "Score": 2,
-      "Time": "83:17"
+      "Score": 6,
+      "Time": "85:17"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 17,
+      "Time": "01:49"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 28,
-      "Time": "12:08"
+      "Score": 31,
+      "Time": "14:08"
     },
     {
       "Name": "школьница лет 8-ми",
       "Steam": "76561199104169497",
-      "Score": 48,
-      "Time": "28:18"
+      "Score": 54,
+      "Time": "30:18"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 127,
-      "Time": "38:03"
+      "Score": 140,
+      "Time": "40:03"
     }
   ]
 }
