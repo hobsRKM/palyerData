@@ -1,11 +1,23 @@
 {
-  "Time": "2026-07-25T21:23:12.2267697Z",
+  "Time": "2026-07-25T21:25:12.229822Z",
   "Players": [
+    {
+      "Name": "vac ban tester764/1414",
+      "Steam": "76561199364103080",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "kobratoinator",
       "Steam": "76561198910541466",
       "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "1TapMonkey",
+      "Steam": "76561198734925560",
+      "Score": 0,
+      "Time": "00:36"
     },
     {
       "Name": "jitter",
@@ -14,16 +26,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
-      "Steam": "76561198746580517",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
       "Name": "zoomerchan12",
       "Steam": "76561199583545639",
-      "Score": 16,
-      "Time": "11:34"
+      "Score": 30,
+      "Time": "13:34"
     },
     {
       "Name": "loner",
@@ -32,22 +38,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "defiye",
-      "Steam": "76561198691835436",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "meowi",
-      "Steam": "76561199873629982",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 16,
-      "Time": "17:42"
+      "Score": 24,
+      "Time": "19:42"
     },
     {
       "Name": "ASD",
@@ -58,14 +52,14 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "boof 3.5",
       "Steam": "76561198676207007",
-      "Score": 5,
-      "Time": "46:45"
+      "Score": 9,
+      "Time": "48:45"
     },
     {
       "Name": "Vicious",
@@ -76,8 +70,8 @@
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 35,
-      "Time": "07:06"
+      "Score": 47,
+      "Time": "09:06"
     }
   ]
 }
