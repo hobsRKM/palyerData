@@ -1,28 +1,34 @@
 {
-  "Time": "2026-07-25T01:13:05.8432773Z",
+  "Time": "2026-07-25T01:15:05.8480005Z",
   "Players": [
+    {
+      "Name": "nigabuck #keepitahunnit",
+      "Steam": "76561198793026239",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "loub",
       "Steam": "76561198672629831",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "rack osama",
       "Steam": "76561198668232624",
-      "Score": 1,
-      "Time": "02:10"
+      "Score": 3,
+      "Time": "04:10"
     },
     {
       "Name": "meowi",
       "Steam": "76561199873629982",
-      "Score": 47,
-      "Time": "142:22"
+      "Score": 51,
+      "Time": "144:22"
     },
     {
       "Name": "1TapMonkey",
       "Steam": "76561198734925560",
-      "Score": 45,
+      "Score": 47,
       "Time": "??:??"
     },
     {
@@ -34,32 +40,38 @@
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 54,
-      "Time": "37:45"
+      "Score": 58,
+      "Time": "39:45"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 19,
-      "Time": "03:49"
+      "Score": 21,
+      "Time": "05:49"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
       "Score": 39,
-      "Time": "16:08"
+      "Time": "18:08"
     },
     {
       "Name": "школьница лет 8-ми",
       "Steam": "76561199104169497",
       "Score": 61,
-      "Time": "32:18"
+      "Time": "34:18"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 148,
-      "Time": "42:03"
+      "Score": 153,
+      "Time": "44:03"
+    },
+    {
+      "Name": "Serediuk",
+      "Steam": "76561199635003639",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
