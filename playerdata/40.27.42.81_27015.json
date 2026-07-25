@@ -1,23 +1,35 @@
 {
-  "Time": "2026-07-25T07:59:14.8479239Z",
+  "Time": "2026-07-25T08:01:14.8729984Z",
   "Players": [
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 2,
-      "Time": "47:41"
+      "Score": 3,
+      "Time": "49:41"
+    },
+    {
+      "Name": "gitanit0",
+      "Steam": "76561199067466905",
+      "Score": 4,
+      "Time": "151:11"
     },
     {
       "Name": "XERNACS",
       "Steam": "76561198713816111",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 16,
-      "Time": "258:15"
+      "Score": 18,
+      "Time": "260:15"
+    },
+    {
+      "Name": "Smh",
+      "Steam": "76561198689816963",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
