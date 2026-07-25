@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-25T19:17:12.0950922Z",
+  "Time": "2026-07-25T19:19:12.0867694Z",
   "Players": [
+    {
+      "Name": "parties",
+      "Steam": "76561199548350350",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "muteall.",
       "Steam": "76561199702252414",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "missware.cc",
       "Steam": "76561198672653618",
-      "Score": 61,
-      "Time": "57:07"
+      "Score": 65,
+      "Time": "59:07"
     },
     {
       "Name": "parisencio",
@@ -20,16 +26,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "boof 3.5",
-      "Steam": "76561198676207007",
-      "Score": 43,
-      "Time": "38:35"
-    },
-    {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 16,
-      "Time": "03:50"
+      "Score": 26,
+      "Time": "05:50"
     }
   ]
 }
