@@ -1,29 +1,35 @@
 {
-  "Time": "2026-07-25T19:47:12.0952883Z",
+  "Time": "2026-07-25T19:49:12.089616Z",
   "Players": [
+    {
+      "Name": "Average Faceit Player",
+      "Steam": "76561198679368971",
+      "Score": 20,
+      "Time": "00:04"
+    },
     {
       "Name": "parisencio",
       "Steam": "76561198681071568",
-      "Score": 16,
-      "Time": "12:18"
+      "Score": 22,
+      "Time": "14:18"
     },
     {
       "Name": "Ultrix",
       "Steam": "76561199525267938",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 75,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "boof 3.5",
       "Steam": "76561198676207007",
-      "Score": 39,
-      "Time": "15:16"
+      "Score": 41,
+      "Time": "17:16"
     }
   ]
 }
