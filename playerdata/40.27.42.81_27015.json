@@ -1,53 +1,59 @@
 {
-  "Time": "2026-07-25T03:41:08.9884882Z",
+  "Time": "2026-07-25T03:43:09.1007344Z",
   "Players": [
     {
       "Name": "getkaiju.cc",
       "Steam": "76561199375775741",
-      "Score": 8,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Chlorine Sniffer",
+      "Steam": "76561198337499950",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "wowx",
       "Steam": "76561199385380985",
-      "Score": 2,
-      "Time": "01:28"
+      "Score": 16,
+      "Time": "03:29"
     },
     {
       "Name": "\uD83D\uDCA4",
       "Steam": "76561199805503727",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Tommy Chucklenuts",
       "Steam": "76561198780385012",
       "Score": 0,
-      "Time": "50:54"
+      "Time": "52:54"
+    },
+    {
+      "Name": "isis",
+      "Steam": "76561199482511279",
+      "Score": 0,
+      "Time": "99:23"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 0,
-      "Time": "139:57"
-    },
-    {
-      "Name": "atheus",
-      "Steam": "76561198868995770",
-      "Score": 6,
-      "Time": "57:10"
+      "Score": 7,
+      "Time": "141:57"
     },
     {
       "Name": "OEmt.club | YaBoiFlexer",
       "Steam": "76561198287086789",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "insomnia is killing me slowly",
       "Steam": "76561199189761068",
-      "Score": 5,
-      "Time": "09:01"
+      "Score": 13,
+      "Time": "11:01"
     },
     {
       "Name": "foodistzen2",
@@ -58,8 +64,8 @@
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 6,
-      "Time": "85:07"
+      "Score": 14,
+      "Time": "87:07"
     }
   ]
 }
