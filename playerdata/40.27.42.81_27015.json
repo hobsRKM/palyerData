@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-25T17:13:12.0937293Z",
+  "Time": "2026-07-25T17:15:12.0861185Z",
   "Players": [
+    {
+      "Name": "producing",
+      "Steam": "76561199873394300",
+      "Score": 29,
+      "Time": "00:01"
+    },
     {
       "Name": "Yuuko",
       "Steam": "76561199700561595",
@@ -10,50 +16,56 @@
     {
       "Name": "ssist",
       "Steam": "76561198695257041",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "mousetrap // i love skiddy",
       "Steam": "76561199887239492",
-      "Score": 50,
-      "Time": "08:52"
+      "Score": 59,
+      "Time": "10:52"
     },
     {
       "Name": "Jamming Jerry",
       "Steam": "76561199055238878",
-      "Score": 16,
-      "Time": "04:05"
+      "Score": 26,
+      "Time": "06:05"
+    },
+    {
+      "Name": "Average Faceit Player",
+      "Steam": "76561198679368971",
+      "Score": 0,
+      "Time": "01:02"
     },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
       "Score": 10,
-      "Time": "61:51"
+      "Time": "63:51"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 19,
-      "Time": "09:17"
+      "Score": 21,
+      "Time": "11:17"
     },
     {
       "Name": "the fucking blueprint",
       "Steam": "76561198676207007",
-      "Score": 34,
-      "Time": "11:33"
+      "Score": 39,
+      "Time": "13:33"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 99,
-      "Time": "22:13"
+      "Score": 109,
+      "Time": "24:13"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 110,
-      "Time": "28:33"
+      "Score": 116,
+      "Time": "30:33"
     }
   ]
 }
