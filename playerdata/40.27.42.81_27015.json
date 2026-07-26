@@ -1,39 +1,51 @@
 {
-  "Time": "2026-07-26T17:47:21.1106484Z",
+  "Time": "2026-07-26T17:49:21.1061251Z",
   "Players": [
+    {
+      "Name": "conoandante",
+      "Steam": "76561199368695923",
+      "Score": 1,
+      "Time": "01:47"
+    },
     {
       "Name": "loner",
       "Steam": "76561198213515921",
-      "Score": 52,
-      "Time": "24:06"
+      "Score": 56,
+      "Time": "26:06"
     },
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 34,
-      "Time": "13:14"
+      "Score": 42,
+      "Time": "15:14"
     },
     {
       "Name": "julius caesar",
       "Steam": "76561199268825034",
-      "Score": 10,
-      "Time": "05:33"
+      "Score": 20,
+      "Time": "07:33"
     },
     {
       "Name": "Daddy Chill",
       "Steam": "76561198757714773",
-      "Score": 40,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 58,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "Grukington",
       "Steam": "76561199082457511",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "qwerr",
+      "Steam": "76561198690388042",
       "Score": 0,
       "Time": "??:??"
     }
