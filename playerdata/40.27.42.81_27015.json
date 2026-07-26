@@ -1,58 +1,64 @@
 {
-  "Time": "2026-07-26T06:29:27.4841896Z",
+  "Time": "2026-07-26T06:31:27.6063867Z",
   "Players": [
+    {
+      "Name": "jojo",
+      "Steam": "76561198706721426",
+      "Score": 3,
+      "Time": "??:??"
+    },
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 36,
-      "Time": "797:31"
+      "Score": 41,
+      "Time": "799:31"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 5,
-      "Time": "50:37"
+      "Score": 10,
+      "Time": "52:37"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 44,
-      "Time": "45:57"
+      "Score": 54,
+      "Time": "47:57"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Smh",
       "Steam": "76561198689816963",
-      "Score": 28,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "israeli hack",
       "Steam": "76561198667749911",
-      "Score": 27,
-      "Time": "08:10"
+      "Score": 29,
+      "Time": "10:10"
     },
     {
       "Name": "DJ 1greasy",
       "Steam": "76561199073565087",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 53,
-      "Time": "13:24"
+      "Score": 61,
+      "Time": "15:24"
     },
     {
       "Name": "foodistzen2",
       "Steam": "76561198773682815",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -64,20 +70,14 @@
     {
       "Name": "gabrielstoya1234",
       "Steam": "76561199242463486",
-      "Score": 28,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "cheezie",
-      "Steam": "76561198743474205",
-      "Score": 37,
-      "Time": "22:35"
     },
     {
       "Name": "\u1CBC",
       "Steam": "76561198679830854",
-      "Score": 60,
-      "Time": "21:59"
+      "Score": 70,
+      "Time": "23:59"
     }
   ]
 }
