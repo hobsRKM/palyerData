@@ -1,47 +1,23 @@
 {
-  "Time": "2026-07-26T15:18:18.7839653Z",
+  "Time": "2026-07-26T15:20:12.6909567Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Lite",
+      "Steam": "76561198715611098",
+      "Score": 10,
+      "Time": "05:49"
+    },
+    {
+      "Name": "Hajyt",
+      "Steam": "76561198669503851",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "107:34"
     },
     {
-      "Name": "obesity",
-      "Steam": "76561199571677660",
-      "Score": 2,
-      "Time": "01:25"
-    },
-    {
-      "Name": "cnnjiu",
-      "Steam": "76561198673779906",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "low effort",
-      "Steam": "76561199136996473",
-      "Score": 25,
-      "Time": "18:03"
-    },
-    {
-      "Name": "Neverlose Warrior",
-      "Steam": "76561199699181728",
-      "Score": 50,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mk",
-      "Steam": "76561199332372590",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
-      "Name": "This forest will burn with fire",
-      "Steam": "76561198741244592",
+      "Name": "asz",
+      "Steam": "76561198675659143",
       "Score": 22,
-      "Time": "??:??"
+      "Time": "05:25"
     }
   ]
 }
