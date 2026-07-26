@@ -1,4 +1,47 @@
 {
-  "Time": "2026-07-26T22:24:19.6569207Z",
-  "Players": []
+  "Time": "2026-07-26T22:24:29.7992212Z",
+  "Players": [
+    {
+      "Name": "Matrix",
+      "Steam": "76561199791396153",
+      "Score": 41,
+      "Time": "09:05"
+    },
+    {
+      "Name": "macropeak",
+      "Steam": "76561199774310641",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bonezmc",
+      "Steam": "76561199401689519",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "little happy man",
+      "Steam": "76561198710887226",
+      "Score": 59,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDC83\uD835\uDC8D\uD835\uDC86\uD835\uDC94\uD835\uDC94\uD835\uDC86\uD835\uDC85",
+      "Steam": "76561198763949379",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "idinarui",
+      "Steam": "76561198676119054",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "генерал хамаса",
+      "Steam": "76561198740257879",
+      "Score": 10,
+      "Time": "??:??"
+    }
+  ]
 }
