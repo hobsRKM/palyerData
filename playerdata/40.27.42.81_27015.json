@@ -1,17 +1,35 @@
 {
-  "Time": "2026-07-26T05:37:25.6038578Z",
+  "Time": "2026-07-26T05:39:25.6841971Z",
   "Players": [
+    {
+      "Name": "salatiel 12 mola",
+      "Steam": "76561198672023645",
+      "Score": 0,
+      "Time": "284:22"
+    },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 25,
-      "Time": "57:15"
+      "Score": 27,
+      "Time": "59:15"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 8,
+      "Time": "00:35"
+    },
+    {
+      "Name": "skid ™",
+      "Steam": "76561198806497985",
+      "Score": 3,
+      "Time": "01:07"
     },
     {
       "Name": "Average Faceit Player",
       "Steam": "76561198679368971",
-      "Score": 35,
-      "Time": "251:52"
+      "Score": 41,
+      "Time": "253:52"
     },
     {
       "Name": "loserclub",
@@ -22,8 +40,8 @@
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 19,
-      "Time": "09:54"
+      "Score": 29,
+      "Time": "11:54"
     }
   ]
 }
