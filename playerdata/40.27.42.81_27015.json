@@ -1,41 +1,53 @@
 {
-  "Time": "2026-07-26T05:43:25.8092089Z",
+  "Time": "2026-07-26T05:45:25.8317793Z",
   "Players": [
+    {
+      "Name": "rgow1142",
+      "Steam": "76561199872234775",
+      "Score": 0,
+      "Time": "520:33"
+    },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 41,
-      "Time": "63:15"
+      "Score": 45,
+      "Time": "65:15"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
       "Score": 8,
-      "Time": "04:35"
+      "Time": "06:35"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 5,
-      "Time": "03:34"
+      "Score": 17,
+      "Time": "05:34"
+    },
+    {
+      "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
+      "Steam": "76561198746580517",
+      "Score": 0,
+      "Time": "01:55"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 14,
-      "Time": "05:08"
+      "Score": 18,
+      "Time": "07:08"
     },
     {
       "Name": "Average Faceit Player",
       "Steam": "76561198679368971",
       "Score": 51,
-      "Time": "257:52"
+      "Time": "259:52"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 41,
-      "Time": "15:54"
+      "Score": 47,
+      "Time": "17:54"
     }
   ]
 }
