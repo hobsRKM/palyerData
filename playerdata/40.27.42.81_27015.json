@@ -1,29 +1,29 @@
 {
-  "Time": "2026-07-26T01:33:16.079786Z",
+  "Time": "2026-07-26T01:35:16.089656Z",
   "Players": [
     {
       "Name": "r0x",
       "Steam": "76561197970393276",
-      "Score": 69,
+      "Score": 75,
       "Time": "??:??"
+    },
+    {
+      "Name": "ssist",
+      "Steam": "76561198695257041",
+      "Score": 0,
+      "Time": "295:57"
     },
     {
       "Name": "israeli hack",
       "Steam": "76561198667749911",
       "Score": 30,
-      "Time": "33:22"
+      "Time": "35:22"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 40,
+      "Score": 42,
       "Time": "??:??"
-    },
-    {
-      "Name": "student tapped in",
-      "Steam": "76561198682261109",
-      "Score": 49,
-      "Time": "514:29"
     }
   ]
 }
