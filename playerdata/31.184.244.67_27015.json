@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-26T22:02:19.5039225Z",
-  "Players": []
+  "Time": "2026-07-26T22:02:29.7991484Z",
+  "Players": [
+    {
+      "Name": "mongo",
+      "Steam": "76561198795381369",
+      "Score": 0,
+      "Time": "03:07"
+    },
+    {
+      "Name": "Baam.solutions· | Baam.solutions",
+      "Steam": "76561199857803668",
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "¦ | Plantman",
+      "Steam": "76561198721036449",
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xyz",
+      "Steam": "76561199150295808",
+      "Score": 32,
+      "Time": "??:??"
+    },
+    {
+      "Name": "macropeak",
+      "Steam": "76561199774310641",
+      "Score": 37,
+      "Time": "??:??"
+    },
+    {
+      "Name": "onetap cj",
+      "Steam": "76561199867153030",
+      "Score": 42,
+      "Time": "??:??"
+    }
+  ]
 }
