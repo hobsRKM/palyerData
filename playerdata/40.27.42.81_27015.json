@@ -1,59 +1,59 @@
 {
-  "Time": "2026-07-25T23:25:13.1142903Z",
+  "Time": "2026-07-25T23:27:13.146104Z",
   "Players": [
+    {
+      "Name": "hischvh",
+      "Steam": "76561199230287839",
+      "Score": 3,
+      "Time": "07:15"
+    },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 4,
-      "Time": "77:37"
+      "Score": 10,
+      "Time": "79:37"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "funpayfort1",
       "Steam": "76561199713238385",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:06"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "\uD83D\uDCA4",
       "Steam": "76561199805503727",
-      "Score": 4,
-      "Time": "183:52"
+      "Score": 10,
+      "Time": "185:52"
     },
     {
       "Name": "qk",
       "Steam": "76561198676207007",
-      "Score": 0,
-      "Time": "110:58"
-    },
-    {
-      "Name": "Griffith",
-      "Steam": "76561199560112595",
       "Score": 2,
-      "Time": "??:??"
+      "Time": "112:58"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 8,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 5,
-      "Time": "02:06"
+      "Score": 13,
+      "Time": "04:06"
     }
   ]
 }
