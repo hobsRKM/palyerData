@@ -1,16 +1,22 @@
 {
-  "Time": "2026-07-26T18:03:21.0978675Z",
+  "Time": "2026-07-26T18:05:21.1066516Z",
   "Players": [
+    {
+      "Name": "vfnmxi446738",
+      "Steam": "76561199874041124",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 48,
-      "Time": "29:14"
+      "Score": 55,
+      "Time": "31:14"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 52,
+      "Score": 62,
       "Time": "??:??"
     },
     {
@@ -22,20 +28,20 @@
     {
       "Name": "escort",
       "Steam": "76561199221879432",
-      "Score": 1,
-      "Time": "11:17"
+      "Score": 0,
+      "Time": "13:17"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 51,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "cloxid",
       "Steam": "76561198166519466",
-      "Score": 9,
-      "Time": "04:32"
+      "Score": 4,
+      "Time": "06:32"
     }
   ]
 }
