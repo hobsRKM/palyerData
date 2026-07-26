@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-26T22:59:21.1019063Z",
+  "Time": "2026-07-26T23:01:21.1000679Z",
   "Players": [
     {
       "Name": "cheezie",
       "Steam": "76561198743474205",
-      "Score": 83,
-      "Time": "38:31"
+      "Score": 88,
+      "Time": "40:31"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 93,
+      "Score": 105,
       "Time": "??:??"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 13,
-      "Time": "08:36"
+      "Score": 15,
+      "Time": "10:36"
+    },
+    {
+      "Name": "Sofa.pub",
+      "Steam": "76561199442363655",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "die",
       "Steam": "76561199125572569",
-      "Score": 83,
+      "Score": 93,
       "Time": "??:??"
     },
     {
-      "Name": "Cope",
-      "Steam": "76561199045604332",
+      "Name": "1TapMonkey",
+      "Steam": "76561198734925560",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:43"
     }
   ]
 }
