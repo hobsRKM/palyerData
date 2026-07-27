@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-27T20:53:01.5400674Z",
+  "Time": "2026-07-27T20:55:01.5492336Z",
   "Players": [
+    {
+      "Name": "low effort",
+      "Steam": "76561199136996473",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
@@ -10,13 +16,13 @@
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 76,
+      "Score": 82,
       "Time": "??:??"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 68,
+      "Score": 76,
       "Time": "??:??"
     },
     {
@@ -28,31 +34,37 @@
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Shooter",
       "Steam": "76561198785137709",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cats",
+      "Steam": "76561198741480204",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 58,
-      "Time": "37:47"
+      "Score": 63,
+      "Time": "39:47"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198726899259",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 29,
+      "Score": 32,
       "Time": "??:??"
     }
   ]
