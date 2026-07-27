@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-27T09:18:23.1833365Z",
-  "Players": []
+  "Time": "2026-07-27T09:18:35.4593402Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tadej Pogačar",
+      "Steam": "76561198707593098",
+      "Score": 0,
+      "Time": "00:44"
+    },
+    {
+      "Name": "Sweetie fox",
+      "Steam": "76561199648464770",
+      "Score": 4,
+      "Time": "12:46"
+    },
+    {
+      "Name": "FireTVStick",
+      "Steam": "76561199079991406",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
