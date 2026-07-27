@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-27T23:14:21.370506Z",
-  "Players": []
+  "Time": "2026-07-27T23:14:23.1862088Z",
+  "Players": [
+    {
+      "Name": "OneTap.cc",
+      "Steam": "76561198794411072",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "hello",
+      "Steam": "76561199850236371",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "testing skeet update",
+      "Steam": "76561199392364898",
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cnnjiu",
+      "Steam": "76561198673779906",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
