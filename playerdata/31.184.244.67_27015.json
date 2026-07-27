@@ -1,4 +1,35 @@
 {
-  "Time": "2026-07-27T10:30:23.1833136Z",
-  "Players": []
+  "Time": "2026-07-27T10:30:35.4714983Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kingeling",
+      "Steam": "76561199212323628",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Stroszku_detonator",
+      "Steam": "76561199808810340",
+      "Score": 58,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dugo",
+      "Steam": "76561198447689301",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Joe Goldberg",
+      "Steam": "76561199834756397",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
