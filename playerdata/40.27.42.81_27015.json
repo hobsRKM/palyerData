@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-27T00:59:21.1093816Z",
+  "Time": "2026-07-27T01:01:21.1140433Z",
   "Players": [
     {
-      "Name": "game> tmrl",
+      "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
+      "Steam": "76561198746580517",
+      "Score": 8,
+      "Time": "01:25"
+    },
+    {
+      "Name": "tmrl",
       "Steam": "76561199239366630",
-      "Score": 42,
-      "Time": "12:21"
+      "Score": 48,
+      "Time": "14:21"
     },
     {
       "Name": "Sensei",
@@ -16,25 +22,31 @@
     {
       "Name": "ssist",
       "Steam": "76561198695257041",
-      "Score": 14,
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Single",
+      "Steam": "76561198716790381",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 25,
-      "Time": "15:20"
+      "Score": 3,
+      "Time": "17:20"
     },
     {
       "Name": "\u1CBC",
       "Steam": "76561198679830854",
-      "Score": 33,
-      "Time": "21:36"
+      "Score": 41,
+      "Time": "23:36"
     },
     {
       "Name": "ronny",
       "Steam": "76561199745364739",
-      "Score": 8,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
