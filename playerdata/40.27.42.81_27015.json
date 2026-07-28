@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-28T21:39:00.6589596Z",
+  "Time": "2026-07-28T21:41:00.6564268Z",
   "Players": [
     {
       "Name": "100% opsec (mullvad)",
       "Steam": "76561198274689471",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Aniki",
+      "Steam": "76561199097621894",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 6,
-      "Time": "81:34"
+      "Score": 14,
+      "Time": "83:34"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 12,
-      "Time": "09:33"
+      "Score": 22,
+      "Time": "11:33"
     }
   ]
 }
