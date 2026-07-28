@@ -1,4 +1,41 @@
 {
-  "Time": "2026-07-28T16:42:23.4700768Z",
-  "Players": []
+  "Time": "2026-07-28T16:43:27.9343941Z",
+  "Players": [
+    {
+      "Name": "Joe Goldberg",
+      "Steam": "76561199834756397",
+      "Score": 2,
+      "Time": "01:03"
+    },
+    {
+      "Name": "Buciarz",
+      "Steam": "76561199159390487",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[Monolith] cwj0po",
+      "Steam": "76561198711239198",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "RaxoLL",
+      "Steam": "76561198745903058",
+      "Score": 8,
+      "Time": "173:56"
+    },
+    {
+      "Name": "NL Bean_\uD83C\uDFC6",
+      "Steam": "76561199096646407",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Solis",
+      "Steam": "76561199877509583",
+      "Score": 2,
+      "Time": "99:54"
+    }
+  ]
 }
