@@ -1,10 +1,16 @@
 {
-  "Time": "2026-07-28T20:01:00.6614344Z",
+  "Time": "2026-07-28T20:03:00.6630641Z",
   "Players": [
+    {
+      "Name": "Smh",
+      "Steam": "76561198689816963",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "howl",
       "Steam": "76561198668325437",
-      "Score": 79,
+      "Score": 93,
       "Time": "??:??"
     },
     {
@@ -16,37 +22,37 @@
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 50,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "skullz",
       "Steam": "76561198123039885",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "x",
       "Steam": "76561199810163355",
-      "Score": 12,
-      "Time": "14:12"
+      "Score": 15,
+      "Time": "16:12"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 0,
-      "Time": "00:19"
+      "Time": "02:19"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 71,
-      "Time": "14:13"
+      "Score": 91,
+      "Time": "16:13"
     },
     {
       "Name": "Jew Flattening Machine",
       "Steam": "76561199872962384",
-      "Score": 74,
+      "Score": 80,
       "Time": "??:??"
     }
   ]
