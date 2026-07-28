@@ -1,35 +1,59 @@
 {
-  "Time": "2026-07-28T05:25:02.9585643Z",
+  "Time": "2026-07-28T05:29:03.0163606Z",
   "Players": [
+    {
+      "Name": "George Droid",
+      "Steam": "76561199261504232",
+      "Score": 4,
+      "Time": "00:05"
+    },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 9,
-      "Time": "513:27"
+      "Score": 17,
+      "Time": "517:27"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 31,
-      "Time": "06:35"
+      "Score": 57,
+      "Time": "10:35"
     },
     {
-      "Name": "mush",
-      "Steam": "76561198682713649",
-      "Score": 4,
-      "Time": "??:??"
+      "Name": "KiKi",
+      "Steam": "76561199711887613",
+      "Score": 0,
+      "Time": "01:45"
+    },
+    {
+      "Name": "phoon v2",
+      "Steam": "76561198685223996",
+      "Score": 2,
+      "Time": "02:03"
     },
     {
       "Name": "almenia ❤",
       "Steam": "76561199820215253",
-      "Score": 7,
-      "Time": "84:09"
+      "Score": 20,
+      "Time": "88:10"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
+      "Score": 5,
+      "Time": "30:00"
+    },
+    {
+      "Name": "Mr. Penis",
+      "Steam": "76561199193748030",
       "Score": 0,
-      "Time": "26:00"
+      "Time": "00:39"
+    },
+    {
+      "Name": "ha",
+      "Steam": "76561198788909847",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
