@@ -1,41 +1,17 @@
 {
-  "Time": "2026-07-28T23:29:27.9199221Z",
+  "Time": "2026-07-28T23:30:22.099882Z",
   "Players": [
     {
-      "Name": "user",
-      "Steam": "76561198690353573",
-      "Score": 31,
+      "Name": "jozefmlaticka",
+      "Steam": "76561198667446307",
+      "Score": 0,
+      "Time": "35:29"
+    },
+    {
+      "Name": "gamnre",
+      "Steam": "76561198671499712",
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "drug dealer",
-      "Steam": "76561199832640528",
-      "Score": 31,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Mx",
-      "Steam": "76561199061991837",
-      "Score": 9,
-      "Time": "67:23"
-    },
-    {
-      "Name": "@usercenter",
-      "Steam": "76561198988268117",
-      "Score": 13,
-      "Time": "??:??"
-    },
-    {
-      "Name": "hello",
-      "Steam": "76561199850236371",
-      "Score": 5,
-      "Time": "??:??"
-    },
-    {
-      "Name": "kero",
-      "Steam": "76561198680780556",
-      "Score": 10,
-      "Time": "46:26"
     }
   ]
 }
