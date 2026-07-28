@@ -1,16 +1,22 @@
 {
-  "Time": "2026-07-28T18:23:00.6632521Z",
+  "Time": "2026-07-28T18:25:00.6601185Z",
   "Players": [
+    {
+      "Name": "cheezie",
+      "Steam": "76561198743474205",
+      "Score": 38,
+      "Time": "01:11"
+    },
     {
       "Name": "phoon v2",
       "Steam": "76561198685223996",
-      "Score": 9,
-      "Time": "08:49"
+      "Score": 13,
+      "Time": "10:49"
     },
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
@@ -20,27 +26,27 @@
       "Time": "??:??"
     },
     {
-      "Name": "dev",
-      "Steam": "76561199124248983",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 13,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 4,
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "123",
+      "Steam": "76561199727244493",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
