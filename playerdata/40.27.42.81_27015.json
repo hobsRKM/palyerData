@@ -1,58 +1,70 @@
 {
-  "Time": "2026-07-28T20:21:00.6582678Z",
+  "Time": "2026-07-28T20:23:00.6658508Z",
   "Players": [
+    {
+      "Name": "Mr. Penis",
+      "Steam": "76561199193748030",
+      "Score": 8,
+      "Time": "01:23"
+    },
     {
       "Name": "Smh",
       "Steam": "76561198689816963",
-      "Score": 100,
+      "Score": 122,
       "Time": "??:??"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 3,
-      "Time": "02:38"
+      "Score": 14,
+      "Time": "04:38"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 71,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "xX_Donk_Xx",
       "Steam": "76561199118167208",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "skullz",
       "Steam": "76561198123039885",
-      "Score": 23,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Mr. Creamy Peanut",
       "Steam": "76561199227030451",
-      "Score": 15,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "lua",
       "Steam": "76561199524854903",
-      "Score": 11,
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "100% opsec (mullvad)",
+      "Steam": "76561198274689471",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "☂skript hvh",
       "Steam": "76561198391633463",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Jew Flattening Machine",
       "Steam": "76561199872962384",
-      "Score": 32,
+      "Score": 39,
       "Time": "??:??"
     }
   ]
