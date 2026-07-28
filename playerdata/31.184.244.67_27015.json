@@ -1,47 +1,23 @@
 {
-  "Time": "2026-07-28T23:35:27.9279744Z",
+  "Time": "2026-07-28T23:36:22.0926344Z",
   "Players": [
     {
-      "Name": "user",
-      "Steam": "76561198690353573",
-      "Score": 61,
-      "Time": "??:??"
-    },
-    {
-      "Name": "drug dealer",
-      "Steam": "76561199832640528",
-      "Score": 59,
-      "Time": "??:??"
-    },
-    {
-      "Name": "uwww",
-      "Steam": "76561199062402973",
+      "Name": "John",
+      "Steam": "76561198667053235",
       "Score": 0,
+      "Time": "00:33"
+    },
+    {
+      "Name": "jozefmlaticka",
+      "Steam": "76561198667446307",
+      "Score": 2,
+      "Time": "41:29"
+    },
+    {
+      "Name": "gamnre",
+      "Steam": "76561198671499712",
+      "Score": 26,
       "Time": "??:??"
-    },
-    {
-      "Name": "trystan_stamm1136",
-      "Steam": "76561198670653798",
-      "Score": 0,
-      "Time": "00:28"
-    },
-    {
-      "Name": "hello",
-      "Steam": "76561199850236371",
-      "Score": 1,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Raine is ('it') Fair",
-      "Steam": "76561198676619313",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "kero",
-      "Steam": "76561198680780556",
-      "Score": 22,
-      "Time": "52:26"
     }
   ]
 }
