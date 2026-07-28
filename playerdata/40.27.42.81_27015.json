@@ -1,53 +1,59 @@
 {
-  "Time": "2026-07-28T02:57:01.7873517Z",
+  "Time": "2026-07-28T02:59:01.7776944Z",
   "Players": [
     {
       "Name": "Tavipery",
       "Steam": "76561198785494649",
       "Score": 14,
-      "Time": "28:53"
+      "Time": "30:53"
     },
     {
       "Name": "SOLID",
       "Steam": "76561199127501029",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cope",
+      "Steam": "76561199045604332",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "carter",
       "Steam": "76561198669465627",
-      "Score": 115,
+      "Score": 130,
       "Time": "??:??"
     },
     {
       "Name": "lurking",
       "Steam": "76561199548350350",
-      "Score": 42,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "phoon v2",
       "Steam": "76561198685223996",
-      "Score": 81,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 85,
-      "Time": "260:33"
+      "Score": 90,
+      "Time": "262:33"
     },
     {
       "Name": "★\uD835\uDFDE\uD835\uDFD9\uD835\uDFD9★",
       "Steam": "76561198746580517",
-      "Score": 50,
-      "Time": "187:44"
+      "Score": 64,
+      "Time": "189:44"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
       "Score": 19,
-      "Time": "385:37"
+      "Time": "387:37"
     }
   ]
 }
