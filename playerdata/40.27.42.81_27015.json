@@ -1,10 +1,16 @@
 {
-  "Time": "2026-07-28T22:37:00.6490171Z",
+  "Time": "2026-07-28T22:39:00.6618179Z",
   "Players": [
+    {
+      "Name": "funpayfort1",
+      "Steam": "76561199713238385",
+      "Score": 0,
+      "Time": "52:19"
+    },
     {
       "Name": "100% opsec (mullvad)",
       "Steam": "76561198274689471",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -16,19 +22,19 @@
     {
       "Name": "Hades",
       "Steam": "76561198216574768",
-      "Score": 15,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "carrying carrots",
       "Steam": "76561198714266527",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "\u1CBC",
       "Steam": "76561198679830854",
-      "Score": 5,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
