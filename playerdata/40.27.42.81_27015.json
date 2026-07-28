@@ -1,41 +1,47 @@
 {
-  "Time": "2026-07-28T17:09:00.6497453Z",
+  "Time": "2026-07-28T17:11:00.6622351Z",
   "Players": [
     {
       "Name": "cheezie",
       "Steam": "76561198743474205",
-      "Score": 77,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "bleood tap",
       "Steam": "76561198918924291",
-      "Score": 21,
-      "Time": "10:29"
+      "Score": 25,
+      "Time": "12:29"
     },
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 15,
-      "Time": "02:28"
+      "Score": 26,
+      "Time": "04:28"
     },
     {
       "Name": "atos",
       "Steam": "76561198219761864",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "yuki the seal",
       "Steam": "76561198668676383",
-      "Score": 12,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Donk",
       "Steam": "76561198693433319",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
+    },
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 2,
+      "Time": "01:01"
     }
   ]
 }
