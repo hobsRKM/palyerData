@@ -1,41 +1,23 @@
 {
-  "Time": "2026-07-28T22:25:32.2178662Z",
+  "Time": "2026-07-28T22:26:22.096911Z",
   "Players": [
     {
-      "Name": "miss",
-      "Steam": "76561199388158995",
+      "Name": "virtual",
+      "Steam": "76561199868322543",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gamnre",
+      "Steam": "76561198671499712",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "SugarRush1000",
-      "Steam": "76561199183468760",
-      "Score": 0,
-      "Time": "116:34"
-    },
-    {
-      "Name": "s48441",
-      "Steam": "76561198676459069",
-      "Score": 11,
-      "Time": "03:58"
-    },
-    {
-      "Name": "BS NayZunTheBest",
-      "Steam": "76561199239469507",
-      "Score": 4,
-      "Time": "447:35"
-    },
-    {
-      "Name": "iNeyMeal",
-      "Steam": "76561199156818142",
-      "Score": 13,
-      "Time": "??:??"
-    },
-    {
-      "Name": "drug dealer",
-      "Steam": "76561199832640528",
-      "Score": 17,
-      "Time": "508:33"
+      "Name": "testing skeet update",
+      "Steam": "76561199392364898",
+      "Score": 80,
+      "Time": "22:15"
     }
   ]
 }
