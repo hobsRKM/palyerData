@@ -1,4 +1,29 @@
 {
-  "Time": "2026-07-28T05:22:23.4790032Z",
-  "Players": []
+  "Time": "2026-07-28T05:23:27.9249193Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Null?",
+      "Steam": "76561198674316256",
+      "Score": 2,
+      "Time": "22:21"
+    },
+    {
+      "Name": "This forest will burn with fire",
+      "Steam": "76561198741244592",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rondo",
+      "Steam": "76561198188433587",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
