@@ -1,6 +1,12 @@
 {
-  "Time": "2026-07-29T05:24:01.7380552Z",
+  "Time": "2026-07-29T05:26:01.7500925Z",
   "Players": [
+    {
+      "Name": "alex",
+      "Steam": "76561199239366630",
+      "Score": 9,
+      "Time": "00:58"
+    },
     {
       "Name": "its not a rat bro",
       "Steam": "76561199725613843",
@@ -11,55 +17,61 @@
       "Name": "100% opsec (mullvad)",
       "Steam": "76561198274689471",
       "Score": 60,
-      "Time": "34:27"
+      "Time": "36:27"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 26,
-      "Time": "06:03"
+      "Score": 44,
+      "Time": "08:03"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 129,
-      "Time": "34:34"
+      "Score": 135,
+      "Time": "36:34"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 61,
-      "Time": "90:48"
+      "Score": 62,
+      "Time": "92:48"
     },
     {
       "Name": "Smh",
       "Steam": "76561198689816963",
-      "Score": 249,
+      "Score": 258,
       "Time": "??:??"
     },
     {
       "Name": "Punk Jaydes",
       "Steam": "76561198901640506",
       "Score": 26,
-      "Time": "21:55"
+      "Time": "23:55"
     },
     {
       "Name": "helololo",
       "Steam": "76561198756787055",
-      "Score": 21,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mr. Penis",
+      "Steam": "76561199193748030",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "RAPE",
       "Steam": "76561198180564201",
-      "Score": 23,
-      "Time": "14:58"
+      "Score": 0,
+      "Time": "16:58"
     },
     {
       "Name": "jup",
       "Steam": "76561199471107546",
-      "Score": 46,
-      "Time": "64:03"
+      "Score": 47,
+      "Time": "66:03"
     },
     {
       "Name": "TheKids",
@@ -70,7 +82,7 @@
     {
       "Name": "Hades",
       "Steam": "76561198216574768",
-      "Score": 93,
+      "Score": 97,
       "Time": "??:??"
     },
     {
@@ -82,19 +94,31 @@
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 52,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "rainy",
+      "Steam": "76561199187287200",
+      "Score": 42,
+      "Time": "00:07"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
+      "Score": 8,
+      "Time": "64:04"
+    },
+    {
+      "Name": "**ANNIHILATES FOID**",
+      "Steam": "76561199229711121",
       "Score": 0,
-      "Time": "62:04"
+      "Time": "??:??"
     },
     {
       "Name": "laundered.cash #LAUNDERTILDEATH",
       "Steam": "76561199757543292",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
