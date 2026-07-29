@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-29T09:05:23.2128545Z",
+  "Time": "2026-07-29T09:07:23.2108244Z",
   "Players": [
     {
       "Name": "\"V\"",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "272:11"
+      "Time": "274:11"
+    },
+    {
+      "Name": "MANDATORY",
+      "Steam": "76561198738136565",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Unicorn",
@@ -16,31 +22,31 @@
     {
       "Name": "The Lion",
       "Steam": "76561199482148640",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "regeneration",
       "Steam": "76561198740840890",
-      "Score": 9,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "ivanzolo on spotify",
       "Steam": "76561199824127068",
-      "Score": 7,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "youtube.com/@zzylo12",
       "Steam": "76561198677875772",
-      "Score": 22,
+      "Score": 31,
       "Time": "??:??"
     },
     {
       "Name": "AbduLLaH",
       "Steam": "76561199672745242",
-      "Score": 22,
+      "Score": 33,
       "Time": "??:??"
     },
     {
@@ -58,14 +64,26 @@
     {
       "Name": "dugo",
       "Steam": "76561198447689301",
-      "Score": 8,
-      "Time": "04:01"
+      "Score": 0,
+      "Time": "06:01"
+    },
+    {
+      "Name": "Hrabia Monte Christo",
+      "Steam": "76561199851428106",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "twizzer✞",
       "Steam": "76561199882479418",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
+    },
+    {
+      "Name": "ChuckTheChud",
+      "Steam": "76561198693493332",
+      "Score": 9,
+      "Time": "13:50"
     }
   ]
 }
