@@ -1,11 +1,23 @@
 {
-  "Time": "2026-07-29T07:27:23.2072766Z",
+  "Time": "2026-07-29T07:29:23.2112515Z",
   "Players": [
     {
       "Name": "\"V\"",
       "Steam": "76561199028888055",
       "Score": 0,
-      "Time": "174:11"
+      "Time": "176:11"
+    },
+    {
+      "Name": "Strange",
+      "Steam": "76561198707133891",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Fredzio",
+      "Steam": "76561198710497554",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Unicorn",
@@ -16,49 +28,49 @@
     {
       "Name": "Nuutti",
       "Steam": "76561199389018742",
-      "Score": 59,
-      "Time": "38:49"
+      "Score": 63,
+      "Time": "40:49"
     },
     {
       "Name": "yuno gasai",
       "Steam": "76561199827911841",
-      "Score": 78,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ELITE IDF SOLDIER",
-      "Steam": "76561199690447324",
-      "Score": 69,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "bigidiu",
       "Steam": "76561198671336747",
-      "Score": 3,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "RBGlitch",
       "Steam": "76561198257965502",
-      "Score": 47,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "M",
       "Steam": "76561199849697227",
-      "Score": 18,
-      "Time": "06:39"
+      "Score": 26,
+      "Time": "08:39"
     },
     {
       "Name": "unrated",
       "Steam": "76561199838086152",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Felix",
       "Steam": "76561198193603937",
-      "Score": 9,
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "testing monolith",
+      "Steam": "76561199499013499",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
