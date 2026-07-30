@@ -1,17 +1,23 @@
 {
-  "Time": "2026-07-29T23:22:54.4062361Z",
+  "Time": "2026-07-29T23:24:54.3908336Z",
   "Players": [
+    {
+      "Name": "Junior . #1 Skeet Beta",
+      "Steam": "76561199836886163",
+      "Score": 0,
+      "Time": "00:27"
+    },
     {
       "Name": "aw",
       "Steam": "76561198670745472",
-      "Score": 0,
-      "Time": "06:14"
+      "Score": 1,
+      "Time": "08:14"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 0,
-      "Time": "00:16"
+      "Score": 10,
+      "Time": "02:16"
     },
     {
       "Name": "Kardi ⸸",
@@ -22,7 +28,7 @@
     {
       "Name": "phoon v2",
       "Steam": "76561198685223996",
-      "Score": 12,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
