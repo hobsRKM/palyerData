@@ -1,47 +1,71 @@
 {
-  "Time": "2026-07-30T15:01:22.4816915Z",
+  "Time": "2026-07-30T15:01:36.8147375Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "Anak",
+      "Steam": "76561198677052607",
+      "Score": 53,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cnnjiu",
+      "Steam": "76561198673779906",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "BoB_karlson",
-      "Steam": "76561198724408420",
+      "Name": "adamsj",
+      "Steam": "76561199543202791",
+      "Score": 8,
+      "Time": "28:14"
+    },
+    {
+      "Name": "1",
+      "Steam": "76561199470387645",
       "Score": 13,
-      "Time": "17:32"
+      "Time": "07:47"
     },
     {
-      "Name": "effrayant",
-      "Steam": "76561198195247117",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
-      "Name": "si",
-      "Steam": "76561198689917140",
+      "Name": "Khalex",
+      "Steam": "76561198663717401",
       "Score": 0,
-      "Time": "00:07"
-    },
-    {
-      "Name": "fostercliff",
-      "Steam": "76561198677130206",
-      "Score": 2,
       "Time": "??:??"
     },
     {
-      "Name": "shefu223.shop",
-      "Steam": "76561198997540920",
-      "Score": 28,
+      "Name": "Kiszony.lua Maslanka",
+      "Steam": "76561199866941128",
+      "Score": 56,
+      "Time": "73:19"
+    },
+    {
+      "Name": "Lukas",
+      "Steam": "76561198673857653",
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "nelegal-vekzinko",
-      "Steam": "76561198716439401",
-      "Score": 27,
-      "Time": "167:13"
+      "Name": "Kasti",
+      "Steam": "76561199833286399",
+      "Score": 95,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Frogx",
+      "Steam": "76561198691771599",
+      "Score": 0,
+      "Time": "10:03"
+    },
+    {
+      "Name": "winfrom шиноби",
+      "Steam": "76561199499580057",
+      "Score": 84,
+      "Time": "??:??"
+    },
+    {
+      "Name": "latto",
+      "Steam": "76561198675187561",
+      "Score": 21,
+      "Time": "??:??"
     }
   ]
 }
