@@ -1,47 +1,53 @@
 {
-  "Time": "2026-07-30T08:06:56.7320954Z",
+  "Time": "2026-07-30T08:08:56.7301054Z",
   "Players": [
     {
-      "Name": "VAC STRESS TEST",
-      "Steam": "76561198666038032",
+      "Name": "Techno",
+      "Steam": "76561198170327163",
+      "Score": 49,
+      "Time": "174:50"
+    },
+    {
+      "Name": "Mx",
+      "Steam": "76561199061991837",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Techno",
-      "Steam": "76561198170327163",
-      "Score": 42,
-      "Time": "172:50"
-    },
-    {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 7,
-      "Time": "03:23"
+      "Score": 12,
+      "Time": "05:23"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 2,
+      "Time": "01:14"
     },
     {
       "Name": "beater",
       "Steam": "76561198274689471",
-      "Score": 29,
-      "Time": "83:38"
+      "Score": 33,
+      "Time": "85:38"
     },
     {
       "Name": "almenia ❤",
       "Steam": "76561199820215253",
-      "Score": 55,
-      "Time": "122:16"
+      "Score": 69,
+      "Time": "124:16"
+    },
+    {
+      "Name": "Santiago",
+      "Steam": "76561198166519466",
+      "Score": 2,
+      "Time": "01:27"
     },
     {
       "Name": "Hades",
       "Steam": "76561199836861135",
-      "Score": 35,
-      "Time": "188:56"
-    },
-    {
-      "Name": "dih nuh",
-      "Steam": "76561198729424493",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 41,
+      "Time": "190:56"
     }
   ]
 }
