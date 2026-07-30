@@ -1,16 +1,28 @@
 {
-  "Time": "2026-07-30T21:22:28.5329145Z",
+  "Time": "2026-07-30T21:24:28.537676Z",
   "Players": [
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 16,
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tropezones de La Bestia",
+      "Steam": "76561199234036667",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cookie",
+      "Steam": "76561199652410817",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
