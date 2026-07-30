@@ -1,34 +1,40 @@
 {
-  "Time": "2026-07-30T00:34:54.4038754Z",
+  "Time": "2026-07-30T00:36:54.3921042Z",
   "Players": [
+    {
+      "Name": "jerry",
+      "Steam": "76561198670745472",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "atos",
       "Steam": "76561198219761864",
-      "Score": 4,
-      "Time": "06:03"
+      "Score": 15,
+      "Time": "08:03"
     },
     {
       "Name": "mbappe special",
       "Steam": "76561199840134913",
-      "Score": 34,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 45,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "Mr. Penis",
       "Steam": "76561199193748030",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     },
     {
@@ -44,16 +50,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "Just Hendrix",
+      "Steam": "76561198271953725",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Thomas467",
+      "Steam": "76561199024395640",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "cheezie",
       "Steam": "76561198743474205",
-      "Score": 39,
-      "Time": "44:00"
+      "Score": 45,
+      "Time": "46:00"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 99,
-      "Time": "64:40"
+      "Score": 103,
+      "Time": "66:40"
     }
   ]
 }
