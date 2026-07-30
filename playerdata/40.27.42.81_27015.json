@@ -1,11 +1,17 @@
 {
-  "Time": "2026-07-30T00:12:54.4020381Z",
+  "Time": "2026-07-30T00:14:54.3989406Z",
   "Players": [
+    {
+      "Name": "jerry",
+      "Steam": "76561198670745472",
+      "Score": 0,
+      "Time": "01:27"
+    },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 51,
-      "Time": "24:16"
+      "Score": 59,
+      "Time": "26:16"
     },
     {
       "Name": "fisherman",
@@ -20,34 +26,46 @@
       "Time": "??:??"
     },
     {
+      "Name": "mbappe special",
+      "Steam": "76561199840134913",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 72,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 50,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mr. Penis",
+      "Steam": "76561199193748030",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198743474205",
-      "Score": 85,
-      "Time": "22:00"
+      "Score": 89,
+      "Time": "24:00"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 78,
-      "Time": "42:40"
+      "Score": 90,
+      "Time": "44:40"
     }
   ]
 }
