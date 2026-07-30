@@ -1,5 +1,5 @@
 {
-  "Time": "2026-07-30T01:22:54.4040875Z",
+  "Time": "2026-07-30T01:24:54.396583Z",
   "Players": [
     {
       "Name": "brandon",
@@ -11,31 +11,37 @@
       "Name": "jerry",
       "Steam": "76561198670745472",
       "Score": 4,
-      "Time": "26:51"
+      "Time": "28:51"
+    },
+    {
+      "Name": "Hola",
+      "Steam": "76561198339774997",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 16,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "Evil Morty",
       "Steam": "76561199187287200",
-      "Score": 5,
-      "Time": "38:40"
+      "Score": 11,
+      "Time": "40:40"
     },
     {
       "Name": "Cook",
       "Steam": "76561198682261109",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 4,
-      "Time": "41:53"
+      "Score": 11,
+      "Time": "43:53"
     },
     {
       "Name": "IAmHigh",
@@ -46,26 +52,26 @@
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 26,
+      "Score": 35,
       "Time": "??:??"
     },
     {
-      "Name": "user",
+      "Name": "bloggo",
       "Steam": "76561199104080002",
-      "Score": 4,
-      "Time": "02:43"
+      "Score": 8,
+      "Time": "04:43"
     },
     {
-      "Name": "❀✿❀✿❤❀✿❀✿ i love fatal",
+      "Name": "❀✿❤❀✿ i love fatal",
       "Steam": "76561199571180247",
-      "Score": 4,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 9,
-      "Time": "07:23"
+      "Score": 13,
+      "Time": "09:23"
     }
   ]
 }
