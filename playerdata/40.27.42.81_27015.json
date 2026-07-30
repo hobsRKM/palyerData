@@ -1,17 +1,17 @@
 {
-  "Time": "2026-07-30T02:56:54.3993014Z",
+  "Time": "2026-07-30T02:58:54.4093085Z",
   "Players": [
     {
       "Name": "brandon",
       "Steam": "76561199669274930",
       "Score": 1,
-      "Time": "21:06"
+      "Time": "23:06"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 21,
-      "Time": "34:43"
+      "Score": 23,
+      "Time": "36:43"
     },
     {
       "Name": "no name",
@@ -22,38 +22,32 @@
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 55,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 88,
-      "Time": "46:10"
-    },
-    {
-      "Name": "blossoms",
-      "Steam": "76561198108470709",
-      "Score": 6,
-      "Time": "??:??"
+      "Score": 94,
+      "Time": "48:10"
     },
     {
       "Name": "beater",
       "Steam": "76561198274689471",
-      "Score": 3,
-      "Time": "02:45"
+      "Score": 9,
+      "Time": "04:45"
     },
     {
       "Name": "Peeked By The IRS",
       "Steam": "76561198759412253",
-      "Score": 7,
+      "Score": 9,
       "Time": "??:??"
     },
     {
-      "Name": "Santiago",
-      "Steam": "76561198166519466",
-      "Score": 64,
-      "Time": "17:43"
+      "Name": "Hades",
+      "Steam": "76561199836861135",
+      "Score": 0,
+      "Time": "00:03"
     }
   ]
 }
