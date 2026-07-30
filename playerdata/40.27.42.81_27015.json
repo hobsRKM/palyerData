@@ -1,29 +1,17 @@
 {
-  "Time": "2026-07-30T02:48:54.4060507Z",
+  "Time": "2026-07-30T02:50:54.4009913Z",
   "Players": [
     {
       "Name": "brandon",
       "Steam": "76561199669274930",
       "Score": 0,
-      "Time": "13:06"
+      "Time": "15:06"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
       "Score": 22,
-      "Time": "26:43"
-    },
-    {
-      "Name": "slur",
-      "Steam": "76561198779221950",
-      "Score": 17,
-      "Time": "39:29"
-    },
-    {
-      "Name": "vtol gunship",
-      "Steam": "76561198036942622",
-      "Score": 5,
-      "Time": "??:??"
+      "Time": "28:43"
     },
     {
       "Name": "no name",
@@ -34,17 +22,17 @@
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 25,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 60,
-      "Time": "38:10"
+      "Score": 65,
+      "Time": "40:10"
     },
     {
-      "Name": "TSU .",
+      "Name": "TSUB .",
       "Steam": "76561199849153218",
       "Score": 15,
       "Time": "??:??"
@@ -52,8 +40,14 @@
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 5,
-      "Time": "154:45"
+      "Score": 13,
+      "Time": "156:45"
+    },
+    {
+      "Name": "blossoms",
+      "Steam": "76561198108470709",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "beater",
@@ -64,8 +58,8 @@
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 22,
-      "Time": "09:43"
+      "Score": 37,
+      "Time": "11:43"
     }
   ]
 }
