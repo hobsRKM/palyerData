@@ -1,47 +1,59 @@
 {
-  "Time": "2026-07-30T08:36:57.3298941Z",
+  "Time": "2026-07-30T08:38:57.3456528Z",
   "Players": [
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 76,
-      "Time": "202:51"
+      "Score": 85,
+      "Time": "204:51"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 41,
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "bunnyluvr",
+      "Steam": "76561198666020609",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 42,
-      "Time": "29:15"
+      "Score": 44,
+      "Time": "31:15"
     },
     {
       "Name": "beater",
       "Steam": "76561198274689471",
-      "Score": 16,
-      "Time": "113:38"
+      "Score": 17,
+      "Time": "115:38"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 60,
-      "Time": "29:28"
+      "Score": 70,
+      "Time": "31:28"
     },
     {
       "Name": "Hades",
       "Steam": "76561199836861135",
-      "Score": 28,
-      "Time": "218:57"
+      "Score": 33,
+      "Time": "220:57"
     },
     {
       "Name": "Pubert Lil Slime",
       "Steam": "76561199827242653",
-      "Score": 20,
-      "Time": "07:40"
+      "Score": 28,
+      "Time": "09:40"
+    },
+    {
+      "Name": "Sadly",
+      "Steam": "76561198094259899",
+      "Score": 2,
+      "Time": "01:27"
     }
   ]
 }
