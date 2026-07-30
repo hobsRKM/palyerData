@@ -1,16 +1,28 @@
 {
-  "Time": "2026-07-30T08:50:57.4720852Z",
+  "Time": "2026-07-30T08:52:57.4800831Z",
   "Players": [
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 60,
-      "Time": "216:51"
+      "Score": 69,
+      "Time": "218:51"
     },
     {
       "Name": "getkaiju.cc",
       "Steam": "76561199375775741",
-      "Score": 5,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "@zeta.psl",
+      "Steam": "76561198774226000",
+      "Score": 0,
+      "Time": "00:13"
+    },
+    {
+      "Name": "heissan",
+      "Steam": "76561199874777237",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -22,32 +34,32 @@
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 0,
-      "Time": "00:24"
+      "Score": 10,
+      "Time": "02:24"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
       "Score": 0,
-      "Time": "43:15"
+      "Time": "45:15"
     },
     {
       "Name": "beater",
       "Steam": "76561198274689471",
       "Score": 14,
-      "Time": "127:39"
+      "Time": "129:39"
     },
     {
       "Name": "Hades",
       "Steam": "76561199836861135",
-      "Score": 14,
-      "Time": "232:57"
+      "Score": 22,
+      "Time": "234:57"
     },
     {
       "Name": "Sadly",
       "Steam": "76561198094259899",
-      "Score": 15,
-      "Time": "13:27"
+      "Score": 18,
+      "Time": "15:27"
     }
   ]
 }
