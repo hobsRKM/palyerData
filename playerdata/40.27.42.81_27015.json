@@ -1,11 +1,11 @@
 {
-  "Time": "2026-07-30T03:22:54.4419704Z",
+  "Time": "2026-07-30T03:24:54.435861Z",
   "Players": [
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 14,
-      "Time": "60:43"
+      "Score": 24,
+      "Time": "62:43"
     },
     {
       "Name": "no name",
@@ -16,26 +16,32 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 8,
-      "Time": "72:10"
+      "Score": 9,
+      "Time": "74:10"
     },
     {
       "Name": "ny",
       "Steam": "76561198763517260",
-      "Score": 16,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "Yourself",
+      "Steam": "76561198274689471",
+      "Score": 0,
+      "Time": "01:45"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 0,
-      "Time": "34:47"
+      "Score": 2,
+      "Time": "36:47"
     },
     {
       "Name": "Hades",
       "Steam": "76561199836861135",
-      "Score": 0,
-      "Time": "24:03"
+      "Score": 6,
+      "Time": "26:03"
     }
   ]
 }
