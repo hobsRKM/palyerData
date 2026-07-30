@@ -1,16 +1,22 @@
 {
-  "Time": "2026-07-30T08:38:57.3456528Z",
+  "Time": "2026-07-30T08:40:57.4146568Z",
   "Players": [
     {
       "Name": "Techno",
       "Steam": "76561198170327163",
-      "Score": 85,
-      "Time": "204:51"
+      "Score": 95,
+      "Time": "206:51"
+    },
+    {
+      "Name": "getkaiju.cc",
+      "Steam": "76561199375775741",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 49,
+      "Score": 55,
       "Time": "??:??"
     },
     {
@@ -23,37 +29,31 @@
       "Name": "BRIS",
       "Steam": "76561199565961410",
       "Score": 44,
-      "Time": "31:15"
+      "Time": "33:15"
     },
     {
       "Name": "beater",
       "Steam": "76561198274689471",
-      "Score": 17,
-      "Time": "115:38"
+      "Score": 19,
+      "Time": "117:39"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 70,
-      "Time": "31:28"
+      "Score": 85,
+      "Time": "33:28"
     },
     {
       "Name": "Hades",
       "Steam": "76561199836861135",
-      "Score": 33,
-      "Time": "220:57"
-    },
-    {
-      "Name": "Pubert Lil Slime",
-      "Steam": "76561199827242653",
-      "Score": 28,
-      "Time": "09:40"
+      "Score": 38,
+      "Time": "222:57"
     },
     {
       "Name": "Sadly",
       "Steam": "76561198094259899",
       "Score": 2,
-      "Time": "01:27"
+      "Time": "03:27"
     }
   ]
 }
