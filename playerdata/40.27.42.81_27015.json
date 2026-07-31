@@ -1,16 +1,22 @@
 {
-  "Time": "2026-07-31T15:35:22.6047518Z",
+  "Time": "2026-07-31T15:37:22.618314Z",
   "Players": [
+    {
+      "Name": "355 Alison Dr NE Atlanta, GA",
+      "Steam": "76561199125572569",
+      "Score": 3,
+      "Time": "01:31"
+    },
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 8,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 13,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -22,7 +28,7 @@
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -32,15 +38,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "noel",
-      "Steam": "76561198326838599",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
       "Name": "winter",
       "Steam": "76561199021841467",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
