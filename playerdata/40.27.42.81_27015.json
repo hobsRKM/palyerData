@@ -1,71 +1,71 @@
 {
-  "Time": "2026-07-31T02:06:28.526108Z",
+  "Time": "2026-07-31T02:08:28.5360059Z",
   "Players": [
+    {
+      "Name": "lua",
+      "Steam": "76561199524854903",
+      "Score": 0,
+      "Time": "00:51"
+    },
     {
       "Name": "paradise",
       "Steam": "76561198380272287",
-      "Score": 0,
-      "Time": "67:38"
+      "Score": 7,
+      "Time": "69:38"
     },
     {
       "Name": "Honest",
       "Steam": "76561198859518925",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "sj",
-      "Steam": "76561198756303634",
-      "Score": 0,
-      "Time": "00:23"
     },
     {
       "Name": "vora",
       "Steam": "76561198720554985",
-      "Score": 24,
-      "Time": "169:04"
+      "Score": 27,
+      "Time": "171:04"
     },
     {
       "Name": "skullz",
       "Steam": "76561198123039885",
-      "Score": 26,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "cocaine!",
       "Steam": "76561198746580517",
-      "Score": 109,
+      "Score": 123,
       "Time": "??:??"
     },
     {
       "Name": "Hades",
       "Steam": "76561199836861135",
-      "Score": 2,
-      "Time": "02:08"
+      "Score": 4,
+      "Time": "04:08"
     },
     {
       "Name": "2026 nn",
       "Steam": "76561198672510639",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "laundered.cash #LAUNDERTILDEATH",
       "Steam": "76561199757543292",
-      "Score": 110,
+      "Score": 121,
       "Time": "??:??"
     },
     {
       "Name": "Saxypoohhh",
       "Steam": "76561198694398511",
       "Score": 5,
-      "Time": "01:48"
+      "Time": "03:48"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198726899259",
-      "Score": 42,
-      "Time": "42:17"
+      "Score": 54,
+      "Time": "44:17"
     }
   ]
 }
