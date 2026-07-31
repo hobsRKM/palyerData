@@ -1,28 +1,46 @@
 {
-  "Time": "2026-07-31T09:56:07.9119814Z",
+  "Time": "2026-07-31T09:57:35.8502489Z",
   "Players": [
     {
-      "Name": ">",
-      "Steam": "76561198317100810",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
       "Score": 0,
+      "Time": "15:01"
+    },
+    {
+      "Name": "14yo talent",
+      "Steam": "76561198246132444",
+      "Score": 5,
       "Time": "??:??"
     },
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "♘AHIL OT TROQ♘",
+      "Steam": "76561198174112061",
+      "Score": 41,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aim",
+      "Steam": "76561198675297986",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "enigma",
+      "Steam": "76561198671996904",
+      "Score": 49,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDD7A\uD835\uDD9D\uD835\uDD8E\uD835\uDD8A",
+      "Steam": "76561198679605647",
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bazofia",
+      "Steam": "76561198327405537",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "PELMEN",
-      "Steam": "76561199446701881",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "mikniustautvydas",
-      "Steam": "76561199473660697",
-      "Score": 6,
       "Time": "??:??"
     }
   ]
