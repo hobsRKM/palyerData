@@ -1,29 +1,53 @@
 {
-  "Time": "2026-07-31T13:13:35.8557033Z",
+  "Time": "2026-07-31T13:13:39.7579442Z",
   "Players": [
     {
-      "Name": "Nim",
-      "Steam": "76561199647822907",
+      "Name": "twoods",
+      "Steam": "76561198707902039",
+      "Score": 99,
+      "Time": "27:12"
+    },
+    {
+      "Name": "cnnjiu",
+      "Steam": "76561198673779906",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "[Monolith] JEHAS1",
-      "Steam": "76561198719703493",
-      "Score": 10,
+      "Name": "CORNYYYYY",
+      "Steam": "76561199168071417",
+      "Score": 44,
+      "Time": "39:13"
+    },
+    {
+      "Name": "winter",
+      "Steam": "76561199021841467",
+      "Score": 47,
       "Time": "??:??"
     },
     {
-      "Name": "whyyzze",
-      "Steam": "76561198667543559",
-      "Score": 56,
-      "Time": "09:01"
+      "Name": "darkness",
+      "Steam": "76561199861477597",
+      "Score": 8,
+      "Time": "05:30"
     },
     {
-      "Name": "1 дог",
-      "Steam": "76561198671366155",
-      "Score": 60,
-      "Time": "09:51"
+      "Name": "life could go by quick",
+      "Steam": "76561199259594099",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Felix",
+      "Steam": "76561198193603937",
+      "Score": 86,
+      "Time": "37:57"
+    },
+    {
+      "Name": "GrandMasterBaiter",
+      "Steam": "76561199477565359",
+      "Score": 38,
+      "Time": "??:??"
     }
   ]
 }
