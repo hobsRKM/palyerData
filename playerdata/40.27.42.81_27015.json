@@ -1,22 +1,28 @@
 {
-  "Time": "2026-07-31T02:00:28.5350362Z",
+  "Time": "2026-07-31T02:02:28.5319536Z",
   "Players": [
+    {
+      "Name": "Honest",
+      "Steam": "76561198859518925",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "vora",
       "Steam": "76561198720554985",
-      "Score": 20,
-      "Time": "163:04"
+      "Score": 22,
+      "Time": "165:04"
     },
     {
       "Name": "skullz",
       "Steam": "76561198123039885",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "cocaine!",
       "Steam": "76561198746580517",
-      "Score": 68,
+      "Score": 75,
       "Time": "??:??"
     },
     {
@@ -28,7 +34,7 @@
     {
       "Name": "laundered.cash #LAUNDERTILDEATH",
       "Steam": "76561199757543292",
-      "Score": 73,
+      "Score": 93,
       "Time": "??:??"
     },
     {
@@ -40,14 +46,8 @@
     {
       "Name": "mikasa",
       "Steam": "76561198726899259",
-      "Score": 22,
-      "Time": "36:17"
-    },
-    {
-      "Name": "sTUDENTTTTT STUDENT",
-      "Steam": "76561198682261109",
-      "Score": 0,
-      "Time": "00:04"
+      "Score": 26,
+      "Time": "38:17"
     }
   ]
 }
