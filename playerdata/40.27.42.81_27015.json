@@ -1,29 +1,47 @@
 {
-  "Time": "2026-07-31T16:57:22.6082969Z",
+  "Time": "2026-07-31T16:59:22.6191812Z",
   "Players": [
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "A",
+      "Steam": "76561198715864311",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "almenia ❤",
+      "Steam": "76561199820215253",
+      "Score": 47,
+      "Time": "00:02"
+    },
+    {
+      "Name": "yeee",
+      "Steam": "76561199791131134",
+      "Score": 0,
+      "Time": "01:26"
     },
     {
       "Name": "355 Alison Dr NE Atlanta, GA",
       "Steam": "76561199125572569",
       "Score": 46,
-      "Time": "35:30"
+      "Time": "37:30"
     },
     {
       "Name": "lilwalkemdown #luckboosted",
       "Steam": "76561198742184205",
-      "Score": 56,
-      "Time": "43:06"
+      "Score": 64,
+      "Time": "45:06"
     }
   ]
 }
