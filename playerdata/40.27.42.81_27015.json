@@ -1,35 +1,41 @@
 {
-  "Time": "2026-07-31T08:04:29.1387899Z",
+  "Time": "2026-07-31T08:06:29.1446275Z",
   "Players": [
+    {
+      "Name": "XEV",
+      "Steam": "76561198984848627",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "\u1CBC",
       "Steam": "76561198663210802",
-      "Score": 58,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "Hades",
       "Steam": "76561199836861135",
-      "Score": 70,
-      "Time": "255:33"
+      "Score": 77,
+      "Time": "257:33"
     },
     {
       "Name": "деловой ебырь",
       "Steam": "76561198791851249",
-      "Score": 18,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "low cortisol deagle",
       "Steam": "76561197974256149",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
-      "Score": 30,
-      "Time": "10:37"
+      "Score": 38,
+      "Time": "12:37"
     }
   ]
 }
