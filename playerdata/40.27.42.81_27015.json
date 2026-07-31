@@ -1,17 +1,29 @@
 {
-  "Time": "2026-07-31T22:43:23.0419689Z",
+  "Time": "2026-07-31T22:45:23.0502362Z",
   "Players": [
+    {
+      "Name": "dream",
+      "Steam": "76561198706868502",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "ayoz do it #laundered.cash style",
       "Steam": "76561199757543292",
       "Score": 38,
-      "Time": "04:25"
+      "Time": "06:25"
+    },
+    {
+      "Name": "Hades",
+      "Steam": "76561199836861135",
+      "Score": 0,
+      "Time": "01:15"
     },
     {
       "Name": "Kardi ⸸",
       "Steam": "76561199808796970",
-      "Score": 33,
-      "Time": "25:47"
+      "Score": 35,
+      "Time": "27:47"
     },
     {
       "Name": "Celestial",
@@ -22,20 +34,20 @@
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 56,
-      "Time": "12:02"
+      "Score": 60,
+      "Time": "14:02"
     },
     {
       "Name": "★ Num ★",
       "Steam": "76561199077094155",
       "Score": 37,
-      "Time": "28:09"
+      "Time": "30:09"
     },
     {
       "Name": "Al_Bundy",
       "Steam": "76561198877096926",
-      "Score": 5,
-      "Time": "18:44"
+      "Score": 7,
+      "Time": "20:44"
     },
     {
       "Name": "Bot_Fred",
@@ -46,32 +58,32 @@
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 111,
-      "Time": "82:36"
+      "Score": 127,
+      "Time": "84:36"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 3,
-      "Time": "05:12"
+      "Score": 0,
+      "Time": "07:12"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 49,
+      "Score": 54,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dev",
+      "Steam": "76561199124248983",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 58,
-      "Time": "41:14"
-    },
-    {
-      "Name": "fluauxatine",
-      "Steam": "76561198704162469",
-      "Score": 70,
-      "Time": "23:42"
+      "Score": 61,
+      "Time": "43:14"
     }
   ]
 }
