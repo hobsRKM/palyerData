@@ -1,41 +1,53 @@
 {
-  "Time": "2026-07-31T04:14:28.5663025Z",
+  "Time": "2026-07-31T04:16:28.5701709Z",
   "Players": [
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 58,
+      "Score": 75,
+      "Time": "??:??"
+    },
+    {
+      "Name": "venecopeek",
+      "Steam": "76561199258637771",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Hades",
       "Steam": "76561199836861135",
-      "Score": 39,
-      "Time": "25:32"
+      "Score": 41,
+      "Time": "27:32"
     },
     {
       "Name": "2026 nn",
       "Steam": "76561198672510639",
-      "Score": 39,
+      "Score": 41,
       "Time": "??:??"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 55,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "Evil Morty",
       "Steam": "76561199187287200",
-      "Score": 13,
-      "Time": "21:38"
+      "Score": 14,
+      "Time": "23:38"
     },
     {
       "Name": "laundered.cash #LAUNDERTILDEATH",
       "Steam": "76561199757543292",
-      "Score": 31,
+      "Score": 32,
       "Time": "??:??"
+    },
+    {
+      "Name": "mikasa",
+      "Steam": "76561198726899259",
+      "Score": 0,
+      "Time": "00:27"
     }
   ]
 }
