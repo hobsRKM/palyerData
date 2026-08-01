@@ -1,47 +1,53 @@
 {
-  "Time": "2026-08-01T00:01:24.3868268Z",
+  "Time": "2026-08-01T00:03:24.4505029Z",
   "Players": [
+    {
+      "Name": "Serial Killer Vibes",
+      "Steam": "76561198425753214",
+      "Score": 20,
+      "Time": "01:11"
+    },
     {
       "Name": "sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
-      "Score": 55,
-      "Time": "24:06"
+      "Score": 61,
+      "Time": "26:06"
     },
     {
       "Name": "ayoz do it #laundered.cash style",
       "Steam": "76561199757543292",
-      "Score": 54,
-      "Time": "82:26"
+      "Score": 56,
+      "Time": "84:26"
     },
     {
       "Name": "What Do i want more than?",
       "Steam": "76561198695257041",
-      "Score": 72,
-      "Time": "11:32"
+      "Score": 80,
+      "Time": "13:32"
     },
     {
       "Name": "eyeso",
       "Steam": "76561198756777371",
-      "Score": 59,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 107,
+      "Score": 114,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 49,
-      "Time": "09:54"
+      "Score": 60,
+      "Time": "11:54"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
       "Score": 0,
-      "Time": "160:38"
+      "Time": "162:38"
     },
     {
       "Name": "poophead",
@@ -50,22 +56,22 @@
       "Time": "??:??"
     },
     {
-      "Name": "РОНАЛДУ ГАНДОН",
-      "Steam": "76561199688280963",
-      "Score": 33,
-      "Time": "42:32"
-    },
-    {
       "Name": "fat",
       "Steam": "76561199188735797",
       "Score": 0,
-      "Time": "64:47"
+      "Time": "66:48"
     },
     {
-      "Name": "mousetrap // TESTING WALKBOT",
-      "Steam": "76561199887239492",
-      "Score": 6,
-      "Time": "10:56"
+      "Name": "noxx_",
+      "Steam": "76561198756648300",
+      "Score": 0,
+      "Time": "00:12"
+    },
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 0,
+      "Time": "00:42"
     }
   ]
 }
