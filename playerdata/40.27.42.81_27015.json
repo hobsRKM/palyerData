@@ -1,53 +1,53 @@
 {
-  "Time": "2026-08-01T07:31:37.4911631Z",
+  "Time": "2026-08-01T07:33:37.5465563Z",
   "Players": [
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "mikasa",
       "Steam": "76561198726899259",
-      "Score": 19,
-      "Time": "75:46"
+      "Score": 21,
+      "Time": "77:46"
     },
     {
       "Name": "Smokes",
       "Steam": "76561199410057924",
-      "Score": 5,
-      "Time": "30:36"
+      "Score": 6,
+      "Time": "32:36"
     },
     {
       "Name": "Hello :3",
       "Steam": "76561199882962470",
-      "Score": 0,
-      "Time": "01:09"
+      "Score": 5,
+      "Time": "03:09"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 20,
-      "Time": "31:54"
+      "Score": 33,
+      "Time": "33:54"
     },
     {
       "Name": "tsaruicide",
       "Steam": "76561198671553973",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "almenia ❤",
       "Steam": "76561199820215253",
-      "Score": 19,
-      "Time": "06:33"
+      "Score": 34,
+      "Time": "08:33"
     },
     {
       "Name": "beater",
       "Steam": "76561199389127524",
-      "Score": 3,
-      "Time": "21:03"
-    },
-    {
-      "Name": "IAmHigh",
-      "Steam": "76561198737590918",
-      "Score": 0,
-      "Time": "00:12"
+      "Score": 7,
+      "Time": "23:03"
     }
   ]
 }
