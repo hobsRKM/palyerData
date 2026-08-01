@@ -1,17 +1,23 @@
 {
-  "Time": "2026-08-01T04:13:31.0221371Z",
+  "Time": "2026-08-01T04:15:31.0883857Z",
   "Players": [
+    {
+      "Name": "#FarmRust.Boblee",
+      "Steam": "76561198784370288",
+      "Score": 3,
+      "Time": "01:50"
+    },
     {
       "Name": "parties",
       "Steam": "76561199548350350",
-      "Score": 50,
-      "Time": "12:19"
+      "Score": 52,
+      "Time": "14:19"
     },
     {
       "Name": "almenia ❤",
       "Steam": "76561199820215253",
-      "Score": 32,
-      "Time": "368:33"
+      "Score": 48,
+      "Time": "370:34"
     },
     {
       "Name": "bunnyluvr.",
@@ -22,14 +28,8 @@
     {
       "Name": "alexz",
       "Steam": "76561198673536810",
-      "Score": 21,
-      "Time": "259:20"
-    },
-    {
-      "Name": "R8>Deagle",
-      "Steam": "76561198665140753",
-      "Score": 0,
-      "Time": "13:48"
+      "Score": 34,
+      "Time": "261:20"
     }
   ]
 }
