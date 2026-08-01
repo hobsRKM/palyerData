@@ -1,65 +1,83 @@
 {
-  "Time": "2026-07-31T23:49:23.8364738Z",
+  "Time": "2026-07-31T23:51:23.9392244Z",
   "Players": [
+    {
+      "Name": "Serial Killer Vibes",
+      "Steam": "76561198425753214",
+      "Score": 8,
+      "Time": "00:57"
+    },
     {
       "Name": "sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
-      "Score": 23,
-      "Time": "12:06"
+      "Score": 31,
+      "Time": "14:06"
     },
     {
       "Name": "ayoz do it #laundered.cash style",
       "Steam": "76561199757543292",
-      "Score": 22,
-      "Time": "70:25"
+      "Score": 30,
+      "Time": "72:25"
     },
     {
       "Name": "What Do i want more than?",
       "Steam": "76561198695257041",
-      "Score": 21,
-      "Time": "03:06"
+      "Score": 24,
+      "Time": "01:32"
     },
     {
       "Name": "eyeso",
       "Steam": "76561198756777371",
-      "Score": 27,
+      "Score": 28,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Иерихон",
+      "Steam": "76561199157857563",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Yam1k",
       "Steam": "76561199823125759",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Bot_Fred",
       "Steam": "76561198750075346",
-      "Score": 16,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 56,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
       "Score": 0,
-      "Time": "148:37"
+      "Time": "150:37"
     },
     {
       "Name": "РОНАЛДУ ГАНДОН",
       "Steam": "76561199688280963",
       "Score": 19,
-      "Time": "30:31"
+      "Time": "32:31"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
       "Score": 0,
-      "Time": "52:47"
+      "Time": "54:47"
+    },
+    {
+      "Name": "mousetrap // TESTING WALKBOT",
+      "Steam": "76561199887239492",
+      "Score": 0,
+      "Time": "00:56"
     }
   ]
 }
