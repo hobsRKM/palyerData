@@ -1,59 +1,65 @@
 {
-  "Time": "2026-08-01T07:05:36.3922159Z",
+  "Time": "2026-08-01T07:07:36.4669312Z",
   "Players": [
     {
       "Name": "#FarmRust.Boblee",
       "Steam": "76561198784370288",
-      "Score": 2,
-      "Time": "57:58"
+      "Score": 3,
+      "Time": "59:58"
     },
     {
       "Name": "mikasa",
       "Steam": "76561198726899259",
-      "Score": 28,
-      "Time": "49:45"
+      "Score": 31,
+      "Time": "51:45"
     },
     {
       "Name": "Smokes",
       "Steam": "76561199410057924",
       "Score": 6,
-      "Time": "04:34"
+      "Time": "06:34"
     },
     {
       "Name": "Evil Morty",
       "Steam": "76561199187287200",
-      "Score": 2,
+      "Score": 3,
       "Time": "??:??"
+    },
+    {
+      "Name": "Hello :3",
+      "Steam": "76561199882962470",
+      "Score": 0,
+      "Time": "00:46"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 22,
-      "Time": "05:53"
+      "Score": 38,
+      "Time": "07:53"
     },
     {
       "Name": "ny",
       "Steam": "76561198763517260",
-      "Score": 36,
-      "Time": "09:54"
+      "Score": 44,
+      "Time": "11:54"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 68,
-      "Time": "78:56"
+      "Score": 74,
+      "Time": "80:57"
     },
     {
       "Name": "rp10",
       "Steam": "76561198669329793",
-      "Score": 20,
-      "Time": "47:16"
+      "Score": 26,
+      "Time": "49:16"
     },
     {
       "Name": "dev",
       "Steam": "76561198219350995",
-      "Score": 1,
-      "Time": "82:29"
+      "Score": 2,
+      "Time": "84:29"
     }
   ]
 }
