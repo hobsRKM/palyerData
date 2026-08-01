@@ -1,23 +1,17 @@
 {
-  "Time": "2026-08-01T22:41:36.0222809Z",
+  "Time": "2026-08-01T22:43:36.0132637Z",
   "Players": [
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 5,
-      "Time": "01:43"
+      "Score": 0,
+      "Time": "03:43"
     },
     {
-      "Name": "johnathon",
-      "Steam": "76561199336126493",
-      "Score": 65,
-      "Time": "17:29"
-    },
-    {
-      "Name": "[Mon] saxypooh",
+      "Name": "[Monolith] saxypooh",
       "Steam": "76561198689598124",
-      "Score": 15,
-      "Time": "12:34"
+      "Score": 0,
+      "Time": "14:34"
     },
     {
       "Name": "sxo666",
@@ -28,26 +22,32 @@
     {
       "Name": "meth",
       "Steam": "76561199153754054",
-      "Score": 2,
-      "Time": "04:12"
+      "Score": 0,
+      "Time": "06:12"
     },
     {
       "Name": "ronny",
       "Steam": "76561199745364739",
-      "Score": 36,
-      "Time": "226:48"
+      "Score": 2,
+      "Time": "228:48"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
       "Score": 0,
-      "Time": "00:18"
+      "Time": "02:18"
+    },
+    {
+      "Name": "metro",
+      "Steam": "76561199007818126",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "restless nights",
       "Steam": "76561198744712586",
-      "Score": 74,
-      "Time": "22:24"
+      "Score": 0,
+      "Time": "24:24"
     }
   ]
 }
