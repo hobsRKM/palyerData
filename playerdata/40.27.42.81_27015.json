@@ -1,28 +1,34 @@
 {
-  "Time": "2026-08-01T07:55:38.7136018Z",
+  "Time": "2026-08-01T07:57:38.8654192Z",
   "Players": [
+    {
+      "Name": "beartoker | @7beartoker",
+      "Steam": "76561199290398734",
+      "Score": 10,
+      "Time": "737:21"
+    },
     {
       "Name": "mikasa",
       "Steam": "76561198726899259",
-      "Score": 30,
-      "Time": "99:47"
+      "Score": 38,
+      "Time": "101:48"
     },
     {
       "Name": "tsaruicide",
       "Steam": "76561198671553973",
-      "Score": 23,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "beater",
       "Steam": "76561199389127524",
-      "Score": 16,
-      "Time": "45:04"
+      "Score": 28,
+      "Time": "47:04"
     },
     {
       "Name": "n3m4shkaa",
       "Steam": "76561198684967467",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
