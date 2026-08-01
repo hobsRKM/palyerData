@@ -1,40 +1,46 @@
 {
-  "Time": "2026-08-01T15:25:36.0226501Z",
+  "Time": "2026-08-01T15:27:36.0200057Z",
   "Players": [
+    {
+      "Name": "dead",
+      "Steam": "76561199766698112",
+      "Score": 2,
+      "Time": "01:06"
+    },
     {
       "Name": "What Do i want more than?",
       "Steam": "76561198695257041",
-      "Score": 74,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "bleood tap",
       "Steam": "76561198918924291",
-      "Score": 29,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 47,
-      "Time": "18:47"
+      "Score": 50,
+      "Time": "20:47"
     },
     {
-      "Name": "user",
+      "Name": "gynophobia",
       "Steam": "76561199125572569",
-      "Score": 25,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "alexz",
       "Steam": "76561198673536810",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 1,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
