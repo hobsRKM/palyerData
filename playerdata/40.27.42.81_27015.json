@@ -1,53 +1,53 @@
 {
-  "Time": "2026-08-01T22:57:36.0298838Z",
+  "Time": "2026-08-01T22:59:36.033903Z",
   "Players": [
     {
       "Name": "kolznya",
       "Steam": "76561198682641825",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
-      "Name": "[129] saxypooh",
+      "Name": "[Mon] saxypooh",
       "Steam": "76561198689598124",
       "Score": 13,
-      "Time": "28:34"
+      "Time": "30:34"
+    },
+    {
+      "Name": "femguy",
+      "Steam": "76561199837528306",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "sxo666",
       "Steam": "76561198693001781",
-      "Score": 44,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "meth",
       "Steam": "76561199153754054",
-      "Score": 13,
-      "Time": "20:12"
+      "Score": 17,
+      "Time": "22:12"
     },
     {
       "Name": "ronny",
       "Steam": "76561199745364739",
-      "Score": 45,
-      "Time": "242:48"
+      "Score": 49,
+      "Time": "244:48"
     },
     {
       "Name": "julius caesar",
       "Steam": "76561199268825034",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 21,
-      "Time": "09:46"
-    },
-    {
-      "Name": "Rightguard",
-      "Steam": "76561198121118128",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 32,
+      "Time": "11:46"
     }
   ]
 }
