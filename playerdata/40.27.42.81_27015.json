@@ -1,23 +1,23 @@
 {
-  "Time": "2026-08-01T22:25:36.0183295Z",
+  "Time": "2026-08-01T22:27:36.0099894Z",
   "Players": [
+    {
+      "Name": "skullz",
+      "Steam": "76561198123039885",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 4,
-      "Time": "01:29"
+      "Score": 6,
+      "Time": "03:28"
     },
     {
       "Name": "restless nights",
       "Steam": "76561198744712586",
-      "Score": 14,
-      "Time": "06:24"
-    },
-    {
-      "Name": "bunni ❤",
-      "Steam": "76561198745194531",
-      "Score": 35,
-      "Time": "??:??"
+      "Score": 20,
+      "Time": "08:24"
     }
   ]
 }
