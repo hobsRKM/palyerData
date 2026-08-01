@@ -1,10 +1,16 @@
 {
-  "Time": "2026-08-01T15:11:36.0225553Z",
+  "Time": "2026-08-01T15:13:36.0182752Z",
   "Players": [
+    {
+      "Name": "yeee",
+      "Steam": "76561199791131134",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "What Do i want more than?",
       "Steam": "76561198695257041",
-      "Score": 44,
+      "Score": 52,
       "Time": "??:??"
     },
     {
@@ -16,8 +22,8 @@
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 8,
-      "Time": "04:47"
+      "Score": 12,
+      "Time": "06:47"
     }
   ]
 }
