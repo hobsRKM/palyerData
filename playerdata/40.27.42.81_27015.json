@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-01T04:19:31.2667838Z",
+  "Time": "2026-08-01T04:21:31.2713739Z",
   "Players": [
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561198689816963",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 0,
-      "Time": "03:29"
+      "Score": 4,
+      "Time": "05:29"
     },
     {
       "Name": "parties",
       "Steam": "76561199548350350",
-      "Score": 0,
-      "Time": "18:19"
+      "Score": 2,
+      "Time": "20:19"
     },
     {
       "Name": "almenia ❤",
       "Steam": "76561199820215253",
-      "Score": 2,
-      "Time": "374:34"
+      "Score": 15,
+      "Time": "376:34"
     },
     {
       "Name": "bunnyluvr.",
@@ -28,8 +34,8 @@
     {
       "Name": "alexz",
       "Steam": "76561198673536810",
-      "Score": 0,
-      "Time": "265:21"
+      "Score": 2,
+      "Time": "267:21"
     }
   ]
 }
