@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-02T19:07:26.0071838Z",
+  "Time": "2026-08-02T19:09:26.0156578Z",
   "Players": [
     {
-      "Name": "\uD835\uDCF7\uD835\uDCF8\uD835\uDCEC\uD835\uDCF1\uD835\uDCEE Vac Banned.",
+      "Name": "\uD835\uDCF7\uD835\uDCF8\uD835\uDCEC\uD835\uDCF1 Vac Banned.",
       "Steam": "76561198197230391",
-      "Score": 46,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "SAVANT",
+      "Steam": "76561199148908407",
+      "Score": 0,
+      "Time": "01:36"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 24,
-      "Time": "116:48"
+      "Score": 26,
+      "Time": "118:48"
     },
     {
-      "Name": "Ether Shux",
+      "Name": "Et Shux",
       "Steam": "76561199170636130",
-      "Score": 85,
+      "Score": 93,
       "Time": "??:??"
     },
     {
-      "Name": "Naruto Uzumaki",
+      "Name": "mesense         Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 51,
-      "Time": "25:50"
+      "Score": 57,
+      "Time": "27:50"
     }
   ]
 }
