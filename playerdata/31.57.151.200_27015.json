@@ -1,4 +1,29 @@
 {
-  "Time": "2026-08-02T14:54:20.7792069Z",
-  "Players": []
+  "Time": "2026-08-02T14:55:25.7288801Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "king yooma.su",
+      "Steam": "76561199879589760",
+      "Score": 39,
+      "Time": "01:05"
+    },
+    {
+      "Name": "BUSKIMANO",
+      "Steam": "76561199799874714",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "dmitrii.gorbatko",
+      "Steam": "76561198663960674",
+      "Score": 31,
+      "Time": "??:??"
+    }
+  ]
 }
