@@ -1,11 +1,23 @@
 {
-  "Time": "2026-08-02T15:41:25.9663783Z",
+  "Time": "2026-08-02T15:43:25.9563627Z",
   "Players": [
+    {
+      "Name": "Vac Banned.",
+      "Steam": "76561198197230391",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "300shots",
+      "Steam": "76561198661626582",
+      "Score": 0,
+      "Time": "01:46"
+    },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 4,
-      "Time": "04:47"
+      "Score": 8,
+      "Time": "06:47"
     },
     {
       "Name": "fish oil",
@@ -16,14 +28,14 @@
     {
       "Name": "bmw",
       "Steam": "76561198673536810",
-      "Score": 7,
-      "Time": "19:45"
+      "Score": 12,
+      "Time": "21:45"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
       "Score": 4,
-      "Time": "02:59"
+      "Time": "04:59"
     },
     {
       "Name": "XEV",
@@ -34,19 +46,19 @@
     {
       "Name": "hackle",
       "Steam": "76561198672653618",
-      "Score": 20,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 27,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 0,
+      "Score": 7,
       "Time": "??:??"
     }
   ]
