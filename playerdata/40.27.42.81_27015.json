@@ -1,35 +1,35 @@
 {
-  "Time": "2026-08-02T04:05:39.7535576Z",
+  "Time": "2026-08-02T04:07:39.9098308Z",
   "Players": [
+    {
+      "Name": "vipeRR",
+      "Steam": "76561198691150347",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 14,
-      "Time": "55:03"
+      "Score": 18,
+      "Time": "57:03"
     },
     {
       "Name": "pedro porro",
       "Steam": "76561199227491568",
-      "Score": 49,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 3,
-      "Time": "24:18"
+      "Score": 14,
+      "Time": "26:18"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 64,
-      "Time": "257:18"
-    },
-    {
-      "Name": "giga-over",
-      "Steam": "76561199725613843",
-      "Score": 60,
-      "Time": "29:28"
+      "Score": 69,
+      "Time": "259:18"
     },
     {
       "Name": "Nixware.cc",
@@ -41,43 +41,37 @@
       "Name": "torzsi",
       "Steam": "76561198663552322",
       "Score": 36,
-      "Time": "43:52"
+      "Time": "45:52"
     },
     {
       "Name": "Kardi ⸸",
       "Steam": "76561199808796970",
-      "Score": 24,
-      "Time": "147:12"
+      "Score": 30,
+      "Time": "149:12"
     },
     {
       "Name": "sa2",
       "Steam": "76561199084060057",
-      "Score": 106,
+      "Score": 112,
       "Time": "??:??"
     },
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 37,
-      "Time": "09:05"
+      "Score": 39,
+      "Time": "11:05"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 10,
-      "Time": "55:20"
+      "Score": 21,
+      "Time": "57:20"
     },
     {
       "Name": "A_me_a",
       "Steam": "76561199436225054",
-      "Score": 20,
+      "Score": 21,
       "Time": "??:??"
-    },
-    {
-      "Name": "lune",
-      "Steam": "76561198691443045",
-      "Score": 9,
-      "Time": "33:28"
     }
   ]
 }
