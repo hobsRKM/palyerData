@@ -1,23 +1,17 @@
 {
-  "Time": "2026-08-02T20:25:26.2253988Z",
+  "Time": "2026-08-02T20:27:26.2307966Z",
   "Players": [
+    {
+      "Name": "idkspames",
+      "Steam": "76561198665013427",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 84,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "Vicious",
-      "Steam": "76561198700071912",
-      "Score": 171,
-      "Time": "??:??"
-    },
-    {
-      "Name": "restless nights",
-      "Steam": "76561198744712586",
-      "Score": 22,
-      "Time": "22:56"
     },
     {
       "Name": "hvhmaster101",
@@ -26,16 +20,10 @@
       "Time": "??:??"
     },
     {
-      "Name": "Jbeezy",
-      "Steam": "76561199812415276",
-      "Score": 10,
-      "Time": "??:??"
-    },
-    {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 30,
-      "Time": "11:09"
+      "Score": 4,
+      "Time": "13:09"
     }
   ]
 }
