@@ -1,12 +1,6 @@
 {
-  "Time": "2026-08-02T15:07:25.9616151Z",
+  "Time": "2026-08-02T15:09:25.9562766Z",
   "Players": [
-    {
-      "Name": "user",
-      "Steam": "76561199104080002",
-      "Score": 29,
-      "Time": "65:00"
-    },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
@@ -16,19 +10,25 @@
     {
       "Name": "355 Alison Dr NE Atlanta, GA",
       "Steam": "76561199125572569",
-      "Score": 89,
-      "Time": "23:44"
+      "Score": 99,
+      "Time": "25:44"
     },
     {
       "Name": "bmw",
       "Steam": "76561198673536810",
-      "Score": 50,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": ":3",
       "Steam": "76561198677052607",
-      "Score": 41,
+      "Score": 46,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Naruto Uzumaki",
+      "Steam": "76561199053048408",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
