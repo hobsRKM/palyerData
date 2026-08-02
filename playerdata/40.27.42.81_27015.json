@@ -1,23 +1,41 @@
 {
-  "Time": "2026-08-02T06:11:43.4560761Z",
+  "Time": "2026-08-02T06:13:43.475786Z",
   "Players": [
+    {
+      "Name": "villampatrik77 CS2.ME",
+      "Steam": "76561199224682572",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Flaki21",
+      "Steam": "76561199836423333",
+      "Score": 7,
+      "Time": "00:58"
+    },
     {
       "Name": "DaBest",
       "Steam": "76561198785175812",
       "Score": 61,
-      "Time": "58:58"
+      "Time": "60:58"
+    },
+    {
+      "Name": "Mag",
+      "Steam": "76561197960575372",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 26,
-      "Time": "10:19"
+      "Score": 2,
+      "Time": "12:19"
     },
     {
       "Name": "Cheating until get vac",
       "Steam": "76561198339774997",
-      "Score": 49,
-      "Time": "33:53"
+      "Score": 52,
+      "Time": "35:53"
     },
     {
       "Name": "Русский Богатырь",
@@ -28,37 +46,25 @@
     {
       "Name": "isbob101",
       "Steam": "76561198688171505",
-      "Score": 13,
-      "Time": "38:41"
+      "Score": 15,
+      "Time": "40:41"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 35,
-      "Time": "48:34"
-    },
-    {
-      "Name": "PlugWalkJoe",
-      "Steam": "76561199013526193",
-      "Score": 0,
-      "Time": "01:25"
+      "Score": 43,
+      "Time": "50:34"
     },
     {
       "Name": "Ethereal Shux",
       "Steam": "76561199170636130",
-      "Score": 58,
-      "Time": "442:09"
-    },
-    {
-      "Name": "stucks",
-      "Steam": "76561198672510639",
-      "Score": 0,
-      "Time": "51:33"
+      "Score": 59,
+      "Time": "444:09"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 138,
+      "Score": 155,
       "Time": "??:??"
     }
   ]
