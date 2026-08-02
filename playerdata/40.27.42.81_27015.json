@@ -1,59 +1,59 @@
 {
-  "Time": "2026-08-02T03:13:38.5868038Z",
+  "Time": "2026-08-02T03:15:38.6616311Z",
   "Players": [
     {
       "Name": "SOLID",
       "Steam": "76561199127501029",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
       "Score": 1,
-      "Time": "03:02"
+      "Time": "05:02"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 37,
-      "Time": "260:43"
+      "Score": 42,
+      "Time": "262:43"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 32,
-      "Time": "205:17"
+      "Score": 36,
+      "Time": "207:17"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 13,
-      "Time": "14:22"
-    },
-    {
-      "Name": "torzsi",
-      "Steam": "76561198663552322",
-      "Score": 7,
-      "Time": "??:??"
+      "Score": 17,
+      "Time": "16:22"
     },
     {
       "Name": "alexz",
       "Steam": "76561198673536810",
-      "Score": 10,
-      "Time": "434:53"
+      "Score": 17,
+      "Time": "436:53"
     },
     {
       "Name": "Kardi ⸸",
       "Steam": "76561199808796970",
-      "Score": 24,
-      "Time": "95:11"
+      "Score": 31,
+      "Time": "97:11"
     },
     {
       "Name": "fat",
       "Steam": "76561199188735797",
-      "Score": 14,
-      "Time": "477:42"
+      "Score": 18,
+      "Time": "479:42"
+    },
+    {
+      "Name": "vtol gunship",
+      "Steam": "76561198036942622",
+      "Score": 0,
+      "Time": "00:27"
     },
     {
       "Name": "lordofcrows",
@@ -64,26 +64,38 @@
     {
       "Name": "beater",
       "Steam": "76561199389127524",
-      "Score": 13,
-      "Time": "73:39"
+      "Score": 15,
+      "Time": "75:39"
+    },
+    {
+      "Name": "sa2",
+      "Steam": "76561199084060057",
+      "Score": 6,
+      "Time": "??:??"
     },
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 26,
-      "Time": "158:24"
+      "Score": 30,
+      "Time": "160:24"
     },
     {
-      "Name": "x",
-      "Steam": "76561198760213116",
-      "Score": 0,
-      "Time": "02:30"
+      "Name": "ggg",
+      "Steam": "76561199617165715",
+      "Score": 5,
+      "Time": "??:??"
     },
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 26,
-      "Time": "69:58"
+      "Score": 38,
+      "Time": "71:58"
+    },
+    {
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
+      "Score": 0,
+      "Time": "05:19"
     }
   ]
 }
