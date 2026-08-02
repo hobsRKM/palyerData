@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-02T19:45:26.0187853Z",
+  "Time": "2026-08-02T19:47:26.0385918Z",
   "Players": [
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 13,
-      "Time": "18:34"
+      "Score": 20,
+      "Time": "20:34"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 20,
-      "Time": "154:48"
+      "Score": 26,
+      "Time": "156:48"
     },
     {
       "Name": "volks",
       "Steam": "76561197982271728",
       "Score": 1,
-      "Time": "06:30"
+      "Time": "08:30"
     },
     {
       "Name": "DaBest",
       "Steam": "76561198785175812",
-      "Score": 45,
-      "Time": "20:42"
+      "Score": 49,
+      "Time": "22:42"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 31,
-      "Time": "08:36"
+      "Score": 36,
+      "Time": "10:36"
     },
     {
       "Name": "bmw",
       "Steam": "76561198673536810",
-      "Score": 40,
-      "Time": "09:55"
+      "Score": 46,
+      "Time": "11:55"
     },
     {
-      "Name": "saxyy",
+      "Name": "[Mon] saxypooh",
       "Steam": "76561198689598124",
       "Score": 6,
       "Time": "??:??"
     },
     {
+      "Name": "blxxdrituals",
+      "Steam": "76561198672653618",
+      "Score": 1,
+      "Time": "36:53"
+    },
+    {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 101,
-      "Time": "30:43"
+      "Score": 118,
+      "Time": "32:43"
     }
   ]
 }
