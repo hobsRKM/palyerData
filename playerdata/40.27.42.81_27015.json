@@ -1,17 +1,11 @@
 {
-  "Time": "2026-08-02T04:09:39.9083142Z",
+  "Time": "2026-08-02T04:11:39.9867349Z",
   "Players": [
-    {
-      "Name": "goonsense",
-      "Steam": "76561199270468217",
-      "Score": 0,
-      "Time": "??:??"
-    },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 22,
-      "Time": "59:03"
+      "Score": 28,
+      "Time": "61:03"
     },
     {
       "Name": "pedro porro",
@@ -22,14 +16,14 @@
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 27,
-      "Time": "28:18"
+      "Score": 39,
+      "Time": "30:18"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 77,
-      "Time": "261:18"
+      "Score": 83,
+      "Time": "263:18"
     },
     {
       "Name": "Nixware.cc",
@@ -40,32 +34,38 @@
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 39,
-      "Time": "47:52"
+      "Score": 40,
+      "Time": "49:53"
     },
     {
       "Name": "Kardi ⸸",
       "Steam": "76561199808796970",
-      "Score": 36,
-      "Time": "151:12"
+      "Score": 37,
+      "Time": "153:13"
+    },
+    {
+      "Name": "Zup :3",
+      "Steam": "76561199882962470",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "sa2",
       "Steam": "76561199084060057",
-      "Score": 113,
+      "Score": 117,
       "Time": "??:??"
     },
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 41,
-      "Time": "13:05"
+      "Score": 43,
+      "Time": "15:05"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 29,
-      "Time": "59:20"
+      "Score": 41,
+      "Time": "61:20"
     }
   ]
 }
