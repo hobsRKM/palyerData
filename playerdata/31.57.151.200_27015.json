@@ -1,4 +1,35 @@
 {
-  "Time": "2026-08-02T09:38:20.7791379Z",
-  "Players": []
+  "Time": "2026-08-02T09:39:25.7345731Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "harrowing",
+      "Steam": "76561198705639029",
+      "Score": 51,
+      "Time": "35:28"
+    },
+    {
+      "Name": "Farmer_Dariusz",
+      "Steam": "76561198145174458",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "faraonu",
+      "Steam": "76561198843306728",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "invited",
+      "Steam": "76561198941513242",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
