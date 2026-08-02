@@ -1,59 +1,65 @@
 {
-  "Time": "2026-08-02T00:03:36.1508323Z",
+  "Time": "2026-08-02T00:05:36.1553603Z",
   "Players": [
+    {
+      "Name": "cesira",
+      "Steam": "76561198682641825",
+      "Score": 0,
+      "Time": "02:10"
+    },
     {
       "Name": "TLPUR",
       "Steam": "76561198819683930",
-      "Score": 37,
-      "Time": "28:33"
+      "Score": 44,
+      "Time": "30:33"
     },
     {
       "Name": "homicide",
       "Steam": "76561198694994433",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "A",
       "Steam": "76561198715864311",
-      "Score": 80,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "Valtium",
       "Steam": "76561198704224064",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "VikingHammer87",
       "Steam": "76561198844315934",
-      "Score": 90,
+      "Score": 96,
       "Time": "??:??"
     },
     {
       "Name": "Jbeezy",
       "Steam": "76561199812415276",
-      "Score": 12,
-      "Time": "48:45"
+      "Score": 14,
+      "Time": "50:45"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
       "Score": 114,
-      "Time": "24:26"
+      "Time": "26:26"
     },
     {
       "Name": "Kardi ⸸",
       "Steam": "76561199808796970",
-      "Score": 58,
-      "Time": "58:34"
+      "Score": 59,
+      "Time": "60:34"
     },
     {
       "Name": "infedel",
@@ -64,44 +70,50 @@
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 0,
-      "Time": "00:21"
+      "Score": 4,
+      "Time": "02:21"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 71,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "Bobby The Federal Investigator",
       "Steam": "76561199411523950",
-      "Score": 76,
+      "Score": 84,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sixseven",
+      "Steam": "76561198675889359",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 56,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "lune",
       "Steam": "76561198691443045",
       "Score": 7,
-      "Time": "01:18"
+      "Time": "03:18"
     },
     {
       "Name": "rzx",
       "Steam": "76561198975835356",
-      "Score": 2,
-      "Time": "08:51"
+      "Score": 5,
+      "Time": "10:51"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 30,
-      "Time": "75:46"
+      "Score": 32,
+      "Time": "77:46"
     }
   ]
 }
