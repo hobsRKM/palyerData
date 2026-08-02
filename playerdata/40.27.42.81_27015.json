@@ -1,28 +1,40 @@
 {
-  "Time": "2026-08-02T22:33:27.3455743Z",
+  "Time": "2026-08-02T22:35:27.3523567Z",
   "Players": [
+    {
+      "Name": "Vac Banned.",
+      "Steam": "76561198197230391",
+      "Score": 1,
+      "Time": "01:26"
+    },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 4,
-      "Time": "19:06"
+      "Score": 14,
+      "Time": "21:06"
+    },
+    {
+      "Name": "b28228854",
+      "Steam": "76561198669837073",
+      "Score": 1,
+      "Time": "??:??"
     },
     {
       "Name": "[vel] Andrew",
       "Steam": "76561199863435147",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "bmw",
       "Steam": "76561198673536810",
-      "Score": 16,
-      "Time": "11:05"
+      "Score": 24,
+      "Time": "13:05"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 16,
+      "Score": 25,
       "Time": "??:??"
     }
   ]
