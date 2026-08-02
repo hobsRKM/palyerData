@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-02T14:09:25.7278835Z",
+  "Time": "2026-08-02T14:09:36.7700074Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "GS Sm3t",
+      "Steam": "76561199820201403",
+      "Score": 68,
+      "Time": "??:??"
+    },
+    {
+      "Name": "AHZY#1337",
+      "Steam": "76561198884105044",
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "999",
+      "Steam": "76561198725703409",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Jolt",
+      "Steam": "76561198793546616",
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "anonteam",
+      "Steam": "76561199237916760",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[veloci] ake/",
+      "Steam": "76561199805945497",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "vlone thug",
-      "Steam": "76561198664329651",
-      "Score": 15,
-      "Time": "04:34"
-    },
-    {
-      "Name": "BUSKIMANO",
-      "Steam": "76561199799874714",
-      "Score": 31,
-      "Time": "??:??"
-    },
-    {
-      "Name": "all stars go to heaven",
-      "Steam": "76561198764733323",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "cheat, what cheat?",
-      "Steam": "76561198662068060",
-      "Score": 11,
-      "Time": "07:22"
     }
   ]
 }
