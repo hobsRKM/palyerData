@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-02T16:17:25.9554017Z",
+  "Time": "2026-08-02T16:19:25.9515895Z",
   "Players": [
     {
       "Name": "Vac Banned.",
       "Steam": "76561198197230391",
-      "Score": 70,
+      "Score": 73,
       "Time": "??:??"
     },
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 48,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "paul",
       "Steam": "76561199725913337",
-      "Score": 48,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bobby The Federal Investigator",
+      "Steam": "76561199411523950",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "user",
       "Steam": "76561199104080002",
       "Score": 0,
-      "Time": "40:47"
+      "Time": "42:47"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 51,
-      "Time": "33:41"
+      "Score": 56,
+      "Time": "35:41"
     },
     {
       "Name": "SAVANT",
       "Steam": "76561199148908407",
-      "Score": 53,
-      "Time": "13:23"
+      "Score": 61,
+      "Time": "15:23"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 3,
-      "Time": "02:44"
+      "Score": 7,
+      "Time": "04:44"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 76,
-      "Time": "17:31"
+      "Score": 90,
+      "Time": "19:31"
     }
   ]
 }
