@@ -1,4 +1,35 @@
 {
-  "Time": "2026-08-02T17:30:20.801016Z",
-  "Players": []
+  "Time": "2026-08-02T17:31:25.7342483Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Francisco Franco",
+      "Steam": "76561199837535361",
+      "Score": 58,
+      "Time": "32:24"
+    },
+    {
+      "Name": "9NAME",
+      "Steam": "76561199163976232",
+      "Score": 50,
+      "Time": "111:10"
+    },
+    {
+      "Name": "MyNameIsGod",
+      "Steam": "76561199269858697",
+      "Score": 4,
+      "Time": "197:29"
+    },
+    {
+      "Name": "merwin173",
+      "Steam": "76561198914409441",
+      "Score": 20,
+      "Time": "41:02"
+    }
+  ]
 }
