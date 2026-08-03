@@ -1,5 +1,5 @@
 {
-  "Time": "2026-08-03T20:46:39.7310578Z",
+  "Time": "2026-08-03T20:48:39.7364756Z",
   "Players": [
     {
       "Name": ">",
@@ -10,8 +10,26 @@
     {
       "Name": "aaaaaaaaaaaaaa",
       "Steam": "76561198704777367",
+      "Score": 6,
+      "Time": "02:07"
+    },
+    {
+      "Name": "vac tester THX.",
+      "Steam": "76561199885304481",
       "Score": 0,
-      "Time": "00:07"
+      "Time": "??:??"
+    },
+    {
+      "Name": "4amıPATLADI",
+      "Steam": "76561198727951216",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "enigma hvh v2.0 tester",
+      "Steam": "76561198663997224",
+      "Score": 4,
+      "Time": "??:??"
     }
   ]
 }
