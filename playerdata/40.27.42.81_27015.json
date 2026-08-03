@@ -1,57 +1,69 @@
 {
-  "Time": "2026-08-03T22:54:01.9682568Z",
+  "Time": "2026-08-03T22:56:01.9683984Z",
   "Players": [
+    {
+      "Name": "Santiago",
+      "Steam": "76561198166519466",
+      "Score": 0,
+      "Time": "00:31"
+    },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 35,
-      "Time": "31:39"
+      "Score": 37,
+      "Time": "33:39"
+    },
+    {
+      "Name": "linguinewot",
+      "Steam": "76561198663151466",
+      "Score": 2,
+      "Time": "01:26"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 38,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 61,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "✪ANTISKEETSYSTEMS✪",
       "Steam": "76561199778070124",
-      "Score": 59,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 40,
-      "Time": "34:31"
+      "Score": 44,
+      "Time": "36:31"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 31,
-      "Time": "??:??"
-    },
-    {
-      "Name": "jaxdog4065",
-      "Steam": "76561199851791179",
-      "Score": 0,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "evos ARCTXN",
       "Steam": "76561198787296877",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sxo666",
+      "Steam": "76561198693001781",
       "Score": 0,
       "Time": "??:??"
     }
