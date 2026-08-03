@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-03T15:31:34.8433202Z",
+  "Time": "2026-08-03T15:33:34.8466385Z",
   "Players": [
+    {
+      "Name": "LastHope",
+      "Steam": "76561199345907245",
+      "Score": 10,
+      "Time": "??:??"
+    },
     {
       "Name": "[veloc] BMW_Glazer",
       "Steam": "76561198683776532",
@@ -10,49 +16,43 @@
     {
       "Name": "E",
       "Steam": "76561199018121051",
-      "Score": 14,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 45,
-      "Time": "10:52"
+      "Score": 62,
+      "Time": "12:52"
     },
     {
       "Name": "355 Alison Dr NE Atlanta, GA",
       "Steam": "76561199125572569",
-      "Score": 82,
-      "Time": "76:06"
+      "Score": 97,
+      "Time": "78:06"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 50,
-      "Time": "18:29"
-    },
-    {
-      "Name": "blxxdrituals",
-      "Steam": "76561198672653618",
-      "Score": 52,
-      "Time": "??:??"
+      "Score": 54,
+      "Time": "20:29"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 2,
-      "Time": "00:35"
+      "Score": 6,
+      "Time": "02:35"
     },
     {
       "Name": "yuri",
       "Steam": "76561199177272147",
-      "Score": 16,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "future",
       "Steam": "76561198719208449",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
     }
   ]
