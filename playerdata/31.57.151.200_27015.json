@@ -1,12 +1,6 @@
 {
-  "Time": "2026-08-03T15:27:57.2369796Z",
+  "Time": "2026-08-03T15:29:57.245353Z",
   "Players": [
-    {
-      "Name": "Yuko",
-      "Steam": "76561199082859321",
-      "Score": 1,
-      "Time": "00:19"
-    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -16,26 +10,26 @@
     {
       "Name": "Strat",
       "Steam": "76561198706552273",
-      "Score": 9,
+      "Score": 13,
       "Time": "??:??"
     },
     {
-      "Name": "OffTooSpin",
-      "Steam": "76561199131009249",
-      "Score": 29,
+      "Name": "LowTierPlayer",
+      "Steam": "76561198673427304",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "★⁧⁧★Ricco",
       "Steam": "76561199011806780",
-      "Score": 51,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "Drippy",
       "Steam": "76561199369453721",
-      "Score": 66,
-      "Time": "96:42"
+      "Score": 76,
+      "Time": "98:42"
     }
   ]
 }
