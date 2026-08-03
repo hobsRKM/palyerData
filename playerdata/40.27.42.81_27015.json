@@ -1,40 +1,46 @@
 {
-  "Time": "2026-08-03T05:39:49.1410728Z",
+  "Time": "2026-08-03T05:41:49.3031725Z",
   "Players": [
+    {
+      "Name": "0x502",
+      "Steam": "76561199818977142",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "7vn",
       "Steam": "76561199471107546",
-      "Score": 91,
-      "Time": "102:15"
+      "Score": 95,
+      "Time": "104:15"
     },
     {
       "Name": "Zup :3",
       "Steam": "76561199882962470",
-      "Score": 45,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "Lucky",
       "Steam": "76561199743752871",
-      "Score": 37,
+      "Score": 42,
       "Time": "??:??"
     },
     {
       "Name": "#FarmRust.NigaWare",
       "Steam": "76561198784370288",
-      "Score": 32,
-      "Time": "77:55"
+      "Score": 34,
+      "Time": "79:56"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 150,
+      "Score": 158,
       "Time": "??:??"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 40,
+      "Score": 44,
       "Time": "??:??"
     }
   ]
