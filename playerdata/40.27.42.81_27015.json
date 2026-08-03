@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-03T18:55:34.8599224Z",
+  "Time": "2026-08-03T18:57:34.8699721Z",
   "Players": [
+    {
+      "Name": "DzikiPlons",
+      "Steam": "76561198785242385",
+      "Score": 9,
+      "Time": "41:58"
+    },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 88,
-      "Time": "104:35"
+      "Score": 96,
+      "Time": "106:35"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 38,
-      "Time": "75:55"
+      "Score": 45,
+      "Time": "77:55"
     },
     {
       "Name": "Jxnior . #1 Skeet Beta #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 74,
-      "Time": "72:31"
+      "Score": 76,
+      "Time": "74:31"
     },
     {
       "Name": "ouch",
       "Steam": "76561198756595271",
-      "Score": 52,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "hvhmaster101",
       "Steam": "76561198663289064",
-      "Score": 0,
-      "Time": "02:44"
+      "Score": 3,
+      "Time": "04:44"
     },
     {
       "Name": "Von",
       "Steam": "76561198819683930",
-      "Score": 47,
-      "Time": "08:56"
+      "Score": 60,
+      "Time": "10:56"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 68,
-      "Time": "19:30"
+      "Score": 76,
+      "Time": "21:30"
     },
     {
       "Name": "yuri",
       "Steam": "76561199177272147",
       "Score": 9,
-      "Time": "56:32"
+      "Time": "58:32"
     }
   ]
 }
