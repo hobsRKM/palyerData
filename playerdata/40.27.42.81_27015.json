@@ -1,53 +1,47 @@
 {
-  "Time": "2026-08-03T15:57:34.8354785Z",
+  "Time": "2026-08-03T15:59:34.8446625Z",
   "Players": [
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "homicide",
       "Steam": "76561198694994433",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
-    },
-    {
-      "Name": "[veloc] BMW_Glazer",
-      "Steam": "76561198683776532",
-      "Score": 8,
-      "Time": "05:20"
     },
     {
       "Name": "Viking",
       "Steam": "76561199718005346",
-      "Score": 40,
-      "Time": "??:??"
-    },
-    {
-      "Name": "sj",
-      "Steam": "76561198756303634",
-      "Score": 0,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 3,
-      "Time": "02:38"
+      "Score": 6,
+      "Time": "04:38"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 136,
-      "Time": "36:52"
+      "Score": 154,
+      "Time": "38:52"
     },
     {
       "Name": "355 Alison Dr NE Atlanta, GA",
       "Steam": "76561199125572569",
-      "Score": 96,
-      "Time": "102:06"
+      "Score": 112,
+      "Time": "104:06"
+    },
+    {
+      "Name": "Shagrinda",
+      "Steam": "76561199134289636",
+      "Score": 0,
+      "Time": "00:36"
     }
   ]
 }
