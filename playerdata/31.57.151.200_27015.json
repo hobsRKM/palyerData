@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-03T14:47:57.2384139Z",
+  "Time": "2026-08-03T14:49:57.2308513Z",
   "Players": [
+    {
+      "Name": "Yuko",
+      "Steam": "76561199082859321",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -8,34 +14,52 @@
       "Time": "??:??"
     },
     {
+      "Name": "harrowing",
+      "Steam": "76561198705639029",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": ":3",
+      "Steam": "76561198677052607",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
       "Name": "OffTooSpin",
       "Steam": "76561199131009249",
-      "Score": 3,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "evilmane",
+      "Steam": "76561199835990893",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "★⁧⁧★Ricco",
       "Steam": "76561199011806780",
-      "Score": 14,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "m0i #nn",
       "Steam": "76561198758778362",
-      "Score": 13,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Drippy",
       "Steam": "76561199369453721",
-      "Score": 0,
-      "Time": "56:42"
+      "Score": 6,
+      "Time": "58:42"
     },
     {
       "Name": "PhDr. Jeff1447, MBA",
       "Steam": "76561199162935678",
-      "Score": 0,
-      "Time": "00:07"
+      "Score": 6,
+      "Time": "02:07"
     }
   ]
 }
