@@ -1,4 +1,23 @@
 {
-  "Time": "2026-08-03T02:12:20.7973259Z",
-  "Players": []
+  "Time": "2026-08-03T02:13:26.2854344Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "capri-sun sipper",
+      "Steam": "76561198775747966",
+      "Score": 14,
+      "Time": "06:09"
+    },
+    {
+      "Name": "\uD835\uDD86\uD835\uDD97\uD835\uDD8E\uD835\uDD9B\uD835\uDD86",
+      "Steam": "76561198700896726",
+      "Score": 10,
+      "Time": "04:15"
+    }
+  ]
 }
