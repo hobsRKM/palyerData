@@ -1,52 +1,58 @@
 {
-  "Time": "2026-08-03T17:45:34.8378111Z",
+  "Time": "2026-08-03T17:47:34.8447539Z",
   "Players": [
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 18,
-      "Time": "34:35"
+      "Score": 23,
+      "Time": "36:35"
     },
     {
       "Name": "E",
       "Steam": "76561199018121051",
-      "Score": 24,
-      "Time": "20:43"
+      "Score": 28,
+      "Time": "22:43"
+    },
+    {
+      "Name": "Phalanges",
+      "Steam": "76561199148432787",
+      "Score": 0,
+      "Time": "01:05"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 10,
-      "Time": "39:22"
+      "Score": 22,
+      "Time": "41:22"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 11,
-      "Time": "05:55"
+      "Score": 13,
+      "Time": "07:55"
     },
     {
       "Name": "Jxnior . #1 Skeet Beta #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 6,
-      "Time": "02:31"
+      "Score": 16,
+      "Time": "04:31"
     },
     {
       "Name": "GromDi",
       "Steam": "76561198733989509",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
@@ -58,20 +64,8 @@
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 13,
+      "Score": 26,
       "Time": "??:??"
-    },
-    {
-      "Name": "~ Neige",
-      "Steam": "76561198666192544",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fish oil",
-      "Steam": "76561198668357173",
-      "Score": 2,
-      "Time": "11:17"
     }
   ]
 }
