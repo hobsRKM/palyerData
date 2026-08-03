@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-03T15:11:34.8408193Z",
+  "Time": "2026-08-03T15:13:34.8383701Z",
   "Players": [
+    {
+      "Name": "67",
+      "Steam": "76561199200375921",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "355 Alison Dr NE Atlanta, GA",
       "Steam": "76561199125572569",
-      "Score": 25,
-      "Time": "56:06"
+      "Score": 29,
+      "Time": "58:06"
     },
     {
-      "Name": "lapa!",
-      "Steam": "76561199724756247",
-      "Score": 1,
-      "Time": "06:32"
+      "Name": "torzsi",
+      "Steam": "76561198663552322",
+      "Score": 0,
+      "Time": "00:29"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 115,
-      "Time": "20:52"
+      "Score": 129,
+      "Time": "22:52"
     },
     {
       "Name": "39",
       "Steam": "76561198247504462",
-      "Score": 9,
-      "Time": "11:44"
+      "Score": 18,
+      "Time": "13:44"
     },
     {
       "Name": "blxxdrituals",
@@ -34,25 +40,25 @@
     {
       "Name": "joj",
       "Steam": "76561198680732763",
-      "Score": 48,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 29,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "yuri",
       "Steam": "76561199177272147",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "future",
       "Steam": "76561198719208449",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
