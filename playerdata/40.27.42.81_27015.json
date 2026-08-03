@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-03T04:01:42.1321804Z",
+  "Time": "2026-08-03T04:03:42.2419529Z",
   "Players": [
     {
       "Name": "7vn",
       "Steam": "76561199471107546",
-      "Score": 30,
-      "Time": "04:08"
+      "Score": 38,
+      "Time": "06:08"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
+    },
+    {
+      "Name": "defiye",
+      "Steam": "76561198691835436",
+      "Score": 4,
+      "Time": "01:15"
     },
     {
       "Name": "neverlose.cc",
       "Steam": "76561198703012329",
-      "Score": 0,
-      "Time": "00:54"
+      "Score": 1,
+      "Time": "02:54"
     },
     {
       "Name": "Mr Stealth",
       "Steam": "76561198010160451",
       "Score": 2,
-      "Time": "193:29"
+      "Time": "195:29"
     },
     {
       "Name": "End",
@@ -32,15 +38,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "ratatui",
-      "Steam": "76561199375554700",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 52,
+      "Score": 60,
       "Time": "??:??"
     }
   ]
