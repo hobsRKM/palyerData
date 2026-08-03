@@ -1,5 +1,5 @@
 {
-  "Time": "2026-08-03T16:52:39.726464Z",
+  "Time": "2026-08-03T16:54:39.738379Z",
   "Players": [
     {
       "Name": ">",
@@ -10,25 +10,25 @@
     {
       "Name": "20",
       "Steam": "76561198871823378",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Yuko",
       "Steam": "76561199082859321",
       "Score": 12,
-      "Time": "27:08"
+      "Time": "29:08"
     },
     {
-      "Name": "[hitware] oh no a mana",
+      "Name": "[hit] oh no a mana",
       "Steam": "76561199803040082",
       "Score": 4,
-      "Time": "05:27"
+      "Time": "07:27"
     },
     {
       "Name": "MyNameIsGod",
       "Steam": "76561199269858697",
-      "Score": 18,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -40,8 +40,14 @@
     {
       "Name": "kody.reinger469",
       "Steam": "76561198667236667",
-      "Score": 15,
+      "Score": 33,
       "Time": "??:??"
+    },
+    {
+      "Name": "LowTierPlayer",
+      "Steam": "76561198673427304",
+      "Score": 0,
+      "Time": "00:12"
     }
   ]
 }
