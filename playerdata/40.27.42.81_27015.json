@@ -1,10 +1,10 @@
 {
-  "Time": "2026-08-03T16:05:34.8431302Z",
+  "Time": "2026-08-03T16:07:34.8502349Z",
   "Players": [
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     },
     {
@@ -16,26 +16,32 @@
     {
       "Name": "Viking",
       "Steam": "76561199718005346",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 4,
-      "Time": "10:38"
+      "Score": 9,
+      "Time": "12:38"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 5,
-      "Time": "44:52"
+      "Score": 17,
+      "Time": "46:52"
+    },
+    {
+      "Name": "Ezra",
+      "Steam": "76561199874041124",
+      "Score": 3,
+      "Time": "01:07"
     },
     {
       "Name": "355 Alison Dr NE Atlanta, GA",
       "Steam": "76561199125572569",
-      "Score": 5,
-      "Time": "110:06"
+      "Score": 17,
+      "Time": "112:06"
     }
   ]
 }
