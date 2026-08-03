@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-03T15:23:57.2426062Z",
+  "Time": "2026-08-03T15:25:57.2491215Z",
   "Players": [
+    {
+      "Name": "Yuko",
+      "Steam": "76561199082859321",
+      "Score": 2,
+      "Time": "01:13"
+    },
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
@@ -8,34 +14,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "Bacak Röntgenleyen",
-      "Steam": "76561198662413418",
-      "Score": 21,
-      "Time": "??:??"
-    },
-    {
       "Name": "Strat",
       "Steam": "76561198706552273",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "OffTooSpin",
       "Steam": "76561199131009249",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "★⁧⁧★Ricco",
       "Steam": "76561199011806780",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Drippy",
       "Steam": "76561199369453721",
-      "Score": 46,
-      "Time": "92:42"
+      "Score": 56,
+      "Time": "94:42"
     }
   ]
 }
