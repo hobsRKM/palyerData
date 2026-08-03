@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-03T15:53:34.847444Z",
+  "Time": "2026-08-03T15:55:34.8459502Z",
   "Players": [
+    {
+      "Name": "runner",
+      "Steam": "76561198679370981",
+      "Score": 8,
+      "Time": "??:??"
+    },
     {
       "Name": "homicide",
       "Steam": "76561198694994433",
@@ -10,20 +16,20 @@
     {
       "Name": "[veloc] BMW_Glazer",
       "Steam": "76561198683776532",
-      "Score": 0,
-      "Time": "01:20"
+      "Score": 4,
+      "Time": "03:20"
     },
     {
       "Name": "Viking",
       "Steam": "76561199718005346",
-      "Score": 32,
+      "Score": 37,
       "Time": "??:??"
     },
     {
-      "Name": "imlowkeyfat69",
-      "Steam": "76561198682288135",
+      "Name": "67",
+      "Steam": "76561199200375921",
       "Score": 0,
-      "Time": "04:17"
+      "Time": "00:38"
     },
     {
       "Name": "catboy :3",
@@ -34,26 +40,14 @@
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 114,
-      "Time": "32:52"
+      "Score": 126,
+      "Time": "34:52"
     },
     {
       "Name": "355 Alison Dr NE Atlanta, GA",
       "Steam": "76561199125572569",
-      "Score": 75,
-      "Time": "98:06"
-    },
-    {
-      "Name": "torzsi",
-      "Steam": "76561198663552322",
-      "Score": 45,
-      "Time": "40:29"
-    },
-    {
-      "Name": "fish oil",
-      "Steam": "76561198668357173",
-      "Score": 82,
-      "Time": "22:35"
+      "Score": 83,
+      "Time": "100:06"
     }
   ]
 }
