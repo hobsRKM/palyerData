@@ -1,16 +1,22 @@
 {
-  "Time": "2026-08-03T16:55:02.804277Z",
+  "Time": "2026-08-03T16:57:02.7990278Z",
   "Players": [
+    {
+      "Name": "Null?xD",
+      "Steam": "76561198674316256",
+      "Score": 0,
+      "Time": "00:30"
+    },
     {
       "Name": "adawddd13",
       "Steam": "76561198789872219",
-      "Score": 13,
-      "Time": "33:01"
+      "Score": 17,
+      "Time": "35:01"
     },
     {
       "Name": "Mech Firen15",
       "Steam": "76561199881037303",
-      "Score": 61,
+      "Score": 70,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,19 @@
     {
       "Name": "AXL.95",
       "Steam": "76561199528359791",
-      "Score": 21,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "leyahbozz",
       "Steam": "76561199838439390",
-      "Score": 4,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[ar] vac | arctyx",
+      "Steam": "76561198665497708",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
