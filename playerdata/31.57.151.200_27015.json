@@ -1,4 +1,41 @@
 {
-  "Time": "2026-08-03T02:38:20.7973531Z",
-  "Players": []
+  "Time": "2026-08-03T02:39:26.4169493Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[velo] Dispnser",
+      "Steam": "76561198370838170",
+      "Score": 6,
+      "Time": "00:25"
+    },
+    {
+      "Name": "Paralen",
+      "Steam": "76561197992464014",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "capri-sun sipper",
+      "Steam": "76561198775747966",
+      "Score": 59,
+      "Time": "32:09"
+    },
+    {
+      "Name": "noam",
+      "Steam": "76561198336354562",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "andrewa | 2837",
+      "Steam": "76561198698187421",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
