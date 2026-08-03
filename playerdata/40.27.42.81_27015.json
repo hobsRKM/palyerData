@@ -1,107 +1,113 @@
 {
-  "Time": "2026-08-03T20:15:35.0606461Z",
+  "Time": "2026-08-03T20:17:35.0595409Z",
   "Players": [
+    {
+      "Name": "julius caesar",
+      "Steam": "76561199268825034",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 44,
-      "Time": "184:36"
+      "Score": 54,
+      "Time": "186:36"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 61,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "E",
       "Steam": "76561199018121051",
-      "Score": 12,
-      "Time": "02:34"
+      "Score": 18,
+      "Time": "04:34"
     },
     {
       "Name": "Jbeezy",
       "Steam": "76561199812415276",
-      "Score": 0,
-      "Time": "34:26"
+      "Score": 14,
+      "Time": "36:26"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 44,
-      "Time": "174:49"
+      "Score": 53,
+      "Time": "176:49"
     },
     {
       "Name": "tdf",
       "Steam": "76561198877096926",
-      "Score": 26,
-      "Time": "38:25"
+      "Score": 28,
+      "Time": "40:25"
     },
     {
       "Name": "Kardi ⸸",
       "Steam": "76561199808796970",
-      "Score": 0,
-      "Time": "00:49"
+      "Score": 3,
+      "Time": "02:49"
     },
     {
       "Name": "x",
       "Steam": "76561198720554985",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 15,
-      "Time": "51:28"
-    },
-    {
-      "Name": "SYBAU",
-      "Steam": "76561198770246061",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 20,
+      "Time": "53:28"
     },
     {
       "Name": "Viking",
       "Steam": "76561199718005346",
-      "Score": 11,
-      "Time": "55:26"
+      "Score": 13,
+      "Time": "57:26"
+    },
+    {
+      "Name": "Bumbaclot",
+      "Steam": "76561199885569517",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "Bro's Big Dihh, Lame Niqqa",
       "Steam": "76561198763659148",
-      "Score": 12,
-      "Time": "153:22"
+      "Score": 18,
+      "Time": "155:22"
     },
     {
-      "Name": "tdf",
+      "Name": "Kardi ⸸",
       "Steam": "76561198114108300",
-      "Score": 34,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
-      "Score": 2,
-      "Time": "01:16"
+      "Score": 11,
+      "Time": "03:16"
     },
     {
       "Name": "Fast skins",
       "Steam": "76561198991962613",
-      "Score": 11,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "Von",
       "Steam": "76561198819683930",
-      "Score": 43,
-      "Time": "10:10"
+      "Score": 44,
+      "Time": "12:10"
     },
     {
       "Name": "yuri",
       "Steam": "76561199177272147",
-      "Score": 8,
-      "Time": "136:32"
+      "Score": 14,
+      "Time": "138:32"
     }
   ]
 }
