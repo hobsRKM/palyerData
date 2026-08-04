@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-04T06:32:02.0252596Z",
+  "Time": "2026-08-04T06:34:02.0250497Z",
   "Players": [
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
       "Score": 41,
-      "Time": "64:57"
+      "Time": "66:57"
     },
     {
       "Name": "homicide",
       "Steam": "76561198694994433",
-      "Score": 6,
-      "Time": "93:46"
+      "Score": 10,
+      "Time": "95:46"
+    },
+    {
+      "Name": "#nastreleno",
+      "Steam": "76561198670727996",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
       "Score": 29,
-      "Time": "64:32"
+      "Time": "66:32"
     },
     {
       "Name": "johnathon",
@@ -26,16 +32,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "paradise",
+      "Steam": "76561198380272287",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "#FarmRust.NigaWare",
       "Steam": "76561198784370288",
       "Score": 4,
-      "Time": "58:24"
+      "Time": "60:24"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 3,
-      "Time": "61:53"
+      "Score": 7,
+      "Time": "63:53"
     }
   ]
 }
