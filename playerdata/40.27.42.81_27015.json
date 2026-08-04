@@ -1,59 +1,65 @@
 {
-  "Time": "2026-08-04T20:45:28.8843786Z",
+  "Time": "2026-08-04T20:47:28.8829757Z",
   "Players": [
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 27,
+      "Score": 28,
       "Time": "??:??"
+    },
+    {
+      "Name": "future",
+      "Steam": "76561198719208449",
+      "Score": 0,
+      "Time": "137:14"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 99,
-      "Time": "23:32"
+      "Score": 109,
+      "Time": "25:32"
     },
     {
       "Name": "10spd",
       "Steam": "76561198767543616",
-      "Score": 11,
-      "Time": "06:08"
+      "Score": 15,
+      "Time": "08:08"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 109,
+      "Score": 113,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 103,
-      "Time": "83:57"
+      "Score": 108,
+      "Time": "85:57"
     },
     {
-      "Name": "\uD835\uDDF3\uD835\uDDEE\uD835\uDE01\uD835\uDDEE\uD835\uDDF9\uD835\uDDF6\uD835\uDE01\uD835\uDE06.\uD835\uDE04\uD835\uDDF6 pedro porro",
+      "Name": "\uD835\uDDF3\uD835\uDDEE\uD835\uDE01\uD835\uDDEE\uD835\uDDF9\uD835\uDDF6 pedro porro",
       "Steam": "76561199227491568",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "[velo] Повр.ван",
       "Steam": "76561199812153393",
       "Score": 3,
-      "Time": "16:09"
+      "Time": "18:09"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 25,
-      "Time": "15:12"
+      "Score": 31,
+      "Time": "17:12"
     }
   ]
 }
