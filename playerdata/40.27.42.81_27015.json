@@ -1,40 +1,52 @@
 {
-  "Time": "2026-08-04T20:19:28.8832642Z",
+  "Time": "2026-08-04T20:21:28.8842438Z",
   "Players": [
+    {
+      "Name": "!",
+      "Steam": "76561198712611951",
+      "Score": 0,
+      "Time": "01:50"
+    },
     {
       "Name": "tate",
       "Steam": "76561198059477947",
-      "Score": 16,
-      "Time": "09:19"
+      "Score": 0,
+      "Time": "11:19"
     },
     {
       "Name": "papiroska",
       "Steam": "76561198767407153",
-      "Score": 6,
-      "Time": "03:40"
+      "Score": 4,
+      "Time": "05:40"
     },
     {
       "Name": "sxo666",
       "Steam": "76561198693001781",
-      "Score": 61,
-      "Time": "29:47"
+      "Score": 2,
+      "Time": "31:47"
     },
     {
-      "Name": "bunni ❤",
-      "Steam": "76561198745194531",
-      "Score": 102,
-      "Time": "51:16"
+      "Name": "Santiago",
+      "Steam": "76561198166519466",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 61,
-      "Time": "57:57"
+      "Score": 5,
+      "Time": "59:57"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 68,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "parties",
+      "Steam": "76561199548350350",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
