@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-04T17:17:28.8808237Z",
+  "Time": "2026-08-04T17:19:28.8920943Z",
   "Players": [
+    {
+      "Name": "Von",
+      "Steam": "76561198819683930",
+      "Score": 0,
+      "Time": "00:14"
+    },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "107:01"
+      "Time": "109:01"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 12,
-      "Time": "04:40"
+      "Score": 15,
+      "Time": "06:40"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 67,
+      "Score": 76,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 86,
+      "Score": 90,
       "Time": "??:??"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 39,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "fatalbro",
       "Steam": "76561198662629147",
-      "Score": 11,
-      "Time": "23:49"
+      "Score": 14,
+      "Time": "25:49"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 69,
+      "Score": 80,
       "Time": "??:??"
     },
     {
       "Name": "Jbeezy",
       "Steam": "76561199812415276",
-      "Score": 18,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "01:16"
     },
     {
       "Name": "gs employee",
@@ -58,7 +64,13 @@
     {
       "Name": "Third day on maybe fixed gs",
       "Steam": "76561199580355122",
-      "Score": 16,
+      "Score": 25,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Austin Dillard",
+      "Steam": "76561198690379333",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
