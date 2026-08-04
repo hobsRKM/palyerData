@@ -1,53 +1,65 @@
 {
-  "Time": "2026-08-04T05:02:01.969107Z",
+  "Time": "2026-08-04T05:04:01.970179Z",
   "Players": [
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 55,
-      "Time": "33:54"
+      "Score": 63,
+      "Time": "35:54"
+    },
+    {
+      "Name": "Mega mind",
+      "Steam": "76561198667214764",
+      "Score": 2,
+      "Time": "01:01"
     },
     {
       "Name": "homicide",
       "Steam": "76561198694994433",
-      "Score": 8,
-      "Time": "03:46"
+      "Score": 12,
+      "Time": "05:46"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 80,
-      "Time": "201:12"
+      "Score": 85,
+      "Time": "203:12"
+    },
+    {
+      "Name": "quo",
+      "Steam": "76561198717794290",
+      "Score": 0,
+      "Time": "169:34"
     },
     {
       "Name": "faith",
       "Steam": "76561198673536810",
-      "Score": 7,
-      "Time": "65:12"
+      "Score": 10,
+      "Time": "67:12"
     },
     {
       "Name": "355 Alison Dr NE Atlanta, GA",
       "Steam": "76561199125572569",
-      "Score": 53,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
       "Score": 27,
-      "Time": "13:17"
-    },
-    {
-      "Name": "[veloc] x",
-      "Steam": "76561198784370288",
-      "Score": 20,
-      "Time": "30:55"
+      "Time": "15:17"
     },
     {
       "Name": "Prince Of Darkness",
       "Steam": "76561199045179228",
+      "Score": 6,
+      "Time": "02:55"
+    },
+    {
+      "Name": "MAKARON",
+      "Steam": "76561198784108132",
       "Score": 0,
-      "Time": "00:55"
+      "Time": "00:09"
     }
   ]
 }
