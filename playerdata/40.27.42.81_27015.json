@@ -1,53 +1,65 @@
 {
-  "Time": "2026-08-04T04:08:01.9788706Z",
+  "Time": "2026-08-04T04:10:01.9671103Z",
   "Players": [
+    {
+      "Name": "waifu",
+      "Steam": "76561198698375820",
+      "Score": 0,
+      "Time": "00:58"
+    },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 36,
-      "Time": "09:59"
+      "Score": 45,
+      "Time": "11:59"
+    },
+    {
+      "Name": "harold edsill edmund1972",
+      "Steam": "76561199712493729",
+      "Score": 1,
+      "Time": "01:45"
     },
     {
       "Name": "faith",
       "Steam": "76561198673536810",
-      "Score": 6,
-      "Time": "11:12"
+      "Score": 8,
+      "Time": "13:12"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
       "Score": 46,
-      "Time": "13:16"
+      "Time": "15:16"
     },
     {
       "Name": "Amg",
       "Steam": "76561198689816963",
-      "Score": 103,
-      "Time": "106:05"
+      "Score": 115,
+      "Time": "108:05"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 66,
-      "Time": "27:52"
+      "Score": 72,
+      "Time": "29:52"
     },
     {
       "Name": "ex2d",
       "Steam": "76561199471107546",
-      "Score": 4,
-      "Time": "113:00"
+      "Score": 5,
+      "Time": "115:00"
     },
     {
       "Name": "dev",
       "Steam": "76561198219350995",
-      "Score": 12,
-      "Time": "63:47"
+      "Score": 0,
+      "Time": "65:47"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 77,
-      "Time": "18:47"
+      "Score": 86,
+      "Time": "20:47"
     }
   ]
 }
