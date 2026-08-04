@@ -1,59 +1,59 @@
 {
-  "Time": "2026-08-04T20:09:28.8782437Z",
+  "Time": "2026-08-04T20:11:28.8855778Z",
   "Players": [
+    {
+      "Name": "tate",
+      "Steam": "76561198059477947",
+      "Score": 3,
+      "Time": "01:19"
+    },
     {
       "Name": "sxo666",
       "Steam": "76561198693001781",
-      "Score": 39,
-      "Time": "19:47"
+      "Score": 43,
+      "Time": "21:47"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 29,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 56,
-      "Time": "41:16"
+      "Score": 64,
+      "Time": "43:16"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 38,
-      "Time": "12:28"
+      "Score": 42,
+      "Time": "14:28"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 4,
-      "Time": "47:57"
+      "Score": 10,
+      "Time": "49:57"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 6,
-      "Time": "66:58"
+      "Time": "68:58"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 38,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "[velo] Повр.ван",
       "Steam": "76561199812153393",
-      "Score": 3,
-      "Time": "05:06"
-    },
-    {
-      "Name": "we goblins",
-      "Steam": "76561198198433913",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 4,
+      "Time": "07:06"
     }
   ]
 }
