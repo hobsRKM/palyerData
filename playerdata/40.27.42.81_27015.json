@@ -1,65 +1,71 @@
 {
-  "Time": "2026-08-04T05:20:01.9666816Z",
+  "Time": "2026-08-04T05:22:01.9782843Z",
   "Players": [
+    {
+      "Name": "waifu",
+      "Steam": "76561198698375820",
+      "Score": 13,
+      "Time": "00:20"
+    },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 113,
-      "Time": "51:54"
+      "Score": 121,
+      "Time": "53:54"
     },
     {
       "Name": "homicide",
       "Steam": "76561198694994433",
-      "Score": 38,
-      "Time": "21:46"
+      "Score": 42,
+      "Time": "23:46"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 148,
-      "Time": "219:12"
+      "Score": 149,
+      "Time": "221:12"
     },
     {
       "Name": "fruitpuppy ᐡ > ﻌ < ᐡ",
       "Steam": "76561199847301652",
-      "Score": 0,
-      "Time": "07:52"
+      "Score": 6,
+      "Time": "09:52"
     },
     {
       "Name": "quo",
       "Steam": "76561198717794290",
-      "Score": 18,
-      "Time": "185:34"
+      "Score": 32,
+      "Time": "187:34"
     },
     {
       "Name": "faith",
       "Steam": "76561198673536810",
-      "Score": 64,
-      "Time": "83:12"
+      "Score": 78,
+      "Time": "85:12"
     },
     {
       "Name": "355 Alison Dr NE Atlanta, GA",
       "Steam": "76561199125572569",
-      "Score": 114,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
       "Score": 31,
-      "Time": "31:17"
+      "Time": "33:17"
     },
     {
       "Name": "#FarmRust.NigaWare",
       "Steam": "76561198784370288",
-      "Score": 14,
-      "Time": "13:43"
+      "Score": 18,
+      "Time": "15:43"
     },
     {
       "Name": "Prince Of Darkness",
       "Steam": "76561199045179228",
-      "Score": 33,
-      "Time": "18:55"
+      "Score": 34,
+      "Time": "20:55"
     }
   ]
 }
