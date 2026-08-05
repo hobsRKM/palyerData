@@ -1,10 +1,16 @@
 {
-  "Time": "2026-08-05T06:49:41.001757Z",
+  "Time": "2026-08-05T06:51:41.0257221Z",
   "Players": [
+    {
+      "Name": "snix :3",
+      "Steam": "76561199882962470",
+      "Score": 4,
+      "Time": "01:49"
+    },
     {
       "Name": "444",
       "Steam": "76561199471107546",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     },
     {
@@ -14,40 +20,46 @@
       "Time": "??:??"
     },
     {
+      "Name": "alfhis010203",
+      "Steam": "76561198767407153",
+      "Score": 0,
+      "Time": "00:07"
+    },
+    {
       "Name": "your farewell is my sadness",
       "Steam": "76561198663076990",
-      "Score": 24,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "tosuncuk",
       "Steam": "76561198706931440",
-      "Score": 19,
-      "Time": "09:43"
+      "Score": 21,
+      "Time": "11:43"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
       "Score": 19,
-      "Time": "56:30"
+      "Time": "58:30"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 57,
+      "Score": 74,
       "Time": "??:??"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 39,
-      "Time": "454:00"
+      "Score": 46,
+      "Time": "456:00"
     },
     {
       "Name": "evilaim666",
       "Steam": "76561199817142251",
-      "Score": 9,
-      "Time": "21:59"
+      "Score": 11,
+      "Time": "23:59"
     }
   ]
 }
