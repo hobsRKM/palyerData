@@ -1,17 +1,29 @@
 {
-  "Time": "2026-08-05T12:03:18.7540648Z",
+  "Time": "2026-08-05T12:05:18.7525307Z",
   "Players": [
+    {
+      "Name": "catboy :3",
+      "Steam": "76561198735814973",
+      "Score": 22,
+      "Time": "01:50"
+    },
     {
       "Name": "\uD83D\uDDFF⃤⃢ B",
       "Steam": "76561197973605723",
       "Score": 21,
-      "Time": "14:36"
+      "Time": "16:36"
     },
     {
       "Name": "sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
-      "Score": 25,
-      "Time": "24:31"
+      "Score": 29,
+      "Time": "26:31"
+    },
+    {
+      "Name": "Cookie",
+      "Steam": "76561199824375806",
+      "Score": 2,
+      "Time": "??:??"
     }
   ]
 }
