@@ -1,16 +1,22 @@
 {
-  "Time": "2026-08-04T23:15:28.9722515Z",
+  "Time": "2026-08-04T23:17:28.9776125Z",
   "Players": [
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 35,
-      "Time": "31:06"
+      "Score": 43,
+      "Time": "33:06"
+    },
+    {
+      "Name": "bloggo",
+      "Steam": "76561198712611951",
+      "Score": 12,
+      "Time": "01:51"
     },
     {
       "Name": "cmk7",
       "Steam": "76561199527169842",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
@@ -22,13 +28,13 @@
     {
       "Name": "Jxnior . #1 Skeet Beta #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 64,
-      "Time": "28:21"
+      "Score": 84,
+      "Time": "30:21"
     },
     {
       "Name": "qyxni",
       "Steam": "76561199233330611",
-      "Score": 20,
+      "Score": 27,
       "Time": "??:??"
     },
     {
@@ -40,13 +46,19 @@
     {
       "Name": "adsasdasdasd",
       "Steam": "76561199668744773",
-      "Score": 20,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "White Dog",
+      "Steam": "76561199127467946",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Kaori <3",
       "Steam": "76561198050195107",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -58,38 +70,32 @@
     {
       "Name": "mikasa",
       "Steam": "76561198782084625",
-      "Score": 45,
+      "Score": 57,
       "Time": "??:??"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 2,
+      "Time": "00:24"
     },
     {
       "Name": "durtecam",
       "Steam": "76561198928789325",
-      "Score": 39,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "MAMA",
       "Steam": "76561198662629147",
-      "Score": 22,
-      "Time": "05:57"
+      "Score": 31,
+      "Time": "07:57"
     },
     {
       "Name": "parties",
       "Steam": "76561199548350350",
-      "Score": 0,
-      "Time": "12:50"
-    },
-    {
-      "Name": "torzsi",
-      "Steam": "76561198663552322",
-      "Score": 28,
-      "Time": "00:58"
-    },
-    {
-      "Name": "claudiu",
-      "Steam": "76561199867665784",
-      "Score": 0,
-      "Time": "00:05"
+      "Score": 10,
+      "Time": "14:50"
     }
   ]
 }
