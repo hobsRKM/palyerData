@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-05T21:13:18.7605709Z",
+  "Time": "2026-08-05T21:15:18.7582315Z",
   "Players": [
+    {
+      "Name": "isakninja7",
+      "Steam": "76561199442752021",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "bemiancastillomore1978",
       "Steam": "76561198678258830",
-      "Score": 17,
-      "Time": "19:07"
+      "Score": 19,
+      "Time": "21:07"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 29,
-      "Time": "07:47"
+      "Score": 37,
+      "Time": "09:47"
     },
     {
       "Name": "my scene is back",
       "Steam": "76561198721210083",
-      "Score": 20,
-      "Time": "11:22"
+      "Score": 26,
+      "Time": "13:22"
     },
     {
       "Name": "ghost",
       "Steam": "76561199109285801",
-      "Score": 6,
-      "Time": "03:00"
+      "Score": 10,
+      "Time": "05:00"
     },
     {
       "Name": "Hops",
@@ -34,13 +40,13 @@
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 24,
-      "Time": "07:48"
+      "Score": 33,
+      "Time": "09:48"
     },
     {
       "Name": "homicide",
       "Steam": "76561198694994433",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
