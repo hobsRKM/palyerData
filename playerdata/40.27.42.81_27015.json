@@ -1,14 +1,32 @@
 {
-  "Time": "2026-08-05T21:41:18.7557447Z",
+  "Time": "2026-08-05T21:43:18.7669142Z",
   "Players": [
+    {
+      "Name": "mikko_stilla",
+      "Steam": "76561198751725387",
+      "Score": 0,
+      "Time": "00:38"
+    },
+    {
+      "Name": "Daylyt (◣_◢)",
+      "Steam": "76561199063655334",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "torzsi",
+      "Steam": "76561198663552322",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "not kodak black",
       "Steam": "76561199867905050",
-      "Score": 0,
-      "Time": "00:10"
+      "Score": 10,
+      "Time": "02:10"
     },
     {
-      "Name": "Lua Testin Mr.Squirrel_Man",
+      "Name": "Lua Te Mr.Squirrel_Man",
       "Steam": "76561198161326655",
       "Score": 4,
       "Time": "??:??"
@@ -22,7 +40,7 @@
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 9,
+      "Score": 12,
       "Time": "??:??"
     },
     {
@@ -32,22 +50,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "Doug Loko =P",
+      "Steam": "76561198008489030",
+      "Score": 2,
+      "Time": "254:50"
+    },
+    {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 19,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "Zyre",
       "Steam": "76561198688916793",
-      "Score": 15,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Masiwei",
       "Steam": "76561199712427690",
-      "Score": 46,
-      "Time": "18:27"
+      "Score": 56,
+      "Time": "20:27"
     }
   ]
 }
