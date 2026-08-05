@@ -1,16 +1,22 @@
 {
-  "Time": "2026-08-05T13:41:18.7632325Z",
+  "Time": "2026-08-05T13:43:18.7628086Z",
   "Players": [
+    {
+      "Name": "fatgayman61",
+      "Steam": "76561198760213116",
+      "Score": 4,
+      "Time": "01:53"
+    },
     {
       "Name": "bemiancastillomore1978",
       "Steam": "76561198678258830",
-      "Score": 18,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "MAMA",
       "Steam": "76561198662629147",
-      "Score": 73,
+      "Score": 79,
       "Time": "??:??"
     },
     {
@@ -28,13 +34,13 @@
     {
       "Name": "raxad66822",
       "Steam": "76561198663569010",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "sage",
       "Steam": "76561199138283513",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
