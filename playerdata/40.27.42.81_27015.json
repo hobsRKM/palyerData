@@ -1,16 +1,16 @@
 {
-  "Time": "2026-08-05T05:11:35.4641637Z",
+  "Time": "2026-08-05T05:13:35.5645022Z",
   "Players": [
     {
       "Name": "sage",
       "Steam": "76561199138283513",
-      "Score": 22,
-      "Time": "22:51"
+      "Score": 30,
+      "Time": "24:51"
     },
     {
       "Name": "444",
       "Steam": "76561199471107546",
-      "Score": 19,
+      "Score": 34,
       "Time": "??:??"
     },
     {
@@ -20,46 +20,52 @@
       "Time": "??:??"
     },
     {
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
+      "Score": 0,
+      "Time": "00:02"
+    },
+    {
       "Name": "xmpp",
       "Steam": "76561198263749290",
-      "Score": 3,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Sadly",
+      "Steam": "76561198094259899",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "tdf",
       "Steam": "76561198877096926",
-      "Score": 26,
-      "Time": "374:33"
-    },
-    {
-      "Name": "Inmundicia",
-      "Steam": "76561198136154771",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 28,
+      "Time": "376:33"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
       "Score": 52,
-      "Time": "145:26"
+      "Time": "147:26"
     },
     {
       "Name": "RichardCS",
       "Steam": "76561198700148165",
-      "Score": 50,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 82,
+      "Score": 100,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 30,
-      "Time": "600:48"
+      "Score": 38,
+      "Time": "602:48"
     }
   ]
 }
