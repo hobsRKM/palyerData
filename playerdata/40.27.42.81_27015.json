@@ -1,46 +1,64 @@
 {
-  "Time": "2026-08-05T04:47:34.1114862Z",
+  "Time": "2026-08-05T04:49:34.2936847Z",
   "Players": [
+    {
+      "Name": "sage",
+      "Steam": "76561199138283513",
+      "Score": 0,
+      "Time": "00:50"
+    },
     {
       "Name": "444",
       "Steam": "76561199471107546",
-      "Score": 44,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 81,
+      "Score": 93,
       "Time": "??:??"
     },
     {
       "Name": "faith",
       "Steam": "76561198673536810",
-      "Score": 49,
-      "Time": "184:12"
+      "Score": 55,
+      "Time": "186:12"
+    },
+    {
+      "Name": "WinRAR",
+      "Steam": "76561199217772695",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 93,
+      "Score": 97,
       "Time": "??:??"
+    },
+    {
+      "Name": "Mr. Penis",
+      "Steam": "76561199193748030",
+      "Score": 0,
+      "Time": "159:15"
     },
     {
       "Name": "tdf",
       "Steam": "76561198877096926",
-      "Score": 19,
-      "Time": "350:31"
+      "Score": 27,
+      "Time": "352:32"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 58,
-      "Time": "121:25"
+      "Score": 60,
+      "Time": "123:25"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 186,
+      "Score": 190,
       "Time": "??:??"
     }
   ]
