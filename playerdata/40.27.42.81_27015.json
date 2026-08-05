@@ -1,89 +1,107 @@
 {
-  "Time": "2026-08-04T23:29:29.0106109Z",
+  "Time": "2026-08-04T23:31:29.0202806Z",
   "Players": [
+    {
+      "Name": "dev",
+      "Steam": "76561199124248983",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 11,
-      "Time": "03:48"
+      "Score": 16,
+      "Time": "05:48"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 91,
-      "Time": "45:06"
+      "Score": 93,
+      "Time": "47:06"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 51,
-      "Time": "13:52"
-    },
-    {
-      "Name": "restless nights",
-      "Steam": "76561198744712586",
-      "Score": 15,
-      "Time": "??:??"
+      "Score": 53,
+      "Time": "15:52"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 38,
-      "Time": "10:54"
+      "Score": 48,
+      "Time": "12:54"
+    },
+    {
+      "Name": "alfhis010203",
+      "Steam": "76561198767407153",
+      "Score": 0,
+      "Time": "09:34"
     },
     {
       "Name": "Jxnior . #1 Skeet Beta #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 143,
-      "Time": "42:21"
+      "Score": 144,
+      "Time": "44:21"
     },
     {
       "Name": "qyxni",
       "Steam": "76561199233330611",
-      "Score": 74,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "Von",
       "Steam": "76561198819683930",
-      "Score": 29,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 64,
-      "Time": "251:28"
+      "Score": 77,
+      "Time": "253:28"
+    },
+    {
+      "Name": "johnathon",
+      "Steam": "76561199336126493",
+      "Score": 8,
+      "Time": "??:??"
     },
     {
       "Name": "adsasdasdasd",
       "Steam": "76561199668744773",
-      "Score": 44,
+      "Score": 49,
       "Time": "??:??"
     },
     {
       "Name": "Kaori <3",
       "Steam": "76561198050195107",
-      "Score": 20,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "homicide",
+      "Steam": "76561198694994433",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "MAMA",
       "Steam": "76561198662629147",
-      "Score": 61,
-      "Time": "19:57"
+      "Score": 63,
+      "Time": "21:57"
     },
     {
       "Name": "$velo NoAA",
       "Steam": "76561198663461274",
       "Score": 1,
-      "Time": "09:36"
+      "Time": "11:36"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 35,
-      "Time": "00:48"
+      "Score": 39,
+      "Time": "02:48"
     }
   ]
 }
