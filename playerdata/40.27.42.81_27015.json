@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-05T15:01:18.7556666Z",
+  "Time": "2026-08-05T15:03:18.7500833Z",
   "Players": [
+    {
+      "Name": "bleood tap",
+      "Steam": "76561198918924291",
+      "Score": 6,
+      "Time": "01:59"
+    },
     {
       "Name": "bemiancastillomore1978",
       "Steam": "76561198678258830",
-      "Score": 9,
-      "Time": "09:21"
+      "Score": 21,
+      "Time": "11:21"
     },
     {
       "Name": "SMG!!!",
       "Steam": "76561198776360200",
-      "Score": 0,
-      "Time": "00:43"
+      "Score": 2,
+      "Time": "02:43"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 81,
-      "Time": "24:06"
+      "Score": 93,
+      "Time": "26:06"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 44,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "BALE_PSO",
       "Steam": "76561198792425456",
-      "Score": 3,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
