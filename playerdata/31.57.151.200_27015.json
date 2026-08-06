@@ -1,35 +1,23 @@
 {
-  "Time": "2026-08-06T18:24:59.1662126Z",
+  "Time": "2026-08-06T18:25:31.1350443Z",
   "Players": [
     {
-      "Name": "cnnjiu",
-      "Steam": "76561198673779906",
+      "Name": "Fakality.swin",
+      "Steam": "76561198719472375",
+      "Score": 44,
+      "Time": "16:00"
+    },
+    {
+      "Name": "globalgamemanagers.assets.Mihari",
+      "Steam": "76561198726241692",
+      "Score": 48,
+      "Time": "15:38"
+    },
+    {
+      "Name": "Zyphix",
+      "Steam": "76561199006994641",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "nowhere",
-      "Steam": "76561198759124369",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "e",
-      "Steam": "76561198674300118",
-      "Score": 23,
-      "Time": "??:??"
-    },
-    {
-      "Name": "intel",
-      "Steam": "76561199557329918",
-      "Score": 41,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Ядёрний Кіт",
-      "Steam": "76561198661967777",
-      "Score": 4,
-      "Time": "04:52"
     }
   ]
 }
