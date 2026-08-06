@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-06T17:05:34.4735089Z",
+  "Time": "2026-08-06T17:07:34.4798882Z",
   "Players": [
+    {
+      "Name": "itssmg",
+      "Steam": "76561198741686817",
+      "Score": 1,
+      "Time": "01:21"
+    },
     {
       "Name": "Thighs enjoyer",
       "Steam": "76561198661626582",
-      "Score": 3,
-      "Time": "47:02"
+      "Score": 4,
+      "Time": "49:02"
     },
     {
       "Name": "xtc",
       "Steam": "76561199125572569",
-      "Score": 55,
-      "Time": "56:22"
+      "Score": 69,
+      "Time": "58:22"
     },
     {
       "Name": "catboy :3",
       "Steam": "76561198780323130",
       "Score": 23,
-      "Time": "07:13"
+      "Time": "09:14"
     },
     {
       "Name": "tate",
@@ -28,38 +34,32 @@
     {
       "Name": "riotsurge",
       "Steam": "76561198734560736",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "MudCrab Labs",
       "Steam": "76561199644688658",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Arash",
-      "Steam": "76561198749493930",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 99,
-      "Time": "38:12"
+      "Score": 111,
+      "Time": "40:12"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 70,
-      "Time": "15:02"
+      "Score": 88,
+      "Time": "17:02"
     }
   ]
 }
