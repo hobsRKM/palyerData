@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-05T23:41:18.9504067Z",
+  "Time": "2026-08-05T23:43:19.0084347Z",
   "Players": [
+    {
+      "Name": "';;;;;",
+      "Steam": "76561198661686602",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "\uD835\uDC1A\uD835\uDC25\uD835\uDC22\uD835\uDC2D\uD835\uDC32\uD835\uDC1F\uD835\uDC1A\uD835\uDC2D | meth",
       "Steam": "76561199153754054",
-      "Score": 17,
-      "Time": "417:13"
+      "Score": 19,
+      "Time": "419:13"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 21,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 67,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "Hitless",
       "Steam": "76561199812153393",
       "Score": 0,
-      "Time": "01:35"
+      "Time": "03:35"
     },
     {
       "Name": "Hops",
@@ -32,28 +38,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "Doug Loko =P",
+      "Steam": "76561198008489030",
+      "Score": 0,
+      "Time": "01:11"
+    },
+    {
       "Name": "sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
-      "Score": 11,
-      "Time": "02:16"
+      "Score": 16,
+      "Time": "04:16"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198050195107",
-      "Score": 6,
-      "Time": "14:26"
+      "Score": 11,
+      "Time": "16:26"
     },
     {
       "Name": "x",
       "Steam": "76561198720554985",
-      "Score": 6,
-      "Time": "03:33"
+      "Score": 10,
+      "Time": "05:33"
     },
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 32,
-      "Time": "89:00"
+      "Score": 36,
+      "Time": "91:00"
     }
   ]
 }
