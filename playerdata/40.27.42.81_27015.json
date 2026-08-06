@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-06T22:25:35.0923705Z",
+  "Time": "2026-08-06T22:27:35.1297048Z",
   "Players": [
+    {
+      "Name": "Kaori <3",
+      "Steam": "76561198050195107",
+      "Score": 2,
+      "Time": "00:59"
+    },
     {
       "Name": "x",
       "Steam": "76561198720554985",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "mason.exe",
       "Steam": "76561199118167208",
-      "Score": 9,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "saxyy",
       "Steam": "76561198675296618",
-      "Score": 30,
-      "Time": "66:16"
+      "Score": 36,
+      "Time": "68:16"
     },
     {
       "Name": "VEN",
       "Steam": "76561199121960809",
-      "Score": 19,
-      "Time": "02:57"
+      "Score": 27,
+      "Time": "04:57"
     },
     {
       "Name": "bazinga11333",
@@ -34,26 +40,26 @@
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 66,
-      "Time": "30:40"
+      "Score": 71,
+      "Time": "32:40"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 19,
-      "Time": "02:32"
+      "Score": 22,
+      "Time": "04:32"
     },
     {
-      "Name": "luke14days",
-      "Steam": "76561198740895191",
-      "Score": 58,
-      "Time": "??:??"
+      "Name": "future",
+      "Steam": "76561198719208449",
+      "Score": 0,
+      "Time": "01:05"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 82,
-      "Time": "153:02"
+      "Score": 90,
+      "Time": "155:02"
     }
   ]
 }
