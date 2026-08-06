@@ -1,53 +1,77 @@
 {
-  "Time": "2026-08-06T05:53:30.5357632Z",
+  "Time": "2026-08-06T05:55:30.5743419Z",
   "Players": [
+    {
+      "Name": "0x502",
+      "Steam": "76561199818977142",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Genesis",
       "Steam": "76561199471107546",
-      "Score": 3,
-      "Time": "120:25"
+      "Score": 10,
+      "Time": "122:25"
+    },
+    {
+      "Name": "Zyron",
+      "Steam": "76561199475441256",
+      "Score": 1,
+      "Time": "??:??"
     },
     {
       "Name": "bunnyluvr",
       "Steam": "76561198666020609",
-      "Score": 0,
-      "Time": "70:46"
+      "Score": 2,
+      "Time": "72:46"
+    },
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 5,
+      "Time": "282:10"
     },
     {
       "Name": "NO LA PIENSO Y DISPARO",
       "Steam": "76561198740560248",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "seanbob13",
+      "Steam": "76561198054015697",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 4,
-      "Time": "122:13"
+      "Score": 5,
+      "Time": "124:13"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 1,
-      "Time": "13:11"
+      "Score": 3,
+      "Time": "15:11"
     },
     {
       "Name": "i_am_a_pedo123",
       "Steam": "76561199887239492",
-      "Score": 4,
-      "Time": "05:34"
+      "Score": 5,
+      "Time": "07:34"
     },
     {
       "Name": "give me sugar in water",
       "Steam": "76561199511328930",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 4,
-      "Time": "352:05"
+      "Score": 11,
+      "Time": "354:05"
     }
   ]
 }
