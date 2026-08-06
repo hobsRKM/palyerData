@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-06T20:07:34.5509919Z",
+  "Time": "2026-08-06T20:09:34.5503544Z",
   "Players": [
+    {
+      "Name": "itssmg",
+      "Steam": "76561198741686817",
+      "Score": 2,
+      "Time": "01:45"
+    },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Zyron",
       "Steam": "76561199475441256",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "Jbeezy",
       "Steam": "76561199812415276",
-      "Score": 44,
-      "Time": "13:11"
+      "Score": 46,
+      "Time": "15:11"
     },
     {
       "Name": "Курва#Bummerrust",
@@ -34,38 +40,44 @@
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 18,
-      "Time": "03:11"
+      "Score": 6,
+      "Time": "05:11"
+    },
+    {
+      "Name": "tate",
+      "Steam": "76561198059477947",
+      "Score": 0,
+      "Time": "00:29"
     },
     {
       "Name": "lucian",
       "Steam": "76561199527169842",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "xisythgie",
       "Steam": "76561198819683930",
-      "Score": 43,
-      "Time": "13:15"
+      "Score": 45,
+      "Time": "15:15"
     },
     {
       "Name": "vvv",
       "Steam": "76561199886410001",
-      "Score": 22,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 78,
-      "Time": "17:43"
+      "Score": 87,
+      "Time": "19:43"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 57,
-      "Time": "15:01"
+      "Score": 62,
+      "Time": "17:01"
     }
   ]
 }
