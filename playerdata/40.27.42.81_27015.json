@@ -1,59 +1,65 @@
 {
-  "Time": "2026-08-06T04:17:27.0032945Z",
+  "Time": "2026-08-06T04:19:27.0212214Z",
   "Players": [
+    {
+      "Name": "Gee",
+      "Steam": "76561199151161332",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "ouch",
       "Steam": "76561198756595271",
-      "Score": 59,
-      "Time": "24:44"
+      "Score": 66,
+      "Time": "26:44"
     },
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 44,
-      "Time": "168:24"
+      "Score": 48,
+      "Time": "170:24"
     },
     {
       "Name": "Genesis",
       "Steam": "76561199471107546",
-      "Score": 88,
-      "Time": "24:22"
+      "Score": 100,
+      "Time": "26:22"
     },
     {
       "Name": "bunnyluvr",
       "Steam": "76561198666020609",
-      "Score": 29,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 143,
-      "Time": "26:09"
+      "Score": 150,
+      "Time": "28:09"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 29,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "R e b i r t h",
       "Steam": "76561199487599165",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 68,
-      "Time": "16:36"
+      "Score": 74,
+      "Time": "18:36"
     },
     {
       "Name": "Real shit no gay shit",
       "Steam": "76561199100343450",
-      "Score": 88,
-      "Time": "31:26"
+      "Score": 90,
+      "Time": "33:26"
     }
   ]
 }
