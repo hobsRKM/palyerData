@@ -1,11 +1,11 @@
 {
-  "Time": "2026-08-06T00:45:20.5813421Z",
+  "Time": "2026-08-06T00:47:20.697727Z",
   "Players": [
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 70,
-      "Time": "38:44"
+      "Score": 76,
+      "Time": "40:44"
     },
     {
       "Name": "ouch",
@@ -16,62 +16,68 @@
     {
       "Name": "DaBest",
       "Steam": "76561198785175812",
-      "Score": 52,
-      "Time": "57:11"
+      "Score": 54,
+      "Time": "59:11"
     },
     {
       "Name": "Genesis",
       "Steam": "76561199471107546",
-      "Score": 7,
-      "Time": "58:32"
+      "Score": 17,
+      "Time": "60:32"
+    },
+    {
+      "Name": "./machi.sh",
+      "Steam": "76561198778457368",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 51,
-      "Time": "50:28"
+      "Score": 55,
+      "Time": "52:28"
     },
     {
       "Name": "Jxnior . #1 Skeet Beta #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 51,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "bleood tap",
       "Steam": "76561198918924291",
-      "Score": 20,
-      "Time": "404:45"
+      "Score": 24,
+      "Time": "406:45"
     },
     {
       "Name": "Mister-legolas",
       "Steam": "76561198986130245",
-      "Score": 6,
-      "Time": "452:43"
+      "Score": 8,
+      "Time": "454:43"
     },
     {
       "Name": "Kane",
       "Steam": "76561199051198506",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 119,
+      "Score": 135,
       "Time": "??:??"
     },
     {
       "Name": "metro",
       "Steam": "76561199007818126",
-      "Score": 3,
-      "Time": "244:43"
+      "Score": 7,
+      "Time": "246:43"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198050195107",
-      "Score": 12,
-      "Time": "49:01"
+      "Score": 14,
+      "Time": "51:01"
     }
   ]
 }
