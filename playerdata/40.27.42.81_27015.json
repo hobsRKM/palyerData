@@ -1,11 +1,17 @@
 {
-  "Time": "2026-08-06T20:31:34.6432964Z",
+  "Time": "2026-08-06T20:33:34.6425908Z",
   "Players": [
+    {
+      "Name": "Zyre",
+      "Steam": "76561198688916793",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 37,
-      "Time": "13:37"
+      "Score": 45,
+      "Time": "15:37"
     },
     {
       "Name": "user",
@@ -23,55 +29,43 @@
       "Name": "MemeLord",
       "Steam": "76561198662675614",
       "Score": 16,
-      "Time": "173:43"
+      "Time": "175:43"
     },
     {
       "Name": "Jbeezy",
       "Steam": "76561199812415276",
-      "Score": 61,
-      "Time": "37:11"
+      "Score": 67,
+      "Time": "39:11"
     },
     {
       "Name": "VEN",
       "Steam": "76561199121960809",
-      "Score": 41,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 29,
-      "Time": "27:11"
-    },
-    {
-      "Name": "Souləs",
-      "Steam": "76561198305558094",
-      "Score": 44,
-      "Time": "??:??"
+      "Score": 34,
+      "Time": "29:11"
     },
     {
       "Name": "xisythgie",
       "Steam": "76561198819683930",
-      "Score": 75,
-      "Time": "37:15"
+      "Score": 85,
+      "Time": "39:15"
     },
     {
       "Name": "future",
       "Steam": "76561198719208449",
-      "Score": 66,
-      "Time": "15:30"
-    },
-    {
-      "Name": "Razor",
-      "Steam": "76561199015858739",
-      "Score": 4,
-      "Time": "03:14"
+      "Score": 71,
+      "Time": "17:30"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 68,
-      "Time": "39:01"
+      "Score": 74,
+      "Time": "41:01"
     }
   ]
 }
