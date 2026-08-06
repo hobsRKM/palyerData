@@ -1,11 +1,17 @@
 {
-  "Time": "2026-08-06T19:05:34.5262628Z",
+  "Time": "2026-08-06T19:07:34.5287834Z",
   "Players": [
+    {
+      "Name": "itssmg",
+      "Steam": "76561198741686817",
+      "Score": 0,
+      "Time": "00:29"
+    },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 27,
-      "Time": "06:34"
+      "Score": 35,
+      "Time": "08:34"
     },
     {
       "Name": "Jbeezy",
@@ -16,19 +22,13 @@
     {
       "Name": "✪ANTISKEETSYSTEMS✪",
       "Steam": "76561199778070124",
-      "Score": 0,
+      "Score": 13,
       "Time": "??:??"
-    },
-    {
-      "Name": "NoAA",
-      "Steam": "76561198663461274",
-      "Score": 0,
-      "Time": "06:02"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 34,
+      "Score": 40,
       "Time": "??:??"
     }
   ]
