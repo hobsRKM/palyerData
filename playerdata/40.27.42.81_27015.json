@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-06T06:01:30.6812693Z",
+  "Time": "2026-08-06T06:03:30.798275Z",
   "Players": [
     {
       "Name": "0x502",
       "Steam": "76561199818977142",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Genesis",
       "Steam": "76561199471107546",
-      "Score": 31,
-      "Time": "128:26"
+      "Score": 40,
+      "Time": "130:26"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 4,
-      "Time": "06:48"
+      "Score": 6,
+      "Time": "08:48"
+    },
+    {
+      "Name": "parties",
+      "Steam": "76561199548350350",
+      "Score": 0,
+      "Time": "01:31"
     },
     {
       "Name": "Zyron",
@@ -28,14 +34,14 @@
     {
       "Name": "bunnyluvr",
       "Steam": "76561198666020609",
-      "Score": 10,
-      "Time": "78:46"
+      "Score": 16,
+      "Time": "80:46"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 25,
-      "Time": "288:10"
+      "Score": 33,
+      "Time": "290:10"
     },
     {
       "Name": "NO LA PIENSO Y DISPARO",
@@ -46,32 +52,32 @@
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 32,
-      "Time": "130:13"
+      "Score": 46,
+      "Time": "132:13"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 11,
-      "Time": "21:11"
+      "Score": 15,
+      "Time": "23:11"
     },
     {
       "Name": "i_am_a_pedo123",
       "Steam": "76561199887239492",
-      "Score": 19,
-      "Time": "13:34"
+      "Score": 21,
+      "Time": "15:34"
     },
     {
       "Name": "give me sugar in water",
       "Steam": "76561199511328930",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 39,
-      "Time": "360:05"
+      "Score": 47,
+      "Time": "362:05"
     }
   ]
 }
