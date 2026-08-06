@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-06T05:07:28.6432205Z",
+  "Time": "2026-08-06T05:09:28.7896008Z",
   "Players": [
     {
       "Name": "magix772",
       "Steam": "76561198776538045",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "ouch",
+      "Steam": "76561198756595271",
+      "Score": 4,
+      "Time": "00:47"
     },
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 63,
-      "Time": "218:26"
+      "Score": 70,
+      "Time": "220:26"
     },
     {
       "Name": "Genesis",
       "Steam": "76561199471107546",
-      "Score": 30,
-      "Time": "74:24"
+      "Score": 39,
+      "Time": "76:24"
     },
     {
       "Name": "parties",
       "Steam": "76561199548350350",
-      "Score": 0,
-      "Time": "338:42"
+      "Score": 6,
+      "Time": "340:42"
     },
     {
       "Name": "snix :3",
@@ -34,61 +40,55 @@
     {
       "Name": "\uDB40\uDC73 ⁧lovesick",
       "Steam": "76561199258689499",
-      "Score": 36,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "bunnyluvr",
       "Steam": "76561198666020609",
-      "Score": 21,
-      "Time": "24:44"
+      "Score": 23,
+      "Time": "26:44"
     },
     {
       "Name": "bleood tap",
       "Steam": "76561198918924291",
-      "Score": 25,
-      "Time": "15:21"
+      "Score": 31,
+      "Time": "17:21"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 66,
-      "Time": "76:11"
+      "Score": 79,
+      "Time": "78:11"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 36,
-      "Time": "23:30"
+      "Score": 47,
+      "Time": "25:30"
+    },
+    {
+      "Name": "JINX",
+      "Steam": "76561198662576775",
+      "Score": 0,
+      "Time": "01:11"
     },
     {
       "Name": "beartoker™",
       "Steam": "76561199290398734",
-      "Score": 17,
-      "Time": "15:52"
-    },
-    {
-      "Name": "FutaFartMaster",
-      "Steam": "76561199878430154",
-      "Score": 10,
-      "Time": "216:06"
+      "Score": 30,
+      "Time": "17:53"
     },
     {
       "Name": "fond your farewell",
       "Steam": "76561198687653741",
-      "Score": 18,
-      "Time": "61:50"
+      "Score": 20,
+      "Time": "63:50"
     },
     {
       "Name": "Veyra",
       "Steam": "76561199087074235",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "baka",
-      "Steam": "76561199525552573",
-      "Score": 1,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
