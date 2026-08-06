@@ -1,17 +1,23 @@
 {
-  "Time": "2026-08-06T06:29:31.7807282Z",
+  "Time": "2026-08-06T06:31:31.8658743Z",
   "Players": [
     {
       "Name": "Genesis",
       "Steam": "76561199471107546",
-      "Score": 120,
-      "Time": "156:27"
+      "Score": 130,
+      "Time": "158:27"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 103,
-      "Time": "34:49"
+      "Score": 112,
+      "Time": "36:49"
+    },
+    {
+      "Name": "runner",
+      "Steam": "76561198679370981",
+      "Score": 0,
+      "Time": "537:40"
     },
     {
       "Name": "fairytale",
@@ -22,50 +28,44 @@
     {
       "Name": "Zyron",
       "Steam": "76561199475441256",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "bunnyluvr",
       "Steam": "76561198666020609",
-      "Score": 53,
-      "Time": "106:47"
+      "Score": 55,
+      "Time": "108:47"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 181,
-      "Time": "158:14"
+      "Score": 186,
+      "Time": "160:14"
     },
     {
       "Name": "[_❤__] pawjob",
       "Steam": "76561199847301652",
       "Score": 1,
-      "Time": "01:51"
+      "Time": "03:51"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 47,
-      "Time": "49:12"
+      "Score": 49,
+      "Time": "51:12"
     },
     {
       "Name": "Phalanges",
       "Steam": "76561199148432787",
-      "Score": 2,
-      "Time": "60:28"
+      "Score": 3,
+      "Time": "62:28"
     },
     {
       "Name": "give me sugar in water",
       "Steam": "76561199511328930",
-      "Score": 85,
+      "Score": 93,
       "Time": "??:??"
-    },
-    {
-      "Name": "Shux",
-      "Steam": "76561199170636130",
-      "Score": 114,
-      "Time": "388:06"
     }
   ]
 }
