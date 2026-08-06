@@ -1,58 +1,64 @@
 {
-  "Time": "2026-08-06T06:43:32.3884311Z",
+  "Time": "2026-08-06T06:45:32.4599922Z",
   "Players": [
+    {
+      "Name": "Zeus Master",
+      "Steam": "76561198308340304",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "MJLJG",
       "Steam": "76561199652128011",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "lapa!",
       "Steam": "76561199724756247",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 35,
-      "Time": "48:50"
+      "Score": 57,
+      "Time": "50:50"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 23,
-      "Time": "549:41"
+      "Score": 38,
+      "Time": "551:41"
+    },
+    {
+      "Name": "Zyron",
+      "Steam": "76561199475441256",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "bunnyluvr",
       "Steam": "76561198666020609",
       "Score": 16,
-      "Time": "120:48"
+      "Time": "122:48"
     },
     {
       "Name": "sn1per HvH",
       "Steam": "76561198131038090",
-      "Score": 3,
-      "Time": "01:14"
+      "Score": 4,
+      "Time": "01:31"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 18,
-      "Time": "837:15"
-    },
-    {
-      "Name": "[_❤__] pawjob",
-      "Steam": "76561199847301652",
-      "Score": 2,
-      "Time": "05:41"
+      "Score": 26,
+      "Time": "839:15"
     },
     {
       "Name": "ecco",
       "Steam": "76561199203151263",
-      "Score": 9,
+      "Score": 11,
       "Time": "??:??"
     }
   ]
