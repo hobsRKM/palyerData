@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-06T05:37:30.1227365Z",
+  "Time": "2026-08-06T05:39:30.1363237Z",
   "Players": [
     {
       "Name": "Genesis",
       "Steam": "76561199471107546",
-      "Score": 6,
-      "Time": "104:25"
+      "Score": 9,
+      "Time": "106:25"
     },
     {
       "Name": "bunnyluvr",
       "Steam": "76561198666020609",
       "Score": 10,
-      "Time": "54:46"
+      "Time": "56:46"
     },
     {
       "Name": "Benz",
       "Steam": "76561198689816963",
-      "Score": 27,
-      "Time": "106:12"
+      "Score": 32,
+      "Time": "108:12"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 18,
-      "Time": "53:32"
+      "Score": 20,
+      "Time": "55:32"
+    },
+    {
+      "Name": "give me sugar in water",
+      "Steam": "76561199511328930",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Shux",
       "Steam": "76561199170636130",
-      "Score": 6,
-      "Time": "336:04"
+      "Score": 25,
+      "Time": "338:04"
     }
   ]
 }
