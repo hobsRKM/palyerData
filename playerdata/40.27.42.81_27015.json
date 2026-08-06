@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-06T08:45:37.9329304Z",
+  "Time": "2026-08-06T08:47:38.0263863Z",
   "Players": [
     {
       "Name": "parties",
       "Steam": "76561199548350350",
-      "Score": 53,
-      "Time": "22:22"
+      "Score": 58,
+      "Time": "24:22"
+    },
+    {
+      "Name": "MAMA",
+      "Steam": "76561198662629147",
+      "Score": 19,
+      "Time": "01:40"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 1,
-      "Time": "33:34"
+      "Score": 7,
+      "Time": "35:34"
     },
     {
       "Name": "Veyra",
       "Steam": "76561199087074235",
-      "Score": 37,
-      "Time": "69:50"
+      "Score": 39,
+      "Time": "71:50"
     },
     {
       "Name": "VAC LIVE BETA TEST",
@@ -28,13 +34,13 @@
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 99,
-      "Time": "13:11"
+      "Score": 111,
+      "Time": "15:11"
     },
     {
       "Name": "Tire",
       "Steam": "76561198391648606",
-      "Score": 30,
+      "Score": 32,
       "Time": "??:??"
     }
   ]
