@@ -1,35 +1,47 @@
 {
-  "Time": "2026-08-06T19:47:34.5354488Z",
+  "Time": "2026-08-06T19:49:34.5287668Z",
   "Players": [
     {
       "Name": "usb",
       "Steam": "76561198728274003",
-      "Score": 16,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 8,
-      "Time": "07:52"
+      "Score": 18,
+      "Time": "09:52"
     },
     {
       "Name": "FutaFartMaster",
       "Steam": "76561199878430154",
-      "Score": 10,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lucian",
+      "Steam": "76561199527169842",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 10,
-      "Time": "11:50"
+      "Score": 17,
+      "Time": "13:50"
     },
     {
       "Name": "restless nights",
       "Steam": "76561198744712586",
-      "Score": 17,
-      "Time": "04:24"
+      "Score": 25,
+      "Time": "06:24"
+    },
+    {
+      "Name": "vvv",
+      "Steam": "76561199886410001",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
