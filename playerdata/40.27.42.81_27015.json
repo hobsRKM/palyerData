@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-07T18:23:27.8153079Z",
+  "Time": "2026-08-07T18:25:27.8145168Z",
   "Players": [
     {
-      "Name": "MudCrab Labs",
-      "Steam": "76561199644688658",
+      "Name": "639",
+      "Steam": "76561199628740692",
+      "Score": 7,
+      "Time": "47:23"
+    },
+    {
+      "Name": "ol9iva",
+      "Steam": "76561198706591112",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "639",
-      "Steam": "76561199628740692",
-      "Score": 2,
-      "Time": "45:23"
+      "Name": "Gamesensical genius",
+      "Steam": "76561199580355122",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
-      "Name": "cool cat",
-      "Steam": "76561199125572569",
+      "Name": "Silly :3",
+      "Steam": "76561199812153393",
       "Score": 0,
-      "Time": "84:47"
+      "Time": "01:48"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 0,
-      "Time": "31:07"
+      "Score": 15,
+      "Time": "33:07"
     }
   ]
 }
