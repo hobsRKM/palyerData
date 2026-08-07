@@ -1,47 +1,53 @@
 {
-  "Time": "2026-08-07T19:11:27.8272613Z",
+  "Time": "2026-08-07T19:13:27.8254677Z",
   "Players": [
+    {
+      "Name": "Masiwei",
+      "Steam": "76561199712427690",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "Afro God",
       "Steam": "76561199412913689",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "china #1",
       "Steam": "76561199158419168",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Toxiss",
       "Steam": "76561198127608052",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Jbeezy",
       "Steam": "76561199812415276",
-      "Score": 45,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "xisythgie",
       "Steam": "76561198819683930",
-      "Score": 6,
-      "Time": "04:06"
+      "Score": 8,
+      "Time": "06:06"
     },
     {
       "Name": "Macpo",
       "Steam": "76561198277172444",
-      "Score": 5,
-      "Time": "14:43"
+      "Score": 7,
+      "Time": "16:43"
     }
   ]
 }
