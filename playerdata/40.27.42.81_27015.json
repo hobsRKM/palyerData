@@ -1,65 +1,71 @@
 {
-  "Time": "2026-08-07T20:17:27.8785508Z",
+  "Time": "2026-08-07T20:19:27.8992113Z",
   "Players": [
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 18,
-      "Time": "01:43"
+      "Score": 25,
+      "Time": "03:43"
+    },
+    {
+      "Name": "ZaneWasGambler",
+      "Steam": "76561198728312358",
+      "Score": 0,
+      "Time": "05:50"
     },
     {
       "Name": "fenderwolf13",
       "Steam": "76561198660184411",
       "Score": 4,
-      "Time": "09:28"
+      "Time": "11:28"
     },
     {
       "Name": "meeshysan",
       "Steam": "76561199174891460",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "f0id_r8per_333",
       "Steam": "76561198745915729",
-      "Score": 26,
-      "Time": "16:12"
+      "Score": 32,
+      "Time": "18:12"
     },
     {
       "Name": "beartoker™",
       "Steam": "76561199290398734",
-      "Score": 25,
-      "Time": "244:41"
+      "Score": 31,
+      "Time": "246:41"
     },
     {
       "Name": "ghost",
       "Steam": "76561199109285801",
-      "Score": 10,
-      "Time": "36:14"
+      "Score": 11,
+      "Time": "38:14"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 29,
-      "Time": "14:42"
+      "Score": 34,
+      "Time": "16:42"
     },
     {
       "Name": "Jbeezy",
       "Steam": "76561199812415276",
-      "Score": 3,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "xisythgie",
       "Steam": "76561198819683930",
-      "Score": 26,
-      "Time": "70:06"
+      "Score": 38,
+      "Time": "72:06"
     },
     {
       "Name": "Macpo",
       "Steam": "76561198277172444",
       "Score": 3,
-      "Time": "80:43"
+      "Time": "82:43"
     }
   ]
 }
