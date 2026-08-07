@@ -1,47 +1,35 @@
 {
-  "Time": "2026-08-07T17:59:27.8266487Z",
+  "Time": "2026-08-07T18:01:27.8248156Z",
   "Players": [
-    {
-      "Name": "runner",
-      "Steam": "76561198679370981",
-      "Score": 13,
-      "Time": "??:??"
-    },
     {
       "Name": "639",
       "Steam": "76561199628740692",
-      "Score": 3,
-      "Time": "21:24"
+      "Score": 10,
+      "Time": "23:24"
     },
     {
       "Name": "faith",
       "Steam": "76561199125572569",
-      "Score": 17,
-      "Time": "60:47"
+      "Score": 35,
+      "Time": "62:47"
     },
     {
       "Name": "Elysium",
       "Steam": "76561199066575195",
-      "Score": 4,
-      "Time": "04:46"
+      "Score": 6,
+      "Time": "06:46"
     },
     {
       "Name": "saxyy",
       "Steam": "76561198675296618",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
-    },
-    {
-      "Name": "stick talk",
-      "Steam": "76561198364151338",
-      "Score": 4,
-      "Time": "02:03"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 10,
-      "Time": "07:07"
+      "Score": 16,
+      "Time": "09:07"
     }
   ]
 }
