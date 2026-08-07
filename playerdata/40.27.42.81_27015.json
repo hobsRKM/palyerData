@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-07T18:33:27.8204664Z",
+  "Time": "2026-08-07T18:35:27.8136441Z",
   "Players": [
     {
       "Name": "639",
       "Steam": "76561199628740692",
-      "Score": 34,
-      "Time": "55:23"
+      "Score": 40,
+      "Time": "57:23"
     },
     {
       "Name": "Gamesensical genius",
       "Steam": "76561199580355122",
-      "Score": 39,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "Silly :3",
       "Steam": "76561199812153393",
       "Score": 12,
-      "Time": "09:48"
+      "Time": "11:48"
+    },
+    {
+      "Name": "clutchcore alpha dev",
+      "Steam": "76561198671023127",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 31,
-      "Time": "41:07"
+      "Score": 40,
+      "Time": "43:07"
     }
   ]
 }
