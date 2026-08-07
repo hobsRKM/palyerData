@@ -1,4 +1,35 @@
 {
-  "Time": "2026-08-07T17:42:22.0933975Z",
-  "Players": []
+  "Time": "2026-08-07T17:42:24.080107Z",
+  "Players": [
+    {
+      "Name": "gostek",
+      "Steam": "76561198720412063",
+      "Score": 61,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zzz",
+      "Steam": "76561198447689301",
+      "Score": 0,
+      "Time": "23:22"
+    },
+    {
+      "Name": "\uD835\uDD95\uD835\uDD97\uD835\uDD8A\uD835\uDD98\uD835\uDD99\uD835\uDD8E\uD835\uDD8C\uD835\uDD8A",
+      "Steam": "76561199886790070",
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "draganstevic78",
+      "Steam": "76561198739198933",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zer0day's",
+      "Steam": "76561198780813584",
+      "Score": 2,
+      "Time": "51:09"
+    }
+  ]
 }
