@@ -1,23 +1,41 @@
 {
-  "Time": "2026-08-07T01:59:44.014167Z",
+  "Time": "2026-08-07T02:01:44.2088585Z",
   "Players": [
+    {
+      "Name": "Kaori <3",
+      "Steam": "76561198050195107",
+      "Score": 0,
+      "Time": "01:59"
+    },
     {
       "Name": "beartoker™",
       "Steam": "76561199290398734",
-      "Score": 20,
-      "Time": "296:42"
+      "Score": 29,
+      "Time": "298:42"
+    },
+    {
+      "Name": "reganscott87",
+      "Steam": "76561198675874598",
+      "Score": 0,
+      "Time": "00:48"
     },
     {
       "Name": "Hawk",
       "Steam": "76561199050220812",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "faith",
       "Steam": "76561198673536810",
-      "Score": 44,
-      "Time": "24:32"
+      "Score": 50,
+      "Time": "26:33"
+    },
+    {
+      "Name": "israeli hack",
+      "Steam": "76561198667749911",
+      "Score": 6,
+      "Time": "??:??"
     }
   ]
 }
