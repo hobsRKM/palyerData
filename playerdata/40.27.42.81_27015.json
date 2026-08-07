@@ -1,28 +1,34 @@
 {
-  "Time": "2026-08-07T13:39:27.8128491Z",
+  "Time": "2026-08-07T13:41:27.8132899Z",
   "Players": [
     {
       "Name": "639",
       "Steam": "76561199628740692",
-      "Score": 22,
-      "Time": "56:03"
+      "Score": 34,
+      "Time": "58:03"
+    },
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 0,
+      "Time": "00:29"
     },
     {
       "Name": "f0id_r8per_333",
       "Steam": "76561198745915729",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "rimrunna",
-      "Steam": "76561199803595505",
-      "Score": 17,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "getkaiju.cc",
       "Steam": "76561199375775741",
-      "Score": 10,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "willy WONK",
+      "Steam": "76561198669265653",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
