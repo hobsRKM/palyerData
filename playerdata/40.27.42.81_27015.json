@@ -1,71 +1,83 @@
 {
-  "Time": "2026-08-07T22:39:29.1679733Z",
+  "Time": "2026-08-07T22:41:29.2270393Z",
   "Players": [
+    {
+      "Name": "https/nixware.cc",
+      "Steam": "76561198720554985",
+      "Score": 0,
+      "Time": "33:15"
+    },
     {
       "Name": "chriss'",
       "Steam": "76561198258450034",
-      "Score": 36,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "xtc",
       "Steam": "76561199125572569",
-      "Score": 71,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "ouch",
       "Steam": "76561198756595271",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "BIND TORTURE KILL",
       "Steam": "76561198247406570",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "lusseollon",
       "Steam": "76561198661884784",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "vocals=D",
       "Steam": "76561198806792145",
-      "Score": 57,
-      "Time": "126:23"
+      "Score": 60,
+      "Time": "128:23"
+    },
+    {
+      "Name": "[velo] malcolm",
+      "Steam": "76561199813596874",
+      "Score": 3,
+      "Time": "01:50"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 75,
+      "Score": 84,
       "Time": "??:??"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 59,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "Bot_Fred",
       "Steam": "76561198750075346",
-      "Score": 26,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "bleood tap",
       "Steam": "76561198918924291",
-      "Score": 30,
-      "Time": "33:23"
+      "Score": 32,
+      "Time": "35:23"
     },
     {
       "Name": "Jbeezy",
       "Steam": "76561199812415276",
-      "Score": 0,
-      "Time": "01:36"
+      "Score": 2,
+      "Time": "03:36"
     }
   ]
 }
