@@ -1,58 +1,82 @@
 {
-  "Time": "2026-08-08T20:27:35.9962657Z",
+  "Time": "2026-08-08T20:29:36.0100414Z",
   "Players": [
+    {
+      "Name": "Jbeezy",
+      "Steam": "76561199812415276",
+      "Score": 5,
+      "Time": "01:35"
+    },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 46,
-      "Time": "74:31"
+      "Score": 52,
+      "Time": "76:31"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 32,
-      "Time": "83:05"
+      "Score": 40,
+      "Time": "85:05"
     },
     {
       "Name": "Balkan",
       "Steam": "76561198689045639",
-      "Score": 8,
-      "Time": "114:26"
+      "Score": 10,
+      "Time": "116:26"
     },
     {
       "Name": "★ Num ★",
       "Steam": "76561199077094155",
       "Score": 15,
-      "Time": "19:54"
+      "Time": "21:54"
+    },
+    {
+      "Name": "Shit@HvH",
+      "Steam": "76561198690919470",
+      "Score": 3,
+      "Time": "01:40"
     },
     {
       "Name": "sell",
       "Steam": "76561198392245997",
       "Score": 0,
-      "Time": "63:35"
+      "Time": "65:35"
     },
     {
       "Name": "D1",
       "Steam": "76561199867905050",
+      "Score": 4,
+      "Time": "02:14"
+    },
+    {
+      "Name": "s1lver glazer",
+      "Steam": "76561198664201033",
       "Score": 0,
-      "Time": "00:14"
+      "Time": "01:24"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 15,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "bolt",
       "Steam": "76561199581698935",
-      "Score": 13,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Razor",
+      "Steam": "76561199015858739",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
