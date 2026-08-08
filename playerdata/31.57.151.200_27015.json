@@ -1,52 +1,58 @@
 {
-  "Time": "2026-08-08T20:09:00.94471Z",
+  "Time": "2026-08-08T20:09:28.4674707Z",
   "Players": [
     {
-      "Name": "user",
-      "Steam": "76561198707967665",
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "everlong",
+      "Steam": "76561198663738261",
+      "Score": 7,
+      "Time": "00:07"
+    },
+    {
+      "Name": "doughgpezezba0",
+      "Steam": "76561198780554401",
+      "Score": 17,
+      "Time": "15:14"
+    },
+    {
+      "Name": "Drippy",
+      "Steam": "76561199369453721",
+      "Score": 17,
+      "Time": "494:12"
+    },
+    {
+      "Name": "Stalcyx\uD83D\uDDF2",
+      "Steam": "76561199734953719",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Bogdanuq",
+      "Steam": "76561199550122482",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "GET enigma V3!!",
+      "Steam": "76561198662068060",
+      "Score": 4,
+      "Time": "03:58"
+    },
+    {
+      "Name": "MyNameIsGod",
+      "Steam": "76561199269858697",
       "Score": 6,
-      "Time": "??:??"
+      "Time": "421:12"
     },
     {
-      "Name": "Simon G",
-      "Steam": "76561199484641787",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "1",
-      "Steam": "76561199470387645",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "drug dealer",
-      "Steam": "76561199832640528",
-      "Score": 22,
-      "Time": "??:??"
-    },
-    {
-      "Name": "fatal| +++",
-      "Steam": "76561198695667280",
-      "Score": 36,
-      "Time": "??:??"
-    },
-    {
-      "Name": "rusted/",
-      "Steam": "76561199546926473",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Gugucinos",
-      "Steam": "76561199185800925",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "ruzh",
-      "Steam": "76561198806393085",
-      "Score": 8,
+      "Name": "Zane da GOAT",
+      "Steam": "76561198695212461",
+      "Score": 68,
       "Time": "??:??"
     }
   ]
