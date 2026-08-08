@@ -1,4 +1,41 @@
 {
-  "Time": "2026-08-08T22:55:00.9356297Z",
-  "Players": []
+  "Time": "2026-08-08T22:55:31.0507055Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lusseollon",
+      "Steam": "76561198661884784",
+      "Score": 0,
+      "Time": "00:52"
+    },
+    {
+      "Name": "krokodil",
+      "Steam": "76561198666372992",
+      "Score": 25,
+      "Time": "64:08"
+    },
+    {
+      "Name": "BUSKIMANO",
+      "Steam": "76561199799874714",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "i cant loose",
+      "Steam": "76561199229247378",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ghoul 1000-7 kaneki",
+      "Steam": "76561198661779897",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
