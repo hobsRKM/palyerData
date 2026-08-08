@@ -1,4 +1,35 @@
 {
-  "Time": "2026-08-08T16:00:23.3784846Z",
-  "Players": []
+  "Time": "2026-08-08T16:01:28.4380463Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "uid 71 on northbound",
+      "Steam": "76561198659923216",
+      "Score": 48,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mon  quint user",
+      "Steam": "76561198669704142",
+      "Score": 11,
+      "Time": "07:37"
+    },
+    {
+      "Name": "self track test",
+      "Steam": "76561199491603608",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "luna",
+      "Steam": "76561198745079916",
+      "Score": 31,
+      "Time": "??:??"
+    }
+  ]
 }
