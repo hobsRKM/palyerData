@@ -1,4 +1,29 @@
 {
-  "Time": "2026-08-08T16:04:23.3784568Z",
-  "Players": []
+  "Time": "2026-08-08T16:05:28.4432755Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mono  quint user",
+      "Steam": "76561198669704142",
+      "Score": 25,
+      "Time": "11:37"
+    },
+    {
+      "Name": "self track test",
+      "Steam": "76561199491603608",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "luna",
+      "Steam": "76561198745079916",
+      "Score": 41,
+      "Time": "??:??"
+    }
+  ]
 }
