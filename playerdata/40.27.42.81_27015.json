@@ -1,16 +1,22 @@
 {
-  "Time": "2026-08-08T18:49:35.99589Z",
+  "Time": "2026-08-08T18:51:35.9992874Z",
   "Players": [
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199837114653",
+      "Score": 0,
+      "Time": "00:22"
+    },
     {
       "Name": "Unknown Player",
       "Steam": "76561198197230391",
-      "Score": 21,
-      "Time": "38:25"
+      "Score": 25,
+      "Time": "40:25"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 67,
+      "Score": 77,
       "Time": "??:??"
     },
     {
@@ -22,32 +28,38 @@
     {
       "Name": "3",
       "Steam": "76561198857638928",
-      "Score": 36,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Balkan",
       "Steam": "76561198689045639",
       "Score": 27,
-      "Time": "16:26"
+      "Time": "18:26"
     },
     {
       "Name": "Shit@HvH",
       "Steam": "76561198690919470",
-      "Score": 13,
-      "Time": "10:24"
+      "Score": 16,
+      "Time": "12:24"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 9,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Johnny",
+      "Steam": "76561199496260702",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "julius caesar",
       "Steam": "76561199268825034",
-      "Score": 47,
-      "Time": "32:46"
+      "Score": 56,
+      "Time": "34:46"
     }
   ]
 }
