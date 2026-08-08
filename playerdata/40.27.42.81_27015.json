@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-08T00:49:30.6335966Z",
+  "Time": "2026-08-08T00:51:30.7760883Z",
   "Players": [
+    {
+      "Name": "Mr.Squirrel_Man",
+      "Steam": "76561198161326655",
+      "Score": 55,
+      "Time": "01:05"
+    },
     {
       "Name": "parties",
       "Steam": "76561199548350350",
-      "Score": 7,
-      "Time": "??:??"
-    },
-    {
-      "Name": "counterstickgame4",
-      "Steam": "76561198665001322",
-      "Score": 0,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 76,
-      "Time": "31:49"
+      "Score": 81,
+      "Time": "33:49"
     },
     {
       "Name": "snix :3",
       "Steam": "76561199882962470",
-      "Score": 23,
+      "Score": 31,
       "Time": "??:??"
+    },
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 42,
+      "Time": "01:18"
     },
     {
       "Name": "TACO STREET",
@@ -34,26 +40,26 @@
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 37,
-      "Time": "290:59"
+      "Score": 50,
+      "Time": "292:59"
     },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 11,
-      "Time": "117:28"
+      "Score": 13,
+      "Time": "119:29"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 51,
-      "Time": "28:44"
+      "Score": 52,
+      "Time": "30:44"
     },
     {
       "Name": "b28228854",
       "Steam": "76561198669837073",
-      "Score": 48,
-      "Time": "353:41"
+      "Score": 53,
+      "Time": "355:41"
     }
   ]
 }
