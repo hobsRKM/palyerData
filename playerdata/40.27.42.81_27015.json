@@ -1,59 +1,71 @@
 {
-  "Time": "2026-08-08T03:25:36.439536Z",
+  "Time": "2026-08-08T03:27:36.4990242Z",
   "Players": [
+    {
+      "Name": "https://www.youtube.com/@Yuki",
+      "Steam": "76561198720554985",
+      "Score": 2,
+      "Time": "112:03"
+    },
     {
       "Name": "reganscott87",
       "Steam": "76561198675874598",
-      "Score": 5,
-      "Time": "01:41"
+      "Score": 11,
+      "Time": "03:41"
     },
     {
       "Name": "alwayslose user",
       "Steam": "76561198774226000",
+      "Score": 4,
+      "Time": "277:54"
+    },
+    {
+      "Name": "coldemark",
+      "Steam": "76561198041831524",
       "Score": 0,
-      "Time": "275:54"
+      "Time": "01:34"
     },
     {
       "Name": "fond your farewell",
       "Steam": "76561198687653741",
-      "Score": 12,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Jxnior . #1 Skeet Beta #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 29,
-      "Time": "17:43"
+      "Score": 38,
+      "Time": "19:43"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 18,
-      "Time": "187:55"
+      "Score": 24,
+      "Time": "189:55"
+    },
+    {
+      "Name": "least indenial",
+      "Steam": "76561199101022582",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
       "Score": 6,
-      "Time": "722:59"
-    },
-    {
-      "Name": "gynophobia",
-      "Steam": "76561199033568973",
-      "Score": 32,
-      "Time": "35:54"
+      "Time": "724:59"
     },
     {
       "Name": "x",
       "Steam": "76561199724770499",
-      "Score": 6,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "ghost",
       "Steam": "76561199109285801",
-      "Score": 14,
-      "Time": "128:18"
+      "Score": 27,
+      "Time": "130:18"
     }
   ]
 }
