@@ -1,17 +1,17 @@
 {
-  "Time": "2026-08-08T01:35:31.6736649Z",
+  "Time": "2026-08-08T01:37:31.7117963Z",
   "Players": [
+    {
+      "Name": "x",
+      "Steam": "76561199232211184",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 29,
-      "Time": "45:06"
-    },
-    {
-      "Name": "reganscott87",
-      "Steam": "76561198675874598",
-      "Score": 5,
-      "Time": "412:54"
+      "Score": 33,
+      "Time": "47:06"
     },
     {
       "Name": "Nettware",
@@ -22,68 +22,74 @@
     {
       "Name": "Daylyt (◣_◢)",
       "Steam": "76561199063655334",
-      "Score": 36,
-      "Time": "19:08"
+      "Score": 42,
+      "Time": "21:08"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 36,
-      "Time": "13:52"
+      "Score": 41,
+      "Time": "15:52"
+    },
+    {
+      "Name": "D1",
+      "Steam": "76561199867905050",
+      "Score": 8,
+      "Time": "??:??"
     },
     {
       "Name": "Elysium",
       "Steam": "76561199066575195",
-      "Score": 16,
-      "Time": "05:44"
+      "Score": 21,
+      "Time": "07:44"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 1,
-      "Time": "367:21"
+      "Score": 4,
+      "Time": "369:21"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 37,
-      "Time": "77:50"
+      "Score": 44,
+      "Time": "79:50"
     },
     {
       "Name": "ronny",
       "Steam": "76561199745364739",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "bleood tap",
       "Steam": "76561198918924291",
-      "Score": 16,
-      "Time": "19:25"
+      "Score": 19,
+      "Time": "21:25"
     },
     {
       "Name": "isst",
       "Steam": "76561198695257041",
-      "Score": 16,
-      "Time": "00:50"
+      "Score": 26,
+      "Time": "02:50"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 27,
-      "Time": "08:12"
+      "Score": 39,
+      "Time": "10:12"
     },
     {
       "Name": "gynophobia",
       "Steam": "76561199033568973",
-      "Score": 26,
-      "Time": "337:00"
+      "Score": 34,
+      "Time": "339:00"
     },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 9,
-      "Time": "06:30"
+      "Score": 11,
+      "Time": "08:30"
     }
   ]
 }
