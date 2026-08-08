@@ -1,4 +1,53 @@
 {
-  "Time": "2026-08-08T07:04:23.2812504Z",
-  "Players": []
+  "Time": "2026-08-08T07:05:28.4430127Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "CODE:01",
+      "Steam": "76561198755872312",
+      "Score": 26,
+      "Time": "29:17"
+    },
+    {
+      "Name": "hq",
+      "Steam": "76561199467504399",
+      "Score": 102,
+      "Time": "??:??"
+    },
+    {
+      "Name": "@velocit",
+      "Steam": "76561198686499843",
+      "Score": 26,
+      "Time": "11:58"
+    },
+    {
+      "Name": "[velo] user",
+      "Steam": "76561198668444943",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[velo] 1",
+      "Steam": "76561198658955935",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "M-m-maybach",
+      "Steam": "76561198751916286",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fanta.cl tf2 sandwich maker",
+      "Steam": "76561199874077505",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
