@@ -1,52 +1,58 @@
 {
-  "Time": "2026-08-08T17:21:35.9992472Z",
+  "Time": "2026-08-08T17:23:36.0031696Z",
   "Players": [
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199837114653",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Naruto Uzumaki",
       "Steam": "76561199053048408",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "february",
       "Steam": "76561199109285801",
-      "Score": 15,
-      "Time": "16:33"
+      "Score": 21,
+      "Time": "18:33"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 0,
-      "Time": "31:06"
+      "Score": 2,
+      "Time": "33:06"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 15,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 15,
-      "Time": "24:56"
+      "Score": 24,
+      "Time": "26:56"
     },
     {
       "Name": "D1",
       "Steam": "76561199867905050",
-      "Score": 28,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "julius caesar",
       "Steam": "76561199268825034",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 10,
+      "Score": 26,
       "Time": "??:??"
     }
   ]
