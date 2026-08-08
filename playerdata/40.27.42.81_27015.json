@@ -1,11 +1,29 @@
 {
-  "Time": "2026-08-08T18:09:36.0066198Z",
+  "Time": "2026-08-08T18:11:36.0034883Z",
   "Players": [
+    {
+      "Name": "fatality.a eclipse",
+      "Steam": "76561198197230391",
+      "Score": 2,
+      "Time": "00:25"
+    },
+    {
+      "Name": "imnotdoggo",
+      "Steam": "76561199140462879",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nettware",
+      "Steam": "76561198712538785",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "sell",
       "Steam": "76561198392245997",
       "Score": 0,
-      "Time": "01:24"
+      "Time": "03:24"
     }
   ]
 }
