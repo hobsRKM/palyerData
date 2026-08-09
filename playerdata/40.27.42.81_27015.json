@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-09T20:45:35.3625908Z",
+  "Time": "2026-08-09T20:47:35.4222197Z",
   "Players": [
     {
       "Name": "I am coming for you",
       "Steam": "76561199876726002",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
+      "Score": 0,
+      "Time": "01:05"
     },
     {
       "Name": "Zaghl0ul69",
       "Steam": "76561199491280331",
-      "Score": 0,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Masiwei",
       "Steam": "76561199712427690",
-      "Score": 19,
-      "Time": "02:37"
+      "Score": 22,
+      "Time": "04:37"
     },
     {
       "Name": "xtc",
@@ -28,20 +34,20 @@
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 2,
-      "Time": "01:40"
-    },
-    {
-      "Name": "Jxnior . #1 Skeet Beta #PINGBOT",
-      "Steam": "76561199836886163",
-      "Score": 10,
-      "Time": "15:54"
+      "Score": 12,
+      "Time": "03:40"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 29,
-      "Time": "22:51"
+      "Score": 6,
+      "Time": "24:51"
+    },
+    {
+      "Name": "[velocity] sTUDENTTTTT STUDENT",
+      "Steam": "76561198682261109",
+      "Score": 2,
+      "Time": "00:37"
     }
   ]
 }
