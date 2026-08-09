@@ -1,77 +1,83 @@
 {
-  "Time": "2026-08-08T23:29:36.0254268Z",
+  "Time": "2026-08-08T23:31:36.018855Z",
   "Players": [
+    {
+      "Name": "Alexandra",
+      "Steam": "76561198659268410",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "daddy13124",
       "Steam": "76561198662632960",
-      "Score": 69,
-      "Time": "313:39"
+      "Score": 76,
+      "Time": "315:39"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 40,
-      "Time": "09:53"
+      "Score": 49,
+      "Time": "11:53"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 36,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 80,
-      "Time": "78:02"
-    },
-    {
-      "Name": "real_batman",
-      "Steam": "76561198956539029",
-      "Score": 4,
-      "Time": "88:20"
+      "Score": 90,
+      "Time": "80:02"
     },
     {
       "Name": "V",
       "Steam": "76561199708520028",
-      "Score": 71,
-      "Time": "08:52"
+      "Score": 73,
+      "Time": "10:52"
     },
     {
       "Name": "niggaman",
       "Steam": "76561198678258830",
-      "Score": 15,
-      "Time": "297:03"
+      "Score": 25,
+      "Time": "299:03"
     },
     {
       "Name": "Dross503",
       "Steam": "76561199842280239",
-      "Score": 5,
+      "Score": 6,
       "Time": "??:??"
     },
     {
-      "Name": "neverupdate.cc Nettware",
+      "Name": "neverupdate.c Nettware",
       "Steam": "76561198712538785",
       "Score": 18,
-      "Time": "66:13"
+      "Time": "68:13"
     },
     {
       "Name": "saxyy",
       "Steam": "76561198675296618",
-      "Score": 6,
-      "Time": "08:34"
+      "Score": 15,
+      "Time": "10:34"
     },
     {
       "Name": "[velo] Bella",
       "Steam": "76561199240294591",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDD8B\uD835\uDD86\uD835\uDD8E\uD835\uDD99\uD835\uDD8D",
+      "Steam": "76561198673536810",
+      "Score": 0,
+      "Time": "01:57"
     },
     {
       "Name": "sxo666",
       "Steam": "76561198693001781",
       "Score": 30,
-      "Time": "34:16"
+      "Time": "36:16"
     }
   ]
 }
