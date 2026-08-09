@@ -1,29 +1,29 @@
 {
-  "Time": "2026-08-09T22:41:35.6381355Z",
+  "Time": "2026-08-09T22:43:35.6416672Z",
   "Players": [
+    {
+      "Name": "I like bananas and dick",
+      "Steam": "76561198702811747",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
-      "Score": 37,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "ny",
       "Steam": "76561198763517260",
-      "Score": 40,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "prime wonk",
       "Steam": "76561198662313129",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "ZBOOBA",
-      "Steam": "76561198713067891",
-      "Score": 0,
-      "Time": "00:08"
     }
   ]
 }
