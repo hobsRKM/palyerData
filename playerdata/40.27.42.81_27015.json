@@ -1,6 +1,18 @@
 {
-  "Time": "2026-08-09T20:57:35.3590883Z",
+  "Time": "2026-08-09T20:59:35.3716325Z",
   "Players": [
+    {
+      "Name": "Danny",
+      "Steam": "76561198844655650",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "daddy13124",
+      "Steam": "76561198662632960",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Afro God",
       "Steam": "76561199412913689",
@@ -10,14 +22,14 @@
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 49,
-      "Time": "11:05"
+      "Score": 0,
+      "Time": "13:05"
     },
     {
       "Name": "Masiwei",
       "Steam": "76561199712427690",
-      "Score": 55,
-      "Time": "14:37"
+      "Score": 0,
+      "Time": "16:37"
     },
     {
       "Name": "xtc",
@@ -28,14 +40,20 @@
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 43,
-      "Time": "34:51"
+      "Score": 0,
+      "Time": "36:51"
     },
     {
       "Name": "[velocity] sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
-      "Score": 17,
-      "Time": "10:37"
+      "Score": 0,
+      "Time": "12:37"
+    },
+    {
+      "Name": "PEEK",
+      "Steam": "76561198718153000",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
