@@ -1,59 +1,65 @@
 {
-  "Time": "2026-08-09T04:51:40.7969038Z",
+  "Time": "2026-08-09T04:53:40.8170845Z",
   "Players": [
     {
       "Name": "sell",
       "Steam": "76561198392245997",
-      "Score": 0,
-      "Time": "294:42"
+      "Score": 1,
+      "Time": "296:42"
     },
     {
       "Name": "levis cat girl",
       "Steam": "76561198687653741",
-      "Score": 37,
-      "Time": "37:18"
+      "Score": 38,
+      "Time": "39:18"
     },
     {
       "Name": "Якоч Братан Голде",
       "Steam": "76561198294598722",
-      "Score": 19,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "GGTRIPLING",
       "Steam": "76561199157374576",
       "Score": 22,
-      "Time": "20:36"
+      "Time": "22:36"
     },
     {
       "Name": "Static",
       "Steam": "76561198180564201",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 108,
-      "Time": "24:52"
+      "Score": 120,
+      "Time": "26:52"
     },
     {
       "Name": "Mimics",
       "Steam": "76561198689816963",
-      "Score": 34,
-      "Time": "12:23"
+      "Score": 45,
+      "Time": "14:23"
     },
     {
       "Name": "Peeked By The IRS",
       "Steam": "76561198759412253",
-      "Score": 33,
-      "Time": "582:43"
+      "Score": 44,
+      "Time": "584:43"
+    },
+    {
+      "Name": "usb",
+      "Steam": "76561198728274003",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 24,
-      "Time": "16:08"
+      "Score": 34,
+      "Time": "18:08"
     }
   ]
 }
