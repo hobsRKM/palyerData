@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-09T00:23:36.4699896Z",
+  "Time": "2026-08-09T00:25:36.471322Z",
   "Players": [
+    {
+      "Name": "Nickher",
+      "Steam": "76561198730220922",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Jbeezy",
       "Steam": "76561199812415276",
-      "Score": 0,
-      "Time": "34:50"
+      "Score": 6,
+      "Time": "36:50"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 120,
-      "Time": "30:33"
+      "Score": 132,
+      "Time": "32:33"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 15,
-      "Time": "08:27"
+      "Score": 19,
+      "Time": "10:27"
     },
     {
       "Name": "Opsec",
@@ -28,14 +34,14 @@
     {
       "Name": "Jxnior . #1 Skeet Beta #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 47,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 2,
-      "Time": "05:12"
+      "Score": 11,
+      "Time": "07:12"
     },
     {
       "Name": "Loading...",
@@ -46,13 +52,13 @@
     {
       "Name": "Coral",
       "Steam": "76561198819683930",
-      "Score": 92,
+      "Score": 101,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 156,
+      "Score": 164,
       "Time": "??:??"
     }
   ]
