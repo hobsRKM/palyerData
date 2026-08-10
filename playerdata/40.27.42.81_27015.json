@@ -1,40 +1,46 @@
 {
-  "Time": "2026-08-10T21:35:35.6004704Z",
+  "Time": "2026-08-10T21:37:35.5947262Z",
   "Players": [
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 29,
-      "Time": "35:31"
+      "Score": 49,
+      "Time": "37:31"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 27,
+      "Score": 29,
       "Time": "??:??"
+    },
+    {
+      "Name": "Vicious",
+      "Steam": "76561198700071912",
+      "Score": 0,
+      "Time": "00:49"
     },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
-      "Score": 8,
-      "Time": "03:17"
+      "Score": 12,
+      "Time": "05:17"
     },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 14,
-      "Time": "22:07"
+      "Score": 18,
+      "Time": "24:07"
     },
     {
       "Name": "./machi.sh",
       "Steam": "76561198778457368",
-      "Score": 11,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "ritual",
       "Steam": "76561198661358506",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
