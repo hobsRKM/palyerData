@@ -1,4 +1,35 @@
 {
-  "Time": "2026-08-10T09:16:20.8825642Z",
-  "Players": []
+  "Time": "2026-08-10T09:16:55.5107772Z",
+  "Players": [
+    {
+      "Name": "[No] user",
+      "Steam": "76561198668444943",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[vel] cfg by @sw1n",
+      "Steam": "76561198658921452",
+      "Score": 8,
+      "Time": "08:02"
+    },
+    {
+      "Name": "nice pasta",
+      "Steam": "76561198661030872",
+      "Score": 9,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[vel] Khanonagon",
+      "Steam": "76561198719941114",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "EMAD",
+      "Steam": "76561198719703493",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
