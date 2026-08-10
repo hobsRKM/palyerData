@@ -1,41 +1,47 @@
 {
-  "Time": "2026-08-10T20:59:35.6068736Z",
+  "Time": "2026-08-10T21:01:35.5950468Z",
   "Players": [
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 2,
+      "Time": "01:31"
+    },
     {
       "Name": "BRIS",
       "Steam": "76561199565961410",
       "Score": 0,
-      "Time": "04:42"
+      "Time": "06:42"
     },
     {
       "Name": "kasandra",
       "Steam": "76561199158419168",
-      "Score": 20,
-      "Time": "26:42"
+      "Score": 37,
+      "Time": "28:42"
     },
     {
       "Name": "[velocity] sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
-      "Score": 28,
-      "Time": "08:11"
+      "Score": 35,
+      "Time": "10:11"
     },
     {
       "Name": "HAHA",
       "Steam": "76561198698375820",
-      "Score": 3,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 28,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "sxo666",
       "Steam": "76561198693001781",
       "Score": 20,
-      "Time": "52:07"
+      "Time": "54:07"
     }
   ]
 }
