@@ -1,41 +1,53 @@
 {
-  "Time": "2026-08-10T16:19:25.1699974Z",
+  "Time": "2026-08-10T16:19:34.9997989Z",
   "Players": [
     {
-      "Name": "0",
-      "Steam": "76561198672373466",
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "word.exe",
+      "Steam": "76561198660500382",
+      "Score": 16,
+      "Time": "03:14"
+    },
+    {
+      "Name": "gostek",
+      "Steam": "76561198720412063",
       "Score": 28,
       "Time": "??:??"
     },
     {
-      "Name": "rebeka",
-      "Steam": "76561198668892153",
-      "Score": 8,
+      "Name": "Sompleblyat",
+      "Steam": "76561198662352928",
+      "Score": 30,
       "Time": "??:??"
     },
     {
-      "Name": "yes",
-      "Steam": "76561198670349349",
-      "Score": 55,
+      "Name": "Папа Симпл",
+      "Steam": "76561199860064205",
+      "Score": 4,
       "Time": "??:??"
     },
     {
-      "Name": "Liam",
-      "Steam": "76561198745332088",
-      "Score": 18,
-      "Time": "02:10"
-    },
-    {
-      "Name": "Trust Us.",
-      "Steam": "76561199333186179",
-      "Score": 31,
+      "Name": "Dizda",
+      "Steam": "76561199220021381",
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "WinRAR FT",
-      "Steam": "76561199217772695",
-      "Score": 33,
+      "Name": "ianisg9",
+      "Steam": "76561199671606455",
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "GoonHooker",
+      "Steam": "76561198657434622",
+      "Score": 19,
+      "Time": "57:00"
     }
   ]
 }
