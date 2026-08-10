@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-10T16:29:35.5936873Z",
+  "Time": "2026-08-10T16:31:35.6009237Z",
   "Players": [
+    {
+      "Name": "prime wonk",
+      "Steam": "76561198662313129",
+      "Score": 0,
+      "Time": "00:10"
+    },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "21:41"
+      "Time": "23:41"
     },
     {
       "Name": "[veloc] x",
       "Steam": "76561199846375753",
-      "Score": 2,
-      "Time": "23:49"
+      "Score": 7,
+      "Time": "25:49"
     },
     {
       "Name": "eclipse",
       "Steam": "76561198197230391",
-      "Score": 0,
-      "Time": "58:25"
+      "Score": 4,
+      "Time": "60:25"
     },
     {
       "Name": "iwubmyboyfrien | Owned by zay <3",
       "Steam": "76561198661626582",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "Flexorz",
       "Steam": "76561199503006146",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
