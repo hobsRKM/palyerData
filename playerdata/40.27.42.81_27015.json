@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-10T21:19:35.5989327Z",
+  "Time": "2026-08-10T21:21:35.5964181Z",
   "Players": [
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 93,
-      "Time": "19:31"
+      "Score": 105,
+      "Time": "21:31"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 70,
-      "Time": "17:37"
+      "Score": 74,
+      "Time": "19:37"
     },
     {
       "Name": "kasandra",
       "Steam": "76561199158419168",
-      "Score": 99,
-      "Time": "46:42"
+      "Score": 107,
+      "Time": "48:42"
     },
     {
       "Name": "user",
       "Steam": "76561199104080002",
       "Score": 3,
-      "Time": "06:07"
+      "Time": "08:07"
     },
     {
       "Name": "HAHA",
       "Steam": "76561198698375820",
-      "Score": 24,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "./machi.sh",
+      "Steam": "76561198778457368",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
