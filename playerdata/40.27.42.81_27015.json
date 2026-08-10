@@ -1,65 +1,53 @@
 {
-  "Time": "2026-08-10T01:31:40.2937529Z",
+  "Time": "2026-08-10T01:41:40.7634227Z",
   "Players": [
+    {
+      "Name": "Zyre",
+      "Steam": "76561198688916793",
+      "Score": 0,
+      "Time": "389:53"
+    },
+    {
+      "Name": "cheezie",
+      "Steam": "76561198743474205",
+      "Score": 15,
+      "Time": "50:32"
+    },
     {
       "Name": "february",
       "Steam": "76561199109285801",
-      "Score": 25,
-      "Time": "211:35"
+      "Score": 6,
+      "Time": "221:35"
     },
     {
       "Name": "Masiwei",
       "Steam": "76561199712427690",
-      "Score": 18,
-      "Time": "105:19"
+      "Score": 13,
+      "Time": "115:19"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 70,
-      "Time": "65:08"
+      "Score": 4,
+      "Time": "75:08"
     },
     {
-      "Name": "Loading...",
-      "Steam": "76561198783859737",
-      "Score": 31,
-      "Time": "383:59"
-    },
-    {
-      "Name": "imnotdoggo",
-      "Steam": "76561199140462879",
-      "Score": 89,
+      "Name": "The Sexiest of Them All",
+      "Steam": "76561198792419778",
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "Nettware",
-      "Steam": "76561198712538785",
-      "Score": 0,
-      "Time": "01:20"
     },
     {
       "Name": "bunnyluvr",
       "Steam": "76561198666020609",
-      "Score": 0,
-      "Time": "47:13"
-    },
-    {
-      "Name": "snix :3",
-      "Steam": "76561199882962470",
-      "Score": 44,
-      "Time": "96:16"
+      "Score": 10,
+      "Time": "57:14"
     },
     {
       "Name": "beater",
       "Steam": "76561199389127524",
-      "Score": 34,
+      "Score": 13,
       "Time": "??:??"
-    },
-    {
-      "Name": "svt",
-      "Steam": "76561199064413061",
-      "Score": 32,
-      "Time": "30:15"
     }
   ]
 }
