@@ -1,53 +1,47 @@
 {
-  "Time": "2026-08-10T06:05:52.3410387Z",
+  "Time": "2026-08-10T06:07:52.5063414Z",
   "Players": [
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 0,
+      "Time": "01:02"
+    },
     {
       "Name": "RobertTheRocket84",
       "Steam": "76561199508924668",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "joke",
       "Steam": "76561199471107546",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "Mimics",
       "Steam": "76561198689816963",
-      "Score": 38,
-      "Time": "16:43"
-    },
-    {
-      "Name": "Sofa.pub",
-      "Steam": "76561199442363655",
-      "Score": 22,
-      "Time": "??:??"
+      "Score": 54,
+      "Time": "18:43"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 9,
-      "Time": "539:28"
+      "Score": 10,
+      "Time": "541:28"
     },
     {
       "Name": "iwubmyboyfrien | Owned by zay <3",
       "Steam": "76561198661626582",
-      "Score": 3,
-      "Time": "35:39"
-    },
-    {
-      "Name": "snix :3",
-      "Steam": "76561199882962470",
-      "Score": 9,
-      "Time": "06:27"
+      "Score": 7,
+      "Time": "37:39"
     },
     {
       "Name": "d3n1s_777",
       "Steam": "76561199054277747",
-      "Score": 13,
-      "Time": "10:39"
+      "Score": 17,
+      "Time": "12:39"
     }
   ]
 }
