@@ -1,41 +1,47 @@
 {
-  "Time": "2026-08-10T06:17:53.0005029Z",
+  "Time": "2026-08-10T06:19:53.1050788Z",
   "Players": [
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 6,
+      "Time": "01:52"
+    },
     {
       "Name": "joke",
       "Steam": "76561199471107546",
-      "Score": 88,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "Mimics",
       "Steam": "76561198689816963",
-      "Score": 99,
-      "Time": "28:43"
+      "Score": 111,
+      "Time": "30:44"
     },
     {
       "Name": "iwubmyboyfrien | Owned by zay <3",
       "Steam": "76561198661626582",
       "Score": 15,
-      "Time": "47:39"
+      "Time": "49:40"
     },
     {
       "Name": "beater",
       "Steam": "76561199389127524",
-      "Score": 0,
-      "Time": "02:44"
+      "Score": 3,
+      "Time": "04:44"
     },
     {
       "Name": "d3n1s_777",
       "Steam": "76561199054277747",
-      "Score": 25,
-      "Time": "22:39"
+      "Score": 31,
+      "Time": "24:39"
     },
     {
       "Name": "wzfjqjjfjarj3fafadafcafa",
       "Steam": "76561199880717233",
-      "Score": 1,
-      "Time": "333:07"
+      "Score": 7,
+      "Time": "335:07"
     }
   ]
 }
