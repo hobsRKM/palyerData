@@ -1,40 +1,40 @@
 {
-  "Time": "2026-08-11T21:53:46.5139411Z",
+  "Time": "2026-08-11T21:55:46.5081528Z",
   "Players": [
+    {
+      "Name": "rkop",
+      "Steam": "76561199847972912",
+      "Score": 0,
+      "Time": "00:41"
+    },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 0,
-      "Time": "19:25"
+      "Score": 9,
+      "Time": "21:25"
     },
     {
       "Name": "patrick.scott",
       "Steam": "76561198770444093",
-      "Score": 0,
-      "Time": "08:55"
-    },
-    {
-      "Name": "[veloc] average canadian",
-      "Steam": "76561199453571627",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "dinglehook",
-      "Steam": "76561198663598053",
-      "Score": 0,
-      "Time": "00:27"
+      "Score": 2,
+      "Time": "10:55"
     },
     {
       "Name": "tim",
       "Steam": "76561199826274389",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[velocity] sTUDENTTTTT STUDENT",
+      "Steam": "76561198682261109",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 0,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
