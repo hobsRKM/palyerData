@@ -1,65 +1,83 @@
 {
-  "Time": "2026-08-11T02:13:38.8890936Z",
+  "Time": "2026-08-11T02:15:38.9289045Z",
   "Players": [
     {
       "Name": "\uD835\uDD8B\uD835\uDD86\uD835\uDD8E\uD835\uDD99\uD835\uDD8D",
       "Steam": "76561198673536810",
-      "Score": 115,
-      "Time": "41:34"
+      "Score": 125,
+      "Time": "43:34"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 67,
+      "Score": 79,
+      "Time": "??:??"
+    },
+    {
+      "Name": "horns",
+      "Steam": "76561198762175912",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 207,
-      "Time": "58:28"
+      "Score": 211,
+      "Time": "60:28"
     },
     {
       "Name": "dream",
       "Steam": "76561198706868502",
-      "Score": 137,
+      "Score": 147,
       "Time": "??:??"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
       "Score": 54,
-      "Time": "227:47"
+      "Time": "229:47"
     },
     {
       "Name": "kasandra",
       "Steam": "76561199158419168",
-      "Score": 33,
-      "Time": "07:49"
+      "Score": 44,
+      "Time": "09:49"
+    },
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 76,
+      "Time": "01:35"
     },
     {
       "Name": "sage",
       "Steam": "76561199138283513",
       "Score": 0,
-      "Time": "11:21"
+      "Time": "13:21"
     },
     {
       "Name": "svt",
       "Steam": "76561199064413061",
       "Score": 39,
-      "Time": "09:21"
+      "Time": "11:21"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
       "Score": 97,
-      "Time": "70:05"
+      "Time": "72:05"
     },
     {
       "Name": "adadadadadad",
       "Steam": "76561198657774128",
-      "Score": 3,
-      "Time": "33:50"
+      "Score": 4,
+      "Time": "35:50"
+    },
+    {
+      "Name": "A_me_a",
+      "Steam": "76561199436225054",
+      "Score": 10,
+      "Time": "00:53"
     }
   ]
 }
