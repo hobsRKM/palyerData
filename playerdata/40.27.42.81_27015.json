@@ -1,53 +1,41 @@
 {
-  "Time": "2026-08-11T21:51:46.513234Z",
+  "Time": "2026-08-11T21:53:46.5139411Z",
   "Players": [
-    {
-      "Name": "rkop",
-      "Steam": "76561199847972912",
-      "Score": 0,
-      "Time": "00:11"
-    },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 74,
-      "Time": "17:25"
+      "Score": 0,
+      "Time": "19:25"
     },
     {
       "Name": "patrick.scott",
       "Steam": "76561198770444093",
-      "Score": 8,
-      "Time": "06:55"
+      "Score": 0,
+      "Time": "08:55"
     },
     {
       "Name": "[veloc] average canadian",
       "Steam": "76561199453571627",
-      "Score": 9,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "dinglehook",
+      "Steam": "76561198663598053",
+      "Score": 0,
+      "Time": "00:27"
     },
     {
       "Name": "tim",
       "Steam": "76561199826274389",
-      "Score": 47,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "zxxx",
-      "Steam": "76561198704649743",
-      "Score": 12,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Vicious #Pingbot",
-      "Steam": "76561198700071912",
-      "Score": 82,
-      "Time": "14:56"
     }
   ]
 }
