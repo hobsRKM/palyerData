@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-11T19:19:46.4568616Z",
+  "Time": "2026-08-11T19:21:46.4578781Z",
   "Players": [
     {
       "Name": "memesense.gg memesense.gg",
       "Steam": "76561199389127524",
-      "Score": 48,
+      "Score": 54,
       "Time": "??:??"
+    },
+    {
+      "Name": "user",
+      "Steam": "76561199104080002",
+      "Score": 35,
+      "Time": "01:39"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 39,
-      "Time": "10:35"
+      "Score": 52,
+      "Time": "12:35"
     },
     {
       "Name": "isst",
       "Steam": "76561198695257041",
-      "Score": 24,
-      "Time": "10:24"
+      "Score": 34,
+      "Time": "12:24"
     },
     {
       "Name": "sell",
@@ -32,10 +38,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "Afro God",
+      "Steam": "76561199412913689",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "GGs",
       "Steam": "76561198659586005",
-      "Score": 63,
-      "Time": "40:17"
+      "Score": 65,
+      "Time": "42:17"
     }
   ]
 }
