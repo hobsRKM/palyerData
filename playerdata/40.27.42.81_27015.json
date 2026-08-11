@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-11T20:57:46.4568796Z",
+  "Time": "2026-08-11T20:59:46.4637614Z",
   "Players": [
     {
       "Name": "malcolm",
       "Steam": "76561199813596874",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "rkop",
+      "Steam": "76561199847972912",
+      "Score": 0,
+      "Time": "00:45"
+    },
+    {
+      "Name": "user",
+      "Steam": "76561199104080002",
+      "Score": 3,
+      "Time": "01:35"
+    },
+    {
+      "Name": "Bleakx911",
+      "Steam": "76561199033568973",
+      "Score": 6,
+      "Time": "02:00"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 1,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 5,
-      "Time": "21:25"
-    },
-    {
-      "Name": "rot",
-      "Steam": "76561198691443045",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "harm reduction",
-      "Steam": "76561199230028054",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 12,
+      "Time": "23:25"
     }
   ]
 }
