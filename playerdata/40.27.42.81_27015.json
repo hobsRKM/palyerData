@@ -1,14 +1,26 @@
 {
-  "Time": "2026-08-11T21:43:46.4592222Z",
+  "Time": "2026-08-11T21:45:46.4575043Z",
   "Players": [
+    {
+      "Name": "rkop",
+      "Steam": "76561199847972912",
+      "Score": 0,
+      "Time": "01:00"
+    },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 38,
-      "Time": "09:25"
+      "Score": 44,
+      "Time": "11:25"
     },
     {
-      "Name": "[velo] average canadian",
+      "Name": "patrick.scott",
+      "Steam": "76561198770444093",
+      "Score": 0,
+      "Time": "00:55"
+    },
+    {
+      "Name": "[veloc] average canadian",
       "Steam": "76561199453571627",
       "Score": 8,
       "Time": "??:??"
@@ -28,20 +40,20 @@
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 64,
-      "Time": "67:25"
+      "Score": 68,
+      "Time": "69:25"
     },
     {
       "Name": "february",
       "Steam": "76561199109285801",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 41,
-      "Time": "06:56"
+      "Score": 48,
+      "Time": "08:56"
     }
   ]
 }
