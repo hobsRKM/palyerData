@@ -1,4 +1,35 @@
 {
-  "Time": "2026-08-11T11:02:21.2523192Z",
-  "Players": []
+  "Time": "2026-08-11T11:02:38.0303306Z",
+  "Players": [
+    {
+      "Name": "cnnjiu",
+      "Steam": "76561198673779906",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[vel] jiggle my balls",
+      "Steam": "76561198662977094",
+      "Score": 4,
+      "Time": "00:49"
+    },
+    {
+      "Name": "Matrix",
+      "Steam": "76561199564278277",
+      "Score": 15,
+      "Time": "16:17"
+    },
+    {
+      "Name": "Player",
+      "Steam": "76561198666063944",
+      "Score": 46,
+      "Time": "00:49"
+    },
+    {
+      "Name": "Lothbroks",
+      "Steam": "76561198661094888",
+      "Score": 0,
+      "Time": "02:33"
+    }
+  ]
 }
