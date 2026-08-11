@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-11T22:31:46.5618012Z",
+  "Time": "2026-08-11T22:33:46.5663914Z",
   "Players": [
     {
       "Name": "MarkHack | .gg/topfrags",
       "Steam": "76561198665898706",
-      "Score": 3,
-      "Time": "05:06"
+      "Score": 12,
+      "Time": "07:06"
     },
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 19,
-      "Time": "06:26"
+      "Score": 24,
+      "Time": "08:26"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 18,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "restless nights",
+      "Steam": "76561198744712586",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "-",
       "Steam": "76561198661626582",
-      "Score": 6,
-      "Time": "57:09"
+      "Score": 11,
+      "Time": "59:09"
     }
   ]
 }
