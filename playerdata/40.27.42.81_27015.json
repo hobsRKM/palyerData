@@ -1,17 +1,29 @@
 {
-  "Time": "2026-08-12T03:05:52.7512872Z",
+  "Time": "2026-08-12T03:07:52.8522658Z",
   "Players": [
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 58,
-      "Time": "151:13"
+      "Score": 0,
+      "Time": "153:13"
+    },
+    {
+      "Name": "Vicious #Pingbot",
+      "Steam": "76561198700071912",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 34,
-      "Time": "06:43"
+      "Score": 2,
+      "Time": "08:43"
+    },
+    {
+      "Name": "Zeuss",
+      "Steam": "76561198744035980",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
