@@ -1,41 +1,47 @@
 {
-  "Time": "2026-08-12T19:53:29.2633467Z",
+  "Time": "2026-08-12T19:55:29.2672626Z",
   "Players": [
+    {
+      "Name": "VSA",
+      "Steam": "76561199067113258",
+      "Score": 0,
+      "Time": "01:53"
+    },
     {
       "Name": "jew beating beater",
       "Steam": "76561199389127524",
-      "Score": 37,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 35,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 141,
+      "Score": 146,
       "Time": "??:??"
     },
     {
       "Name": "X3ON",
       "Steam": "76561199114309162",
-      "Score": 3,
-      "Time": "23:57"
+      "Score": 2,
+      "Time": "25:57"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 23,
-      "Time": "167:05"
+      "Score": 25,
+      "Time": "169:05"
     }
   ]
 }
