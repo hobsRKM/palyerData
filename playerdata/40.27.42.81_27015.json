@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-12T18:27:29.2585693Z",
+  "Time": "2026-08-12T18:29:29.262876Z",
   "Players": [
+    {
+      "Name": "VSA",
+      "Steam": "76561199067113258",
+      "Score": 0,
+      "Time": "00:30"
+    },
     {
       "Name": "Mr Aura",
       "Steam": "76561198732154857",
@@ -10,68 +16,56 @@
     {
       "Name": "chinese sweat shop worker",
       "Steam": "76561198685506573",
-      "Score": 24,
-      "Time": "18:32"
+      "Score": 30,
+      "Time": "01:27"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 100,
-      "Time": "36:25"
+      "Score": 106,
+      "Time": "38:25"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 81,
-      "Time": "213:08"
+      "Score": 94,
+      "Time": "215:08"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 6,
-      "Time": "18:48"
+      "Score": 0,
+      "Time": "20:48"
     },
     {
       "Name": "sexually",
       "Steam": "76561198698375820",
-      "Score": 25,
-      "Time": "04:33"
+      "Score": 34,
+      "Time": "06:33"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
-      "Score": 31,
-      "Time": "47:53"
+      "Score": 39,
+      "Time": "49:53"
     },
     {
       "Name": "blxxdrituals",
       "Steam": "76561198672653618",
-      "Score": 60,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "liljjdademon",
       "Steam": "76561199503682247",
-      "Score": 6,
-      "Time": "17:50"
-    },
-    {
-      "Name": "jonus",
-      "Steam": "76561198730736693",
-      "Score": 1,
-      "Time": "01:39"
+      "Score": 13,
+      "Time": "19:50"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 36,
+      "Score": 42,
       "Time": "??:??"
-    },
-    {
-      "Name": "z",
-      "Steam": "76561199181290526",
-      "Score": 34,
-      "Time": "109:00"
     }
   ]
 }
