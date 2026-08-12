@@ -1,17 +1,23 @@
 {
-  "Time": "2026-08-12T20:43:29.2586015Z",
+  "Time": "2026-08-12T20:45:29.2568109Z",
   "Players": [
     {
       "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
       "Steam": "76561199086867846",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 23,
-      "Time": "06:07"
+      "Score": 29,
+      "Time": "08:07"
+    },
+    {
+      "Name": "acline14",
+      "Steam": "76561198656484427",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
