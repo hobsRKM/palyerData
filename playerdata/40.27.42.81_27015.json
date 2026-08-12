@@ -1,52 +1,58 @@
 {
-  "Time": "2026-08-12T00:23:47.4182803Z",
+  "Time": "2026-08-12T00:25:47.4391302Z",
   "Players": [
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 0,
+      "Time": "00:02"
+    },
     {
       "Name": "saxyy",
       "Steam": "76561198675296618",
       "Score": 5,
-      "Time": "06:20"
+      "Time": "08:21"
     },
     {
       "Name": "zeta.psl",
       "Steam": "76561198774226000",
-      "Score": 16,
-      "Time": "316:46"
+      "Score": 28,
+      "Time": "318:46"
     },
     {
       "Name": "Rias",
       "Steam": "76561198779285089",
       "Score": 0,
-      "Time": "01:38"
+      "Time": "03:38"
     },
     {
       "Name": "svt",
       "Steam": "76561199064413061",
-      "Score": 6,
-      "Time": "04:30"
+      "Score": 10,
+      "Time": "06:30"
     },
     {
       "Name": "\uD835\uDD8B\uD835\uDD86\uD835\uDD8E\uD835\uDD99\uD835\uDD8D",
       "Steam": "76561198673536810",
-      "Score": 46,
-      "Time": "24:46"
+      "Score": 58,
+      "Time": "26:46"
     },
     {
       "Name": "Silver Duck",
       "Steam": "76561199053048408",
-      "Score": 34,
-      "Time": "??:??"
-    },
-    {
-      "Name": "\uDB40\uDC73⁧⁧ 利多卡因",
-      "Steam": "76561198869894878",
-      "Score": 8,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "x",
       "Steam": "76561199724770499",
-      "Score": 10,
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Robert Smith",
+      "Steam": "76561198658070621",
+      "Score": 1,
       "Time": "??:??"
     }
   ]
