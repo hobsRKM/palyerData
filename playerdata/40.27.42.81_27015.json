@@ -1,40 +1,40 @@
 {
-  "Time": "2026-08-12T04:09:56.324993Z",
+  "Time": "2026-08-12T04:11:56.3782003Z",
   "Players": [
     {
       "Name": "tate",
       "Steam": "76561198059477947",
       "Score": 0,
-      "Time": "526:05"
+      "Time": "528:06"
     },
     {
       "Name": "Deflect",
       "Steam": "76561199471107546",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
       "Score": 0,
-      "Time": "28:34"
+      "Time": "30:34"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
@@ -44,10 +44,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "dev",
+      "Steam": "76561198219350995",
+      "Score": 0,
+      "Time": "01:01"
+    },
+    {
       "Name": "M!",
       "Steam": "76561198689816963",
-      "Score": 2,
-      "Time": "647:17"
+      "Score": 8,
+      "Time": "649:17"
     },
     {
       "Name": "producing",
@@ -56,10 +62,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "fSUwjnFGFxO",
+      "Steam": "76561198780864871",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "XANS",
       "Steam": "76561199709534235",
-      "Score": 0,
-      "Time": "46:52"
+      "Score": 4,
+      "Time": "48:52"
     }
   ]
 }
