@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-13T07:34:56.9787725Z",
+  "Time": "2026-08-13T07:36:56.9769787Z",
   "Players": [
     {
       "Name": "Shit@HvH",
       "Steam": "76561198726523292",
-      "Score": 8,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "gamesense.pub",
       "Steam": "76561198674709987",
+      "Score": 3,
+      "Time": "03:50"
+    },
+    {
+      "Name": "kirksense",
+      "Steam": "76561198663494079",
       "Score": 0,
-      "Time": "01:50"
+      "Time": "??:??"
     },
     {
       "Name": "VSA",
       "Steam": "76561199067113258",
-      "Score": 0,
-      "Time": "20:31"
+      "Score": 9,
+      "Time": "22:31"
     }
   ]
 }
