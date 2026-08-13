@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-13T06:44:56.9429761Z",
+  "Time": "2026-08-13T06:46:56.9366826Z",
   "Players": [
+    {
+      "Name": "Rias",
+      "Steam": "76561198779285089",
+      "Score": 0,
+      "Time": "338:36"
+    },
     {
       "Name": "Ketamine",
       "Steam": "76561199836886163",
-      "Score": 27,
-      "Time": "55:17"
+      "Score": 34,
+      "Time": "57:17"
     },
     {
       "Name": "gamesense.pub",
       "Steam": "76561198674709987",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 32,
-      "Time": "29:32"
+      "Score": 36,
+      "Time": "31:32"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 34,
-      "Time": "16:51"
+      "Score": 44,
+      "Time": "18:51"
     },
     {
       "Name": "Hanako",
       "Steam": "76561198375724752",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     }
   ]
