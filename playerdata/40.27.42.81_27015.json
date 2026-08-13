@@ -1,41 +1,41 @@
 {
-  "Time": "2026-08-13T06:02:56.9329437Z",
+  "Time": "2026-08-13T06:04:56.9406044Z",
   "Players": [
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 2,
+      "Time": "00:58"
+    },
     {
       "Name": "Ketamine",
       "Steam": "76561199836886163",
-      "Score": 56,
-      "Time": "13:17"
-    },
-    {
-      "Name": "\uDB40\uDC21\uDB40\uDC21",
-      "Steam": "76561198689816963",
-      "Score": 127,
-      "Time": "08:06"
+      "Score": 11,
+      "Time": "15:17"
     },
     {
       "Name": "gamesense.pub",
       "Steam": "76561198674709987",
-      "Score": 90,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 10,
-      "Time": "16:39"
-    },
-    {
-      "Name": "Nikola Tesla",
-      "Steam": "76561198745903058",
-      "Score": 1,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "18:39"
     },
     {
       "Name": "jajajajajajajajaj",
       "Steam": "76561198772021623",
-      "Score": 64,
-      "Time": "20:44"
+      "Score": 0,
+      "Time": "22:44"
+    },
+    {
+      "Name": "sell",
+      "Steam": "76561198392245997",
+      "Score": 0,
+      "Time": "01:09"
     }
   ]
 }
