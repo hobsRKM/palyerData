@@ -1,81 +1,81 @@
 {
-  "Time": "2026-08-13T01:14:56.9416583Z",
+  "Time": "2026-08-13T01:16:56.9408986Z",
   "Players": [
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 0,
+      "Time": "00:28"
+    },
     {
       "Name": "average canadian",
       "Steam": "76561199453571627",
-      "Score": 1,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "nmz",
       "Steam": "76561199038651407",
-      "Score": 14,
-      "Time": "17:19"
+      "Score": 16,
+      "Time": "19:19"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 27,
-      "Time": "07:19"
+      "Score": 31,
+      "Time": "09:19"
     },
     {
       "Name": "cdn",
       "Steam": "76561198670164268",
-      "Score": 15,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "Santiago",
       "Steam": "76561198166519466",
-      "Score": 78,
+      "Score": 92,
       "Time": "??:??"
     },
     {
       "Name": "goonbait",
       "Steam": "76561198847829880",
-      "Score": 61,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Robert Smith",
-      "Steam": "76561198658070621",
-      "Score": 25,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 42,
-      "Time": "68:01"
+      "Score": 48,
+      "Time": "70:01"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 13,
-      "Time": "15:34"
+      "Score": 23,
+      "Time": "17:34"
     },
     {
       "Name": "linearvelocityfunction",
       "Steam": "76561199880717233",
-      "Score": 59,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "catgirllover",
       "Steam": "76561198694315715",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 135,
-      "Time": "66:38"
+      "Score": 149,
+      "Time": "68:38"
     },
     {
-      "Name": "★",
-      "Steam": "76561199857246285",
+      "Name": "jonus",
+      "Steam": "76561198730736693",
       "Score": 0,
       "Time": "??:??"
     },
@@ -83,25 +83,31 @@
       "Name": "Mr Beast",
       "Steam": "76561198679571090",
       "Score": 0,
-      "Time": "05:21"
+      "Time": "07:21"
     },
     {
       "Name": "\uD83D\uDCA4",
       "Steam": "76561199805503727",
       "Score": 14,
-      "Time": "12:29"
+      "Time": "14:29"
+    },
+    {
+      "Name": "LadderChute199",
+      "Steam": "76561199229503823",
+      "Score": 0,
+      "Time": "00:30"
     },
     {
       "Name": "i am mr beast",
       "Steam": "76561198181472262",
-      "Score": 14,
-      "Time": "07:27"
+      "Score": 19,
+      "Time": "09:27"
     },
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 54,
-      "Time": "13:56"
+      "Score": 64,
+      "Time": "15:56"
     }
   ]
 }
