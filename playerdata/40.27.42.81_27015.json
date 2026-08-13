@@ -1,28 +1,34 @@
 {
-  "Time": "2026-08-13T05:02:56.9319805Z",
+  "Time": "2026-08-13T05:04:56.9368839Z",
   "Players": [
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 0,
+      "Time": "01:13"
+    },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 71,
-      "Time": "17:38"
+      "Score": 73,
+      "Time": "19:38"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 24,
-      "Time": "63:52"
+      "Score": 30,
+      "Time": "65:52"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 4,
-      "Time": "18:23"
+      "Score": 6,
+      "Time": "20:23"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199471107546",
-      "Score": 35,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
