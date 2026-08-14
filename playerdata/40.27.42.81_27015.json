@@ -1,17 +1,17 @@
 {
-  "Time": "2026-08-14T21:53:16.0198471Z",
+  "Time": "2026-08-14T21:55:16.0112365Z",
   "Players": [
+    {
+      "Name": "an eater",
+      "Steam": "76561198975835356",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Flowers",
       "Steam": "76561198819683930",
-      "Score": 55,
-      "Time": "97:27"
-    },
-    {
-      "Name": "Z9co.",
-      "Steam": "76561198661626582",
-      "Score": 11,
-      "Time": "??:??"
+      "Score": 57,
+      "Time": "99:27"
     },
     {
       "Name": "february",
@@ -22,44 +22,44 @@
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 89,
+      "Score": 104,
       "Time": "??:??"
     },
     {
       "Name": "Tramadol",
       "Steam": "76561199812415276",
-      "Score": 47,
-      "Time": "95:04"
+      "Score": 53,
+      "Time": "97:04"
     },
     {
       "Name": "baited",
       "Steam": "76561198735681197",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Cheater Hacker Boss 2",
-      "Steam": "76561199883300244",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "[velocity] sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
-      "Score": 16,
-      "Time": "13:09"
+      "Score": 20,
+      "Time": "15:09"
     },
     {
       "Name": "september",
       "Steam": "76561199820215253",
-      "Score": 129,
-      "Time": "25:40"
+      "Score": 136,
+      "Time": "27:40"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 47,
+      "Score": 59,
       "Time": "??:??"
+    },
+    {
+      "Name": "rkop",
+      "Steam": "76561199847972912",
+      "Score": 3,
+      "Time": "02:00"
     }
   ]
 }
