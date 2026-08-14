@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-14T00:29:21.1883321Z",
+  "Time": "2026-08-14T00:31:21.1991989Z",
   "Players": [
     {
       "Name": "Estriper, Kawazaki, Krico, Cago",
       "Steam": "76561198665419054",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
+    },
+    {
+      "Name": "Apologize",
+      "Steam": "76561199137214616",
+      "Score": 0,
+      "Time": "00:43"
     },
     {
       "Name": "tayshots",
       "Steam": "76561198664891127",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Ketamine",
       "Steam": "76561199836886163",
-      "Score": 99,
-      "Time": "113:32"
+      "Score": 105,
+      "Time": "115:32"
     },
     {
       "Name": "sus",
       "Steam": "76561198655638870",
-      "Score": 73,
+      "Score": 81,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 85,
-      "Time": "18:43"
+      "Score": 91,
+      "Time": "20:43"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 84,
+      "Score": 101,
       "Time": "??:??"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 1,
-      "Time": "34:04"
+      "Score": 3,
+      "Time": "36:04"
     },
     {
       "Name": "nmz",
       "Steam": "76561199038651407",
-      "Score": 20,
-      "Time": "112:54"
+      "Score": 0,
+      "Time": "114:54"
     },
     {
       "Name": "Loading...",
@@ -58,14 +64,14 @@
     {
       "Name": "cdn",
       "Steam": "76561198670164268",
-      "Score": 12,
-      "Time": "88:16"
+      "Score": 17,
+      "Time": "90:16"
     },
     {
       "Name": "dev",
       "Steam": "76561198219350995",
-      "Score": 18,
-      "Time": "06:56"
+      "Score": 27,
+      "Time": "08:56"
     }
   ]
 }
