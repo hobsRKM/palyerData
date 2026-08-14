@@ -1,53 +1,71 @@
 {
-  "Time": "2026-08-14T01:25:21.1934086Z",
+  "Time": "2026-08-14T01:27:21.1993886Z",
   "Players": [
+    {
+      "Name": "wingstop",
+      "Steam": "76561199106168507",
+      "Score": 0,
+      "Time": "01:45"
+    },
     {
       "Name": "Ketamine",
       "Steam": "76561199836886163",
-      "Score": 56,
-      "Time": "169:32"
+      "Score": 68,
+      "Time": "171:32"
+    },
+    {
+      "Name": "A_me_a",
+      "Steam": "76561199436225054",
+      "Score": 1,
+      "Time": "00:54"
     },
     {
       "Name": "im such a chud",
       "Steam": "76561198723445690",
-      "Score": 43,
-      "Time": "16:23"
+      "Score": 45,
+      "Time": "18:23"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 4,
-      "Time": "23:16"
+      "Score": 12,
+      "Time": "25:16"
     },
     {
       "Name": "Hanako",
       "Steam": "76561198375724752",
-      "Score": 2,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 58,
-      "Time": "74:43"
+      "Score": 66,
+      "Time": "76:43"
+    },
+    {
+      "Name": "\uDB40\uDC21\uDB40\uDC21",
+      "Steam": "76561199837114653",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 60,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 37,
-      "Time": "20:52"
+      "Score": 43,
+      "Time": "22:52"
     },
     {
       "Name": "sleep",
       "Steam": "76561198691835436",
-      "Score": 46,
-      "Time": "147:02"
+      "Score": 57,
+      "Time": "149:02"
     }
   ]
 }
