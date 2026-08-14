@@ -1,41 +1,47 @@
 {
-  "Time": "2026-08-14T22:35:16.0277068Z",
+  "Time": "2026-08-14T22:37:16.0480669Z",
   "Players": [
+    {
+      "Name": "Kurokendrick",
+      "Steam": "76561199479790668",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 50,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "sus",
       "Steam": "76561198655638870",
-      "Score": 13,
-      "Time": "06:59"
+      "Score": 22,
+      "Time": "08:59"
     },
     {
       "Name": "glizzwald",
       "Steam": "76561198036942622",
-      "Score": 15,
-      "Time": "08:48"
+      "Score": 36,
+      "Time": "10:48"
     },
     {
       "Name": "i knew when the hotline blinged",
       "Steam": "76561198319140486",
-      "Score": 40,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "LOOK AT IT",
       "Steam": "76561199887239492",
-      "Score": 37,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "im such a chud",
       "Steam": "76561198723445690",
-      "Score": 32,
-      "Time": "18:32"
+      "Score": 4,
+      "Time": "20:32"
     },
     {
       "Name": "dork",
@@ -52,20 +58,26 @@
     {
       "Name": "september",
       "Steam": "76561199820215253",
-      "Score": 28,
-      "Time": "67:40"
+      "Score": 39,
+      "Time": "69:40"
     },
     {
       "Name": "Lucid_ev",
       "Steam": "76561199833474356",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "krook",
       "Steam": "76561198672653618",
-      "Score": 9,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "rkop",
+      "Steam": "76561199847972912",
+      "Score": 0,
+      "Time": "00:37"
     }
   ]
 }
