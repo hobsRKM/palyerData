@@ -1,65 +1,77 @@
 {
-  "Time": "2026-08-14T20:39:16.0212255Z",
+  "Time": "2026-08-14T20:41:16.0160229Z",
   "Players": [
+    {
+      "Name": "tate",
+      "Steam": "76561198059477947",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "sxo666",
       "Steam": "76561198693001781",
-      "Score": 87,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "VSA",
       "Steam": "76561199067113258",
-      "Score": 47,
+      "Score": 53,
       "Time": "??:??"
     },
     {
       "Name": "sus",
       "Steam": "76561198655638870",
-      "Score": 42,
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "furryboy971",
+      "Steam": "76561198656789869",
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "nmz",
       "Steam": "76561199038651407",
-      "Score": 59,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "Hanako",
       "Steam": "76561198375724752",
-      "Score": 59,
-      "Time": "44:29"
+      "Score": 64,
+      "Time": "46:29"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 124,
-      "Time": "18:40"
+      "Score": 145,
+      "Time": "20:40"
     },
     {
       "Name": "Looking for Russian baddies \uD83D\uDE0D",
       "Steam": "76561199229233111",
-      "Score": 25,
-      "Time": "126:35"
+      "Score": 31,
+      "Time": "128:35"
     },
     {
       "Name": "Natalie",
       "Steam": "76561199114281286",
-      "Score": 15,
-      "Time": "11:33"
+      "Score": 3,
+      "Time": "13:33"
     },
     {
       "Name": "googie",
       "Steam": "76561198714604737",
-      "Score": 13,
-      "Time": "11:16"
+      "Score": 3,
+      "Time": "13:16"
     },
     {
       "Name": "knife only",
       "Steam": "76561199476991179",
-      "Score": 4,
-      "Time": "04:46"
+      "Score": 14,
+      "Time": "06:46"
     }
   ]
 }
