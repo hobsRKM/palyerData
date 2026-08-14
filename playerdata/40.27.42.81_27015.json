@@ -1,52 +1,70 @@
 {
-  "Time": "2026-08-14T21:23:16.0255961Z",
+  "Time": "2026-08-14T21:25:16.0139323Z",
   "Players": [
+    {
+      "Name": "havoccarti",
+      "Steam": "76561198656958293",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "linearvelocityfunction",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "sxo666",
       "Steam": "76561198693001781",
-      "Score": 0,
-      "Time": "00:20"
+      "Score": 4,
+      "Time": "02:20"
     },
     {
       "Name": "Z9co.",
       "Steam": "76561198661626582",
-      "Score": 33,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 72,
+      "Score": 87,
       "Time": "??:??"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 57,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "VSA",
       "Steam": "76561199067113258",
-      "Score": 37,
+      "Score": 43,
       "Time": "??:??"
+    },
+    {
+      "Name": "vmogsu",
+      "Steam": "76561198662313129",
+      "Score": 0,
+      "Time": "00:29"
     },
     {
       "Name": "Hanako",
       "Steam": "76561198375724752",
-      "Score": 41,
-      "Time": "34:40"
+      "Score": 47,
+      "Time": "36:40"
     },
     {
       "Name": "rkop",
       "Steam": "76561199847972912",
-      "Score": 3,
-      "Time": "06:12"
+      "Score": 0,
+      "Time": "08:12"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 14,
+      "Score": 19,
       "Time": "??:??"
     }
   ]
