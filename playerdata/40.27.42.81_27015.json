@@ -1,17 +1,23 @@
 {
-  "Time": "2026-08-14T00:49:21.1932517Z",
+  "Time": "2026-08-14T00:51:21.1862529Z",
   "Players": [
+    {
+      "Name": "67",
+      "Steam": "76561199200375921",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "faith (/market/item?id=uRiNb6)",
       "Steam": "76561198673536810",
-      "Score": 4,
-      "Time": "77:13"
+      "Score": 14,
+      "Time": "79:13"
     },
     {
       "Name": "Ketamine",
       "Steam": "76561199836886163",
-      "Score": 6,
-      "Time": "133:32"
+      "Score": 13,
+      "Time": "135:32"
     },
     {
       "Name": "sus",
@@ -22,38 +28,38 @@
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 0,
-      "Time": "38:43"
+      "Score": 8,
+      "Time": "40:43"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 11,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
       "Score": 7,
-      "Time": "54:04"
+      "Time": "56:04"
     },
     {
       "Name": "sleep",
       "Steam": "76561198691835436",
-      "Score": 8,
-      "Time": "111:02"
+      "Score": 14,
+      "Time": "113:02"
     },
     {
       "Name": "cdn",
       "Steam": "76561198670164268",
-      "Score": 2,
-      "Time": "108:16"
+      "Score": 6,
+      "Time": "110:16"
     },
     {
       "Name": "dev",
       "Steam": "76561198219350995",
-      "Score": 2,
-      "Time": "26:56"
+      "Score": 6,
+      "Time": "28:56"
     }
   ]
 }
