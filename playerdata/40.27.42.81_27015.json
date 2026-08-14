@@ -1,16 +1,22 @@
 {
-  "Time": "2026-08-14T14:07:16.0062645Z",
+  "Time": "2026-08-14T14:09:16.0152027Z",
   "Players": [
+    {
+      "Name": "babapro",
+      "Steam": "76561198698314326",
+      "Score": 0,
+      "Time": "00:35"
+    },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 26,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "faith /market/item?id=QYlS0V",
       "Steam": "76561198673536810",
-      "Score": 64,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
