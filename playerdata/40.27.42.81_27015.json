@@ -1,52 +1,58 @@
 {
-  "Time": "2026-08-14T17:57:16.0132647Z",
+  "Time": "2026-08-14T17:59:16.0156016Z",
   "Players": [
     {
       "Name": "resent",
       "Steam": "76561198682242874",
-      "Score": 0,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "J",
+      "Steam": "76561198662629147",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "sj",
       "Steam": "76561198664075370",
-      "Score": 2,
-      "Time": "04:20"
+      "Score": 6,
+      "Time": "06:20"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 16,
-      "Time": "02:20"
+      "Score": 24,
+      "Time": "04:20"
     },
     {
       "Name": "639",
       "Steam": "76561199628740692",
-      "Score": 32,
-      "Time": "83:44"
+      "Score": 34,
+      "Time": "85:44"
     },
     {
       "Name": "Natalie",
       "Steam": "76561199114281286",
-      "Score": 24,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "madrasian",
       "Steam": "76561199307828359",
-      "Score": 18,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "googie",
       "Steam": "76561198714604737",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "knife only",
       "Steam": "76561199476991179",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     }
   ]
