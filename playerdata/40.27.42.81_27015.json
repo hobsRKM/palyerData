@@ -1,64 +1,70 @@
 {
-  "Time": "2026-08-14T00:19:21.1912015Z",
+  "Time": "2026-08-14T00:21:21.1907557Z",
   "Players": [
     {
       "Name": "Estriper, Kawazaki, Krico, Cago",
       "Steam": "76561198665419054",
-      "Score": 9,
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Basszal Halalra",
+      "Steam": "76561198662353113",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "dc6m",
       "Steam": "76561199453571627",
       "Score": 5,
-      "Time": "41:47"
+      "Time": "43:47"
     },
     {
       "Name": "Ketamine",
       "Steam": "76561199836886163",
-      "Score": 58,
-      "Time": "103:32"
+      "Score": 62,
+      "Time": "105:32"
     },
     {
       "Name": "sus",
       "Steam": "76561198655638870",
-      "Score": 34,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 36,
-      "Time": "08:43"
+      "Score": 45,
+      "Time": "10:43"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 40,
+      "Score": 48,
       "Time": "??:??"
     },
     {
-      "Name": "Supremeu",
-      "Steam": "76561199679337398",
-      "Score": 5,
-      "Time": "02:28"
+      "Name": "ZaDiRaBOB 3",
+      "Steam": "76561199148908407",
+      "Score": 2,
+      "Time": "65:02"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 23,
-      "Time": "24:04"
+      "Score": 31,
+      "Time": "26:04"
     },
     {
       "Name": "nmz",
       "Steam": "76561199038651407",
-      "Score": 13,
-      "Time": "102:54"
+      "Score": 18,
+      "Time": "104:54"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 29,
+      "Score": 35,
       "Time": "??:??"
     },
     {
@@ -71,13 +77,19 @@
       "Name": "cdn",
       "Steam": "76561198670164268",
       "Score": 1,
-      "Time": "78:16"
+      "Time": "80:16"
     },
     {
       "Name": "infinite pay",
       "Steam": "76561198664308316",
       "Score": 0,
-      "Time": "00:36"
+      "Time": "02:36"
+    },
+    {
+      "Name": "vugorshipicyn99",
+      "Steam": "76561199344095884",
+      "Score": 1,
+      "Time": "01:45"
     }
   ]
 }
