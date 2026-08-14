@@ -1,5 +1,5 @@
 {
-  "Time": "2026-08-14T01:17:21.1921887Z",
+  "Time": "2026-08-14T01:19:21.1950967Z",
   "Players": [
     {
       "Name": "riotsurge",
@@ -8,10 +8,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "wingstop",
+      "Steam": "76561199106168507",
+      "Score": 0,
+      "Time": "01:51"
+    },
+    {
       "Name": "Ketamine",
       "Steam": "76561199836886163",
       "Score": 22,
-      "Time": "161:32"
+      "Time": "163:32"
     },
     {
       "Name": "nao gosto de xitar",
@@ -20,10 +26,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 0,
+      "Time": "158:15"
+    },
+    {
       "Name": "im such a chud",
       "Steam": "76561198723445690",
-      "Score": 13,
-      "Time": "08:23"
+      "Score": 25,
+      "Time": "10:23"
     },
     {
       "Name": "osamason",
@@ -34,32 +46,32 @@
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 24,
-      "Time": "66:43"
+      "Score": 35,
+      "Time": "68:43"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 22,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
-      "Score": 20,
-      "Time": "82:04"
+      "Score": 25,
+      "Time": "84:04"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 12,
-      "Time": "12:52"
+      "Score": 24,
+      "Time": "14:52"
     },
     {
       "Name": "sleep",
       "Steam": "76561198691835436",
-      "Score": 18,
-      "Time": "139:02"
+      "Score": 23,
+      "Time": "141:02"
     }
   ]
 }
