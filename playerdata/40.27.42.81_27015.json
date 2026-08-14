@@ -1,47 +1,53 @@
 {
-  "Time": "2026-08-14T01:57:21.1831021Z",
+  "Time": "2026-08-14T01:59:21.1930651Z",
   "Players": [
+    {
+      "Name": "reganscott87",
+      "Steam": "76561198794732414",
+      "Score": 2,
+      "Time": "225:14"
+    },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198659319262",
-      "Score": 48,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 14,
-      "Time": "55:16"
+      "Score": 18,
+      "Time": "57:16"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199837114653",
       "Score": 31,
-      "Time": "23:38"
+      "Time": "25:38"
     },
     {
       "Name": "svt",
       "Steam": "76561199064413061",
-      "Score": 17,
-      "Time": "26:23"
+      "Score": 19,
+      "Time": "28:23"
     },
     {
       "Name": "almenia",
       "Steam": "76561199820215253",
       "Score": 30,
-      "Time": "09:14"
+      "Time": "11:14"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 43,
-      "Time": "52:52"
+      "Score": 53,
+      "Time": "54:52"
     },
     {
       "Name": "dev",
       "Steam": "76561198219350995",
-      "Score": 1,
-      "Time": "19:08"
+      "Score": 3,
+      "Time": "21:08"
     }
   ]
 }
