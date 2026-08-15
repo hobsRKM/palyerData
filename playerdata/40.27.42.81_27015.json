@@ -1,16 +1,22 @@
 {
-  "Time": "2026-08-15T10:57:37.5418116Z",
+  "Time": "2026-08-15T10:59:37.5415095Z",
   "Players": [
+    {
+      "Name": "Flowers",
+      "Steam": "76561198819683930",
+      "Score": 0,
+      "Time": "01:56"
+    },
     {
       "Name": "Serial Killer Vibes",
       "Steam": "76561198425753214",
       "Score": 0,
-      "Time": "01:23"
+      "Time": "03:23"
     },
     {
       "Name": "JACON",
       "Steam": "76561198724270024",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
