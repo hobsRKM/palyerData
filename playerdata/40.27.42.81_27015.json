@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-15T05:29:22.4911274Z",
+  "Time": "2026-08-15T05:31:22.5012424Z",
   "Players": [
+    {
+      "Name": "YappyDoor",
+      "Steam": "76561198678197330",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "[velo] stefankuerten",
       "Steam": "76561198113457131",
@@ -8,40 +14,40 @@
       "Time": "??:??"
     },
     {
-      "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
-      "Steam": "76561199086867846",
-      "Score": 49,
-      "Time": "03:20"
-    },
-    {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 163,
+      "Score": 168,
       "Time": "??:??"
+    },
+    {
+      "Name": "kurt123123123",
+      "Steam": "76561198681652913",
+      "Score": 0,
+      "Time": "01:50"
     },
     {
       "Name": "[vel] BummerrustClanpidori",
       "Steam": "76561198795178025",
-      "Score": 6,
-      "Time": "16:22"
+      "Score": 8,
+      "Time": "18:22"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 10,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "pok",
       "Steam": "76561199471107546",
-      "Score": 88,
-      "Time": "21:15"
+      "Score": 93,
+      "Time": "00:35"
     },
     {
       "Name": "GUTS",
       "Steam": "76561198662576775",
-      "Score": 18,
-      "Time": "25:29"
+      "Score": 22,
+      "Time": "27:29"
     }
   ]
 }
