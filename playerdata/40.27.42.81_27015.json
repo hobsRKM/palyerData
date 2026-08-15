@@ -1,95 +1,107 @@
 {
-  "Time": "2026-08-14T23:11:16.160382Z",
+  "Time": "2026-08-14T23:13:16.1636377Z",
   "Players": [
+    {
+      "Name": ":/",
+      "Steam": "76561198359861722",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
-      "Score": 7,
-      "Time": "23:11"
-    },
-    {
-      "Name": "Профі Ретард",
-      "Steam": "76561199812153393",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 11,
+      "Time": "25:11"
     },
     {
       "Name": "Tramadol",
       "Steam": "76561199812415276",
-      "Score": 56,
-      "Time": "22:26"
+      "Score": 58,
+      "Time": "24:26"
+    },
+    {
+      "Name": "Meta,rust",
+      "Steam": "76561198782809251",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 59,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "sus",
       "Steam": "76561198655638870",
-      "Score": 33,
-      "Time": "12:52"
+      "Score": 42,
+      "Time": "14:52"
     },
     {
       "Name": "i knew when the hotline blinged",
       "Steam": "76561198319140486",
-      "Score": 45,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "LOOK AT IT",
       "Steam": "76561199887239492",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "im such a chud",
       "Steam": "76561198723445690",
-      "Score": 46,
-      "Time": "54:33"
+      "Score": 48,
+      "Time": "56:33"
     },
     {
       "Name": "[velocity] sTUDENTTTTT STUDENT",
       "Steam": "76561198682261109",
-      "Score": 2,
-      "Time": "13:34"
+      "Score": 0,
+      "Time": "15:34"
     },
     {
       "Name": "faith /market/item?id=QYlS0V",
       "Steam": "76561198673536810",
-      "Score": 36,
-      "Time": "103:06"
+      "Score": 46,
+      "Time": "105:06"
     },
     {
       "Name": "okami",
       "Steam": "76561199820215253",
+      "Score": 11,
+      "Time": "10:18"
+    },
+    {
+      "Name": "legendware debug",
+      "Steam": "76561198847158730",
       "Score": 0,
-      "Time": "08:18"
+      "Time": "??:??"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 24,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Silver Duck",
       "Steam": "76561199053048408",
-      "Score": 12,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "rkop",
       "Steam": "76561199847972912",
-      "Score": 2,
-      "Time": "29:01"
+      "Score": 1,
+      "Time": "31:01"
     },
     {
       "Name": "tate",
       "Steam": "76561198059477947",
-      "Score": 5,
-      "Time": "106:41"
+      "Score": 8,
+      "Time": "108:41"
     }
   ]
 }
