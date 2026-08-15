@@ -1,4 +1,35 @@
 {
-  "Time": "2026-08-15T11:28:36.9289595Z",
-  "Players": []
+  "Time": "2026-08-15T11:30:13.9865667Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "35:37"
+    },
+    {
+      "Name": ":D",
+      "Steam": "76561198659419344",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "lightningspeed.xyz",
+      "Steam": "76561199234790896",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FROZEN",
+      "Steam": "76561198675544103",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "watch demo watch demo",
+      "Steam": "76561198973764139",
+      "Score": 1,
+      "Time": "01:40"
+    }
+  ]
 }
