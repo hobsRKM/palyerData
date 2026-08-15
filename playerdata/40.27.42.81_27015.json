@@ -1,74 +1,80 @@
 {
-  "Time": "2026-08-15T00:45:16.6975306Z",
+  "Time": "2026-08-15T00:47:16.7165234Z",
   "Players": [
+    {
+      "Name": "Flowers",
+      "Steam": "76561198819683930",
+      "Score": 0,
+      "Time": "52:42"
+    },
     {
       "Name": "ilovev.gov12",
       "Steam": "76561199866742483",
-      "Score": 52,
-      "Time": "143:21"
+      "Score": 54,
+      "Time": "145:21"
     },
     {
       "Name": "Tramadol",
       "Steam": "76561199812415276",
-      "Score": 23,
-      "Time": "08:27"
+      "Score": 31,
+      "Time": "10:27"
     },
     {
       "Name": "komi",
       "Steam": "76561199588690188",
-      "Score": 64,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 86,
+      "Score": 92,
       "Time": "??:??"
-    },
-    {
-      "Name": "Meta,rust",
-      "Steam": "76561198782809251",
-      "Score": 1,
-      "Time": "01:39"
     },
     {
       "Name": "dev",
       "Steam": "76561198219350995",
-      "Score": 13,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Brazil F36",
       "Steam": "76561198682261109",
-      "Score": 71,
-      "Time": "31:58"
+      "Score": 76,
+      "Time": "33:58"
+    },
+    {
+      "Name": "elijahthe67777",
+      "Steam": "76561198655088065",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 18,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "faith /market/item?id=QYlS0V",
       "Steam": "76561198673536810",
-      "Score": 32,
-      "Time": "23:04"
+      "Score": 36,
+      "Time": "25:04"
     },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 0,
-      "Time": "66:15"
+      "Score": 5,
+      "Time": "68:15"
     },
     {
       "Name": "madrasian",
       "Steam": "76561199307828359",
       "Score": 46,
-      "Time": "157:49"
+      "Time": "159:49"
     },
     {
-      "Name": "pleWare | ObimihLefttestih",
+      "Name": "leWare | ObimihLefttestih",
       "Steam": "76561199388856594",
       "Score": 0,
       "Time": "??:??"
@@ -76,19 +82,19 @@
     {
       "Name": "cynth",
       "Steam": "76561199626903344",
-      "Score": 51,
-      "Time": "22:49"
+      "Score": 53,
+      "Time": "24:49"
     },
     {
       "Name": "Ketamine",
       "Steam": "76561199836886163",
-      "Score": 76,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "b28228854",
       "Steam": "76561198669837073",
-      "Score": 73,
+      "Score": 91,
       "Time": "??:??"
     }
   ]
