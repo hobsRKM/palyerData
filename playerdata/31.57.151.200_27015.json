@@ -1,4 +1,23 @@
 {
-  "Time": "2026-08-15T23:02:36.9359083Z",
-  "Players": []
+  "Time": "2026-08-15T23:02:50.0503781Z",
+  "Players": [
+    {
+      "Name": "faster-than-mixy",
+      "Steam": "76561198657684717",
+      "Score": 33,
+      "Time": "10:49"
+    },
+    {
+      "Name": "Mieczysław Nigeryjczyk",
+      "Steam": "76561198776839176",
+      "Score": 20,
+      "Time": "09:30"
+    },
+    {
+      "Name": "nimiec",
+      "Steam": "76561199882399702",
+      "Score": 38,
+      "Time": "??:??"
+    }
+  ]
 }
