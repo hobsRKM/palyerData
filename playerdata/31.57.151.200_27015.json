@@ -1,40 +1,70 @@
 {
-  "Time": "2026-08-15T08:54:13.989503Z",
+  "Time": "2026-08-15T08:54:33.0403788Z",
   "Players": [
     {
-      "Name": "Unicorn",
-      "Steam": "76561199109946506",
+      "Name": "Nexus",
+      "Steam": "76561198665142835",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Rybka Fishy",
+      "Steam": "76561198749047772",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "No1else",
-      "Steam": "76561198792995235",
-      "Score": 2,
+      "Name": "1",
+      "Steam": "76561198655434742",
+      "Score": 4,
+      "Time": "03:42"
+    },
+    {
+      "Name": "PhonkMaster1337",
+      "Steam": "76561199388002495",
+      "Score": 3,
       "Time": "??:??"
     },
     {
-      "Name": "[velo] yabadabadu",
-      "Steam": "76561198716270508",
+      "Name": "J.Stalin",
+      "Steam": "76561198980404302",
+      "Score": 30,
+      "Time": "??:??"
+    },
+    {
+      "Name": "sanduveronica470",
+      "Steam": "76561198681721500",
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Cabbit",
+      "Steam": "76561198717174929",
+      "Score": 42,
+      "Time": "??:??"
+    },
+    {
+      "Name": "27",
+      "Steam": "76561198667510812",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[sm] x",
+      "Steam": "76561198719974890",
+      "Score": 12,
+      "Time": "01:09"
+    },
+    {
+      "Name": ">",
+      "Steam": "76561198317100810",
       "Score": 0,
-      "Time": "64:44"
+      "Time": "111:54"
     },
     {
-      "Name": ".me/restricti0ns",
-      "Steam": "76561198668002826",
-      "Score": 15,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Min13k_",
-      "Steam": "76561198710867971",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Statement",
-      "Steam": "76561198734600330",
-      "Score": 2,
+      "Name": "xiteixitando",
+      "Steam": "76561199169407896",
+      "Score": 121,
       "Time": "??:??"
     }
   ]
