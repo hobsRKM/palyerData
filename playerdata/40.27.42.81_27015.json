@@ -1,41 +1,47 @@
 {
-  "Time": "2026-08-15T17:51:37.5786927Z",
+  "Time": "2026-08-15T17:53:37.5761235Z",
   "Players": [
+    {
+      "Name": "eWare | ObimihLefttestih",
+      "Steam": "76561199388856594",
+      "Score": 0,
+      "Time": "00:12"
+    },
     {
       "Name": "saxyy",
       "Steam": "76561198675296618",
-      "Score": 32,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "paul",
       "Steam": "76561199725913337",
-      "Score": 59,
-      "Time": "39:25"
+      "Score": 73,
+      "Time": "41:25"
     },
     {
       "Name": "cesira",
       "Steam": "76561198682641825",
-      "Score": 14,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "nn-s",
       "Steam": "76561198785466864",
-      "Score": 41,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "I Am Mason 67",
       "Steam": "76561199745947792",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "My discord is z9co",
       "Steam": "76561198661626582",
-      "Score": 6,
-      "Time": "21:36"
+      "Score": 11,
+      "Time": "23:36"
     }
   ]
 }
