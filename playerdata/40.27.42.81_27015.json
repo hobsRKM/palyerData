@@ -1,41 +1,35 @@
 {
-  "Time": "2026-08-15T21:33:37.8926462Z",
+  "Time": "2026-08-15T21:35:37.9169248Z",
   "Players": [
     {
       "Name": "Rias",
       "Steam": "76561198779285089",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
+      "Steam": "76561198659586005",
+      "Score": 0,
+      "Time": "00:16"
     },
     {
       "Name": "愛してます",
       "Steam": "76561199820215253",
-      "Score": 16,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "dork",
       "Steam": "76561199040961602",
       "Score": 0,
-      "Time": "253:29"
-    },
-    {
-      "Name": "knife only",
-      "Steam": "76561199476991179",
-      "Score": 10,
-      "Time": "35:19"
+      "Time": "255:29"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 16,
+      "Score": 33,
       "Time": "??:??"
-    },
-    {
-      "Name": "im such a chud",
-      "Steam": "76561198723445690",
-      "Score": 0,
-      "Time": "00:27"
     }
   ]
 }
