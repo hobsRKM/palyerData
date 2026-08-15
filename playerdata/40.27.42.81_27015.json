@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-15T15:43:37.6010204Z",
+  "Time": "2026-08-15T15:45:37.5851616Z",
   "Players": [
+    {
+      "Name": "[veloc] ostxgh",
+      "Steam": "76561198656417965",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "restless nights",
       "Steam": "76561198744712586",
-      "Score": 3,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 17,
-      "Time": "03:42"
+      "Score": 21,
+      "Time": "05:42"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 12,
-      "Time": "04:48"
+      "Score": 21,
+      "Time": "06:48"
     }
   ]
 }
