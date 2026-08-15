@@ -1,11 +1,11 @@
 {
-  "Time": "2026-08-15T05:11:22.0997994Z",
+  "Time": "2026-08-15T05:13:22.0998173Z",
   "Players": [
     {
       "Name": "sj",
       "Steam": "76561198664075370",
       "Score": 40,
-      "Time": "33:22"
+      "Time": "35:22"
     },
     {
       "Name": "Alex",
@@ -16,26 +16,32 @@
     {
       "Name": "okami",
       "Steam": "76561199820215253",
-      "Score": 1,
-      "Time": "211:55"
+      "Score": 9,
+      "Time": "213:55"
     },
     {
       "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
       "Steam": "76561199086867846",
-      "Score": 29,
-      "Time": "06:27"
+      "Score": 33,
+      "Time": "08:27"
     },
     {
       "Name": "Vicious #Pingbot",
       "Steam": "76561198700071912",
-      "Score": 78,
+      "Score": 84,
       "Time": "??:??"
+    },
+    {
+      "Name": "#BummerrustClanpidori",
+      "Steam": "76561198795178025",
+      "Score": 0,
+      "Time": "00:21"
     },
     {
       "Name": "pok",
       "Steam": "76561199471107546",
-      "Score": 28,
-      "Time": "03:15"
+      "Score": 38,
+      "Time": "05:15"
     },
     {
       "Name": "Rias",
@@ -46,14 +52,14 @@
     {
       "Name": "GUTS",
       "Steam": "76561198662576775",
-      "Score": 10,
-      "Time": "07:28"
+      "Score": 12,
+      "Time": "09:28"
     },
     {
       "Name": "Samantha",
       "Steam": "76561198760796960",
       "Score": 23,
-      "Time": "416:56"
+      "Time": "418:56"
     }
   ]
 }
