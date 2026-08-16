@@ -1,41 +1,53 @@
 {
-  "Time": "2026-08-16T08:32:10.6424375Z",
+  "Time": "2026-08-16T08:34:10.7230324Z",
   "Players": [
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 64,
-      "Time": "58:48"
+      "Score": 70,
+      "Time": "60:48"
     },
     {
       "Name": "kawai",
       "Steam": "76561198872413352",
-      "Score": 21,
-      "Time": "25:03"
+      "Score": 23,
+      "Time": "27:03"
     },
     {
       "Name": "pok",
       "Steam": "76561199471107546",
       "Score": 46,
-      "Time": "155:30"
+      "Time": "157:30"
+    },
+    {
+      "Name": "NateHiggers",
+      "Steam": "76561198727004476",
+      "Score": 0,
+      "Time": "00:09"
+    },
+    {
+      "Name": "Golden 764 Neegy",
+      "Steam": "76561198655541284",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 73,
+      "Score": 79,
       "Time": "??:??"
     },
     {
       "Name": "VSA",
       "Steam": "76561199067113258",
-      "Score": 60,
+      "Score": 66,
       "Time": "??:??"
     },
     {
       "Name": "nm",
       "Steam": "76561199702414075",
-      "Score": 0,
-      "Time": "00:30"
+      "Score": 1,
+      "Time": "02:30"
     }
   ]
 }
