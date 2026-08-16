@@ -1,41 +1,65 @@
 {
-  "Time": "2026-08-16T19:55:37.6630914Z",
+  "Time": "2026-08-16T19:57:37.6970883Z",
   "Players": [
+    {
+      "Name": "wait",
+      "Steam": "76561198680309363",
+      "Score": 4,
+      "Time": "90:01"
+    },
+    {
+      "Name": "Hitler",
+      "Steam": "76561198727004476",
+      "Score": 0,
+      "Time": "01:33"
+    },
+    {
+      "Name": "Tramadol",
+      "Steam": "76561199812415276",
+      "Score": 2,
+      "Time": "00:27"
+    },
     {
       "Name": "triplet",
       "Steam": "76561198656816408",
-      "Score": 4,
-      "Time": "289:43"
+      "Score": 8,
+      "Time": "291:44"
     },
     {
       "Name": "libtard",
       "Steam": "76561198847829880",
-      "Score": 0,
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD83C\uDDF9\uD83C\uDDFD\uD83C\uDDE6",
+      "Steam": "76561198691198196",
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 45,
-      "Time": "10:06"
+      "Score": 63,
+      "Time": "12:06"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 93,
-      "Time": "194:48"
+      "Score": 95,
+      "Time": "196:48"
     },
     {
       "Name": "i love doze",
       "Steam": "76561199793047988",
-      "Score": 17,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "thien",
       "Steam": "76561198665520717",
-      "Score": 17,
-      "Time": "27:31"
+      "Score": 18,
+      "Time": "29:31"
     },
     {
       "Name": "Xantares’ son",
@@ -46,20 +70,20 @@
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 80,
-      "Time": "62:51"
+      "Score": 94,
+      "Time": "64:51"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 21,
-      "Time": "04:08"
+      "Time": "06:08"
     },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
-      "Score": 14,
-      "Time": "04:07"
+      "Score": 18,
+      "Time": "06:07"
     }
   ]
 }
