@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-16T17:47:37.5860122Z",
+  "Time": "2026-08-16T17:49:37.5753748Z",
   "Players": [
+    {
+      "Name": "Tramadol",
+      "Steam": "76561199812415276",
+      "Score": 2,
+      "Time": "01:08"
+    },
     {
       "Name": "James",
       "Steam": "76561199121215178",
@@ -10,25 +16,19 @@
     {
       "Name": "defensive lion hunting a mouse",
       "Steam": "76561199229233111",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 22,
-      "Time": "66:48"
-    },
-    {
-      "Name": "赵勃文",
-      "Steam": "76561199284382754",
-      "Score": 6,
-      "Time": "58:10"
+      "Score": 30,
+      "Time": "68:48"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 24,
+      "Score": 30,
       "Time": "??:??"
     },
     {
@@ -40,8 +40,8 @@
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 2,
-      "Time": "01:47"
+      "Score": 4,
+      "Time": "03:47"
     }
   ]
 }
