@@ -1,5 +1,5 @@
 {
-  "Time": "2026-08-16T10:38:23.9143771Z",
+  "Time": "2026-08-16T10:40:23.9200786Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,13 +10,19 @@
     {
       "Name": "Tommy Tapping Bots",
       "Steam": "76561198705437933",
-      "Score": 22,
-      "Time": "95:31"
+      "Score": 40,
+      "Time": "97:31"
+    },
+    {
+      "Name": "hatedewonse",
+      "Steam": "76561199349679577",
+      "Score": 1,
+      "Time": "??:??"
     },
     {
       "Name": "Kozi",
       "Steam": "76561198886956313",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
@@ -28,14 +34,20 @@
     {
       "Name": "hello1337",
       "Steam": "76561199419912043",
-      "Score": 15,
+      "Score": 23,
       "Time": "??:??"
+    },
+    {
+      "Name": "beloendendon",
+      "Steam": "76561198661522787",
+      "Score": 0,
+      "Time": "14:52"
     },
     {
       "Name": "SPECTRUM",
       "Steam": "76561198658545307",
       "Score": 0,
-      "Time": "01:26"
+      "Time": "03:26"
     }
   ]
 }
