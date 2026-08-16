@@ -1,35 +1,47 @@
 {
-  "Time": "2026-08-16T00:13:39.6174849Z",
+  "Time": "2026-08-16T00:15:39.6473807Z",
   "Players": [
+    {
+      "Name": "Beartoker™",
+      "Steam": "76561199290398734",
+      "Score": 0,
+      "Time": "01:27"
+    },
+    {
+      "Name": "elliot",
+      "Steam": "76561198667749911",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "愛してます",
       "Steam": "76561199820215253",
-      "Score": 18,
-      "Time": "04:18"
+      "Score": 25,
+      "Time": "06:18"
     },
     {
       "Name": "3d6c | nocheater.cc",
       "Steam": "76561199877703866",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "eclipse",
       "Steam": "76561198197230391",
       "Score": 12,
-      "Time": "77:15"
+      "Time": "79:16"
     },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 15,
-      "Time": "53:59"
+      "Score": 24,
+      "Time": "55:59"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 17,
-      "Time": "15:39"
+      "Score": 23,
+      "Time": "17:39"
     }
   ]
 }
