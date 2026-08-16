@@ -1,35 +1,47 @@
 {
-  "Time": "2026-08-16T01:41:42.1461869Z",
+  "Time": "2026-08-16T01:43:42.089195Z",
   "Players": [
     {
       "Name": "poop cat",
       "Steam": "76561198672531774",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "KneeSlapper",
+      "Steam": "76561198684905994",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 0,
-      "Time": "43:05"
+      "Score": 7,
+      "Time": "45:05"
     },
     {
       "Name": "k",
       "Steam": "76561199558064321",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "ehren",
       "Steam": "76561198665520717",
-      "Score": 0,
-      "Time": "04:22"
+      "Score": 6,
+      "Time": "06:22"
+    },
+    {
+      "Name": "Shit@HvH",
+      "Steam": "76561198726523292",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "cdn",
       "Steam": "76561198670164268",
-      "Score": 0,
-      "Time": "52:42"
+      "Score": 2,
+      "Time": "54:42"
     }
   ]
 }
