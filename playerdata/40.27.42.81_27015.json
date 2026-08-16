@@ -1,47 +1,53 @@
 {
-  "Time": "2026-08-16T04:53:55.9845977Z",
+  "Time": "2026-08-16T04:55:56.0996066Z",
   "Players": [
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
+      "Score": 8,
+      "Time": "188:01"
+    },
+    {
+      "Name": "[veloc] x",
+      "Steam": "76561198684905994",
       "Score": 2,
-      "Time": "186:01"
+      "Time": "01:38"
     },
     {
       "Name": "komi",
       "Steam": "76561199588690188",
-      "Score": 35,
-      "Time": "47:28"
+      "Score": 39,
+      "Time": "49:28"
     },
     {
       "Name": "Rias",
       "Steam": "76561198779285089",
-      "Score": 0,
-      "Time": "203:29"
+      "Score": 1,
+      "Time": "205:30"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 59,
-      "Time": "428:24"
+      "Score": 63,
+      "Time": "430:24"
     },
     {
       "Name": "<3",
       "Steam": "76561198662366829",
-      "Score": 45,
-      "Time": "11:14"
+      "Score": 53,
+      "Time": "13:14"
     },
     {
       "Name": "My discord is z9co",
       "Steam": "76561198661626582",
-      "Score": 5,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 6,
-      "Time": "292:27"
+      "Score": 10,
+      "Time": "294:27"
     }
   ]
 }
