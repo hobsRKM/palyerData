@@ -1,29 +1,29 @@
 {
-  "Time": "2026-08-16T17:56:53.2042527Z",
+  "Time": "2026-08-16T17:58:15.7376472Z",
   "Players": [
     {
-      "Name": ">",
-      "Steam": "76561198317100810",
+      "Name": "Cole",
+      "Steam": "76561198714093800",
+      "Score": 16,
+      "Time": "23:59"
+    },
+    {
+      "Name": "baasitkhan63",
+      "Steam": "76561199800819234",
+      "Score": 2,
+      "Time": "01:56"
+    },
+    {
+      "Name": "{NIXWARE}",
+      "Steam": "76561198657175326",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "missmatched",
+      "Steam": "76561198658545307",
       "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "goncaloramos778",
-      "Steam": "76561199163195233",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "[Neve] sage20",
-      "Steam": "76561198657880277",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "lulu nonprime",
-      "Steam": "76561198690475485",
-      "Score": 33,
-      "Time": "??:??"
+      "Time": "03:12"
     }
   ]
 }
