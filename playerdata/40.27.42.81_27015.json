@@ -1,41 +1,41 @@
 {
-  "Time": "2026-08-16T09:59:37.582095Z",
+  "Time": "2026-08-16T10:01:37.5810008Z",
   "Players": [
     {
       "Name": "VSA",
       "Steam": "76561199067113258",
-      "Score": 37,
-      "Time": "12:33"
+      "Score": 41,
+      "Time": "14:33"
     },
     {
       "Name": "RandomUser88",
       "Steam": "76561198727004476",
-      "Score": 52,
-      "Time": "03:31"
+      "Score": 55,
+      "Time": "05:31"
     },
     {
       "Name": "9r",
       "Steam": "76561198681652913",
-      "Score": 58,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Mega Mind part 7",
-      "Steam": "76561199610084372",
-      "Score": 27,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "Grukington",
       "Steam": "76561199082457511",
-      "Score": 4,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Razor",
       "Steam": "76561199015858739",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
+    },
+    {
+      "Name": "Tramadol",
+      "Steam": "76561199812415276",
+      "Score": 0,
+      "Time": "00:03"
     }
   ]
 }
