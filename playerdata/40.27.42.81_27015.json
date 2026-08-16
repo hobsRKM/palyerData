@@ -1,41 +1,47 @@
 {
-  "Time": "2026-08-16T05:33:58.8818054Z",
+  "Time": "2026-08-16T05:35:59.0061537Z",
   "Players": [
+    {
+      "Name": "sertfy191",
+      "Steam": "76561198657168331",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
       "Score": 0,
-      "Time": "226:04"
+      "Time": "228:04"
     },
     {
       "Name": "DRAINBOSS#CEOLYFE",
       "Steam": "76561199317950958",
-      "Score": 0,
-      "Time": "13:30"
+      "Score": 4,
+      "Time": "15:30"
     },
     {
       "Name": "Tehrani",
       "Steam": "76561199884464406",
-      "Score": 1,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "haaaaaa",
       "Steam": "76561198672531774",
-      "Score": 10,
-      "Time": "89:35"
+      "Score": 15,
+      "Time": "91:35"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 10,
-      "Time": "02:49"
+      "Score": 20,
+      "Time": "04:49"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 8,
-      "Time": "332:30"
+      "Score": 11,
+      "Time": "334:30"
     }
   ]
 }
