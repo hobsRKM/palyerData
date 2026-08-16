@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-16T19:53:37.6545065Z",
+  "Time": "2026-08-16T19:55:37.6630914Z",
   "Players": [
     {
       "Name": "triplet",
       "Steam": "76561198656816408",
       "Score": 4,
-      "Time": "287:43"
+      "Time": "289:43"
+    },
+    {
+      "Name": "libtard",
+      "Steam": "76561198847829880",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 39,
-      "Time": "08:06"
+      "Score": 45,
+      "Time": "10:06"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 79,
-      "Time": "192:48"
+      "Score": 93,
+      "Time": "194:48"
     },
     {
       "Name": "i love doze",
@@ -29,7 +35,7 @@
       "Name": "thien",
       "Steam": "76561198665520717",
       "Score": 17,
-      "Time": "25:31"
+      "Time": "27:31"
     },
     {
       "Name": "Xantares’ son",
@@ -40,20 +46,20 @@
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 72,
-      "Time": "60:51"
+      "Score": 80,
+      "Time": "62:51"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 20,
-      "Time": "02:08"
+      "Score": 21,
+      "Time": "04:08"
     },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
-      "Score": 6,
-      "Time": "02:07"
+      "Score": 14,
+      "Time": "04:07"
     }
   ]
 }
