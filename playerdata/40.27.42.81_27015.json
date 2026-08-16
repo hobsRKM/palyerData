@@ -1,41 +1,41 @@
 {
-  "Time": "2026-08-16T15:03:37.5828934Z",
+  "Time": "2026-08-16T15:05:37.5801985Z",
   "Players": [
+    {
+      "Name": "wait",
+      "Steam": "76561198680309363",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Flexorz",
       "Steam": "76561199503006146",
-      "Score": 27,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "FortniteMaster88",
       "Steam": "76561198727004476",
-      "Score": 3,
-      "Time": "46:28"
+      "Score": 5,
+      "Time": "48:28"
     },
     {
       "Name": "Tramadol",
       "Steam": "76561199812415276",
-      "Score": 64,
-      "Time": "36:16"
+      "Score": 86,
+      "Time": "38:16"
     },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 41,
-      "Time": "68:24"
+      "Score": 47,
+      "Time": "70:24"
     },
     {
       "Name": "demonbalk",
       "Steam": "76561198779601343",
       "Score": 5,
       "Time": "??:??"
-    },
-    {
-      "Name": "Silver Duck",
-      "Steam": "76561199053048408",
-      "Score": 17,
-      "Time": "23:15"
     },
     {
       "Name": "i love doze",
@@ -46,26 +46,26 @@
     {
       "Name": "sus",
       "Steam": "76561198655638870",
-      "Score": 101,
-      "Time": "45:57"
+      "Score": 107,
+      "Time": "47:57"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 78,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "639",
       "Steam": "76561199628740692",
-      "Score": 52,
-      "Time": "18:51"
+      "Score": 54,
+      "Time": "20:51"
     },
     {
       "Name": "Silver",
       "Steam": "76561198819683930",
-      "Score": 90,
-      "Time": "32:35"
+      "Score": 95,
+      "Time": "34:35"
     }
   ]
 }
