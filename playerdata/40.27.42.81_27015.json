@@ -1,16 +1,28 @@
 {
-  "Time": "2026-08-16T21:05:38.1909502Z",
+  "Time": "2026-08-16T21:07:38.1938766Z",
   "Players": [
     {
       "Name": "faith",
       "Steam": "76561198673536810",
+      "Score": 4,
+      "Time": "217:57"
+    },
+    {
+      "Name": "september",
+      "Steam": "76561199820215253",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "monkeyape2009a",
+      "Steam": "76561198661196676",
       "Score": 0,
-      "Time": "215:57"
+      "Time": "??:??"
     },
     {
       "Name": "Vicious",
       "Steam": "76561198700071912",
-      "Score": 77,
+      "Score": 88,
       "Time": "??:??"
     },
     {
@@ -28,20 +40,20 @@
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 30,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "mvbvbnvcnvbghty465mz4%J433h24",
       "Steam": "76561199158419168",
-      "Score": 52,
-      "Time": "36:09"
+      "Score": 59,
+      "Time": "38:09"
     },
     {
       "Name": "charming",
       "Steam": "76561198774226000",
-      "Score": 20,
-      "Time": "10:52"
+      "Score": 23,
+      "Time": "12:52"
     }
   ]
 }
