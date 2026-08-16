@@ -1,5 +1,5 @@
 {
-  "Time": "2026-08-16T19:08:23.9201822Z",
+  "Time": "2026-08-16T19:10:23.9154061Z",
   "Players": [
     {
       "Name": "Unicorn",
@@ -10,26 +10,44 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198665718228",
-      "Score": 11,
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Opelkin | Pasta.fun",
+      "Steam": "76561198659907054",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "TempleW | jann",
+      "Steam": "76561199616394674",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Kasti",
       "Steam": "76561199833286399",
-      "Score": 28,
-      "Time": "07:51"
+      "Score": 6,
+      "Time": "09:51"
     },
     {
       "Name": "Jesse",
       "Steam": "76561198736407409",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "noice",
       "Steam": "76561198657941736",
-      "Score": 2,
-      "Time": "21:52"
+      "Score": 0,
+      "Time": "23:52"
+    },
+    {
+      "Name": "visualz.lua",
+      "Steam": "76561198659923216",
+      "Score": 3,
+      "Time": "??:??"
     }
   ]
 }
