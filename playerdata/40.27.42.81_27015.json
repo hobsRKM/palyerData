@@ -1,29 +1,23 @@
 {
-  "Time": "2026-08-16T19:31:37.6647852Z",
+  "Time": "2026-08-16T19:33:37.6175052Z",
   "Players": [
     {
       "Name": "lee~",
       "Steam": "76561198670330090",
-      "Score": 41,
-      "Time": "19:52"
+      "Score": 45,
+      "Time": "21:52"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 39,
+      "Score": 41,
       "Time": "??:??"
-    },
-    {
-      "Name": "...",
-      "Steam": "76561199405421621",
-      "Score": 63,
-      "Time": "18:47"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 75,
-      "Time": "170:48"
+      "Score": 91,
+      "Time": "172:48"
     },
     {
       "Name": "i love doze",
@@ -34,8 +28,8 @@
     {
       "Name": "thien",
       "Steam": "76561198665520717",
-      "Score": 8,
-      "Time": "03:31"
+      "Score": 10,
+      "Time": "05:31"
     },
     {
       "Name": "Xantares’ son",
@@ -46,14 +40,20 @@
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 96,
-      "Time": "38:51"
+      "Score": 100,
+      "Time": "40:51"
+    },
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 2,
+      "Time": "02:02"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 76,
-      "Time": "74:53"
+      "Score": 78,
+      "Time": "76:53"
     }
   ]
 }
