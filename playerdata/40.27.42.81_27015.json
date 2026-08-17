@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-17T02:35:45.4295199Z",
+  "Time": "2026-08-17T02:37:45.5604372Z",
   "Players": [
+    {
+      "Name": "V",
+      "Steam": "76561199708520028",
+      "Score": 5,
+      "Time": "00:57"
+    },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 20,
-      "Time": "92:59"
+      "Score": 24,
+      "Time": "94:59"
     },
     {
       "Name": "Aloachtar",
       "Steam": "76561199274856901",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
       "Steam": "76561199086867846",
-      "Score": 9,
-      "Time": "05:23"
+      "Score": 11,
+      "Time": "07:23"
     }
   ]
 }
