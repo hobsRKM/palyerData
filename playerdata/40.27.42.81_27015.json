@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-17T02:41:45.6650285Z",
+  "Time": "2026-08-17T02:43:45.6801917Z",
   "Players": [
     {
       "Name": "ja cola",
       "Steam": "76561198772021623",
-      "Score": 0,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Aᴅᴀᴄʜɪ-ᴄʜᴀɴ~",
       "Steam": "76561199751960531",
+      "Score": 9,
+      "Time": "03:25"
+    },
+    {
+      "Name": "aet|rfall getkaiju.cc",
+      "Steam": "76561199375775741",
       "Score": 0,
-      "Time": "01:25"
+      "Time": "??:??"
     },
     {
       "Name": "V",
       "Steam": "76561199708520028",
-      "Score": 17,
-      "Time": "04:57"
+      "Score": 24,
+      "Time": "06:57"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 34,
-      "Time": "98:59"
+      "Score": 38,
+      "Time": "100:59"
     },
     {
       "Name": "Aloachtar",
       "Steam": "76561199274856901",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
@@ -36,12 +42,6 @@
       "Steam": "76561198974952647",
       "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
-      "Steam": "76561199086867846",
-      "Score": 15,
-      "Time": "11:24"
     },
     {
       "Name": "homicide",
@@ -52,8 +52,14 @@
     {
       "Name": "You",
       "Steam": "76561199885903360",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "wait",
+      "Steam": "76561198680309363",
+      "Score": 0,
+      "Time": "37:43"
     }
   ]
 }
