@@ -1,29 +1,59 @@
 {
-  "Time": "2026-08-17T02:39:45.5714257Z",
+  "Time": "2026-08-17T02:41:45.6650285Z",
   "Players": [
+    {
+      "Name": "ja cola",
+      "Steam": "76561198772021623",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Aᴅᴀᴄʜɪ-ᴄʜᴀɴ~",
+      "Steam": "76561199751960531",
+      "Score": 0,
+      "Time": "01:25"
+    },
     {
       "Name": "V",
       "Steam": "76561199708520028",
-      "Score": 11,
-      "Time": "02:57"
+      "Score": 17,
+      "Time": "04:57"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 28,
-      "Time": "96:59"
+      "Score": 34,
+      "Time": "98:59"
     },
     {
       "Name": "Aloachtar",
       "Steam": "76561199274856901",
-      "Score": 22,
+      "Score": 24,
+      "Time": "??:??"
+    },
+    {
+      "Name": "murd",
+      "Steam": "76561198974952647",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
       "Steam": "76561199086867846",
       "Score": 15,
-      "Time": "09:23"
+      "Time": "11:24"
+    },
+    {
+      "Name": "homicide",
+      "Steam": "76561198660312652",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "You",
+      "Steam": "76561199885903360",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
