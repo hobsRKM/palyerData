@@ -1,53 +1,47 @@
 {
-  "Time": "2026-08-17T02:19:44.9570609Z",
+  "Time": "2026-08-17T02:21:45.0253478Z",
   "Players": [
     {
       "Name": "september",
       "Steam": "76561199820215253",
-      "Score": 66,
-      "Time": "03:33"
-    },
-    {
-      "Name": "eclipse",
-      "Steam": "76561198197230391",
       "Score": 70,
-      "Time": "03:30"
+      "Time": "05:33"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 35,
-      "Time": "76:58"
+      "Score": 42,
+      "Time": "78:58"
     },
     {
       "Name": "Aloachtar",
       "Steam": "76561199274856901",
-      "Score": 24,
+      "Score": 26,
+      "Time": "??:??"
+    },
+    {
+      "Name": "p",
+      "Steam": "76561198380272287",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 73,
-      "Time": "67:30"
+      "Score": 83,
+      "Time": "69:30"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 34,
-      "Time": "03:53"
+      "Score": 42,
+      "Time": "05:53"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 2,
-      "Time": "00:32"
-    },
-    {
-      "Name": "svt",
-      "Steam": "76561199064413061",
-      "Score": 9,
-      "Time": "??:??"
+      "Score": 5,
+      "Time": "02:32"
     }
   ]
 }
