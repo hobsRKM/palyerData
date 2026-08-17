@@ -1,35 +1,35 @@
 {
-  "Time": "2026-08-17T02:11:44.6359677Z",
+  "Time": "2026-08-17T02:13:44.6463552Z",
   "Players": [
     {
       "Name": "september",
       "Steam": "76561199820215253",
-      "Score": 49,
-      "Time": "33:12"
+      "Score": 55,
+      "Time": "35:12"
     },
     {
       "Name": "eclipse",
       "Steam": "76561198197230391",
-      "Score": 32,
-      "Time": "57:05"
+      "Score": 44,
+      "Time": "59:05"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
       "Score": 9,
-      "Time": "68:58"
+      "Time": "70:58"
+    },
+    {
+      "Name": "Aloachtar",
+      "Steam": "76561199274856901",
+      "Score": 3,
+      "Time": "??:??"
     },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 50,
-      "Time": "59:29"
-    },
-    {
-      "Name": "Loading...",
-      "Steam": "76561198783859737",
-      "Score": 25,
-      "Time": "67:55"
+      "Score": 55,
+      "Time": "61:29"
     }
   ]
 }
