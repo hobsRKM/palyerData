@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-17T08:04:07.7742261Z",
+  "Time": "2026-08-17T08:06:07.8957798Z",
   "Players": [
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
+    },
+    {
+      "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
+      "Steam": "76561199086867846",
+      "Score": 0,
+      "Time": "00:04"
     },
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 46,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "triplet / chocoHaxx",
       "Steam": "76561198656816408",
-      "Score": 0,
-      "Time": "606:21"
+      "Score": 4,
+      "Time": "608:21"
     }
   ]
 }
