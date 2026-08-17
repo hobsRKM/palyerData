@@ -1,29 +1,59 @@
 {
-  "Time": "2026-08-17T00:33:41.2548053Z",
+  "Time": "2026-08-17T00:35:41.2645837Z",
   "Players": [
+    {
+      "Name": "faith",
+      "Steam": "76561198673536810",
+      "Score": 14,
+      "Time": "01:50"
+    },
+    {
+      "Name": "nm",
+      "Steam": "76561199702414075",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "My discord is z9co",
+      "Steam": "76561198661626582",
+      "Score": 1,
+      "Time": "00:42"
+    },
     {
       "Name": "saxyy",
       "Steam": "76561198675296618",
-      "Score": 15,
-      "Time": "188:45"
+      "Score": 16,
+      "Time": "190:45"
+    },
+    {
+      "Name": "Gemini Ai Modeled Me <3",
+      "Steam": "76561199777862397",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 45,
-      "Time": "98:19"
+      "Score": 50,
+      "Time": "100:19"
     },
     {
       "Name": "lq.7.",
       "Steam": "76561198427939953",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Person",
       "Steam": "76561198671567034",
-      "Score": 21,
-      "Time": "02:31"
+      "Score": 25,
+      "Time": "04:31"
+    },
+    {
+      "Name": "Hellen Wong ǀ .gg/priv9",
+      "Steam": "76561198710808877",
+      "Score": 0,
+      "Time": "48:02"
     }
   ]
 }
