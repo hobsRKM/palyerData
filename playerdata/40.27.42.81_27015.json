@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-17T06:30:00.6423062Z",
+  "Time": "2026-08-17T06:32:00.7472598Z",
   "Players": [
     {
       "Name": "@headless",
       "Steam": "76561198672653618",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Grukington",
       "Steam": "76561199082457511",
-      "Score": 0,
-      "Time": "908:54"
+      "Score": 5,
+      "Time": "910:55"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 30,
-      "Time": "31:57"
+      "Score": 38,
+      "Time": "33:57"
+    },
+    {
+      "Name": "[velo] revelxtionv5",
+      "Steam": "76561198656960017",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
