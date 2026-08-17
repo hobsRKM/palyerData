@@ -1,46 +1,58 @@
 {
-  "Time": "2026-08-17T05:07:54.2743566Z",
+  "Time": "2026-08-17T05:09:54.3686537Z",
   "Players": [
     {
       "Name": "sleep",
       "Steam": "76561198691835436",
-      "Score": 104,
+      "Score": 117,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199471107546",
-      "Score": 35,
-      "Time": "02:32"
+      "Score": 38,
+      "Time": "04:33"
+    },
+    {
+      "Name": "carp",
+      "Steam": "76561198677656480",
+      "Score": 1,
+      "Time": "01:39"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 106,
+      "Score": 118,
       "Time": "??:??"
-    },
-    {
-      "Name": "aim",
-      "Steam": "76561199826685794",
-      "Score": 15,
-      "Time": "06:56"
     },
     {
       "Name": "Alex",
       "Steam": "76561198055317709",
       "Score": 6,
-      "Time": "09:33"
+      "Time": "11:33"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 39,
-      "Time": "364:34"
+      "Score": 45,
+      "Time": "366:34"
     },
     {
       "Name": "cool cat",
       "Steam": "76561199784564861",
-      "Score": 12,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Zyron",
+      "Steam": "76561199475441256",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Simon",
+      "Steam": "76561198655924838",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
