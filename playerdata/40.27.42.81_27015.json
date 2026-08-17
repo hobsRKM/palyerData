@@ -1,14 +1,20 @@
 {
-  "Time": "2026-08-17T03:27:48.0649455Z",
+  "Time": "2026-08-17T03:29:48.1485876Z",
   "Players": [
+    {
+      "Name": "VSA",
+      "Steam": "76561199067113258",
+      "Score": 7,
+      "Time": "549:34"
+    },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     },
     {
-      "Name": "aetherfa getkaiju.cc",
+      "Name": "getkaiju.cc",
       "Steam": "76561199375775741",
       "Score": 0,
       "Time": "??:??"
@@ -16,38 +22,32 @@
     {
       "Name": "V",
       "Steam": "76561199708520028",
-      "Score": 0,
-      "Time": "00:37"
+      "Score": 6,
+      "Time": "02:37"
     },
     {
       "Name": "sure",
       "Steam": "76561199803983146",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:07"
     },
     {
       "Name": "chezepuh",
       "Steam": "76561198166519466",
-      "Score": 18,
-      "Time": "18:48"
-    },
-    {
-      "Name": "\uDB40\uDC73⁧⁧ 利多卡因",
-      "Steam": "76561198869894878",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 28,
+      "Time": "20:48"
     },
     {
       "Name": "Hanako",
       "Steam": "76561198375724752",
-      "Score": 10,
-      "Time": "39:22"
+      "Score": 14,
+      "Time": "41:22"
     },
     {
-      "Name": "thien",
-      "Steam": "76561198665520717",
+      "Name": "Jxnior . #STIMBOT #PINGBOT",
+      "Steam": "76561199836886163",
       "Score": 0,
-      "Time": "36:26"
+      "Time": "??:??"
     }
   ]
 }
