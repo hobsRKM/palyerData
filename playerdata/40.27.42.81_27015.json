@@ -1,35 +1,47 @@
 {
-  "Time": "2026-08-17T06:58:02.2916908Z",
+  "Time": "2026-08-17T07:00:02.3891215Z",
   "Players": [
     {
       "Name": "VSA",
       "Steam": "76561199067113258",
-      "Score": 49,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
       "Score": 18,
-      "Time": "188:40"
+      "Time": "190:40"
+    },
+    {
+      "Name": "Achoo",
+      "Steam": "76561199102382626",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "reganscott87",
+      "Steam": "76561198794732414",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Grukington",
       "Steam": "76561199082457511",
-      "Score": 35,
-      "Time": "936:56"
+      "Score": 45,
+      "Time": "938:56"
     },
     {
       "Name": "JΩTΔ",
       "Steam": "76561198271124450",
-      "Score": 13,
-      "Time": "97:40"
+      "Score": 23,
+      "Time": "99:40"
     },
     {
       "Name": "estrogen",
       "Steam": "76561199882962470",
-      "Score": 15,
-      "Time": "05:27"
+      "Score": 23,
+      "Time": "07:28"
     }
   ]
 }
