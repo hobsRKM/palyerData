@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-17T04:57:53.4669997Z",
+  "Time": "2026-08-17T04:59:53.6274365Z",
   "Players": [
     {
       "Name": "sleep",
       "Steam": "76561198691835436",
-      "Score": 60,
+      "Score": 69,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199471107546",
-      "Score": 6,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 65,
+      "Score": 75,
       "Time": "??:??"
+    },
+    {
+      "Name": "Alex",
+      "Steam": "76561198055317709",
+      "Score": 0,
+      "Time": "01:32"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 0,
-      "Time": "354:33"
+      "Score": 4,
+      "Time": "356:33"
     },
     {
       "Name": "?",
       "Steam": "76561199571213227",
       "Score": 2,
-      "Time": "37:23"
+      "Time": "39:23"
     }
   ]
 }
