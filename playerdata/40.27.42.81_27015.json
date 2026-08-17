@@ -1,17 +1,29 @@
 {
-  "Time": "2026-08-17T06:42:01.1898759Z",
+  "Time": "2026-08-17T06:44:01.3279775Z",
   "Players": [
+    {
+      "Name": "\uD835\uDCB5ℴ\uD835\uDCC9\uD835\uDCBE\uD835\uDCCD",
+      "Steam": "76561198678840855",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDD7E\uD835\uDD93\uD835\uDF36\uD835\uDD8E\uD835\uDD95\uD835\uDD8A\uD835\uDD97",
+      "Steam": "76561198668902658",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Grukington",
       "Steam": "76561199082457511",
-      "Score": 28,
-      "Time": "920:55"
+      "Score": 34,
+      "Time": "922:55"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 80,
-      "Time": "43:58"
+      "Score": 84,
+      "Time": "45:58"
     }
   ]
 }
