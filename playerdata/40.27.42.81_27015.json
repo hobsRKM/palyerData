@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-18T16:39:40.2197426Z",
+  "Time": "2026-08-18T16:41:40.2281181Z",
   "Players": [
+    {
+      "Name": "ReLaX",
+      "Steam": "76561198766038304",
+      "Score": 0,
+      "Time": "01:05"
+    },
     {
       "Name": "g59",
       "Steam": "76561199489957582",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 28,
-      "Time": "26:36"
+      "Score": 40,
+      "Time": "28:36"
     },
     {
       "Name": "monkeyape2009a",
       "Steam": "76561198661196676",
-      "Score": 25,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Hitler",
       "Steam": "76561198727004476",
-      "Score": 14,
-      "Time": "23:50"
+      "Score": 22,
+      "Time": "25:50"
     },
     {
       "Name": "NON UID USER",
       "Steam": "76561199755474298",
-      "Score": 17,
+      "Score": 20,
       "Time": "??:??"
     },
     {
-      "Name": "amesense           de_v",
+      "Name": "sen                de_v",
       "Steam": "76561198219350995",
-      "Score": 24,
-      "Time": "127:24"
+      "Score": 27,
+      "Time": "129:24"
     },
     {
       "Name": "rot",
       "Steam": "76561198691443045",
-      "Score": 10,
-      "Time": "20:48"
+      "Score": 12,
+      "Time": "22:48"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 13,
-      "Time": "71:07"
+      "Score": 17,
+      "Time": "73:07"
     },
     {
       "Name": "JACON",
@@ -64,7 +70,7 @@
     {
       "Name": "ٴ",
       "Steam": "76561198733969032",
-      "Score": 38,
+      "Score": 49,
       "Time": "??:??"
     }
   ]
