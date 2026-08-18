@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-18T19:19:40.2336372Z",
+  "Time": "2026-08-18T19:21:40.2319354Z",
   "Players": [
+    {
+      "Name": "knife only",
+      "Steam": "76561199476991179",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 85,
-      "Time": "70:48"
+      "Score": 91,
+      "Time": "72:48"
     },
     {
       "Name": "Hitler",
       "Steam": "76561198727004476",
-      "Score": 2,
-      "Time": "83:51"
+      "Score": 3,
+      "Time": "85:51"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
-      "Name": "games de_v",
+      "Name": "gamesense de_v",
       "Steam": "76561198219350995",
-      "Score": 27,
-      "Time": "11:54"
+      "Score": 31,
+      "Time": "13:54"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
       "Score": 0,
-      "Time": "144:18"
+      "Time": "146:18"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 76,
+      "Score": 86,
       "Time": "??:??"
     },
     {
       "Name": "nnnnnnnnnnnnnnnnnnnnnnnnnnn",
       "Steam": "76561198197230391",
       "Score": 0,
-      "Time": "71:37"
+      "Time": "73:37"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 50,
-      "Time": "12:25"
+      "Score": 53,
+      "Time": "14:25"
     },
     {
       "Name": "Nick",
@@ -58,13 +64,13 @@
     {
       "Name": "ٴ",
       "Steam": "76561198733969032",
-      "Score": 32,
-      "Time": "49:23"
+      "Score": 40,
+      "Time": "51:23"
     },
     {
       "Name": "sus",
       "Steam": "76561198655638870",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     }
   ]
