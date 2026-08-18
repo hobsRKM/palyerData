@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-18T07:33:28.3474677Z",
+  "Time": "2026-08-18T07:35:28.3541918Z",
   "Players": [
+    {
+      "Name": "peterbot of cs2",
+      "Steam": "76561198661626582",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "estrogen",
       "Steam": "76561199882962470",
-      "Score": 0,
-      "Time": "02:13"
+      "Score": 5,
+      "Time": "04:13"
     },
     {
       "Name": "Crematic",
       "Steam": "76561199471107546",
-      "Score": 0,
-      "Time": "69:15"
+      "Score": 6,
+      "Time": "71:15"
     },
     {
       "Name": "europathelastbattle.net",
       "Steam": "76561198727004476",
-      "Score": 4,
-      "Time": "13:27"
+      "Score": 6,
+      "Time": "15:27"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 14,
-      "Time": "27:09"
+      "Score": 20,
+      "Time": "29:09"
     }
   ]
 }
