@@ -1,52 +1,58 @@
 {
-  "Time": "2026-08-18T13:23:40.2312221Z",
+  "Time": "2026-08-18T13:25:40.231168Z",
   "Players": [
     {
       "Name": "Hitler",
       "Steam": "76561198727004476",
-      "Score": 16,
-      "Time": "12:53"
+      "Score": 22,
+      "Time": "14:53"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 18,
-      "Time": "42:02"
+      "Score": 19,
+      "Time": "44:02"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 36,
-      "Time": "12:09"
+      "Score": 46,
+      "Time": "14:09"
     },
     {
       "Name": "⌛  Anthony",
       "Steam": "76561199889163804",
-      "Score": 55,
+      "Score": 65,
       "Time": "??:??"
     },
     {
       "Name": "Yakub",
       "Steam": "76561199594039131",
-      "Score": 37,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "★ Num ★",
       "Steam": "76561199077094155",
-      "Score": 24,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "Razor",
       "Steam": "76561199015858739",
-      "Score": 4,
-      "Time": "03:02"
+      "Score": 11,
+      "Time": "05:02"
+    },
+    {
+      "Name": "forgottenbutplug",
+      "Steam": "76561198654669063",
+      "Score": 2,
+      "Time": "01:12"
     },
     {
       "Name": "isst",
       "Steam": "76561198695257041",
-      "Score": 36,
+      "Score": 38,
       "Time": "??:??"
     },
     {
@@ -58,13 +64,13 @@
     {
       "Name": "$$",
       "Steam": "76561199745947792",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "charming",
       "Steam": "76561198774226000",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     }
   ]
