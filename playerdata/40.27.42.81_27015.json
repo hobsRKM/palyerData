@@ -1,47 +1,53 @@
 {
-  "Time": "2026-08-18T19:11:40.2292914Z",
+  "Time": "2026-08-18T19:13:40.2296804Z",
   "Players": [
+    {
+      "Name": "Loda The Explorer",
+      "Steam": "76561198177041045",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 68,
-      "Time": "62:48"
+      "Score": 73,
+      "Time": "64:48"
     },
     {
       "Name": "Hitler",
       "Steam": "76561198727004476",
-      "Score": 17,
-      "Time": "75:51"
+      "Score": 27,
+      "Time": "77:51"
     },
     {
-      "Name": "gamesense        de_v",
+      "Name": "gamesense         de_v",
       "Steam": "76561198219350995",
-      "Score": 4,
-      "Time": "03:54"
+      "Score": 7,
+      "Time": "05:54"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
       "Score": 0,
-      "Time": "136:18"
+      "Time": "138:18"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 43,
+      "Score": 55,
       "Time": "??:??"
     },
     {
       "Name": "nnnnnnnnnnnnnnnnnnnnnnnnnnn",
       "Steam": "76561198197230391",
-      "Score": 47,
-      "Time": "63:37"
+      "Score": 52,
+      "Time": "65:37"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 14,
-      "Time": "04:25"
+      "Score": 18,
+      "Time": "06:25"
     },
     {
       "Name": "Nick",
@@ -52,13 +58,19 @@
     {
       "Name": "ٴ",
       "Steam": "76561198733969032",
-      "Score": 15,
-      "Time": "41:23"
+      "Score": 18,
+      "Time": "43:23"
     },
     {
       "Name": "sus",
       "Steam": "76561198655638870",
-      "Score": 2,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Single",
+      "Steam": "76561198716790381",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
