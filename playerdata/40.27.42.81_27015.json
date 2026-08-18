@@ -1,11 +1,23 @@
 {
-  "Time": "2026-08-18T02:31:27.9311578Z",
+  "Time": "2026-08-18T02:33:27.9350458Z",
   "Players": [
+    {
+      "Name": "VAVADA",
+      "Steam": "76561199531648004",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "rot",
       "Steam": "76561198691443045",
+      "Score": 2,
+      "Time": "03:33"
+    },
+    {
+      "Name": "@headless",
+      "Steam": "76561198672653618",
       "Score": 0,
-      "Time": "01:33"
+      "Time": "00:34"
     },
     {
       "Name": "VacNet Lover",
@@ -14,21 +26,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "Faith",
-      "Steam": "76561198673536810",
-      "Score": 6,
-      "Time": "01:08"
-    },
-    {
       "Name": "Anthony",
       "Steam": "76561199889163804",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "jeremy",
       "Steam": "76561198847829880",
-      "Score": 15,
+      "Score": 21,
       "Time": "??:??"
     },
     {
@@ -40,38 +46,56 @@
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
+      "Score": 6,
+      "Time": "26:51"
+    },
+    {
+      "Name": "Nick",
+      "Steam": "76561199671291499",
       "Score": 0,
-      "Time": "24:51"
+      "Time": "??:??"
+    },
+    {
+      "Name": "WhyYouCheating™",
+      "Steam": "76561199750075849",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 25,
-      "Time": "27:51"
+      "Score": 31,
+      "Time": "29:51"
     },
     {
       "Name": "im a chud✭",
       "Steam": "76561198723445690",
-      "Score": 29,
-      "Time": "13:49"
+      "Score": 35,
+      "Time": "15:49"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "ReLaX",
+      "Steam": "76561198766038304",
+      "Score": 0,
+      "Time": "00:17"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 17,
-      "Time": "37:40"
+      "Score": 21,
+      "Time": "39:40"
     },
     {
       "Name": "Masiwei",
       "Steam": "76561199712427690",
-      "Score": 29,
-      "Time": "05:38"
+      "Score": 37,
+      "Time": "07:38"
     }
   ]
 }
