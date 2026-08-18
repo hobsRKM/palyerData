@@ -1,35 +1,47 @@
 {
-  "Time": "2026-08-18T14:13:40.2192869Z",
+  "Time": "2026-08-18T14:15:40.2281507Z",
   "Players": [
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 114,
-      "Time": "31:16"
+      "Score": 116,
+      "Time": "33:16"
+    },
+    {
+      "Name": "Hitler",
+      "Steam": "76561198727004476",
+      "Score": 0,
+      "Time": "01:36"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 20,
-      "Time": "19:20"
+      "Score": 22,
+      "Time": "21:20"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 136,
-      "Time": "62:09"
+      "Score": 140,
+      "Time": "64:09"
     },
     {
-      "Name": "ni   Anthony",
+      "Name": "nixwar  Anthony",
       "Steam": "76561199889163804",
-      "Score": 95,
+      "Score": 109,
       "Time": "??:??"
     },
     {
       "Name": "isst",
       "Steam": "76561198695257041",
-      "Score": 80,
+      "Score": 83,
       "Time": "??:??"
+    },
+    {
+      "Name": "charming",
+      "Steam": "76561198774226000",
+      "Score": 2,
+      "Time": "01:22"
     },
     {
       "Name": "torzsi",
@@ -46,14 +58,8 @@
     {
       "Name": "639",
       "Steam": "76561199628740692",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "0asterisco",
-      "Steam": "76561199660026049",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 7,
+      "Time": "01:40"
     }
   ]
 }
