@@ -1,95 +1,83 @@
 {
-  "Time": "2026-08-18T18:35:40.2314632Z",
+  "Time": "2026-08-18T18:37:40.2256764Z",
   "Players": [
+    {
+      "Name": "ReLaX",
+      "Steam": "76561198766038304",
+      "Score": 0,
+      "Time": "01:57"
+    },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 41,
-      "Time": "26:48"
+      "Score": 46,
+      "Time": "28:48"
     },
     {
       "Name": "Hitler",
       "Steam": "76561198727004476",
       "Score": 18,
-      "Time": "39:51"
-    },
-    {
-      "Name": "Diashen",
-      "Steam": "76561198348594923",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "41:51"
     },
     {
       "Name": "neegy",
       "Steam": "76561198735328025",
-      "Score": 10,
-      "Time": "18:29"
+      "Score": 12,
+      "Time": "20:29"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 0,
-      "Time": "72:17"
+      "Time": "74:17"
     },
     {
-      "Name": "gamesense   de_v",
+      "Name": "gamesense        de_v",
       "Steam": "76561198219350995",
-      "Score": 19,
-      "Time": "34:46"
+      "Score": 27,
+      "Time": "36:46"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
       "Score": 0,
-      "Time": "100:18"
+      "Time": "102:18"
     },
     {
       "Name": "Plastic lll gamer",
       "Steam": "76561198733712165",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "nnnnnnnnnnnnnnnnnnnnnnnnnnn",
       "Steam": "76561198197230391",
-      "Score": 18,
-      "Time": "27:37"
+      "Score": 23,
+      "Time": "29:37"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 10,
-      "Time": "14:00"
+      "Score": 14,
+      "Time": "16:00"
     },
     {
       "Name": "faitthh?",
       "Steam": "76561198673536810",
-      "Score": 24,
-      "Time": "07:12"
-    },
-    {
-      "Name": "ex",
-      "Steam": "76561199859777341",
-      "Score": 0,
-      "Time": "00:41"
-    },
-    {
-      "Name": "Dylan Labubu",
-      "Steam": "76561199064881033",
-      "Score": 0,
-      "Time": "01:53"
+      "Score": 29,
+      "Time": "09:12"
     },
     {
       "Name": "Nick",
@@ -100,8 +88,8 @@
     {
       "Name": "ٴ",
       "Steam": "76561198733969032",
-      "Score": 2,
-      "Time": "05:23"
+      "Score": 18,
+      "Time": "07:23"
     }
   ]
 }
