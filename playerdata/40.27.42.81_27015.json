@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-18T08:57:28.7729552Z",
+  "Time": "2026-08-18T08:59:28.7989096Z",
   "Players": [
+    {
+      "Name": "Aoki",
+      "Steam": "76561198966602517",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "im a chud✭ /item?id=oVDvXd",
       "Steam": "76561198723445690",
       "Score": 20,
-      "Time": "14:15"
+      "Time": "16:15"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 2,
-      "Time": "111:09"
+      "Score": 10,
+      "Time": "113:09"
     },
     {
       "Name": "september",
       "Steam": "76561199820215253",
-      "Score": 50,
-      "Time": "34:48"
+      "Score": 56,
+      "Time": "36:48"
     }
   ]
 }
