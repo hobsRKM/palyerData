@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-19T22:42:37.5315658Z",
+  "Time": "2026-08-19T22:44:37.5222086Z",
   "Players": [
+    {
+      "Name": "Beartoker™",
+      "Steam": "76561198656379831",
+      "Score": 0,
+      "Time": "00:14"
+    },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 6,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "methy (aimware user)",
       "Steam": "76561199476991179",
       "Score": 0,
-      "Time": "06:09"
+      "Time": "08:09"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
       "Score": 4,
-      "Time": "02:26"
+      "Time": "04:26"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 14,
-      "Time": "59:14"
+      "Score": 30,
+      "Time": "61:14"
     },
     {
       "Name": "Nick",
@@ -34,13 +40,13 @@
     {
       "Name": "Goofy!",
       "Steam": "76561198658853662",
-      "Score": 4,
-      "Time": "24:11"
+      "Score": 7,
+      "Time": "26:11"
     },
     {
       "Name": "pok",
       "Steam": "76561199471107546",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
