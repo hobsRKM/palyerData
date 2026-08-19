@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-19T07:03:48.8801017Z",
+  "Time": "2026-08-19T07:05:48.9398279Z",
   "Players": [
     {
       "Name": "Monkey D Nika",
       "Steam": "76561198121743357",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "amc",
       "Steam": "76561198166519466",
-      "Score": 11,
-      "Time": "34:40"
+      "Score": 15,
+      "Time": "36:40"
+    },
+    {
+      "Name": "TRUELIER",
+      "Steam": "76561199823211065",
+      "Score": 0,
+      "Time": "00:18"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 6,
-      "Time": "29:26"
+      "Score": 11,
+      "Time": "31:26"
     },
     {
       "Name": "sept",
       "Steam": "76561199671059385",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
     },
     {
-      "Name": "[128] dishonor",
+      "Name": "[Mon] dishonor",
       "Steam": "76561198672653618",
       "Score": 0,
-      "Time": "211:24"
+      "Time": "213:24"
     }
   ]
 }
