@@ -1,4 +1,41 @@
 {
-  "Time": "2026-08-19T22:58:23.1304672Z",
-  "Players": []
+  "Time": "2026-08-19T22:59:55.2358471Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "414:53"
+    },
+    {
+      "Name": "VACation",
+      "Steam": "76561198706726100",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "wichsbube",
+      "Steam": "76561198741334695",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mike",
+      "Steam": "76561198663548518",
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "buyprime",
+      "Steam": "76561198654550850",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "nanosense",
+      "Steam": "76561199568632786",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
