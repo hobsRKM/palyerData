@@ -1,40 +1,40 @@
 {
-  "Time": "2026-08-19T21:48:37.531617Z",
+  "Time": "2026-08-19T21:50:37.5217871Z",
   "Players": [
+    {
+      "Name": "carp",
+      "Steam": "76561198677656480",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 18,
-      "Time": "08:30"
+      "Score": 20,
+      "Time": "10:30"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 24,
-      "Time": "05:14"
+      "Score": 26,
+      "Time": "07:14"
     },
     {
       "Name": "TomPearlsCousin",
       "Steam": "76561199877802673",
-      "Score": 13,
-      "Time": "17:28"
+      "Score": 17,
+      "Time": "19:28"
     },
     {
       "Name": "Nick",
       "Steam": "76561199671291499",
-      "Score": 5,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "pok",
       "Steam": "76561199471107546",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "⁶⁶⁶ sedat",
-      "Steam": "76561199386366242",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
