@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-19T03:21:54.1766425Z",
+  "Time": "2026-08-19T03:23:54.1716702Z",
   "Players": [
+    {
+      "Name": "CorbZ",
+      "Steam": "76561199112226462",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "dario",
       "Steam": "76561198301429356",
-      "Score": 19,
-      "Time": "04:05"
+      "Score": 27,
+      "Time": "06:05"
     },
     {
       "Name": "olivayiz",
       "Steam": "76561198681678301",
-      "Score": 39,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Nick",
       "Steam": "76561199671291499",
       "Score": 0,
-      "Time": "08:44"
+      "Time": "10:44"
     },
     {
       "Name": "forgottenbutplug",
       "Steam": "76561198654669063",
       "Score": 0,
-      "Time": "00:19"
+      "Time": "02:19"
     },
     {
       "Name": "Boofin it",
       "Steam": "76561198653258564",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
     }
   ]
