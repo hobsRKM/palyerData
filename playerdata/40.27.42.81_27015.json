@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-19T08:11:50.441493Z",
+  "Time": "2026-08-19T08:13:50.4758419Z",
   "Players": [
+    {
+      "Name": "айкью плеер",
+      "Steam": "76561199696378797",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "amc",
       "Steam": "76561198166519466",
-      "Score": 31,
-      "Time": "102:41"
+      "Score": 43,
+      "Time": "104:41"
     },
     {
       "Name": "Aloachtar",
       "Steam": "76561199274856901",
-      "Score": 21,
-      "Time": "522:48"
+      "Score": 27,
+      "Time": "524:48"
     },
     {
       "Name": "sept",
       "Steam": "76561199671059385",
-      "Score": 11,
+      "Score": 13,
       "Time": "??:??"
     },
     {
-      "Name": "mesense         Valdemar #porshe",
+      "Name": "[Monolith] Valdemar #porshe",
       "Steam": "76561199821316134",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "RELAX BROTHER NO KILL",
       "Steam": "76561198719703493",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
