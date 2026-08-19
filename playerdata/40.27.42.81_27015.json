@@ -1,40 +1,46 @@
 {
-  "Time": "2026-08-19T06:13:47.7090689Z",
+  "Time": "2026-08-19T06:15:47.7669971Z",
   "Players": [
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 2,
+      "Time": "700:50"
+    },
     {
       "Name": "ONE",
       "Steam": "76561198655038882",
-      "Score": 28,
-      "Time": "131:07"
+      "Score": 2,
+      "Time": "133:07"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 81,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "sept",
       "Steam": "76561199671059385",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Shit@HvH",
       "Steam": "76561198726523292",
-      "Score": 90,
-      "Time": "26:42"
+      "Score": 2,
+      "Time": "28:42"
     },
     {
       "Name": "Crematic",
       "Steam": "76561199471107546",
-      "Score": 31,
-      "Time": "27:23"
+      "Score": 4,
+      "Time": "29:23"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 146,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
