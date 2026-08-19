@@ -1,52 +1,64 @@
 {
-  "Time": "2026-08-19T03:39:44.1413534Z",
+  "Time": "2026-08-19T03:41:44.1515252Z",
   "Players": [
+    {
+      "Name": "september",
+      "Steam": "76561199820215253",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 26,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Javier From Pizza Hut",
       "Steam": "76561198752356534",
-      "Score": 9,
-      "Time": "52:01"
+      "Score": 0,
+      "Time": "54:01"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 19,
-      "Time": "69:06"
+      "Score": 21,
+      "Time": "71:06"
+    },
+    {
+      "Name": "geekonweed",
+      "Steam": "76561198660705910",
+      "Score": 0,
+      "Time": "00:49"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "Nick",
+      "Name": "StrObe",
       "Steam": "76561199671291499",
-      "Score": 12,
-      "Time": "224:56"
+      "Score": 18,
+      "Time": "226:56"
     },
     {
       "Name": "Crematic",
       "Steam": "76561199471107546",
-      "Score": 26,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "qoiannp925",
       "Steam": "76561199706555691",
-      "Score": 24,
-      "Time": "01:55"
+      "Score": 27,
+      "Time": "03:55"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 61,
+      "Score": 85,
       "Time": "??:??"
     }
   ]
