@@ -1,16 +1,28 @@
 {
-  "Time": "2026-08-19T21:16:37.5307819Z",
+  "Time": "2026-08-19T21:18:37.524875Z",
   "Players": [
+    {
+      "Name": "kingston",
+      "Steam": "76561198763233216",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "Mr. Medium Pace",
       "Steam": "76561198678841797",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "TomPearlsCousin",
       "Steam": "76561199877802673",
       "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nick",
+      "Steam": "76561199671291499",
+      "Score": 7,
       "Time": "??:??"
     }
   ]
