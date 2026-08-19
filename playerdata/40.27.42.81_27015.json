@@ -1,59 +1,65 @@
 {
-  "Time": "2026-08-19T01:03:41.4717423Z",
+  "Time": "2026-08-19T01:05:41.4672245Z",
   "Players": [
+    {
+      "Name": "knife only",
+      "Steam": "76561199476991179",
+      "Score": 8,
+      "Time": "01:44"
+    },
     {
       "Name": "noxx_",
       "Steam": "76561198756648300",
-      "Score": 33,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "Aᴅᴀᴄʜɪ-ᴄʜᴀɴ~",
       "Steam": "76561199751960531",
-      "Score": 14,
-      "Time": "02:52"
+      "Score": 17,
+      "Time": "04:52"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 91,
+      "Score": 104,
       "Time": "??:??"
     },
     {
       "Name": "@headless",
       "Steam": "76561198672653618",
-      "Score": 35,
-      "Time": "66:59"
+      "Score": 37,
+      "Time": "68:59"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 2,
-      "Time": "69:40"
+      "Score": 0,
+      "Time": "71:40"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 44,
-      "Time": "20:41"
+      "Score": 46,
+      "Time": "22:41"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 70,
-      "Time": "110:10"
+      "Score": 72,
+      "Time": "112:10"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 9,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "faitthh?",
       "Steam": "76561198673536810",
-      "Score": 28,
-      "Time": "13:43"
+      "Score": 2,
+      "Time": "15:43"
     }
   ]
 }
