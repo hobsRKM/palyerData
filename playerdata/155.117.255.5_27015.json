@@ -1,5 +1,5 @@
 {
-  "Time": "2026-08-19T01:51:54.1764637Z",
+  "Time": "2026-08-19T01:53:54.171227Z",
   "Players": [
     {
       "Name": "ONE",
@@ -8,16 +8,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "67",
+      "Steam": "76561199200375921",
+      "Score": 7,
+      "Time": "05:01"
+    },
+    {
+      "Name": "Lucid_ev",
+      "Steam": "76561199833474356",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
       "Name": "knife only",
       "Steam": "76561199476991179",
-      "Score": 62,
-      "Time": "88:30"
+      "Score": 70,
+      "Time": "90:30"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
       "Score": 0,
-      "Time": "90:44"
+      "Time": "92:44"
     },
     {
       "Name": "Nick",
@@ -29,25 +41,25 @@
       "Name": "getting tapped by me is crazy",
       "Steam": "76561198975835356",
       "Score": 32,
-      "Time": "35:34"
+      "Time": "37:34"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "Boofin it",
       "Steam": "76561198653258564",
-      "Score": 55,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "fish oil",
       "Steam": "76561198668357173",
-      "Score": 100,
-      "Time": "18:40"
+      "Score": 119,
+      "Time": "20:40"
     }
   ]
 }
