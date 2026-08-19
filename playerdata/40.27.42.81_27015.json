@@ -1,53 +1,83 @@
 {
-  "Time": "2026-08-19T02:57:43.3315982Z",
+  "Time": "2026-08-19T02:59:43.3342952Z",
   "Players": [
     {
       "Name": "ONE",
       "Steam": "76561198655038882",
+      "Score": 1,
+      "Time": "06:47"
+    },
+    {
+      "Name": "boom headshot",
+      "Steam": "76561199050170734",
       "Score": 0,
-      "Time": "04:47"
+      "Time": "??:??"
     },
     {
       "Name": "nexion 364",
       "Steam": "76561198657320353",
       "Score": 0,
-      "Time": "58:22"
+      "Time": "60:22"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 2,
-      "Time": "01:13"
+      "Score": 4,
+      "Time": "03:13"
+    },
+    {
+      "Name": "amc",
+      "Steam": "76561198166519466",
+      "Score": 0,
+      "Time": "365:27"
+    },
+    {
+      "Name": "Cerulean",
+      "Steam": "76561198819683930",
+      "Score": 0,
+      "Time": "637:27"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 0,
-      "Time": "24:11"
+      "Score": 14,
+      "Time": "26:11"
     },
     {
       "Name": "Javier From Pizza Hut",
       "Steam": "76561198752356534",
       "Score": 8,
-      "Time": "10:01"
+      "Time": "12:01"
+    },
+    {
+      "Name": "!",
+      "Steam": "76561199887239492",
+      "Score": 8,
+      "Time": "??:??"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 12,
-      "Time": "27:05"
+      "Score": 19,
+      "Time": "29:05"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 11,
-      "Time": "94:09"
+      "Score": 18,
+      "Time": "96:09"
+    },
+    {
+      "Name": "StrObe",
+      "Steam": "76561198810442165",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "qoiannp925",
       "Steam": "76561199706555691",
-      "Score": 10,
-      "Time": "12:41"
+      "Score": 25,
+      "Time": "14:41"
     }
   ]
 }
