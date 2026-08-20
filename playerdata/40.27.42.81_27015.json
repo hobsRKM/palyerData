@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-20T03:48:05.3803998Z",
+  "Time": "2026-08-20T03:50:05.3797032Z",
   "Players": [
+    {
+      "Name": "idk",
+      "Steam": "76561198724506355",
+      "Score": 0,
+      "Time": "07:13"
+    },
     {
       "Name": "vaclive.me",
       "Steam": "76561199832413356",
@@ -8,21 +14,27 @@
       "Time": "??:??"
     },
     {
+      "Name": "EGO",
+      "Steam": "76561199692222758",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
       "Name": "im a chud✭",
       "Steam": "76561198723445690",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "OEmt.club | Polarity",
       "Steam": "76561199230992568",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "peterbot of cs2",
       "Steam": "76561198661626582",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     }
   ]
