@@ -1,47 +1,59 @@
 {
-  "Time": "2026-08-20T07:04:05.6085444Z",
+  "Time": "2026-08-20T07:06:05.6792013Z",
   "Players": [
+    {
+      "Name": "gabrielfx3",
+      "Steam": "76561199673571733",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 16,
-      "Time": "05:06"
+      "Score": 26,
+      "Time": "07:06"
     },
     {
       "Name": "Made in the Fuhrers image",
       "Steam": "76561198657476267",
-      "Score": 28,
-      "Time": "82:54"
+      "Score": 36,
+      "Time": "84:54"
+    },
+    {
+      "Name": "methy (aimware user)",
+      "Steam": "76561199476991179",
+      "Score": 0,
+      "Time": "634:06"
     },
     {
       "Name": "Racist Mcgee",
       "Steam": "76561199121960809",
-      "Score": 29,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 39,
-      "Time": "81:37"
+      "Score": 47,
+      "Time": "83:37"
     },
     {
       "Name": "you love z9co",
       "Steam": "76561198712538785",
-      "Score": 35,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "fluffy_apexer",
       "Steam": "76561199867466833",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "chrono",
       "Steam": "76561197991592939",
       "Score": 0,
-      "Time": "06:28"
+      "Time": "08:28"
     }
   ]
 }
