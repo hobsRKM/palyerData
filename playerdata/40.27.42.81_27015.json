@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-20T11:15:34.2409821Z",
+  "Time": "2026-08-20T11:17:34.2478752Z",
   "Players": [
+    {
+      "Name": "charming",
+      "Steam": "76561198774226000",
+      "Score": 0,
+      "Time": "00:27"
+    },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 40,
-      "Time": "14:58"
+      "Score": 46,
+      "Time": "16:58"
     },
     {
       "Name": "Adolf Kitty",
       "Steam": "76561198670586921",
-      "Score": 18,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "Fries",
       "Steam": "76561199153754054",
-      "Score": 63,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "aim#luckbot",
       "Steam": "76561199826685794",
-      "Score": 120,
-      "Time": "02:17"
+      "Score": 132,
+      "Time": "04:17"
     },
     {
       "Name": "Alex",
@@ -34,13 +40,13 @@
     {
       "Name": "archive!",
       "Steam": "76561199861043380",
-      "Score": 12,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     }
   ]
