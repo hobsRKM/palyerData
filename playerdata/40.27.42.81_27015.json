@@ -1,41 +1,47 @@
 {
-  "Time": "2026-08-20T00:30:05.3686903Z",
+  "Time": "2026-08-20T00:32:05.3658861Z",
   "Players": [
     {
       "Name": "A_me_a",
       "Steam": "76561199436225054",
       "Score": 2,
-      "Time": "58:22"
+      "Time": "60:22"
+    },
+    {
+      "Name": "sharkhack on top",
+      "Steam": "76561198666159822",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mioyo",
+      "Steam": "76561198656327219",
+      "Score": 12,
+      "Time": "01:43"
     },
     {
       "Name": "amc",
       "Steam": "76561198166519466",
-      "Score": 40,
-      "Time": "244:56"
+      "Score": 44,
+      "Time": "246:56"
     },
     {
       "Name": "Made in the Fuhrers image",
       "Steam": "76561198657476267",
-      "Score": 15,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "funkey dude",
       "Steam": "76561198659464204",
-      "Score": 9,
-      "Time": "??:??"
-    },
-    {
-      "Name": "RELAX BROTHER NO KILL",
-      "Steam": "76561198719703493",
-      "Score": 26,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "plattmade",
       "Steam": "76561198684173505",
       "Score": 9,
-      "Time": "25:28"
+      "Time": "27:28"
     }
   ]
 }
