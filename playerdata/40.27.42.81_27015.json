@@ -1,23 +1,35 @@
 {
-  "Time": "2026-08-20T05:40:05.5034347Z",
+  "Time": "2026-08-20T05:42:05.4970116Z",
   "Players": [
+    {
+      "Name": "trener alana",
+      "Steam": "76561198652851229",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Made in the Fuhrers image",
+      "Steam": "76561198657476267",
+      "Score": 2,
+      "Time": "00:54"
+    },
     {
       "Name": "ุ",
       "Steam": "76561198844162460",
       "Score": 13,
-      "Time": "11:11"
+      "Time": "13:11"
     },
     {
       "Name": "you love z9co",
       "Steam": "76561198712538785",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "g59",
       "Steam": "76561199489957582",
-      "Score": 9,
-      "Time": "36:55"
+      "Score": 17,
+      "Time": "38:55"
     }
   ]
 }
