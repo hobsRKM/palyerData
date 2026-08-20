@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-19T23:28:05.3765228Z",
+  "Time": "2026-08-19T23:30:05.3731918Z",
   "Players": [
     {
       "Name": "Vic Corleone",
       "Steam": "76561198700071912",
-      "Score": 45,
+      "Score": 52,
+      "Time": "??:??"
+    },
+    {
+      "Name": "kawehferreira",
+      "Steam": "76561198663748351",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 3,
-      "Time": "97:21"
+      "Score": 5,
+      "Time": "99:21"
     },
     {
       "Name": "Femboying around",
       "Steam": "76561199797182117",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "qoiannp925",
       "Steam": "76561199706555691",
-      "Score": 45,
-      "Time": "24:53"
+      "Score": 52,
+      "Time": "26:53"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 28,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 26,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 30,
-      "Time": "11:07"
+      "Score": 36,
+      "Time": "13:07"
     },
     {
       "Name": "Tyler",
       "Steam": "76561199286243718",
-      "Score": 5,
-      "Time": "32:42"
+      "Score": 7,
+      "Time": "34:42"
     }
   ]
 }
