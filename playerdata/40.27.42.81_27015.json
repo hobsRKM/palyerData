@@ -1,47 +1,47 @@
 {
-  "Time": "2026-08-20T06:58:05.5954039Z",
+  "Time": "2026-08-20T07:00:05.5952338Z",
   "Players": [
+    {
+      "Name": "Cookie",
+      "Steam": "76561199652410817",
+      "Score": 0,
+      "Time": "01:06"
+    },
     {
       "Name": "Venox2.0",
       "Steam": "76561198655853222",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Made in the Fuhrers image",
       "Steam": "76561198657476267",
-      "Score": 6,
-      "Time": "76:54"
+      "Score": 14,
+      "Time": "78:54"
     },
     {
       "Name": "Racist Mcgee",
       "Steam": "76561199121960809",
-      "Score": 12,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 13,
-      "Time": "75:37"
+      "Score": 23,
+      "Time": "77:37"
     },
     {
       "Name": "you love z9co",
       "Steam": "76561198712538785",
-      "Score": 18,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Gabriel",
-      "Steam": "76561199197899675",
-      "Score": 0,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "chrono",
       "Steam": "76561197991592939",
       "Score": 0,
-      "Time": "00:28"
+      "Time": "02:28"
     }
   ]
 }
