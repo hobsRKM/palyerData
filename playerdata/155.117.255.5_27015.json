@@ -1,22 +1,28 @@
 {
-  "Time": "2026-08-20T23:48:33.9369628Z",
+  "Time": "2026-08-20T23:50:33.9333345Z",
   "Players": [
+    {
+      "Name": "Jester",
+      "Steam": "76561199112345286",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "nl.kura",
       "Steam": "76561198668357173",
       "Score": 0,
-      "Time": "54:24"
+      "Time": "56:24"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 42,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "Bot Wolf 2.0",
       "Steam": "76561198663392277",
-      "Score": 18,
+      "Score": 19,
       "Time": "??:??"
     },
     {
@@ -28,13 +34,13 @@
     {
       "Name": "faitthh?",
       "Steam": "76561198673536810",
-      "Score": 51,
+      "Score": 63,
       "Time": "??:??"
     },
     {
       "Name": "A.SUKEHIRO",
       "Steam": "76561198858527880",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     }
   ]
