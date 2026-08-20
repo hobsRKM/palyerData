@@ -1,65 +1,83 @@
 {
-  "Time": "2026-08-20T08:42:07.1022993Z",
+  "Time": "2026-08-20T08:44:07.1283543Z",
   "Players": [
+    {
+      "Name": "Yakub",
+      "Steam": "76561199594039131",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "m0nk_y",
       "Steam": "76561199405421621",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "haise",
       "Steam": "76561199812384890",
-      "Score": 38,
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "La Maldita",
+      "Steam": "76561199806868657",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "ADD ON DISCORD FOR SKIN CHECK",
       "Steam": "76561198657476267",
-      "Score": 32,
-      "Time": "33:14"
+      "Score": 36,
+      "Time": "35:14"
     },
     {
       "Name": "tomasenkoeu",
       "Steam": "76561198655917791",
-      "Score": 8,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "methy (aimware user)",
       "Steam": "76561199476991179",
       "Score": 2,
-      "Time": "01:11"
+      "Time": "03:11"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 8,
-      "Time": "61:23"
+      "Score": 19,
+      "Time": "63:23"
     },
     {
-      "Name": "alityfat | Fries",
+      "Name": "yfatalit | Fries",
       "Steam": "76561199153754054",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "iris",
       "Steam": "76561199801250800",
       "Score": 4,
-      "Time": "20:19"
+      "Time": "22:19"
+    },
+    {
+      "Name": "neo-larpist tel avivian militant",
+      "Steam": "76561198656253631",
+      "Score": 0,
+      "Time": "106:20"
     },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 48,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
       "Score": 15,
-      "Time": "709:20"
+      "Time": "711:20"
     }
   ]
 }
