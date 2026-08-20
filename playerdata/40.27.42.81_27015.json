@@ -1,11 +1,11 @@
 {
-  "Time": "2026-08-19T23:56:05.3703996Z",
+  "Time": "2026-08-19T23:58:05.3672027Z",
   "Players": [
     {
       "Name": "A_me_a",
       "Steam": "76561199436225054",
-      "Score": 6,
-      "Time": "24:22"
+      "Score": 9,
+      "Time": "26:22"
     },
     {
       "Name": "Vic Corleone",
@@ -16,32 +16,38 @@
     {
       "Name": "aim",
       "Steam": "76561199826685794",
-      "Score": 12,
-      "Time": "125:21"
+      "Score": 16,
+      "Time": "127:21"
+    },
+    {
+      "Name": "amc",
+      "Steam": "76561198166519466",
+      "Score": 8,
+      "Time": "212:56"
     },
     {
       "Name": "Made in the Fuhrers image",
       "Steam": "76561198657476267",
-      "Score": 10,
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "szymi4708",
+      "Steam": "76561198667111545",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 14,
+      "Score": 21,
       "Time": "??:??"
-    },
-    {
-      "Name": "Simon",
-      "Steam": "76561199883300244",
-      "Score": 0,
-      "Time": "00:48"
     },
     {
       "Name": "Tyler",
       "Steam": "76561199286243718",
-      "Score": 7,
-      "Time": "60:42"
+      "Score": 9,
+      "Time": "62:42"
     }
   ]
 }
