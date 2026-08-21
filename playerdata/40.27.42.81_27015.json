@@ -1,29 +1,47 @@
 {
-  "Time": "2026-08-21T07:05:40.7707375Z",
+  "Time": "2026-08-21T07:07:40.7826932Z",
   "Players": [
+    {
+      "Name": "nl.kura",
+      "Steam": "76561198668357173",
+      "Score": 3,
+      "Time": "00:51"
+    },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 50,
-      "Time": "348:40"
+      "Score": 60,
+      "Time": "350:40"
     },
     {
-      "Name": "[Mon] DrakenBTW",
+      "Name": "[Monolith] DrakenBTW",
       "Steam": "76561199489957582",
       "Score": 22,
-      "Time": "52:34"
+      "Time": "54:34"
+    },
+    {
+      "Name": "WinRAR",
+      "Steam": "76561199217772695",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Dr. Joseph Goebbels",
       "Steam": "76561198658542926",
-      "Score": 6,
-      "Time": "698:49"
+      "Score": 10,
+      "Time": "700:49"
+    },
+    {
+      "Name": "Mr.Squirrel_Man",
+      "Steam": "76561198161326655",
+      "Score": 0,
+      "Time": "00:16"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 19,
-      "Time": "62:46"
+      "Score": 25,
+      "Time": "64:46"
     }
   ]
 }
