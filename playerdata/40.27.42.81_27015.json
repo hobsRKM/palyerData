@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-21T12:39:46.2156985Z",
+  "Time": "2026-08-21T12:41:46.2172718Z",
   "Players": [
+    {
+      "Name": "methy",
+      "Steam": "76561199476991179",
+      "Score": 0,
+      "Time": "01:29"
+    },
     {
       "Name": "xopixia",
       "Steam": "76561198733969032",
-      "Score": 41,
-      "Time": "21:17"
+      "Score": 45,
+      "Time": "23:17"
     },
     {
       "Name": "plaguecheat beta",
       "Steam": "76561198036942622",
-      "Score": 15,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "sleep",
       "Steam": "76561198691835436",
-      "Score": 54,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 5,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561199820215253",
-      "Score": 17,
+      "Score": 27,
       "Time": "??:??"
     }
   ]
