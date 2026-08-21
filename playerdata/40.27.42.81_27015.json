@@ -1,34 +1,28 @@
 {
-  "Time": "2026-08-21T14:23:46.2214402Z",
+  "Time": "2026-08-21T14:25:46.2081453Z",
   "Players": [
+    {
+      "Name": "tomasenkoeu",
+      "Steam": "76561198653571249",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "VAC",
       "Steam": "76561198653384816",
-      "Score": 60,
-      "Time": "38:26"
+      "Score": 62,
+      "Time": "40:26"
     },
     {
       "Name": "komi",
       "Steam": "76561199588690188",
-      "Score": 94,
-      "Time": "??:??"
-    },
-    {
-      "Name": "gamesense        GameSensical Genius",
-      "Steam": "76561199580355122",
-      "Score": 146,
-      "Time": "52:00"
-    },
-    {
-      "Name": "mioyo",
-      "Steam": "76561198656327219",
-      "Score": 113,
+      "Score": 97,
       "Time": "??:??"
     },
     {
       "Name": "yngececb",
       "Steam": "76561199725780678",
-      "Score": 19,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -40,13 +34,7 @@
     {
       "Name": "wasuabi",
       "Steam": "76561198657717286",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "sleep",
-      "Steam": "76561198691835436",
-      "Score": 92,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
