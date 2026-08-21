@@ -1,4 +1,41 @@
 {
-  "Time": "2026-08-21T23:50:20.494371Z",
-  "Players": []
+  "Time": "2026-08-21T23:50:40.3076197Z",
+  "Players": [
+    {
+      "Name": "Simon G",
+      "Steam": "76561199484641787",
+      "Score": 68,
+      "Time": "328:33"
+    },
+    {
+      "Name": "mylhsn306651",
+      "Steam": "76561198700075692",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Phillip Laurent",
+      "Steam": "76561198661853721",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "i <3 macos x snow leopard",
+      "Steam": "76561198749024804",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cody",
+      "Steam": "76561198711239198",
+      "Score": 57,
+      "Time": "??:??"
+    },
+    {
+      "Name": "testing",
+      "Steam": "76561199835022145",
+      "Score": 14,
+      "Time": "??:??"
+    }
+  ]
 }
