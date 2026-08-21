@@ -1,40 +1,46 @@
 {
-  "Time": "2026-08-21T10:09:46.2139149Z",
+  "Time": "2026-08-21T10:11:46.2180913Z",
   "Players": [
+    {
+      "Name": "Verzide",
+      "Steam": "76561199836886163",
+      "Score": 0,
+      "Time": "00:34"
+    },
     {
       "Name": "❤",
       "Steam": "76561198745194531",
-      "Score": 13,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "xopixia",
       "Steam": "76561198733969032",
-      "Score": 10,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 19,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "yuki",
       "Steam": "76561198720554985",
-      "Score": 23,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 18,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "пес патрон Z",
       "Steam": "76561198662479402",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     }
   ]
