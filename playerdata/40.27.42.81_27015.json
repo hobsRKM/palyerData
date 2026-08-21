@@ -1,46 +1,40 @@
 {
-  "Time": "2026-08-21T14:19:46.2178799Z",
+  "Time": "2026-08-21T14:21:46.2133036Z",
   "Players": [
     {
       "Name": "VAC",
       "Steam": "76561198653384816",
       "Score": 58,
-      "Time": "34:26"
+      "Time": "36:26"
     },
     {
       "Name": "komi",
       "Steam": "76561199588690188",
-      "Score": 78,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "gamesense       GameSensical Genius",
       "Steam": "76561199580355122",
-      "Score": 129,
-      "Time": "48:00"
+      "Score": 140,
+      "Time": "50:00"
     },
     {
       "Name": "mioyo",
       "Steam": "76561198656327219",
-      "Score": 91,
+      "Score": 103,
       "Time": "??:??"
     },
     {
       "Name": "yngececb",
       "Steam": "76561199725780678",
-      "Score": 20,
+      "Score": 21,
       "Time": "??:??"
-    },
-    {
-      "Name": "Wrath",
-      "Steam": "76561198731535214",
-      "Score": 0,
-      "Time": "00:24"
     },
     {
       "Name": "Kurokendrick",
       "Steam": "76561199479790668",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -50,9 +44,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "fluffy_apexer",
+      "Steam": "76561199867466833",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "sleep",
       "Steam": "76561198691835436",
-      "Score": 73,
+      "Score": 81,
       "Time": "??:??"
     }
   ]
