@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-20T18:05:34.2465702Z",
+  "Time": "2026-08-20T18:07:34.2532817Z",
   "Players": [
+    {
+      "Name": "torzsi",
+      "Steam": "76561198663552322",
+      "Score": 2,
+      "Time": "01:34"
+    },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 0,
-      "Time": "01:37"
+      "Time": "03:37"
     },
     {
       "Name": "\uD83C\uDDF9\uD83C\uDDFD\uD83C\uDDE6",
       "Steam": "76561198691198196",
-      "Score": 46,
-      "Time": "42:18"
+      "Score": 52,
+      "Time": "44:18"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 43,
+      "Score": 47,
       "Time": "??:??"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 6,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Xero",
       "Steam": "76561199703387534",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     }
   ]
