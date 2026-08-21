@@ -1,11 +1,17 @@
 {
-  "Time": "2026-08-21T02:20:33.9344152Z",
+  "Time": "2026-08-21T02:22:33.9359641Z",
   "Players": [
+    {
+      "Name": "Occupi3D",
+      "Steam": "76561199823982257",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "methy (aimware user)",
       "Steam": "76561199476991179",
-      "Score": 33,
-      "Time": "09:34"
+      "Score": 38,
+      "Time": "11:34"
     },
     {
       "Name": "BOT Opie",
@@ -16,13 +22,13 @@
     {
       "Name": "x",
       "Steam": "76561198684905994",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "katetsu",
       "Steam": "76561199862102325",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
