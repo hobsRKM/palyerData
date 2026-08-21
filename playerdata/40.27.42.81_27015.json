@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-21T04:35:36.9426081Z",
+  "Time": "2026-08-21T04:37:36.9727448Z",
   "Players": [
     {
       "Name": "nl.kura",
       "Steam": "76561198668357173",
+      "Score": 4,
+      "Time": "471:53"
+    },
+    {
+      "Name": "snuck in the club",
+      "Steam": "76561198736591842",
       "Score": 0,
-      "Time": "469:53"
+      "Time": "??:??"
     },
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 44,
-      "Time": "40:49"
+      "Score": 50,
+      "Time": "42:49"
     },
     {
       "Name": "benzamartine",
       "Steam": "76561198660826823",
-      "Score": 3,
-      "Time": "34:01"
+      "Score": 2,
+      "Time": "36:01"
     }
   ]
 }
