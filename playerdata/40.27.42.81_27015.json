@@ -1,77 +1,83 @@
 {
-  "Time": "2026-08-20T19:17:34.2486006Z",
+  "Time": "2026-08-20T19:19:34.2500995Z",
   "Players": [
+    {
+      "Name": "mioyo",
+      "Steam": "76561198656327219",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "bunni ❤",
       "Steam": "76561198745194531",
-      "Score": 80,
-      "Time": "45:50"
-    },
-    {
-      "Name": "NANA",
-      "Steam": "76561198721782960",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 83,
+      "Time": "47:50"
     },
     {
       "Name": "archive!",
       "Steam": "76561199861043380",
-      "Score": 49,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 17,
-      "Time": "25:33"
+      "Score": 30,
+      "Time": "27:33"
     },
     {
       "Name": "faitthh?",
       "Steam": "76561198673536810",
-      "Score": 34,
-      "Time": "10:13"
+      "Score": 0,
+      "Time": "12:13"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
       "Score": 43,
-      "Time": "16:38"
+      "Time": "18:38"
     },
     {
       "Name": "Sofa.pub",
       "Steam": "76561199442363655",
-      "Score": 32,
-      "Time": "132:10"
+      "Score": 48,
+      "Time": "134:10"
     },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 62,
-      "Time": "43:18"
+      "Score": 66,
+      "Time": "45:18"
+    },
+    {
+      "Name": "cheezie",
+      "Steam": "76561198743474205",
+      "Score": 7,
+      "Time": "81:32"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 75,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "Reginald Mccumbiscuits",
       "Steam": "76561199409321218",
-      "Score": 0,
-      "Time": "78:01"
+      "Score": 8,
+      "Time": "80:01"
     },
     {
       "Name": "rust68126",
       "Steam": "76561198656769498",
-      "Score": 29,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Sat",
       "Steam": "76561199109285801",
-      "Score": 2,
-      "Time": "02:58"
+      "Score": 4,
+      "Time": "04:58"
     }
   ]
 }
