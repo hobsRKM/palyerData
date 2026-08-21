@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-21T06:37:39.9547804Z",
+  "Time": "2026-08-21T06:39:40.0102167Z",
   "Players": [
     {
       "Name": "nl.kura",
       "Steam": "76561198668357173",
-      "Score": 14,
-      "Time": "03:54"
+      "Score": 20,
+      "Time": "05:54"
     },
     {
-      "Name": "[Monolith] DrakenBTW",
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 0,
+      "Time": "322:39"
+    },
+    {
+      "Name": "[123] DrakenBTW",
       "Steam": "76561199489957582",
-      "Score": 29,
-      "Time": "24:34"
+      "Score": 34,
+      "Time": "26:34"
     },
     {
       "Name": "benzamartine",
       "Steam": "76561198660826823",
-      "Score": 17,
-      "Time": "156:04"
+      "Score": 18,
+      "Time": "158:04"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 25,
-      "Time": "34:45"
+      "Score": 27,
+      "Time": "36:45"
     },
     {
       "Name": "faitthh?",
       "Steam": "76561198673536810",
-      "Score": 29,
-      "Time": "370:45"
+      "Score": 39,
+      "Time": "372:45"
     }
   ]
 }
