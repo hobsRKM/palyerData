@@ -1,17 +1,29 @@
 {
-  "Time": "2026-08-21T08:21:43.9331556Z",
+  "Time": "2026-08-21T08:23:44.0275202Z",
   "Players": [
+    {
+      "Name": "Reginald Mccumbiscuits",
+      "Steam": "76561199409321218",
+      "Score": 2,
+      "Time": "585:41"
+    },
+    {
+      "Name": "i'am FAMBOY!!!!<3<3!?<3",
+      "Steam": "76561198656194604",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 20,
-      "Time": "06:14"
+      "Score": 29,
+      "Time": "08:14"
     },
     {
       "Name": "faitthh?",
       "Steam": "76561198673536810",
-      "Score": 0,
-      "Time": "01:02"
+      "Score": 10,
+      "Time": "03:02"
     }
   ]
 }
