@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-21T07:21:41.1735217Z",
+  "Time": "2026-08-21T07:23:41.3998632Z",
   "Players": [
     {
-      "Name": "m> Silver Duck",
+      "Name": "Silver Duck",
       "Steam": "76561199053048408",
-      "Score": 3,
-      "Time": "02:03"
+      "Score": 5,
+      "Time": "04:03"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 98,
-      "Time": "364:40"
+      "Score": 102,
+      "Time": "366:41"
     },
     {
       "Name": "g59",
       "Steam": "76561199489957582",
-      "Score": 26,
-      "Time": "03:09"
+      "Score": 30,
+      "Time": "05:09"
     },
     {
       "Name": "Dr. Joseph Goebbels",
       "Steam": "76561198658542926",
-      "Score": 6,
-      "Time": "714:50"
+      "Score": 8,
+      "Time": "716:50"
+    },
+    {
+      "Name": "Mr.Squirrel_Man",
+      "Steam": "76561198161326655",
+      "Score": 2,
+      "Time": "01:34"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 47,
-      "Time": "78:46"
+      "Score": 55,
+      "Time": "80:46"
     }
   ]
 }
