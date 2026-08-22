@@ -1,11 +1,17 @@
 {
-  "Time": "2026-08-22T11:27:20.7451026Z",
+  "Time": "2026-08-22T11:29:20.7437451Z",
   "Players": [
+    {
+      "Name": "Alex",
+      "Steam": "76561198055317709",
+      "Score": 0,
+      "Time": "00:10"
+    },
     {
       "Name": "Informing",
       "Steam": "76561199836886163",
-      "Score": 10,
-      "Time": "03:11"
+      "Score": 24,
+      "Time": "05:11"
     },
     {
       "Name": "reganscott87",
@@ -16,7 +22,7 @@
     {
       "Name": "nixware until NL accepts my hwid",
       "Steam": "76561198041862999",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
