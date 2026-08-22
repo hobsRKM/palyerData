@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-22T21:56:33.9966152Z",
+  "Time": "2026-08-22T21:58:34.0072583Z",
   "Players": [
+    {
+      "Name": "neegy",
+      "Steam": "76561198735328025",
+      "Score": 4,
+      "Time": "00:18"
+    },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
@@ -10,14 +16,14 @@
     {
       "Name": "Nord",
       "Steam": "76561199547017962",
-      "Score": 13,
-      "Time": "12:13"
+      "Score": 15,
+      "Time": "14:13"
     },
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 94,
-      "Time": "46:34"
+      "Score": 97,
+      "Time": "48:34"
     },
     {
       "Name": "Steven Seagal's Second Son",
@@ -28,7 +34,7 @@
     {
       "Name": "restless nights",
       "Steam": "76561198744712586",
-      "Score": 25,
+      "Score": 36,
       "Time": "??:??"
     }
   ]
