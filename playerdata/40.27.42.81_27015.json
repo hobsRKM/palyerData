@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-22T07:15:46.3778815Z",
+  "Time": "2026-08-22T07:17:46.3797664Z",
   "Players": [
+    {
+      "Name": "conpulse",
+      "Steam": "76561198652973491",
+      "Score": 6,
+      "Time": "01:53"
+    },
     {
       "Name": "wait",
       "Steam": "76561198678445554",
-      "Score": 29,
-      "Time": "06:22"
+      "Score": 44,
+      "Time": "08:22"
     },
     {
       "Name": "sz227013",
       "Steam": "76561198772918905",
-      "Score": 32,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "komi",
       "Steam": "76561199588690188",
-      "Score": 70,
-      "Time": "781:59"
+      "Score": 81,
+      "Time": "783:59"
     },
     {
       "Name": "EAC Runtime Error",
       "Steam": "76561198653384816",
-      "Score": 22,
-      "Time": "771:16"
+      "Score": 23,
+      "Time": "773:16"
     },
     {
       "Name": "Green Whats ur problem",
@@ -34,38 +40,38 @@
     {
       "Name": "yngececb",
       "Steam": "76561199725780678",
-      "Score": 4,
-      "Time": "03:35"
+      "Score": 5,
+      "Time": "05:35"
     },
     {
       "Name": "ilovev.gov12",
       "Steam": "76561199866742483",
-      "Score": 47,
-      "Time": "19:44"
-    },
-    {
-      "Name": "svt",
-      "Steam": "76561199064413061",
-      "Score": 0,
-      "Time": "01:03"
+      "Score": 59,
+      "Time": "21:44"
     },
     {
       "Name": "Toxic_Waste_Ace",
       "Steam": "76561199700382906",
-      "Score": 19,
-      "Time": "27:24"
+      "Score": 26,
+      "Time": "29:24"
     },
     {
-      "Name": "memese> Silver Duck",
+      "Name": "memes> Silver Duck",
       "Steam": "76561199053048408",
-      "Score": 30,
-      "Time": "1062:30"
+      "Score": 32,
+      "Time": "1064:30"
     },
     {
       "Name": "reject degeneracy",
       "Steam": "76561198661143486",
-      "Score": 11,
-      "Time": "07:43"
+      "Score": 16,
+      "Time": "09:43"
+    },
+    {
+      "Name": "faith",
+      "Steam": "76561198673536810",
+      "Score": 7,
+      "Time": "1008:19"
     }
   ]
 }
