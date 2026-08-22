@@ -1,46 +1,52 @@
 {
-  "Time": "2026-08-22T14:51:20.7528315Z",
+  "Time": "2026-08-22T14:53:20.7480213Z",
   "Players": [
     {
       "Name": "Alex",
       "Steam": "76561198055317709",
-      "Score": 1,
-      "Time": "04:49"
+      "Score": 3,
+      "Time": "06:49"
+    },
+    {
+      "Name": "anyad",
+      "Steam": "76561198701849178",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83",
       "Steam": "76561199871821467",
-      "Score": 13,
-      "Time": "04:18"
+      "Score": 19,
+      "Time": "06:18"
     },
     {
       "Name": "Informing",
       "Steam": "76561199836886163",
-      "Score": 9,
-      "Time": "02:01"
+      "Score": 3,
+      "Time": "04:01"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 15,
-      "Time": "04:20"
+      "Score": 28,
+      "Time": "06:20"
     },
     {
       "Name": "Shit@HvH",
       "Steam": "76561198726523292",
-      "Score": 10,
-      "Time": "37:07"
+      "Score": 13,
+      "Time": "39:07"
     },
     {
       "Name": "9r",
       "Steam": "76561198681652913",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 15,
+      "Score": 35,
       "Time": "??:??"
     },
     {
@@ -52,14 +58,14 @@
     {
       "Name": "Tramadol",
       "Steam": "76561199812415276",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Cerulean",
       "Steam": "76561198819683930",
-      "Score": 18,
-      "Time": "28:56"
+      "Score": 20,
+      "Time": "30:56"
     }
   ]
 }
