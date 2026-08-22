@@ -1,59 +1,65 @@
 {
-  "Time": "2026-08-22T07:23:46.3668276Z",
+  "Time": "2026-08-22T07:25:46.3762531Z",
   "Players": [
+    {
+      "Name": "torzsi",
+      "Steam": "76561198663552322",
+      "Score": 0,
+      "Time": "00:34"
+    },
     {
       "Name": "wait",
       "Steam": "76561198678445554",
-      "Score": 76,
-      "Time": "14:22"
+      "Score": 98,
+      "Time": "16:22"
     },
     {
       "Name": "sz227013",
       "Steam": "76561198772918905",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     },
     {
       "Name": "komi",
       "Steam": "76561199588690188",
-      "Score": 99,
-      "Time": "789:59"
+      "Score": 108,
+      "Time": "791:59"
     },
     {
       "Name": "EAC Runtime Error",
       "Steam": "76561198653384816",
-      "Score": 38,
-      "Time": "779:15"
+      "Score": 48,
+      "Time": "781:15"
     },
     {
       "Name": "yngececb",
       "Steam": "76561199725780678",
       "Score": 19,
-      "Time": "11:35"
+      "Time": "13:35"
     },
     {
       "Name": "ilovev.gov12",
       "Steam": "76561199866742483",
-      "Score": 85,
-      "Time": "27:44"
+      "Score": 92,
+      "Time": "29:44"
     },
     {
       "Name": "Toxic_Waste_Ace",
       "Steam": "76561199700382906",
-      "Score": 34,
-      "Time": "35:24"
+      "Score": 39,
+      "Time": "37:24"
     },
     {
       "Name": "Silver Duck",
       "Steam": "76561199053048408",
-      "Score": 56,
-      "Time": "1070:30"
+      "Score": 64,
+      "Time": "1072:30"
     },
     {
       "Name": "reject degeneracy",
       "Steam": "76561198661143486",
-      "Score": 27,
-      "Time": "15:43"
+      "Score": 33,
+      "Time": "17:43"
     },
     {
       "Name": "WannaRuffMeUp?",
@@ -64,8 +70,8 @@
     {
       "Name": "faith",
       "Steam": "76561198673536810",
-      "Score": 8,
-      "Time": "1014:19"
+      "Score": 15,
+      "Time": "1016:19"
     }
   ]
 }
