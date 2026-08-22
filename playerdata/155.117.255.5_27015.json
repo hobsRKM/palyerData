@@ -1,10 +1,16 @@
 {
-  "Time": "2026-08-22T00:36:39.8313493Z",
+  "Time": "2026-08-22T00:38:39.8297402Z",
   "Players": [
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 2,
+      "Time": "00:41"
+    },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 6,
+      "Score": 12,
       "Time": "??:??"
     },
     {
@@ -16,7 +22,7 @@
     {
       "Name": "antisocial crypto millionaire",
       "Steam": "76561199709598415",
-      "Score": 19,
+      "Score": 23,
       "Time": "??:??"
     }
   ]
