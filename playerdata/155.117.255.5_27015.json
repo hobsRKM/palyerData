@@ -1,28 +1,40 @@
 {
-  "Time": "2026-08-22T20:42:33.9962779Z",
+  "Time": "2026-08-22T20:44:33.9937377Z",
   "Players": [
+    {
+      "Name": "Red Apple",
+      "Steam": "76561198661904260",
+      "Score": 2,
+      "Time": "00:34"
+    },
     {
       "Name": "faith (Juniors Dad)",
       "Steam": "76561198673536810",
-      "Score": 96,
+      "Score": 108,
       "Time": "??:??"
     },
     {
       "Name": "you dont love z9co?",
       "Steam": "76561198716484572",
-      "Score": 8,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "X3ON",
       "Steam": "76561199114309162",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "VSA",
       "Steam": "76561199067113258",
-      "Score": 0,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nord",
+      "Steam": "76561199547017962",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
