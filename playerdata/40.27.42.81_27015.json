@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-22T13:37:20.7483099Z",
+  "Time": "2026-08-22T13:39:20.7485088Z",
   "Players": [
     {
       "Name": "VSA",
       "Steam": "76561199067113258",
-      "Score": 8,
-      "Time": "03:13"
+      "Score": 10,
+      "Time": "05:13"
     },
     {
       "Name": "X3ON",
       "Steam": "76561199114309162",
-      "Score": 0,
-      "Time": "05:37"
+      "Score": 2,
+      "Time": "07:37"
     },
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 57,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "Informing",
       "Steam": "76561199836886163",
-      "Score": 0,
-      "Time": "00:14"
+      "Score": 13,
+      "Time": "02:14"
     },
     {
       "Name": "george droid",
       "Steam": "76561199675834899",
-      "Score": 22,
+      "Score": 24,
       "Time": "??:??"
+    },
+    {
+      "Name": "reganscott87",
+      "Steam": "76561198794732414",
+      "Score": 10,
+      "Time": "01:58"
     },
     {
       "Name": "JACON",
       "Steam": "76561198724270024",
-      "Score": 15,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "Shit@HvH",
       "Steam": "76561198726523292",
-      "Score": 7,
-      "Time": "05:16"
+      "Score": 9,
+      "Time": "07:16"
     },
     {
       "Name": "Steven Seagal's Second Son",
       "Steam": "76561198773879832",
       "Score": 6,
-      "Time": "23:02"
+      "Time": "25:02"
     }
   ]
 }
