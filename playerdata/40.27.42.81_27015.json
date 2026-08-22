@@ -1,17 +1,17 @@
 {
-  "Time": "2026-08-22T11:43:20.7483592Z",
+  "Time": "2026-08-22T11:45:20.7554062Z",
   "Players": [
     {
       "Name": "Alex",
       "Steam": "76561198055317709",
-      "Score": 3,
-      "Time": "06:48"
+      "Score": 5,
+      "Time": "08:48"
     },
     {
       "Name": "Informing",
       "Steam": "76561199836886163",
-      "Score": 109,
-      "Time": "19:11"
+      "Score": 131,
+      "Time": "21:11"
     },
     {
       "Name": "reganscott87",
@@ -28,13 +28,13 @@
     {
       "Name": "Karen",
       "Steam": "76561199781553603",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Silver Duck",
       "Steam": "76561199053048408",
-      "Score": 37,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -46,7 +46,13 @@
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 1,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Nord",
+      "Steam": "76561199547017962",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
