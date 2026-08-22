@@ -1,34 +1,46 @@
 {
-  "Time": "2026-08-22T06:41:46.3672353Z",
+  "Time": "2026-08-22T06:43:46.3678624Z",
   "Players": [
     {
       "Name": "wait",
       "Steam": "76561198678445554",
-      "Score": 16,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "komi",
       "Steam": "76561199588690188",
-      "Score": 8,
-      "Time": "747:59"
+      "Score": 15,
+      "Time": "749:59"
+    },
+    {
+      "Name": "EAC Runtime Error",
+      "Steam": "76561198653384816",
+      "Score": 0,
+      "Time": "739:15"
     },
     {
       "Name": "Toxic_Waste_Ace",
       "Steam": "76561199700382906",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "01:39"
+    },
+    {
+      "Name": "reject degeneracy",
+      "Steam": "76561198661143486",
+      "Score": 0,
+      "Time": "00:22"
     },
     {
       "Name": "\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83",
       "Steam": "76561199871821467",
-      "Score": 4,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "bad",
       "Steam": "76561198281663381",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
