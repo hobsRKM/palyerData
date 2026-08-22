@@ -1,22 +1,22 @@
 {
-  "Time": "2026-08-22T06:16:39.8264511Z",
+  "Time": "2026-08-22T06:18:39.8398911Z",
   "Players": [
+    {
+      "Name": "benzamartine",
+      "Steam": "76561198660826823",
+      "Score": 0,
+      "Time": "00:32"
+    },
     {
       "Name": "Delta",
       "Steam": "76561198367422859",
-      "Score": 52,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Kaneki",
       "Steam": "76561198049571150",
-      "Score": 6,
-      "Time": "??:??"
-    },
-    {
-      "Name": "js_da_midia46",
-      "Steam": "76561198658078094",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     }
   ]
