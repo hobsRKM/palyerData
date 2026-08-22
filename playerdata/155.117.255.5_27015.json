@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-22T19:58:33.9898379Z",
+  "Time": "2026-08-22T20:00:34.0027404Z",
   "Players": [
+    {
+      "Name": "svt",
+      "Steam": "76561199064413061",
+      "Score": 0,
+      "Time": "00:54"
+    },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
@@ -10,20 +16,14 @@
     {
       "Name": "faith (Juniors Dad)",
       "Steam": "76561198673536810",
-      "Score": 11,
+      "Score": 21,
       "Time": "??:??"
     },
     {
       "Name": "yngececb",
       "Steam": "76561199725780678",
-      "Score": 2,
-      "Time": "03:45"
-    },
-    {
-      "Name": "apo destroyer",
-      "Steam": "76561199654482000",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 4,
+      "Time": "05:45"
     }
   ]
 }
