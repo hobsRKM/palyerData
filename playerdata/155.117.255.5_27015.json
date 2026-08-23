@@ -1,22 +1,34 @@
 {
-  "Time": "2026-08-23T09:46:33.2622354Z",
+  "Time": "2026-08-23T09:48:33.2549771Z",
   "Players": [
+    {
+      "Name": "stellardruidcrypt007",
+      "Steam": "76561198730119749",
+      "Score": 0,
+      "Time": "00:27"
+    },
     {
       "Name": "conpulse",
       "Steam": "76561198652973491",
-      "Score": 47,
+      "Score": 51,
       "Time": "??:??"
     },
     {
       "Name": "Abel",
       "Steam": "76561198772151109",
-      "Score": 78,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "UmltcmVzY2hQcmli",
       "Steam": "76561198166519466",
-      "Score": 8,
+      "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "buriedmyledger",
+      "Steam": "76561199864627357",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
