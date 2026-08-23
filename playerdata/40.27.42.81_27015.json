@@ -1,17 +1,29 @@
 {
-  "Time": "2026-08-22T22:19:20.741609Z",
+  "Time": "2026-08-22T22:21:20.7529833Z",
   "Players": [
+    {
+      "Name": "runner",
+      "Steam": "76561198679370981",
+      "Score": 4,
+      "Time": "01:21"
+    },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 40,
-      "Time": "62:35"
+      "Score": 42,
+      "Time": "64:35"
     },
     {
       "Name": "UmltcmVzY2hQcmli",
       "Steam": "76561198166519466",
-      "Score": 39,
-      "Time": "27:15"
+      "Score": 51,
+      "Time": "29:15"
+    },
+    {
+      "Name": "Stay Black wigga",
+      "Steam": "76561198719916399",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
