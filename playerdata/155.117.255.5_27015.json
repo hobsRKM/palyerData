@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-23T07:48:33.9929369Z",
+  "Time": "2026-08-23T07:50:33.9886068Z",
   "Players": [
+    {
+      "Name": "i am kira",
+      "Steam": "76561198686850972",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "LINUXOID ARMY",
       "Steam": "76561198662026091",
@@ -10,26 +16,26 @@
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 16,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "voke",
       "Steam": "76561199471107546",
-      "Score": 21,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "UmltcmVzY2hQcmli",
       "Steam": "76561198166519466",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "something",
       "Steam": "76561198666324434",
-      "Score": 21,
-      "Time": "12:27"
+      "Score": 24,
+      "Time": "14:27"
     }
   ]
 }
