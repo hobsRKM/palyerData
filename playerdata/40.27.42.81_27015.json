@@ -1,16 +1,28 @@
 {
-  "Time": "2026-08-23T13:17:25.7769206Z",
+  "Time": "2026-08-23T13:19:25.7816514Z",
   "Players": [
     {
       "Name": "Angry German",
       "Steam": "76561198660868610",
-      "Score": 13,
-      "Time": "26:55"
+      "Score": 17,
+      "Time": "28:55"
     },
     {
       "Name": "MudCrab Labs",
       "Steam": "76561199644688658",
-      "Score": 13,
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "restless nights",
+      "Steam": "76561198744712586",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "aim#luckbot",
+      "Steam": "76561199826685794",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -22,20 +34,26 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 48,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "ReLaX",
       "Steam": "76561198766038304",
-      "Score": 24,
-      "Time": "12:32"
+      "Score": 29,
+      "Time": "14:32"
     },
     {
       "Name": "Toe muncher",
       "Steam": "76561199179047469",
       "Score": 16,
       "Time": "??:??"
+    },
+    {
+      "Name": "memese< Silver Duck",
+      "Steam": "76561199053048408",
+      "Score": 2,
+      "Time": "01:59"
     }
   ]
 }
