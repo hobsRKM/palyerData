@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-23T05:19:20.7471448Z",
+  "Time": "2026-08-23T05:21:20.7471383Z",
   "Players": [
     {
       "Name": "wait",
       "Steam": "76561198678445554",
-      "Score": 14,
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FAT MAN",
+      "Steam": "76561198805218662",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 14,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "UmltcmVzY2hQcmli",
       "Steam": "76561198166519466",
-      "Score": 11,
-      "Time": "03:49"
+      "Score": 16,
+      "Time": "05:49"
     }
   ]
 }
