@@ -1,35 +1,53 @@
 {
-  "Time": "2026-08-23T08:37:20.751079Z",
+  "Time": "2026-08-23T08:39:20.7461899Z",
   "Players": [
+    {
+      "Name": "svt",
+      "Steam": "76561199064413061",
+      "Score": 0,
+      "Time": "953:19"
+    },
     {
       "Name": "Red Apple",
       "Steam": "76561198661904260",
       "Score": 0,
-      "Time": "09:59"
+      "Time": "11:59"
     },
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 17,
-      "Time": "1193:38"
+      "Score": 22,
+      "Time": "1195:38"
     },
     {
       "Name": "xopixia",
       "Steam": "76561198733969032",
-      "Score": 69,
-      "Time": "1002:36"
+      "Score": 75,
+      "Time": "1004:36"
+    },
+    {
+      "Name": "Jxnior . #STIMBOT #PINGBOT",
+      "Steam": "76561199836886163",
+      "Score": 0,
+      "Time": "00:02"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 50,
-      "Time": "1206:53"
+      "Score": 53,
+      "Time": "1208:53"
     },
     {
       "Name": "ilovev.gov12",
       "Steam": "76561199866742483",
-      "Score": 54,
-      "Time": "16:08"
+      "Score": 60,
+      "Time": "18:08"
+    },
+    {
+      "Name": "ReLaX",
+      "Steam": "76561198766038304",
+      "Score": 4,
+      "Time": "01:52"
     }
   ]
 }
