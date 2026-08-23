@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-23T15:55:25.788324Z",
+  "Time": "2026-08-23T15:57:25.7820755Z",
   "Players": [
+    {
+      "Name": "Angry German",
+      "Steam": "76561198660868610",
+      "Score": 0,
+      "Time": "01:19"
+    },
     {
       "Name": "something",
       "Steam": "76561198666324434",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "q",
       "Steam": "76561199856290691",
-      "Score": 56,
-      "Time": "49:16"
+      "Score": 63,
+      "Time": "51:16"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 91,
-      "Time": "35:26"
+      "Score": 95,
+      "Time": "37:26"
     },
     {
       "Name": "l1mit",
       "Steam": "76561199409798369",
-      "Score": 0,
-      "Time": "00:08"
+      "Score": 1,
+      "Time": "02:08"
     },
     {
       "Name": "svt",
       "Steam": "76561199064413061",
-      "Score": 32,
-      "Time": "87:51"
+      "Score": 38,
+      "Time": "89:51"
     },
     {
       "Name": "beat her ASS!",
@@ -40,25 +46,25 @@
     {
       "Name": "ming bing",
       "Steam": "76561199409321218",
-      "Score": 0,
-      "Time": "00:53"
+      "Score": 7,
+      "Time": "02:53"
     },
     {
       "Name": "user",
       "Steam": "76561199104080002",
-      "Score": 80,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "idgaf",
       "Steam": "76561199236927078",
-      "Score": 6,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 91,
+      "Score": 100,
       "Time": "??:??"
     }
   ]
