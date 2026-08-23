@@ -1,28 +1,28 @@
 {
-  "Time": "2026-08-23T08:46:33.9915247Z",
+  "Time": "2026-08-23T08:48:33.9893275Z",
   "Players": [
+    {
+      "Name": "VSA",
+      "Steam": "76561199067113258",
+      "Score": 4,
+      "Time": "44:04"
+    },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 12,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "voke",
       "Steam": "76561199471107546",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Abel",
       "Steam": "76561198772151109",
       "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Mason Foxworth",
-      "Steam": "76561199839137823",
-      "Score": 0,
       "Time": "??:??"
     }
   ]
