@@ -1,11 +1,17 @@
 {
-  "Time": "2026-08-24T10:43:25.7831814Z",
+  "Time": "2026-08-24T10:45:25.7795493Z",
   "Players": [
     {
       "Name": "riotsurge",
       "Steam": "76561198734560736",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Angry German",
+      "Steam": "76561198660868610",
+      "Score": 57,
+      "Time": "00:32"
     },
     {
       "Name": "zzZzzzzZzzzZzzzZZZZzzZZz",
@@ -23,25 +29,25 @@
       "Name": "67",
       "Steam": "76561199200375921",
       "Score": 47,
-      "Time": "24:12"
+      "Time": "00:16"
     },
     {
       "Name": "xopixia",
       "Steam": "76561198733969032",
-      "Score": 98,
-      "Time": "192:00"
+      "Score": 106,
+      "Time": "194:00"
     },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 47,
-      "Time": "21:44"
+      "Score": 55,
+      "Time": "23:44"
     },
     {
-      "Name": "nemesis de_v",
+      "Name": "n3m3sis de_v",
       "Steam": "76561198219350995",
-      "Score": 4,
-      "Time": "01:08"
+      "Score": 8,
+      "Time": "03:08"
     }
   ]
 }
