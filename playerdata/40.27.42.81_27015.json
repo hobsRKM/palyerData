@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-24T10:53:25.7750979Z",
+  "Time": "2026-08-24T10:55:25.7811712Z",
   "Players": [
+    {
+      "Name": "[Non] МИХАЛЫЧ",
+      "Steam": "76561199760266092",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Angry German",
       "Steam": "76561198660868610",
-      "Score": 0,
-      "Time": "08:32"
+      "Score": 2,
+      "Time": "10:32"
     },
     {
       "Name": "Coinbase Caller Muta",
       "Steam": "76561198656379831",
-      "Score": 9,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "zzZzzzzZzzzZzzzZZZZzzZZz",
       "Steam": "76561198392081729",
-      "Score": 15,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "sus",
       "Steam": "76561198655638870",
-      "Score": 49,
+      "Score": 57,
       "Time": "??:??"
     },
     {
       "Name": "67",
       "Steam": "76561199200375921",
-      "Score": 67,
-      "Time": "08:16"
+      "Score": 72,
+      "Time": "10:16"
     },
     {
       "Name": "xopixia",
       "Steam": "76561198733969032",
-      "Score": 127,
-      "Time": "202:00"
+      "Score": 134,
+      "Time": "204:00"
     },
     {
       "Name": "eac",
       "Steam": "76561198849256167",
-      "Score": 77,
-      "Time": "31:44"
+      "Score": 80,
+      "Time": "33:44"
     },
     {
-      "Name": "n3m3sis de_v",
+      "Name": "nemesis de_v",
       "Steam": "76561198219350995",
-      "Score": 17,
-      "Time": "11:08"
+      "Score": 6,
+      "Time": "13:08"
     }
   ]
 }
