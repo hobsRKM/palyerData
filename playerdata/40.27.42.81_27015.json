@@ -1,29 +1,41 @@
 {
-  "Time": "2026-08-23T19:13:25.775079Z",
+  "Time": "2026-08-23T19:15:25.7867719Z",
   "Players": [
     {
       "Name": "bloggo",
       "Steam": "76561198712611951",
-      "Score": 14,
-      "Time": "289:19"
+      "Score": 22,
+      "Time": "291:19"
     },
     {
       "Name": "The Chosen One",
       "Steam": "76561199105830408",
-      "Score": 6,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "giga-over",
+      "Steam": "76561199725613843",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 20,
-      "Time": "03:26"
+      "Score": 22,
+      "Time": "05:26"
+    },
+    {
+      "Name": "idgaf",
+      "Steam": "76561199236927078",
+      "Score": 19,
+      "Time": "01:59"
     },
     {
       "Name": "Shit@HvH",
       "Steam": "76561198726523292",
-      "Score": 16,
-      "Time": "07:33"
+      "Score": 22,
+      "Time": "09:33"
     }
   ]
 }
