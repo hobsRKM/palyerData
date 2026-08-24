@@ -1,34 +1,46 @@
 {
-  "Time": "2026-08-24T04:12:33.2638184Z",
+  "Time": "2026-08-24T04:14:33.2608141Z",
   "Players": [
+    {
+      "Name": "CLOGGUM DEATH SQUAD",
+      "Steam": "76561199880717233",
+      "Score": 0,
+      "Time": "00:18"
+    },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 0,
-      "Time": "00:36"
+      "Time": "02:36"
     },
     {
       "Name": "idgaf",
       "Steam": "76561199236927078",
-      "Score": 57,
-      "Time": "35:06"
+      "Score": 65,
+      "Time": "37:06"
     },
     {
       "Name": "The Chosen One",
       "Steam": "76561199105830408",
-      "Score": 19,
-      "Time": "08:24"
+      "Score": 29,
+      "Time": "10:24"
     },
     {
       "Name": "ANGOLAN MOTOR OIL RETAILER",
       "Steam": "76561198844542771",
-      "Score": 60,
-      "Time": "12:44"
+      "Score": 63,
+      "Time": "14:44"
+    },
+    {
+      "Name": "Chloro",
+      "Steam": "76561199706555691",
+      "Score": 0,
+      "Time": "01:15"
     },
     {
       "Name": "something",
       "Steam": "76561198666324434",
-      "Score": 35,
+      "Score": 41,
       "Time": "??:??"
     }
   ]
