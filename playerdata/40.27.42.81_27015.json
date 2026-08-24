@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-24T15:49:25.7781951Z",
+  "Time": "2026-08-24T15:51:25.778271Z",
   "Players": [
+    {
+      "Name": "eight",
+      "Steam": "76561199532111922",
+      "Score": 0,
+      "Time": "1390:45"
+    },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 96,
-      "Time": "1382:38"
+      "Score": 110,
+      "Time": "1384:38"
     },
     {
-      "Name": "972-7 HUNK",
-      "Steam": "76561199870945474",
-      "Score": 3,
+      "Name": "Socrates",
+      "Steam": "76561199803889471",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 2,
-      "Time": "1502:08"
+      "Score": 0,
+      "Time": "1504:08"
     },
     {
       "Name": "nemesis de_v",
       "Steam": "76561198219350995",
-      "Score": 18,
-      "Time": "08:56"
+      "Score": 25,
+      "Time": "10:56"
     }
   ]
 }
