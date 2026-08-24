@@ -1,17 +1,23 @@
 {
-  "Time": "2026-08-23T19:53:25.7778168Z",
+  "Time": "2026-08-23T19:55:25.7832302Z",
   "Players": [
     {
-      "Name": "|Purᴇsᴇ| MotherOfChaz345",
+      "Name": "|Pu| MotherOfChaz345",
       "Steam": "76561199880090149",
-      "Score": 11,
+      "Score": 22,
       "Time": "??:??"
+    },
+    {
+      "Name": "giga-over",
+      "Steam": "76561199725613843",
+      "Score": 2,
+      "Time": "00:55"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 22,
-      "Time": "31:24"
+      "Score": 28,
+      "Time": "33:24"
     },
     {
       "Name": "philip",
@@ -22,8 +28,8 @@
     {
       "Name": "9r",
       "Steam": "76561198681652913",
-      "Score": 10,
-      "Time": "276:57"
+      "Score": 16,
+      "Time": "278:57"
     }
   ]
 }
