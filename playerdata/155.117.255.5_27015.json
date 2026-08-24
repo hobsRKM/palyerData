@@ -1,16 +1,22 @@
 {
-  "Time": "2026-08-24T03:36:33.2634162Z",
+  "Time": "2026-08-24T03:38:33.2675576Z",
   "Players": [
+    {
+      "Name": "idgaf",
+      "Steam": "76561199236927078",
+      "Score": 57,
+      "Time": "01:06"
+    },
     {
       "Name": "The Chosen One",
       "Steam": "76561199105830408",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "ANGOLAN MOTOR OIL RETAILER",
       "Steam": "76561198844542771",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
     }
   ]
