@@ -1,41 +1,53 @@
 {
-  "Time": "2026-08-24T15:59:25.7765628Z",
+  "Time": "2026-08-24T16:01:25.7800347Z",
   "Players": [
     {
       "Name": "eight",
       "Steam": "76561199532111922",
-      "Score": 2,
-      "Time": "1398:45"
+      "Score": 4,
+      "Time": "1400:45"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 9,
-      "Time": "1392:38"
+      "Score": 18,
+      "Time": "1394:38"
+    },
+    {
+      "Name": "FATALITY LOVER",
+      "Steam": "76561198678893000",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
       "Score": 4,
-      "Time": "1512:08"
+      "Time": "1514:08"
     },
     {
-      "Name": "PPHUD Daylyt (◣_◢)",
+      "Name": "PPH Daylyt (◣_◢)",
       "Steam": "76561199063655334",
-      "Score": 14,
-      "Time": "07:19"
+      "Score": 20,
+      "Time": "09:19"
+    },
+    {
+      "Name": "thien",
+      "Steam": "76561198665520717",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "nemesis de_v",
       "Steam": "76561198219350995",
-      "Score": 8,
-      "Time": "18:56"
+      "Score": 10,
+      "Time": "20:57"
     },
     {
       "Name": "oak",
       "Steam": "76561199707906517",
-      "Score": 0,
-      "Time": "00:22"
+      "Score": 2,
+      "Time": "02:22"
     }
   ]
 }
