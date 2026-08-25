@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-25T09:23:47.2937535Z",
+  "Time": "2026-08-25T09:25:47.2957978Z",
   "Players": [
+    {
+      "Name": "pine",
+      "Steam": "76561198684805702",
+      "Score": 3,
+      "Time": "01:47"
+    },
     {
       "Name": "the last twink in the bag",
       "Steam": "76561198655848166",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Narcissist",
       "Steam": "76561199409321218",
-      "Score": 19,
-      "Time": "20:28"
+      "Score": 23,
+      "Time": "22:28"
     },
     {
       "Name": "khhv",
       "Steam": "76561198745194531",
-      "Score": 32,
+      "Score": 39,
       "Time": "??:??"
     },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
       "Score": 42,
-      "Time": "24:36"
+      "Time": "26:36"
     }
   ]
 }
