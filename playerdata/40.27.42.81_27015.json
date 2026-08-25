@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-25T09:15:47.2931126Z",
+  "Time": "2026-08-25T09:17:47.3054258Z",
   "Players": [
     {
       "Name": "Socrates",
       "Steam": "76561199803889471",
       "Score": 0,
-      "Time": "228:31"
+      "Time": "230:31"
     },
     {
       "Name": "the last twink in the bag",
       "Steam": "76561198655848166",
-      "Score": 25,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Fatality.win",
       "Steam": "76561198680645476",
       "Score": 1,
-      "Time": "04:09"
+      "Time": "06:09"
+    },
+    {
+      "Name": "Narcissist",
+      "Steam": "76561199409321218",
+      "Score": 0,
+      "Time": "14:28"
     },
     {
       "Name": "khhv",
       "Steam": "76561198745194531",
-      "Score": 2,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 15,
-      "Time": "16:36"
+      "Score": 25,
+      "Time": "18:36"
     }
   ]
 }
