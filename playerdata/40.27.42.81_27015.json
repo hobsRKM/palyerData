@@ -1,34 +1,28 @@
 {
-  "Time": "2026-08-24T20:57:47.2994744Z",
+  "Time": "2026-08-24T20:59:47.2973081Z",
   "Players": [
     {
       "Name": "oak",
       "Steam": "76561199707906517",
-      "Score": 4,
-      "Time": "04:33"
+      "Score": 6,
+      "Time": "06:33"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 60,
-      "Time": "71:20"
+      "Score": 71,
+      "Time": "73:20"
     },
     {
       "Name": "639",
       "Steam": "76561199628740692",
-      "Score": 46,
+      "Score": 64,
       "Time": "??:??"
-    },
-    {
-      "Name": "Loading...",
-      "Steam": "76561198783859737",
-      "Score": 34,
-      "Time": "02:04"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 54,
+      "Score": 66,
       "Time": "??:??"
     },
     {
@@ -40,25 +34,19 @@
     {
       "Name": "Micropterus salmoides",
       "Steam": "76561199404942261",
-      "Score": 13,
-      "Time": "29:18"
+      "Score": 20,
+      "Time": "31:18"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 84,
-      "Time": "16:53"
+      "Score": 90,
+      "Time": "18:53"
     },
     {
       "Name": "x",
       "Steam": "76561198654604737",
-      "Score": 41,
-      "Time": "??:??"
-    },
-    {
-      "Name": "zynjamin franklip",
-      "Steam": "76561199782101581",
-      "Score": 5,
+      "Score": 43,
       "Time": "??:??"
     },
     {
@@ -70,13 +58,13 @@
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 41,
+      "Score": 49,
       "Time": "??:??"
     },
     {
@@ -88,7 +76,19 @@
     {
       "Name": "Looking into the future",
       "Steam": "76561199614594774",
-      "Score": 18,
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "torzsi",
+      "Steam": "76561199193741299",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "coinbase",
+      "Steam": "76561199217304283",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
