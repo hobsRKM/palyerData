@@ -1,52 +1,58 @@
 {
-  "Time": "2026-08-24T20:51:47.3112101Z",
+  "Time": "2026-08-24T20:53:47.3120044Z",
   "Players": [
+    {
+      "Name": "oak",
+      "Steam": "76561199707906517",
+      "Score": 0,
+      "Time": "00:33"
+    },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 38,
-      "Time": "65:20"
+      "Score": 42,
+      "Time": "67:20"
     },
     {
       "Name": "639",
       "Steam": "76561199628740692",
-      "Score": 29,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 28,
-      "Time": "22:32"
+      "Score": 30,
+      "Time": "24:32"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "star",
       "Steam": "76561199888234630",
-      "Score": 12,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Micropterus salmoides",
       "Steam": "76561199404942261",
-      "Score": 2,
-      "Time": "23:18"
+      "Score": 6,
+      "Time": "25:18"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 59,
-      "Time": "10:53"
+      "Score": 71,
+      "Time": "12:53"
     },
     {
       "Name": "x",
       "Steam": "76561198654604737",
-      "Score": 23,
+      "Score": 35,
       "Time": "??:??"
     },
     {
@@ -54,6 +60,12 @@
       "Steam": "76561199782101581",
       "Score": 5,
       "Time": "??:??"
+    },
+    {
+      "Name": "babyman",
+      "Steam": "76561199322237453",
+      "Score": 0,
+      "Time": "01:14"
     },
     {
       "Name": "chung",
@@ -64,19 +76,19 @@
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 16,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "cookie :3",
       "Steam": "76561198677626095",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
