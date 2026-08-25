@@ -1,70 +1,82 @@
 {
-  "Time": "2026-08-24T21:33:47.3018456Z",
+  "Time": "2026-08-24T21:35:47.3011744Z",
   "Players": [
+    {
+      "Name": "Mystery",
+      "Steam": "76561199851026989",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "V",
       "Steam": "76561199708520028",
-      "Score": 32,
-      "Time": "07:46"
+      "Score": 34,
+      "Time": "09:46"
     },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 51,
-      "Time": "107:20"
+      "Score": 52,
+      "Time": "109:20"
     },
     {
       "Name": "fianhwa",
       "Steam": "76561198736952884",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 24,
-      "Time": "12:34"
+      "Score": 26,
+      "Time": "14:34"
     },
     {
       "Name": "pine",
       "Steam": "76561198684805702",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "01:36"
     },
     {
       "Name": "estrogen",
       "Steam": "76561199882962470",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 57,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "star",
       "Steam": "76561199888234630",
-      "Score": 0,
-      "Time": "10:09"
+      "Score": 2,
+      "Time": "12:09"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 52,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Looking into the future",
       "Steam": "76561199614594774",
-      "Score": 62,
+      "Score": 66,
       "Time": "??:??"
+    },
+    {
+      "Name": "tigr 2007",
+      "Steam": "76561199872261644",
+      "Score": 0,
+      "Time": "00:29"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 36,
+      "Score": 45,
       "Time": "??:??"
     }
   ]
