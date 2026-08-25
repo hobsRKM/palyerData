@@ -1,40 +1,46 @@
 {
-  "Time": "2026-08-25T23:30:35.613667Z",
+  "Time": "2026-08-25T23:32:35.6173811Z",
   "Players": [
+    {
+      "Name": "PoopOnYourFloor",
+      "Steam": "76561199112315203",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "neegy",
       "Steam": "76561198735328025",
-      "Score": 21,
-      "Time": "12:11"
+      "Score": 29,
+      "Time": "14:11"
     },
     {
-      "Name": "PPHUD.CC Daylyt (◣_◢)",
+      "Name": "P Daylyt (◣_◢)",
       "Steam": "76561199063655334",
-      "Score": 0,
-      "Time": "00:09"
+      "Score": 3,
+      "Time": "02:09"
     },
     {
       "Name": "ꨄ︎ㅤꨄ︎ㅤꨄ",
       "Steam": "76561198654604737",
-      "Score": 49,
-      "Time": "47:02"
+      "Score": 53,
+      "Time": "49:02"
     },
     {
       "Name": "MotherOfChaz345",
       "Steam": "76561199880090149",
-      "Score": 30,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Nord",
       "Steam": "76561199547017962",
-      "Score": 28,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "Karen V2",
       "Steam": "76561198728366402",
-      "Score": 20,
+      "Score": 22,
       "Time": "??:??"
     }
   ]
