@@ -1,47 +1,53 @@
 {
-  "Time": "2026-08-24T22:53:47.2966999Z",
+  "Time": "2026-08-24T22:55:47.3096605Z",
   "Players": [
     {
       "Name": "V",
       "Steam": "76561199708520028",
-      "Score": 4,
-      "Time": "01:00"
+      "Score": 10,
+      "Time": "03:01"
+    },
+    {
+      "Name": "h",
+      "Steam": "76561199389127524",
+      "Score": 1,
+      "Time": "02:02"
     },
     {
       "Name": "fianhwa",
       "Steam": "76561198736952884",
       "Score": 21,
-      "Time": "28:12"
+      "Time": "30:12"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 70,
+      "Score": 76,
       "Time": "??:??"
     },
     {
-      "Name": "sQouTT_",
-      "Steam": "76561199842754880",
-      "Score": 34,
-      "Time": "08:50"
-    },
-    {
-      "Name": "12345",
-      "Steam": "76561198273479891",
-      "Score": 5,
-      "Time": "56:53"
+      "Name": "Narcissist",
+      "Steam": "76561199409321218",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
       "Steam": "76561199086867846",
-      "Score": 23,
-      "Time": "05:56"
+      "Score": 25,
+      "Time": "07:56"
     },
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 44,
+      "Score": 47,
       "Time": "??:??"
+    },
+    {
+      "Name": "tigr 2007",
+      "Steam": "76561199872261644",
+      "Score": 5,
+      "Time": "01:10"
     }
   ]
 }
