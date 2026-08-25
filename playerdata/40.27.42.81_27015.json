@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-24T23:41:47.3042121Z",
+  "Time": "2026-08-24T23:43:47.3081044Z",
   "Players": [
+    {
+      "Name": "V",
+      "Steam": "76561199708520028",
+      "Score": 2,
+      "Time": "01:53"
+    },
     {
       "Name": "h",
       "Steam": "76561199389127524",
-      "Score": 21,
-      "Time": "09:51"
+      "Score": 29,
+      "Time": "11:51"
     },
     {
       "Name": "pine",
       "Steam": "76561198684805702",
-      "Score": 4,
-      "Time": "33:20"
+      "Score": 10,
+      "Time": "35:20"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 2,
-      "Time": "01:43"
+      "Time": "03:43"
     },
     {
       "Name": "giga-over",
@@ -26,33 +32,45 @@
       "Time": "??:??"
     },
     {
-      "Name": "|Pur| MotherOfChaz345",
+      "Name": "|Purᴇsᴇns| MotherOfChaz345",
       "Steam": "76561199880090149",
-      "Score": 28,
-      "Time": "45:28"
+      "Score": 31,
+      "Time": "47:28"
+    },
+    {
+      "Name": "Cookie",
+      "Steam": "76561199652410817",
+      "Score": 0,
+      "Time": "00:47"
     },
     {
       "Name": "gay",
       "Steam": "76561199046021942",
-      "Score": 19,
-      "Time": "28:21"
+      "Score": 29,
+      "Time": "30:21"
     },
     {
       "Name": "bubbas",
       "Steam": "76561199013242171",
-      "Score": 5,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Mr. Drippler",
       "Steam": "76561199386706864",
-      "Score": 10,
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Александр Петров",
+      "Steam": "76561198784145240",
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 17,
+      "Score": 21,
       "Time": "??:??"
     }
   ]
