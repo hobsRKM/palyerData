@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-25T08:57:47.3007182Z",
+  "Time": "2026-08-25T08:59:47.2990735Z",
   "Players": [
     {
       "Name": "pine",
       "Steam": "76561198684805702",
-      "Score": 11,
-      "Time": "09:19"
+      "Score": 13,
+      "Time": "11:19"
     },
     {
       "Name": "slave",
       "Steam": "76561199570759499",
-      "Score": 26,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "Fatality.win",
       "Steam": "76561198680645476",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 47,
-      "Time": "405:19"
+      "Score": 49,
+      "Time": "407:19"
+    },
+    {
+      "Name": "khhv",
+      "Steam": "76561198745194531",
+      "Score": 6,
+      "Time": "??:??"
     }
   ]
 }
