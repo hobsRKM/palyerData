@@ -1,22 +1,28 @@
 {
-  "Time": "2026-08-25T10:49:47.2942574Z",
+  "Time": "2026-08-25T10:51:47.3020082Z",
   "Players": [
+    {
+      "Name": "neegy",
+      "Steam": "76561198735328025",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
-      "Score": 3,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "KILLVATES",
       "Steam": "76561199046076923",
-      "Score": 2,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
