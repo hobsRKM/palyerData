@@ -1,11 +1,17 @@
 {
-  "Time": "2026-08-26T00:32:35.6077967Z",
+  "Time": "2026-08-26T00:34:35.6028081Z",
   "Players": [
     {
-      "Name": "ev0lve.xyz  Daylyt (◣_◢)",
+      "Name": "Sky",
+      "Steam": "76561198784615271",
+      "Score": 0,
+      "Time": "00:17"
+    },
+    {
+      "Name": "yz        Daylyt (◣_◢)",
       "Steam": "76561199063655334",
-      "Score": 45,
-      "Time": "62:09"
+      "Score": 55,
+      "Time": "64:09"
     },
     {
       "Name": "Nord",
@@ -16,25 +22,19 @@
     {
       "Name": "Karen V2",
       "Steam": "76561198728366402",
-      "Score": 22,
+      "Score": 26,
       "Time": "??:??"
-    },
-    {
-      "Name": "https://x.com/14wordsX",
-      "Steam": "76561198660868610",
-      "Score": 14,
-      "Time": "28:02"
     },
     {
       "Name": "stucks",
       "Steam": "76561198672510639",
-      "Score": 42,
+      "Score": 44,
       "Time": "??:??"
     },
     {
-      "Name": "user",
-      "Steam": "76561199104080002",
-      "Score": 8,
+      "Name": "123",
+      "Steam": "76561199533137038",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
