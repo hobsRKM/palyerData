@@ -1,22 +1,28 @@
 {
-  "Time": "2026-08-26T07:12:35.6038808Z",
+  "Time": "2026-08-26T07:14:35.6063198Z",
   "Players": [
+    {
+      "Name": "Inj3ct0r",
+      "Steam": "76561199823374931",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 26,
-      "Time": "39:59"
+      "Score": 28,
+      "Time": "41:59"
     },
     {
       "Name": "The Grail",
       "Steam": "76561198732098981",
-      "Score": 26,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "integrity examiner",
       "Steam": "76561198705248395",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
@@ -28,13 +34,13 @@
     {
       "Name": "himmler",
       "Steam": "76561199880090149",
-      "Score": 41,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 14,
+      "Score": 18,
       "Time": "??:??"
     }
   ]
