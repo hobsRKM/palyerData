@@ -1,59 +1,65 @@
 {
-  "Time": "2026-08-25T21:33:47.3230502Z",
+  "Time": "2026-08-25T21:35:47.3160175Z",
   "Players": [
+    {
+      "Name": "SolidOrc",
+      "Steam": "76561199866727635",
+      "Score": 0,
+      "Time": "02:02"
+    },
     {
       "Name": "hayley",
       "Steam": "76561198695705547",
-      "Score": 52,
-      "Time": "18:05"
+      "Score": 60,
+      "Time": "20:05"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 56,
-      "Time": "34:53"
+      "Score": 62,
+      "Time": "36:53"
     },
     {
       "Name": "im a chud✭",
       "Steam": "76561198723445690",
-      "Score": 62,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 32,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 14,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 110,
+      "Score": 119,
       "Time": "??:??"
     },
     {
       "Name": "Himmler",
       "Steam": "76561198810442165",
-      "Score": 21,
-      "Time": "95:18"
+      "Score": 29,
+      "Time": "97:18"
     },
     {
       "Name": "MotherOfChaz345",
       "Steam": "76561199880090149",
-      "Score": 35,
-      "Time": "83:29"
+      "Score": 39,
+      "Time": "85:29"
     },
     {
       "Name": "Istv",
       "Steam": "76561199381810676",
       "Score": 2,
-      "Time": "01:31"
+      "Time": "03:31"
     }
   ]
 }
