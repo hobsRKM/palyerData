@@ -1,35 +1,47 @@
 {
-  "Time": "2026-08-25T22:13:47.3137639Z",
+  "Time": "2026-08-25T22:15:47.3142785Z",
   "Players": [
+    {
+      "Name": "SolidOrc",
+      "Steam": "76561199866727635",
+      "Score": 0,
+      "Time": "00:15"
+    },
     {
       "Name": "aim#luckbot",
       "Steam": "76561199826685794",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 15,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
+      "Score": 6,
+      "Time": "03:08"
+    },
+    {
+      "Name": "Candlestick Park",
+      "Steam": "76561197965627896",
       "Score": 0,
-      "Time": "01:08"
+      "Time": "??:??"
     },
     {
       "Name": "himmler",
       "Steam": "76561199880090149",
-      "Score": 15,
-      "Time": "12:29"
+      "Score": 21,
+      "Time": "14:29"
     },
     {
       "Name": "estrogen",
       "Steam": "76561199882962470",
-      "Score": 13,
-      "Time": "05:49"
+      "Score": 16,
+      "Time": "07:49"
     }
   ]
 }
