@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-26T01:56:35.6144186Z",
+  "Time": "2026-08-26T01:58:35.6082042Z",
   "Players": [
     {
       "Name": "MarkHack | .gg/topfrags",
       "Steam": "76561198653622499",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "Kill_All",
       "Steam": "76561198653911280",
-      "Score": 0,
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "reganscott87",
+      "Steam": "76561198794732414",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Muta | 愛生",
       "Steam": "76561198654624260",
-      "Score": 6,
-      "Time": "55:43"
+      "Score": 12,
+      "Time": "57:43"
     }
   ]
 }
