@@ -1,59 +1,71 @@
 {
-  "Time": "2026-08-25T20:53:47.2935358Z",
+  "Time": "2026-08-25T20:55:47.2953237Z",
   "Players": [
+    {
+      "Name": "i love cookies",
+      "Steam": "76561198695705547",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "x",
+      "Steam": "76561198748749117",
+      "Score": 0,
+      "Time": "01:17"
+    },
     {
       "Name": "[dope] cookie",
       "Steam": "76561198671414388",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "im a chud✭",
       "Steam": "76561198723445690",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 14,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
-      "Score": 4,
-      "Time": "104:39"
+      "Score": 14,
+      "Time": "106:39"
     },
     {
       "Name": "Himmler",
       "Steam": "76561198810442165",
       "Score": 0,
-      "Time": "55:18"
+      "Time": "57:18"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 12,
-      "Time": "1166:00"
+      "Score": 20,
+      "Time": "1168:00"
     },
     {
       "Name": "MotherOfChaz345",
       "Steam": "76561199880090149",
-      "Score": 6,
-      "Time": "43:29"
+      "Score": 17,
+      "Time": "45:29"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
       "Score": 4,
-      "Time": "1142:15"
+      "Time": "1144:15"
     }
   ]
 }
