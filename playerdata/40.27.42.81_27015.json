@@ -1,41 +1,47 @@
 {
-  "Time": "2026-08-25T19:35:47.2966206Z",
+  "Time": "2026-08-25T19:37:47.301871Z",
   "Players": [
+    {
+      "Name": "babybab",
+      "Steam": "76561199758142247",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "pine",
       "Steam": "76561198684805702",
-      "Score": 12,
-      "Time": "04:28"
+      "Score": 20,
+      "Time": "06:28"
     },
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "dj play this song。。。",
       "Steam": "76561199859777341",
-      "Score": 18,
+      "Score": 25,
       "Time": "??:??"
     },
     {
-      "Name": "|Purᴇ| MotherOfChaz345",
+      "Name": "|Pur| MotherOfChaz345",
       "Steam": "76561199880090149",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198704741330",
-      "Score": 20,
-      "Time": "1257:22"
+      "Score": 24,
+      "Time": "1259:22"
     },
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 13,
-      "Time": "05:04"
+      "Score": 23,
+      "Time": "07:04"
     }
   ]
 }
