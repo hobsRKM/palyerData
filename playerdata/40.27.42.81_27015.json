@@ -1,53 +1,59 @@
 {
-  "Time": "2026-08-25T20:39:47.3061353Z",
+  "Time": "2026-08-25T20:41:47.2971371Z",
   "Players": [
+    {
+      "Name": "SolidOrc",
+      "Steam": "76561199866727635",
+      "Score": 0,
+      "Time": "01:09"
+    },
     {
       "Name": "[isra] Renatti??®",
       "Steam": "76561198748749117",
-      "Score": 10,
-      "Time": "01:04"
+      "Score": 18,
+      "Time": "03:04"
     },
     {
       "Name": "cookie",
       "Steam": "76561198671414388",
-      "Score": 6,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 49,
+      "Score": 62,
       "Time": "??:??"
     },
     {
       "Name": "Himmler",
       "Steam": "76561198810442165",
-      "Score": 28,
-      "Time": "41:18"
+      "Score": 34,
+      "Time": "43:18"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 75,
-      "Time": "1152:00"
+      "Score": 82,
+      "Time": "1154:00"
     },
     {
       "Name": "chung",
       "Steam": "76561198749701729",
-      "Score": 11,
-      "Time": "08:23"
+      "Score": 14,
+      "Time": "10:22"
     },
     {
       "Name": "MotherOfChaz345",
       "Steam": "76561199880090149",
-      "Score": 44,
-      "Time": "29:29"
+      "Score": 49,
+      "Time": "31:29"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 38,
-      "Time": "1128:15"
+      "Score": 45,
+      "Time": "1130:15"
     }
   ]
 }
