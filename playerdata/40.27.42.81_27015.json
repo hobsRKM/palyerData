@@ -1,23 +1,35 @@
 {
-  "Time": "2026-08-25T17:43:47.3003899Z",
+  "Time": "2026-08-25T17:45:47.2939914Z",
   "Players": [
+    {
+      "Name": "Cookie",
+      "Steam": "76561199652410817",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
       "Steam": "76561199086867846",
-      "Score": 38,
+      "Score": 40,
       "Time": "??:??"
+    },
+    {
+      "Name": "user",
+      "Steam": "76561199104080002",
+      "Score": 6,
+      "Time": "1175:17"
     },
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 2,
-      "Time": "01:43"
+      "Score": 5,
+      "Time": "03:43"
     },
     {
       "Name": "Tom Shelby ♛",
       "Steam": "76561198946044856",
-      "Score": 19,
-      "Time": "12:48"
+      "Score": 24,
+      "Time": "14:48"
     }
   ]
 }
