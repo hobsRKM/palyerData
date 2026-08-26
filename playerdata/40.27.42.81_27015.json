@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-25T22:59:47.3392062Z",
+  "Time": "2026-08-25T23:01:47.3267112Z",
   "Players": [
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 6,
-      "Time": "06:17"
+      "Score": 11,
+      "Time": "08:17"
+    },
+    {
+      "Name": "isis",
+      "Steam": "76561199482511279",
+      "Score": 0,
+      "Time": "00:38"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 0,
-      "Time": "14:45"
+      "Score": 2,
+      "Time": "16:45"
     },
     {
       "Name": "himmler",
       "Steam": "76561199880090149",
-      "Score": 2,
-      "Time": "19:18"
+      "Score": 6,
+      "Time": "21:18"
     }
   ]
 }
