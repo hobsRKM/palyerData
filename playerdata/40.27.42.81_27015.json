@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-25T23:07:47.3360508Z",
+  "Time": "2026-08-25T23:09:47.330632Z",
   "Players": [
+    {
+      "Name": "Muta | 愛生",
+      "Steam": "76561198654624260",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 31,
-      "Time": "14:17"
+      "Score": 43,
+      "Time": "16:17"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 24,
-      "Time": "06:38"
+      "Score": 4,
+      "Time": "08:38"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 16,
-      "Time": "22:45"
+      "Score": 24,
+      "Time": "24:45"
     },
     {
       "Name": "himmler",
       "Steam": "76561199880090149",
-      "Score": 14,
-      "Time": "27:18"
+      "Score": 16,
+      "Time": "29:18"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 0,
-      "Time": "152:36"
+      "Score": 4,
+      "Time": "154:36"
     }
   ]
 }
