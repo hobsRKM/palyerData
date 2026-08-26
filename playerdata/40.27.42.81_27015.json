@@ -1,35 +1,47 @@
 {
-  "Time": "2026-08-25T20:27:47.3015425Z",
+  "Time": "2026-08-25T20:29:47.292574Z",
   "Players": [
+    {
+      "Name": "whodat",
+      "Steam": "76561198312630694",
+      "Score": 0,
+      "Time": "01:37"
+    },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 2,
-      "Time": "1198:51"
+      "Score": 12,
+      "Time": "1200:51"
     },
     {
       "Name": "https://x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 11,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "Himmler",
       "Steam": "76561198810442165",
-      "Score": 18,
-      "Time": "29:18"
+      "Score": 20,
+      "Time": "31:18"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 42,
-      "Time": "1140:00"
+      "Score": 46,
+      "Time": "1142:00"
     },
     {
       "Name": "MotherOfChaz345",
       "Steam": "76561199880090149",
       "Score": 26,
-      "Time": "17:29"
+      "Time": "19:29"
+    },
+    {
+      "Name": "Loading...",
+      "Steam": "76561198783859737",
+      "Score": 0,
+      "Time": "1118:15"
     }
   ]
 }
