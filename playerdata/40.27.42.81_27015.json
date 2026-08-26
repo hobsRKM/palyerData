@@ -1,17 +1,29 @@
 {
-  "Time": "2026-08-25T19:27:47.290317Z",
+  "Time": "2026-08-25T19:29:47.2999063Z",
   "Players": [
+    {
+      "Name": "SolidOrc",
+      "Steam": "76561199866727635",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "https://x.com/14wordsX",
+      "Steam": "76561198660868610",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198704741330",
-      "Score": 4,
-      "Time": "1249:22"
+      "Score": 10,
+      "Time": "1251:22"
     }
   ]
 }
