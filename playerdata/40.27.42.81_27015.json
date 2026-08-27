@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-27T04:39:59.8825789Z",
+  "Time": "2026-08-27T04:41:59.871573Z",
   "Players": [
     {
       "Name": "Awp",
       "Steam": "76561198650321752",
-      "Score": 29,
-      "Time": "21:40"
+      "Score": 35,
+      "Time": "23:40"
+    },
+    {
+      "Name": "76561198278422644",
+      "Steam": "76561198278422644",
+      "Score": 0,
+      "Time": "01:42"
     },
     {
       "Name": "twink lol",
       "Steam": "76561198658800720",
-      "Score": 54,
+      "Score": 60,
       "Time": "??:??"
     },
     {
       "Name": "It Ain't My Fault",
       "Steam": "76561199007769873",
-      "Score": 29,
-      "Time": "06:16"
+      "Score": 40,
+      "Time": "08:16"
     },
     {
       "Name": "i teach minors things :3",
       "Steam": "76561199806908682",
-      "Score": 35,
-      "Time": "78:15"
+      "Score": 39,
+      "Time": "80:15"
     }
   ]
 }
