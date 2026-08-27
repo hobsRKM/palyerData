@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-27T00:17:59.8755692Z",
+  "Time": "2026-08-27T00:19:59.8823379Z",
   "Players": [
+    {
+      "Name": "StrObe",
+      "Steam": "76561198810442165",
+      "Score": 2,
+      "Time": "02:17"
+    },
     {
       "Name": "A_me_a",
       "Steam": "76561199436225054",
@@ -8,34 +14,40 @@
       "Time": "??:??"
     },
     {
+      "Name": "simonmirny",
+      "Steam": "76561198663680797",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "peterbot of cs2",
       "Steam": "76561198661626582",
-      "Score": 0,
-      "Time": "02:00"
+      "Score": 4,
+      "Time": "04:00"
     },
     {
       "Name": "nmsl",
       "Steam": "76561198656327219",
-      "Score": 96,
+      "Score": 102,
       "Time": "??:??"
     },
     {
       "Name": "adolf",
       "Steam": "76561198651051141",
-      "Score": 44,
-      "Time": "126:44"
+      "Score": 46,
+      "Time": "128:44"
     },
     {
       "Name": "i teach minors things :3",
       "Steam": "76561199806908682",
-      "Score": 31,
-      "Time": "77:33"
+      "Score": 35,
+      "Time": "79:33"
     },
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 107,
-      "Time": "44:50"
+      "Score": 115,
+      "Time": "46:50"
     }
   ]
 }
