@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-26T19:39:59.8738027Z",
+  "Time": "2026-08-26T19:41:59.890121Z",
   "Players": [
+    {
+      "Name": "giga-over",
+      "Steam": "76561199725613843",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 0,
-      "Time": "00:59"
+      "Score": 6,
+      "Time": "02:59"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
       "Score": 0,
-      "Time": "47:11"
+      "Time": "49:11"
     },
     {
       "Name": "peterbot of cs2",
       "Steam": "76561198661626582",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 0,
-      "Time": "01:20"
+      "Score": 6,
+      "Time": "03:20"
     },
     {
       "Name": "VSA",
@@ -34,20 +40,26 @@
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 4,
-      "Time": "12:06"
+      "Score": 1,
+      "Time": "14:06"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 6,
-      "Time": "39:02"
+      "Score": 24,
+      "Time": "41:02"
     },
     {
-      "Name": "Santy_.",
-      "Steam": "76561199065025058",
+      "Name": "idgaf",
+      "Steam": "76561199236927078",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "CLOGGUM DEATH SQUAD",
+      "Steam": "76561199880717233",
+      "Score": 6,
+      "Time": "01:58"
     }
   ]
 }
