@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-27T05:31:59.8857192Z",
+  "Time": "2026-08-27T05:33:59.8807511Z",
   "Players": [
+    {
+      "Name": "Rakay",
+      "Steam": "76561199617972846",
+      "Score": 0,
+      "Time": "00:21"
+    },
     {
       "Name": "✧  \uD83C\uDF80  \uD835\uDFE8\uD835\uDFE9  \uD83C\uDF80  ✧",
       "Steam": "76561199200375921",
@@ -8,7 +14,7 @@
       "Time": "??:??"
     },
     {
-      "Name": "ezt Macova",
+      "Name": "eztAPS.pub Macova",
       "Steam": "76561198658067010",
       "Score": 0,
       "Time": "??:??"
@@ -16,19 +22,19 @@
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 51,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "VSA",
       "Steam": "76561199067113258",
-      "Score": 6,
-      "Time": "01:58"
+      "Score": 7,
+      "Time": "03:58"
     },
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
@@ -38,16 +44,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "thereal",
+      "Steam": "76561198775792050",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "i teach minors things :3",
       "Steam": "76561199806908682",
-      "Score": 4,
-      "Time": "130:15"
+      "Score": 0,
+      "Time": "132:15"
     },
     {
       "Name": "@internetlosergirl",
       "Steam": "76561199141167475",
       "Score": 21,
-      "Time": "13:03"
+      "Time": "15:03"
     }
   ]
 }
