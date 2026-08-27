@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-27T04:13:59.8718754Z",
+  "Time": "2026-08-27T04:15:59.8772425Z",
   "Players": [
     {
       "Name": "Escobar",
       "Steam": "76561198658698946",
-      "Score": 5,
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Ansi ;3",
+      "Steam": "76561199865641250",
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "peterbot of cs2",
       "Steam": "76561198661626582",
       "Score": 52,
-      "Time": "238:00"
+      "Time": "240:00"
     },
     {
       "Name": "twink lol",
       "Steam": "76561198658800720",
-      "Score": 13,
+      "Score": 15,
       "Time": "??:??"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 84,
+      "Score": 100,
       "Time": "??:??"
     },
     {
       "Name": "i teach minors things :3",
       "Steam": "76561199806908682",
-      "Score": 8,
-      "Time": "52:15"
+      "Score": 10,
+      "Time": "54:15"
     }
   ]
 }
