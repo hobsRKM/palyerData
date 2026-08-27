@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-26T19:09:59.8811319Z",
+  "Time": "2026-08-26T19:11:59.8782909Z",
   "Players": [
     {
       "Name": "Self Track",
       "Steam": "76561199050170734",
+      "Score": 2,
+      "Time": "07:24"
+    },
+    {
+      "Name": "k1oy",
+      "Steam": "76561199485898907",
       "Score": 0,
-      "Time": "05:24"
+      "Time": "??:??"
     },
     {
       "Name": "bloodritualswithherperiodblood",
       "Steam": "76561199856290691",
-      "Score": 0,
-      "Time": "24:48"
+      "Score": 2,
+      "Time": "26:48"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 0,
-      "Time": "17:11"
+      "Score": 6,
+      "Time": "19:11"
     },
     {
       "Name": "zip",
@@ -28,8 +34,8 @@
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 0,
-      "Time": "09:02"
+      "Score": 16,
+      "Time": "11:02"
     }
   ]
 }
