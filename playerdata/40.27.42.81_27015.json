@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-26T17:47:59.8770413Z",
+  "Time": "2026-08-26T17:49:59.8845727Z",
   "Players": [
+    {
+      "Name": "sus",
+      "Steam": "76561198655638870",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "iscoretheme",
       "Steam": "76561198651499871",
@@ -10,7 +16,7 @@
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 3,
+      "Score": 10,
       "Time": "??:??"
     },
     {
@@ -22,37 +28,37 @@
     {
       "Name": "bloodritualswithherperiodblood",
       "Steam": "76561199856290691",
-      "Score": 6,
-      "Time": "16:59"
+      "Score": 0,
+      "Time": "18:59"
+    },
+    {
+      "Name": "пес патрон Z",
+      "Steam": "76561198662479402",
+      "Score": 0,
+      "Time": "00:48"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 103,
+      "Score": 119,
       "Time": "??:??"
     },
     {
       "Name": "KILLVATES",
       "Steam": "76561199046076923",
-      "Score": 29,
+      "Score": 33,
       "Time": "??:??"
-    },
-    {
-      "Name": "wR4o",
-      "Steam": "76561198013745416",
-      "Score": 16,
-      "Time": "10:59"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 38,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Джеффри Эпштейн",
       "Steam": "76561198679882590",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -64,7 +70,7 @@
     {
       "Name": "Aloachtar",
       "Steam": "76561199274856901",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
