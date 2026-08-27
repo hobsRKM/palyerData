@@ -1,29 +1,41 @@
 {
-  "Time": "2026-08-27T03:39:59.8785735Z",
+  "Time": "2026-08-27T03:41:59.8725078Z",
   "Players": [
+    {
+      "Name": "Rakay",
+      "Steam": "76561199617972846",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "flanco.prod",
       "Steam": "76561198656333469",
-      "Score": 9,
-      "Time": "02:31"
+      "Score": 17,
+      "Time": "04:31"
     },
     {
       "Name": "peterbot of cs2",
       "Steam": "76561198661626582",
-      "Score": 21,
-      "Time": "204:00"
+      "Score": 26,
+      "Time": "206:00"
+    },
+    {
+      "Name": "\uD83D\uDC8C",
+      "Steam": "76561198652675659",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "It Ain't My Fault",
       "Steam": "76561199007769873",
-      "Score": 25,
-      "Time": "313:47"
+      "Score": 37,
+      "Time": "315:47"
     },
     {
       "Name": "i teach minors things :3",
       "Steam": "76561199806908682",
-      "Score": 10,
-      "Time": "18:15"
+      "Score": 0,
+      "Time": "20:15"
     }
   ]
 }
