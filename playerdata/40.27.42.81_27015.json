@@ -1,29 +1,41 @@
 {
-  "Time": "2026-08-27T05:11:59.8726179Z",
+  "Time": "2026-08-27T05:13:59.877045Z",
   "Players": [
+    {
+      "Name": "cs2commends.com",
+      "Steam": "76561198111992905",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "peterbot of cs2",
       "Steam": "76561198661626582",
-      "Score": 54,
-      "Time": "29:04"
+      "Score": 65,
+      "Time": "31:04"
     },
     {
       "Name": "дом",
       "Steam": "76561198770772802",
-      "Score": 13,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cs2commends.com",
+      "Steam": "76561198040374799",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "It Ain't My Fault",
       "Steam": "76561199007769873",
-      "Score": 52,
-      "Time": "38:16"
+      "Score": 60,
+      "Time": "40:16"
     },
     {
       "Name": "i teach minors things :3",
       "Steam": "76561199806908682",
-      "Score": 26,
-      "Time": "110:15"
+      "Score": 28,
+      "Time": "112:15"
     }
   ]
 }
