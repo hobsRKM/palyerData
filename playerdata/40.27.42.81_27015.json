@@ -1,41 +1,59 @@
 {
-  "Time": "2026-08-27T05:17:59.8834918Z",
+  "Time": "2026-08-27T05:19:59.8756444Z",
   "Players": [
+    {
+      "Name": "Willy Wonka 2.0",
+      "Steam": "76561198652895804",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "639",
       "Steam": "76561199628740692",
+      "Score": 2,
+      "Time": "02:20"
+    },
+    {
+      "Name": "✧  \uD83C\uDF80  \uD835\uDFE8\uD835\uDFE9  \uD83C\uDF80  ✧",
+      "Steam": "76561199200375921",
       "Score": 0,
-      "Time": "00:20"
+      "Time": "??:??"
     },
     {
       "Name": "aha ok yeah got it for sure",
       "Steam": "76561199772729689",
-      "Score": 2,
-      "Time": "627:17"
+      "Score": 4,
+      "Time": "629:17"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 2,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "peterbot of cs2",
       "Steam": "76561198661626582",
-      "Score": 7,
-      "Time": "35:04"
+      "Score": 9,
+      "Time": "37:04"
     },
     {
       "Name": "дом",
       "Steam": "76561198770772802",
-      "Score": 13,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "i teach minors things :3",
       "Steam": "76561199806908682",
-      "Score": 8,
-      "Time": "116:15"
+      "Score": 2,
+      "Time": "118:15"
+    },
+    {
+      "Name": "@internetlosergirl",
+      "Steam": "76561199141167475",
+      "Score": 0,
+      "Time": "01:03"
     }
   ]
 }
