@@ -1,29 +1,41 @@
 {
-  "Time": "2026-08-27T00:53:59.8817458Z",
+  "Time": "2026-08-27T00:55:59.8748366Z",
   "Players": [
     {
       "Name": "i blink the vape",
       "Steam": "76561198730912446",
-      "Score": 2,
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "flanco.prod",
+      "Steam": "76561198656333469",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "peterbot of cs2",
       "Steam": "76561198661626582",
-      "Score": 16,
-      "Time": "38:00"
+      "Score": 24,
+      "Time": "40:00"
     },
     {
       "Name": "nmsl",
       "Steam": "76561198656327219",
-      "Score": 54,
+      "Score": 66,
       "Time": "??:??"
+    },
+    {
+      "Name": "trc",
+      "Steam": "76561199406853779",
+      "Score": 3,
+      "Time": "01:49"
     },
     {
       "Name": "i teach minors things :3",
       "Steam": "76561199806908682",
-      "Score": 24,
-      "Time": "113:33"
+      "Score": 28,
+      "Time": "115:33"
     }
   ]
 }
