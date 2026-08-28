@@ -1,9 +1,15 @@
 {
-  "Time": "2026-08-28T21:45:19.6024312Z",
+  "Time": "2026-08-28T21:47:19.6010739Z",
   "Players": [
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pp",
+      "Steam": "76561199823374931",
       "Score": 0,
       "Time": "??:??"
     },
@@ -16,55 +22,49 @@
     {
       "Name": "iliketocheat",
       "Steam": "76561198655213924",
-      "Score": 21,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "RobuxMan2006",
       "Steam": "76561199541078231",
-      "Score": 39,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "God Complex",
       "Steam": "76561197999253961",
-      "Score": 24,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "God Complex",
       "Steam": "76561198732668640",
-      "Score": 4,
-      "Time": "07:53"
+      "Score": 5,
+      "Time": "09:53"
     },
     {
       "Name": "M2S",
       "Steam": "76561199203462505",
-      "Score": 31,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC",
       "Steam": "76561198877348391",
-      "Score": 14,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "jv",
       "Steam": "76561199650028347",
-      "Score": 31,
-      "Time": "??:??"
-    },
-    {
-      "Name": "pld1231134",
-      "Steam": "76561199745557166",
-      "Score": 2,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "con artist",
       "Steam": "76561198131709407",
-      "Score": 2,
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -76,13 +76,13 @@
     {
       "Name": "Francisco Franco",
       "Steam": "76561199837535361",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "vac",
       "Steam": "76561198676848700",
-      "Score": 0,
+      "Score": 1,
       "Time": "??:??"
     }
   ]
