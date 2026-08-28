@@ -1,9 +1,15 @@
 {
-  "Time": "2026-08-28T22:05:19.5878621Z",
+  "Time": "2026-08-28T22:07:19.5971893Z",
   "Players": [
     {
       "Name": "Unicorn",
       "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Suarez",
+      "Steam": "76561199823859290",
       "Score": 0,
       "Time": "??:??"
     },
@@ -16,43 +22,37 @@
     {
       "Name": "God Complex",
       "Steam": "76561197999253961",
-      "Score": 85,
+      "Score": 89,
       "Time": "??:??"
     },
     {
       "Name": "God Complex",
       "Steam": "76561198732668640",
-      "Score": 22,
-      "Time": "27:53"
+      "Score": 26,
+      "Time": "29:53"
     },
     {
       "Name": "con artist",
       "Steam": "76561198131709407",
-      "Score": 59,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "vuuteng",
       "Steam": "76561199545953579",
-      "Score": 60,
-      "Time": "??:??"
-    },
-    {
-      "Name": "gianipistol",
-      "Steam": "76561198651791305",
-      "Score": 1,
+      "Score": 68,
       "Time": "??:??"
     },
     {
       "Name": "888",
       "Steam": "76561198676847378",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Rimbo",
       "Steam": "76561198695300477",
-      "Score": 5,
+      "Score": 15,
       "Time": "??:??"
     }
   ]
