@@ -1,47 +1,53 @@
 {
-  "Time": "2026-08-28T16:35:21.2592734Z",
+  "Time": "2026-08-28T16:37:21.2556231Z",
   "Players": [
+    {
+      "Name": "qHxtaku",
+      "Steam": "76561198777268201",
+      "Score": 3,
+      "Time": "00:28"
+    },
     {
       "Name": "Vic Corleone",
       "Steam": "76561198700071912",
-      "Score": 11,
-      "Time": "02:18"
+      "Score": 26,
+      "Time": "04:18"
     },
     {
       "Name": "kt",
       "Steam": "76561198770772802",
-      "Score": 11,
-      "Time": "04:13"
+      "Score": 15,
+      "Time": "06:13"
     },
     {
       "Name": "Slate",
       "Steam": "76561199812415276",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
-      "Score": 44,
-      "Time": "26:05"
+      "Score": 56,
+      "Time": "28:05"
     },
     {
       "Name": "Pyrocynical",
       "Steam": "76561199869152445",
-      "Score": 10,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "Lain Iwakura",
       "Steam": "76561199163164442",
-      "Score": 12,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "Nord",
       "Steam": "76561199547017962",
-      "Score": 60,
-      "Time": "99:27"
+      "Score": 69,
+      "Time": "101:27"
     },
     {
       "Name": "Nic_60fps",
@@ -50,22 +56,28 @@
       "Time": "??:??"
     },
     {
+      "Name": "andersongran96",
+      "Steam": "76561198655363716",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "elliieeee",
       "Steam": "76561198733172482",
-      "Score": 2,
-      "Time": "16:37"
+      "Score": 3,
+      "Time": "18:37"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198704741330",
-      "Score": 30,
-      "Time": "44:17"
+      "Score": 34,
+      "Time": "46:17"
     },
     {
       "Name": "Synanu",
       "Steam": "76561199689740483",
-      "Score": 2,
-      "Time": "03:00"
+      "Score": 7,
+      "Time": "05:00"
     },
     {
       "Name": "himmler",
@@ -76,13 +88,13 @@
     {
       "Name": "qk",
       "Steam": "76561198676207007",
-      "Score": 40,
-      "Time": "14:00"
+      "Score": 41,
+      "Time": "16:00"
     },
     {
       "Name": "x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 30,
+      "Score": 40,
       "Time": "??:??"
     }
   ]
