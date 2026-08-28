@@ -1,35 +1,29 @@
 {
-  "Time": "2026-08-27T20:39:24.8597522Z",
+  "Time": "2026-08-27T20:41:24.8463202Z",
   "Players": [
     {
-      "Name": "ga de_v",
+      "Name": "gamesens de_v",
       "Steam": "76561198219350995",
-      "Score": 20,
+      "Score": 24,
       "Time": "??:??"
-    },
-    {
-      "Name": "Alwayslose.cc",
-      "Steam": "76561198704741330",
-      "Score": 10,
-      "Time": "39:59"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 21,
-      "Time": "12:44"
+      "Score": 28,
+      "Time": "14:44"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 37,
-      "Time": "80:47"
+      "Score": 46,
+      "Time": "82:47"
     },
     {
       "Name": "x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 9,
-      "Time": "34:00"
+      "Score": 11,
+      "Time": "36:00"
     },
     {
       "Name": "Rage",
@@ -40,14 +34,20 @@
     {
       "Name": "Vic Corleone",
       "Steam": "76561198700071912",
-      "Score": 41,
-      "Time": "06:45"
+      "Score": 56,
+      "Time": "08:45"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 0,
+      "Score": 12,
       "Time": "??:??"
+    },
+    {
+      "Name": "avg nl user",
+      "Steam": "76561198650128765",
+      "Score": 0,
+      "Time": "139:33"
     }
   ]
 }
