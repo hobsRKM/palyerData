@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-27T21:05:24.8512081Z",
+  "Time": "2026-08-27T21:07:24.8465648Z",
   "Players": [
+    {
+      "Name": "johnathon",
+      "Steam": "76561199336126493",
+      "Score": 0,
+      "Time": "00:49"
+    },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 69,
-      "Time": "106:47"
+      "Score": 73,
+      "Time": "108:47"
     },
     {
       "Name": "x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 34,
-      "Time": "60:00"
+      "Score": 37,
+      "Time": "62:00"
     },
     {
       "Name": "Vic Corleone",
       "Steam": "76561198700071912",
-      "Score": 83,
-      "Time": "32:45"
+      "Score": 92,
+      "Time": "34:45"
     },
     {
       "Name": "executioner",
@@ -28,14 +34,14 @@
     {
       "Name": "avg nl user",
       "Steam": "76561198650128765",
-      "Score": 5,
-      "Time": "163:33"
+      "Score": 9,
+      "Time": "165:33"
     },
     {
       "Name": "Jd",
       "Steam": "76561199702462394",
-      "Score": 55,
-      "Time": "02:54"
+      "Score": 66,
+      "Time": "04:54"
     }
   ]
 }
