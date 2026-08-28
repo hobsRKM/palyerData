@@ -1,41 +1,47 @@
 {
-  "Time": "2026-08-28T07:31:24.8475317Z",
+  "Time": "2026-08-28T07:33:24.8534015Z",
   "Players": [
+    {
+      "Name": "hash1",
+      "Steam": "76561199441311124",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
       "Score": 44,
-      "Time": "14:38"
+      "Time": "16:38"
     },
     {
       "Name": "mbappe special",
       "Steam": "76561199840134913",
-      "Score": 52,
-      "Time": "16:14"
+      "Score": 59,
+      "Time": "18:14"
     },
     {
       "Name": "cheezie",
       "Steam": "76561198743474205",
-      "Score": 17,
-      "Time": "823:32"
+      "Score": 29,
+      "Time": "825:32"
     },
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 45,
-      "Time": "63:49"
+      "Score": 50,
+      "Time": "65:49"
     },
     {
       "Name": "ROCKET",
       "Steam": "76561198769429157",
-      "Score": 26,
-      "Time": "21:18"
+      "Score": 37,
+      "Time": "23:18"
     },
     {
       "Name": "✧  \uD83C\uDF80  \uD835\uDFE8\uD835\uDFE9  \uD83C\uDF80  ✧",
       "Steam": "76561199200375921",
-      "Score": 6,
-      "Time": "876:13"
+      "Score": 2,
+      "Time": "878:13"
     }
   ]
 }
