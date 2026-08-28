@@ -1,17 +1,23 @@
 {
-  "Time": "2026-08-28T07:11:24.8564352Z",
+  "Time": "2026-08-28T07:13:24.8513613Z",
   "Players": [
     {
       "Name": "idgaf",
       "Steam": "76561199236927078",
-      "Score": 6,
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mbappe special",
+      "Steam": "76561199840134913",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 2,
-      "Time": "43:49"
+      "Score": 3,
+      "Time": "45:49"
     }
   ]
 }
