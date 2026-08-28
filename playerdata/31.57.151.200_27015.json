@@ -1,4 +1,53 @@
 {
-  "Time": "2026-08-28T14:51:19.2234163Z",
-  "Players": []
+  "Time": "2026-08-28T14:51:36.4485505Z",
+  "Players": [
+    {
+      "Name": "Mira",
+      "Steam": "76561198675522500",
+      "Score": 8,
+      "Time": "01:34"
+    },
+    {
+      "Name": "BrotherHood",
+      "Steam": "76561198280348991",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "janio",
+      "Steam": "76561199446728574",
+      "Score": 28,
+      "Time": "28:41"
+    },
+    {
+      "Name": "kartocwelek123",
+      "Steam": "76561198649565855",
+      "Score": 11,
+      "Time": "??:??"
+    },
+    {
+      "Name": "adamlysy255",
+      "Steam": "76561198649931429",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Shit@HvH",
+      "Steam": "76561198726523292",
+      "Score": 56,
+      "Time": "??:??"
+    },
+    {
+      "Name": "KapiczeK",
+      "Steam": "76561198686542524",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Mamm0n",
+      "Steam": "76561198661895051",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
