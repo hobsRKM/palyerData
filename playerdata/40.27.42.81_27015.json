@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-28T16:13:21.2503171Z",
+  "Time": "2026-08-28T16:15:21.251023Z",
   "Players": [
     {
       "Name": "gbhsyfkc",
       "Steam": "76561198701488986",
-      "Score": 7,
+      "Score": 1,
+      "Time": "??:??"
+    },
+    {
+      "Name": "qHxtaku",
+      "Steam": "76561198777268201",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Vic Corleone",
       "Steam": "76561198700071912",
-      "Score": 121,
-      "Time": "74:44"
+      "Score": 136,
+      "Time": "76:44"
     },
     {
       "Name": "Nord",
       "Steam": "76561199547017962",
-      "Score": 73,
-      "Time": "77:27"
+      "Score": 90,
+      "Time": "79:27"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
       "Score": 110,
-      "Time": "51:49"
+      "Time": "53:49"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198704741330",
-      "Score": 12,
-      "Time": "22:17"
+      "Score": 20,
+      "Time": "24:17"
     },
     {
       "Name": "himmler",
@@ -40,13 +46,13 @@
     {
       "Name": "qk",
       "Steam": "76561198676207007",
-      "Score": 37,
+      "Score": 44,
       "Time": "??:??"
     },
     {
       "Name": "svt",
       "Steam": "76561199064413061",
-      "Score": 91,
+      "Score": 103,
       "Time": "??:??"
     },
     {
@@ -54,18 +60,6 @@
       "Steam": "76561198660868610",
       "Score": 11,
       "Time": "??:??"
-    },
-    {
-      "Name": "Apologize",
-      "Steam": "76561199137214616",
-      "Score": 55,
-      "Time": "??:??"
-    },
-    {
-      "Name": "[neve] SnowASS #BestRust",
-      "Steam": "76561199365176321",
-      "Score": 0,
-      "Time": "05:25"
     }
   ]
 }
