@@ -1,23 +1,35 @@
 {
-  "Time": "2026-08-28T23:19:21.2485659Z",
+  "Time": "2026-08-28T23:21:21.2539578Z",
   "Players": [
+    {
+      "Name": "coolguyglock",
+      "Steam": "76561199524854903",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 6,
-      "Time": "36:23"
+      "Score": 20,
+      "Time": "38:23"
     },
     {
       "Name": "펜트 카르슨",
       "Steam": "76561198651354569",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "Nic_60fps",
       "Steam": "76561199278190489",
       "Score": 6,
-      "Time": "02:08"
+      "Time": "04:08"
+    },
+    {
+      "Name": "yeetHVH",
+      "Steam": "76561199441688676",
+      "Score": 0,
+      "Time": "00:27"
     },
     {
       "Name": "GREAT WESTERN",
@@ -28,13 +40,13 @@
     {
       "Name": "Synanu",
       "Steam": "76561199689740483",
-      "Score": 12,
-      "Time": "223:36"
+      "Score": 17,
+      "Time": "225:36"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
