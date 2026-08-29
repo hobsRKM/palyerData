@@ -1,22 +1,28 @@
 {
-  "Time": "2026-08-28T17:17:21.2505384Z",
+  "Time": "2026-08-28T17:19:21.2569709Z",
   "Players": [
+    {
+      "Name": "qHxtaku",
+      "Steam": "76561198777268201",
+      "Score": 0,
+      "Time": "01:29"
+    },
     {
       "Name": "Vic Corleone",
       "Steam": "76561198700071912",
-      "Score": 120,
-      "Time": "44:18"
+      "Score": 124,
+      "Time": "46:18"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 18,
+      "Score": 24,
       "Time": "??:??"
     },
     {
       "Name": "Willow",
       "Steam": "76561198652051123",
-      "Score": 1,
+      "Score": 3,
       "Time": "??:??"
     },
     {
@@ -28,44 +34,50 @@
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
-      "Score": 65,
-      "Time": "68:05"
+      "Score": 69,
+      "Time": "70:05"
     },
     {
       "Name": "Pyrocynical",
       "Steam": "76561199869152445",
       "Score": 19,
-      "Time": "00:19"
+      "Time": "02:19"
     },
     {
       "Name": "Nic_60fps",
       "Steam": "76561199278190489",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
+    },
+    {
+      "Name": "c \uD80C\uDDA9♡\uD80C\uDDAAdadas bad kitty",
+      "Steam": "76561198733172482",
+      "Score": 0,
+      "Time": "00:35"
     },
     {
       "Name": "chad",
       "Steam": "76561198774127380",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
       "Score": 13,
-      "Time": "16:44"
+      "Time": "18:45"
     },
     {
       "Name": "Synanu",
       "Steam": "76561199689740483",
-      "Score": 52,
-      "Time": "45:00"
+      "Score": 56,
+      "Time": "47:00"
     },
     {
       "Name": "639",
       "Steam": "76561199628740692",
       "Score": 11,
-      "Time": "17:44"
+      "Time": "19:44"
     },
     {
       "Name": "himmler",
@@ -76,31 +88,25 @@
     {
       "Name": "Clearwater",
       "Steam": "76561198715864311",
-      "Score": 37,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "Sublime",
       "Steam": "76561199804011654",
-      "Score": 21,
-      "Time": "??:??"
-    },
-    {
-      "Name": "RENTLESS CREW COO",
-      "Steam": "76561199105830408",
-      "Score": 4,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "the biggest pdf",
       "Steam": "76561199174885840",
-      "Score": 15,
-      "Time": "10:39"
+      "Score": 16,
+      "Time": "12:39"
     },
     {
       "Name": "x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 52,
+      "Score": 59,
       "Time": "??:??"
     },
     {
@@ -112,7 +118,7 @@
     {
       "Name": "Alder",
       "Steam": "76561199843056716",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
