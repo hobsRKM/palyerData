@@ -1,35 +1,41 @@
 {
-  "Time": "2026-08-28T20:37:21.2549635Z",
+  "Time": "2026-08-28T20:39:21.2568781Z",
   "Players": [
+    {
+      "Name": "Jd",
+      "Steam": "76561199702462394",
+      "Score": 0,
+      "Time": "00:10"
+    },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 27,
-      "Time": "08:33"
+      "Score": 36,
+      "Time": "10:33"
     },
     {
       "Name": "repent",
       "Steam": "76561198649873766",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 59,
-      "Time": "178:00"
+      "Score": 69,
+      "Time": "180:00"
     },
     {
       "Name": "FummY VolTe",
       "Steam": "76561198669689558",
       "Score": 0,
-      "Time": "96:29"
+      "Time": "98:29"
     },
     {
       "Name": "x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 35,
-      "Time": "27:54"
+      "Score": 42,
+      "Time": "29:54"
     }
   ]
 }
