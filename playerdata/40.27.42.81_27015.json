@@ -1,46 +1,64 @@
 {
-  "Time": "2026-08-28T18:41:21.2571142Z",
+  "Time": "2026-08-28T18:43:21.2555497Z",
   "Players": [
     {
-      "Name": "Fro | Shit@HvH",
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
+      "Score": 3,
+      "Time": "102:40"
+    },
+    {
+      "Name": "Vic Corleone",
+      "Steam": "76561198700071912",
+      "Score": 9,
+      "Time": "01:39"
+    },
+    {
+      "Name": "Frostbite | Shit@HvH",
       "Steam": "76561198726523292",
-      "Score": 36,
-      "Time": "127:15"
+      "Score": 41,
+      "Time": "129:15"
+    },
+    {
+      "Name": "trannguyenhao40",
+      "Steam": "76561198759876769",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 63,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 104,
+      "Score": 111,
       "Time": "??:??"
     },
     {
       "Name": "svt",
       "Steam": "76561199064413061",
       "Score": 20,
-      "Time": "36:38"
+      "Time": "38:38"
     },
     {
       "Name": "N",
       "Steam": "76561199214006200",
-      "Score": 16,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "PisKa :)",
       "Steam": "76561199373864670",
-      "Score": 6,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "tony",
       "Steam": "76561198648230244",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -58,14 +76,14 @@
     {
       "Name": "x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 72,
-      "Time": "31:29"
+      "Score": 76,
+      "Time": "33:29"
     },
     {
-      "Name": "Fro | Alder",
+      "Name": "Frostbite | Alder",
       "Steam": "76561199843056716",
-      "Score": 67,
-      "Time": "18:13"
+      "Score": 72,
+      "Time": "20:13"
     }
   ]
 }
