@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-28T18:57:21.2600107Z",
+  "Time": "2026-08-28T18:59:21.2578801Z",
   "Players": [
     {
       "Name": "Vic Corleone",
       "Steam": "76561198700071912",
-      "Score": 29,
-      "Time": "15:39"
+      "Score": 50,
+      "Time": "17:39"
     },
     {
       "Name": "Frostbite | Shit@HvH",
       "Steam": "76561198726523292",
-      "Score": 5,
-      "Time": "143:15"
+      "Score": 14,
+      "Time": "145:15"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 15,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mistafried",
+      "Steam": "76561199174639415",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "svt",
       "Steam": "76561199064413061",
-      "Score": 11,
-      "Time": "52:38"
+      "Score": 13,
+      "Time": "54:38"
     },
     {
       "Name": "PisKa :)",
@@ -34,26 +40,20 @@
     {
       "Name": "himmler",
       "Steam": "76561199880090149",
-      "Score": 10,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "qk",
       "Steam": "76561198676207007",
-      "Score": 10,
-      "Time": "13:35"
+      "Score": 2,
+      "Time": "15:35"
     },
     {
       "Name": "x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 4,
-      "Time": "47:29"
-    },
-    {
-      "Name": "i <3 gamba",
-      "Steam": "76561198276786482",
-      "Score": 0,
-      "Time": "01:09"
+      "Score": 8,
+      "Time": "49:29"
     }
   ]
 }
