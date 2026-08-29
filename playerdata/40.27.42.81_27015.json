@@ -1,17 +1,23 @@
 {
-  "Time": "2026-08-29T07:25:21.2604359Z",
+  "Time": "2026-08-29T07:27:21.2586871Z",
   "Players": [
     {
       "Name": "Nord",
       "Steam": "76561199547017962",
-      "Score": 41,
-      "Time": "763:29"
+      "Score": 47,
+      "Time": "765:29"
     },
     {
       "Name": "neeggy",
       "Steam": "76561198653950752",
-      "Score": 5,
+      "Score": 7,
       "Time": "??:??"
+    },
+    {
+      "Name": "astral demon",
+      "Steam": "76561199541078231",
+      "Score": 2,
+      "Time": "01:05"
     },
     {
       "Name": "Magixx",
@@ -22,32 +28,32 @@
     {
       "Name": "give me sugar in water",
       "Steam": "76561199511328930",
-      "Score": 23,
+      "Score": 1,
       "Time": "??:??"
     },
     {
       "Name": "Silver Duck",
       "Steam": "76561199053048408",
-      "Score": 38,
-      "Time": "689:13"
+      "Score": 46,
+      "Time": "691:13"
     },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
-      "Score": 0,
-      "Time": "747:52"
+      "Score": 1,
+      "Time": "749:52"
     },
     {
       "Name": "svt",
       "Steam": "76561199064413061",
-      "Score": 53,
-      "Time": "468:06"
+      "Score": 57,
+      "Time": "470:06"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 0,
-      "Time": "528:07"
+      "Score": 2,
+      "Time": "530:07"
     }
   ]
 }
