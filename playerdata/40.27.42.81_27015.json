@@ -1,29 +1,47 @@
 {
-  "Time": "2026-08-28T18:25:21.2597423Z",
+  "Time": "2026-08-28T18:27:21.2552573Z",
   "Players": [
+    {
+      "Name": "Shit@HvH",
+      "Steam": "76561198726523292",
+      "Score": 0,
+      "Time": "113:15"
+    },
     {
       "Name": "Pinochet",
       "Steam": "76561199152784916",
-      "Score": 8,
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "giga-over",
+      "Steam": "76561199725613843",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 63,
+      "Score": 67,
       "Time": "??:??"
     },
     {
       "Name": "idocrack1234",
       "Steam": "76561198654477717",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198704741330",
-      "Score": 33,
-      "Time": "12:02"
+      "Score": 36,
+      "Time": "14:02"
+    },
+    {
+      "Name": "II",
+      "Steam": "76561198653911280",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "himmler",
@@ -32,22 +50,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "qk",
-      "Steam": "76561198676207007",
-      "Score": 0,
-      "Time": "00:33"
-    },
-    {
       "Name": "x.com/14wordsX",
       "Steam": "76561198660868610",
-      "Score": 7,
-      "Time": "15:29"
+      "Score": 13,
+      "Time": "17:29"
     },
     {
-      "Name": "Frostbite | Alder",
+      "Name": "Fro | Alder",
       "Steam": "76561199843056716",
-      "Score": 4,
-      "Time": "02:13"
+      "Score": 14,
+      "Time": "04:13"
     }
   ]
 }
