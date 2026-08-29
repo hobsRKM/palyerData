@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-29T08:21:21.2538769Z",
+  "Time": "2026-08-29T08:23:21.2559971Z",
   "Players": [
     {
       "Name": "Nord",
       "Steam": "76561199547017962",
+      "Score": 12,
+      "Time": "821:29"
+    },
+    {
+      "Name": "fluauxatine",
+      "Steam": "76561198704162469",
       "Score": 10,
-      "Time": "819:29"
+      "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 33,
-      "Time": "467:36"
+      "Score": 39,
+      "Time": "469:36"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 0,
-      "Time": "40:42"
+      "Score": 8,
+      "Time": "42:42"
     },
     {
       "Name": "fleuricent",
@@ -28,7 +34,7 @@
     {
       "Name": "Bleakx911",
       "Steam": "76561199033568973",
-      "Score": 31,
+      "Score": 41,
       "Time": "??:??"
     }
   ]
