@@ -1,6 +1,12 @@
 {
-  "Time": "2026-08-29T02:27:32.8933604Z",
+  "Time": "2026-08-29T02:29:32.9039681Z",
   "Players": [
+    {
+      "Name": "Cookie",
+      "Steam": "76561199652410817",
+      "Score": 0,
+      "Time": "00:09"
+    },
     {
       "Name": "Veyra Armpit Sniffer",
       "Steam": "76561198783154334",
@@ -10,13 +16,13 @@
     {
       "Name": "PisKa :)",
       "Steam": "76561199373864670",
-      "Score": 24,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
