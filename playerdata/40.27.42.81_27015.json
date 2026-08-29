@@ -1,17 +1,29 @@
 {
-  "Time": "2026-08-29T16:36:42.3807358Z",
+  "Time": "2026-08-29T16:38:42.3800639Z",
   "Players": [
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198704741330",
-      "Score": 13,
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "guy",
+      "Steam": "76561199506962308",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 28,
-      "Time": "29:37"
+      "Score": 30,
+      "Time": "31:37"
+    },
+    {
+      "Name": "MarkHack | .gg/topfrags",
+      "Steam": "76561198653622499",
+      "Score": 0,
+      "Time": "00:17"
     }
   ]
 }
