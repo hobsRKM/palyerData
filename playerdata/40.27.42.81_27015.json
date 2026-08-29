@@ -1,16 +1,28 @@
 {
-  "Time": "2026-08-28T23:45:21.2516636Z",
+  "Time": "2026-08-28T23:47:21.2602908Z",
   "Players": [
+    {
+      "Name": "marso",
+      "Steam": "76561199088402111",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "vvvvvv33333",
+      "Steam": "76561199859777341",
+      "Score": 2,
+      "Time": "404:44"
+    },
     {
       "Name": "AERIALASSAULT_TROOPERDDOSPANELV1",
       "Steam": "76561198678930930",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "펜트 카르슨",
       "Steam": "76561198651354569",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
@@ -22,37 +34,31 @@
     {
       "Name": "Nic_60fps",
       "Steam": "76561199278190489",
-      "Score": 57,
-      "Time": "28:08"
-    },
-    {
-      "Name": "yeetHVH",
-      "Steam": "76561199441688676",
-      "Score": 19,
-      "Time": "08:58"
+      "Score": 62,
+      "Time": "30:08"
     },
     {
       "Name": "Synanu",
       "Steam": "76561199689740483",
-      "Score": 128,
-      "Time": "249:36"
+      "Score": 130,
+      "Time": "251:36"
     },
     {
       "Name": "kt",
       "Steam": "76561198770772802",
-      "Score": 39,
-      "Time": "203:21"
+      "Score": 45,
+      "Time": "205:21"
     },
     {
       "Name": "mioh",
       "Steam": "76561199869194288",
-      "Score": 16,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "runner",
       "Steam": "76561198679370981",
-      "Score": 72,
+      "Score": 77,
       "Time": "??:??"
     }
   ]
