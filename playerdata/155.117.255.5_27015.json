@@ -1,40 +1,34 @@
 {
-  "Time": "2026-08-29T04:39:32.8940545Z",
+  "Time": "2026-08-29T04:41:32.8940511Z",
   "Players": [
     {
       "Name": "Cookie",
       "Steam": "76561199652410817",
-      "Score": 0,
-      "Time": "01:02"
+      "Score": 10,
+      "Time": "03:02"
     },
     {
       "Name": "ben",
       "Steam": "76561199548061679",
-      "Score": 14,
-      "Time": "02:22"
-    },
-    {
-      "Name": "[ne] x",
-      "Steam": "76561199652156578",
-      "Score": 20,
-      "Time": "??:??"
-    },
-    {
-      "Name": "[nev] Gamos Prime",
-      "Steam": "76561198649917946",
-      "Score": 0,
-      "Time": "??:??"
+      "Score": 22,
+      "Time": "04:22"
     },
     {
       "Name": "TIKI TIKI FUNK",
       "Steam": "76561198654861434",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 0,
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Street x Venik",
+      "Steam": "76561199522950023",
+      "Score": 2,
       "Time": "??:??"
     }
   ]
