@@ -1,16 +1,22 @@
 {
-  "Time": "2026-08-30T10:46:35.5748046Z",
+  "Time": "2026-08-30T10:48:35.5735941Z",
   "Players": [
+    {
+      "Name": "M&Ms",
+      "Steam": "76561199112315203",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Fakality.swin",
       "Steam": "76561198719472375",
-      "Score": 48,
+      "Score": 54,
       "Time": "??:??"
     },
     {
       "Name": "globalgamemanagers.assets.Mihari",
       "Steam": "76561198726241692",
-      "Score": 30,
+      "Score": 36,
       "Time": "??:??"
     }
   ]
