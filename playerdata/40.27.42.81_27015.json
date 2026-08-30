@@ -1,29 +1,35 @@
 {
-  "Time": "2026-08-30T08:56:42.3820891Z",
+  "Time": "2026-08-30T08:58:42.382176Z",
   "Players": [
+    {
+      "Name": "Kuno sucks at csgo2",
+      "Steam": "76561198647469638",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 34,
-      "Time": "12:39"
+      "Score": 48,
+      "Time": "14:39"
     },
     {
       "Name": "u can do itt",
       "Steam": "76561199843056716",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 10,
-      "Time": "05:55"
+      "Score": 3,
+      "Time": "07:55"
     },
     {
       "Name": "MarkHack | .gg/topfrags",
       "Steam": "76561198653622499",
-      "Score": 9,
-      "Time": "03:47"
+      "Score": 13,
+      "Time": "05:47"
     }
   ]
 }
