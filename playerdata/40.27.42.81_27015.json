@@ -1,23 +1,35 @@
 {
-  "Time": "2026-08-29T17:22:42.3752344Z",
+  "Time": "2026-08-29T17:24:42.3690185Z",
   "Players": [
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
+      "Score": 2,
+      "Time": "02:38"
+    },
+    {
+      "Name": "twink",
+      "Steam": "76561198648357813",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[sipp] neeggy⁠​​​​​",
+      "Steam": "76561198653950752",
       "Score": 0,
-      "Time": "00:38"
+      "Time": "01:03"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 20,
-      "Time": "75:37"
+      "Score": 26,
+      "Time": "77:37"
     }
   ]
 }
