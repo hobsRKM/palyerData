@@ -1,70 +1,76 @@
 {
-  "Time": "2026-08-30T19:49:18.8373311Z",
+  "Time": "2026-08-30T19:51:18.8394105Z",
   "Players": [
+    {
+      "Name": "M",
+      "Steam": "76561199868131268",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
       "Score": 62,
-      "Time": "15:02"
+      "Time": "17:02"
     },
     {
       "Name": "Hellen Wong",
       "Steam": "76561198792290072",
-      "Score": 32,
-      "Time": "53:52"
+      "Score": 34,
+      "Time": "55:52"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 89,
-      "Time": "29:11"
-    },
-    {
-      "Name": "Awp",
-      "Steam": "76561198650321752",
-      "Score": 6,
-      "Time": "??:??"
+      "Score": 95,
+      "Time": "31:11"
     },
     {
       "Name": "--324-",
       "Steam": "76561199409321218",
       "Score": 19,
-      "Time": "16:39"
+      "Time": "18:39"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 40,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "ROCKET",
       "Steam": "76561198769429157",
-      "Score": 20,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "Aimware",
       "Steam": "76561199799206024",
       "Score": 26,
-      "Time": "72:22"
+      "Time": "74:22"
+    },
+    {
+      "Name": "bles",
+      "Steam": "76561198756041373",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "@14WordsX on Twitter",
       "Steam": "76561198661001391",
-      "Score": 4,
-      "Time": "08:21"
+      "Score": 0,
+      "Time": "10:21"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 34,
-      "Time": "22:34"
+      "Score": 44,
+      "Time": "24:34"
     },
     {
       "Name": "Ansi ;3",
       "Steam": "76561199865641250",
-      "Score": 5,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
