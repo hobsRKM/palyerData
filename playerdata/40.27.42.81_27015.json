@@ -1,17 +1,17 @@
 {
-  "Time": "2026-08-31T02:17:18.8354308Z",
+  "Time": "2026-08-31T02:19:18.8446994Z",
   "Players": [
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 33,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "chad",
       "Steam": "76561198774127380",
       "Score": 4,
-      "Time": "01:29"
+      "Time": "03:29"
     },
     {
       "Name": "repent",
@@ -22,26 +22,32 @@
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 23,
+      "Score": 27,
       "Time": "??:??"
     },
     {
       "Name": "ROCKET",
       "Steam": "76561198769429157",
-      "Score": 99,
-      "Time": "32:38"
+      "Score": 110,
+      "Time": "34:38"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 68,
-      "Time": "52:18"
+      "Score": 73,
+      "Time": "54:18"
     },
     {
       "Name": "poo",
       "Steam": "76561198646619333",
-      "Score": 14,
-      "Time": "25:25"
+      "Score": 16,
+      "Time": "27:25"
+    },
+    {
+      "Name": "Player",
+      "Steam": "76561199388976276",
+      "Score": 4,
+      "Time": "01:34"
     }
   ]
 }
