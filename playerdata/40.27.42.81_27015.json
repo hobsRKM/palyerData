@@ -1,12 +1,6 @@
 {
-  "Time": "2026-08-31T02:01:18.8462341Z",
+  "Time": "2026-08-31T02:03:18.8475864Z",
   "Players": [
-    {
-      "Name": "SuperMogger",
-      "Steam": "76561198883975120",
-      "Score": 11,
-      "Time": "329:14"
-    },
     {
       "Name": "Jaegerservice.xyz",
       "Steam": "76561198451629209",
@@ -16,7 +10,7 @@
     {
       "Name": "chad",
       "Steam": "76561198774127380",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
@@ -34,20 +28,26 @@
     {
       "Name": "ROCKET",
       "Steam": "76561198769429157",
-      "Score": 11,
-      "Time": "16:38"
+      "Score": 21,
+      "Time": "18:38"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 14,
-      "Time": "36:18"
+      "Score": 20,
+      "Time": "38:18"
     },
     {
       "Name": "poo",
       "Steam": "76561198646619333",
       "Score": 0,
-      "Time": "09:25"
+      "Time": "11:25"
+    },
+    {
+      "Name": "Jaegerservice.xyz",
+      "Steam": "76561198121568241",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
