@@ -1,41 +1,41 @@
 {
-  "Time": "2026-08-31T01:37:18.836584Z",
+  "Time": "2026-08-31T01:39:18.849351Z",
   "Players": [
-    {
-      "Name": "Candyca",
-      "Steam": "76561199120932049",
-      "Score": 8,
-      "Time": "??:??"
-    },
     {
       "Name": "Hellen Wong",
       "Steam": "76561198792290072",
-      "Score": 83,
-      "Time": "46:03"
+      "Score": 85,
+      "Time": "48:03"
     },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 9,
-      "Time": "305:14"
+      "Score": 11,
+      "Time": "307:14"
     },
     {
       "Name": "chad",
       "Steam": "76561198774127380",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 65,
+      "Score": 71,
       "Time": "??:??"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 20,
-      "Time": "12:18"
+      "Score": 28,
+      "Time": "14:18"
+    },
+    {
+      "Name": "poo",
+      "Steam": "76561198646619333",
+      "Score": 0,
+      "Time": "00:24"
     }
   ]
 }
