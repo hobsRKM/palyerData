@@ -1,11 +1,17 @@
 {
-  "Time": "2026-08-30T21:43:18.8460043Z",
+  "Time": "2026-08-30T21:45:18.8438425Z",
   "Players": [
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 76,
-      "Time": "143:11"
+      "Score": 0,
+      "Time": "145:11"
+    },
+    {
+      "Name": "kiro",
+      "Steam": "76561199173413043",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "left nut",
@@ -16,26 +22,26 @@
     {
       "Name": "farrelsaskara96",
       "Steam": "76561198396195866",
-      "Score": 2,
-      "Time": "03:14"
+      "Score": 0,
+      "Time": "05:14"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 22,
-      "Time": "54:07"
+      "Score": 0,
+      "Time": "56:07"
     },
     {
       "Name": "Nic_60fps",
       "Steam": "76561199278190489",
-      "Score": 4,
-      "Time": "39:51"
+      "Score": 0,
+      "Time": "41:51"
     },
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 10,
-      "Time": "01:03"
+      "Score": 0,
+      "Time": "03:03"
     },
     {
       "Name": "cats",
@@ -44,28 +50,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "Sublime",
       "Steam": "76561199804011654",
-      "Score": 4,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "@14WordsX on Twitter",
       "Steam": "76561198661001391",
-      "Score": 95,
-      "Time": "39:38"
+      "Score": 0,
+      "Time": "41:38"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 36,
-      "Time": "30:32"
+      "Score": 0,
+      "Time": "32:32"
     },
     {
       "Name": "X1dka3FLafkah9cLkiqkf5",
       "Steam": "76561198681652913",
-      "Score": 64,
-      "Time": "229:49"
+      "Score": 0,
+      "Time": "231:49"
     }
   ]
 }
