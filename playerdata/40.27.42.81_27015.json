@@ -1,70 +1,82 @@
 {
-  "Time": "2026-08-30T18:31:18.8488599Z",
+  "Time": "2026-08-30T18:33:18.8422406Z",
   "Players": [
+    {
+      "Name": "Silver",
+      "Steam": "76561198819683930",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "Hellen Wong",
       "Steam": "76561198792290072",
-      "Score": 16,
-      "Time": "50:08"
+      "Score": 17,
+      "Time": "52:08"
+    },
+    {
+      "Name": "Jaegerservice.xyz",
+      "Steam": "76561198113553244",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "xD",
       "Steam": "76561198676207007",
-      "Score": 68,
-      "Time": "53:29"
+      "Score": 72,
+      "Time": "55:29"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 169,
+      "Score": 173,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 100,
+      "Score": 102,
       "Time": "??:??"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 160,
-      "Time": "198:45"
+      "Score": 165,
+      "Time": "200:45"
     },
     {
-      "Name": ">MonkeyS producing",
+      "Name": ">Monkey producing",
       "Steam": "76561199873394300",
-      "Score": 57,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Kylian dictator",
-      "Steam": "76561199848585160",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "VietKongPayGorn",
-      "Steam": "76561198647078247",
-      "Score": 15,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 6,
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "@14WordsX on Twitter",
+      "Steam": "76561198661001391",
+      "Score": 1,
+      "Time": "01:49"
+    },
+    {
+      "Name": "Alwayslose.cc",
+      "Steam": "76561198775678131",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "SeldomSolemn",
       "Steam": "76561198114770806",
       "Score": 15,
-      "Time": "67:54"
+      "Time": "69:54"
     },
     {
       "Name": "neverlose · 因 命中率误预测 未命中",
       "Steam": "76561199715313446",
-      "Score": 8,
+      "Score": 13,
       "Time": "??:??"
     }
   ]
