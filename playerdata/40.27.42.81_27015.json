@@ -1,40 +1,58 @@
 {
-  "Time": "2026-08-31T16:33:19.0772279Z",
+  "Time": "2026-08-31T16:35:19.0760611Z",
   "Players": [
+    {
+      "Name": "lemxx",
+      "Steam": "76561199842228431",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SawYour*WristsOff",
+      "Steam": "76561198669867087",
+      "Score": 3,
+      "Time": "102:56"
+    },
     {
       "Name": "Nic_60fps",
       "Steam": "76561199278190489",
-      "Score": 0,
-      "Time": "181:53"
+      "Score": 4,
+      "Time": "183:53"
     },
     {
       "Name": "wallahi",
       "Steam": "76561198646599039",
-      "Score": 3,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "gamesense.pub",
       "Steam": "76561198674709987",
-      "Score": 34,
+      "Score": 37,
       "Time": "??:??"
     },
     {
       "Name": "\uDB40\uDC21\uDB40\uDC21",
       "Steam": "76561198689816963",
-      "Score": 103,
+      "Score": 115,
       "Time": "??:??"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 56,
-      "Time": "21:32"
+      "Score": 59,
+      "Time": "23:32"
     },
     {
       "Name": "Artyk",
       "Steam": "76561199563513933",
       "Score": 13,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Katicity",
+      "Steam": "76561198694320437",
+      "Score": 2,
       "Time": "??:??"
     },
     {
@@ -46,49 +64,43 @@
     {
       "Name": "bloodritualswithherperiodblood",
       "Steam": "76561198676207007",
-      "Score": 26,
-      "Time": "04:43"
-    },
-    {
-      "Name": "pea",
-      "Steam": "76561198704649743",
-      "Score": 4,
-      "Time": "16:45"
+      "Score": 29,
+      "Time": "06:43"
     },
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 44,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 22,
-      "Time": "105:22"
+      "Score": 29,
+      "Time": "107:22"
     },
     {
       "Name": "real_batman",
       "Steam": "76561198956539029",
-      "Score": 12,
+      "Score": 19,
       "Time": "??:??"
     },
     {
       "Name": "pink",
       "Steam": "76561199550845137",
-      "Score": 34,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "Tim",
       "Steam": "76561198652785336",
-      "Score": 11,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 76,
+      "Score": 100,
       "Time": "??:??"
     }
   ]
