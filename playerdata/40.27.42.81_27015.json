@@ -1,53 +1,65 @@
 {
-  "Time": "2026-08-30T23:01:18.8433505Z",
+  "Time": "2026-08-30T23:03:18.8426206Z",
   "Players": [
+    {
+      "Name": "Awp",
+      "Steam": "76561198650321752",
+      "Score": 3,
+      "Time": "34:54"
+    },
+    {
+      "Name": "Hellen Wong",
+      "Steam": "76561198792290072",
+      "Score": 6,
+      "Time": "01:39"
+    },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 32,
-      "Time": "221:11"
+      "Score": 46,
+      "Time": "223:11"
     },
     {
       "Name": "Opsec Master.",
       "Steam": "76561198656379831",
-      "Score": 10,
-      "Time": "03:33"
+      "Score": 13,
+      "Time": "05:33"
     },
     {
       "Name": "bloodritualswithherperiodblood",
       "Steam": "76561198676207007",
-      "Score": 22,
-      "Time": "41:03"
+      "Score": 26,
+      "Time": "43:03"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 25,
-      "Time": "31:56"
+      "Score": 32,
+      "Time": "33:56"
     },
     {
       "Name": "aim#luckbot",
       "Steam": "76561199826685794",
-      "Score": 21,
-      "Time": "269:51"
+      "Score": 29,
+      "Time": "271:51"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199731434256",
       "Score": 7,
-      "Time": "58:50"
+      "Time": "60:50"
     },
     {
       "Name": "¯/_(ツ)_/¯",
       "Steam": "76561198663944877",
-      "Score": 13,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "@14WordsX on Twitter",
       "Steam": "76561198661001391",
       "Score": 0,
-      "Time": "44:17"
+      "Time": "46:17"
     }
   ]
 }
