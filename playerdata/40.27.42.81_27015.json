@@ -1,59 +1,71 @@
 {
-  "Time": "2026-08-30T22:47:18.8491785Z",
+  "Time": "2026-08-30T22:49:18.8416759Z",
   "Players": [
+    {
+      "Name": "rykzune666",
+      "Steam": "76561199861655205",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 49,
-      "Time": "42:50"
+      "Score": 57,
+      "Time": "44:50"
     },
     {
       "Name": "Hellen Wong",
       "Steam": "76561198792290072",
-      "Score": 52,
-      "Time": "55:11"
+      "Score": 62,
+      "Time": "57:11"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 85,
-      "Time": "207:11"
+      "Score": 95,
+      "Time": "209:11"
     },
     {
       "Name": "bloodritualswithherperiodblood",
       "Steam": "76561198676207007",
-      "Score": 59,
-      "Time": "27:03"
+      "Score": 71,
+      "Time": "29:03"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 64,
-      "Time": "17:56"
+      "Score": 75,
+      "Time": "19:56"
     },
     {
       "Name": "aim#luckbot",
       "Steam": "76561199826685794",
-      "Score": 70,
-      "Time": "255:51"
+      "Score": 78,
+      "Time": "257:51"
     },
     {
-      "Name": "Nic_60fps",
-      "Steam": "76561199278190489",
-      "Score": 20,
-      "Time": "103:51"
+      "Name": "interiam",
+      "Steam": "76561198649627042",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
       "Score": 49,
-      "Time": "65:03"
+      "Time": "67:03"
     },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199731434256",
       "Score": 20,
-      "Time": "44:50"
+      "Time": "46:50"
+    },
+    {
+      "Name": "¯/_(ツ)_/¯",
+      "Steam": "76561198663944877",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "Q1h0z",
@@ -62,16 +74,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
+      "Steam": "76561199086867846",
+      "Score": 1,
+      "Time": "01:35"
+    },
+    {
       "Name": "Sublime",
       "Steam": "76561199804011654",
-      "Score": 28,
+      "Score": 34,
       "Time": "??:??"
     },
     {
       "Name": "@14WordsX on Twitter",
       "Steam": "76561198661001391",
-      "Score": 55,
-      "Time": "30:17"
+      "Score": 62,
+      "Time": "32:17"
     }
   ]
 }
