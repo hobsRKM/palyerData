@@ -1,47 +1,53 @@
 {
-  "Time": "2026-08-31T02:05:18.8434857Z",
+  "Time": "2026-08-31T02:07:18.8395033Z",
   "Players": [
+    {
+      "Name": "shialex",
+      "Steam": "76561198283790321",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "yo hello",
+      "Steam": "76561199125572569",
+      "Score": 2,
+      "Time": "??:??"
+    },
     {
       "Name": "repent",
       "Steam": "76561198649873766",
-      "Score": 6,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 1,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "ROCKET",
       "Steam": "76561198769429157",
-      "Score": 35,
-      "Time": "20:38"
+      "Score": 50,
+      "Time": "22:38"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 38,
-      "Time": "40:18"
+      "Score": 42,
+      "Time": "42:18"
     },
     {
       "Name": "poo",
       "Steam": "76561198646619333",
       "Score": 2,
-      "Time": "13:25"
-    },
-    {
-      "Name": "buttrfy",
-      "Steam": "76561198735283856",
-      "Score": 0,
-      "Time": "00:10"
+      "Time": "15:25"
     },
     {
       "Name": "mrbanana2",
       "Steam": "76561199388976276",
-      "Score": 0,
-      "Time": "01:42"
+      "Score": 2,
+      "Time": "03:42"
     }
   ]
 }
