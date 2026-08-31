@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-31T01:23:18.8317584Z",
+  "Time": "2026-08-31T01:25:18.8408918Z",
   "Players": [
     {
       "Name": "Hellen Wong",
       "Steam": "76561198792290072",
-      "Score": 47,
-      "Time": "32:03"
+      "Score": 49,
+      "Time": "34:03"
     },
     {
       "Name": "DaCouchMan",
       "Steam": "76561198043040531",
-      "Score": 4,
-      "Time": "636:45"
+      "Score": 5,
+      "Time": "638:45"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 37,
+      "Score": 47,
       "Time": "??:??"
+    },
+    {
+      "Name": "Alwayslose.cc",
+      "Steam": "76561198775678131",
+      "Score": 0,
+      "Time": "00:18"
     }
   ]
 }
