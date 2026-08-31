@@ -1,34 +1,40 @@
 {
-  "Time": "2026-08-31T12:03:19.0783206Z",
+  "Time": "2026-08-31T12:05:19.0713531Z",
   "Players": [
+    {
+      "Name": "ROCKET",
+      "Steam": "76561198769429157",
+      "Score": 0,
+      "Time": "00:04"
+    },
     {
       "Name": "Palm Beach Pete",
       "Steam": "76561199731434256",
       "Score": 9,
-      "Time": "03:46"
+      "Time": "05:46"
     },
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
-      "Score": 38,
-      "Time": "15:22"
+      "Score": 44,
+      "Time": "17:22"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 32,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "riotsurge",
       "Steam": "76561198734560736",
-      "Score": 18,
-      "Time": "06:39"
+      "Score": 23,
+      "Time": "08:39"
     },
     {
       "Name": "beartoker | 长寿",
       "Steam": "76561199290398734",
-      "Score": 22,
+      "Score": 28,
       "Time": "??:??"
     },
     {
@@ -40,30 +46,24 @@
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 11,
-      "Time": "11:10"
+      "Score": 16,
+      "Time": "13:10"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 19,
-      "Time": "16:30"
+      "Score": 27,
+      "Time": "18:30"
     },
     {
       "Name": "$$",
       "Steam": "76561199745947792",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "VikingHammer87",
       "Steam": "76561198844315934",
-      "Score": 2,
-      "Time": "??:??"
-    },
-    {
-      "Name": "haunted",
-      "Steam": "76561198829222666",
       "Score": 0,
       "Time": "??:??"
     }
