@@ -1,35 +1,47 @@
 {
-  "Time": "2026-08-31T01:43:18.8361896Z",
+  "Time": "2026-08-31T01:45:18.8392279Z",
   "Players": [
+    {
+      "Name": "killer 991488",
+      "Steam": "76561198656194604",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "SuperMogger",
       "Steam": "76561198883975120",
-      "Score": 12,
-      "Time": "311:14"
+      "Score": 6,
+      "Time": "313:14"
     },
     {
       "Name": "chad",
       "Steam": "76561198774127380",
-      "Score": 8,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 4,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "ROCKET",
+      "Steam": "76561198769429157",
+      "Score": 1,
+      "Time": "00:38"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 14,
-      "Time": "18:18"
+      "Score": 20,
+      "Time": "20:18"
     },
     {
       "Name": "poo",
       "Steam": "76561198646619333",
-      "Score": 0,
-      "Time": "04:24"
+      "Score": 4,
+      "Time": "06:24"
     }
   ]
 }
