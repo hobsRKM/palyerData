@@ -1,28 +1,34 @@
 {
-  "Time": "2026-08-31T12:33:19.0747698Z",
+  "Time": "2026-08-31T12:35:19.0741764Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 4,
+      "Time": "01:30"
+    },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 42,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "bloodritualswithherperiodblood",
       "Steam": "76561198676207007",
-      "Score": 48,
-      "Time": "26:45"
+      "Score": 60,
+      "Time": "28:45"
     },
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 6,
-      "Time": "02:24"
+      "Score": 2,
+      "Time": "04:24"
     },
     {
       "Name": "$$",
       "Steam": "76561199745947792",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     }
   ]
