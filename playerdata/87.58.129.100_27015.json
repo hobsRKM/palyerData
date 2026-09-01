@@ -1,6 +1,12 @@
 {
-  "Time": "2026-09-01T15:35:56.9988674Z",
+  "Time": "2026-09-01T15:37:57.0026281Z",
   "Players": [
+    {
+      "Name": "Gamesens",
+      "Steam": "76561198749677775",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "?",
       "Steam": "76561199174842575",
@@ -8,28 +14,16 @@
       "Time": "??:??"
     },
     {
-      "Name": "s volvodih",
+      "Name": "smeltra volvodih",
       "Steam": "76561198732755141",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "KSH forza",
       "Steam": "76561199808044528",
-      "Score": 34,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC\u1CBC",
-      "Steam": "76561198877348391",
-      "Score": 14,
-      "Time": "??:??"
-    },
-    {
-      "Name": "батя максима 200",
-      "Steam": "76561199855783668",
-      "Score": 1,
-      "Time": "02:16"
     }
   ]
 }
