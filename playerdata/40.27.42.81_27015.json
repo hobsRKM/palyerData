@@ -1,28 +1,34 @@
 {
-  "Time": "2026-09-01T11:57:22.1858687Z",
+  "Time": "2026-09-01T11:59:22.1865069Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 46,
+      "Time": "00:41"
+    },
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
       "Score": 0,
-      "Time": "66:11"
+      "Time": "68:11"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 100,
-      "Time": "15:10"
+      "Score": 117,
+      "Time": "17:10"
     },
     {
       "Name": "furry porn",
       "Steam": "76561198647978038",
-      "Score": 11,
-      "Time": "07:34"
+      "Score": 13,
+      "Time": "09:34"
     },
     {
       "Name": "faye.wong",
       "Steam": "76561198664920442",
-      "Score": 54,
+      "Score": 56,
       "Time": "??:??"
     },
     {
@@ -34,31 +40,43 @@
     {
       "Name": "\uD835\uDD3D\uD835\uDD63\uD835\uDD60\uD835\uDD5F\uD835\uDD65\uD835\uDD5A\uD835\uDD5F❤",
       "Steam": "76561199786826523",
-      "Score": 55,
+      "Score": 56,
       "Time": "??:??"
     },
     {
       "Name": "wah",
       "Steam": "76561198728274003",
-      "Score": 71,
+      "Score": 79,
       "Time": "??:??"
     },
     {
-      "Name": "jerrodm1987@sbcglobal.net",
-      "Steam": "76561198026201650",
-      "Score": 27,
-      "Time": "??:??"
-    },
-    {
-      "Name": "RE.NET AIMWA mas",
+      "Name": "WARE.NET AIM mas",
       "Steam": "76561198414353457",
-      "Score": 19,
+      "Score": 25,
       "Time": "??:??"
     },
     {
       "Name": "$$",
       "Steam": "76561199745947792",
-      "Score": 20,
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Tautris",
+      "Steam": "76561198765890494",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ja cola",
+      "Steam": "76561199859777341",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "beartoker | 长寿",
+      "Steam": "76561199290398734",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
