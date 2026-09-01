@@ -1,34 +1,40 @@
 {
-  "Time": "2026-09-01T15:19:22.1744027Z",
+  "Time": "2026-09-01T15:21:22.1805186Z",
   "Players": [
     {
       "Name": "Beauford",
       "Steam": "76561198691742520",
-      "Score": 7,
-      "Time": "05:48"
+      "Score": 9,
+      "Time": "07:48"
+    },
+    {
+      "Name": "TTT",
+      "Steam": "76561198101642492",
+      "Score": 0,
+      "Time": "01:38"
+    },
+    {
+      "Name": "Jxnior . #STIMBOT #PINGBOT",
+      "Steam": "76561199836886163",
+      "Score": 62,
+      "Time": "01:54"
     },
     {
       "Name": "Nord",
       "Steam": "76561199547017962",
       "Score": 54,
-      "Time": "24:14"
+      "Time": "26:14"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 92,
-      "Time": "??:??"
-    },
-    {
-      "Name": "yo hello",
-      "Steam": "76561199125572569",
-      "Score": 64,
+      "Score": 107,
       "Time": "??:??"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 33,
+      "Score": 42,
       "Time": "??:??"
     }
   ]
