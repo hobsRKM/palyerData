@@ -1,70 +1,70 @@
 {
-  "Time": "2026-09-01T13:15:22.1866934Z",
+  "Time": "2026-09-01T13:17:22.1880862Z",
   "Players": [
+    {
+      "Name": "sj",
+      "Steam": "76561198756303634",
+      "Score": 1,
+      "Time": "01:48"
+    },
     {
       "Name": "oskar",
       "Steam": "76561198753547727",
-      "Score": 16,
+      "Score": 38,
       "Time": "??:??"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 47,
+      "Score": 58,
       "Time": "??:??"
     },
     {
       "Name": "repent",
       "Steam": "76561198648819890",
-      "Score": 35,
-      "Time": "64:16"
+      "Score": 39,
+      "Time": "66:16"
     },
     {
       "Name": "TTT",
       "Steam": "76561198101642492",
-      "Score": 8,
-      "Time": "??:??"
-    },
-    {
-      "Name": "td",
-      "Steam": "76561198779244719",
-      "Score": 0,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "legitplayer",
       "Steam": "76561198651397333",
-      "Score": 0,
-      "Time": "05:58"
+      "Score": 2,
+      "Time": "07:58"
     },
     {
       "Name": "wasd",
       "Steam": "76561199812415276",
-      "Score": 109,
-      "Time": "25:31"
+      "Score": 111,
+      "Time": "27:31"
     },
     {
       "Name": "faye.wong",
       "Steam": "76561198664920442",
-      "Score": 17,
-      "Time": "48:25"
+      "Score": 20,
+      "Time": "50:25"
     },
     {
       "Name": "Silver",
       "Steam": "76561198819683930",
-      "Score": 99,
-      "Time": "24:56"
+      "Score": 103,
+      "Time": "26:56"
     },
     {
       "Name": "TheresAHugInThug",
       "Steam": "76561198658482202",
-      "Score": 0,
-      "Time": "02:14"
+      "Score": 4,
+      "Time": "04:14"
     },
     {
       "Name": "Gatto",
       "Steam": "76561198718706857",
-      "Score": 72,
+      "Score": 78,
       "Time": "??:??"
     }
   ]
