@@ -1,35 +1,47 @@
 {
-  "Time": "2026-08-31T17:13:19.0717225Z",
+  "Time": "2026-08-31T17:15:19.072115Z",
   "Players": [
+    {
+      "Name": "lol",
+      "Steam": "76561198709891026",
+      "Score": 0,
+      "Time": "00:25"
+    },
     {
       "Name": "gamesense.pub",
       "Steam": "76561198674709987",
-      "Score": 76,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "Silver Duck",
-      "Steam": "76561199053048408",
-      "Score": 84,
-      "Time": "33:54"
+      "Name": "\uD83D\uDC51",
+      "Steam": "76561198784615271",
+      "Score": 0,
+      "Time": "13:04"
     },
     {
       "Name": "The Liberator",
       "Steam": "76561199319402867",
-      "Score": 21,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "u can do itt",
       "Steam": "76561199843056716",
-      "Score": 70,
-      "Time": "03:51"
+      "Score": 0,
+      "Time": "05:51"
     },
     {
       "Name": "neverwin",
       "Steam": "76561198653323309",
-      "Score": 15,
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "de_v",
+      "Steam": "76561198219350995",
+      "Score": 0,
+      "Time": "00:20"
     },
     {
       "Name": "svt",
@@ -38,21 +50,9 @@
       "Time": "??:??"
     },
     {
-      "Name": "Hatex",
-      "Steam": "76561198729448109",
-      "Score": 0,
-      "Time": "??:??"
-    },
-    {
-      "Name": "Shadow",
-      "Steam": "76561198748012660",
-      "Score": 69,
-      "Time": "01:20"
-    },
-    {
       "Name": "Sublime",
       "Steam": "76561199804011654",
-      "Score": 5,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
