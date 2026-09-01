@@ -1,23 +1,35 @@
 {
-  "Time": "2026-08-31T21:43:19.0742007Z",
+  "Time": "2026-08-31T21:45:19.0723771Z",
   "Players": [
+    {
+      "Name": "las",
+      "Steam": "76561199406853779",
+      "Score": 4,
+      "Time": "??:??"
+    },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
       "Score": 2,
-      "Time": "193:47"
+      "Time": "195:47"
     },
     {
       "Name": "chud✭",
       "Steam": "76561198723445690",
-      "Score": 8,
-      "Time": "491:51"
+      "Score": 0,
+      "Time": "493:51"
+    },
+    {
+      "Name": "GamerBoy80",
+      "Steam": "76561198726523292",
+      "Score": 2,
+      "Time": "00:57"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 24,
-      "Time": "473:19"
+      "Score": 41,
+      "Time": "475:19"
     }
   ]
 }
