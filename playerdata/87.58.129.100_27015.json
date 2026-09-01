@@ -1,10 +1,16 @@
 {
-  "Time": "2026-09-01T19:17:57.0042141Z",
+  "Time": "2026-09-01T19:19:57.002653Z",
   "Players": [
+    {
+      "Name": "[OG] namespace Autowall",
+      "Steam": "76561198726977481",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "c0azy",
       "Steam": "76561198769346257",
-      "Score": 8,
+      "Score": 12,
       "Time": "??:??"
     },
     {
@@ -16,13 +22,19 @@
     {
       "Name": "no cap",
       "Steam": "76561198705437933",
-      "Score": 23,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "homerletthebartsout",
       "Steam": "76561198662453822",
-      "Score": 16,
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "flyxflick",
+      "Steam": "76561198646462951",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
