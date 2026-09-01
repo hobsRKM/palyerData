@@ -1,6 +1,12 @@
 {
-  "Time": "2026-09-01T15:43:57.0031445Z",
+  "Time": "2026-09-01T15:45:57.0005023Z",
   "Players": [
+    {
+      "Name": "livebroski",
+      "Steam": "76561198769358779",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "?",
       "Steam": "76561199174842575",
@@ -8,15 +14,15 @@
       "Time": "??:??"
     },
     {
-      "Name": "smeltra volvodih",
+      "Name": "sme volvodih",
       "Steam": "76561198732755141",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "KSH forza",
       "Steam": "76561199808044528",
-      "Score": 20,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
