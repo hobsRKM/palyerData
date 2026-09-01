@@ -1,4 +1,77 @@
 {
-  "Time": "2026-09-01T07:54:33.0990103Z",
-  "Players": []
+  "Time": "2026-09-01T07:54:43.145076Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Japonezu",
+      "Steam": "76561199172819056",
+      "Score": 54,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Solvyn",
+      "Steam": "76561198648871082",
+      "Score": 6,
+      "Time": "00:39"
+    },
+    {
+      "Name": "Ksodin",
+      "Steam": "76561199204274952",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[chatgpt] gpt-5.6 sol hook",
+      "Steam": "76561198716412774",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ridapi7419",
+      "Steam": "76561198646433144",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tordenskjold",
+      "Steam": "76561198372050059",
+      "Score": 52,
+      "Time": "03:40"
+    },
+    {
+      "Name": "gs enjoyer",
+      "Steam": "76561198658077419",
+      "Score": 80,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Best CFG maker",
+      "Steam": "76561198693793440",
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDE48\uD835\uDE40\uD835\uDE53",
+      "Steam": "76561198781956369",
+      "Score": 50,
+      "Time": "??:??"
+    },
+    {
+      "Name": "haunted",
+      "Steam": "76561198829222666",
+      "Score": 83,
+      "Time": "??:??"
+    },
+    {
+      "Name": "брат EBLANA",
+      "Steam": "76561198764420860",
+      "Score": 16,
+      "Time": "??:??"
+    }
+  ]
 }
