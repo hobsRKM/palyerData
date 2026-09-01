@@ -1,23 +1,29 @@
 {
-  "Time": "2026-08-31T20:21:19.0776408Z",
+  "Time": "2026-08-31T20:23:19.0666317Z",
   "Players": [
+    {
+      "Name": "ZlN.212",
+      "Steam": "76561199639161411",
+      "Score": 0,
+      "Time": "00:40"
+    },
     {
       "Name": "Ok",
       "Steam": "76561199725780678",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Awp",
       "Steam": "76561198650321752",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 0,
-      "Time": "112:31"
+      "Score": 3,
+      "Time": "114:31"
     },
     {
       "Name": "im_cheating",
@@ -26,46 +32,52 @@
       "Time": "??:??"
     },
     {
+      "Name": "nya nya ;3",
+      "Steam": "76561199865558452",
+      "Score": 0,
+      "Time": "01:53"
+    },
+    {
       "Name": "cheezie",
       "Steam": "76561198743474205",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "DaCouchMan",
       "Steam": "76561198043040531",
-      "Score": 6,
-      "Time": "09:30"
+      "Score": 7,
+      "Time": "11:30"
     },
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 4,
-      "Time": "54:42"
+      "Score": 10,
+      "Time": "56:42"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 0,
-      "Time": "294:48"
+      "Score": 2,
+      "Time": "296:48"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 1,
-      "Time": "391:19"
+      "Score": 5,
+      "Time": "393:19"
     },
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 1,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "Nic_60fps",
       "Steam": "76561199278190489",
       "Score": 0,
-      "Time": "113:50"
+      "Time": "115:50"
     }
   ]
 }
