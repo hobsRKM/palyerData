@@ -1,4 +1,35 @@
 {
-  "Time": "2026-09-01T11:28:33.1073142Z",
-  "Players": []
+  "Time": "2026-09-01T11:28:43.1525153Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BrotherHood",
+      "Steam": "76561198280348991",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zaynox#larp",
+      "Steam": "76561199678674236",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SpongeBob 224km/h PEEK",
+      "Steam": "76561199846284992",
+      "Score": 8,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BLEOOD GAMING 2026",
+      "Steam": "76561198668108249",
+      "Score": 8,
+      "Time": "??:??"
+    }
+  ]
 }
