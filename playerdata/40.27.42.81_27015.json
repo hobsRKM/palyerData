@@ -1,47 +1,53 @@
 {
-  "Time": "2026-09-02T00:01:22.189827Z",
+  "Time": "2026-09-02T00:03:22.1757272Z",
   "Players": [
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
       "Score": 14,
-      "Time": "44:43"
+      "Time": "46:43"
+    },
+    {
+      "Name": "chicken",
+      "Steam": "76561198061424696",
+      "Score": 0,
+      "Time": "00:29"
     },
     {
       "Name": "@14WordsX on Twitter/X",
       "Steam": "76561198661697548",
       "Score": 25,
-      "Time": "295:32"
+      "Time": "297:32"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 74,
-      "Time": "64:55"
+      "Score": 79,
+      "Time": "66:55"
     },
     {
       "Name": "artisan zero aimer",
       "Steam": "76561199151685733",
-      "Score": 0,
+      "Score": 14,
       "Time": "??:??"
     },
     {
-      "Name": "[sI$$$$] xhafo418",
+      "Name": "[Oonata] xhafo418",
       "Steam": "76561198667979628",
-      "Score": 2,
-      "Time": "03:48"
+      "Score": 3,
+      "Time": "05:48"
     },
     {
       "Name": "faye.wong",
       "Steam": "76561198664920442",
-      "Score": 41,
-      "Time": "25:09"
+      "Score": 55,
+      "Time": "27:09"
     },
     {
       "Name": "DaCouchMan",
       "Steam": "76561198043040531",
       "Score": 2,
-      "Time": "02:57"
+      "Time": "04:57"
     }
   ]
 }
