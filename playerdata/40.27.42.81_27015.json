@@ -1,46 +1,52 @@
 {
-  "Time": "2026-09-02T14:31:28.3903313Z",
+  "Time": "2026-09-02T14:33:28.3911859Z",
   "Players": [
+    {
+      "Name": "ny",
+      "Steam": "76561198763517260",
+      "Score": 6,
+      "Time": "01:33"
+    },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 57,
-      "Time": "14:25"
+      "Score": 62,
+      "Time": "16:25"
     },
     {
       "Name": "203-598-9010",
       "Steam": "76561198676207007",
-      "Score": 4,
-      "Time": "74:47"
+      "Score": 10,
+      "Time": "76:47"
     },
     {
       "Name": "producing",
       "Steam": "76561199873394300",
-      "Score": 96,
-      "Time": "56:26"
+      "Score": 100,
+      "Time": "58:26"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 112,
+      "Score": 118,
       "Time": "??:??"
     },
     {
       "Name": "skid ™",
       "Steam": "76561198806497985",
-      "Score": 60,
+      "Score": 64,
       "Time": "??:??"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 2,
-      "Time": "01:19"
+      "Score": 7,
+      "Time": "03:19"
     },
     {
       "Name": "[neve] nixware demon",
       "Steam": "76561198652973491",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     }
   ]
