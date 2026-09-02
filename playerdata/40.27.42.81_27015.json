@@ -1,6 +1,12 @@
 {
-  "Time": "2026-09-02T13:13:28.3773381Z",
+  "Time": "2026-09-02T13:15:28.386397Z",
   "Players": [
+    {
+      "Name": "Vic",
+      "Steam": "76561198700071912",
+      "Score": 0,
+      "Time": "00:13"
+    },
     {
       "Name": "Clearwater",
       "Steam": "76561198715864311",
@@ -8,16 +14,34 @@
       "Time": "??:??"
     },
     {
+      "Name": "Skeet.CC ilovev.gov12",
+      "Steam": "76561199866742483",
+      "Score": 4,
+      "Time": "00:50"
+    },
+    {
+      "Name": "newgen hvher // want skeet",
+      "Steam": "76561198655848166",
+      "Score": 0,
+      "Time": "00:32"
+    },
+    {
       "Name": "yuritzy2",
       "Steam": "76561198726053294",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
       "Steam": "76561199086867846",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
+    },
+    {
+      "Name": "tunip",
+      "Steam": "76561199005975198",
+      "Score": 0,
+      "Time": "00:04"
     }
   ]
 }
