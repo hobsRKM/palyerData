@@ -1,64 +1,52 @@
 {
-  "Time": "2026-09-02T16:01:28.3843621Z",
+  "Time": "2026-09-02T16:03:28.3886424Z",
   "Players": [
+    {
+      "Name": "Wheelchairman",
+      "Steam": "76561199753225114",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 9,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "VICTOR",
+      "Steam": "76561199856427831",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 39,
-      "Time": "08:53"
-    },
-    {
-      "Name": "nya nya ;3",
-      "Steam": "76561199865558452",
-      "Score": 3,
-      "Time": "07:51"
+      "Score": 6,
+      "Time": "10:53"
     },
     {
       "Name": "Bungle",
       "Steam": "76561198348799299",
-      "Score": 62,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 87,
-      "Time": "25:41"
-    },
-    {
-      "Name": "yorp",
-      "Steam": "76561198724537179",
-      "Score": 88,
-      "Time": "??:??"
-    },
-    {
-      "Name": "nle choppa",
-      "Steam": "76561199876331466",
-      "Score": 100,
-      "Time": "??:??"
-    },
-    {
-      "Name": "onnan",
-      "Steam": "76561198659912611",
-      "Score": 16,
-      "Time": "17:03"
+      "Score": 6,
+      "Time": "27:41"
     },
     {
       "Name": "B TEAM",
       "Steam": "76561199843056716",
-      "Score": 12,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "googie",
       "Steam": "76561198714604737",
-      "Score": 50,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
