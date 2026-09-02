@@ -1,41 +1,53 @@
 {
-  "Time": "2026-09-01T17:07:22.1835989Z",
+  "Time": "2026-09-01T17:09:22.1838591Z",
   "Players": [
+    {
+      "Name": "Victor.",
+      "Steam": "76561199859993252",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "TTT",
       "Steam": "76561198101642492",
       "Score": 2,
-      "Time": "18:31"
+      "Time": "20:31"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 9,
-      "Time": "26:21"
+      "Score": 22,
+      "Time": "28:21"
     },
     {
       "Name": "Silver",
       "Steam": "76561198819683930",
-      "Score": 12,
-      "Time": "31:13"
+      "Score": 23,
+      "Time": "33:13"
     },
     {
       "Name": "need i say more",
       "Steam": "76561199845352078",
-      "Score": 6,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Rakay",
       "Steam": "76561199617972846",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 13,
-      "Time": "133:59"
+      "Score": 21,
+      "Time": "135:59"
+    },
+    {
+      "Name": "kommon15",
+      "Steam": "76561199383677833",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Edu7",
@@ -47,7 +59,7 @@
       "Name": "Indian head babble aa",
       "Steam": "76561199409321218",
       "Score": 0,
-      "Time": "185:23"
+      "Time": "187:23"
     },
     {
       "Name": "скитскитвортч",
@@ -58,20 +70,26 @@
     {
       "Name": "203-598-9010",
       "Steam": "76561198676207007",
-      "Score": 0,
+      "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "beartoker | 长寿",
+      "Steam": "76561199290398734",
+      "Score": 0,
+      "Time": "00:21"
     },
     {
       "Name": "Skeet.CC ilovev.gov12",
       "Steam": "76561199866742483",
-      "Score": 0,
-      "Time": "33:26"
+      "Score": 2,
+      "Time": "35:26"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 7,
-      "Time": "49:27"
+      "Score": 13,
+      "Time": "51:27"
     }
   ]
 }
