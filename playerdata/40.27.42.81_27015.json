@@ -1,23 +1,29 @@
 {
-  "Time": "2026-09-01T16:47:22.1778969Z",
+  "Time": "2026-09-01T16:49:22.1884342Z",
   "Players": [
+    {
+      "Name": "TTT",
+      "Steam": "76561198101642492",
+      "Score": 0,
+      "Time": "00:31"
+    },
     {
       "Name": "KINGTUT",
       "Steam": "76561198683507607",
-      "Score": 11,
-      "Time": "113:11"
+      "Score": 13,
+      "Time": "115:11"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 47,
-      "Time": "06:21"
+      "Score": 52,
+      "Time": "08:21"
     },
     {
       "Name": "Nord",
       "Steam": "76561199547017962",
-      "Score": 17,
-      "Time": "112:14"
+      "Score": 18,
+      "Time": "114:14"
     },
     {
       "Name": "jaydes?",
@@ -28,44 +34,50 @@
     {
       "Name": "@14WordsX on Twitter/X",
       "Steam": "76561198661697548",
-      "Score": 19,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "faye.wong",
       "Steam": "76561198664920442",
-      "Score": 21,
-      "Time": "81:43"
+      "Score": 23,
+      "Time": "83:43"
     },
     {
       "Name": "Silver",
       "Steam": "76561198819683930",
-      "Score": 24,
-      "Time": "11:13"
+      "Score": 36,
+      "Time": "13:13"
     },
     {
       "Name": "Rakay",
       "Steam": "76561199617972846",
-      "Score": 18,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "LIL CEASAR CHILI",
+      "Steam": "76561199468548583",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "203-598-9010",
       "Steam": "76561198676207007",
-      "Score": 27,
+      "Score": 33,
       "Time": "??:??"
     },
     {
       "Name": "Skeet.CC ilovev.gov12",
       "Steam": "76561199866742483",
       "Score": 11,
-      "Time": "13:26"
+      "Time": "15:26"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 39,
-      "Time": "29:27"
+      "Score": 41,
+      "Time": "31:27"
     }
   ]
 }
