@@ -1,10 +1,16 @@
 {
-  "Time": "2026-09-02T16:09:28.3907559Z",
+  "Time": "2026-09-02T16:11:28.3890994Z",
   "Players": [
+    {
+      "Name": "Mike hanksoff",
+      "Steam": "76561199409844133",
+      "Score": 6,
+      "Time": "??:??"
+    },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 25,
+      "Score": 37,
       "Time": "??:??"
     },
     {
@@ -16,37 +22,31 @@
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 26,
-      "Time": "16:53"
+      "Score": 30,
+      "Time": "18:53"
     },
     {
       "Name": "203-598-9010",
       "Steam": "76561198676207007",
-      "Score": 18,
-      "Time": "03:46"
+      "Score": 29,
+      "Time": "05:46"
     },
     {
       "Name": "Bungle",
       "Steam": "76561198348799299",
-      "Score": 32,
+      "Score": 40,
       "Time": "??:??"
     },
     {
       "Name": "Mr.Squirrel_Man",
       "Steam": "76561198161326655",
-      "Score": 16,
-      "Time": "33:41"
+      "Score": 20,
+      "Time": "35:41"
     },
     {
       "Name": "B TEAM",
       "Steam": "76561199843056716",
-      "Score": 19,
-      "Time": "??:??"
-    },
-    {
-      "Name": "googie",
-      "Steam": "76561198714604737",
-      "Score": 2,
+      "Score": 23,
       "Time": "??:??"
     }
   ]
