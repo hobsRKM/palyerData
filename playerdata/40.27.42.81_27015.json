@@ -1,47 +1,53 @@
 {
-  "Time": "2026-09-01T21:15:22.2550218Z",
+  "Time": "2026-09-01T21:17:22.1776148Z",
   "Players": [
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 45,
-      "Time": "31:50"
+      "Score": 49,
+      "Time": "33:49"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 32,
-      "Time": "43:49"
+      "Score": 44,
+      "Time": "45:49"
+    },
+    {
+      "Name": "Victor.",
+      "Steam": "76561199859993252",
+      "Score": 0,
+      "Time": "01:43"
     },
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
       "Score": 0,
-      "Time": "16:53"
+      "Time": "18:53"
     },
     {
       "Name": "Nic_60fps",
       "Steam": "76561199278190489",
-      "Score": 14,
-      "Time": "179:25"
+      "Score": 22,
+      "Time": "181:25"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 24,
+      "Score": 28,
       "Time": "??:??"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 20,
-      "Time": "216:15"
+      "Score": 40,
+      "Time": "218:15"
     },
     {
       "Name": "faye.wong",
       "Steam": "76561198664920442",
       "Score": 27,
-      "Time": "142:14"
+      "Time": "144:14"
     },
     {
       "Name": "himmler",
@@ -52,14 +58,20 @@
     {
       "Name": "Parry",
       "Steam": "76561198661287715",
-      "Score": 21,
+      "Score": 23,
       "Time": "??:??"
     },
     {
       "Name": "Shit@HvH",
       "Steam": "76561198726523292",
-      "Score": 26,
-      "Time": "51:12"
+      "Score": 28,
+      "Time": "53:12"
+    },
+    {
+      "Name": "taz",
+      "Steam": "76561199812100024",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
