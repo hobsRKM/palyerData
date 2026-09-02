@@ -1,53 +1,59 @@
 {
-  "Time": "2026-09-01T22:15:22.1847658Z",
+  "Time": "2026-09-01T22:17:22.1801063Z",
   "Players": [
+    {
+      "Name": "giga-over",
+      "Steam": "76561199725613843",
+      "Score": 0,
+      "Time": "00:32"
+    },
     {
       "Name": "Victor.",
       "Steam": "76561199859993252",
-      "Score": 38,
-      "Time": "57:10"
+      "Score": 40,
+      "Time": "59:10"
     },
     {
       "Name": "lol",
       "Steam": "76561198709891026",
-      "Score": 5,
-      "Time": "257:58"
+      "Score": 0,
+      "Time": "259:58"
     },
     {
       "Name": "GtagGamerGang",
       "Steam": "76561198669867087",
-      "Score": 22,
+      "Score": 32,
       "Time": "??:??"
     },
     {
       "Name": "mONESY666",
       "Steam": "76561198712538785",
-      "Score": 47,
+      "Score": 52,
       "Time": "??:??"
     },
     {
       "Name": "『LV』",
       "Steam": "76561198689816963",
-      "Score": 7,
+      "Score": 20,
       "Time": "??:??"
     },
     {
       "Name": "Parry",
       "Steam": "76561198661287715",
-      "Score": 6,
+      "Score": 9,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 51,
-      "Time": "17:58"
+      "Score": 57,
+      "Time": "19:58"
     },
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 27,
-      "Time": "43:05"
+      "Score": 29,
+      "Time": "45:05"
     }
   ]
 }
