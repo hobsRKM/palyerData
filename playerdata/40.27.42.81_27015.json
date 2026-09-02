@@ -1,47 +1,53 @@
 {
-  "Time": "2026-09-01T18:33:22.1760875Z",
+  "Time": "2026-09-01T18:35:22.181304Z",
   "Players": [
     {
       "Name": "riotsurge",
       "Steam": "76561198734560736",
-      "Score": 2,
-      "Time": "330:51"
+      "Score": 0,
+      "Time": "00:12"
+    },
+    {
+      "Name": "torzsi",
+      "Steam": "76561198663552322",
+      "Score": 6,
+      "Time": "01:45"
     },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 8,
-      "Time": "04:05"
+      "Score": 0,
+      "Time": "06:05"
     },
     {
       "Name": "jayoma/syskey",
       "Steam": "76561199782222925",
-      "Score": 4,
+      "Score": 2,
       "Time": "??:??"
-    },
-    {
-      "Name": "Alwayslose.cc",
-      "Steam": "76561198775678131",
-      "Score": 86,
-      "Time": "38:32"
     },
     {
       "Name": "st.djinn",
       "Steam": "76561198001431722",
-      "Score": 26,
+      "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "lucky charm",
-      "Steam": "76561198648131378",
-      "Score": 14,
+      "Name": "跳拉坦克",
+      "Steam": "76561198659727604",
+      "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "nl:never win:nl",
+      "Steam": "76561199794631771",
+      "Score": 2,
+      "Time": "01:20"
     },
     {
       "Name": "203-598-9010",
       "Steam": "76561198676207007",
-      "Score": 77,
-      "Time": "20:30"
+      "Score": 4,
+      "Time": "22:30"
     }
   ]
 }
