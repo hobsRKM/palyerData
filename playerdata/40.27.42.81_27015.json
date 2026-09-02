@@ -1,34 +1,34 @@
 {
-  "Time": "2026-09-02T15:23:28.3883629Z",
+  "Time": "2026-09-02T15:25:28.390575Z",
   "Players": [
+    {
+      "Name": "zip",
+      "Steam": "76561198158611756",
+      "Score": 0,
+      "Time": "00:23"
+    },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
-      "Score": 64,
-      "Time": "23:26"
+      "Score": 2,
+      "Time": "25:26"
     },
     {
       "Name": "yorp",
       "Steam": "76561198724537179",
-      "Score": 50,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "else where",
       "Steam": "76561199097303436",
-      "Score": 46,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "nle choppa",
       "Steam": "76561199876331466",
-      "Score": 26,
-      "Time": "??:??"
-    },
-    {
-      "Name": "shiryam",
-      "Steam": "76561198895528845",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     }
   ]
