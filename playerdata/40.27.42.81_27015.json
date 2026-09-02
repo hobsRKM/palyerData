@@ -1,41 +1,47 @@
 {
-  "Time": "2026-09-01T18:31:22.1818236Z",
+  "Time": "2026-09-01T18:33:22.1760875Z",
   "Players": [
+    {
+      "Name": "riotsurge",
+      "Steam": "76561198734560736",
+      "Score": 2,
+      "Time": "330:51"
+    },
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 0,
-      "Time": "02:05"
+      "Score": 8,
+      "Time": "04:05"
     },
     {
       "Name": "jayoma/syskey",
       "Steam": "76561199782222925",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Alwayslose.cc",
       "Steam": "76561198775678131",
       "Score": 86,
-      "Time": "36:32"
+      "Time": "38:32"
     },
     {
       "Name": "st.djinn",
       "Steam": "76561198001431722",
-      "Score": 24,
+      "Score": 26,
       "Time": "??:??"
     },
     {
       "Name": "lucky charm",
       "Steam": "76561198648131378",
-      "Score": 4,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "203-598-9010",
       "Steam": "76561198676207007",
-      "Score": 66,
-      "Time": "18:30"
+      "Score": 77,
+      "Time": "20:30"
     }
   ]
 }
