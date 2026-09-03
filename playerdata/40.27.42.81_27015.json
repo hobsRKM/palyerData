@@ -1,17 +1,29 @@
 {
-  "Time": "2026-09-02T18:31:28.3897936Z",
+  "Time": "2026-09-02T18:33:28.3950185Z",
   "Players": [
     {
       "Name": "nl:never win:nl",
       "Steam": "76561199794631771",
+      "Score": 1,
+      "Time": "18:51"
+    },
+    {
+      "Name": "strike99",
+      "Steam": "76561198644759003",
       "Score": 0,
-      "Time": "16:51"
+      "Time": "??:??"
+    },
+    {
+      "Name": "jayoma/syskey",
+      "Steam": "76561199782222925",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 93,
-      "Time": "07:55"
+      "Score": 107,
+      "Time": "09:55"
     },
     {
       "Name": "@14WordsX on Twitter/X",
@@ -22,50 +34,50 @@
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 75,
-      "Time": "61:33"
+      "Score": 79,
+      "Time": "63:33"
     },
     {
       "Name": "203-598-9010",
       "Steam": "76561198676207007",
       "Score": 18,
-      "Time": "05:33"
-    },
-    {
-      "Name": "kfjdjd87",
-      "Steam": "76561198650449460",
-      "Score": 3,
-      "Time": "??:??"
+      "Time": "07:33"
     },
     {
       "Name": "defiye",
       "Steam": "76561198691835436",
-      "Score": 111,
+      "Score": 123,
+      "Time": "??:??"
+    },
+    {
+      "Name": "azoffj09",
+      "Steam": "76561198646219537",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "Kurokendrick",
       "Steam": "76561199479790668",
-      "Score": 38,
+      "Score": 7,
       "Time": "??:??"
     },
     {
-      "Name": "[SOMALI] WE ARE SUPERIOR",
+      "Name": "[S] WE ARE SUPERIOR",
       "Steam": "76561199086867846",
       "Score": 41,
-      "Time": "12:33"
+      "Time": "14:33"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "pickle rick dildo",
       "Steam": "76561198647074039",
       "Score": 4,
-      "Time": "18:50"
+      "Time": "20:50"
     },
     {
       "Name": "Big Glorious Puppy",
@@ -77,12 +89,12 @@
       "Name": "sky",
       "Steam": "76561198704399999",
       "Score": 20,
-      "Time": "11:57"
+      "Time": "13:57"
     },
     {
       "Name": "Ansi ;3",
       "Steam": "76561199865641250",
-      "Score": 22,
+      "Score": 30,
       "Time": "??:??"
     },
     {
@@ -94,8 +106,8 @@
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 54,
-      "Time": "08:14"
+      "Score": 69,
+      "Time": "10:14"
     }
   ]
 }
