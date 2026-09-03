@@ -1,53 +1,59 @@
 {
-  "Time": "2026-09-03T15:01:23.4381836Z",
+  "Time": "2026-09-03T15:03:23.4322857Z",
   "Players": [
     {
       "Name": "dog",
       "Steam": "76561199390157015",
-      "Score": 52,
-      "Time": "67:49"
+      "Score": 56,
+      "Time": "69:49"
     },
     {
       "Name": "McThiccums",
       "Steam": "76561199048808489",
-      "Score": 38,
-      "Time": "106:16"
+      "Score": 44,
+      "Time": "108:16"
     },
     {
       "Name": "™⌁߷↬HannaH↫߷⌁™",
       "Steam": "76561198661893152",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "chung",
       "Steam": "76561198749701729",
-      "Score": 33,
+      "Score": 35,
       "Time": "??:??"
     },
     {
-      "Name": "[isra] elliot",
+      "Name": "elliot",
       "Steam": "76561198646641047",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "SolidOrc",
+      "Steam": "76561198763813265",
       "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 63,
-      "Time": "66:10"
+      "Score": 72,
+      "Time": "68:10"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 102,
+      "Score": 111,
       "Time": "??:??"
     },
     {
       "Name": "s1lver",
       "Steam": "76561198647810629",
-      "Score": 49,
-      "Time": "17:02"
+      "Score": 51,
+      "Time": "19:02"
     }
   ]
 }
