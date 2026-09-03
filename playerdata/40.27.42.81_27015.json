@@ -1,35 +1,29 @@
 {
-  "Time": "2026-09-03T11:21:23.4305937Z",
+  "Time": "2026-09-03T11:23:23.4310767Z",
   "Players": [
     {
       "Name": "mooshroom",
       "Steam": "76561198669867087",
-      "Score": 98,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "fatal1",
       "Steam": "76561198648365192",
-      "Score": 10,
-      "Time": "23:08"
+      "Score": 0,
+      "Time": "25:08"
     },
     {
       "Name": "pro",
       "Steam": "76561199689740483",
-      "Score": 65,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
-      "Score": 81,
-      "Time": "05:32"
-    },
-    {
-      "Name": "torzsi",
-      "Steam": "76561198663552322",
-      "Score": 47,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "07:32"
     }
   ]
 }
