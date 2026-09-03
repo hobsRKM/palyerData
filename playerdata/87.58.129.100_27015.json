@@ -1,5 +1,5 @@
 {
-  "Time": "2026-09-03T17:20:08.8634106Z",
+  "Time": "2026-09-03T17:22:08.8581707Z",
   "Players": [
     {
       "Name": "?",
@@ -8,25 +8,31 @@
       "Time": "??:??"
     },
     {
+      "Name": "money",
+      "Steam": "76561198647230436",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
       "Name": "Qnevv",
       "Steam": "76561198744420745",
-      "Score": 22,
+      "Score": 2,
       "Time": "??:??"
     },
     {
       "Name": "gerxxxcr1m3",
       "Steam": "76561198663435082",
       "Score": 0,
-      "Time": "??:??"
+      "Time": "00:12"
     },
     {
       "Name": "crazy niga 2",
       "Steam": "76561198649382567",
-      "Score": 16,
-      "Time": "50:25"
+      "Score": 0,
+      "Time": "52:25"
     },
     {
-      "Name": "ga Infantrit",
+      "Name": "gamesense Infantrit",
       "Steam": "76561199827876555",
       "Score": 0,
       "Time": "??:??"
@@ -34,8 +40,14 @@
     {
       "Name": "X1zz",
       "Steam": "76561198656589869",
-      "Score": 24,
+      "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "mowgli",
+      "Steam": "76561198645408654",
+      "Score": 0,
+      "Time": "00:55"
     }
   ]
 }
