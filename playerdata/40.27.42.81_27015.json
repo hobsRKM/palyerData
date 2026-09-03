@@ -1,11 +1,17 @@
 {
-  "Time": "2026-09-03T15:33:23.4314175Z",
+  "Time": "2026-09-03T15:35:23.4441184Z",
   "Players": [
+    {
+      "Name": "dog",
+      "Steam": "76561199390157015",
+      "Score": 37,
+      "Time": "00:14"
+    },
     {
       "Name": "McThiccums",
       "Steam": "76561199048808489",
-      "Score": 73,
-      "Time": "14:00"
+      "Score": 75,
+      "Time": "16:00"
     },
     {
       "Name": "™⌁߷↬HannaH↫߷⌁™",
@@ -14,34 +20,28 @@
       "Time": "??:??"
     },
     {
-      "Name": "chung",
-      "Steam": "76561198749701729",
-      "Score": 26,
-      "Time": "??:??"
-    },
-    {
       "Name": "tornado",
       "Steam": "76561198646044298",
       "Score": 13,
-      "Time": "54:32"
+      "Time": "56:32"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 94,
-      "Time": "27:29"
+      "Score": 106,
+      "Time": "29:29"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 93,
+      "Score": 95,
       "Time": "??:??"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 82,
-      "Time": "98:10"
+      "Score": 90,
+      "Time": "100:10"
     },
     {
       "Name": "skywr3",
@@ -58,7 +58,7 @@
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 76,
+      "Score": 79,
       "Time": "??:??"
     }
   ]
