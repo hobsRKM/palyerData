@@ -1,47 +1,53 @@
 {
-  "Time": "2026-09-02T19:29:28.3848136Z",
+  "Time": "2026-09-02T19:31:28.3846332Z",
   "Players": [
+    {
+      "Name": "ben",
+      "Steam": "76561199548061679",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
-      "Score": 10,
-      "Time": "28:18"
+      "Score": 16,
+      "Time": "30:18"
     },
     {
       "Name": "@14WordsX on Twitter/X",
       "Steam": "76561198661697548",
-      "Score": 13,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 17,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "johnathon",
       "Steam": "76561199336126493",
-      "Score": 2,
-      "Time": "03:03"
+      "Score": 6,
+      "Time": "05:03"
     },
     {
       "Name": "『LV』",
       "Steam": "76561198689816963",
-      "Score": 28,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "MrCrig",
       "Steam": "76561199059551219",
-      "Score": 3,
-      "Time": "03:50"
+      "Score": 4,
+      "Time": "05:50"
     },
     {
       "Name": "***",
       "Steam": "76561199404942261",
-      "Score": 18,
-      "Time": "53:14"
+      "Score": 20,
+      "Time": "55:14"
     }
   ]
 }
