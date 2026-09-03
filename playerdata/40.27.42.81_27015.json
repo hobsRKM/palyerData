@@ -1,23 +1,29 @@
 {
-  "Time": "2026-09-02T22:33:28.3887978Z",
+  "Time": "2026-09-02T22:35:28.3882099Z",
   "Players": [
     {
       "Name": "foidslayer13",
       "Steam": "76561199097341342",
+      "Score": 14,
+      "Time": "73:02"
+    },
+    {
+      "Name": "Vic",
+      "Steam": "76561198700071912",
       "Score": 6,
-      "Time": "71:02"
+      "Time": "01:22"
     },
     {
       "Name": "@14WordsX on Twitter/X",
       "Steam": "76561198661697548",
-      "Score": 16,
+      "Score": 22,
       "Time": "??:??"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 21,
-      "Time": "250:07"
+      "Score": 30,
+      "Time": "252:07"
     },
     {
       "Name": "[neve] p3anutbutter5",
@@ -28,20 +34,20 @@
     {
       "Name": "Synanu",
       "Steam": "76561199689740483",
-      "Score": 17,
-      "Time": "02:15"
-    },
-    {
-      "Name": "de_v",
-      "Steam": "76561198219350995",
-      "Score": 4,
-      "Time": "03:28"
+      "Score": 23,
+      "Time": "04:15"
     },
     {
       "Name": "B I G X A N T A R E S",
       "Steam": "76561198653178816",
       "Score": 0,
       "Time": "??:??"
+    },
+    {
+      "Name": "Victor.",
+      "Steam": "76561199859993252",
+      "Score": 0,
+      "Time": "00:47"
     }
   ]
 }
