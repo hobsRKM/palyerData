@@ -1,4 +1,29 @@
 {
-  "Time": "2026-09-03T14:49:49.1154225Z",
-  "Players": []
+  "Time": "2026-09-03T14:49:56.4063987Z",
+  "Players": [
+    {
+      "Name": "BrotherHood",
+      "Steam": "76561198280348991",
+      "Score": 0,
+      "Time": "13:42"
+    },
+    {
+      "Name": "grobnick123",
+      "Steam": "76561198663515422",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Gandon Blyat",
+      "Steam": "76561198651399241",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zeadawr",
+      "Steam": "76561199477367709",
+      "Score": 4,
+      "Time": "??:??"
+    }
+  ]
 }
