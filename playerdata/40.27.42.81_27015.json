@@ -1,23 +1,35 @@
 {
-  "Time": "2026-09-02T21:21:28.3799707Z",
+  "Time": "2026-09-02T21:23:28.3849709Z",
   "Players": [
+    {
+      "Name": "foidslayer13",
+      "Steam": "76561199097341342",
+      "Score": 0,
+      "Time": "01:01"
+    },
+    {
+      "Name": "Shit@HvH",
+      "Steam": "76561198726523292",
+      "Score": 14,
+      "Time": "01:37"
+    },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 24,
-      "Time": "57:20"
+      "Score": 27,
+      "Time": "59:20"
     },
     {
       "Name": "@14WordsX on Twitter/X",
       "Steam": "76561198661697548",
-      "Score": 31,
+      "Score": 35,
       "Time": "??:??"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 20,
-      "Time": "68:15"
+      "Score": 28,
+      "Time": "70:15"
     },
     {
       "Name": "taz",
@@ -28,32 +40,26 @@
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 29,
-      "Time": "13:06"
+      "Score": 37,
+      "Time": "15:06"
+    },
+    {
+      "Name": "ocity.cat 1",
+      "Steam": "76561199012669752",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "Synanu",
       "Steam": "76561199689740483",
-      "Score": 11,
-      "Time": "02:37"
-    },
-    {
-      "Name": "yo hello",
-      "Steam": "76561199125572569",
-      "Score": 22,
-      "Time": "61:58"
+      "Score": 15,
+      "Time": "04:37"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 14,
-      "Time": "146:32"
-    },
-    {
-      "Name": "XiaoZe418952",
-      "Steam": "76561198704846363",
-      "Score": 2,
-      "Time": "??:??"
+      "Score": 32,
+      "Time": "148:32"
     }
   ]
 }
