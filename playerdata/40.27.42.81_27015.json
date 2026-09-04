@@ -1,35 +1,41 @@
 {
-  "Time": "2026-09-04T04:59:23.4413398Z",
+  "Time": "2026-09-04T05:01:23.4408399Z",
   "Players": [
     {
       "Name": "germany",
       "Steam": "76561198770772802",
-      "Score": 21,
-      "Time": "08:19"
+      "Score": 25,
+      "Time": "10:19"
     },
     {
       "Name": "insomnia",
       "Steam": "76561199811991561",
       "Score": 24,
-      "Time": "24:51"
+      "Time": "26:51"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 34,
-      "Time": "492:59"
+      "Score": 52,
+      "Time": "494:59"
     },
     {
       "Name": "34",
       "Steam": "76561199842266547",
-      "Score": 34,
+      "Score": 38,
+      "Time": "??:??"
+    },
+    {
+      "Name": "EvilJ",
+      "Steam": "76561198655745605",
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "I-EXTRACT-NIGHT-NIGHT-JUICE",
       "Steam": "76561199086867846",
-      "Score": 10,
-      "Time": "778:33"
+      "Score": 14,
+      "Time": "780:33"
     }
   ]
 }
