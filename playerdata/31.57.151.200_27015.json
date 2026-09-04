@@ -1,4 +1,35 @@
 {
-  "Time": "2026-09-04T16:02:54.8464836Z",
-  "Players": []
+  "Time": "2026-09-04T16:03:16.9053272Z",
+  "Players": [
+    {
+      "Name": "BrotherHood",
+      "Steam": "76561198280348991",
+      "Score": 0,
+      "Time": "27:02"
+    },
+    {
+      "Name": "Princess Diana",
+      "Steam": "76561199388575394",
+      "Score": 50,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mustafamamed",
+      "Steam": "76561198646299025",
+      "Score": 17,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mogged",
+      "Steam": "76561198646882392",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "v1bh",
+      "Steam": "76561198646816633",
+      "Score": 0,
+      "Time": "00:32"
+    }
+  ]
 }
