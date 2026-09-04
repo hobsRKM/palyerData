@@ -1,28 +1,34 @@
 {
-  "Time": "2026-09-04T18:06:41.3972585Z",
+  "Time": "2026-09-04T18:08:41.3998804Z",
   "Players": [
+    {
+      "Name": "HaZe",
+      "Steam": "76561199823982257",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "unmute me",
       "Steam": "76561199686663960",
-      "Score": 31,
-      "Time": "19:47"
+      "Score": 35,
+      "Time": "21:47"
     },
     {
       "Name": "сема пузага",
       "Steam": "76561198646578078",
-      "Score": 44,
+      "Score": 50,
       "Time": "??:??"
     },
     {
-      "Name": "[zeptic] Primordial HvH",
+      "Name": "[z Primordial HvH",
       "Steam": "76561198788072509",
-      "Score": 93,
+      "Score": 99,
       "Time": "??:??"
     },
     {
       "Name": "sharkhack user",
       "Steam": "76561199816187575",
-      "Score": 18,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
