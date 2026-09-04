@@ -1,34 +1,40 @@
 {
-  "Time": "2026-09-04T07:45:23.4603642Z",
+  "Time": "2026-09-04T07:47:23.5557996Z",
   "Players": [
     {
       "Name": "Skeet is older than u",
       "Steam": "76561199141167475",
-      "Score": 16,
-      "Time": "07:45"
+      "Score": 19,
+      "Time": "09:45"
     },
     {
       "Name": "torzsi",
       "Steam": "76561198663552322",
-      "Score": 111,
-      "Time": "539:54"
+      "Score": 121,
+      "Time": "541:54"
     },
     {
       "Name": "angel",
       "Steam": "76561198675619768",
-      "Score": 56,
+      "Score": 59,
       "Time": "??:??"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 11,
-      "Time": "834:45"
+      "Score": 19,
+      "Time": "836:45"
+    },
+    {
+      "Name": "yo hello",
+      "Steam": "76561199125572569",
+      "Score": 0,
+      "Time": "00:23"
     },
     {
       "Name": "m0NESY777",
       "Steam": "76561198661626582",
-      "Score": 70,
+      "Score": 82,
       "Time": "??:??"
     },
     {
@@ -40,8 +46,14 @@
     {
       "Name": "5x",
       "Steam": "76561199217363675",
-      "Score": 31,
+      "Score": 34,
       "Time": "??:??"
+    },
+    {
+      "Name": "taz",
+      "Steam": "76561199812100024",
+      "Score": 0,
+      "Time": "943:58"
     }
   ]
 }
