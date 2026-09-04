@@ -1,40 +1,46 @@
 {
-  "Time": "2026-09-04T10:03:19.1295472Z",
+  "Time": "2026-09-04T10:05:19.1299132Z",
   "Players": [
+    {
+      "Name": "fag",
+      "Steam": "76561198784615271",
+      "Score": 6,
+      "Time": "01:45"
+    },
     {
       "Name": "sj",
       "Steam": "76561198664075370",
-      "Score": 50,
+      "Score": 61,
       "Time": "??:??"
     },
     {
       "Name": "m0NESY777",
       "Steam": "76561198661626582",
-      "Score": 6,
-      "Time": "02:26"
+      "Score": 7,
+      "Time": "04:26"
     },
     {
       "Name": "McThiccums",
       "Steam": "76561199048808489",
-      "Score": 68,
+      "Score": 70,
       "Time": "??:??"
     },
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 74,
+      "Score": 88,
       "Time": "??:??"
     },
     {
       "Name": "REMOVE METRO SKEET BETA",
       "Steam": "76561198770772802",
-      "Score": 73,
+      "Score": 77,
       "Time": "??:??"
     },
     {
       "Name": "Maurier",
       "Steam": "76561198704081343",
-      "Score": 68,
+      "Score": 71,
       "Time": "??:??"
     }
   ]
