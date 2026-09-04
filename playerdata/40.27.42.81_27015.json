@@ -1,35 +1,41 @@
 {
-  "Time": "2026-09-03T21:21:23.437824Z",
+  "Time": "2026-09-03T21:23:23.4442185Z",
   "Players": [
+    {
+      "Name": "undefined",
+      "Steam": "76561199149883097",
+      "Score": 3,
+      "Time": "??:??"
+    },
     {
       "Name": "spin me around in oil",
       "Steam": "76561198648532826",
-      "Score": 13,
-      "Time": "368:42"
+      "Score": 32,
+      "Time": "370:42"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 15,
-      "Time": "68:18"
+      "Score": 20,
+      "Time": "70:18"
     },
     {
       "Name": "Nic_60fps",
       "Steam": "76561199278190489",
       "Score": 2,
-      "Time": "152:50"
+      "Time": "154:50"
     },
     {
       "Name": "foidslayer13",
       "Steam": "76561199097341342",
-      "Score": 2,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "las",
       "Steam": "76561199406853779",
-      "Score": 8,
-      "Time": "01:58"
+      "Score": 4,
+      "Time": "03:58"
     },
     {
       "Name": "v^",
@@ -40,68 +46,62 @@
     {
       "Name": "pplicker85",
       "Steam": "76561198645995050",
-      "Score": 0,
-      "Time": "01:23"
+      "Score": 1,
+      "Time": "03:23"
     },
     {
       "Name": "uwu Bean",
       "Steam": "76561198726523292",
-      "Score": 10,
-      "Time": "11:14"
+      "Score": 14,
+      "Time": "13:14"
     },
     {
       "Name": "Zaxh",
       "Steam": "76561198366421077",
-      "Score": 7,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "JINX",
       "Steam": "76561198662576775",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "MrCrig",
       "Steam": "76561199059551219",
-      "Score": 0,
-      "Time": "54:33"
+      "Score": 7,
+      "Time": "56:33"
     },
     {
       "Name": "McThiccums",
       "Steam": "76561199048808489",
-      "Score": 14,
-      "Time": "155:05"
+      "Score": 18,
+      "Time": "157:05"
     },
     {
       "Name": "kevinheath1959",
       "Steam": "76561198745093143",
-      "Score": 4,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "FCK EMILY",
       "Steam": "76561199869225668",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
-    },
-    {
-      "Name": "aidan",
-      "Steam": "76561198782295568",
-      "Score": 1,
-      "Time": "23:25"
     },
     {
       "Name": "Mia khalifa",
       "Steam": "76561199564628213",
-      "Score": 0,
-      "Time": "133:31"
+      "Score": 2,
+      "Time": "135:31"
     },
     {
       "Name": "leekeebum",
       "Steam": "76561198688273740",
-      "Score": 0,
-      "Time": "350:43"
+      "Score": 2,
+      "Time": "352:43"
     }
   ]
 }
