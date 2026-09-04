@@ -1,35 +1,41 @@
 {
-  "Time": "2026-09-03T17:39:23.4327007Z",
+  "Time": "2026-09-03T17:41:23.4327312Z",
   "Players": [
     {
       "Name": "Rumour",
       "Steam": "76561198723879510",
-      "Score": 10,
+      "Score": 12,
       "Time": "??:??"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
-      "Score": 34,
-      "Time": "31:32"
+      "Score": 40,
+      "Time": "33:32"
+    },
+    {
+      "Name": "Shadow",
+      "Steam": "76561198748012660",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "no hvh = kick me",
       "Steam": "76561198718302646",
-      "Score": 13,
-      "Time": "03:53"
+      "Score": 19,
+      "Time": "05:53"
     },
     {
       "Name": "Whites only",
       "Steam": "76561198659450132",
-      "Score": 8,
-      "Time": "01:01"
+      "Score": 24,
+      "Time": "03:01"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 73,
-      "Time": "13:04"
+      "Score": 84,
+      "Time": "15:04"
     },
     {
       "Name": "スペードのエース",
@@ -41,19 +47,25 @@
       "Name": "----NL----",
       "Steam": "76561199149619358",
       "Score": 18,
-      "Time": "08:52"
+      "Time": "10:52"
     },
     {
       "Name": "tuffman6903",
       "Steam": "76561198654459327",
       "Score": 6,
-      "Time": "13:57"
+      "Time": "15:57"
     },
     {
       "Name": "3k hours demon",
       "Steam": "76561198769986464",
       "Score": 8,
       "Time": "??:??"
+    },
+    {
+      "Name": "isis",
+      "Steam": "76561199482511279",
+      "Score": 0,
+      "Time": "00:47"
     }
   ]
 }
