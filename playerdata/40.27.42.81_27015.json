@@ -1,35 +1,41 @@
 {
-  "Time": "2026-09-03T20:29:23.4367904Z",
+  "Time": "2026-09-03T20:31:23.4371426Z",
   "Players": [
+    {
+      "Name": "BRIS",
+      "Steam": "76561199565961410",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 24,
-      "Time": "16:18"
+      "Score": 34,
+      "Time": "18:18"
     },
     {
       "Name": "Nic_60fps",
       "Steam": "76561199278190489",
-      "Score": 2,
-      "Time": "100:50"
+      "Score": 3,
+      "Time": "102:50"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 63,
+      "Score": 74,
       "Time": "??:??"
     },
     {
       "Name": "KiKi",
       "Steam": "76561199711887613",
-      "Score": 39,
+      "Score": 43,
       "Time": "??:??"
     },
     {
       "Name": "MrCrig",
       "Steam": "76561199059551219",
-      "Score": 3,
-      "Time": "02:33"
+      "Score": 11,
+      "Time": "04:33"
     },
     {
       "Name": "torofitanen",
@@ -40,14 +46,14 @@
     {
       "Name": "McThiccums",
       "Steam": "76561199048808489",
-      "Score": 18,
-      "Time": "103:05"
+      "Score": 24,
+      "Time": "105:05"
     },
     {
       "Name": "EvilJ",
       "Steam": "76561198655745605",
-      "Score": 4,
-      "Time": "38:25"
+      "Score": 7,
+      "Time": "40:25"
     },
     {
       "Name": "genderconfused.men",
@@ -58,14 +64,14 @@
     {
       "Name": "aidan",
       "Steam": "76561198782295568",
-      "Score": 21,
-      "Time": "32:51"
+      "Score": 22,
+      "Time": "34:51"
     },
     {
       "Name": "Mia khalifa",
       "Steam": "76561199564628213",
-      "Score": 16,
-      "Time": "81:31"
+      "Score": 17,
+      "Time": "83:31"
     }
   ]
 }
