@@ -1,29 +1,47 @@
 {
-  "Time": "2026-09-04T01:07:23.4386994Z",
+  "Time": "2026-09-04T01:09:23.4426327Z",
   "Players": [
+    {
+      "Name": "imomali turdiev",
+      "Steam": "76561199524854903",
+      "Score": 2,
+      "Time": "89:00"
+    },
     {
       "Name": "123",
       "Steam": "76561198647599653",
       "Score": 2,
-      "Time": "02:29"
+      "Time": "04:29"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 4,
-      "Time": "08:07"
+      "Score": 14,
+      "Time": "10:07"
+    },
+    {
+      "Name": "lue",
+      "Steam": "76561198669867087",
+      "Score": 10,
+      "Time": "631:23"
+    },
+    {
+      "Name": "neeglet",
+      "Steam": "76561199873629982",
+      "Score": 2,
+      "Time": "??:??"
     },
     {
       "Name": "Mike Herris jr",
       "Steam": "76561198700411612",
-      "Score": 2,
-      "Time": "18:56"
+      "Score": 6,
+      "Time": "20:56"
     },
     {
       "Name": "monkoy",
       "Steam": "76561199548061679",
-      "Score": 12,
-      "Time": "02:49"
+      "Score": 19,
+      "Time": "04:49"
     }
   ]
 }
