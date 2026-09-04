@@ -1,41 +1,47 @@
 {
-  "Time": "2026-09-04T01:21:23.4298103Z",
+  "Time": "2026-09-04T01:23:23.4450502Z",
   "Players": [
+    {
+      "Name": "nemchan2134",
+      "Steam": "76561198673365159",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "123",
       "Steam": "76561198647599653",
-      "Score": 4,
-      "Time": "00:19"
+      "Score": 5,
+      "Time": "02:19"
     },
     {
       "Name": "StrObe",
       "Steam": "76561198810442165",
-      "Score": 70,
-      "Time": "22:07"
+      "Score": 74,
+      "Time": "24:07"
     },
     {
       "Name": "lue",
       "Steam": "76561198669867087",
-      "Score": 35,
-      "Time": "07:54"
+      "Score": 49,
+      "Time": "09:54"
     },
     {
       "Name": "neeglet",
       "Steam": "76561199873629982",
-      "Score": 17,
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "im zylo gn pussy",
+      "Steam": "76561198989544112",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "kiro",
       "Steam": "76561199173413043",
-      "Score": 37,
+      "Score": 39,
       "Time": "??:??"
-    },
-    {
-      "Name": "monkoy",
-      "Steam": "76561199548061679",
-      "Score": 73,
-      "Time": "16:49"
     }
   ]
 }
