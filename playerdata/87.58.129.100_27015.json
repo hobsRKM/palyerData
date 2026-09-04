@@ -1,5 +1,5 @@
 {
-  "Time": "2026-09-04T13:56:08.8507948Z",
+  "Time": "2026-09-04T13:58:08.8561478Z",
   "Players": [
     {
       "Name": "?",
@@ -8,28 +8,40 @@
       "Time": "??:??"
     },
     {
+      "Name": "123",
+      "Steam": "76561198650632406",
+      "Score": 2,
+      "Time": "01:26"
+    },
+    {
+      "Name": "GAMESENSE SKEET",
+      "Steam": "76561198647666904",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
       "Name": "VAC HATER.NR1",
       "Steam": "76561198654934492",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "debra_morgan",
       "Steam": "76561199871087552",
       "Score": 0,
-      "Time": "301:46"
+      "Time": "303:46"
     },
     {
       "Name": "bestcrackerpaster1337",
       "Steam": "76561198647270812",
       "Score": 0,
-      "Time": "02:02"
+      "Time": "04:02"
     },
     {
       "Name": "zeon",
       "Steam": "76561199810201472",
-      "Score": 4,
-      "Time": "18:17"
+      "Score": 22,
+      "Time": "20:17"
     }
   ]
 }
