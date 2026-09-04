@@ -1,65 +1,71 @@
 {
-  "Time": "2026-09-03T17:45:23.4328085Z",
+  "Time": "2026-09-03T17:47:23.4345578Z",
   "Players": [
     {
       "Name": "Rumour",
       "Steam": "76561198723879510",
-      "Score": 14,
+      "Score": 15,
+      "Time": "??:??"
+    },
+    {
+      "Name": "n3kiforov",
+      "Steam": "76561198646528529",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "sj",
       "Steam": "76561198756303634",
       "Score": 46,
-      "Time": "37:32"
+      "Time": "39:32"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 21,
+      "Score": 30,
       "Time": "??:??"
     },
     {
       "Name": "no hvh = kick me",
       "Steam": "76561198718302646",
       "Score": 35,
-      "Time": "09:53"
+      "Time": "11:53"
     },
     {
       "Name": "Whites only",
       "Steam": "76561198659450132",
-      "Score": 42,
-      "Time": "07:01"
+      "Score": 48,
+      "Time": "09:01"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 101,
-      "Time": "19:04"
+      "Score": 108,
+      "Time": "21:04"
     },
     {
       "Name": "スペードのエース",
       "Steam": "76561198647145286",
-      "Score": 15,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "----NL----",
       "Steam": "76561199149619358",
-      "Score": 26,
-      "Time": "14:52"
+      "Score": 30,
+      "Time": "16:52"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 2,
-      "Time": "03:49"
+      "Score": 16,
+      "Time": "05:49"
     },
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
-      "Score": 4,
-      "Time": "153:36"
+      "Score": 18,
+      "Time": "155:36"
     },
     {
       "Name": "3k hours demon",
@@ -71,19 +77,19 @@
       "Name": "Terry",
       "Steam": "76561198779244719",
       "Score": 0,
-      "Time": "53:46"
+      "Time": "55:46"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 8,
-      "Time": "04:47"
+      "Score": 23,
+      "Time": "06:47"
     },
     {
       "Name": "aidan",
       "Steam": "76561198782295568",
-      "Score": 0,
-      "Time": "185:13"
+      "Score": 2,
+      "Time": "187:13"
     }
   ]
 }
