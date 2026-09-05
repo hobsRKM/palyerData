@@ -1,53 +1,47 @@
 {
-  "Time": "2026-09-04T17:09:19.1329728Z",
+  "Time": "2026-09-04T17:11:19.1242784Z",
   "Players": [
+    {
+      "Name": "Anne frank",
+      "Steam": "76561199745812089",
+      "Score": 2,
+      "Time": "124:33"
+    },
     {
       "Name": "sharks in the water",
       "Steam": "76561198648532826",
-      "Score": 28,
-      "Time": "172:55"
+      "Score": 0,
+      "Time": "174:55"
     },
     {
       "Name": "foidslayer13",
       "Steam": "76561199097341342",
-      "Score": 24,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 114,
-      "Time": "188:37"
-    },
-    {
-      "Name": "Vic",
-      "Steam": "76561198700071912",
-      "Score": 159,
-      "Time": "42:05"
+      "Score": 1,
+      "Time": "190:37"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 114,
-      "Time": "56:32"
+      "Score": 2,
+      "Time": "58:32"
     },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "MrCrig",
       "Steam": "76561199059551219",
-      "Score": 53,
-      "Time": "173:57"
-    },
-    {
-      "Name": "nl:never win:nl",
-      "Steam": "76561199794631771",
-      "Score": 4,
-      "Time": "??:??"
+      "Score": 0,
+      "Time": "175:57"
     }
   ]
 }
