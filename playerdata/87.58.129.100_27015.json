@@ -1,34 +1,40 @@
 {
-  "Time": "2026-09-05T14:36:31.2651559Z",
+  "Time": "2026-09-05T14:38:31.2679905Z",
   "Players": [
+    {
+      "Name": "?",
+      "Steam": "76561199174842575",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "\uD835\uDCF6\uD835\uDFCF\uD835\uDCF5\uD835\uDFD2\uD835\uDCF7",
       "Steam": "76561199542862828",
-      "Score": 24,
-      "Time": "11:41"
+      "Score": 33,
+      "Time": "13:41"
     },
     {
       "Name": "V1zx",
       "Steam": "76561198653594112",
-      "Score": 31,
+      "Score": 36,
       "Time": "??:??"
     },
     {
       "Name": "doggy",
       "Steam": "76561198695233580",
-      "Score": 5,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "bomburcalls",
       "Steam": "76561198650632406",
-      "Score": 10,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "Lurenzo",
       "Steam": "76561199218457061",
-      "Score": 9,
+      "Score": 15,
       "Time": "??:??"
     }
   ]
