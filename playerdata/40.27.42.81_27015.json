@@ -1,16 +1,22 @@
 {
-  "Time": "2026-09-04T21:27:19.1365081Z",
+  "Time": "2026-09-04T21:29:19.1228607Z",
   "Players": [
     {
-      "Name": "$PON no name",
+      "Name": "On Fleek",
+      "Steam": "76561198710442102",
+      "Score": 4,
+      "Time": "01:04"
+    },
+    {
+      "Name": "$ no name",
       "Steam": "76561199745812089",
-      "Score": 0,
-      "Time": "74:32"
+      "Score": 2,
+      "Time": "76:32"
     },
     {
       "Name": "foidslayer13",
       "Steam": "76561199097341342",
-      "Score": 0,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
