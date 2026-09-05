@@ -1,11 +1,17 @@
 {
-  "Time": "2026-09-04T18:07:19.1358382Z",
+  "Time": "2026-09-04T18:09:19.1322881Z",
   "Players": [
     {
       "Name": "On Fleek",
       "Steam": "76561198710442102",
-      "Score": 56,
+      "Score": 66,
       "Time": "??:??"
+    },
+    {
+      "Name": "yo hello",
+      "Steam": "76561199125572569",
+      "Score": 4,
+      "Time": "01:53"
     },
     {
       "Name": "foidslayer13",
@@ -16,38 +22,38 @@
     {
       "Name": "executioner",
       "Steam": "76561199173144125",
-      "Score": 86,
-      "Time": "41:26"
+      "Score": 89,
+      "Time": "43:26"
+    },
+    {
+      "Name": "gab91004",
+      "Steam": "76561198649070264",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
       "Score": 35,
-      "Time": "00:24"
+      "Time": "02:24"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 95,
-      "Time": "246:37"
+      "Score": 97,
+      "Time": "248:37"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 68,
-      "Time": "114:32"
+      "Score": 72,
+      "Time": "116:32"
     },
     {
       "Name": "bumpn4Dracs",
       "Steam": "76561199580355122",
-      "Score": 84,
+      "Score": 86,
       "Time": "??:??"
-    },
-    {
-      "Name": "MrCrig",
-      "Steam": "76561199059551219",
-      "Score": 21,
-      "Time": "231:57"
     }
   ]
 }
