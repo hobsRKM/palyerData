@@ -1,23 +1,29 @@
 {
-  "Time": "2026-09-04T20:19:19.1366832Z",
+  "Time": "2026-09-04T20:21:19.1370193Z",
   "Players": [
     {
-      "Name": "$PON Anne frank",
+      "Name": "$P Anne frank",
       "Steam": "76561199745812089",
-      "Score": 18,
-      "Time": "06:32"
+      "Score": 28,
+      "Time": "08:32"
+    },
+    {
+      "Name": "Whyzee",
+      "Steam": "76561199844264589",
+      "Score": 1,
+      "Time": "??:??"
     },
     {
       "Name": "meeshysan",
       "Steam": "76561199174891460",
-      "Score": 6,
-      "Time": "161:29"
+      "Score": 11,
+      "Time": "163:29"
     },
     {
       "Name": "Willy WONK",
       "Steam": "76561198649405944",
-      "Score": 0,
-      "Time": "04:10"
+      "Score": 4,
+      "Time": "06:10"
     },
     {
       "Name": "foidslayer13",
@@ -28,8 +34,14 @@
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 8,
-      "Time": "45:03"
+      "Score": 11,
+      "Time": "47:03"
+    },
+    {
+      "Name": "x",
+      "Steam": "76561198653758275",
+      "Score": 0,
+      "Time": "01:02"
     }
   ]
 }
