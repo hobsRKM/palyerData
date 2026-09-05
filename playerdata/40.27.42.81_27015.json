@@ -1,16 +1,28 @@
 {
-  "Time": "2026-09-05T11:33:22.5177136Z",
+  "Time": "2026-09-05T11:35:22.5140866Z",
   "Players": [
+    {
+      "Name": "Komenk",
+      "Steam": "76561198352545935",
+      "Score": 0,
+      "Time": "00:32"
+    },
+    {
+      "Name": "забухал",
+      "Steam": "76561198664753518",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "cheezie",
       "Steam": "76561198743474205",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Jxnior . #STIMBOT #PINGBOT",
       "Steam": "76561199836886163",
-      "Score": 34,
+      "Score": 42,
       "Time": "??:??"
     },
     {
@@ -23,12 +35,12 @@
       "Name": "aidan",
       "Steam": "76561198782295568",
       "Score": 4,
-      "Time": "04:50"
+      "Time": "06:50"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 39,
+      "Score": 48,
       "Time": "??:??"
     },
     {
@@ -36,12 +48,6 @@
       "Steam": "76561199802360473",
       "Score": 13,
       "Time": "??:??"
-    },
-    {
-      "Name": "uwu",
-      "Steam": "76561198647333670",
-      "Score": 3,
-      "Time": "15:41"
     },
     {
       "Name": "NoCheatJustSkill",
@@ -52,13 +58,19 @@
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 44,
-      "Time": "17:53"
+      "Score": 46,
+      "Time": "19:53"
     },
     {
       "Name": "Mason Foxworth",
       "Steam": "76561199148432787",
-      "Score": 22,
+      "Score": 23,
+      "Time": "??:??"
+    },
+    {
+      "Name": "On Fleek",
+      "Steam": "76561198710442102",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -74,9 +86,15 @@
       "Time": "??:??"
     },
     {
+      "Name": "Alex",
+      "Steam": "76561198055317709",
+      "Score": 0,
+      "Time": "00:30"
+    },
+    {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 10,
+      "Score": 20,
       "Time": "??:??"
     }
   ]
