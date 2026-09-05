@@ -1,47 +1,53 @@
 {
-  "Time": "2026-09-04T16:59:19.1981259Z",
+  "Time": "2026-09-04T17:01:19.135288Z",
   "Players": [
+    {
+      "Name": "игрок чикен гана",
+      "Steam": "76561198696972632",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "fatality.win",
       "Steam": "76561199318515541",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "foidslayer13",
       "Steam": "76561199097341342",
-      "Score": 14,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 70,
-      "Time": "178:37"
+      "Score": 79,
+      "Time": "180:37"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 104,
-      "Time": "32:05"
+      "Score": 119,
+      "Time": "34:05"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 73,
-      "Time": "46:32"
+      "Score": 84,
+      "Time": "48:32"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 26,
-      "Time": "19:30"
+      "Time": "21:29"
     },
     {
       "Name": "d&g",
       "Steam": "76561199859777341",
-      "Score": 25,
-      "Time": "39:55"
+      "Score": 29,
+      "Time": "41:55"
     },
     {
       "Name": "Q1h0z",
@@ -52,13 +58,13 @@
     {
       "Name": "MrCrig",
       "Steam": "76561199059551219",
-      "Score": 33,
-      "Time": "163:57"
+      "Score": 38,
+      "Time": "165:57"
     },
     {
       "Name": "nl:never win:nl",
       "Steam": "76561199794631771",
-      "Score": 1,
+      "Score": 2,
       "Time": "??:??"
     }
   ]
