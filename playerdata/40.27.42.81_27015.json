@@ -1,35 +1,35 @@
 {
-  "Time": "2026-09-04T21:03:19.1255522Z",
+  "Time": "2026-09-04T21:05:19.135221Z",
   "Players": [
     {
-      "Name": "$P no name",
+      "Name": "$PONS no name",
       "Steam": "76561199745812089",
-      "Score": 63,
-      "Time": "50:32"
+      "Score": 0,
+      "Time": "52:32"
+    },
+    {
+      "Name": "Elysium",
+      "Steam": "76561199066575195",
+      "Score": 0,
+      "Time": "00:05"
     },
     {
       "Name": "ANGOLAN MOTOR OIL RETAILER",
       "Steam": "76561198844542771",
-      "Score": 84,
-      "Time": "??:??"
+      "Score": 7,
+      "Time": "01:28"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 30,
-      "Time": "224:11"
+      "Score": 6,
+      "Time": "226:11"
     },
     {
       "Name": "foidslayer13",
       "Steam": "76561199097341342",
-      "Score": 70,
+      "Score": 0,
       "Time": "??:??"
-    },
-    {
-      "Name": "hurt",
-      "Steam": "76561199845352078",
-      "Score": 3,
-      "Time": "294:58"
     }
   ]
 }
