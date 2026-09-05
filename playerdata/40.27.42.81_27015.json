@@ -1,65 +1,71 @@
 {
-  "Time": "2026-09-05T08:51:20.0490664Z",
+  "Time": "2026-09-05T08:53:20.0966342Z",
   "Players": [
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 41,
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "waykernel",
+      "Steam": "76561198647526722",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "203-598-9010",
       "Steam": "76561198676207007",
-      "Score": 66,
-      "Time": "509:51"
+      "Score": 75,
+      "Time": "511:51"
     },
     {
-      "Name": "Eva",
+      "Name": "Evasion.on",
       "Steam": "76561198721755198",
       "Score": 0,
-      "Time": "292:26"
+      "Time": "294:26"
     },
     {
       "Name": "\uD835\uDC38\uD835\uDC59 \uD835\uDC49\uD835\uDC56\uD835\uDC50ℎ\uD835\uDC4E",
       "Steam": "76561198644245506",
-      "Score": 2,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 58,
-      "Time": "63:42"
+      "Score": 64,
+      "Time": "65:42"
     },
     {
       "Name": "uwu",
       "Steam": "76561198647333670",
       "Score": 0,
-      "Time": "93:19"
+      "Time": "95:19"
     },
     {
       "Name": "Mandy",
       "Steam": "76561199477108741",
-      "Score": 12,
+      "Score": 14,
       "Time": "??:??"
     },
     {
       "Name": "le royal monceau gatsby séance",
       "Steam": "76561198750080629",
-      "Score": 55,
-      "Time": "12:15"
+      "Score": 64,
+      "Time": "14:15"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 63,
-      "Time": "308:03"
+      "Score": 72,
+      "Time": "310:03"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 51,
-      "Time": "35:05"
+      "Score": 53,
+      "Time": "37:05"
     }
   ]
 }
