@@ -1,4 +1,35 @@
 {
-  "Time": "2026-09-05T19:21:01.0996988Z",
-  "Players": []
+  "Time": "2026-09-05T19:21:55.7059054Z",
+  "Players": [
+    {
+      "Name": "semi furry",
+      "Steam": "76561198696240114",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "stormbolt",
+      "Steam": "76561199146366620",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "solacillas",
+      "Steam": "76561198657907546",
+      "Score": 22,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Zari Humilde HD",
+      "Steam": "76561199865208605",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Vladi",
+      "Steam": "76561199090209907",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
