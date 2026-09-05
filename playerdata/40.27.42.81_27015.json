@@ -1,47 +1,41 @@
 {
-  "Time": "2026-09-05T15:15:22.5014765Z",
+  "Time": "2026-09-05T15:17:22.5025575Z",
   "Players": [
     {
       "Name": "Mason Foxworth",
       "Steam": "76561199148432787",
-      "Score": 65,
-      "Time": "87:02"
+      "Score": 67,
+      "Time": "89:02"
     },
     {
       "Name": "foidslayer13",
       "Steam": "76561199097341342",
-      "Score": 43,
+      "Score": 48,
       "Time": "??:??"
     },
     {
       "Name": "aidan",
       "Steam": "76561198782295568",
-      "Score": 20,
-      "Time": "11:58"
+      "Score": 26,
+      "Time": "13:58"
     },
     {
       "Name": "wasd",
       "Steam": "76561199812415276",
-      "Score": 26,
-      "Time": "07:29"
+      "Score": 35,
+      "Time": "09:29"
     },
     {
       "Name": "dog",
       "Steam": "76561199390157015",
-      "Score": 99,
+      "Score": 127,
       "Time": "??:??"
     },
     {
       "Name": "Rakay",
       "Steam": "76561199617972846",
-      "Score": 8,
+      "Score": 16,
       "Time": "??:??"
-    },
-    {
-      "Name": "Mike Herris jr",
-      "Steam": "76561198700411612",
-      "Score": 28,
-      "Time": "11:20"
     },
     {
       "Name": "Kobley",
@@ -52,7 +46,13 @@
     {
       "Name": "aim#luckbot",
       "Steam": "76561199826685794",
-      "Score": 59,
+      "Score": 68,
+      "Time": "??:??"
+    },
+    {
+      "Name": "zylohvhcfg",
+      "Steam": "76561198681968531",
+      "Score": 0,
       "Time": "??:??"
     },
     {
@@ -65,7 +65,7 @@
       "Name": "John",
       "Steam": "76561199675406378",
       "Score": 0,
-      "Time": "63:19"
+      "Time": "65:19"
     },
     {
       "Name": "EvilJ",
@@ -76,8 +76,14 @@
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 4,
-      "Time": "62:51"
+      "Score": 15,
+      "Time": "64:51"
+    },
+    {
+      "Name": "Beartoker™ | 长寿",
+      "Steam": "76561199290398734",
+      "Score": 3,
+      "Time": "??:??"
     }
   ]
 }
