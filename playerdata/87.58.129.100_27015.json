@@ -1,5 +1,5 @@
 {
-  "Time": "2026-09-05T19:38:31.2654943Z",
+  "Time": "2026-09-05T19:40:31.2609621Z",
   "Players": [
     {
       "Name": "?",
@@ -8,7 +8,13 @@
       "Time": "??:??"
     },
     {
-      "Name": "fatali Mondialu",
+      "Name": "Stream",
+      "Steam": "76561199835637057",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatality.w Mondialu",
       "Steam": "76561199850724236",
       "Score": 0,
       "Time": "??:??"
@@ -16,14 +22,14 @@
     {
       "Name": "king von",
       "Steam": "76561198652510434",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "dribble",
       "Steam": "76561198315703079",
-      "Score": 0,
-      "Time": "24:00"
+      "Score": 5,
+      "Time": "26:00"
     }
   ]
 }
