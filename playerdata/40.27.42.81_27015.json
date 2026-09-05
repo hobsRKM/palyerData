@@ -1,6 +1,12 @@
 {
-  "Time": "2026-09-05T04:25:19.1277239Z",
+  "Time": "2026-09-05T04:27:19.1352046Z",
   "Players": [
+    {
+      "Name": "Mih4ljevic",
+      "Steam": "76561198662365546",
+      "Score": 0,
+      "Time": "00:32"
+    },
     {
       "Name": "asdasasda",
       "Steam": "76561198646659254",
@@ -10,26 +16,32 @@
     {
       "Name": "skeet.cc ilovev.gov12",
       "Steam": "76561199866742483",
-      "Score": 16,
-      "Time": "09:10"
+      "Score": 32,
+      "Time": "11:10"
     },
     {
-      "Name": "Evas",
+      "Name": "Evasion.one",
       "Steam": "76561198721755198",
       "Score": 0,
-      "Time": "26:25"
+      "Time": "28:25"
     },
     {
       "Name": "mONESY666",
       "Steam": "76561198712538785",
-      "Score": 0,
-      "Time": "14:05"
+      "Score": 4,
+      "Time": "16:05"
     },
     {
       "Name": "later",
       "Steam": "76561199616696491",
       "Score": 2,
       "Time": "??:??"
+    },
+    {
+      "Name": "yo hello",
+      "Steam": "76561199125572569",
+      "Score": 3,
+      "Time": "346:42"
     }
   ]
 }
