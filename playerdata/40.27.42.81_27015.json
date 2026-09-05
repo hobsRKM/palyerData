@@ -1,29 +1,35 @@
 {
-  "Time": "2026-09-04T20:23:19.1370944Z",
+  "Time": "2026-09-04T20:25:19.1264216Z",
   "Players": [
     {
       "Name": "sebi",
       "Steam": "76561199383669951",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     },
     {
-      "Name": "$PON Anne frank",
+      "Name": "$P Anne frank",
       "Steam": "76561199745812089",
-      "Score": 44,
-      "Time": "10:32"
+      "Score": 56,
+      "Time": "12:32"
+    },
+    {
+      "Name": "g00nbaiting",
+      "Steam": "76561198647189695",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "meeshysan",
       "Steam": "76561199174891460",
-      "Score": 15,
-      "Time": "165:29"
+      "Score": 21,
+      "Time": "167:29"
     },
     {
       "Name": "Willy WONK",
       "Steam": "76561198649405944",
       "Score": 12,
-      "Time": "08:10"
+      "Time": "10:10"
     },
     {
       "Name": "foidslayer13",
@@ -34,8 +40,14 @@
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 15,
-      "Time": "49:03"
+      "Score": 16,
+      "Time": "51:03"
+    },
+    {
+      "Name": "nya nya ;3",
+      "Steam": "76561199865558452",
+      "Score": 0,
+      "Time": "00:54"
     }
   ]
 }
