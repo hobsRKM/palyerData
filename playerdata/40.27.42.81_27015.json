@@ -1,77 +1,77 @@
 {
-  "Time": "2026-09-05T08:41:19.7320805Z",
+  "Time": "2026-09-05T08:43:19.7962303Z",
   "Players": [
+    {
+      "Name": "The Liberator",
+      "Steam": "76561199319402867",
+      "Score": 2,
+      "Time": "01:22"
+    },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 0,
+      "Score": 10,
       "Time": "??:??"
     },
     {
       "Name": "\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83",
       "Steam": "76561199871821467",
-      "Score": 23,
-      "Time": "598:29"
+      "Score": 26,
+      "Time": "600:29"
     },
     {
       "Name": "203-598-9010",
       "Steam": "76561198676207007",
-      "Score": 43,
-      "Time": "499:51"
+      "Score": 49,
+      "Time": "501:51"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 46,
-      "Time": "632:47"
+      "Score": 54,
+      "Time": "634:47"
     },
     {
-      "Name": "Evasion.o",
+      "Name": "Evasion.",
       "Steam": "76561198721755198",
       "Score": 0,
-      "Time": "282:25"
+      "Time": "284:25"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 23,
-      "Time": "53:42"
-    },
-    {
-      "Name": "HUNK",
-      "Steam": "76561199870945474",
-      "Score": 0,
-      "Time": "919:50"
+      "Score": 34,
+      "Time": "55:42"
     },
     {
       "Name": "uwu",
       "Steam": "76561198647333670",
+      "Score": 8,
+      "Time": "85:19"
+    },
+    {
+      "Name": "Mandy",
+      "Steam": "76561199477108741",
       "Score": 4,
-      "Time": "83:19"
+      "Time": "??:??"
     },
     {
       "Name": "le royal monceau gatsby séance",
       "Steam": "76561198750080629",
-      "Score": 11,
-      "Time": "02:15"
+      "Score": 21,
+      "Time": "04:15"
     },
     {
       "Name": "Shadow",
       "Steam": "76561198748012660",
-      "Score": 28,
-      "Time": "298:03"
-    },
-    {
-      "Name": "Zapa",
-      "Steam": "76561199781322125",
-      "Score": 12,
-      "Time": "978:13"
+      "Score": 40,
+      "Time": "300:03"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 18,
-      "Time": "25:04"
+      "Score": 28,
+      "Time": "27:04"
     }
   ]
 }
