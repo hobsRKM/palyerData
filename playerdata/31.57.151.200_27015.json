@@ -1,4 +1,41 @@
 {
-  "Time": "2026-09-05T20:00:20.1766407Z",
-  "Players": []
+  "Time": "2026-09-05T20:01:55.7174658Z",
+  "Players": [
+    {
+      "Name": "src",
+      "Steam": "76561198241397796",
+      "Score": 29,
+      "Time": "??:??"
+    },
+    {
+      "Name": "mapai012",
+      "Steam": "76561198735647221",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "danek",
+      "Steam": "76561198660527218",
+      "Score": 0,
+      "Time": "01:00"
+    },
+    {
+      "Name": "TOMMY TAPPING BOTS",
+      "Steam": "76561198705437933",
+      "Score": 39,
+      "Time": "08:43"
+    },
+    {
+      "Name": "solacillas",
+      "Steam": "76561198657907546",
+      "Score": 72,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Zari Humilde HD",
+      "Steam": "76561199865208605",
+      "Score": 30,
+      "Time": "??:??"
+    }
+  ]
 }
