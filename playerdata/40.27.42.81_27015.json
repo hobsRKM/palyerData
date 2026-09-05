@@ -1,17 +1,23 @@
 {
-  "Time": "2026-09-04T17:15:19.136306Z",
+  "Time": "2026-09-04T17:17:19.1338126Z",
   "Players": [
     {
       "Name": "Anne frank",
       "Steam": "76561199745812089",
-      "Score": 3,
-      "Time": "128:33"
+      "Score": 10,
+      "Time": "130:33"
     },
     {
       "Name": "sharks in the water",
       "Steam": "76561198648532826",
-      "Score": 29,
-      "Time": "178:55"
+      "Score": 43,
+      "Time": "180:55"
+    },
+    {
+      "Name": "belle.hvh",
+      "Steam": "76561198648616278",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "foidslayer13",
@@ -22,26 +28,32 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 19,
-      "Time": "194:37"
+      "Score": 27,
+      "Time": "196:37"
     },
     {
       "Name": "luke14days",
       "Steam": "76561198740895191",
-      "Score": 15,
-      "Time": "62:32"
+      "Score": 17,
+      "Time": "64:32"
     },
     {
       "Name": "Q1h0z",
       "Steam": "76561198179777375",
-      "Score": 4,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "MrCrig",
       "Steam": "76561199059551219",
-      "Score": 3,
-      "Time": "179:57"
+      "Score": 4,
+      "Time": "181:57"
+    },
+    {
+      "Name": "minecraft hacker 1337",
+      "Steam": "76561199868708390",
+      "Score": 0,
+      "Time": "00:04"
     }
   ]
 }
