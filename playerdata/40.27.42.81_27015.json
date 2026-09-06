@@ -1,41 +1,47 @@
 {
-  "Time": "2026-09-06T05:17:22.6653975Z",
+  "Time": "2026-09-06T05:19:22.6611264Z",
   "Players": [
+    {
+      "Name": "pol4r",
+      "Steam": "76561198076574763",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "puresense ilovev.gov12",
       "Steam": "76561199866742483",
-      "Score": 12,
-      "Time": "10:27"
+      "Score": 22,
+      "Time": "12:27"
     },
     {
       "Name": "reganscott87",
       "Steam": "76561198794732414",
-      "Score": 3,
-      "Time": "781:42"
+      "Score": 4,
+      "Time": "783:42"
     },
     {
       "Name": "robi2k",
       "Steam": "76561198772260122",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83",
       "Steam": "76561199871821467",
-      "Score": 26,
-      "Time": "692:29"
+      "Score": 40,
+      "Time": "694:29"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 28,
-      "Time": "10:38"
+      "Score": 30,
+      "Time": "12:38"
     },
     {
       "Name": ">_<",
       "Steam": "76561198712538785",
-      "Score": 25,
-      "Time": "815:05"
+      "Score": 34,
+      "Time": "817:05"
     }
   ]
 }
