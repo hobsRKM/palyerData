@@ -1,23 +1,29 @@
 {
-  "Time": "2026-09-06T13:51:17.341829Z",
+  "Time": "2026-09-06T13:53:17.3326669Z",
   "Players": [
+    {
+      "Name": "trannytron",
+      "Steam": "76561198681679445",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "SmokeBurnt2016",
       "Steam": "76561198884975558",
-      "Score": 0,
+      "Score": 8,
       "Time": "??:??"
     },
     {
       "Name": "dog",
       "Steam": "76561199390157015",
-      "Score": 0,
+      "Score": 3,
       "Time": "??:??"
     },
     {
       "Name": "McThiccums",
       "Steam": "76561199048808489",
-      "Score": 4,
-      "Time": "32:04"
+      "Score": 12,
+      "Time": "34:04"
     }
   ]
 }
