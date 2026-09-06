@@ -1,6 +1,12 @@
 {
-  "Time": "2026-09-05T19:23:22.5045893Z",
+  "Time": "2026-09-05T19:25:22.5100004Z",
   "Players": [
+    {
+      "Name": "wah",
+      "Steam": "76561198728274003",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "wandys only good on pistol round",
       "Steam": "76561198426663487",
@@ -8,58 +14,64 @@
       "Time": "??:??"
     },
     {
+      "Name": "aidan",
+      "Steam": "76561198782295568",
+      "Score": 2,
+      "Time": "00:35"
+    },
+    {
       "Name": "foidslayer13",
       "Steam": "76561199097341342",
       "Score": 0,
-      "Time": "85:33"
+      "Time": "87:34"
     },
     {
       "Name": "Bob",
       "Steam": "76561198715864311",
-      "Score": 0,
-      "Time": "62:40"
+      "Score": 3,
+      "Time": "64:40"
     },
     {
       "Name": "egirl",
       "Steam": "76561199837114653",
-      "Score": 0,
+      "Score": 13,
       "Time": "??:??"
     },
     {
       "Name": "Kiro",
       "Steam": "76561199836886163",
-      "Score": 0,
-      "Time": "289:53"
+      "Score": 2,
+      "Time": "291:53"
     },
     {
       "Name": "Apologize",
       "Steam": "76561199137214616",
       "Score": 0,
-      "Time": "53:11"
+      "Time": "55:11"
     },
     {
       "Name": "fabian",
       "Steam": "76561198649405944",
       "Score": 0,
-      "Time": "11:38"
+      "Time": "13:38"
+    },
+    {
+      "Name": "nzt",
+      "Steam": "76561198165097617",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 0,
-      "Time": "234:45"
+      "Score": 2,
+      "Time": "236:45"
     },
     {
       "Name": "zz",
       "Steam": "76561199151685733",
-      "Score": 0,
-      "Time": "190:42"
-    },
-    {
-      "Name": "isis",
-      "Steam": "76561199482511279",
-      "Score": 0,
-      "Time": "122:57"
+      "Score": 12,
+      "Time": "192:42"
     }
   ]
 }
