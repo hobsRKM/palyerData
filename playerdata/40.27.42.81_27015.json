@@ -1,35 +1,41 @@
 {
-  "Time": "2026-09-06T08:11:22.740986Z",
+  "Time": "2026-09-06T08:13:22.7283042Z",
   "Players": [
+    {
+      "Name": "yo hello",
+      "Steam": "76561199125572569",
+      "Score": 2,
+      "Time": "657:35"
+    },
     {
       "Name": "Sublime",
       "Steam": "76561199804011654",
-      "Score": 0,
+      "Score": 5,
       "Time": "??:??"
     },
     {
       "Name": "nocheater.cc | faggotware.cc",
       "Steam": "76561198782623566",
-      "Score": 0,
-      "Time": "558:55"
+      "Score": 2,
+      "Time": "560:55"
     },
     {
       "Name": "olivayiz",
       "Steam": "76561198681678301",
       "Score": 0,
-      "Time": "740:28"
+      "Time": "742:28"
     },
     {
       "Name": "chud✭",
       "Steam": "76561198723445690",
-      "Score": 0,
-      "Time": "06:54"
+      "Score": 10,
+      "Time": "08:54"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 10,
-      "Time": "41:21"
+      "Score": 23,
+      "Time": "43:21"
     }
   ]
 }
