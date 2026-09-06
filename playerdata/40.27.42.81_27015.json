@@ -1,35 +1,53 @@
 {
-  "Time": "2026-09-06T08:35:22.8011216Z",
+  "Time": "2026-09-06T08:37:22.8014914Z",
   "Players": [
     {
-      "Name": "Shred72",
+      "Name": "203-598-9010",
+      "Steam": "76561198676207007",
+      "Score": 7,
+      "Time": "522:01"
+    },
+    {
+      "Name": "Novaluna.cc",
       "Steam": "76561199125572569",
-      "Score": 14,
-      "Time": "679:35"
+      "Score": 27,
+      "Time": "681:35"
     },
     {
       "Name": "Sublime",
       "Steam": "76561199804011654",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
+    },
+    {
+      "Name": "uwu",
+      "Steam": "76561198647333670",
+      "Score": 0,
+      "Time": "910:19"
+    },
+    {
+      "Name": "hikikomori",
+      "Steam": "76561198745194531",
+      "Score": 5,
+      "Time": "874:27"
     },
     {
       "Name": "Novaluna.cc",
       "Steam": "76561198651286735",
-      "Score": 0,
-      "Time": "572:49"
+      "Score": 2,
+      "Time": "574:49"
     },
     {
       "Name": "Shred72",
       "Steam": "76561198159784515",
-      "Score": 7,
+      "Score": 11,
       "Time": "??:??"
     },
     {
       "Name": "\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83",
       "Steam": "76561199871821467",
-      "Score": 22,
-      "Time": "18:32"
+      "Score": 27,
+      "Time": "20:32"
     }
   ]
 }
