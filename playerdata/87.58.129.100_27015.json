@@ -1,29 +1,23 @@
 {
-  "Time": "2026-09-06T01:06:31.2648086Z",
+  "Time": "2026-09-06T01:08:31.2582763Z",
   "Players": [
+    {
+      "Name": "mowgli | .gg/36EAyW5Z4F",
+      "Steam": "76561198644087963",
+      "Score": 1,
+      "Time": "??:??"
+    },
     {
       "Name": "svajunassvajunas777",
       "Steam": "76561198644516723",
-      "Score": 12,
-      "Time": "24:58"
+      "Score": 16,
+      "Time": "26:58"
     },
     {
       "Name": "V1zx",
       "Steam": "76561198653594112",
-      "Score": 18,
-      "Time": "25:25"
-    },
-    {
-      "Name": "Kennys",
-      "Steam": "76561198652144433",
-      "Score": 6,
-      "Time": "03:02"
-    },
-    {
-      "Name": "Notti",
-      "Steam": "76561199888822615",
-      "Score": 8,
-      "Time": "00:09"
+      "Score": 28,
+      "Time": "27:25"
     }
   ]
 }
