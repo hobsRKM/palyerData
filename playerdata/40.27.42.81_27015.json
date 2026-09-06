@@ -1,29 +1,35 @@
 {
-  "Time": "2026-09-06T00:27:22.6487532Z",
+  "Time": "2026-09-06T00:29:22.6484414Z",
   "Players": [
     {
       "Name": "$$",
       "Steam": "76561199745947792",
-      "Score": 32,
+      "Score": 34,
+      "Time": "??:??"
+    },
+    {
+      "Name": "neverlose anticheat",
+      "Steam": "76561198707131063",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "meeshysan",
       "Steam": "76561199174891460",
-      "Score": 65,
-      "Time": "121:47"
+      "Score": 75,
+      "Time": "123:47"
     },
     {
       "Name": "kevinheath1959",
       "Steam": "76561198745093143",
-      "Score": 76,
+      "Score": 92,
       "Time": "??:??"
     },
     {
-      "Name": "peachcrushh",
-      "Steam": "76561198663345153",
-      "Score": 29,
-      "Time": "21:29"
+      "Name": "chung",
+      "Steam": "76561198749701729",
+      "Score": 0,
+      "Time": "??:??"
     }
   ]
 }
