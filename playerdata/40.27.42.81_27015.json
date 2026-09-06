@@ -1,17 +1,23 @@
 {
-  "Time": "2026-09-06T11:01:17.3291068Z",
+  "Time": "2026-09-06T11:03:17.328674Z",
   "Players": [
+    {
+      "Name": "203-598-9010",
+      "Steam": "76561198676207007",
+      "Score": 4,
+      "Time": "00:38"
+    },
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
-      "Score": 34,
-      "Time": "16:55"
+      "Score": 43,
+      "Time": "18:55"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 54,
-      "Time": "16:51"
+      "Score": 62,
+      "Time": "18:51"
     },
     {
       "Name": "Crayzy_Eyezz",
@@ -22,7 +28,7 @@
     {
       "Name": "imnotdoggo",
       "Steam": "76561199140462879",
-      "Score": 27,
+      "Score": 35,
       "Time": "??:??"
     },
     {
@@ -34,18 +40,24 @@
     {
       "Name": "meeshysan",
       "Steam": "76561199174891460",
-      "Score": 0,
+      "Score": 4,
       "Time": "??:??"
     },
     {
       "Name": "Loading...",
       "Steam": "76561198783859737",
-      "Score": 12,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83\uD800\uDC83",
       "Steam": "76561199871821467",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "guy",
+      "Steam": "76561198780931273",
       "Score": 0,
       "Time": "??:??"
     }
