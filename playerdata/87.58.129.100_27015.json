@@ -1,22 +1,28 @@
 {
-  "Time": "2026-09-06T09:29:12.9055888Z",
+  "Time": "2026-09-06T09:31:12.9083914Z",
   "Players": [
     {
       "Name": "?",
       "Steam": "76561199174842575",
       "Score": 0,
-      "Time": "22:57"
+      "Time": "24:57"
     },
     {
-      "Name": "spectral   123",
+      "Name": "spectral         123",
       "Steam": "76561198650632406",
       "Score": 0,
       "Time": "??:??"
     },
     {
-      "Name": "spectral   easy win",
+      "Name": "spectral        easy win",
       "Steam": "76561198660830038",
-      "Score": 0,
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "OKAK",
+      "Steam": "76561198753130064",
+      "Score": 8,
       "Time": "??:??"
     }
   ]
