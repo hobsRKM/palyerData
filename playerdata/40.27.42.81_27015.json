@@ -1,9 +1,15 @@
 {
-  "Time": "2026-09-06T01:49:22.662802Z",
+  "Time": "2026-09-06T01:51:22.6555911Z",
   "Players": [
     {
       "Name": "prodavec 240km//h PEEK",
       "Steam": "76561198740467352",
+      "Score": 4,
+      "Time": "01:16"
+    },
+    {
+      "Name": "noob",
+      "Steam": "76561199812693760",
       "Score": 0,
       "Time": "??:??"
     },
@@ -16,26 +22,26 @@
     {
       "Name": "vacgaming丨f0rsaken",
       "Steam": "76561198714718227",
-      "Score": 2,
+      "Score": 7,
       "Time": "??:??"
     },
     {
       "Name": "Razor",
       "Steam": "76561199015858739",
-      "Score": 25,
+      "Score": 29,
       "Time": "??:??"
     },
     {
       "Name": "dog",
       "Steam": "76561199390157015",
-      "Score": 30,
-      "Time": "76:39"
+      "Score": 36,
+      "Time": "78:39"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 60,
-      "Time": "29:36"
+      "Score": 70,
+      "Time": "31:36"
     }
   ]
 }
