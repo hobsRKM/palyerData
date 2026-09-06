@@ -1,29 +1,35 @@
 {
-  "Time": "2026-09-06T07:57:22.7353356Z",
+  "Time": "2026-09-06T07:59:22.738096Z",
   "Players": [
     {
       "Name": "Sublime",
       "Steam": "76561199804011654",
-      "Score": 13,
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "4tw - nomercy.one",
+      "Steam": "76561198720998700",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "chud✭",
       "Steam": "76561198723445690",
       "Score": 27,
-      "Time": "22:30"
+      "Time": "24:30"
     },
     {
       "Name": "fabian",
       "Steam": "76561198649405944",
-      "Score": 16,
-      "Time": "642:07"
+      "Score": 19,
+      "Time": "644:07"
     },
     {
       "Name": "fluauxatine",
       "Steam": "76561198704162469",
-      "Score": 46,
-      "Time": "27:21"
+      "Score": 52,
+      "Time": "29:21"
     }
   ]
 }
