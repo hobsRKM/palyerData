@@ -1,41 +1,53 @@
 {
-  "Time": "2026-09-06T19:35:17.3400817Z",
+  "Time": "2026-09-06T19:37:17.3437046Z",
   "Players": [
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 22,
-      "Time": "108:39"
+      "Score": 25,
+      "Time": "110:39"
+    },
+    {
+      "Name": "i'm trans and pregnant",
+      "Steam": "76561198676207007",
+      "Score": 6,
+      "Time": "00:31"
     },
     {
       "Name": "Anne frank",
       "Steam": "76561199745812089",
-      "Score": 14,
+      "Score": 17,
       "Time": "??:??"
     },
     {
       "Name": "kevinheath1959",
       "Steam": "76561198745093143",
-      "Score": 7,
-      "Time": "03:06"
+      "Score": 13,
+      "Time": "05:06"
+    },
+    {
+      "Name": "pRotoN VPN",
+      "Steam": "76561198710180447",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 14,
-      "Time": "44:44"
+      "Score": 23,
+      "Time": "46:44"
     },
     {
       "Name": "Trixeno",
       "Steam": "76561199127210805",
-      "Score": 14,
-      "Time": "63:42"
+      "Score": 18,
+      "Time": "65:42"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
-      "Score": 6,
-      "Time": "81:03"
+      "Score": 8,
+      "Time": "83:03"
     },
     {
       "Name": "Kiro",
@@ -44,10 +56,16 @@
       "Time": "??:??"
     },
     {
+      "Name": "Bring Death To Dylan Ross.",
+      "Steam": "76561199580355122",
+      "Score": 2,
+      "Time": "01:26"
+    },
+    {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 16,
-      "Time": "03:32"
+      "Score": 26,
+      "Time": "05:32"
     }
   ]
 }
