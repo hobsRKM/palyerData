@@ -1,41 +1,53 @@
 {
-  "Time": "2026-09-06T19:49:17.3429727Z",
+  "Time": "2026-09-06T19:51:17.3305892Z",
   "Players": [
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 64,
-      "Time": "122:39"
+      "Score": 68,
+      "Time": "124:39"
+    },
+    {
+      "Name": "itzle0nardo",
+      "Steam": "76561198643592750",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "zt",
       "Steam": "76561199702538611",
-      "Score": 52,
-      "Time": "04:55"
+      "Score": 60,
+      "Time": "06:55"
     },
     {
       "Name": "Anne frank",
       "Steam": "76561199745812089",
-      "Score": 44,
+      "Score": 46,
       "Time": "??:??"
     },
     {
       "Name": "kevinheath1959",
       "Steam": "76561198745093143",
-      "Score": 62,
-      "Time": "17:06"
+      "Score": 68,
+      "Time": "19:06"
     },
     {
       "Name": "dog",
       "Steam": "76561199390157015",
-      "Score": 5,
-      "Time": "01:34"
+      "Score": 11,
+      "Time": "03:34"
     },
     {
       "Name": "L",
       "Steam": "76561198703765691",
-      "Score": 41,
-      "Time": "09:08"
+      "Score": 43,
+      "Time": "11:08"
+    },
+    {
+      "Name": "de_v",
+      "Steam": "76561198219350995",
+      "Score": 4,
+      "Time": "??:??"
     },
     {
       "Name": "\uD835\uDD04\uD835\uDD20\uD835\uDD22",
@@ -46,26 +58,26 @@
     {
       "Name": "giga-over",
       "Steam": "76561199725613843",
-      "Score": 36,
-      "Time": "09:34"
+      "Score": 38,
+      "Time": "11:34"
     },
     {
       "Name": "zip",
       "Steam": "76561198158611756",
       "Score": 22,
-      "Time": "95:03"
+      "Time": "97:03"
     },
     {
       "Name": "Kiro",
       "Steam": "76561199836886163",
-      "Score": 75,
+      "Score": 85,
       "Time": "??:??"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 69,
-      "Time": "17:32"
+      "Score": 75,
+      "Time": "19:32"
     }
   ]
 }
