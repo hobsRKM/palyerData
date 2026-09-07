@@ -1,11 +1,11 @@
 {
-  "Time": "2026-09-06T19:57:17.336395Z",
+  "Time": "2026-09-06T19:59:17.3325374Z",
   "Players": [
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 28,
-      "Time": "130:39"
+      "Score": 40,
+      "Time": "132:39"
     },
     {
       "Name": "itzle0nardo",
@@ -16,38 +16,44 @@
     {
       "Name": "Anne frank",
       "Steam": "76561199745812089",
-      "Score": 12,
+      "Score": 16,
       "Time": "??:??"
     },
     {
       "Name": "kevinheath1959",
       "Steam": "76561198745093143",
-      "Score": 18,
-      "Time": "25:06"
+      "Score": 22,
+      "Time": "27:06"
+    },
+    {
+      "Name": "vac",
+      "Steam": "76561198702099966",
+      "Score": 0,
+      "Time": "??:??"
     },
     {
       "Name": "$$",
       "Steam": "76561199745947792",
-      "Score": 0,
-      "Time": "00:03"
+      "Score": 2,
+      "Time": "02:03"
     },
     {
       "Name": "dog",
       "Steam": "76561199390157015",
-      "Score": 13,
-      "Time": "09:34"
+      "Score": 18,
+      "Time": "11:34"
     },
     {
       "Name": "L",
       "Steam": "76561198703765691",
-      "Score": 17,
-      "Time": "17:08"
+      "Score": 25,
+      "Time": "19:08"
     },
     {
       "Name": "de_v",
       "Steam": "76561198219350995",
-      "Score": 6,
-      "Time": "05:08"
+      "Score": 8,
+      "Time": "07:08"
     },
     {
       "Name": "\uD835\uDD04\uD835\uDD20\uD835\uDD22",
@@ -59,25 +65,13 @@
       "Name": "giga-over",
       "Steam": "76561199725613843",
       "Score": 0,
-      "Time": "17:34"
-    },
-    {
-      "Name": "zip",
-      "Steam": "76561198158611756",
-      "Score": 4,
-      "Time": "103:03"
-    },
-    {
-      "Name": "MAI SAKURAJIMA",
-      "Steam": "76561198705378236",
-      "Score": 0,
-      "Time": "??:??"
+      "Time": "19:34"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 27,
-      "Time": "25:32"
+      "Score": 31,
+      "Time": "27:32"
     }
   ]
 }
