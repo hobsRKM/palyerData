@@ -1,29 +1,29 @@
 {
-  "Time": "2026-09-06T21:49:17.3496731Z",
+  "Time": "2026-09-06T21:51:17.3513577Z",
   "Players": [
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 127,
-      "Time": "242:39"
+      "Score": 134,
+      "Time": "244:39"
     },
     {
       "Name": "hikikomori",
       "Steam": "76561198745194531",
-      "Score": 36,
-      "Time": "10:31"
+      "Score": 39,
+      "Time": "12:31"
     },
     {
       "Name": "cats",
       "Steam": "76561198741480204",
-      "Score": 40,
+      "Score": 45,
       "Time": "??:??"
     },
     {
       "Name": "Vic",
       "Steam": "76561198700071912",
-      "Score": 117,
-      "Time": "55:48"
+      "Score": 124,
+      "Time": "57:48"
     },
     {
       "Name": "seven figure fatality",
@@ -34,14 +34,20 @@
     {
       "Name": "\uD835\uDD0A\uD835\uDD0A\uD835\uDD30",
       "Steam": "76561198659586005",
-      "Score": 11,
-      "Time": "36:34"
+      "Score": 0,
+      "Time": "38:34"
     },
     {
       "Name": "jasmine",
       "Steam": "76561198691835436",
-      "Score": 2,
-      "Time": "104:19"
+      "Score": 6,
+      "Time": "106:19"
+    },
+    {
+      "Name": "L",
+      "Steam": "76561198703765691",
+      "Score": 59,
+      "Time": "01:56"
     },
     {
       "Name": "Finnsley",
@@ -52,20 +58,26 @@
     {
       "Name": "Chicago",
       "Steam": "76561198689816963",
-      "Score": 12,
+      "Score": 21,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Firma Novi Sad",
+      "Steam": "76561199560515041",
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "MarkHack",
       "Steam": "76561198679830854",
-      "Score": 54,
-      "Time": "86:32"
+      "Score": 58,
+      "Time": "88:32"
     },
     {
       "Name": "isis",
       "Steam": "76561199482511279",
-      "Score": 49,
-      "Time": "25:15"
+      "Score": 0,
+      "Time": "27:15"
     }
   ]
 }
