@@ -1,16 +1,28 @@
 {
-  "Time": "2026-09-06T18:49:17.3390562Z",
+  "Time": "2026-09-06T18:51:17.3390302Z",
   "Players": [
     {
       "Name": "yo hello",
       "Steam": "76561199125572569",
-      "Score": 33,
-      "Time": "62:39"
+      "Score": 39,
+      "Time": "64:39"
     },
     {
       "Name": "Anne frank",
       "Steam": "76561199745812089",
-      "Score": 18,
+      "Score": 20,
+      "Time": "??:??"
+    },
+    {
+      "Name": "giga-over",
+      "Steam": "76561199725613843",
+      "Score": 0,
+      "Time": "00:44"
+    },
+    {
+      "Name": "astro #175dayvac",
+      "Steam": "76561199823229077",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
