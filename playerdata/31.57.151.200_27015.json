@@ -1,4 +1,35 @@
 {
-  "Time": "2026-09-12T18:38:34.5989453Z",
-  "Players": []
+  "Time": "2026-09-12T18:38:41.6224516Z",
+  "Players": [
+    {
+      "Name": ">",
+      "Steam": "76561198317100810",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "rodrigofrancarodrigues2",
+      "Steam": "76561199068609070",
+      "Score": 51,
+      "Time": "21:31"
+    },
+    {
+      "Name": "Konf",
+      "Steam": "76561199323191532",
+      "Score": 7,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[velo] bitchassnigga0101",
+      "Steam": "76561198645289367",
+      "Score": 45,
+      "Time": "12:20"
+    },
+    {
+      "Name": "HistoryEnds",
+      "Steam": "76561199490043633",
+      "Score": 64,
+      "Time": "??:??"
+    }
+  ]
 }
