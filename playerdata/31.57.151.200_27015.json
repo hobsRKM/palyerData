@@ -1,4 +1,23 @@
 {
-  "Time": "2026-09-12T00:48:20.2914614Z",
-  "Players": []
+  "Time": "2026-09-12T00:48:42.5877099Z",
+  "Players": [
+    {
+      "Name": "cnnjiu",
+      "Steam": "76561198673779906",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDE68\uD835\uDE6F\uD835\uDE6D\uD835\uDE6F",
+      "Steam": "76561198642479050",
+      "Score": 54,
+      "Time": "??:??"
+    },
+    {
+      "Name": "\uD835\uDE8E\uD835\uDE97\uD835\uDE90\uD835\uDE78\uD835\uDE96\uD835\uDE8A \uD835\uDE7F\uD835\uDE81\uD835\uDE74\uD835\uDE7C",
+      "Steam": "76561198703803154",
+      "Score": 24,
+      "Time": "17:30"
+    }
+  ]
 }
