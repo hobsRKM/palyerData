@@ -1,4 +1,29 @@
 {
-  "Time": "2026-09-13T15:02:21.2306087Z",
-  "Players": []
+  "Time": "2026-09-13T15:03:10.3944043Z",
+  "Players": [
+    {
+      "Name": "Shiny Flakes CEO",
+      "Steam": "76561198745903058",
+      "Score": 1,
+      "Time": "00:54"
+    },
+    {
+      "Name": "IOO",
+      "Steam": "76561199537279157",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "minion",
+      "Steam": "76561198119165697",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "ToastedBread",
+      "Steam": "76561198651485174",
+      "Score": 4,
+      "Time": "30:02"
+    }
+  ]
 }
