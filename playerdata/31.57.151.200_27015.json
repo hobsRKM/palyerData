@@ -1,4 +1,23 @@
 {
-  "Time": "2026-09-14T17:14:21.0049708Z",
-  "Players": []
+  "Time": "2026-09-14T17:14:22.1134786Z",
+  "Players": [
+    {
+      "Name": "Maximka URF.IM",
+      "Steam": "76561199198441807",
+      "Score": 1,
+      "Time": "04:29"
+    },
+    {
+      "Name": "HenryMcDick",
+      "Steam": "76561199541078231",
+      "Score": 40,
+      "Time": "04:07"
+    },
+    {
+      "Name": "[ne] buhovi",
+      "Steam": "76561198652795441",
+      "Score": 7,
+      "Time": "00:31"
+    }
+  ]
 }
