@@ -1,4 +1,41 @@
 {
-  "Time": "2026-09-14T11:46:21.0061207Z",
-  "Players": []
+  "Time": "2026-09-14T11:46:22.9194387Z",
+  "Players": [
+    {
+      "Name": "meow",
+      "Steam": "76561198785976863",
+      "Score": 3,
+      "Time": "??:??"
+    },
+    {
+      "Name": "minion",
+      "Steam": "76561198119165697",
+      "Score": 18,
+      "Time": "11:43"
+    },
+    {
+      "Name": "gamesense     Infantrit",
+      "Steam": "76561199814800229",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "alonelywolf",
+      "Steam": "76561198705303387",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gamesense    Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 19,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Roma Arahaka",
+      "Steam": "76561198678892677",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
