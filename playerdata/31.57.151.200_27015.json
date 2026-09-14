@@ -1,4 +1,41 @@
 {
-  "Time": "2026-09-14T11:42:21.0060925Z",
-  "Players": []
+  "Time": "2026-09-14T11:42:22.9147562Z",
+  "Players": [
+    {
+      "Name": "meow",
+      "Steam": "76561198785976863",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "minion",
+      "Steam": "76561198119165697",
+      "Score": 4,
+      "Time": "07:43"
+    },
+    {
+      "Name": "kezo",
+      "Steam": "76561199814800229",
+      "Score": 5,
+      "Time": "??:??"
+    },
+    {
+      "Name": "alonelywolf",
+      "Steam": "76561198705303387",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gam Infantrit",
+      "Steam": "76561199827876555",
+      "Score": 4,
+      "Time": "??:??"
+    },
+    {
+      "Name": "pula mare",
+      "Steam": "76561198646345059",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
