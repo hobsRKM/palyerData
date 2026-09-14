@@ -1,22 +1,16 @@
 {
-  "Time": "2026-09-14T15:40:18.8255058Z",
+  "Time": "2026-09-14T15:42:18.8262302Z",
   "Players": [
     {
       "Name": "Hitler's Clone",
       "Steam": "76561198650963518",
-      "Score": 4,
-      "Time": "??:??"
-    },
-    {
-      "Name": "(Skeet Paste) EnglishBurger",
-      "Steam": "76561198645272470",
-      "Score": 2,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "Exodin",
       "Steam": "76561198678550409",
-      "Score": 20,
+      "Score": 32,
       "Time": "??:??"
     },
     {
@@ -24,6 +18,12 @@
       "Steam": "76561198644300119",
       "Score": 6,
       "Time": "??:??"
+    },
+    {
+      "Name": "boring",
+      "Steam": "76561198733715457",
+      "Score": 2,
+      "Time": "01:45"
     }
   ]
 }
