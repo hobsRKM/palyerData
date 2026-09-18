@@ -1,4 +1,35 @@
 {
-  "Time": "2026-09-18T13:12:27.578394Z",
-  "Players": []
+  "Time": "2026-09-18T13:12:34.13675Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "god theory",
+      "Steam": "76561198644598406",
+      "Score": 18,
+      "Time": "03:30"
+    },
+    {
+      "Name": "tg:nevermissserver",
+      "Steam": "76561199702837666",
+      "Score": 33,
+      "Time": "??:??"
+    },
+    {
+      "Name": "okt #claudeware",
+      "Steam": "76561198741334695",
+      "Score": 28,
+      "Time": "37:40"
+    },
+    {
+      "Name": "x7qlz",
+      "Steam": "76561199772605158",
+      "Score": 37,
+      "Time": "??:??"
+    }
+  ]
 }
