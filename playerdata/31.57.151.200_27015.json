@@ -1,4 +1,23 @@
 {
-  "Time": "2026-09-18T23:12:21.0030654Z",
-  "Players": []
+  "Time": "2026-09-18T23:12:27.5681047Z",
+  "Players": [
+    {
+      "Name": "testing Deftones",
+      "Steam": "76561198637623379",
+      "Score": 4,
+      "Time": "02:26"
+    },
+    {
+      "Name": "Deftones",
+      "Steam": "76561198640637188",
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "partasen poju",
+      "Steam": "76561198639011083",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
