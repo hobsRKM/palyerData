@@ -1,6 +1,12 @@
 {
-  "Time": "2026-09-18T21:16:20.3737194Z",
+  "Time": "2026-09-18T21:18:20.3740967Z",
   "Players": [
+    {
+      "Name": "nonagon owns you.",
+      "Steam": "76561198641176808",
+      "Score": 2,
+      "Time": "01:13"
+    },
     {
       "Name": "Grils_party",
       "Steam": "76561198641912923",
@@ -8,16 +14,22 @@
       "Time": "??:??"
     },
     {
+      "Name": "feel the air flow",
+      "Steam": "76561199541078231",
+      "Score": 0,
+      "Time": "00:26"
+    },
+    {
       "Name": "h.a.rryb.ro.o.k.s17.34",
       "Steam": "76561198644504848",
-      "Score": 6,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "sm.d.n.gms.b.f.d.n.dn.gn",
       "Steam": "76561198640790934",
-      "Score": 34,
-      "Time": "33:57"
+      "Score": 8,
+      "Time": "35:57"
     }
   ]
 }
