@@ -1,10 +1,16 @@
 {
-  "Time": "2026-09-18T17:14:20.3779044Z",
+  "Time": "2026-09-18T17:16:20.372544Z",
   "Players": [
     {
       "Name": "missmatched",
       "Steam": "76561198658545307",
-      "Score": 0,
+      "Score": 2,
+      "Time": "??:??"
+    },
+    {
+      "Name": "[OG] namespace Autowall",
+      "Steam": "76561198726977481",
+      "Score": 6,
       "Time": "??:??"
     }
   ]
