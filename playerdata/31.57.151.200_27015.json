@@ -1,4 +1,23 @@
 {
-  "Time": "2026-09-18T12:52:27.5782966Z",
-  "Players": []
+  "Time": "2026-09-18T12:52:34.1289432Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "tg:nevermissserver",
+      "Steam": "76561199702837666",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "okt #claudeware",
+      "Steam": "76561198741334695",
+      "Score": 24,
+      "Time": "17:40"
+    }
+  ]
 }
