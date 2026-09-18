@@ -1,17 +1,23 @@
 {
-  "Time": "2026-09-18T21:14:20.3793942Z",
+  "Time": "2026-09-18T21:16:20.3737194Z",
   "Players": [
+    {
+      "Name": "Grils_party",
+      "Steam": "76561198641912923",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "h.a.rryb.ro.o.k.s17.34",
       "Steam": "76561198644504848",
-      "Score": 4,
+      "Score": 6,
       "Time": "??:??"
     },
     {
       "Name": "sm.d.n.gms.b.f.d.n.dn.gn",
       "Steam": "76561198640790934",
-      "Score": 26,
-      "Time": "31:57"
+      "Score": 34,
+      "Time": "33:57"
     }
   ]
 }
