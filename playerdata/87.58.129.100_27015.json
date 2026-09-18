@@ -1,6 +1,12 @@
 {
-  "Time": "2026-09-18T20:58:20.378711Z",
+  "Time": "2026-09-18T21:00:20.3650827Z",
   "Players": [
+    {
+      "Name": "Nonki",
+      "Steam": "76561199534989014",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "janos_inside_thanos",
       "Steam": "76561198648770818",
@@ -10,14 +16,14 @@
     {
       "Name": "h.a.rryb.ro.o.k.s17.34",
       "Steam": "76561198644504848",
-      "Score": 1,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "sm.d.n.gms.b.f.d.n.dn.gn",
       "Steam": "76561198640790934",
-      "Score": 34,
-      "Time": "15:57"
+      "Score": 0,
+      "Time": "17:57"
     }
   ]
 }
