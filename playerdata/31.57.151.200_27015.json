@@ -1,4 +1,29 @@
 {
-  "Time": "2026-09-18T12:32:27.5783452Z",
-  "Players": []
+  "Time": "2026-09-18T12:32:34.1331002Z",
+  "Players": [
+    {
+      "Name": "Nim",
+      "Steam": "76561199647822907",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fatality.win",
+      "Steam": "76561199822631099",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "OlleJorch",
+      "Steam": "76561199640811602",
+      "Score": 5,
+      "Time": "04:57"
+    },
+    {
+      "Name": "party addict",
+      "Steam": "76561198658065185",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
