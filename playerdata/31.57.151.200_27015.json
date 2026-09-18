@@ -1,4 +1,23 @@
 {
-  "Time": "2026-09-18T23:10:21.0030306Z",
-  "Players": []
+  "Time": "2026-09-18T23:10:27.5798182Z",
+  "Players": [
+    {
+      "Name": "testing Deftones",
+      "Steam": "76561198637623379",
+      "Score": 0,
+      "Time": "00:26"
+    },
+    {
+      "Name": "Deftones",
+      "Steam": "76561198640637188",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "cs2commends.com",
+      "Steam": "76561198056881150",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
