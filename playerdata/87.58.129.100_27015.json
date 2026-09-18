@@ -1,16 +1,28 @@
 {
-  "Time": "2026-09-18T20:00:20.3707384Z",
+  "Time": "2026-09-18T20:02:20.3785045Z",
   "Players": [
+    {
+      "Name": "nonagon owns you.",
+      "Steam": "76561198641176808",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Seia Blue Archive",
+      "Steam": "76561198638464720",
+      "Score": 1,
+      "Time": "01:49"
+    },
     {
       "Name": "[velo] tung tung w",
       "Steam": "76561198681516370",
-      "Score": 4,
+      "Score": 18,
       "Time": "??:??"
     },
     {
       "Name": "FATALITY",
       "Steam": "76561199822631099",
-      "Score": 4,
+      "Score": 8,
       "Time": "??:??"
     }
   ]
