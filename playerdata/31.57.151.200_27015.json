@@ -1,4 +1,41 @@
 {
-  "Time": "2026-09-19T10:18:24.2535553Z",
-  "Players": []
+  "Time": "2026-09-19T10:19:22.735794Z",
+  "Players": [
+    {
+      "Name": "Unicorn",
+      "Steam": "76561199109946506",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "FATALITY",
+      "Steam": "76561199822631099",
+      "Score": 11,
+      "Time": "15:30"
+    },
+    {
+      "Name": "nowhere",
+      "Steam": "76561198653286274",
+      "Score": 12,
+      "Time": "??:??"
+    },
+    {
+      "Name": "gangstillthere",
+      "Steam": "76561198640285640",
+      "Score": 44,
+      "Time": "??:??"
+    },
+    {
+      "Name": "juyix",
+      "Steam": "76561198641572065",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "fladix42",
+      "Steam": "76561198640782414",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
