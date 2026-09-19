@@ -1,4 +1,35 @@
 {
-  "Time": "2026-09-19T02:38:21.0135044Z",
-  "Players": []
+  "Time": "2026-09-19T02:38:27.5769215Z",
+  "Players": [
+    {
+      "Name": "Celena",
+      "Steam": "76561198819683930",
+      "Score": 53,
+      "Time": "34:00"
+    },
+    {
+      "Name": "Waze",
+      "Steam": "76561198679158022",
+      "Score": 57,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Funkle",
+      "Steam": "76561198715864311",
+      "Score": 18,
+      "Time": "??:??"
+    },
+    {
+      "Name": "BLUECACTUS94",
+      "Steam": "76561198026201650",
+      "Score": 33,
+      "Time": "33:57"
+    },
+    {
+      "Name": "Big Dih Donny Dough",
+      "Steam": "76561198638155637",
+      "Score": 111,
+      "Time": "??:??"
+    }
+  ]
 }
