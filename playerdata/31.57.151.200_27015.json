@@ -1,4 +1,47 @@
 {
-  "Time": "2026-09-19T02:48:21.0134181Z",
-  "Players": []
+  "Time": "2026-09-19T02:48:27.5730103Z",
+  "Players": [
+    {
+      "Name": "Celena",
+      "Steam": "76561198819683930",
+      "Score": 65,
+      "Time": "44:00"
+    },
+    {
+      "Name": "Waze",
+      "Steam": "76561198679158022",
+      "Score": 77,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Funkle",
+      "Steam": "76561198715864311",
+      "Score": 31,
+      "Time": "??:??"
+    },
+    {
+      "Name": "luh_geeked.fr",
+      "Steam": "76561198780060093",
+      "Score": 5,
+      "Time": "02:47"
+    },
+    {
+      "Name": "BLUECACTUS94",
+      "Steam": "76561198026201650",
+      "Score": 41,
+      "Time": "43:57"
+    },
+    {
+      "Name": "spectral     19939339",
+      "Steam": "76561198645672254",
+      "Score": 2,
+      "Time": "03:38"
+    },
+    {
+      "Name": "Big Dih Donny Dough",
+      "Steam": "76561198638155637",
+      "Score": 150,
+      "Time": "??:??"
+    }
+  ]
 }
