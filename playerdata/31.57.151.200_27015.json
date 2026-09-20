@@ -1,4 +1,35 @@
 {
-  "Time": "2026-09-20T12:20:23.2469651Z",
-  "Players": []
+  "Time": "2026-09-20T12:21:43.2728385Z",
+  "Players": [
+    {
+      "Name": "alonelywolf",
+      "Steam": "76561199800819234",
+      "Score": 1,
+      "Time": "02:45"
+    },
+    {
+      "Name": "koby bryant",
+      "Steam": "76561198756270440",
+      "Score": 2,
+      "Time": "01:29"
+    },
+    {
+      "Name": "keila",
+      "Steam": "76561199228981979",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "xxx",
+      "Steam": "76561198662105662",
+      "Score": 6,
+      "Time": "??:??"
+    },
+    {
+      "Name": "regeneration",
+      "Steam": "76561198740840890",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
