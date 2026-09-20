@@ -1,16 +1,28 @@
 {
-  "Time": "2026-09-20T15:11:15.8117642Z",
+  "Time": "2026-09-20T15:13:15.8173993Z",
   "Players": [
+    {
+      "Name": "[EZ-PEEK]Nørth",
+      "Steam": "76561199365419644",
+      "Score": 0,
+      "Time": "??:??"
+    },
     {
       "Name": "enigma user",
       "Steam": "76561198642690971",
-      "Score": 25,
+      "Score": 0,
       "Time": "??:??"
     },
     {
       "Name": "CyberAssassin",
       "Steam": "76561198085818918",
-      "Score": 14,
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "N0xis",
+      "Steam": "76561198309870593",
+      "Score": 0,
       "Time": "??:??"
     }
   ]
