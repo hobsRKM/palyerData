@@ -1,4 +1,35 @@
 {
-  "Time": "2026-10-11T21:15:02.7221063Z",
-  "Players": []
+  "Time": "2026-10-11T21:15:50.7402885Z",
+  "Players": [
+    {
+      "Name": "74.9k | kobe bryant",
+      "Steam": "76561198756270440",
+      "Score": 34,
+      "Time": "29:45"
+    },
+    {
+      "Name": "73.4k | kevo",
+      "Steam": "76561199848425703",
+      "Score": 81,
+      "Time": "27:11"
+    },
+    {
+      "Name": "23.2k | DailyLarp",
+      "Steam": "76561198756017072",
+      "Score": 47,
+      "Time": "??:??"
+    },
+    {
+      "Name": "7.5k | pepsi",
+      "Steam": "76561198623795991",
+      "Score": 14,
+      "Time": "03:04"
+    },
+    {
+      "Name": "95.2k | [OG] namespace Autowall",
+      "Steam": "76561198726977481",
+      "Score": 71,
+      "Time": "19:17"
+    }
+  ]
 }
