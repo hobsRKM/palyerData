@@ -1,4 +1,35 @@
 {
-  "Time": "2026-10-13T12:15:30.3630465Z",
-  "Players": []
+  "Time": "2026-10-13T12:15:50.399237Z",
+  "Players": [
+    {
+      "Name": "74.7k | kevo",
+      "Steam": "76561199848425703",
+      "Score": 21,
+      "Time": "06:43"
+    },
+    {
+      "Name": "15.5k | txedxp",
+      "Steam": "76561198670171615",
+      "Score": 27,
+      "Time": "10:58"
+    },
+    {
+      "Name": "34.5k | GleichMitte",
+      "Steam": "76561199874590058",
+      "Score": 10,
+      "Time": "??:??"
+    },
+    {
+      "Name": "13.6k | joji",
+      "Steam": "76561199814294114",
+      "Score": 0,
+      "Time": "??:??"
+    },
+    {
+      "Name": "10.6k | engineer without a degree",
+      "Steam": "76561199054498258",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
