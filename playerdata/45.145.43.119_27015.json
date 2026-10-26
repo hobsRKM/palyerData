@@ -1,4 +1,23 @@
 {
-  "Time": "2026-10-26T19:07:22.8059267Z",
-  "Players": []
+  "Time": "2026-10-26T19:07:26.9800925Z",
+  "Players": [
+    {
+      "Name": "Burger King",
+      "Steam": "76561198634782132",
+      "Score": 6,
+      "Time": "16:00"
+    },
+    {
+      "Name": "CrackTap Enigma HVH",
+      "Steam": "76561198782236676",
+      "Score": 16,
+      "Time": "??:??"
+    },
+    {
+      "Name": "Crack | CRACKTAP.WIN",
+      "Steam": "76561198630768844",
+      "Score": 2,
+      "Time": "??:??"
+    }
+  ]
 }
