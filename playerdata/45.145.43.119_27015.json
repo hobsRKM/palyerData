@@ -1,4 +1,23 @@
 {
-  "Time": "2026-10-28T05:50:07.9443294Z",
-  "Players": []
+  "Time": "2026-10-28T05:50:12.0707627Z",
+  "Players": [
+    {
+      "Name": "0 | <span class='decorated-player-name__controller-name'>Janusz Flaszka</span>",
+      "Steam": "76561199892365696",
+      "Score": 14,
+      "Time": "??:??"
+    },
+    {
+      "Name": "54.7k | Panda",
+      "Steam": "76561198453141846",
+      "Score": 50,
+      "Time": "??:??"
+    },
+    {
+      "Name": "3.0k | Bulega",
+      "Steam": "76561198078082027",
+      "Score": 0,
+      "Time": "??:??"
+    }
+  ]
 }
